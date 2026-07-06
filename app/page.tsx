@@ -35,6 +35,10 @@ export default function Home() {
           <button className="rounded-xl border border-red-600 px-8 py-3 font-semibold text-red-500 hover:bg-red-600 hover:text-white">
             查看卡组
           </button>
+
+          <button className="rounded-xl border border-red-600 px-8 py-3 font-semibold text-red-500 hover:bg-red-600 hover:text-white">
+            查看T表
+          </button>
         </div>
       </section>
     </main>
