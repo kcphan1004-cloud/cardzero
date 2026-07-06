@@ -33,6 +33,7 @@ export default function Home() {
         <p className="mt-8 max-w-2xl text-lg text-gray-300 leading-8">
           卡零社 CardZero 专注于卡牌资讯、卡组分析、新卡翻译、赛事环境与影片内容，
           打造属于华语玩家的 TCG 交流平台。
+          Dennis是大老板
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4">
