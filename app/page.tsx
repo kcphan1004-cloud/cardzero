@@ -14,12 +14,12 @@ export default function Home() {
         </div>
       </nav>
 
-      <section className="flex min-h-[80vh] flex-col items-center justify-center text-center px-6">
-        <p className="mb-4 text-red-500 tracking-[0.4em] uppercase">
+      <section className="min-h-[80vh] flex flex-col items-center justify-center text-center px-6">
+        <p className="text-red-500 tracking-[0.4em] uppercase mb-4">
           CardZero TCG Platform
         </p>
 
-        <h1 className="text-6xl font-bold text-white">
+        <h1 className="text-6xl font-bold">
           Every Card Matters
         </h1>
 
