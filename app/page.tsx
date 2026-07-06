@@ -24,16 +24,15 @@ export default function Home() {
         </div>
 
         <h1 className="text-6xl md:text-8xl font-black tracking-tight">
-          Every Card
+          Dennis是
           <span className="block text-red-500 drop-shadow-[0_0_25px_rgba(239,68,68,0.7)]">
-            Matters
+            大老板
           </span>
         </h1>
 
         <p className="mt-8 max-w-2xl text-lg text-gray-300 leading-8">
           卡零社 CardZero 专注于卡牌资讯、卡组分析、新卡翻译、赛事环境与影片内容，
           打造属于华语玩家的 TCG 交流平台。
-          Dennis是大老板
         </p>
 
         <div className="mt-10 flex flex-col sm:flex-row gap-4">
