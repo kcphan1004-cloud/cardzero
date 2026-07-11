@@ -1,0 +1,22 @@
+New-Item -ItemType Directory -Force public\cards | Out-Null
+
+$i = 1
+
+Get-Content .\urls.txt |
+Where-Object { $_ -match "^https?://" } |
+ForEach-Object {
+  $url = $_
+  $extension = [System.IO.Path]::GetExtension(([uri]$url).AbsolutePath)
+
+  if ([string]::IsNullOrWhiteSpace($extension)) {
+    $extension = ".jpg"
+  }
+
+  $filename = "card-{0:D4}{1}" -f $i, $extension
+
+  Invoke-WebRequest `
+    -Uri $url `
+    -OutFile "public\cards\$filename"
+
+  $i++
+}
