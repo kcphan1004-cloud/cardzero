@@ -1,4 +1,8 @@
-import type { Metadata } from "next";
+import type { Metadata } from export const metadata = {
+  title: "卡零社 CardZero｜华语 TCG 内容平台",
+  description:
+    "卡零社 CardZero 分享 Union Arena 卡牌资讯、卡组分析、赛事活动与影片内容。",
+};
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 
