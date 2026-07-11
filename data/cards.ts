@@ -15,20 +15,6 @@ export type Card = {
 
 export const cards: Card[] = [
   {
-    "id": "tit_cardlist-svg",
-    "number": "tit_cardlist.svg",
-    "name": "カードリスト",
-    "series": "无职转生",
-    "color": "未分类",
-    "type": "资料待补",
-    "rarity": "-",
-    "cost": 0,
-    "ap": 0,
-    "bp": 0,
-    "effect": "卡牌资料整理中。",
-    "image": "/cards/tit_cardlist.svg"
-  },
-  {
     "id": "ua54bt_mst-1-001",
     "number": "UA54BT_MST-1-001",
     "name": "MST-1-001-エリス",
@@ -1707,47 +1693,5 @@ export const cards: Card[] = [
     "bp": 0,
     "effect": "卡牌资料整理中。",
     "image": "/cards/UA54BT_MST-1-AP12.png"
-  },
-  {
-    "id": "uapr_mst-1-030",
-    "number": "UAPR_MST-1-030",
-    "name": "MST-1-030-ロキシー",
-    "series": "无职转生",
-    "color": "未分类",
-    "type": "资料待补",
-    "rarity": "-",
-    "cost": 0,
-    "ap": 0,
-    "bp": 0,
-    "effect": "卡牌资料整理中。",
-    "image": "/cards/UAPR_MST-1-030.png"
-  },
-  {
-    "id": "uapr_mst-1-055",
-    "number": "UAPR_MST-1-055",
-    "name": "MST-1-055-アリエル",
-    "series": "无职转生",
-    "color": "未分类",
-    "type": "资料待补",
-    "rarity": "-",
-    "cost": 0,
-    "ap": 0,
-    "bp": 0,
-    "effect": "卡牌资料整理中。",
-    "image": "/cards/UAPR_MST-1-055.png"
-  },
-  {
-    "id": "adsct",
-    "number": "adsct",
-    "name": "0144",
-    "series": "无职转生",
-    "color": "未分类",
-    "type": "资料待补",
-    "rarity": "-",
-    "cost": 0,
-    "ap": 0,
-    "bp": 0,
-    "effect": "卡牌资料整理中。",
-    "image": "/cards/adsct"
   }
 ];

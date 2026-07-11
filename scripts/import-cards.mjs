@@ -134,6 +134,15 @@ async function main() {
     const rawImageFileName = decodeURIComponent(
       path.basename(parsedUrl.pathname),
     );
+    if (!/\.(png|jpg|jpeg|webp)$/i.test(rawImageFileName)) {
+  console.log(`跳过非卡牌图片：${rawImageFileName}`);
+  continue;
+}
+
+if (!/^UA\d+BT_/i.test(rawImageFileName)) {
+  console.log(`跳过非卡牌文件：${rawImageFileName}`);
+  continue;
+}
 
     const imageFileName = sanitizeFileName(
       rawImageFileName || `card-${index + 1}.png`,
