@@ -5,7 +5,7 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white">
       <section className="relative min-h-[85vh] overflow-hidden">
         <img
-          src="/banner/home-banner.jpg"
+          src="/banner/home-banner.jpeg"
           alt="卡零社首页 Banner"
           className="absolute inset-0 h-full w-full object-cover"
         />
