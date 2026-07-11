@@ -21,15 +21,9 @@ export default function Home() {
 
         <div className="relative z-10 mx-auto flex min-h-[85vh] max-w-7xl items-center px-6 py-20">
           <div className="max-w-3xl">
-            {/* CardZero Logo */}
-            <Image
-              src="/logo/cardzero_logo.jpg"
-              alt="卡零社 CardZero Logo"
-              width={240}
-              height={240}
-              priority
-              className="h-44 w-44 rounded-full object-cover shadow-2xl md:h-56 md:w-56"
-            />
+
+    
+          
 
             <p className="mt-7 text-sm font-bold tracking-[0.4em] text-red-500">
               EVERY CARD MATTERS
