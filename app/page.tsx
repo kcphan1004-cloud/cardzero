@@ -4,11 +4,14 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <section className="relative min-h-[85vh] overflow-hidden">
-        <img
-          src="/banner/home-banner.jpeg"
-          alt="卡零社首页 Banner"
-          className="absolute inset-0 h-full w-full object-cover"
-        />
+        <Image
+  src="/banner/homebanner.jpeg"
+  alt="卡零社首页 Banner"
+  fill
+  priority
+  sizes="100vw"
+  className="object-cover object-center"
+/>
 
         <div className="absolute inset-0 bg-black/55" />
         <div className="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent" />

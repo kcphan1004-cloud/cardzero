@@ -16,13 +16,14 @@ export default function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-5 py-3">
         <Link href="/" className="flex items-center gap-3">
           <Image
-            src="/cardzero_logo/cardzero_logo.jpg"
-            alt="卡零社 CardZero Logo"
-            width={64}
-            height={64}
+            src="/cardzero_logo.jpg"
+            alt="卡零社 CardZero"
+            width={150}
+            height={74}
             priority
-            className="h-14 w-14 rounded-full object-cover"
+            className="h-14 w-auto object-contain"
           />
+</Link>
 
           <div>
             <p className="text-xl font-black">
