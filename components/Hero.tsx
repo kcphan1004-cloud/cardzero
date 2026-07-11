@@ -4,9 +4,8 @@ import Link from "next/link";
 export default function Hero() {
   return (
     <section className="relative flex min-h-[85vh] items-center overflow-hidden">
-      {/* Banner 背景 */}
       <Image
-        src="/banner/homebanner.jpg"
+        src="/banner/homebanner.jpeg"
         alt="卡零社首页 Banner"
         fill
         priority
@@ -14,13 +13,12 @@ export default function Hero() {
         className="object-cover object-center"
       />
 
-      {/* 背景遮罩 */}
-      <div className="absolute inset-0 bg-black/25" />
-      <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/25 to-transparent" />
+      {/* 右侧文字遮罩 */}
+      <div className="absolute inset-0 bg-black/20" />
+      <div className="absolute inset-0 bg-gradient-to-l from-black/90 via-black/40 to-transparent" />
 
-      {/* Banner 文字内容 */}
-      <div className="relative z-10 mx-auto w-full max-w-7xl px-6 py-24">
-        <div className="max-w-3xl">
+      <div className="relative z-10 mx-auto flex w-full max-w-7xl justify-center px-6 py-24 md:justify-end">
+        <div className="max-w-2xl text-center md:ml-auto md:text-right">
           <p className="text-sm font-bold tracking-[0.4em] text-red-500">
             EVERY CARD MATTERS
           </p>
@@ -33,11 +31,11 @@ export default function Hero() {
             </span>
           </h1>
 
-          <p className="mt-6 max-w-2xl text-lg leading-8 text-gray-200">
+          <p className="mt-6 text-lg leading-8 text-gray-200">
             浏览卡牌资料、线上组牌、查看 T 表、投稿内容并分享你的牌组。
           </p>
 
-          <div className="mt-9 flex flex-wrap gap-4">
+          <div className="mt-9 flex flex-wrap justify-center gap-4 md:justify-end">
             <Link
               href="/cards"
               className="rounded-lg bg-red-700 px-8 py-4 font-bold transition hover:bg-red-600"
