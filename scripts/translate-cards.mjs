@@ -47,12 +47,15 @@ function sleep(milliseconds) {
 }
 
 async function readCards() {
-  const raw = await fs.readFile(cardsPath, "utf8");
+  const raw = (
+    await fs.readFile(cardsPath, "utf8")
+  ).replace(/^\uFEFF/, "");
 
   const exportMarker =
     "export const cards: Card[] =";
 
-  const exportPosition = raw.indexOf(exportMarker);
+  const exportPosition =
+    raw.indexOf(exportMarker);
 
   if (exportPosition === -1) {
     throw new Error(
@@ -60,14 +63,20 @@ async function readCards() {
     );
   }
 
+  // 必须从 exportMarker 后面开始找，
+  // 避免抓到 Card[] 类型里面的 [
   const arrayStart = raw.indexOf(
     "[",
-    exportPosition,
+    exportPosition + exportMarker.length,
   );
 
   const arrayEnd = raw.lastIndexOf("];");
 
-  if (arrayStart === -1 || arrayEnd === -1) {
+  if (
+    arrayStart === -1 ||
+    arrayEnd === -1 ||
+    arrayEnd < arrayStart
+  ) {
     throw new Error(
       "data/cards.ts 的资料格式无法读取。",
     );
