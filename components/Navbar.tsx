@@ -8,7 +8,7 @@ const navigation = [
   { name: "T表", href: "/tier-list" },
   { name: "投稿专区", href: "/submit" },
   { name: "牌组分享", href: "/decks" },
-  { name: "视频专区", href: "/videos" },
+  { name: "视频专区", href: "https://www.youtube.com/@CardZero_%E5%8D%A1%E9%9B%B6%E7%A4%BE" },
 ];
 
 export default function Navbar() {
@@ -29,12 +29,14 @@ export default function Navbar() {
         <div className="hidden items-center gap-7 lg:flex">
           {navigation.map((item) => (
             <Link
-              key={item.href}
-              href={item.href}
-              className="text-sm font-semibold text-gray-300 transition hover:text-red-500"
-            >
-              {item.name}
-            </Link>
+  key={item.href}
+  href={item.href}
+  target={item.name === "视频专区" ? "_blank" : undefined}
+  rel={item.name === "视频专区" ? "noopener noreferrer" : undefined}
+  className="text-sm font-semibold text-gray-300 transition hover:text-red-500"
+>
+  {item.name}
+</Link>
           ))}
         </div>
 
