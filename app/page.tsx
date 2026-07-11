@@ -1,26 +1,33 @@
+import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <section className="relative min-h-[85vh] overflow-hidden">
+        {/* 首页 Banner */}
         <Image
-  src="/banner/homebanner.jpeg"
-  alt="卡零社首页 Banner"
-  fill
-  priority
-  sizes="100vw"
-  className="object-cover object-center"
-/>
+          src="/banner/homebanner.jpeg"
+          alt="卡零社首页 Banner"
+          fill
+          priority
+          sizes="100vw"
+          className="object-cover object-center"
+        />
 
-        <div className="absolute inset-0 bg-black/55" />
-        <div className="absolute inset-0 bg-gradient-to-r from-black via-black/60 to-transparent" />
+        {/* 遮罩：让文字清楚，但保留背景图 */}
+        <div className="absolute inset-0 bg-black/25" />
+        <div className="absolute inset-0 bg-gradient-to-r from-black/80 via-black/30 to-transparent" />
 
         <div className="relative z-10 mx-auto flex min-h-[85vh] max-w-7xl items-center px-6 py-20">
           <div className="max-w-3xl">
-            <img
+            {/* CardZero Logo */}
+            <Image
               src="/logo/cardzero_logo.jpg"
               alt="卡零社 CardZero Logo"
+              width={240}
+              height={240}
+              priority
               className="h-44 w-44 rounded-full object-cover shadow-2xl md:h-56 md:w-56"
             />
 
@@ -30,6 +37,7 @@ export default function Home() {
 
             <h1 className="mt-4 text-4xl font-black leading-tight md:text-6xl">
               卡零社 CardZero
+
               <span className="block text-red-500">
                 华语 Union Arena 平台
               </span>
