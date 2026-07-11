@@ -1,22 +1,125 @@
-New-Item -ItemType Directory -Force public\cards | Out-Null
-
-$i = 1
-
-Get-Content .\urls.txt |
-Where-Object { $_ -match "^https?://" } |
-ForEach-Object {
-  $url = $_
-  $extension = [System.IO.Path]::GetExtension(([uri]$url).AbsolutePath)
-
-  if ([string]::IsNullOrWhiteSpace($extension)) {
-    $extension = ".jpg"
-  }
-
-  $filename = "card-{0:D4}{1}" -f $i, $extension
-
-  Invoke-WebRequest `
-    -Uri $url `
-    -OutFile "public\cards\$filename"
-
-  $i++
-}
+カードリスト.jpg	https://www.unionarena-tcg.com/jp/images/common/headline/tit_cardlist.svg
+UA54BT-MST-1-001-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-001.png?v8
+UA54BT-MST-1-002-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-002.png?v8
+UA54BT-MST-1-002-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-002_p1.png?v8
+UA54BT-MST-1-003-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-003.png?v8
+UA54BT-MST-1-004-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-004.png?v8
+UA54BT-MST-1-005-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-005.png?v8
+UA54BT-MST-1-006-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-006.png?v8
+UA54BT-MST-1-007-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-007.png?v8
+UA54BT-MST-1-007-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-007_p1.png?v8
+UA54BT-MST-1-008-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-008.png?v8
+UA54BT-MST-1-008-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-008_p1.png?v8
+UA54BT-MST-1-009-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-009.png?v8
+UA54BT-MST-1-009-エリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-009_p1.png?v8
+UA54BT-MST-1-010-キシリカ・キシリス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-010.png?v8
+UA54BT-MST-1-011-ギレーヌ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-011.png?v8
+UA54BT-MST-1-012-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-012.png?v8
+UA54BT-MST-1-013-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-013.png?v8
+UA54BT-MST-1-014-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-014.png?v8
+UA54BT-MST-1-014-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-014_p1.png?v8
+UA54BT-MST-1-015-聖獣.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-015.png?v8
+UA54BT-MST-1-016-ゼニス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-016.png?v8
+UA54BT-MST-1-017-ノルン＆アイシャ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-017.png?v8
+UA54BT-MST-1-018-パウロ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-018.png?v8
+UA54BT-MST-1-019-リーリャ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-019.png?v8
+UA54BT-MST-1-020-ルイジェルド.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-020.png?v8
+UA54BT-MST-1-021-ルイジェルド.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-021.png?v8
+UA54BT-MST-1-022-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-022.png?v8
+UA54BT-MST-1-023-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-023.png?v8
+UA54BT-MST-1-024-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-024.png?v8
+UA54BT-MST-1-025-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-025.png?v8
+UA54BT-MST-1-026-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-026.png?v8
+UA54BT-MST-1-026-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-026_p1.png?v8
+UA54BT-MST-1-027-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-027.png?v8
+UA54BT-MST-1-028-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-028.png?v8
+UA54BT-MST-1-029-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-029.png?v8
+UA54BT-MST-1-030-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-030.png?v8
+UA54BT-MST-1-031-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-031.png?v8
+UA54BT-MST-1-031-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-031_p1.png?v8
+UA54BT-MST-1-032-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-032.png?v8
+UA54BT-MST-1-032-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-032_p1.png?v8
+UA54BT-MST-1-033-デッドエンド.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-033.png?v8
+UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-034.png?v8
+UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-034_p1.png?v8
+UA54BT-MST-1-035-お前は戦士だ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-035.png?v8
+UA54BT-MST-1-036-豪雷積層雲.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-036.png?v8
+UA54BT-MST-1-036-豪雷積層雲.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-036_p1.png?v8
+UA54BT-MST-1-037-ご神体.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-037.png?v8
+UA54BT-MST-1-038-師匠からのおくりもの.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-038.png?v8
+UA54BT-MST-1-039-ルーデウスはすごいのよ！.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-039.png?v8
+UA54BT-MST-1-040-私がついていますから.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-040.png?v8
+UA54BT-MST-1-041-アイシャ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-041.png?v8
+UA54BT-MST-1-041-アイシャ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-041_p1.png?v8
+UA54BT-MST-1-042-エリナリーゼ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-042.png?v8
+UA54BT-MST-1-043-ギース.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-043.png?v8
+UA54BT-MST-1-044-サラ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-044.png?v8
+UA54BT-MST-1-045-ゼニス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-045.png?v8
+UA54BT-MST-1-046-タルハンド.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-046.png?v8
+UA54BT-MST-1-047-パウロ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-047.png?v8
+UA54BT-MST-1-048-パウロ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-048.png?v8
+UA54BT-MST-1-049-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-049.png?v8
+UA54BT-MST-1-049-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-049_p1.png?v8
+UA54BT-MST-1-050-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-050.png?v8
+UA54BT-MST-1-051-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-051.png?v8
+UA54BT-MST-1-052-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-052.png?v8
+UA54BT-MST-1-052-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-052_p1.png?v8
+UA54BT-MST-1-053-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-053.png?v8
+UA54BT-MST-1-053-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-053_p1.png?v8
+UA54BT-MST-1-054-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054.png?v8
+UA54BT-MST-1-054-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054_p1.png?v8
+UA54BT-MST-1-054-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054_p2.png?v8
+UA54BT-MST-1-055-アリエル.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-055.png?v8
+UA54BT-MST-1-056-エリナリーゼ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-056.png?v8
+UA54BT-MST-1-057-クリフ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-057.png?v8
+UA54BT-MST-1-058-ザノバ＆ジュリエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-058.png?v8
+UA54BT-MST-1-059-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-059.png?v8
+UA54BT-MST-1-059-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-059_p1.png?v8
+UA54BT-MST-1-060-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060.png?v8
+UA54BT-MST-1-060-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060_p1.png?v8
+UA54BT-MST-1-060-シルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060_p2.png?v8
+UA54BT-MST-1-061-ナナホシ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-061.png?v8
+UA54BT-MST-1-061-ナナホシ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-061_p1.png?v8
+UA54BT-MST-1-062-ナナホシ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-062.png?v8
+UA54BT-MST-1-062-ナナホシ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-062_p1.png?v8
+UA54BT-MST-1-063-ノルン.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-063.png?v8
+UA54BT-MST-1-064-バーディガーディ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-064.png?v8
+UA54BT-MST-1-065-フィッツ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-065.png?v8
+UA54BT-MST-1-066-フィッツ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-066.png?v8
+UA54BT-MST-1-067-フィッツ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-067.png?v8
+UA54BT-MST-1-068-フィッツ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-068.png?v8
+UA54BT-MST-1-068-フィッツ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-068_p1.png?v8
+UA54BT-MST-1-069-プルセナ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-069.png?v8
+UA54BT-MST-1-069-プルセナ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-069_p1.png?v8
+UA54BT-MST-1-070-リニアーナ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-070.png?v8
+UA54BT-MST-1-070-リニアーナ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-070_p1.png?v8
+UA54BT-MST-1-071-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-071.png?v8
+UA54BT-MST-1-072-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-072.png?v8
+UA54BT-MST-1-073-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-073.png?v8
+UA54BT-MST-1-073-ルーデウス.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-073_p1.png?v8
+UA54BT-MST-1-074-転移の迷宮.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-074.png?v8
+UA54BT-MST-1-075-迷宮都市ラパン.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-075.png?v8
+UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-076.png?v8
+UA54BT-MST-1-077-今までありがとう.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-077.png?v8
+UA54BT-MST-1-077-今までありがとう.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-077_p1.png?v8
+UA54BT-MST-1-078-守護術師フィッツ.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-078.png?v8
+UA54BT-MST-1-079-ゼニス救出作戦.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-079.png?v8
+UA54BT-MST-1-080-そう、ボクはシルフィエット.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-080.png?v8
+UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP01.png?v8
+UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP01_p1.png?v8
+UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP02.png?v8
+UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP02_p1.png?v8
+UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP03.png?v8
+UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP04.png?v8
+UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP05.png?v8
+UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP06.png?v8
+UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP07.png?v8
+UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP08.png?v8
+UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP09.png?v8
+UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP10.png?v8
+UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP11.png?v8
+UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～).png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP12.png?v8
+UAPR-MST-1-030-ロキシー.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MST-1-030.png?v8
+UAPR-MST-1-055-アリエル.png	https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MST-1-055.png?v8
+card-0144.jpg	https://t.co/1/i/adsct?bci=4&dv=Asia%2FKuala_Lumpur%26en-GB%2Cen%2Cen-US%2Czh-CN%2Czh%26Google%20Inc.%26Win32%26255%261389%26868%2620%2624%261389%26829%260%26na&eci=3&event=%7B%7D&event_id=2acda6d0-36ab-4828-aa0f-ac56b8fe1f16&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=53797170-e40c-4c1b-a766-9ad5298d822f&pt=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%EF%BD%9C%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%EF%BD%9CUNION%20ARENA&tw_document_href=https%3A%2F%2Fwww.unionarena-tcg.com%2Fjp%2Fcardlist%2Findex.php%3Fsearch%3Dtrue&tw_iframe_status=0&tw_pid_src=2&twpid=tw.1775740797057.947370920129573724&txn_id=oqwcj&type=javascript&version=2.3.53
+card-0145.jpg	https://analytics.twitter.com/1/i/adsct?bci=4&dv=Asia%2FKuala_Lumpur%26en-GB%2Cen%2Cen-US%2Czh-CN%2Czh%26Google%20Inc.%26Win32%26255%261389%26868%2620%2624%261389%26829%260%26na&eci=3&event=%7B%7D&event_id=2acda6d0-36ab-4828-aa0f-ac56b8fe1f16&integration=gtm&p_id=Twitter&p_user_id=0&pl_id=53797170-e40c-4c1b-a766-9ad5298d822f&pt=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88%EF%BD%9C%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%EF%BD%9CUNION%20ARENA&tw_document_href=https%3A%2F%2Fwww.unionarena-tcg.com%2Fjp%2Fcardlist%2Findex.php%3Fsearch%3Dtrue&tw_iframe_status=0&tw_pid_src=2&twpid=tw.1775740797057.947370920129573724&txn_id=oqwcj&type=javascript&version=2.3.53
