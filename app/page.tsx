@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Hero from "../Components/Hero";
 
 const news = [
   { tag: "新闻", title: "UNION ARENA TCG 最新扩展包情报公开！", date: "2026-07-09" },
@@ -144,6 +145,10 @@ export default function Home() {
           </div>
         </div>
       </footer>
-    </main>
+    <main className="min-h-screen bg-black text-white">
+  <Hero />
+
+  {/* 原本的其他首页内容 */}
+</main>
   );
 }
