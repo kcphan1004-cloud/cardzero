@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative flex min-h-[85vh] items-center overflow-hidden">
       <Image
-        src="/banner/homebanner.jpeg"
+        src="/banner/homebanner.jpg"
         alt="卡零社首页 Banner"
         fill
         priority
