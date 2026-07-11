@@ -26,7 +26,7 @@ const navigation: NavigationItem[] = [
   {
     name: "T表",
     // 换成你的 Tier List 网页网址
-    href: "https://example.com",
+    href: "https://behdeck.com/",
     external: true,
   },
   {
