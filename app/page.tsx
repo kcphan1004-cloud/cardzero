@@ -6,12 +6,14 @@ export default function Home() {
     <main className="min-h-screen bg-black text-white">
       <section className="relative min-h-[85vh] overflow-hidden">
         {/* 首页 Banner */}
-          <img
-  src="/banner/homebanner.jpeg"
+         <Image
+  src="/banner/homebanner.jpg"
   alt="卡零社首页 Banner"
-  className="absolute inset-0 h-full w-full object-cover object-center"
+  fill
+  priority
+  sizes="100vw"
+  className="object-cover object-center"
 />
-        />
 
         {/* 遮罩：让文字清楚，但保留背景图 */}
         <div className="absolute inset-0 bg-black/25" />
