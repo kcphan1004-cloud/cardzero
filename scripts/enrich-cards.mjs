@@ -4,24 +4,37 @@ import process from "node:process";
 import * as cheerio from "cheerio";
 
 const projectRoot = process.cwd();
+
+const tsvPath = path.join(
+  projectRoot,
+  "cards.tsv",
+);
+
+const outputPath = path.join(
+  projectRoot,
+  "data",
+  "cards.ts",
+);
+
+const backupPath = path.join(
+  projectRoot,
+  "data",
+  "cards.backup.ts",
+);
+
+const cachePath = path.join(
+  projectRoot,
+  "data",
+  "card-details-cache.json",
+);
+
 const translationsPath = path.join(
   projectRoot,
   "data",
   "card-translations.json",
 );
 
-const tsvPath = path.join(projectRoot, "cards.tsv");
-const outputPath = path.join(projectRoot, "data", "cards.ts");
-const backupPath = path.join(
-  projectRoot,
-  "data",
-  "cards.backup.ts",
-);
-const cachePath = path.join(
-  projectRoot,
-  "data",
-  "card-details-cache.json",
-);
+const REQUEST_DELAY = 350;
 
 const COLOR_MAP = {
   赤: "红色",
@@ -39,68 +52,106 @@ const TYPE_MAP = {
 };
 
 function sleep(milliseconds) {
-  return new Promise((resolve) =>
-    setTimeout(resolve, milliseconds),
-  );
+  return new Promise((resolve) => {
+    setTimeout(resolve, milliseconds);
+  });
+}
+
+function removeBom(text) {
+  return String(text).replace(/^\uFEFF/, "");
+}
+
+function normalizeText(value) {
+  return String(value ?? "")
+    .replace(/\u00a0/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function sanitizeFileName(fileName) {
-  return fileName
+  return String(fileName)
     .replace(/[\\/:*?"<>|]/g, "-")
     .replace(/\s+/g, "-")
     .trim();
 }
 
 function removeExtension(fileName) {
-  return fileName.replace(
+  return String(fileName).replace(
     /\.(png|jpg|jpeg|webp)$/i,
     "",
   );
 }
 
-function normalizeText(value) {
-  return value
-    .replace(/\u00a0/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
 function escapeRegExp(value) {
-  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return String(value).replace(
+    /[.*+?^${}()|[\]\\]/g,
+    "\\$&",
+  );
 }
 
-function extractMatch(text, pattern, fallback = "") {
+function extractMatch(
+  text,
+  pattern,
+  fallback = "",
+) {
   const match = text.match(pattern);
 
-  return match?.[1]
-    ? normalizeText(match[1])
-    : fallback;
-}
-
-function extractCardName(displayFileName, baseCode) {
-  const stem = removeExtension(displayFileName);
-
-  const prefixes = [
-    `${baseCode}-`,
-    `${baseCode}_`,
-  ];
-
-  for (const prefix of prefixes) {
-    if (stem.startsWith(prefix)) {
-      return stem.slice(prefix.length).trim();
-    }
+  if (!match?.[1]) {
+    return fallback;
   }
 
-  return stem;
+  return normalizeText(match[1]);
+}
+
+function parseTsvLine(line) {
+  const tabIndex = line.indexOf("\t");
+
+  if (tabIndex !== -1) {
+    const displayFileName = line
+      .slice(0, tabIndex)
+      .trim();
+
+    const imageUrl = line
+      .slice(tabIndex + 1)
+      .trim();
+
+    return {
+      displayFileName,
+      imageUrl,
+    };
+  }
+
+  const match = line.match(
+    /^(.*?)\s+(https?:\/\/\S+)$/,
+  );
+
+  if (!match) {
+    return null;
+  }
+
+  return {
+    displayFileName: match[1].trim(),
+    imageUrl: match[2].trim(),
+  };
+}
+
+function isCardImage(fileName) {
+  return (
+    /^UA[A-Z0-9]*_/i.test(fileName) &&
+    /\.(png|jpg|jpeg|webp)$/i.test(fileName)
+  );
 }
 
 function getBaseCode(imageFileName) {
-  return removeExtension(imageFileName)
-    .replace(/_p\d+$/i, "");
+  return removeExtension(imageFileName).replace(
+    /_p\d+$/i,
+    "",
+  );
 }
 
 function convertToOfficialNumber(baseCode) {
-  const separatorIndex = baseCode.indexOf("_");
+  const separatorIndex =
+    baseCode.indexOf("_");
 
   if (separatorIndex === -1) {
     return baseCode;
@@ -113,10 +164,46 @@ function convertToOfficialNumber(baseCode) {
   );
 }
 
-function getVariant(imageFileName) {
-  const match = removeExtension(imageFileName).match(
-    /_p(\d+)$/i,
+function extractCardName(
+  displayFileName,
+  baseCode,
+) {
+  const stem = removeExtension(
+    displayFileName,
   );
+
+  const possiblePrefixes = [
+    `${baseCode}-`,
+    `${baseCode}_`,
+  ];
+
+  for (const prefix of possiblePrefixes) {
+    if (stem.startsWith(prefix)) {
+      return stem
+        .slice(prefix.length)
+        .trim();
+    }
+  }
+
+  const firstDash = stem.indexOf("-");
+
+  if (firstDash !== -1) {
+    const possibleName = stem
+      .slice(firstDash + 1)
+      .trim();
+
+    if (possibleName) {
+      return possibleName;
+    }
+  }
+
+  return stem;
+}
+
+function getVariant(imageFileName) {
+  const match = removeExtension(
+    imageFileName,
+  ).match(/_p(\d+)$/i);
 
   if (!match) {
     return "普通版";
@@ -126,7 +213,9 @@ function getVariant(imageFileName) {
 }
 
 function createId(imageFileName, index) {
-  const stem = removeExtension(imageFileName);
+  const stem = removeExtension(
+    imageFileName,
+  );
 
   const cleaned = stem
     .toLowerCase()
@@ -134,50 +223,89 @@ function createId(imageFileName, index) {
     .replace(/-+/g, "-")
     .replace(/^-|-$/g, "");
 
-  return (
-    cleaned ||
-    `card-${String(index + 1).padStart(4, "0")}`
-  );
+  if (cleaned) {
+    return cleaned;
+  }
+
+  return `card-${String(index + 1).padStart(
+    4,
+    "0",
+  )}`;
 }
 
-async function readCache() {
+async function readJsonFile(
+  filePath,
+  fallbackValue,
+) {
   try {
-    const raw = await fs.readFile(cachePath, "utf8");
+    const raw = removeBom(
+      await fs.readFile(filePath, "utf8"),
+    ).trim();
+
+    if (!raw) {
+      return fallbackValue;
+    }
+
     return JSON.parse(raw);
-  } catch {
-    return {};
-  }
-}async function readTranslations() {
-  try {
-    const raw = await fs.readFile(
-      translationsPath,
-      "utf8",
-    );
-
-    return JSON.parse(
-      raw.replace(/^\uFEFF/, ""),
-    );
   } catch (error) {
-    console.warn(
-      "无法读取翻译资料，将使用空翻译。",
-      error instanceof Error
-        ? error.message
-        : error,
-    );
+    if (
+      error &&
+      typeof error === "object" &&
+      "code" in error &&
+      error.code === "ENOENT"
+    ) {
+      return fallbackValue;
+    }
 
-    return {};
+    throw new Error(
+      `无法读取 ${path.basename(filePath)}：${
+        error instanceof Error
+          ? error.message
+          : String(error)
+      }`,
+    );
   }
 }
 
-async function saveCache(cache) {
+async function saveJsonFile(
+  filePath,
+  value,
+) {
+  const content =
+    JSON.stringify(value, null, 2) + "\n";
+
   await fs.writeFile(
-    cachePath,
-    JSON.stringify(cache, null, 2),
+    filePath,
+    content,
     "utf8",
   );
 }
 
-async function fetchCardDetails(officialNumber) {
+function createFallbackDetails(
+  officialNumber,
+) {
+  return {
+    series: "无职转生",
+    color: "未分类",
+    type: "资料待补",
+    rarity: "-",
+    cost: 0,
+    ap: 0,
+    bp: "-",
+    feature: "-",
+    generatedEnergy: "-",
+    effect: "卡牌效果整理中。",
+    trigger: "-",
+    officialUrl:
+      "https://www.unionarena-tcg.com/jp/cardlist/" +
+      "detail_iframe.php?card_no=" +
+      encodeURIComponent(officialNumber),
+  };
+}
+
+async function fetchCardDetails(
+  officialNumber,
+) {
   const detailUrl =
     "https://www.unionarena-tcg.com/jp/cardlist/" +
     "detail_iframe.php?card_no=" +
@@ -201,20 +329,26 @@ async function fetchCardDetails(officialNumber) {
   const html = await response.text();
   const $ = cheerio.load(html);
 
-  // 将图片的 alt 文字放进页面文字中，
-  // 例如「レイド」「ドロー」「スペシャル」。
+  // 把图片 alt 文字转换为一般文字，
+  // 例如 Raid、Trigger、Draw 等图标。
   $("img[alt]").each((_, element) => {
-    const alt = $(element).attr("alt")?.trim();
+    const alt = normalizeText(
+      $(element).attr("alt"),
+    );
 
     if (alt) {
       $(element).replaceWith(` ${alt} `);
     }
   });
 
-  const bodyText = normalizeText($("body").text());
+  const bodyText = normalizeText(
+    $("body").text(),
+  );
 
   const rarityPattern = new RegExp(
-    `${escapeRegExp(officialNumber)}\\s+([A-Z]+)\\b`,
+    `${escapeRegExp(
+      officialNumber,
+    )}\\s+([A-Z]+)\\b`,
     "i",
   );
 
@@ -228,8 +362,12 @@ async function fetchCardDetails(officialNumber) {
     /必要\s*エナジー\s*([赤青緑黄紫])\s*(\d+)/,
   );
 
-  const japaneseColor = energyMatch?.[1] ?? "";
-  const cost = Number(energyMatch?.[2] ?? 0);
+  const japaneseColor =
+    energyMatch?.[1] ?? "";
+
+  const cost = Number(
+    energyMatch?.[2] ?? 0,
+  );
 
   const ap = Number(
     extractMatch(
@@ -259,7 +397,7 @@ async function fetchCardDetails(officialNumber) {
 
   const generatedEnergy = extractMatch(
     bodyText,
-    /発生\s*エナジー\s*([赤青緑黄紫－\-\s]+)/,
+    /発生\s*エナジー\s*(.*?)\s*(?:効果|トリガー|収録商品)/,
     "-",
   );
 
@@ -271,20 +409,24 @@ async function fetchCardDetails(officialNumber) {
 
   const trigger = extractMatch(
     bodyText,
-    /トリガー\s*(.*?)\s*(?:収録商品|カードリスト)/,
+    /トリガー\s*(.*?)\s*(?:収録商品|カードリスト|$)/,
     "-",
   );
 
   const series = extractMatch(
     bodyText,
-    /収録商品\s*(.*?)\s*〖/,
+    /収録商品\s*(.*?)\s*(?:カードリスト|$)/,
     "无职转生",
   );
 
   return {
     series,
-    color: COLOR_MAP[japaneseColor] ?? "未分类",
-    type: TYPE_MAP[japaneseType] ?? japaneseType,
+    color:
+      COLOR_MAP[japaneseColor] ??
+      "未分类",
+    type:
+      TYPE_MAP[japaneseType] ??
+      japaneseType,
     rarity,
     cost,
     ap,
@@ -297,132 +439,215 @@ async function fetchCardDetails(officialNumber) {
   };
 }
 
+async function backupOldCardsFile() {
+  try {
+    await fs.copyFile(
+      outputPath,
+      backupPath,
+    );
+
+    console.log(
+      "已备份旧资料：data/cards.backup.ts",
+    );
+  } catch (error) {
+    if (
+      error &&
+      typeof error === "object" &&
+      "code" in error &&
+      error.code === "ENOENT"
+    ) {
+      console.log(
+        "没有旧的 cards.ts 需要备份。",
+      );
+
+      return;
+    }
+
+    throw error;
+  }
+}
+
 async function main() {
-  const rawTsv = await fs.readFile(tsvPath, "utf8");
+  console.log(
+    "CardZero 卡牌资料整理开始",
+  );
+  console.log("");
+
+  const rawTsv = removeBom(
+    await fs.readFile(tsvPath, "utf8"),
+  );
 
   const lines = rawTsv
     .split(/\r?\n/)
     .map((line) => line.trim())
     .filter(Boolean);
 
-  const cache = await readCache();
+  const cache = await readJsonFile(
+    cachePath,
+    {},
+  );
+
   const translations =
-  await readTranslations();
-
-console.log(
-  `读取翻译：${Object.keys(translations).length} 笔`,
-);
-  const cards = [];
-  const usedIds = new Set();
-
-  try {
-    await fs.copyFile(outputPath, backupPath);
-    console.log("已备份旧资料：data/cards.backup.ts");
-  } catch {
-    console.log("没有旧资料需要备份。");
-  }
-
-  for (let index = 0; index < lines.length; index += 1) {
-    const line = lines[index];
-
-    // 同时支持 Tab 或一般空白分隔。
-    const match = line.match(
-      /^(.*?)\s+(https?:\/\/\S+)$/,
+    await readJsonFile(
+      translationsPath,
+      {},
     );
 
-    if (!match) {
-      console.warn(`跳过格式错误：第 ${index + 1} 行`);
+  console.log(
+    `读取缓存：${Object.keys(cache).length} 笔`,
+  );
+
+  console.log(
+    `读取翻译：${
+      Object.keys(translations).length
+    } 笔`,
+  );
+
+  console.log("");
+
+  await backupOldCardsFile();
+
+  const cards = [];
+  const usedIds = new Set();
+  const usedImages = new Set();
+
+  for (
+    let index = 0;
+    index < lines.length;
+    index += 1
+  ) {
+    const parsedLine =
+      parseTsvLine(lines[index]);
+
+    if (!parsedLine) {
+      console.warn(
+        `跳过格式错误：第 ${
+          index + 1
+        } 行`,
+      );
+
       continue;
     }
 
-    const displayFileName = match[1].trim();
-    const imageUrl = match[2].trim();
+    const {
+      displayFileName,
+      imageUrl,
+    } = parsedLine;
 
     let parsedUrl;
 
     try {
       parsedUrl = new URL(imageUrl);
     } catch {
-      console.warn(`跳过无效网址：${imageUrl}`);
+      console.warn(
+        `跳过无效网址：${imageUrl}`,
+      );
+
       continue;
     }
 
-    const rawImageFileName = decodeURIComponent(
-      path.basename(parsedUrl.pathname),
-    );
+    const rawImageFileName =
+      decodeURIComponent(
+        path.basename(
+          parsedUrl.pathname,
+        ),
+      );
 
-    // 排除 SVG、Logo 和非 UA 卡图。
     if (
-      !/^UA\d+BT_/i.test(rawImageFileName) ||
-      !/\.(png|jpg|jpeg|webp)$/i.test(
-        rawImageFileName,
-      )
+      !isCardImage(rawImageFileName)
     ) {
       console.log(
         `跳过非卡牌文件：${rawImageFileName}`,
       );
+
       continue;
     }
 
     const imageFileName =
-      sanitizeFileName(rawImageFileName);
+      sanitizeFileName(
+        rawImageFileName,
+      );
 
-    const baseCode = getBaseCode(imageFileName);
+    if (
+      usedImages.has(imageFileName)
+    ) {
+      console.log(
+        `跳过重复图片：${imageFileName}`,
+      );
+
+      continue;
+    }
+
+    usedImages.add(imageFileName);
+
+    const baseCode =
+      getBaseCode(imageFileName);
 
     const officialNumber =
-      convertToOfficialNumber(baseCode);
+      convertToOfficialNumber(
+        baseCode,
+      );
 
     const name = extractCardName(
       displayFileName,
       baseCode,
     );
 
-    let details = cache[officialNumber];
+    let details = cache[
+      officialNumber
+    ];
 
-    if (!details) {
-      try {
-        console.log(
-          `读取 ${officialNumber} 的官方资料……`,
-        );
-
-        details =
-          await fetchCardDetails(officialNumber);
-
-        cache[officialNumber] = details;
-        await saveCache(cache);
-
-        // 减少对官网的连续请求。
-        await sleep(350);
-      } catch (error) {
-        console.warn(
-          `读取失败：${officialNumber}`,
-          error instanceof Error
-            ? error.message
-            : error,
-        );
-
-        details = {
-          series: "无职转生",
-          color: "未分类",
-          type: "资料待补",
-          rarity: "-",
-          cost: 0,
-          ap: 0,
-          bp: "-",
-          feature: "-",
-          generatedEnergy: "-",
-          effect: "卡牌资料整理中。",
-          trigger: "-",
-          officialUrl: "",
-        };
-      }
-    } else {
+    if (details) {
       console.log(
         `使用缓存：${officialNumber}`,
       );
+    } else {
+      try {
+        console.log(
+          `读取官方资料：${officialNumber}`,
+        );
+
+        details =
+          await fetchCardDetails(
+            officialNumber,
+          );
+
+        cache[officialNumber] =
+          details;
+
+        // 每成功读取一张就储存，
+        // 中途停止不会丢失已完成资料。
+        await saveJsonFile(
+          cachePath,
+          cache,
+        );
+
+        await sleep(REQUEST_DELAY);
+      } catch (error) {
+        console.warn(
+          `读取失败：${officialNumber}：${
+            error instanceof Error
+              ? error.message
+              : String(error)
+          }`,
+        );
+
+        details =
+          createFallbackDetails(
+            officialNumber,
+          );
+      }
     }
 
-    let id = createId(imageFileName, index);
+    const translation =
+      translations[
+        officialNumber
+      ] ?? {};
+
+    let id = createId(
+      imageFileName,
+      index,
+    );
 
     if (usedIds.has(id)) {
       id = `${id}-${index + 1}`;
@@ -430,26 +655,89 @@ console.log(
 
     usedIds.add(id);
 
-    const translation =
-  translations[officialNumber] ?? {};
+    cards.push({
+      id,
+      number: officialNumber,
+      name,
 
-cards.push({
-  id,
-  number: officialNumber,
-  name,
-  nameZh: translation.nameZh ?? "",
-  ...details,
-  effectZh: translation.effectZh ?? "",
-  triggerZh: translation.triggerZh ?? "",
-  variant: getVariant(imageFileName),
-  image: `/cards/${imageFileName}`,
-});
+      nameZh: String(
+        translation.nameZh ?? "",
+      ),
 
-const typeDefinition = `export type Card = {
+      series: String(
+        details.series ??
+          "无职转生",
+      ),
+
+      color: String(
+        details.color ??
+          "未分类",
+      ),
+
+      type: String(
+        details.type ??
+          "资料待补",
+      ),
+
+      rarity: String(
+        details.rarity ?? "-",
+      ),
+
+      cost: Number(
+        details.cost ?? 0,
+      ),
+
+      ap: Number(
+        details.ap ?? 0,
+      ),
+
+      bp: String(
+        details.bp ?? "-",
+      ),
+
+      feature: String(
+        details.feature ?? "-",
+      ),
+
+      generatedEnergy: String(
+        details.generatedEnergy ??
+          "-",
+      ),
+
+      effect: String(
+        details.effect ??
+          "卡牌效果整理中。",
+      ),
+
+      effectZh: String(
+        translation.effectZh ?? "",
+      ),
+
+      trigger: String(
+        details.trigger ?? "-",
+      ),
+
+      triggerZh: String(
+        translation.triggerZh ?? "",
+      ),
+
+      officialUrl: String(
+        details.officialUrl ?? "",
+      ),
+
+      variant:
+        getVariant(imageFileName),
+
+      image:
+        `/cards/${imageFileName}`,
+    });
+  }
+
+  const typeDefinition = `export type Card = {
   id: string;
   number: string;
   name: string;
-  nameZh?: string;
+  nameZh: string;
   series: string;
   color: string;
   type: string;
@@ -460,9 +748,9 @@ const typeDefinition = `export type Card = {
   feature: string;
   generatedEnergy: string;
   effect: string;
-  effectZh?: string;
+  effectZh: string;
   trigger: string;
-  triggerZh?: string;
+  triggerZh: string;
   officialUrl: string;
   variant: string;
   image: string;
@@ -484,19 +772,48 @@ const typeDefinition = `export type Card = {
     "utf8",
   );
 
-  await saveCache(cache);
+  await saveJsonFile(
+    cachePath,
+    cache,
+  );
+
+  const translatedCards =
+    cards.filter(
+      (card) =>
+        card.nameZh ||
+        card.effectZh ||
+        card.triggerZh,
+    ).length;
 
   console.log("");
   console.log(
+    "==============================",
+  );
+
+  console.log(
     `完成：已生成 ${cards.length} 张卡牌资料`,
   );
+
+  console.log(
+    `包含翻译：${translatedCards} 张`,
+  );
+
   console.log(
     "输出位置：data/cards.ts",
+  );
+
+  console.log(
+    "==============================",
   );
 }
 
 main().catch((error) => {
-  console.error("处理失败：", error);
-  process.exitCode = 1;
+  console.error(
+    "处理失败：",
+    error instanceof Error
+      ? error.message
+      : error,
+  );
 
-}
+  process.exitCode = 1;
+});

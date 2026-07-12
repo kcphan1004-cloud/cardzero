@@ -1286,5 +1286,33 @@
     "effect": "卡牌效果整理中。",
     "trigger": "-",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP12"
+  },
+  "UAPR/MST-1-030": {
+    "series": "无职转生",
+    "color": "蓝色",
+    "type": "角色卡",
+    "rarity": "-",
+    "cost": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "feature": "-",
+    "generatedEnergy": "青青",
+    "effect": "起動メイン レストにする このターン中に自分がイベントカードを使用している場合のみ発動できる。以下から1つ選ぶ。・自分の場のキャラを1枚選び、このターン中、BP+1000。・カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "- 入手情報 ユニチケゲットバトル 2026年7月開催優勝記念品 等 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FMST-1-030"
+  },
+  "UAPR/MST-1-055": {
+    "series": "无职转生",
+    "color": "绿色",
+    "type": "角色卡",
+    "rarity": "-",
+    "cost": 1,
+    "ap": 1,
+    "bp": "2000",
+    "feature": "ラノア魔法大学",
+    "generatedEnergy": "緑",
+    "effect": "登場時 自分の山札の上から3枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "ドロー カードを1枚引く。 入手情報 ユニチケゲットバトル 2026年7月開催参加記念品 等 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FMST-1-055"
   }
 }

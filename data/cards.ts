@@ -2,7 +2,7 @@ export type Card = {
   id: string;
   number: string;
   name: string;
-  nameZh?: string;
+  nameZh: string;
   series: string;
   color: string;
   type: string;
@@ -13,9 +13,9 @@ export type Card = {
   feature: string;
   generatedEnergy: string;
   effect: string;
-  effectZh?: string;
+  effectZh: string;
   trigger: string;
-  triggerZh?: string;
+  triggerZh: string;
   officialUrl: string;
   variant: string;
   image: string;
@@ -25,7 +25,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-001",
     "number": "UA54BT/MST-1-001",
-    "name": "UA54BT-MST-1-001-エリス",
+    "name": "MST-1-001-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -36,7 +37,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "-",
+    "effectZh": "",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【登场时】抽1张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-001",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-001.png"
@@ -44,7 +47,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-002",
     "number": "UA54BT/MST-1-002",
-    "name": "UA54BT-MST-1-002-エリス",
+    "name": "MST-1-002-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -55,7 +59,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "-",
+    "effectZh": "",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[攻击时] 选择自己场上的角色卡，使其活跃。本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-002",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-002.png"
@@ -63,7 +69,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-002_p1",
     "number": "UA54BT/MST-1-002",
-    "name": "UA54BT-MST-1-002-エリス",
+    "name": "MST-1-002-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -74,7 +81,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "-",
+    "effectZh": "",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[攻击时] 选择自己场上的角色卡，使其活跃。本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-002",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-002_p1.png"
@@ -82,7 +91,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-003",
     "number": "UA54BT/MST-1-003",
-    "name": "UA54BT-MST-1-003-エリス",
+    "name": "MST-1-003-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -93,7 +103,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "自分の場に〈ルーデウス〉と〈ルイジェルド〉がある場合、このキャラはBP+1000。",
+    "effectZh": "【登场时】若场上有〈鲁德乌斯〉与〈路易杰尔德〉，本卡 BP+1000。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-003",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-003.png"
@@ -101,7 +113,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-004",
     "number": "UA54BT/MST-1-004",
-    "name": "UA54BT-MST-1-004-エリス",
+    "name": "MST-1-004-エリス",
+    "nameZh": "艾里斯",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -112,7 +125,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 このキャラが自分の効果で登場していた場合、このキャラをアクティブにする。",
+    "effectZh": "【登场时】如果本角色是通过自己的效果登场的，则将其活跃。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-004",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-004.png"
@@ -120,7 +135,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-005",
     "number": "UA54BT/MST-1-005",
-    "name": "UA54BT-MST-1-005-エリス",
+    "name": "MST-1-005-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -131,7 +147,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを 青×2 減らす。 インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う） 自分のターン中 このターン中に自分の効果でキャラカードを〔登場させるかレイドさせている〕場合、このキャラはBP+500。",
+    "effectZh": "【登场时】若场上没有己方卡牌，则手牌中本卡的必要能量减少为青×2。无冲击（与本卡进行战斗的卡牌在本战斗中失去冲击）。【自己的回合中】若在己方的效果使角色卡于本场获得〔出场或雷德〕状态，则该角色的 BP+500。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-005",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-005.png"
@@ -139,7 +157,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-006",
     "number": "UA54BT/MST-1-006",
-    "name": "UA54BT-MST-1-006-エリス",
+    "name": "MST-1-006-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -150,7 +169,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青青",
     "effect": "登場時 APを1支払ってもよい。そうした場合、カードを1枚引き、自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "effectZh": "登场时，支付 AP 为 1。如此的话，抽 1 张牌，从手牌中消耗能量为 3 以下的蓝色（〈鲁德乌斯〉或〈艾里斯〉或〈路易杰尔德〉）最多 1 张在自己的场上横置出场或雷击出场。",
     "trigger": "カラー BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "选择对手的前线 L 颜色 BP3500 以下的角色卡 1 张，使其回到手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-006",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-006.png"
@@ -158,7 +179,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-007",
     "number": "UA54BT/MST-1-007",
-    "name": "UA54BT-MST-1-007-エリス",
+    "name": "MST-1-007-エリス",
+    "nameZh": "艾里斯",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -169,7 +191,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・このキャラが自分の効果で登場していた場合、自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。〈エリス〉のこの効果は1ターンに1回のみ選べる。",
+    "effectZh": "[登场时] 从以下选项中选一个。·抽一张牌，将手牌中的一张置于场外。<br>若本角色是经由自己的效果登场的场合，可以从手牌中消耗3以下的能量、AP为1的蓝色〔〈鲁德乌斯〉或〈艾里斯〉或〈路易杰尔多〉〕最多一张在自己的场上以横置状态登场或者使其进入雷迪。《艾里斯》的这个效果每回合只能选一次。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-007",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-007.png"
@@ -177,7 +201,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-007_p1",
     "number": "UA54BT/MST-1-007",
-    "name": "UA54BT-MST-1-007-エリス",
+    "name": "MST-1-007-エリス",
+    "nameZh": "艾里斯",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -188,7 +213,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・このキャラが自分の効果で登場していた場合、自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。〈エリス〉のこの効果は1ターンに1回のみ選べる。",
+    "effectZh": "[登场时] 从以下选项中选一个。·抽一张牌，将手牌中的一张置于场外。<br>若本角色是经由自己的效果登场的场合，可以从手牌中消耗3以下的能量、AP为1的蓝色〔〈鲁德乌斯〉或〈艾里斯〉或〈路易杰尔多〉〕最多一张在自己的场上以横置状态登场或者使其进入雷迪。《艾里斯》的这个效果每回合只能选一次。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-007",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-007_p1.png"
@@ -196,7 +223,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-008",
     "number": "UA54BT/MST-1-008",
-    "name": "UA54BT-MST-1-008-エリス",
+    "name": "MST-1-008-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -207,7 +235,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈エリス〉アクティブにし、フロントLに移動できるこのキャラのアタックがブロックされなかった時、カードを1枚まで引く。 ターン1 このキャラがアタックしてバトルに敗北した時、このキャラをアクティブにし、このキャラはこのターン中、BP+2000。",
+    "effectZh": "【登场时】将此角色设为活跃，并移动至前线。当此角色的攻击未被阻挡时，抽 1 张牌。\n本回合：若此角色进行攻击并在战斗中败北，则将其设为活跃，且在本回合中 BP+2000。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（雷德）将此卡加入手牌或满足所需能量时，使其进入 Raid 状态。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-008",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-008.png"
@@ -215,7 +245,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-008_p1",
     "number": "UA54BT/MST-1-008",
-    "name": "UA54BT-MST-1-008-エリス",
+    "name": "MST-1-008-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -226,7 +257,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈エリス〉アクティブにし、フロントLに移動できるこのキャラのアタックがブロックされなかった時、カードを1枚まで引く。 ターン1 このキャラがアタックしてバトルに敗北した時、このキャラをアクティブにし、このキャラはこのターン中、BP+2000。",
+    "effectZh": "【登场时】将此角色设为活跃，并移动至前线。当此角色的攻击未被阻挡时，抽 1 张牌。\n本回合：若此角色进行攻击并在战斗中败北，则将其设为活跃，且在本回合中 BP+2000。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（雷德）将此卡加入手牌或满足所需能量时，使其进入 Raid 状态。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-008",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-008_p1.png"
@@ -234,7 +267,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-009",
     "number": "UA54BT/MST-1-009",
-    "name": "UA54BT-MST-1-009-エリス",
+    "name": "MST-1-009-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -245,7 +279,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈エリス〉アクティブにし、フロントLに移動できる インパクト（1） （アタックしてバトルに勝利した時、相手に1ダメージ） 自分のターン中 このキャラはBP+500。 登場時 このキャラが自分の効果で登場していた場合、以下から1つ選ぶ。・このキャラは次の自分のターン開始時まで、BP+1000。・このキャラはこのターン中、「このキャラのアタック終了時、自分のエナジーLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。」を得る。",
+    "effectZh": "【登场时】将「艾里斯」变为活跃，并可以移动到前线。冲击（1） （攻击后战胜战斗对手时，对对手造成 1 点伤害）。在自己的回合中，本卡的 BP+500。若此卡是通过自己的效果登场的，则从以下选项中选 1 个：·直到下个自己的回合开始时为止，BP+1000。·在本回合中获得「当「艾里斯」的攻击结束时，可以选择场上的能量线上的任意一张卡，与「艾里斯」交换位置。」",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（雷德）将此卡加入手牌或满足所需能量的情况下发动 Raid 效果。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-009",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-009.png"
@@ -253,7 +289,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-009_p1",
     "number": "UA54BT/MST-1-009",
-    "name": "UA54BT-MST-1-009-エリス",
+    "name": "MST-1-009-エリス",
+    "nameZh": "艾里斯 (Eris)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -264,7 +301,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈エリス〉アクティブにし、フロントLに移動できる インパクト（1） （アタックしてバトルに勝利した時、相手に1ダメージ） 自分のターン中 このキャラはBP+500。 登場時 このキャラが自分の効果で登場していた場合、以下から1つ選ぶ。・このキャラは次の自分のターン開始時まで、BP+1000。・このキャラはこのターン中、「このキャラのアタック終了時、自分のエナジーLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。」を得る。",
+    "effectZh": "【登场时】将「艾里斯」变为活跃，并可以移动到前线。冲击（1） （攻击后战胜战斗对手时，对对手造成 1 点伤害）。在自己的回合中，本卡的 BP+500。若此卡是通过自己的效果登场的，则从以下选项中选 1 个：·直到下个自己的回合开始时为止，BP+1000。·在本回合中获得「当「艾里斯」的攻击结束时，可以选择场上的能量线上的任意一张卡，与「艾里斯」交换位置。」",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（雷德）将此卡加入手牌或满足所需能量的情况下发动 Raid 效果。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-009",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-009_p1.png"
@@ -272,7 +311,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-010",
     "number": "UA54BT/MST-1-010",
-    "name": "UA54BT-MST-1-010-キシリカ・キシリス",
+    "name": "MST-1-010-キシリカ・キシリス",
+    "nameZh": "キシリカ・キシリス",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -283,7 +323,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青青",
     "effect": "登場時 自分の山札の上から3枚見て、望む順で山札の上に置く。",
+    "effectZh": "【登场时】从自己的牌库顶部看3张，按任意顺序置于牌库顶。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽1张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-010",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-010.png"
@@ -291,7 +333,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-011",
     "number": "UA54BT/MST-1-011",
-    "name": "UA54BT-MST-1-011-ギレーヌ",
+    "name": "MST-1-011-ギレーヌ",
+    "nameZh": "吉莱努",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -302,7 +345,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "起動メイン フロントLにある場合 ターン1 自分の場の〈エリス〉を1枚選び、このターン中、BP+1000。",
+    "effectZh": "【登场时】当主线位于前线时，选择自己场上的「艾里斯」1张。本回合中，BP+1000。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-011",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-011.png"
@@ -310,7 +355,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-012",
     "number": "UA54BT/MST-1-012",
-    "name": "UA54BT-MST-1-012-シルフィエット",
+    "name": "MST-1-012-シルフィエット",
+    "nameZh": "风精灵 (Silphiet)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -321,7 +367,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "アタック時 カードを1枚引き、自分の手札を1枚場外に置く。",
+    "effectZh": "【攻击时】抽一张牌，将手牌中的一张置于场外。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "触发：抽取（Draw）—— 抽一张牌。\nX(Twitter) LINE URL已复制\nURL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-012",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-012.png"
@@ -329,7 +377,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-013",
     "number": "UA54BT/MST-1-013",
-    "name": "UA54BT-MST-1-013-シルフィエット",
+    "name": "MST-1-013-シルフィエット",
+    "nameZh": "风之精灵",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -340,7 +389,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "退場時 カードを1枚引く。",
+    "effectZh": "【退场时】抽一张牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制URL已复制。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-013",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-013.png"
@@ -348,7 +399,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-014",
     "number": "UA54BT/MST-1-014",
-    "name": "UA54BT-MST-1-014-シルフィエット",
+    "name": "MST-1-014-シルフィエット",
+    "nameZh": "风之精灵 (Silphiet)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -359,7 +411,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを 青×2 減らす。 自分のターン中 このターン中に自分がイベントカードを使用していて、同じラインに〈ルーデウス〉がある場合、このキャラはBP+1500。 登場時 自分の山札の上から2枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "effectZh": "【登场时】若场上没有放置任何卡牌，则手牌中的本卡的必要能量减少为青×2。在自己的回合中，如果在本回合内自己使用了事件卡且同一条线上有〈鲁德乌斯〉，则该角色的 BP+1500。\n\n【登场时】从自己的牌库上方翻开 2 张，将其中一张置于场外，其余的按任意顺序放回牌库顶部。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-014",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-014.png"
@@ -367,7 +421,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-014_p1",
     "number": "UA54BT/MST-1-014",
-    "name": "UA54BT-MST-1-014-シルフィエット",
+    "name": "MST-1-014-シルフィエット",
+    "nameZh": "风之精灵 (Silphiet)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -378,7 +433,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを 青×2 減らす。 自分のターン中 このターン中に自分がイベントカードを使用していて、同じラインに〈ルーデウス〉がある場合、このキャラはBP+1500。 登場時 自分の山札の上から2枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "effectZh": "【登场时】若场上没有放置任何卡牌，则手牌中的本卡的必要能量减少为青×2。在自己的回合中，如果在本回合内自己使用了事件卡且同一条线上有〈鲁德乌斯〉，则该角色的 BP+1500。\n\n【登场时】从自己的牌库上方翻开 2 张，将其中一张置于场外，其余的按任意顺序放回牌库顶部。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-014",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-014_p1.png"
@@ -386,7 +443,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-015",
     "number": "UA54BT/MST-1-015",
-    "name": "UA54BT-MST-1-015-聖獣",
+    "name": "MST-1-015-聖獣",
+    "nameZh": "圣兽",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -397,7 +455,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "effectZh": "无效冲击（与本角色战斗的角色在本战斗中失去冲击）",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择自己场上的 1 张卡，使其活跃。本回合中 BP+3000",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-015",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-015.png"
@@ -405,7 +465,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-016",
     "number": "UA54BT/MST-1-016",
-    "name": "UA54BT-MST-1-016-ゼニス",
+    "name": "MST-1-016-ゼニス",
+    "nameZh": "泽尼斯",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -416,7 +477,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "起動メイン レストにする ターン1 このキャラはこのターン中、発生エナジー+ 青 と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "effectZh": "【登场时】横置。本回合中，发生能量+青并获得「主阶段结束时，使其退场。」的效果。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-016",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-016.png"
@@ -424,7 +487,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-017",
     "number": "UA54BT/MST-1-017",
-    "name": "UA54BT-MST-1-017-ノルン＆アイシャ",
+    "name": "MST-1-017-ノルン＆アイシャ",
+    "nameZh": "诺恩与艾莎",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -435,7 +499,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 カードを1枚引く。",
+    "effectZh": "【登场时】抽1张牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-017",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-017.png"
@@ -443,7 +509,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-018",
     "number": "UA54BT/MST-1-018",
-    "name": "UA54BT-MST-1-018-パウロ",
+    "name": "MST-1-018-パウロ",
+    "nameZh": "保罗",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -454,7 +521,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "アタック時 カードを1枚引き、自分の手札を1枚場外に置く。",
+    "effectZh": "【攻击时】抽1张牌，将手牌中的1张置于场外。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Trigger：在自己的回合中，选择场上的角色1张使其活跃，本回合BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-018",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-018.png"
@@ -462,7 +531,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-019",
     "number": "UA54BT/MST-1-019",
-    "name": "UA54BT-MST-1-019-リーリャ",
+    "name": "MST-1-019-リーリャ",
+    "nameZh": "リーリャ",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -473,7 +543,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青青",
     "effect": "登場時 必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "effectZh": "【登场时】将必要的能量为1以下的自己场上的其他角色抽回手牌。无法将其抽回手牌的情况下，将该角色抽回手牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-019",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-019.png"
@@ -481,7 +553,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-020",
     "number": "UA54BT/MST-1-020",
-    "name": "UA54BT-MST-1-020-ルイジェルド",
+    "name": "MST-1-020-ルイジェルド",
+    "nameZh": "路易杰尔德",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -492,7 +565,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "-",
+    "effectZh": "",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽一张牌。复制 X(Twitter) LINE URL。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-020",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-020.png"
@@ -500,7 +575,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-021",
     "number": "UA54BT/MST-1-021",
-    "name": "UA54BT-MST-1-021-ルイジェルド",
+    "name": "MST-1-021-ルイジェルド",
+    "nameZh": "路易杰尔德",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -511,7 +587,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 自分の手札から必要エナジーが3以下で消費APが1の青の〔〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。 起動メイン ターン1 自分の場に〈ルーデウス〉と〈エリス〉がある場合のみ発動できる。このキャラをアクティブにする。",
+    "effectZh": "[登场时] 在自己的回合中，从自己的手牌中选择一张消耗能量为3以下、AP为1的蓝色（〈鲁德乌斯〉或〈艾莉丝〉或〈路易杰尔德〉）卡牌，将其以横置状态在自己场上登场，或者使其进入Raid。发动主阶段。本回合中，只有当自己场上的〈鲁德乌斯〉和〈艾莉丝〉存在时才能发动。将该角色变为活跃。\n[触发] 抽1张牌。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-021",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-021.png"
@@ -519,7 +597,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-022",
     "number": "UA54BT/MST-1-022",
-    "name": "UA54BT-MST-1-022-ルーデウス",
+    "name": "MST-1-022-ルーデウス",
+    "nameZh": "鲁德乌斯",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -530,7 +609,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 カードを1枚引き、自分の手札を1枚場外に置く。",
+    "effectZh": "【登场时】抽一张牌，将手牌中的一张置于场外。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择自己场上的角色一员使其活跃，本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-022",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-022.png"
@@ -538,7 +619,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-023",
     "number": "UA54BT/MST-1-023",
-    "name": "UA54BT-MST-1-023-ルーデウス",
+    "name": "MST-1-023-ルーデウス",
+    "nameZh": "鲁德乌斯 (UA54BT-MST-1-023)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -549,7 +631,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 このキャラが自分の効果で登場していた場合、カードを1枚引く。",
+    "effectZh": "【登场时】如果本角色是通过自己的效果登场的，则抽 1 张牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-023",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-023.png"
@@ -557,7 +641,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-024",
     "number": "UA54BT/MST-1-024",
-    "name": "UA54BT-MST-1-024-ルーデウス",
+    "name": "MST-1-024-ルーデウス",
+    "nameZh": "鲁德乌斯 (Ludwig)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -568,7 +653,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "自分のターン中 自分の場に〈ロキシー〉がある場合、このキャラはBP+1000。",
+    "effectZh": "【自己的回合中】若己方场上有〈罗基亚〉，本角色 BP+1000。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-024",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-024.png"
@@ -576,7 +663,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-025",
     "number": "UA54BT/MST-1-025",
-    "name": "UA54BT-MST-1-025-ルーデウス",
+    "name": "MST-1-025-ルーデウス",
+    "nameZh": "鲁德乌斯 (UA54BT-MST-1-025)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -587,7 +675,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈ルーデウス〉アクティブにし、フロントLに移動できる 登場時 自分の場のキャラを1枚まで選び、このターン中、BP+1000。 起動メイン フロントLにある場合 ターン1 以下から1つ選ぶ。・このキャラの 登場時 を発動する。・自分の場のレイド状態の〈エリス〉を1枚選び、このターン中、 狙い撃ち を与え、このキャラの一番上のカードを場外に置く。",
+    "effectZh": "[登场时] 将〈鲁德乌斯〉设为活跃并移动至前线。选择自己场上的角色最多 1 张，本回合中 BP+1000。\n[发动主效果] 若处于前线状态：\n阶段 1\n从以下选项中选 1 个进行发动。\n·使该角色的 [登场时] 发动。\n·选择自己场上具有 Raid（雷德）状态的〈艾莉丝〉最多 1 张，本回合中给予「狙击」效果，并将该角色最上方的卡置于场外。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[Raid(雷德)] 将此卡加入手牌或满足所需能量时，使其进入 Raid（雷德）状态。\nX(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-025",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-025.png"
@@ -595,7 +685,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-026",
     "number": "UA54BT/MST-1-026",
-    "name": "UA54BT-MST-1-026-ルーデウス",
+    "name": "MST-1-026-ルーデウス",
+    "nameZh": "鲁德乌斯 (Ludwig)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -606,7 +697,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青青",
     "effect": "このカードはフロントLに登場できず、自分の効果以外で移動できない。 アタック時 以下から1つ選ぶ。・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。・カードを1枚引く。・このターン中に自分が〈豪雷積層雲〉を使用している場合、このキャラはこのターン中、 インパクト（1） を得る。",
+    "effectZh": "【登场时】本卡不能前往前线，且除自身效果外无法移动。【攻击时】从以下选项中选一个：·选择自己场上的其他角色一张，在本回合中 BP+1000。·抽 1 张牌。·若本回合中使用过〈豪雷积层云〉，该角色在本回合中获得冲击（1）。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "获得此卡至手牌。X(Twitter) LINE URL已复制。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-026",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-026.png"
@@ -614,7 +707,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-026_p1",
     "number": "UA54BT/MST-1-026",
-    "name": "UA54BT-MST-1-026-ルーデウス",
+    "name": "MST-1-026-ルーデウス",
+    "nameZh": "鲁德乌斯 (Ludwig)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -625,7 +719,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青青",
     "effect": "このカードはフロントLに登場できず、自分の効果以外で移動できない。 アタック時 以下から1つ選ぶ。・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。・カードを1枚引く。・このターン中に自分が〈豪雷積層雲〉を使用している場合、このキャラはこのターン中、 インパクト（1） を得る。",
+    "effectZh": "【登场时】本卡不能前往前线，且除自身效果外无法移动。【攻击时】从以下选项中选一个：·选择自己场上的其他角色一张，在本回合中 BP+1000。·抽 1 张牌。·若本回合中使用过〈豪雷积层云〉，该角色在本回合中获得冲击（1）。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "获得此卡至手牌。X(Twitter) LINE URL已复制。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-026",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-026_p1.png"
@@ -633,7 +729,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-027",
     "number": "UA54BT/MST-1-027",
-    "name": "UA54BT-MST-1-027-ロキシー",
+    "name": "MST-1-027-ロキシー",
+    "nameZh": "洛克西娅 (Lokisya)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -644,7 +741,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "-",
+    "effectZh": "",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【登场时】抽 1 张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-027",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-027.png"
@@ -652,7 +751,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-028",
     "number": "UA54BT/MST-1-028",
-    "name": "UA54BT-MST-1-028-ロキシー",
+    "name": "MST-1-028-ロキシー",
+    "nameZh": "洛克希娅",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -663,7 +763,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 自分の山札の上から2枚見て、〈ルーデウス〉か〈ロキシー〉か必要エナジーが2以下のイベントカードを1枚まで公開し手札に加える。残りを場外に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "effectZh": "【登场时】查看自己的牌库顶部两张，公开一张〈鲁德乌斯〉或〈洛克希娅〉且所需能量为 2 以下的事件卡并加入手牌。将剩余卡牌置于场外。若将该卡加入手牌，则将其手牌中一张置入场外。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择自己场上的角色一员使其活跃，本回合 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-028",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-028.png"
@@ -671,7 +773,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-029",
     "number": "UA54BT/MST-1-029",
-    "name": "UA54BT-MST-1-029-ロキシー",
+    "name": "MST-1-029-ロキシー",
+    "nameZh": "洛克西娅",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -682,7 +785,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+ 青 。",
+    "effectZh": "【登场时】本角色为活跃状态，获得（能量线）+蓝色。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-029",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-029.png"
@@ -690,7 +795,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-030",
     "number": "UA54BT/MST-1-030",
-    "name": "UA54BT-MST-1-030-ロキシー",
+    "name": "MST-1-030-ロキシー",
+    "nameZh": "洛克希娅 (Lokishia)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -701,7 +807,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青青",
     "effect": "起動メイン レストにする このターン中に自分がイベントカードを使用している場合のみ発動できる。以下から1つ選ぶ。・自分の場のキャラを1枚選び、このターン中、BP+1000。・カードを1枚引き、自分の手札を1枚場外に置く。",
+    "effectZh": "[登场时]横置。本回合中，若自己使用过事件卡才能发动。从以下效果中选择1个发动：\n·选择场上的角色1张，使其在本回合中的BP+1000。\n·抽1张牌，将手牌的1张置于场外。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-030",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-030.png"
@@ -709,7 +817,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-031",
     "number": "UA54BT/MST-1-031",
-    "name": "UA54BT-MST-1-031-ロキシー",
+    "name": "MST-1-031-ロキシー",
+    "nameZh": "洛克西娅 (Lokisya)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -720,7 +829,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う） 自分のターン中 このターン中に自分がイベントカードを使用している場合、このキャラは インパクト（1） を得る。 登場時 このターン中、次に手札から使用する必要エナジーが3以下のイベントカードの消費APを-1する。",
+    "effectZh": "【登场时】将「洛克西娅」变为活跃，并可以移动到前线。无效果（本回合中与该角色战斗的角色在本战斗中失去冲击值）。在自己的回合中，如果自己在本回合中使用过事件卡，该角色获得 1 点冲击值。登场时：本回合中，下次从手牌使用的必要能量为3以下的事件卡的消耗AP-1。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（雷德）将这张卡加入手牌或满足所需能量的情况下，使其变为 Raid。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-031",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-031.png"
@@ -728,7 +839,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-031_p1",
     "number": "UA54BT/MST-1-031",
-    "name": "UA54BT-MST-1-031-ロキシー",
+    "name": "MST-1-031-ロキシー",
+    "nameZh": "洛克西娅 (Lokisya)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -739,7 +851,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う） 自分のターン中 このターン中に自分がイベントカードを使用している場合、このキャラは インパクト（1） を得る。 登場時 このターン中、次に手札から使用する必要エナジーが3以下のイベントカードの消費APを-1する。",
+    "effectZh": "【登场时】将「洛克西娅」变为活跃，并可以移动到前线。无效果（本回合中与该角色战斗的角色在本战斗中失去冲击值）。在自己的回合中，如果自己在本回合中使用过事件卡，该角色获得 1 点冲击值。登场时：本回合中，下次从手牌使用的必要能量为3以下的事件卡的消耗AP-1。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（雷德）将这张卡加入手牌或满足所需能量的情况下，使其变为 Raid。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-031",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-031_p1.png"
@@ -747,7 +861,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-032",
     "number": "UA54BT/MST-1-032",
-    "name": "UA54BT-MST-1-032-ロキシー",
+    "name": "MST-1-032-ロキシー",
+    "nameZh": "洛克希娅 (Lokisya)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -758,7 +873,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる 登場時 自分の場外から必要エナジーが2以下のカードを1枚まで手札に加える。 起動メイン フロントLにある場合 ターン1 このターン中に自分がイベントカードを使用している場合のみ発動できる。自分の場の必要エナジーが3以下のキャラを1枚選び、アクティブにする。 起動メイン フロントLにある場合 ターン1 自分の場の〈ルーデウス〉を1枚選び、別のラインに移動させる。",
+    "effectZh": "【登场时】将〈洛克希娅〉设为活跃，可移动至前线。从自己的场外抽一张能量为 2 或以下的卡片加入手牌。\n\n【发动主效果】若位于前线：本回合中仅在自己使用过事件卡时可发动。选择自己场上能量为 3 或以下的角色 1 张，将其设为活跃。\n\n【发动主效果】若位于前线：本回合中可发动。选择自己场上的〈鲁德乌斯〉(Rudeus) 1 张，使其移动至其他战线。\n\n【触发】将这张卡加入手牌或满足能量需求时，进行 Raid（突袭）。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "雷伊德 (Raid)",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-032",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-032.png"
@@ -766,7 +883,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-032_p1",
     "number": "UA54BT/MST-1-032",
-    "name": "UA54BT-MST-1-032-ロキシー",
+    "name": "MST-1-032-ロキシー",
+    "nameZh": "洛克希娅 (Lokisya)",
     "series": "无职转生",
     "color": "蓝色",
     "type": "角色卡",
@@ -777,7 +895,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる 登場時 自分の場外から必要エナジーが2以下のカードを1枚まで手札に加える。 起動メイン フロントLにある場合 ターン1 このターン中に自分がイベントカードを使用している場合のみ発動できる。自分の場の必要エナジーが3以下のキャラを1枚選び、アクティブにする。 起動メイン フロントLにある場合 ターン1 自分の場の〈ルーデウス〉を1枚選び、別のラインに移動させる。",
+    "effectZh": "【登场时】将〈洛克希娅〉设为活跃，可移动至前线。从自己的场外抽一张能量为 2 或以下的卡片加入手牌。\n\n【发动主效果】若位于前线：本回合中仅在自己使用过事件卡时可发动。选择自己场上能量为 3 或以下的角色 1 张，将其设为活跃。\n\n【发动主效果】若位于前线：本回合中可发动。选择自己场上的〈鲁德乌斯〉(Rudeus) 1 张，使其移动至其他战线。\n\n【触发】将这张卡加入手牌或满足能量需求时，进行 Raid（突袭）。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "雷伊德 (Raid)",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-032",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-032_p1.png"
@@ -785,7 +905,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-033",
     "number": "UA54BT/MST-1-033",
-    "name": "UA54BT-MST-1-033-デッドエンド",
+    "name": "MST-1-033-デッドエンド",
+    "nameZh": "死胡同",
     "series": "无职转生",
     "color": "蓝色",
     "type": "场地卡",
@@ -796,7 +917,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "青",
     "effect": "登場時 自分の山札の上から3枚見て、〈ルーデウス〉か〈エリス〉か〈ルイジェルド〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。 起動メイン レストにする このカードを退場させる 自分の手札から必要エナジーが3以下で消費APが1の青のキャラカードを1枚自分の場にレストで登場させるかレイドさせる。",
+    "effectZh": "【登场时】从自己的牌库上查看三张，公开一张〈鲁德乌斯〉、〈艾莉丝〉或〈路易杰尔多〉并加入手牌。将剩余者按任意顺序置于牌库下方。将此卡加入手牌后，将自己的一张手牌置入场外。\n【攻击时】横置此卡\n使这张卡退场\n从自己的手牌中消耗3点以下的能量、AP为1的蓝色角色卡一张在自己的场上以活跃状态登场或发动雷击",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽一张牌",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-033",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-033.png"
@@ -804,7 +927,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-034",
     "number": "UA54BT/MST-1-034",
-    "name": "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "name": "MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "nameZh": "教艾莉丝魔法喵☆",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -815,7 +939,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "effectZh": "选择自己场上的最多2张AP卡，使其活跃。",
     "trigger": "ファイナル 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【最终】若你的生命值没有数值时，从你牌库的上面抽1张放到你的生命区域中。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-034",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-034.png"
@@ -823,7 +949,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-034_p1",
     "number": "UA54BT/MST-1-034",
-    "name": "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "name": "MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "nameZh": "教艾莉丝魔法喵☆",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -834,7 +961,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "effectZh": "选择自己场上的最多2张AP卡，使其活跃。",
     "trigger": "ファイナル 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【最终】若你的生命值没有数值时，从你牌库的上面抽1张放到你的生命区域中。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-034",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-034_p1.png"
@@ -842,7 +971,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-035",
     "number": "UA54BT/MST-1-035",
-    "name": "UA54BT-MST-1-035-お前は戦士だ",
+    "name": "MST-1-035-お前は戦士だ",
+    "nameZh": "你，是战士！",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -853,7 +983,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "以下から3つまで選ぶ。・自分の場に〈ルーデウス〉がある場合、カードを1枚引く。・自分の場に〈エリス〉がある場合、カードを1枚引く。・自分の場に〈ルイジェルド〉がある場合、カードを1枚引く。",
+    "effectZh": "从以下效果中选择最多三个。·在自己的场上有〈鲁德乌斯〉时，抽一张牌。·在自己的场上有〈艾莉丝〉时，抽一张牌。·在自己的场上有〈路易杰尔多〉时，抽一张牌。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽取 1 张卡。\nX(Twitter) LINE URL已复制\nURL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-035",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-035.png"
@@ -861,7 +993,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-036",
     "number": "UA54BT/MST-1-036",
-    "name": "UA54BT-MST-1-036-豪雷積層雲",
+    "name": "MST-1-036-豪雷積層雲",
+    "nameZh": "豪雷积层云",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -872,7 +1005,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "このカードは自分の場に〈ロキシー〉がある場合のみ使用できる。自分の場外にあるイベントカード2枚につき、全ての場所でこのカードの必要エナジーを 青×1 減らす。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "effectZh": "本卡仅在己方场上有〈罗克西〉时才能使用。每有一张位于场外的事件卡，在所有场合中减少该卡的必要能量 青×1。选择敌方前线L的一张角色使其退场。",
     "trigger": "スペシャル 相手のフロントLのキャラを1枚選び、退場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "特殊：选择敌方前线 L 中的一张角色使其退场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-036",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-036.png"
@@ -880,7 +1015,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-036_p1",
     "number": "UA54BT/MST-1-036",
-    "name": "UA54BT-MST-1-036-豪雷積層雲",
+    "name": "MST-1-036-豪雷積層雲",
+    "nameZh": "豪雷积层云",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -891,7 +1027,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "このカードは自分の場に〈ロキシー〉がある場合のみ使用できる。自分の場外にあるイベントカード2枚につき、全ての場所でこのカードの必要エナジーを 青×1 減らす。BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "effectZh": "本卡仅在己方场上有〈罗克西〉时才能使用。每有一张位于场外的事件卡，在所有场合中减少该卡的必要能量 青×1。选择敌方前线L的一张角色使其退场。",
     "trigger": "スペシャル 相手のフロントLのキャラを1枚選び、退場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "特殊：选择敌方前线 L 中的一张角色使其退场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-036",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-036_p1.png"
@@ -899,7 +1037,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-037",
     "number": "UA54BT/MST-1-037",
-    "name": "UA54BT-MST-1-037-ご神体",
+    "name": "MST-1-037-ご神体",
+    "nameZh": "ご神体",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -910,7 +1049,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "effectZh": "选择自己场上的最多2张AP卡，使其活跃。",
     "trigger": "ファイナル 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【登场时】若自己的生命值没有数值，则从牌库顶部将一张牌置于自己的生命值区域中。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-037",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-037.png"
@@ -918,7 +1059,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-038",
     "number": "UA54BT/MST-1-038",
-    "name": "UA54BT-MST-1-038-師匠からのおくりもの",
+    "name": "MST-1-038-師匠からのおくりもの",
+    "nameZh": "来自师匠的礼物",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -929,7 +1071,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分の場のキャラを1枚選び、このターン中、BP+1000。自分の場に〈ロキシー〉がある場合、自分のAPカードを1枚アクティブにする。 起動メイン 場外にある場合 このターン中に自分の〈ルーデウス〉か〈ロキシー〉がレイドしていた場合のみ発動できる。自分の手札を1枚場外に置く。そうした場合、場外のこのカードを手札に加える。〈師匠からのおくりもの〉のこの効果は1ターンに1回のみ発動できる。",
+    "effectZh": "【登场时】选择自己场上的角色一张，本回合中 BP+1000。如果自己的场上有〈罗基斯〉，则使自己的 AP 卡一张活跃。\n\n启动主场地外存在的情况下仅在本回合中的时候才能发动。将手牌一张放到场外。如此的话，将该卡片从场外加入手牌。<br>「来自师匠的礼物」的这个效果一回合只能发动一次。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌。\nX(Twitter) LINE URL 已复制\nURL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-038",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-038.png"
@@ -937,7 +1081,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-039",
     "number": "UA54BT/MST-1-039",
-    "name": "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+    "name": "MST-1-039-ルーデウスはすごいのよ！",
+    "nameZh": "鲁德乌斯真厉害！",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -948,7 +1093,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "以下から1つ選ぶ。・自分の場の〈エリス〉を1枚選び、このターン中、BP+500と 狙い撃ち （相手のフロントLのキャラを指定してアタックでき、その場合ブロックされない）を与える。・自分の場に〈エリス〉がある場合、自分の場外から消費APが1の青の〈ルーデウス〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "effectZh": "从以下选项中选一个。·选择自己场上的「艾莉丝」一张，在本回合中给予 BP+500 和狙い撃ち（指定对手前线 L 的卡进行攻击时不会被阻挡）。·如果自己的场上有「艾莉丝」的话，可以从场外消耗 AP1 抽出的蓝色「鲁德乌斯」最多一张以横置状态登场或发动 Raid。",
     "trigger": "スペシャル 相手のフロントLのキャラを1枚選び、退場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Special：选择对手的 frontline L 的一张卡使其退场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-039",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-039.png"
@@ -956,7 +1103,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-040",
     "number": "UA54BT/MST-1-040",
-    "name": "UA54BT-MST-1-040-私がついていますから",
+    "name": "MST-1-040-私がついていますから",
+    "nameZh": "因为是我在负责啊",
     "series": "无职转生",
     "color": "蓝色",
     "type": "事件卡",
@@ -967,7 +1115,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "このカードは自分の場に〈ロキシー〉がある場合のみ使用できる。自分の手札から必要エナジーを満たし消費APが1の青の〔〈ルーデウス〉か〈ロキシー〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。カードを1枚引く。自分の場の〈ルーデウス〉を1枚まで選び、別のラインに移動させる。",
+    "effectZh": "本卡只能在己方场上有〈罗基斯〉时才能使用。从手牌中支付所需能量，消耗AP为1的蓝色的〔〈鲁德乌斯〉或〈罗基斯〉〕最多1张以横置状态登场至雷迪（Raid）状态。抽1张牌。选择己方场上的1张〈鲁德乌斯>并移动至其他战线。",
     "trigger": "カラー BP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "将对手场上颜色BP3500以下的1张前线L角色选回手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-040",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-040.png"
@@ -975,7 +1125,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-041",
     "number": "UA54BT/MST-1-041",
-    "name": "UA54BT-MST-1-041-アイシャ",
+    "name": "MST-1-041-アイシャ",
+    "nameZh": "艾莎 (Aisha)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -986,7 +1137,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "起動メイン レストにする 自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "effectZh": "[登场时]【横置】选择自己场上的其他角色一张，本回合中 BP+1000。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-041",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-041.png"
@@ -994,7 +1147,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-041_p1",
     "number": "UA54BT/MST-1-041",
-    "name": "UA54BT-MST-1-041-アイシャ",
+    "name": "MST-1-041-アイシャ",
+    "nameZh": "艾莎 (Aisha)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1005,7 +1159,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "起動メイン レストにする 自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "effectZh": "[登场时]【横置】选择自己场上的其他角色一张，本回合中 BP+1000。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-041",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-041_p1.png"
@@ -1013,7 +1169,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-042",
     "number": "UA54BT/MST-1-042",
-    "name": "UA54BT-MST-1-042-エリナリーゼ",
+    "name": "MST-1-042-エリナリーゼ",
+    "nameZh": "艾莉纳丽泽",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1024,7 +1181,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う） 起動メイン このターン中に自分の場のフィールドが退場している場合のみ発動できる。このキャラをアクティブにする。〈エリナリーゼ〉のこの効果は1ターンに1回のみ発動できる。",
+    "effectZh": "【登场时】无效冲击（与本角色战斗的角色在本战斗中失去冲击）发动主。仅当本回合中自己的场地场牌已退场的情况下才能发动。使该角色活跃。「艾莉纳丽泽」的此效果每回合只能发动1次。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择自己场上的1张角色，使其活跃，直到本回合结束时BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-042",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-042.png"
@@ -1032,7 +1191,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-043",
     "number": "UA54BT/MST-1-043",
-    "name": "UA54BT-MST-1-043-ギース",
+    "name": "MST-1-043-ギース",
+    "nameZh": "ギース",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1043,7 +1203,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の山札の上から5枚見て、緑のフィールドカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "effectZh": "【登场时】从自己的牌库上方翻开最多5张，公开一张绿色场地卡并加入手牌。将剩余的按任意顺序放回自己牌库下方。若加入了手牌，则将自己的一张手牌置于场外。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-043",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-043.png"
@@ -1051,7 +1213,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-044",
     "number": "UA54BT/MST-1-044",
-    "name": "UA54BT-MST-1-044-サラ",
+    "name": "MST-1-044-サラ",
+    "nameZh": "萨拉",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1062,7 +1225,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑緑",
     "effect": "登場時 必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "effectZh": "【登场时】必要能量为 1 以下的自己场上的其他角色抽回手牌。无法将其抽回手牌的情况下，使其退场并抽回手牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-044",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-044.png"
@@ -1070,7 +1235,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-045",
     "number": "UA54BT/MST-1-045",
-    "name": "UA54BT-MST-1-045-ゼニス",
+    "name": "MST-1-045-ゼニス",
+    "nameZh": "泽尼斯",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1081,7 +1247,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "起動メイン レストにする ターン1 このキャラはこのターン中、発生エナジー+ 緑 と「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "effectZh": "【登场时】横置。本回合中，发生能量 + 绿并获得「主阶段结束时，使其退场」。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-045",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-045.png"
@@ -1089,7 +1257,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-046",
     "number": "UA54BT/MST-1-046",
-    "name": "UA54BT-MST-1-046-タルハンド",
+    "name": "MST-1-046-タルハンド",
+    "nameZh": "TALE HAND",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1100,7 +1269,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑緑",
     "effect": "このターン中に自分の場のフィールドが退場している場合、このキャラの発生エナジー+ 緑 。 起動メイン フロントLにある場合 ターン1 自分の場のフィールドを1枚退場させる。そうした場合、このキャラはこのターン中、BP+1000。",
+    "effectZh": "【登场时】本回合中，若自己的场上的场地已退场，则此角色发生能量 + 绿。启动主：当前位于前线 L 的场合，第 1 回合使自己的场上的一张场地退场。如此情况的话，此角色在本回合 BP+1000。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URLをコピー URL をコピーしました",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-046",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-046.png"
@@ -1108,7 +1279,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-047",
     "number": "UA54BT/MST-1-047",
-    "name": "UA54BT-MST-1-047-パウロ",
+    "name": "MST-1-047-パウロ",
+    "nameZh": "保罗",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1119,7 +1291,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "ステップ （自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "effectZh": "【登场时】（可以从前线将能量线移动至自己的行动阶段）",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽 1 张牌。X(Twitter) LINE URL已复制URL已复制。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-047",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-047.png"
@@ -1127,7 +1301,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-048",
     "number": "UA54BT/MST-1-048",
-    "name": "UA54BT-MST-1-048-パウロ",
+    "name": "MST-1-048-パウロ",
+    "nameZh": "保罗",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1138,7 +1313,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の場のフィールドを1枚退場させてもよい。そうした場合、このキャラをアクティブにする。 アタック時 自分の場外にフィールドカードが6枚以上ある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。〈パウロ〉のこの効果は1ターンに1回のみ発動できる。",
+    "effectZh": "【登场时】若将己方场上的卡片使退场，则可以将此角色设为活跃。【攻击时】若己方场外有6枚以上的场地卡，则可以将手牌中的1张置于场外。如此操作后，将此角色设为活跃。「保罗」的该效果每回合仅能发动1次。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【激活】选择己方场上的任意一张角色并使其处于活跃状态；本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-048",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-048.png"
@@ -1146,7 +1323,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-049",
     "number": "UA54BT/MST-1-049",
-    "name": "UA54BT-MST-1-049-ルーデウス",
+    "name": "MST-1-049-ルーデウス",
+    "nameZh": "鲁德乌斯 (Ludwig)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1157,7 +1335,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の場のフィールドを1枚退場させてもよい。そうした場合、このキャラをアクティブにし、自分の山札の上から4枚見て、特徴を持たない〔キャラカードかフィールドカード〕を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "effectZh": "【登场时】若将己方场上的任意一张卡使其退场，则将此角色设为活跃状态。从自己的牌库顶部翻开 4 张，公开其中最多 1 张没有特征的〔角色卡或场地卡〕并加入手牌。其余的按任意顺序放回自己牌库底部。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【触发】将这张卡加入手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-049",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-049.png"
@@ -1165,7 +1345,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-049_p1",
     "number": "UA54BT/MST-1-049",
-    "name": "UA54BT-MST-1-049-ルーデウス",
+    "name": "MST-1-049-ルーデウス",
+    "nameZh": "鲁德乌斯 (Ludwig)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1176,7 +1357,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の場のフィールドを1枚退場させてもよい。そうした場合、このキャラをアクティブにし、自分の山札の上から4枚見て、特徴を持たない〔キャラカードかフィールドカード〕を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "effectZh": "【登场时】若将己方场上的任意一张卡使其退场，则将此角色设为活跃状态。从自己的牌库顶部翻开 4 张，公开其中最多 1 张没有特征的〔角色卡或场地卡〕并加入手牌。其余的按任意顺序放回自己牌库底部。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【触发】将这张卡加入手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-049",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-049_p1.png"
@@ -1184,7 +1367,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-050",
     "number": "UA54BT/MST-1-050",
-    "name": "UA54BT-MST-1-050-ロキシー",
+    "name": "MST-1-050-ロキシー",
+    "nameZh": "洛克西 (Lokis)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1195,7 +1379,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "-",
+    "effectZh": "",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【登场时】抽1张牌。复制 X(Twitter) LINE URL 的链接。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-050",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-050.png"
@@ -1203,7 +1389,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-051",
     "number": "UA54BT/MST-1-051",
-    "name": "UA54BT-MST-1-051-ロキシー",
+    "name": "MST-1-051-ロキシー",
+    "nameZh": "洛克希娅 (Lokisya)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1214,7 +1401,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑緑",
     "effect": "登場時 カードを1枚引き、自分の手札を1枚場外に置く。",
+    "effectZh": "【登场时】抽一张牌，将手牌中的一张置于场外。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "触发：抽一张牌。\nX(Twitter) LINE URL 已复制\nURL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-051",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-051.png"
@@ -1222,7 +1411,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-052",
     "number": "UA54BT/MST-1-052",
-    "name": "UA54BT-MST-1-052-ロキシー",
+    "name": "MST-1-052-ロキシー",
+    "nameZh": "洛克西娅",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1233,7 +1423,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "退場時 自分の場にフィールドがある場合、カードを1枚引く。",
+    "effectZh": "【退场时】如果自己的场上有场地，抽一张牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-052",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-052.png"
@@ -1241,7 +1433,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-052_p1",
     "number": "UA54BT/MST-1-052",
-    "name": "UA54BT-MST-1-052-ロキシー",
+    "name": "MST-1-052-ロキシー",
+    "nameZh": "洛克西娅",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1252,7 +1445,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "退場時 自分の場にフィールドがある場合、カードを1枚引く。",
+    "effectZh": "【退场时】如果自己的场上有场地，抽一张牌。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-052",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-052_p1.png"
@@ -1260,7 +1455,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-053",
     "number": "UA54BT/MST-1-053",
-    "name": "UA54BT-MST-1-053-ロキシー",
+    "name": "MST-1-053-ロキシー",
+    "nameZh": "洛克希 (ROKISHI)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1271,7 +1467,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "相手のターン中 自分の緑の カラー",
+    "effectZh": "\"对手回合中\"自己的绿色【颜色】，\n\n触发效果：可以将记载在「角色卡」的卡片替换为「场地卡」。登场时抽 1 张牌，将手牌中的 1 张置于场外。启动主阵线 L 存在的情况下本回合第 1 次可将自己场上的场地卡退场。如此操作的话可抽 1 张牌。\n\n触发【颜色】从手牌中消耗能量为 2 以下的绿色角色卡，AP 为 1 的卡片作为活跃状态登场于自己的场上。",
     "trigger": "の効果に記載されている「キャラカード」を「フィールドカード」に代えてもよい。 登場時 カードを1枚引き、自分の手札を1枚場外に置く。 起動メイン フロントLにある場合 ターン1 自分の場のフィールドを1枚退場させてもよい。そうした場合、カードを1枚引く。 トリガー カラー 自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "\"对手回合中\"自己的绿色【颜色】",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-053",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-053.png"
@@ -1279,7 +1477,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-053_p1",
     "number": "UA54BT/MST-1-053",
-    "name": "UA54BT-MST-1-053-ロキシー",
+    "name": "MST-1-053-ロキシー",
+    "nameZh": "洛克希 (ROKISHI)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1290,7 +1489,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "相手のターン中 自分の緑の カラー",
+    "effectZh": "\"对手回合中\"自己的绿色【颜色】，\n\n触发效果：可以将记载在「角色卡」的卡片替换为「场地卡」。登场时抽 1 张牌，将手牌中的 1 张置于场外。启动主阵线 L 存在的情况下本回合第 1 次可将自己场上的场地卡退场。如此操作的话可抽 1 张牌。\n\n触发【颜色】从手牌中消耗能量为 2 以下的绿色角色卡，AP 为 1 的卡片作为活跃状态登场于自己的场上。",
     "trigger": "の効果に記載されている「キャラカード」を「フィールドカード」に代えてもよい。 登場時 カードを1枚引き、自分の手札を1枚場外に置く。 起動メイン フロントLにある場合 ターン1 自分の場のフィールドを1枚退場させてもよい。そうした場合、カードを1枚引く。 トリガー カラー 自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "\"对手回合中\"自己的绿色【颜色】",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-053",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-053_p1.png"
@@ -1298,7 +1499,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-054",
     "number": "UA54BT/MST-1-054",
-    "name": "UA54BT-MST-1-054-ロキシー",
+    "name": "MST-1-054-ロキシー",
+    "nameZh": "洛克西 (Lokis)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1309,7 +1511,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる 登場時 自分の場外にフィールドカードがある場合、相手のフロントLのキャラを1枚まで選び、レストにする。それは次の相手のアタックフェイズ終了時まで、元々の効果を全て失い、アクティブにならない。",
+    "effectZh": "[登场时] 将【攻击时】变为活跃，并可以移动到前线。若自己的场外有场地卡存在，则选择对手的前线中的角色最多一张使其退场。该卡片在本回合中失去原本的所有效果且不能成为活跃状态，直到对手的下一个攻击阶段结束为止。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[Raid] 将此牌加入手牌或满足所需能量时，发动 Raid。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-054",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-054.png"
@@ -1317,7 +1521,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-054_p1",
     "number": "UA54BT/MST-1-054",
-    "name": "UA54BT-MST-1-054-ロキシー",
+    "name": "MST-1-054-ロキシー",
+    "nameZh": "洛克西 (Lokis)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1328,7 +1533,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる 登場時 自分の場外にフィールドカードがある場合、相手のフロントLのキャラを1枚まで選び、レストにする。それは次の相手のアタックフェイズ終了時まで、元々の効果を全て失い、アクティブにならない。",
+    "effectZh": "[登场时] 将【攻击时】变为活跃，并可以移动到前线。若自己的场外有场地卡存在，则选择对手的前线中的角色最多一张使其退场。该卡片在本回合中失去原本的所有效果且不能成为活跃状态，直到对手的下一个攻击阶段结束为止。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[Raid] 将此牌加入手牌或满足所需能量时，发动 Raid。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-054",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-054_p1.png"
@@ -1336,7 +1543,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-054_p2",
     "number": "UA54BT/MST-1-054",
-    "name": "UA54BT-MST-1-054-ロキシー",
+    "name": "MST-1-054-ロキシー",
+    "nameZh": "洛克西 (Lokis)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1347,7 +1555,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "レイド 〈ロキシー〉アクティブにし、フロントLに移動できる 登場時 自分の場外にフィールドカードがある場合、相手のフロントLのキャラを1枚まで選び、レストにする。それは次の相手のアタックフェイズ終了時まで、元々の効果を全て失い、アクティブにならない。",
+    "effectZh": "[登场时] 将【攻击时】变为活跃，并可以移动到前线。若自己的场外有场地卡存在，则选择对手的前线中的角色最多一张使其退场。该卡片在本回合中失去原本的所有效果且不能成为活跃状态，直到对手的下一个攻击阶段结束为止。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[Raid] 将此牌加入手牌或满足所需能量时，发动 Raid。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-054",
     "variant": "异图版 2",
     "image": "/cards/UA54BT_MST-1-054_p2.png"
@@ -1355,7 +1565,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-055",
     "number": "UA54BT/MST-1-055",
-    "name": "UA54BT-MST-1-055-アリエル",
+    "name": "MST-1-055-アリエル",
+    "nameZh": "阿利尔",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1366,7 +1577,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の山札の上から3枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "effectZh": "【登场时】从自己的牌库上查看3张，公开最多1张［特征：拉诺亚魔法大学］并加入手牌。其余的按任意顺序放回自己牌库下方。将卡牌加入手牌后，将自己的一张手牌置于场外。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽一张卡",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-055",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-055.png"
@@ -1374,7 +1587,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-056",
     "number": "UA54BT/MST-1-056",
-    "name": "UA54BT-MST-1-056-エリナリーゼ",
+    "name": "MST-1-056-エリナリーゼ",
+    "nameZh": "艾莉纳丽泽",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1385,7 +1599,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "起動メイン レストにする ターン1 自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+ 緑 。",
+    "effectZh": "[登场时]【自己的回合中】将本场的活跃角色一张横置。如此，该角色在本回合中，发生能量 + 绿。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-056",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-056.png"
@@ -1393,7 +1609,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-057",
     "number": "UA54BT/MST-1-057",
-    "name": "UA54BT-MST-1-057-クリフ",
+    "name": "MST-1-057-クリフ",
+    "nameZh": "悬崖",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1404,7 +1621,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "このキャラはフロントLでもエナジーを発生させる。",
+    "effectZh": "【登场时】本角色也能产生能量线。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽1张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-057",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-057.png"
@@ -1412,7 +1631,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-058",
     "number": "UA54BT/MST-1-058",
-    "name": "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+    "name": "MST-1-058-ザノバ＆ジュリエット",
+    "nameZh": "扎诺瓦&朱丽叶特",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1423,7 +1643,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "-",
     "effect": "インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う） 起動メイン ターン1 自分の発生エナジーが7以上あり、自分の場のキャラが全て［特徴：ラノア魔法大学］の場合のみ発動できる。このキャラは次の自分のターン開始時まで、BP+500。",
+    "effectZh": "【登场时】无效冲击（与本角色战斗的角色在本战斗中失去冲击）\n启动主\n本回合中 自己的发生能量为7以上，且自己场上的所有角色的特征均为「拉诺亚魔法大学」的情况下才能发动。该角色直到下个自己的回合开始时 BP+500。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择自己场上的1个角色使其活跃，在本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-058",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-058.png"
@@ -1431,7 +1653,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-059",
     "number": "UA54BT/MST-1-059",
-    "name": "UA54BT-MST-1-059-シルフィエット",
+    "name": "MST-1-059-シルフィエット",
+    "nameZh": "风精灵",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1442,7 +1665,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "effectZh": "【登场时】从以下选项中选一个。·抽一张牌，将手牌中的一张置于场外。·选择自己的前线中最多 1 枚［特征：拉诺亚魔法大学］的卡牌，给予其「本回合中，该角色也能产生能量线。」",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-059",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-059.png"
@@ -1450,7 +1675,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-059_p1",
     "number": "UA54BT/MST-1-059",
-    "name": "UA54BT-MST-1-059-シルフィエット",
+    "name": "MST-1-059-シルフィエット",
+    "nameZh": "风精灵",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1461,7 +1687,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 以下から1つ選ぶ。・カードを1枚引き、自分の手札を1枚場外に置く。・自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "effectZh": "【登场时】从以下选项中选一个。·抽一张牌，将手牌中的一张置于场外。·选择自己的前线中最多 1 枚［特征：拉诺亚魔法大学］的卡牌，给予其「本回合中，该角色也能产生能量线。」",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-059",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-059_p1.png"
@@ -1469,7 +1697,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-060",
     "number": "UA54BT/MST-1-060",
-    "name": "UA54BT-MST-1-060-シルフィエット",
+    "name": "MST-1-060-シルフィエット",
+    "nameZh": "风精灵 (Silphiet)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1480,7 +1709,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "ステップ （自分の移動フェイズにフロントLからエナジーLへ移動できる） 起動メイン フロントLにある場合 ターン1 カードを1枚引き、自分の手札を1枚場外に置く。自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "effectZh": "【登场时】（可以从前线将能量线移动至自己的移动阶段）启动。若处于前线，则抽 1 张牌，并将手牌中的 1 张置于场外。选择本方前线的最多 1 张［特征：拉诺亚魔法大学］的卡牌，给予其「本回合中，该角色也可以产生能量。」的效果。\n【攻击时】将该卡加入手牌。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-060",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-060.png"
@@ -1488,7 +1719,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-060_p1",
     "number": "UA54BT/MST-1-060",
-    "name": "UA54BT-MST-1-060-シルフィエット",
+    "name": "MST-1-060-シルフィエット",
+    "nameZh": "风精灵 (Silphiet)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1499,7 +1731,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "ステップ （自分の移動フェイズにフロントLからエナジーLへ移動できる） 起動メイン フロントLにある場合 ターン1 カードを1枚引き、自分の手札を1枚場外に置く。自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "effectZh": "【登场时】（可以从前线将能量线移动至自己的移动阶段）启动。若处于前线，则抽 1 张牌，并将手牌中的 1 张置于场外。选择本方前线的最多 1 张［特征：拉诺亚魔法大学］的卡牌，给予其「本回合中，该角色也可以产生能量。」的效果。\n【攻击时】将该卡加入手牌。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-060",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-060_p1.png"
@@ -1507,7 +1741,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-060_p2",
     "number": "UA54BT/MST-1-060",
-    "name": "UA54BT-MST-1-060-シルフィエット",
+    "name": "MST-1-060-シルフィエット",
+    "nameZh": "风精灵 (Silphiet)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1518,7 +1753,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "ステップ （自分の移動フェイズにフロントLからエナジーLへ移動できる） 起動メイン フロントLにある場合 ターン1 カードを1枚引き、自分の手札を1枚場外に置く。自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "effectZh": "【登场时】（可以从前线将能量线移动至自己的移动阶段）启动。若处于前线，则抽 1 张牌，并将手牌中的 1 张置于场外。选择本方前线的最多 1 张［特征：拉诺亚魔法大学］的卡牌，给予其「本回合中，该角色也可以产生能量。」的效果。\n【攻击时】将该卡加入手牌。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-060",
     "variant": "异图版 2",
     "image": "/cards/UA54BT_MST-1-060_p2.png"
@@ -1526,7 +1763,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-061",
     "number": "UA54BT/MST-1-061",
-    "name": "UA54BT-MST-1-061-ナナホシ",
+    "name": "MST-1-061-ナナホシ",
+    "nameZh": "七色鸟",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1537,7 +1775,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "effectZh": "[登场时] 选择自己场上的其他角色最多1只，本回合中 BP+1000。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-061",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-061.png"
@@ -1545,7 +1785,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-061_p1",
     "number": "UA54BT/MST-1-061",
-    "name": "UA54BT-MST-1-061-ナナホシ",
+    "name": "MST-1-061-ナナホシ",
+    "nameZh": "七色鸟",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1556,7 +1797,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "effectZh": "[登场时] 选择自己场上的其他角色最多1只，本回合中 BP+1000。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-061",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-061_p1.png"
@@ -1564,7 +1807,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-062",
     "number": "UA54BT/MST-1-062",
-    "name": "UA54BT-MST-1-062-ナナホシ",
+    "name": "MST-1-062-ナナホシ",
+    "nameZh": "七色鸟",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1575,7 +1819,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "登場時 以下から1つ選ぶ。・〈ナナホシ〉以外の自分の場のキャラを1枚手札に戻してもよい。そうした場合、このターン中、次に手札から使用する元々の発生エナジーが2以上のキャラカードの消費APを-1する。・カードを1枚引く。",
+    "effectZh": "[登场时] 从以下选项中选一个。\n・将除〈七色鸟〉以外的自己场上的角色卡一张放回手牌。如此的话，本回合中，下次从手牌使用的原本发生能量为2以上的角色卡的消耗AP-1。\n・抽1张牌。",
     "trigger": "カラー 自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[触发] 在自己的手牌中，以所需能量2以下、消耗AP为1的绿色角色卡一张，在自己场上活跃登场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-062",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-062.png"
@@ -1583,7 +1829,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-062_p1",
     "number": "UA54BT/MST-1-062",
-    "name": "UA54BT-MST-1-062-ナナホシ",
+    "name": "MST-1-062-ナナホシ",
+    "nameZh": "七色鸟",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1594,7 +1841,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "登場時 以下から1つ選ぶ。・〈ナナホシ〉以外の自分の場のキャラを1枚手札に戻してもよい。そうした場合、このターン中、次に手札から使用する元々の発生エナジーが2以上のキャラカードの消費APを-1する。・カードを1枚引く。",
+    "effectZh": "[登场时] 从以下选项中选一个。\n・将除〈七色鸟〉以外的自己场上的角色卡一张放回手牌。如此的话，本回合中，下次从手牌使用的原本发生能量为2以上的角色卡的消耗AP-1。\n・抽1张牌。",
     "trigger": "カラー 自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "[触发] 在自己的手牌中，以所需能量2以下、消耗AP为1的绿色角色卡一张，在自己场上活跃登场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-062",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-062_p1.png"
@@ -1602,7 +1851,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-063",
     "number": "UA54BT/MST-1-063",
-    "name": "UA54BT-MST-1-063-ノルン",
+    "name": "MST-1-063-ノルン",
+    "nameZh": "诺伦 (Norn)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1613,7 +1863,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の発生エナジーが7以上ある場合、カードを1枚引く。",
+    "effectZh": "【登场时】若自己的发生能量为7以上，则抽1张牌。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "触发：抽1张牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-063",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-063.png"
@@ -1621,7 +1873,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-064",
     "number": "UA54BT/MST-1-064",
-    "name": "UA54BT-MST-1-064-バーディガーディ",
+    "name": "MST-1-064-バーディガーディ",
+    "nameZh": "UA54BT-MST-1-064 - 巴迪加迪",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1632,7 +1885,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "このキャラはアクティブで登場させる。 退場時 このカードを手札に加えてもよい。",
+    "effectZh": "【登场时】本角色作为活跃状态登场。 【退场时】可以将这张卡加入手牌。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择自己场上的一个角色，使其成为活跃状态，在本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-064",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-064.png"
@@ -1640,7 +1895,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-065",
     "number": "UA54BT/MST-1-065",
-    "name": "UA54BT-MST-1-065-フィッツ",
+    "name": "MST-1-065-フィッツ",
+    "nameZh": "菲茨 (Fitz)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1651,7 +1907,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "このカードは〈シルフィエット〉としても扱う。 登場時 自分の山札の上から2枚見て、［特徴：ラノア魔法大学］を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "effectZh": "【登场时】这张卡也作为〈风精灵〉处理。在自己的回合中，从自己的牌库上面看2张，将最多1张［特征：拉诺亚魔法大学］置于场外，其余的按任意顺序放回自己牌库顶部。",
     "trigger": "アクティブ 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【攻击时】选择你场上的角色1枚使其活跃，本回合中 BP+3000。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-065",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-065.png"
@@ -1659,7 +1917,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-066",
     "number": "UA54BT/MST-1-066",
-    "name": "UA54BT-MST-1-066-フィッツ",
+    "name": "MST-1-066-フィッツ",
+    "nameZh": "菲茨 (Fitz)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1670,7 +1929,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "このカードは〈シルフィエット〉としても扱う。 自分のターン中 自分の発生エナジーが7以上ある場合、このキャラはBP+1000。",
+    "effectZh": "【登场时】这张卡也作为〈丝飞特〉处理。在自己的回合中，如果自己的发生能量为7以上，该角色的BP+1000。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽1张牌。X(Twitter) LINE URL已复制URL已复制。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-066",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-066.png"
@@ -1678,7 +1939,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-067",
     "number": "UA54BT/MST-1-067",
-    "name": "UA54BT-MST-1-067-フィッツ",
+    "name": "MST-1-067-フィッツ",
+    "nameZh": "菲茨 (Fitz)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1689,7 +1951,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "このカードは〈シルフィエット〉としても扱う。 レイド 〈シルフィエット〉アクティブにし、フロントLに移動できる 登場時 自分の場の元々の発生エナジーが1以上の［特徴：ラノア魔法大学］を1枚まで選び、次の自分のターン開始時まで、「このキャラは相手の効果で選ばれない。」を与える。 退場時 このキャラのレイド元のカードを1枚まで自分の場にレストで登場させるか手札に加える。",
+    "effectZh": "【登场时】这张卡也作为〈风精灵〉处理。将 Raid（突袭）［特征：拉诺亚魔法大学］设为活跃，并移动到前线 L 线。选择自己场上原本存在的能量为1张以上的「[特性:兰奥魔法学院]」最多一张，直到自己的下个回合开始时给予该角色“不会被对手的效果选中”效果。\n【退场时】将该角色的 Raid（突袭）来源卡最多一张在自己的场上横置登场或加入手牌。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid 将这张卡加入手牌或在满足所需能量时将此卡设为 Raid（突袭）。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-067",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-067.png"
@@ -1697,7 +1961,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-068",
     "number": "UA54BT/MST-1-068",
-    "name": "UA54BT-MST-1-068-フィッツ",
+    "name": "MST-1-068-フィッツ",
+    "nameZh": "菲茨 (Fitz)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1708,7 +1973,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "このカードは〈シルフィエット〉としても扱う。 レイド 〈シルフィエット〉アクティブにし、フロントLに移動できる自分の発生エナジーが7以上ある場合、このキャラは インパクト（1） を得る。 登場時 以下から1つ選ぶ。・自分の山札の上から5枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。・相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。",
+    "effectZh": "本卡可当作〈丝菲埃特〉使用。若满足以下所有条件，则此角色获得冲击（1）：将〈丝菲埃特〉设为活跃状态并移动至前线 L；自己的发生能量线为 7 或以上。\n登场时从下列选项中选一项执行：\n·从上方的山札中翻开最多 5 张牌，公开其中一张［特征：拉诺亚魔法大学］并将其加入手牌。其余的按任意顺序放回下方山札。\n·选择对手的前线 L 中的一名角色，将其移动至能量线。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（突袭）将本卡加入手牌或满足所需能量的情况下，使其进入 Raid 状态。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-068",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-068.png"
@@ -1716,7 +1983,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-068_p1",
     "number": "UA54BT/MST-1-068",
-    "name": "UA54BT-MST-1-068-フィッツ",
+    "name": "MST-1-068-フィッツ",
+    "nameZh": "菲茨 (Fitz)",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1727,7 +1995,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑",
     "effect": "このカードは〈シルフィエット〉としても扱う。 レイド 〈シルフィエット〉アクティブにし、フロントLに移動できる自分の発生エナジーが7以上ある場合、このキャラは インパクト（1） を得る。 登場時 以下から1つ選ぶ。・自分の山札の上から5枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。・相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。",
+    "effectZh": "本卡可当作〈丝菲埃特〉使用。若满足以下所有条件，则此角色获得冲击（1）：将〈丝菲埃特〉设为活跃状态并移动至前线 L；自己的发生能量线为 7 或以上。\n登场时从下列选项中选一项执行：\n·从上方的山札中翻开最多 5 张牌，公开其中一张［特征：拉诺亚魔法大学］并将其加入手牌。其余的按任意顺序放回下方山札。\n·选择对手的前线 L 中的一名角色，将其移动至能量线。",
     "trigger": "レイド このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "Raid（突袭）将本卡加入手牌或满足所需能量的情况下，使其进入 Raid 状态。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-068",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-068_p1.png"
@@ -1735,7 +2005,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-069",
     "number": "UA54BT/MST-1-069",
-    "name": "UA54BT-MST-1-069-プルセナ",
+    "name": "MST-1-069-プルセナ",
+    "nameZh": "普塞娜",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1746,7 +2017,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "effectZh": "【登场时】查看自己的牌库顶部的一张，将其置于牌库顶或场外。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-069",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-069.png"
@@ -1754,7 +2027,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-069_p1",
     "number": "UA54BT/MST-1-069",
-    "name": "UA54BT-MST-1-069-プルセナ",
+    "name": "MST-1-069-プルセナ",
+    "nameZh": "普塞娜",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1765,7 +2039,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "effectZh": "【登场时】查看自己的牌库顶部的一张，将其置于牌库顶或场外。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-069",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-069_p1.png"
@@ -1773,7 +2049,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-070",
     "number": "UA54BT/MST-1-070",
-    "name": "UA54BT-MST-1-070-リニアーナ",
+    "name": "MST-1-070-リニアーナ",
+    "nameZh": "线性娜",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1784,7 +2061,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "-",
+    "effectZh": "",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽一张牌。复制 X(Twitter) LINE URL。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-070",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-070.png"
@@ -1792,7 +2071,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-070_p1",
     "number": "UA54BT/MST-1-070",
-    "name": "UA54BT-MST-1-070-リニアーナ",
+    "name": "MST-1-070-リニアーナ",
+    "nameZh": "线性娜",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1803,7 +2083,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "-",
+    "effectZh": "",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "抽一张牌。复制 X(Twitter) LINE URL。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-070",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-070_p1.png"
@@ -1811,7 +2093,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-071",
     "number": "UA54BT/MST-1-071",
-    "name": "UA54BT-MST-1-071-ルーデウス",
+    "name": "MST-1-071-ルーデウス",
+    "nameZh": "鲁德乌斯 (UA54BT-MST-1-071)",
     "series": "无职转生",
     "color": "未分类",
     "type": "角色卡",
@@ -1822,7 +2105,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "インパクト無効 （このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "effectZh": "【登场时】无效冲击（本角色与对手进行战斗期间，该对手失去冲击）",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-071",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-071.png"
@@ -1830,7 +2115,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-072",
     "number": "UA54BT/MST-1-072",
-    "name": "UA54BT-MST-1-072-ルーデウス",
+    "name": "MST-1-072-ルーデウス",
+    "nameZh": "鲁德乌斯",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1841,7 +2127,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑",
     "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+ 緑 。",
+    "effectZh": "【登场时】本角色为活跃状态，获得（发生能量 +绿色）。",
     "trigger": "- X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "- X(Twitter) LINE URL 已复制。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-072",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-072.png"
@@ -1849,7 +2137,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-073",
     "number": "UA54BT/MST-1-073",
-    "name": "UA54BT-MST-1-073-ルーデウス",
+    "name": "MST-1-073-ルーデウス",
+    "nameZh": "鲁德乌斯",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1860,7 +2149,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑緑",
     "effect": "このカードはエナジーLに〔登場・移動〕できず、自分の効果以外でアクティブにならない。 起動メイン 自分の発生エナジーが7以上ある場合のみ発動できる。このキャラをアクティブにする。カードを1枚引く。自分の場のキャラを1枚まで選び、このターン中、BP+2000。このキャラはこのターン中、「自分のアタックフェイズ終了時、このキャラをアクティブにする。」を得る。〈ルーデウス〉のこの効果は1ターンに1回のみ発動できる。",
+    "effectZh": "【登场时】这张卡不能进入能量线，也不能由自己的效果以外的东西使其活跃。【攻击时】仅在自己拥有 7 点以上发生能量的情况下才能发动。使该角色活跃。抽 1 张牌。选择自己场上的 1 只角色，本回合中 BP+2000。该角色在本回合中获得「在自己的攻击阶段结束时，将该角色使其活跃。」的效果。「鲁德乌斯」的此效果每回合只能发动 1 次。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【触发】将这张卡加入手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-073",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-073.png"
@@ -1868,7 +2159,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-073_p1",
     "number": "UA54BT/MST-1-073",
-    "name": "UA54BT-MST-1-073-ルーデウス",
+    "name": "MST-1-073-ルーデウス",
+    "nameZh": "鲁德乌斯",
     "series": "无职转生",
     "color": "绿色",
     "type": "角色卡",
@@ -1879,7 +2171,9 @@ export const cards: Card[] = [
     "feature": "ラノア魔法大学",
     "generatedEnergy": "緑緑緑",
     "effect": "このカードはエナジーLに〔登場・移動〕できず、自分の効果以外でアクティブにならない。 起動メイン 自分の発生エナジーが7以上ある場合のみ発動できる。このキャラをアクティブにする。カードを1枚引く。自分の場のキャラを1枚まで選び、このターン中、BP+2000。このキャラはこのターン中、「自分のアタックフェイズ終了時、このキャラをアクティブにする。」を得る。〈ルーデウス〉のこの効果は1ターンに1回のみ発動できる。",
+    "effectZh": "【登场时】这张卡不能进入能量线，也不能由自己的效果以外的东西使其活跃。【攻击时】仅在自己拥有 7 点以上发生能量的情况下才能发动。使该角色活跃。抽 1 张牌。选择自己场上的 1 只角色，本回合中 BP+2000。该角色在本回合中获得「在自己的攻击阶段结束时，将该角色使其活跃。」的效果。「鲁德乌斯」的此效果每回合只能发动 1 次。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【触发】将这张卡加入手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-073",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-073_p1.png"
@@ -1887,7 +2181,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-074",
     "number": "UA54BT/MST-1-074",
-    "name": "UA54BT-MST-1-074-転移の迷宮",
+    "name": "MST-1-074-転移の迷宮",
+    "nameZh": "转移迷宫",
     "series": "无职转生",
     "color": "绿色",
     "type": "场地卡",
@@ -1898,7 +2193,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "登場時 自分の場のキャラを1枚退場させてもよい。そうした場合、カードを2枚引く。 退場時 以下から1つ選ぶ。・自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが1以下の緑の〈ロキシー〉を1枚まで自分の場にレストで登場させる。・自分の場外から〈迷宮の守護者 マナタイトヒュドラ〉を1枚まで手札に加える。",
+    "effectZh": "【登场时】若使自己场上的角色退场，则抽2张牌。【退场时】从以下选项中选1个：·可将自己手牌中的1张置于场外。如此的话，可从自己的外场中最多将1张绿色〈罗克西〉（能量线≤1）以横置状态登场至自己场上。·可将最多1张〈迷宫守护者 玛纳蒂特水龙〉从外场加入己方手牌。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【触发】将此卡加入我方手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-074",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-074.png"
@@ -1906,7 +2203,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-075",
     "number": "UA54BT/MST-1-075",
-    "name": "UA54BT-MST-1-075-迷宮都市ラパン",
+    "name": "MST-1-075-迷宮都市ラパン",
+    "nameZh": "迷宮都市拉潘",
     "series": "无职转生",
     "color": "未分类",
     "type": "场地卡",
@@ -1917,7 +2215,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑",
     "effect": "登場時 カードを1枚引き、自分の手札を1枚場外に置く。 退場時 カードを1枚引く。",
+    "effectZh": "【登场时】抽一张牌，将手牌中的一张置于场外。 【退场时】抽一张牌。",
     "trigger": "ゲット このカードを手札に加える。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "获得：将此卡加入手牌。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-075",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-075.png"
@@ -1925,7 +2225,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-076",
     "number": "UA54BT/MST-1-076",
-    "name": "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+    "name": "MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+    "nameZh": "迷宫守护者 - 玛纳泰坦水蛇",
     "series": "无职转生",
     "color": "绿色",
     "type": "场地卡",
@@ -1936,7 +2237,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "緑緑",
     "effect": "退場時 自分の場外から必要エナジーが『1』以下で消費APが1の特徴を持たない緑のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。自分の場外にある他のフィールドカード1枚につき、この効果で登場させるキャラの必要エナジーの範囲+1。",
+    "effectZh": "【退场时】从自己的场外抽一张特征为「必要能量≤1」「AP=1」的绿色角色卡，将其以横置状态登场到自己的场上或使其进入 Raid。每有一张位于自己外场的其他场地卡，该效果登场的角色的所需能量范围+1。",
     "trigger": "スペシャル 相手のフロントLのキャラを1枚選び、退場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【触发】选择对手的 Frontline 的一张角色卡并使其退场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-076",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-076.png"
@@ -1944,7 +2247,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-077",
     "number": "UA54BT/MST-1-077",
-    "name": "UA54BT-MST-1-077-今までありがとう",
+    "name": "MST-1-077-今までありがとう",
+    "nameZh": "至今为止谢谢了",
     "series": "无职转生",
     "color": "绿色",
     "type": "事件卡",
@@ -1955,7 +2259,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "effectZh": "选择最多2张自己的AP卡，使其活跃。",
     "trigger": "ファイナル 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【登场时】若你的生命值为空，从你的牌库顶部将一张置于你的生命区域中。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-077",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-077.png"
@@ -1963,7 +2269,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-077_p1",
     "number": "UA54BT/MST-1-077",
-    "name": "UA54BT-MST-1-077-今までありがとう",
+    "name": "MST-1-077-今までありがとう",
+    "nameZh": "至今为止谢谢了",
     "series": "无职转生",
     "color": "绿色",
     "type": "事件卡",
@@ -1974,7 +2281,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "effectZh": "选择最多2张自己的AP卡，使其活跃。",
     "trigger": "ファイナル 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【登场时】若你的生命值为空，从你的牌库顶部将一张置于你的生命区域中。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-077",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-077_p1.png"
@@ -1982,7 +2291,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-078",
     "number": "UA54BT/MST-1-078",
-    "name": "UA54BT-MST-1-078-守護術師フィッツ",
+    "name": "MST-1-078-守護術師フィッツ",
+    "nameZh": "守护术师菲茨",
     "series": "无职转生",
     "color": "绿色",
     "type": "事件卡",
@@ -1993,7 +2303,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈シルフィエット〉がある場合、『BP5000以下』に代わる。",
+    "effectZh": "[BP3000以下]的对方前线L的角色选1张，使其退场。自己的场上有〈丝精灵〉的情况下，[BP5000以下]代替。",
     "trigger": "スペシャル 相手のフロントLのキャラを1枚選び、退場させる。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "特殊 对方的前线L的角色选1张，使其退场。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-078",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-078.png"
@@ -2001,7 +2313,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-079",
     "number": "UA54BT/MST-1-079",
-    "name": "UA54BT-MST-1-079-ゼニス救出作戦",
+    "name": "MST-1-079-ゼニス救出作戦",
+    "nameZh": "泽尼斯救援作战",
     "series": "无职转生",
     "color": "绿色",
     "type": "事件卡",
@@ -2012,7 +2325,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "effectZh": "选择最多2张自己的AP卡，使其活跃。",
     "trigger": "ファイナル 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "【最终】若你的生命值没有时，从你的手牌上方将一张置于你的生命区域中。",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-079",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-079.png"
@@ -2020,7 +2335,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-080",
     "number": "UA54BT/MST-1-080",
-    "name": "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+    "name": "MST-1-080-そう、ボクはシルフィエット",
+    "nameZh": "啊，我是风精灵",
     "series": "无职转生",
     "color": "绿色",
     "type": "事件卡",
@@ -2031,7 +2347,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "カードを2枚引く。自分のフロントLの［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "effectZh": "抽2张牌。选择自己前线中的最多一张「特征：拉诺亚魔法大学」的卡片，在本回合中给予该角色“即使在前线也能产生能量”的效果。",
     "trigger": "ドロー カードを1枚引く。 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "触发时 抽1张牌。X(Twitter) LINE URL已复制URL已复制",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-080",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-080.png"
@@ -2039,7 +2357,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap01",
     "number": "UA54BT/MST-1-AP01",
-    "name": "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2050,7 +2369,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP01",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP01.png"
@@ -2058,7 +2379,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap01_p1",
     "number": "UA54BT/MST-1-AP01",
-    "name": "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2069,7 +2391,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP01",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-AP01_p1.png"
@@ -2077,7 +2401,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap02",
     "number": "UA54BT/MST-1-AP02",
-    "name": "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2088,7 +2413,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP02",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP02.png"
@@ -2096,7 +2423,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap02_p1",
     "number": "UA54BT/MST-1-AP02",
-    "name": "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2107,7 +2435,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP02",
     "variant": "异图版 1",
     "image": "/cards/UA54BT_MST-1-AP02_p1.png"
@@ -2115,7 +2445,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap03",
     "number": "UA54BT/MST-1-AP03",
-    "name": "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2126,7 +2457,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP03",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP03.png"
@@ -2134,7 +2467,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap04",
     "number": "UA54BT/MST-1-AP04",
-    "name": "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "动作点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2145,7 +2479,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP04",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP04.png"
@@ -2153,7 +2489,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap05",
     "number": "UA54BT/MST-1-AP05",
-    "name": "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2164,7 +2501,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP05",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP05.png"
@@ -2172,7 +2511,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap06",
     "number": "UA54BT/MST-1-AP06",
-    "name": "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2183,7 +2523,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP06",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP06.png"
@@ -2191,7 +2533,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap07",
     "number": "UA54BT/MST-1-AP07",
-    "name": "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2202,7 +2545,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP07",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP07.png"
@@ -2210,7 +2555,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap08",
     "number": "UA54BT/MST-1-AP08",
-    "name": "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2221,7 +2567,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP08",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP08.png"
@@ -2229,7 +2577,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap09",
     "number": "UA54BT/MST-1-AP09",
-    "name": "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2240,7 +2589,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP09",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP09.png"
@@ -2248,7 +2599,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap10",
     "number": "UA54BT/MST-1-AP10",
-    "name": "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2259,7 +2611,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP10",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP10.png"
@@ -2267,7 +2621,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap11",
     "number": "UA54BT/MST-1-AP11",
-    "name": "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2278,7 +2633,9 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP11",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP11.png"
@@ -2286,7 +2643,8 @@ export const cards: Card[] = [
   {
     "id": "ua54bt_mst-1-ap12",
     "number": "UA54BT/MST-1-AP12",
-    "name": "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "name": "MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "行动点卡（无职转生～到了异世界就拿出真本事～）",
     "series": "无职转生",
     "color": "未分类",
     "type": "资料待补",
@@ -2297,9 +2655,55 @@ export const cards: Card[] = [
     "feature": "-",
     "generatedEnergy": "-",
     "effect": "卡牌效果整理中。",
+    "effectZh": "",
     "trigger": "-",
+    "triggerZh": "",
     "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-AP12",
     "variant": "普通版",
     "image": "/cards/UA54BT_MST-1-AP12.png"
+  },
+  {
+    "id": "uapr_mst-1-030",
+    "number": "UAPR/MST-1-030",
+    "name": "MST-1-030-ロキシー",
+    "nameZh": "",
+    "series": "无职转生",
+    "color": "蓝色",
+    "type": "角色卡",
+    "rarity": "-",
+    "cost": 3,
+    "ap": 1,
+    "bp": "3000+",
+    "feature": "-",
+    "generatedEnergy": "青青",
+    "effect": "起動メイン レストにする このターン中に自分がイベントカードを使用している場合のみ発動できる。以下から1つ選ぶ。・自分の場のキャラを1枚選び、このターン中、BP+1000。・カードを1枚引き、自分の手札を1枚場外に置く。",
+    "effectZh": "",
+    "trigger": "- 入手情報 ユニチケゲットバトル 2026年7月開催優勝記念品 等 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "",
+    "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FMST-1-030",
+    "variant": "普通版",
+    "image": "/cards/UAPR_MST-1-030.png"
+  },
+  {
+    "id": "uapr_mst-1-055",
+    "number": "UAPR/MST-1-055",
+    "name": "MST-1-055-アリエル",
+    "nameZh": "",
+    "series": "无职转生",
+    "color": "绿色",
+    "type": "角色卡",
+    "rarity": "-",
+    "cost": 1,
+    "ap": 1,
+    "bp": "2000",
+    "feature": "ラノア魔法大学",
+    "generatedEnergy": "緑",
+    "effect": "登場時 自分の山札の上から3枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "effectZh": "",
+    "trigger": "ドロー カードを1枚引く。 入手情報 ユニチケゲットバトル 2026年7月開催参加記念品 等 X(Twitter) LINE URLをコピー URLをコピーしました。",
+    "triggerZh": "",
+    "officialUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FMST-1-055",
+    "variant": "普通版",
+    "image": "/cards/UAPR_MST-1-055.png"
   }
 ];
