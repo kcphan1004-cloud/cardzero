@@ -4,6 +4,11 @@ import process from "node:process";
 import * as cheerio from "cheerio";
 
 const projectRoot = process.cwd();
+const translationsPath = path.join(
+  projectRoot,
+  "data",
+  "card-translations.json",
+);
 
 const tsvPath = path.join(projectRoot, "cards.tsv");
 const outputPath = path.join(projectRoot, "data", "cards.ts");
@@ -140,6 +145,26 @@ async function readCache() {
     const raw = await fs.readFile(cachePath, "utf8");
     return JSON.parse(raw);
   } catch {
+    return {};
+  }
+}async function readTranslations() {
+  try {
+    const raw = await fs.readFile(
+      translationsPath,
+      "utf8",
+    );
+
+    return JSON.parse(
+      raw.replace(/^\uFEFF/, ""),
+    );
+  } catch (error) {
+    console.warn(
+      "无法读取翻译资料，将使用空翻译。",
+      error instanceof Error
+        ? error.message
+        : error,
+    );
+
     return {};
   }
 }
@@ -281,6 +306,12 @@ async function main() {
     .filter(Boolean);
 
   const cache = await readCache();
+  const translations =
+  await readTranslations();
+
+console.log(
+  `读取翻译：${Object.keys(translations).length} 笔`,
+);
   const cards = [];
   const usedIds = new Set();
 
@@ -399,15 +430,20 @@ async function main() {
 
     usedIds.add(id);
 
-    cards.push({
-      id,
-      number: officialNumber,
-      name,
-      ...details,
-      variant: getVariant(imageFileName),
-      image: `/cards/${imageFileName}`,
-    });
-  }
+    const translation =
+  translations[officialNumber] ?? {};
+
+cards.push({
+  id,
+  number: officialNumber,
+  name,
+  nameZh: translation.nameZh ?? "",
+  ...details,
+  effectZh: translation.effectZh ?? "",
+  triggerZh: translation.triggerZh ?? "",
+  variant: getVariant(imageFileName),
+  image: `/cards/${imageFileName}`,
+});
 
 const typeDefinition = `export type Card = {
   id: string;
@@ -462,4 +498,5 @@ const typeDefinition = `export type Card = {
 main().catch((error) => {
   console.error("处理失败：", error);
   process.exitCode = 1;
-});
+
+}
