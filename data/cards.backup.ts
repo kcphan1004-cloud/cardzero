@@ -2,6 +2,7 @@ export type Card = {
   id: string;
   number: string;
   name: string;
+  nameZh?: string;
   series: string;
   color: string;
   type: string;
@@ -12,7 +13,9 @@ export type Card = {
   feature: string;
   generatedEnergy: string;
   effect: string;
+  effectZh?: string;
   trigger: string;
+  triggerZh?: string;
   officialUrl: string;
   variant: string;
   image: string;
