@@ -16,31 +16,63 @@ const translationsPath = path.join(
   "card-translations.json",
 );
 
-// Ollama 本地接口
+const glossaryPath = path.join(
+  projectRoot,
+  "data",
+  "translation-glossary.json",
+);
+
+const overridesPath = path.join(
+  projectRoot,
+  "data",
+  "card-translation-overrides.json",
+);
+
 const ollamaUrl =
   process.env.OLLAMA_URL ||
   "http://localhost:11434/api/chat";
 
-// 可以使用环境变量更改模型
 const model =
-  process.env.OLLAMA_MODEL || "qwen3.5:4b";
+  process.env.OLLAMA_MODEL ||
+  "qwen3.5:4b";
 
-// 每次翻译几张卡。
-// 本地模型建议先使用 3。
 const batchSize = Math.max(
   1,
-  Number(process.env.TRANSLATION_BATCH_SIZE || 3),
+  Number(
+    process.env.TRANSLATION_BATCH_SIZE ||
+      1,
+  ),
 );
 
-// 是否强制重新翻译全部卡牌
+const maxRetries = 3;
+
+const requestTimeout =
+  10 * 60 * 1000;
+
 const forceTranslate =
   process.argv.includes("--force");
 
-// 每批最多重试次数
-const maxRetries = 3;
+const reapplyOnly =
+  process.argv.includes("--reapply");
 
-// 单次请求最长等待 10 分钟
-const requestTimeout = 10 * 60 * 1000;
+const selectedNumbers = new Set(
+  process.argv
+    .filter((argument) =>
+      argument.startsWith("--card="),
+    )
+    .map((argument) =>
+      argument
+        .slice("--card=".length)
+        .trim(),
+    )
+    .filter(Boolean),
+);
+
+const DEFAULT_GLOSSARY = {
+  terms: {},
+  styleRules: [],
+  postReplacements: {},
+};
 
 function sleep(milliseconds) {
   return new Promise((resolve) => {
@@ -49,15 +81,16 @@ function sleep(milliseconds) {
 }
 
 function removeBom(text) {
-  return text.replace(/^\uFEFF/, "");
+  return String(text ?? "").replace(
+    /^\uFEFF/,
+    "",
+  );
 }
 
 function cleanSourceText(text) {
-  if (text === null || text === undefined) {
-    return "";
-  }
-
-  const value = String(text).trim();
+  const value = String(
+    text ?? "",
+  ).trim();
 
   const emptyValues = new Set([
     "",
@@ -68,12 +101,90 @@ function cleanSourceText(text) {
     "卡牌效果整理中。",
   ]);
 
-  return emptyValues.has(value) ? "" : value;
+  return emptyValues.has(value)
+    ? ""
+    : value;
+}
+
+async function readJsonFile(
+  filePath,
+  fallbackValue,
+) {
+  try {
+    const raw = removeBom(
+      await fs.readFile(
+        filePath,
+        "utf8",
+      ),
+    ).trim();
+
+    if (!raw) {
+      return fallbackValue;
+    }
+
+    return JSON.parse(raw);
+  } catch (error) {
+    if (
+      error &&
+      typeof error === "object" &&
+      "code" in error &&
+      error.code === "ENOENT"
+    ) {
+      return fallbackValue;
+    }
+
+    throw new Error(
+      `无法读取 ${path.basename(
+        filePath,
+      )}：${
+        error instanceof Error
+          ? error.message
+          : String(error)
+      }`,
+    );
+  }
+}
+
+async function saveTranslations(
+  translations,
+) {
+  const sorted =
+    Object.fromEntries(
+      Object.entries(
+        translations,
+      ).sort(
+        (
+          [numberA],
+          [numberB],
+        ) =>
+          numberA.localeCompare(
+            numberB,
+            undefined,
+            {
+              numeric: true,
+              sensitivity: "base",
+            },
+          ),
+      ),
+    );
+
+  await fs.writeFile(
+    translationsPath,
+    `${JSON.stringify(
+      sorted,
+      null,
+      2,
+    )}\n`,
+    "utf8",
+  );
 }
 
 async function readCards() {
   const raw = removeBom(
-    await fs.readFile(cardsPath, "utf8"),
+    await fs.readFile(
+      cardsPath,
+      "utf8",
+    ),
   );
 
   const exportMarker =
@@ -88,14 +199,14 @@ async function readCards() {
     );
   }
 
-  // 必须从 exportMarker 后面开始找，
-  // 避免抓到 Card[] 类型里面的 [
   const arrayStart = raw.indexOf(
     "[",
-    exportPosition + exportMarker.length,
+    exportPosition +
+      exportMarker.length,
   );
 
-  const arrayEnd = raw.lastIndexOf("];");
+  const arrayEnd =
+    raw.lastIndexOf("];");
 
   if (
     arrayStart === -1 ||
@@ -125,64 +236,55 @@ async function readCards() {
   }
 }
 
-async function readTranslations() {
-  try {
-    const raw = removeBom(
-      await fs.readFile(
-        translationsPath,
-        "utf8",
-      ),
-    ).trim();
+function normalizeGlossary(
+  rawGlossary,
+) {
+  const terms =
+    rawGlossary?.terms &&
+    typeof rawGlossary.terms ===
+      "object"
+      ? rawGlossary.terms
+      : {};
 
-    if (!raw) {
-      return {};
-    }
+  const styleRules =
+    Array.isArray(
+      rawGlossary?.styleRules,
+    )
+      ? rawGlossary.styleRules
+          .map(String)
+          .filter(Boolean)
+      : [];
 
-    return JSON.parse(raw);
-  } catch (error) {
-    if (
-      error &&
-      typeof error === "object" &&
-      "code" in error &&
-      error.code === "ENOENT"
-    ) {
-      return {};
-    }
+  const postReplacements =
+    rawGlossary?.postReplacements &&
+    typeof rawGlossary
+      .postReplacements === "object"
+      ? rawGlossary.postReplacements
+      : {};
 
-    throw new Error(
-      `无法读取 card-translations.json：${
-        error instanceof Error
-          ? error.message
-          : String(error)
-      }`,
-    );
-  }
+  return {
+    terms,
+    styleRules,
+    postReplacements,
+  };
 }
 
-async function saveTranslations(
-  translations,
+function normalizeTranslation(
+  translation,
 ) {
-  const sortedTranslations =
-    Object.fromEntries(
-      Object.entries(translations).sort(
-        ([numberA], [numberB]) =>
-          numberA.localeCompare(numberB),
-      ),
-    );
+  return {
+    nameZh: String(
+      translation?.nameZh ?? "",
+    ).trim(),
 
-  const content =
-    JSON.stringify(
-      sortedTranslations,
-      null,
-      2,
-    ) + "\n";
+    effectZh: String(
+      translation?.effectZh ?? "",
+    ).trim(),
 
-  // Node 写入的 UTF-8 不会添加 BOM
-  await fs.writeFile(
-    translationsPath,
-    content,
-    "utf8",
-  );
+    triggerZh: String(
+      translation?.triggerZh ?? "",
+    ).trim(),
+  };
 }
 
 function hasCompleteTranslation(
@@ -207,30 +309,158 @@ function hasCompleteTranslation(
   );
 }
 
-function createTranslationInput(cards) {
+function applyReplacements(
+  text,
+  glossary,
+) {
+  let result = String(
+    text ?? "",
+  ).trim();
+
+  const replacements = {
+    ...(glossary.terms ?? {}),
+    ...(glossary.postReplacements ??
+      {}),
+  };
+
+  const entries =
+    Object.entries(replacements)
+      .map(([from, to]) => [
+        String(from),
+        String(to),
+      ])
+      .filter(
+        ([from]) =>
+          from.length > 0,
+      )
+      .sort(
+        ([fromA], [fromB]) =>
+          fromB.length -
+          fromA.length,
+      );
+
+  for (const [from, to] of entries) {
+    result = result
+      .split(from)
+      .join(to);
+  }
+
+  return result;
+}
+
+function applyOverride(
+  translation,
+  override,
+) {
+  const base =
+    normalizeTranslation(
+      translation,
+    );
+
+  if (
+    !override ||
+    typeof override !== "object"
+  ) {
+    return base;
+  }
+
+  return {
+    nameZh:
+      typeof override.nameZh ===
+      "string"
+        ? override.nameZh.trim()
+        : base.nameZh,
+
+    effectZh:
+      typeof override.effectZh ===
+      "string"
+        ? override.effectZh.trim()
+        : base.effectZh,
+
+    triggerZh:
+      typeof override.triggerZh ===
+      "string"
+        ? override.triggerZh.trim()
+        : base.triggerZh,
+  };
+}
+
+function finalizeTranslation(
+  translation,
+  glossary,
+  override,
+) {
+  const normalized =
+    normalizeTranslation(
+      translation,
+    );
+
+  const replaced = {
+    nameZh: applyReplacements(
+      normalized.nameZh,
+      glossary,
+    ),
+
+    effectZh: applyReplacements(
+      normalized.effectZh,
+      glossary,
+    ),
+
+    triggerZh: applyReplacements(
+      normalized.triggerZh,
+      glossary,
+    ),
+  };
+
+  return applyOverride(
+    replaced,
+    override,
+  );
+}
+
+function createTranslationInput(
+  cards,
+) {
   return cards.map((card) => ({
-    number: String(card.number || "").trim(),
-    name: cleanSourceText(card.name),
-    effect: cleanSourceText(card.effect),
-    trigger: cleanSourceText(card.trigger),
+    number: String(
+      card.number ?? "",
+    ).trim(),
+
+    name: cleanSourceText(
+      card.name,
+    ),
+
+    effect: cleanSourceText(
+      card.effect,
+    ),
+
+    trigger: cleanSourceText(
+      card.trigger,
+    ),
   }));
 }
 
 function parseJsonContent(content) {
-  let cleaned = String(content || "").trim();
+  let cleaned = String(
+    content ?? "",
+  ).trim();
 
-  // 防止模型意外加入 Markdown 代码框
   cleaned = cleaned
-    .replace(/^```(?:json)?\s*/i, "")
+    .replace(
+      /^```(?:json)?\s*/i,
+      "",
+    )
     .replace(/\s*```$/i, "")
     .trim();
 
   try {
     return JSON.parse(cleaned);
   } catch {
-    // 再尝试提取最外层 JSON 对象
-    const firstBrace = cleaned.indexOf("{");
-    const lastBrace = cleaned.lastIndexOf("}");
+    const firstBrace =
+      cleaned.indexOf("{");
+
+    const lastBrace =
+      cleaned.lastIndexOf("}");
 
     if (
       firstBrace !== -1 &&
@@ -254,56 +484,68 @@ function validateTranslations(
   translations,
   sourceCards,
 ) {
-  if (!Array.isArray(translations)) {
+  if (
+    !Array.isArray(translations)
+  ) {
     throw new Error(
       "模型返回的 translations 不是阵列。",
     );
   }
 
-  const expectedNumbers = new Set(
-    sourceCards.map((card) => card.number),
-  );
+  const expectedNumbers =
+    new Set(
+      sourceCards.map(
+        (card) => card.number,
+      ),
+    );
 
-  const resultByNumber = new Map();
+  const resultByNumber =
+    new Map();
 
-  for (const translation of translations) {
+  for (
+    const translation of translations
+  ) {
     if (
       !translation ||
-      typeof translation !== "object"
+      typeof translation !==
+        "object"
     ) {
       continue;
     }
 
     const number = String(
-      translation.number || "",
+      translation.number ?? "",
     ).trim();
 
-    if (!expectedNumbers.has(number)) {
+    if (
+      !expectedNumbers.has(number)
+    ) {
       continue;
     }
 
     resultByNumber.set(number, {
       number,
-      nameZh: String(
-        translation.nameZh || "",
-      ).trim(),
-      effectZh: String(
-        translation.effectZh || "",
-      ).trim(),
-      triggerZh: String(
-        translation.triggerZh || "",
-      ).trim(),
+      ...normalizeTranslation(
+        translation,
+      ),
     });
   }
 
-  const missingNumbers = sourceCards
-    .map((card) => card.number)
-    .filter(
-      (number) =>
-        !resultByNumber.has(number),
-    );
+  const missingNumbers =
+    sourceCards
+      .map(
+        (card) => card.number,
+      )
+      .filter(
+        (number) =>
+          !resultByNumber.has(
+            number,
+          ),
+      );
 
-  if (missingNumbers.length > 0) {
+  if (
+    missingNumbers.length > 0
+  ) {
     throw new Error(
       `模型漏掉卡号：${missingNumbers.join(
         ", ",
@@ -311,16 +553,20 @@ function validateTranslations(
     );
   }
 
-  return sourceCards.map((card) =>
-    resultByNumber.get(card.number),
+  return sourceCards.map(
+    (card) =>
+      resultByNumber.get(
+        card.number,
+      ),
   );
 }
 
 async function checkOllama() {
-  const baseUrl = ollamaUrl.replace(
-    /\/api\/chat\/?$/,
-    "",
-  );
+  const baseUrl =
+    ollamaUrl.replace(
+      /\/api\/chat\/?$/,
+      "",
+    );
 
   try {
     const response = await fetch(
@@ -333,18 +579,20 @@ async function checkOllama() {
       );
     }
 
-    const result = await response.json();
+    const result =
+      await response.json();
 
-    const installedModels = Array.isArray(
-      result.models,
-    )
-      ? result.models.map(
-          (item) => item.name,
-        )
-      : [];
+    const installedModels =
+      Array.isArray(result.models)
+        ? result.models.map(
+            (item) => item.name,
+          )
+        : [];
 
     const modelExists =
-      installedModels.includes(model) ||
+      installedModels.includes(
+        model,
+      ) ||
       installedModels.some(
         (name) =>
           name.split(":")[0] ===
@@ -352,110 +600,133 @@ async function checkOllama() {
       );
 
     if (!modelExists) {
-      console.warn("");
-      console.warn(
-        `警告：没有在 Ollama 找到 ${model}`,
+      throw new Error(
+        `尚未安装模型 ${model}。请先执行：ollama pull ${model}`,
       );
-      console.warn(
-        `请先执行：ollama pull ${model}`,
-      );
-      console.warn("");
     }
-  } catch {
+  } catch (error) {
     throw new Error(
       [
         "无法连接 Ollama。",
-        "请确认 Ollama 已经安装并正在运行。",
+        "请确认 Ollama 已安装并正在运行。",
         `接口：${ollamaUrl}`,
+        error instanceof Error
+          ? error.message
+          : String(error),
       ].join("\n"),
     );
   }
 }
 
-async function translateBatch(cards) {
+function buildSystemPrompt(
+  glossary,
+) {
+  const terminologyRules =
+    Object.entries(
+      glossary.terms ?? {},
+    )
+      .map(
+        ([japanese, chinese]) =>
+          `${japanese} → ${chinese}`,
+      )
+      .join("\n");
+
+  const customStyleRules = (
+    glossary.styleRules ?? []
+  )
+    .map(
+      (rule, index) =>
+        `${index + 1}. ${rule}`,
+    )
+    .join("\n");
+
+  return `
+你是 UNION ARENA 集换式卡牌游戏的专业日文翻译员。
+
+请把输入的日文卡牌资料翻译成简体中文，并严格遵守用户指定用词。
+
+用户指定术语：
+${terminologyRules || "无额外指定"}
+
+用户指定翻译风格：
+${customStyleRules || "无额外指定"}
+
+必须遵守：
+1. 忠实翻译，不得增加、删除、解释、总结或推测卡牌效果。
+2. 保留所有数字、AP、BP、卡号、符号与效果处理顺序。
+3. number 必须原样返回，不得修改。
+4. 每张输入卡牌都必须返回，不能漏掉。
+5. 原文为空字符串时，译文也必须为空字符串。
+6. 卡名有确定的官方或常用中文译名时使用中文译名。
+7. 无法确认中文译名时保留日文原名，不得自行添加说明。
+8. 保留 Raid、Trigger、AP、BP 等游戏关键词。
+9. 不得加入“翻译如下”“效果说明”等额外文字。
+10. 只返回符合指定格式的 JSON。
+  `.trim();
+}
+
+async function translateBatch(
+  cards,
+  glossary,
+) {
   const sourceCards =
-    createTranslationInput(cards);
+    createTranslationInput(
+      cards,
+    );
 
   const outputSchema = {
     type: "object",
+
     properties: {
       translations: {
         type: "array",
+
         items: {
           type: "object",
+
           properties: {
             number: {
               type: "string",
             },
+
             nameZh: {
               type: "string",
             },
+
             effectZh: {
               type: "string",
             },
+
             triggerZh: {
               type: "string",
             },
           },
+
           required: [
             "number",
             "nameZh",
             "effectZh",
             "triggerZh",
           ],
+
           additionalProperties: false,
         },
       },
     },
+
     required: ["translations"],
     additionalProperties: false,
   };
 
-  const systemPrompt = `
-你是 UNION ARENA 集换式卡牌游戏的专业日文翻译员。
+  const controller =
+    new AbortController();
 
-请把输入的日文卡牌资料翻译成简体中文。
-
-必须遵守以下规则：
-
-1. 忠实翻译，不得增加、删除、解释、总结或推测效果。
-2. 必须保留所有数字、AP、BP、卡号、符号与效果处理顺序。
-3. number 必须原样返回，不得修改。
-4. 每一张输入卡牌都必须返回，不能漏掉。
-5. 原文为空字符串时，译文也必须是空字符串。
-6. 卡名有确定的官方或常用中文译名时使用中文译名。
-7. 无法确认中文译名时保留日文原名，不得自行音译。
-8. 保留 Raid、Trigger、AP、BP 等游戏关键词。
-9. 不得加入“翻译如下”“效果说明”等额外文字。
-10. 只返回符合指定格式的 JSON。
-
-固定用语：
-
-【登場時】→【登场时】
-【アタック時】→【攻击时】
-【退場時】→【退场时】
-【自分のターン中】→【自己的回合中】
-【相手のターン中】→【对手的回合中】
-フロントL → 前线
-エナジーL → 能量线
-レイド → Raid
-トリガー → Trigger
-カードを1枚引く → 抽1张牌
-手札 → 手牌
-デッキ → 牌库
-場外 → 场外
-退場させる → 使其退场
-レストにする → 横置
-アクティブにする → 活跃
-このターン中 → 本回合中
-次の自分のターン開始時まで → 直到自己的下个回合开始时
-  `.trim();
-
-  const controller = new AbortController();
-
-  const timeoutId = setTimeout(() => {
-    controller.abort();
-  }, requestTimeout);
+  const timeoutId = setTimeout(
+    () => {
+      controller.abort();
+    },
+    requestTimeout,
+  );
 
   try {
     const response = await fetch(
@@ -468,7 +739,8 @@ async function translateBatch(cards) {
             "application/json",
         },
 
-        signal: controller.signal,
+        signal:
+          controller.signal,
 
         body: JSON.stringify({
           model,
@@ -479,15 +751,19 @@ async function translateBatch(cards) {
           messages: [
             {
               role: "system",
-              content: systemPrompt,
+              content:
+                buildSystemPrompt(
+                  glossary,
+                ),
             },
             {
               role: "user",
-              content: JSON.stringify(
-                sourceCards,
-                null,
-                2,
-              ),
+              content:
+                JSON.stringify(
+                  sourceCards,
+                  null,
+                  2,
+                ),
             },
           ],
 
@@ -508,7 +784,8 @@ async function translateBatch(cards) {
       );
     }
 
-    const result = await response.json();
+    const result =
+      await response.json();
 
     const content =
       result.message?.content;
@@ -529,10 +806,11 @@ async function translateBatch(cards) {
   } catch (error) {
     if (
       error instanceof Error &&
-      error.name === "AbortError"
+      error.name ===
+        "AbortError"
     ) {
       throw new Error(
-        "Ollama 翻译超时，请减少 batchSize 或换较小模型。",
+        "Ollama 翻译超时，请把 TRANSLATION_BATCH_SIZE 调小。",
       );
     }
 
@@ -544,6 +822,7 @@ async function translateBatch(cards) {
 
 async function translateBatchWithRetry(
   cards,
+  glossary,
 ) {
   let lastError;
 
@@ -553,7 +832,10 @@ async function translateBatchWithRetry(
     attempt += 1
   ) {
     try {
-      return await translateBatch(cards);
+      return await translateBatch(
+        cards,
+        glossary,
+      );
     } catch (error) {
       lastError = error;
 
@@ -565,12 +847,16 @@ async function translateBatchWithRetry(
         }`,
       );
 
-      if (attempt < maxRetries) {
+      if (
+        attempt < maxRetries
+      ) {
         console.log(
           "等待后重新尝试……",
         );
 
-        await sleep(2000 * attempt);
+        await sleep(
+          2000 * attempt,
+        );
       }
     }
   }
@@ -578,22 +864,117 @@ async function translateBatchWithRetry(
   throw lastError;
 }
 
+function applyRulesToExistingTranslations(
+  translations,
+  glossary,
+  overrides,
+) {
+  const result = {
+    ...translations,
+  };
+
+  for (
+    const [
+      number,
+      translation,
+    ] of Object.entries(result)
+  ) {
+    result[number] =
+      finalizeTranslation(
+        translation,
+        glossary,
+        overrides[number],
+      );
+  }
+
+  return result;
+}
+
 async function main() {
-  console.log("CardZero 本地自动翻译");
+  console.log(
+    "CardZero 本地自动翻译",
+  );
+
   console.log(`模型：${model}`);
-  console.log(`每批：${batchSize} 张`);
+
+  console.log(
+    `每批：${batchSize} 张`,
+  );
+
+  console.log(
+    `强制重翻：${
+      forceTranslate
+        ? "是"
+        : "否"
+    }`,
+  );
+
+  console.log(
+    `只套用规则：${
+      reapplyOnly
+        ? "是"
+        : "否"
+    }`,
+  );
+
   console.log("");
+
+  const allCards =
+    await readCards();
+
+  const rawGlossary =
+    await readJsonFile(
+      glossaryPath,
+      DEFAULT_GLOSSARY,
+    );
+
+  const glossary =
+    normalizeGlossary(
+      rawGlossary,
+    );
+
+  const overrides =
+    await readJsonFile(
+      overridesPath,
+      {},
+    );
+
+  const loadedTranslations =
+    await readJsonFile(
+      translationsPath,
+      {},
+    );
+
+  let existingTranslations =
+    applyRulesToExistingTranslations(
+      loadedTranslations,
+      glossary,
+      overrides,
+    );
+
+  if (reapplyOnly) {
+    await saveTranslations(
+      existingTranslations,
+    );
+
+    console.log(
+      `已重新套用术语、替换规则和人工覆盖：${
+        Object.keys(
+          existingTranslations,
+        ).length
+      } 笔`,
+    );
+
+    console.log(
+      "未调用 Ollama。完成后请运行 enrich-cards.mjs。",
+    );
+
+    return;
+  }
 
   await checkOllama();
 
-  const allCards = await readCards();
-
-  const existingTranslations =
-    await readTranslations();
-
-  // 普通版和异图版卡号相同，
-  // 因此每个卡号只翻译一次。
-  const uniqueCards = [
+  let uniqueCards = [
     ...new Map(
       allCards
         .filter(
@@ -607,6 +988,43 @@ async function main() {
         ]),
     ).values(),
   ];
+
+  if (
+    selectedNumbers.size > 0
+  ) {
+    uniqueCards =
+      uniqueCards.filter(
+        (card) =>
+          selectedNumbers.has(
+            card.number,
+          ),
+      );
+
+    const foundNumbers =
+      new Set(
+        uniqueCards.map(
+          (card) =>
+            card.number,
+        ),
+      );
+
+    const missingNumbers = [
+      ...selectedNumbers,
+    ].filter(
+      (number) =>
+        !foundNumbers.has(number),
+    );
+
+    if (
+      missingNumbers.length > 0
+    ) {
+      console.warn(
+        `找不到卡号：${missingNumbers.join(
+          ", ",
+        )}`,
+      );
+    }
+  }
 
   const cardsToTranslate =
     uniqueCards.filter((card) => {
@@ -636,22 +1054,32 @@ async function main() {
     `需要翻译：${cardsToTranslate.length}`,
   );
 
-  if (cardsToTranslate.length === 0) {
+  if (
+    cardsToTranslate.length === 0
+  ) {
+    await saveTranslations(
+      existingTranslations,
+    );
+
     console.log("");
+
     console.log(
-      "全部卡牌已有翻译，无需处理。",
+      "全部卡牌已有翻译，已重新套用词库与人工覆盖。",
     );
 
     return;
   }
 
-  const totalBatches = Math.ceil(
-    cardsToTranslate.length / batchSize,
-  );
+  const totalBatches =
+    Math.ceil(
+      cardsToTranslate.length /
+        batchSize,
+    );
 
   for (
     let index = 0;
-    index < cardsToTranslate.length;
+    index <
+    cardsToTranslate.length;
     index += batchSize
   ) {
     const batch =
@@ -661,16 +1089,22 @@ async function main() {
       );
 
     const currentBatch =
-      Math.floor(index / batchSize) + 1;
+      Math.floor(
+        index / batchSize,
+      ) + 1;
 
     console.log("");
+
     console.log(
       `翻译第 ${currentBatch}/${totalBatches} 批`,
     );
 
     console.log(
       batch
-        .map((card) => card.number)
+        .map(
+          (card) =>
+            card.number,
+        )
         .join(", "),
     );
 
@@ -678,23 +1112,24 @@ async function main() {
       const translatedCards =
         await translateBatchWithRetry(
           batch,
+          glossary,
         );
 
-      for (const translation of translatedCards) {
+      for (
+        const translation of
+          translatedCards
+      ) {
         existingTranslations[
           translation.number
-        ] = {
-          nameZh:
-            translation.nameZh,
-          effectZh:
-            translation.effectZh,
-          triggerZh:
-            translation.triggerZh,
-        };
+        ] = finalizeTranslation(
+          translation,
+          glossary,
+          overrides[
+            translation.number
+          ],
+        );
       }
 
-      // 每一批完成后立即存档，
-      // 中途关闭也不会遗失已完成结果。
       await saveTranslations(
         existingTranslations,
       );
@@ -706,6 +1141,7 @@ async function main() {
       await sleep(500);
     } catch (error) {
       console.error("");
+
       console.error(
         `第 ${currentBatch} 批最终失败：${
           error instanceof Error
@@ -715,7 +1151,7 @@ async function main() {
       );
 
       console.error(
-        "已经完成的批次仍保留，可以重新运行继续。",
+        "已完成的批次仍然保留，可重新运行继续。",
       );
 
       process.exitCode = 1;
@@ -723,17 +1159,39 @@ async function main() {
     }
   }
 
+  existingTranslations =
+    applyRulesToExistingTranslations(
+      existingTranslations,
+      glossary,
+      overrides,
+    );
+
+  await saveTranslations(
+    existingTranslations,
+  );
+
   console.log("");
-  console.log("========================");
-  console.log("本地自动翻译完成");
+
+  console.log(
+    "========================",
+  );
+
+  console.log(
+    "本地自动翻译完成",
+  );
+
   console.log(
     `翻译档案：${translationsPath}`,
   );
-  console.log("========================");
+
+  console.log(
+    "========================",
+  );
 }
 
 main().catch((error) => {
   console.error("");
+
   console.error(
     "自动翻译失败：",
     error instanceof Error
