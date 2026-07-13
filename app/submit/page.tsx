@@ -1,37 +1,21 @@
-import SubmissionForm from "../../components/SubmissionForm";
+"use client";
 
-export const metadata = {
-  title: "牌组投稿｜卡零社 CardZero",
-  description:
-    "向卡零社投稿你的 UNION ARENA 牌组与操作心得。",
+type SubmissionFormProps = {
+  seriesOptions: string[];
 };
 
-export default function SubmitPage() {
+export default function SubmissionForm({
+  seriesOptions,
+}: SubmissionFormProps) {
   return (
-    <main className="min-h-screen bg-black px-4 py-12 text-white sm:px-6">
-      <div className="mx-auto max-w-4xl">
-        <div className="relative overflow-hidden rounded-3xl border border-red-950 bg-zinc-950 px-6 py-9 sm:px-10">
-          <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-red-950/40 blur-3xl" />
+    <section className="rounded-2xl border border-zinc-800 bg-zinc-950 p-6 text-white">
+      <h2 className="text-xl font-black">
+        投稿表单测试
+      </h2>
 
-          <div className="relative">
-            <p className="text-xs font-black tracking-[0.28em] text-red-500">
-              CARDZERO COMMUNITY
-            </p>
-
-            <h1 className="mt-3 text-3xl font-black sm:text-5xl">
-              牌组投稿专区
-            </h1>
-
-            <p className="mt-4 max-w-2xl text-sm leading-7 text-zinc-400 sm:text-base">
-              分享你的牌组构筑、实战思路与心得。投稿会先进入审核，审核通过后才会显示在牌组分享页面。
-            </p>
-          </div>
-        </div>
-
-        <div className="mt-7">
-          <SubmissionForm />
-        </div>
-      </div>
-    </main>
+      <p className="mt-3 text-zinc-400">
+        已读取 {seriesOptions.length} 个作品系列
+      </p>
+    </section>
   );
 }
