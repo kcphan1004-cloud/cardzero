@@ -35,10 +35,10 @@ const navigation: NavigationItem[] = [
     external: false,
   },
   {
-    name: "牌组分享",
-    href: "/deck",
-    external: false,
-  },
+  name: "牌组分享",
+  href: "/deck",
+  external: false,
+},
   {
     name: "视频专区",
     href: "https://www.youtube.com/@CardZero_%E5%8D%A1%E9%9B%B6%E7%A4%BE",

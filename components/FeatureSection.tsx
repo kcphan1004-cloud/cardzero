@@ -28,7 +28,7 @@ const features = [
   {
     title: "牌组分享",
     description: "浏览玩家公开的牌组，并分享自己的构筑。",
-    href: "/decks",
+    href: "/deck",
     icon: "▤",
   },
 ];
