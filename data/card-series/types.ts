@@ -1,0 +1,22 @@
+export type Card = {
+  id: string;
+  number: string;
+  name: string;
+  nameZh: string;
+  series: string;
+  color: string;
+  type: string;
+  rarity: string;
+  cost: number;
+  ap: number;
+  bp: string;
+  feature: string;
+  generatedEnergy: string;
+  effect: string;
+  effectZh: string;
+  trigger: string;
+  triggerZh: string;
+  officialUrl: string;
+  variant: string;
+  image: string;
+};
