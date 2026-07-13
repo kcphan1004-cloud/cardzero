@@ -1,4 +1,5 @@
 "use client";
+
 type SubmissionFormProps = {
   seriesOptions: string[];
 };
@@ -6,38 +7,15 @@ type SubmissionFormProps = {
 export default function SubmissionForm({
   seriesOptions,
 }: SubmissionFormProps) {
-  // 其余代码
-}
+  return (
+    <section className="rounded-2xl border border-zinc-800 bg-zinc-950 p-6 text-white">
+      <h2 className="text-xl font-black">
+        投稿表单测试
+      </h2>
 
-const DECK_TYPE_OPTIONS = [
-  {
-    value: "快攻",
-    label: "快攻",
-    description: "前期快速展开并压制对手",
-  },
-  {
-    value: "中速",
-    label: "中速",
-    description: "兼顾展开速度与场面强度",
-  },
-  {
-    value: "控制",
-    label: "控制",
-    description: "防守、解场并掌握比赛节奏",
-  },
-  {
-    value: "组合技",
-    label: "组合技",
-    description: "依靠卡牌连动完成核心战术",
-  },
-  {
-    value: "娱乐",
-    label: "娱乐",
-    description: "主题构筑与有趣玩法",
-  },
-  {
-    value: "比赛",
-    label: "比赛",
-    description: "针对赛事环境调整的牌组",
-  },
-] as const;
+      <p className="mt-3 text-zinc-400">
+        已读取 {seriesOptions.length} 个作品系列
+      </p>
+    </section>
+  );
+}
