@@ -4,7 +4,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-001",
     "number": "UA50BT/IYS-1-001",
-    "name": "资料待补",
+    "name": "阿吽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-002",
     "number": "UA50BT/IYS-1-002",
-    "name": "资料待补",
+    "name": "邪見",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-003",
     "number": "UA50BT/IYS-1-003",
-    "name": "资料待补",
+    "name": "邪見",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-004",
     "number": "UA50BT/IYS-1-004",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-005",
     "number": "UA50BT/IYS-1-005",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-006",
     "number": "UA50BT/IYS-1-006",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-007_p1",
     "number": "UA50BT/IYS-1-007",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-007",
     "number": "UA50BT/IYS-1-007",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-008_p1",
     "number": "UA50BT/IYS-1-008",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-008",
     "number": "UA50BT/IYS-1-008",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-009_p1",
     "number": "UA50BT/IYS-1-009",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-009",
     "number": "UA50BT/IYS-1-009",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-010",
     "number": "UA50BT/IYS-1-010",
-    "name": "资料待补",
+    "name": "殺生丸の母",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-011",
     "number": "UA50BT/IYS-1-011",
-    "name": "资料待补",
+    "name": "りん",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-012",
     "number": "UA50BT/IYS-1-012",
-    "name": "资料待补",
+    "name": "りん",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-013_p1",
     "number": "UA50BT/IYS-1-013",
-    "name": "资料待补",
+    "name": "りん",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-013",
     "number": "UA50BT/IYS-1-013",
-    "name": "资料待补",
+    "name": "りん",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-014",
     "number": "UA50BT/IYS-1-014",
-    "name": "资料待补",
+    "name": "赤子",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-015",
     "number": "UA50BT/IYS-1-015",
-    "name": "资料待补",
+    "name": "鬼蜘蛛",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-016",
     "number": "UA50BT/IYS-1-016",
-    "name": "资料待补",
+    "name": "神楽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-017",
     "number": "UA50BT/IYS-1-017",
-    "name": "资料待补",
+    "name": "神楽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-018_p1",
     "number": "UA50BT/IYS-1-018",
-    "name": "资料待补",
+    "name": "神楽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-018",
     "number": "UA50BT/IYS-1-018",
-    "name": "资料待补",
+    "name": "神楽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-019_p1",
     "number": "UA50BT/IYS-1-019",
-    "name": "资料待补",
+    "name": "神楽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-019",
     "number": "UA50BT/IYS-1-019",
-    "name": "资料待补",
+    "name": "神楽",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-020",
     "number": "UA50BT/IYS-1-020",
-    "name": "资料待补",
+    "name": "獣郎丸&影郎丸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-021",
     "number": "UA50BT/IYS-1-021",
-    "name": "资料待补",
+    "name": "神無",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-022_p1",
     "number": "UA50BT/IYS-1-022",
-    "name": "资料待补",
+    "name": "神無",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-022",
     "number": "UA50BT/IYS-1-022",
-    "name": "资料待补",
+    "name": "神無",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-023",
     "number": "UA50BT/IYS-1-023",
-    "name": "资料待补",
+    "name": "悟心鬼",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-024",
     "number": "UA50BT/IYS-1-024",
-    "name": "资料待补",
+    "name": "琥珀",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-025",
     "number": "UA50BT/IYS-1-025",
-    "name": "资料待补",
+    "name": "奈落",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-026",
     "number": "UA50BT/IYS-1-026",
-    "name": "资料待补",
+    "name": "奈落",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-027_p1",
     "number": "UA50BT/IYS-1-027",
-    "name": "资料待补",
+    "name": "奈落",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-027",
     "number": "UA50BT/IYS-1-027",
-    "name": "资料待补",
+    "name": "奈落",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-028_p1",
     "number": "UA50BT/IYS-1-028",
-    "name": "资料待补",
+    "name": "奈落",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-028",
     "number": "UA50BT/IYS-1-028",
-    "name": "资料待补",
+    "name": "奈落",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-029",
     "number": "UA50BT/IYS-1-029",
-    "name": "资料待补",
+    "name": "白童子",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-030",
     "number": "UA50BT/IYS-1-030",
-    "name": "资料待补",
+    "name": "人見 蔭刀",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-031",
     "number": "UA50BT/IYS-1-031",
-    "name": "资料待补",
+    "name": "夢幻の白夜",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-032",
     "number": "UA50BT/IYS-1-032",
-    "name": "资料待补",
+    "name": "神無の鏡",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-033",
     "number": "UA50BT/IYS-1-033",
-    "name": "资料待补",
+    "name": "最猛勝",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-034",
     "number": "UA50BT/IYS-1-034",
-    "name": "资料待补",
+    "name": "四魂のかけら",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-035",
     "number": "UA50BT/IYS-1-035",
-    "name": "资料待补",
+    "name": "瘴気",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-036",
     "number": "UA50BT/IYS-1-036",
-    "name": "资料待补",
+    "name": "天生牙",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-037",
     "number": "UA50BT/IYS-1-037",
-    "name": "资料待补",
+    "name": "爆砕牙",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-038",
     "number": "UA50BT/IYS-1-038",
-    "name": "资料待补",
+    "name": "風刃の舞",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-039",
     "number": "UA50BT/IYS-1-039",
-    "name": "资料待补",
+    "name": "融合",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-040",
     "number": "UA50BT/IYS-1-040",
-    "name": "资料待补",
+    "name": "りんの命と引きかえに得るものなど―なにもない!!",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-041",
     "number": "UA50BT/IYS-1-041",
-    "name": "资料待补",
+    "name": "阿波の八衛門狸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-042",
     "number": "UA50BT/IYS-1-042",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-043_p1",
     "number": "UA50BT/IYS-1-043",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-043",
     "number": "UA50BT/IYS-1-043",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-044",
     "number": "UA50BT/IYS-1-044",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-045_p1",
     "number": "UA50BT/IYS-1-045",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-045",
     "number": "UA50BT/IYS-1-045",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-046_p1",
     "number": "UA50BT/IYS-1-046",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-046_p2",
     "number": "UA50BT/IYS-1-046",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-046",
     "number": "UA50BT/IYS-1-046",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-047",
     "number": "UA50BT/IYS-1-047",
-    "name": "资料待补",
+    "name": "楓",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-048_p1",
     "number": "UA50BT/IYS-1-048",
-    "name": "资料待补",
+    "name": "桔梗",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-048",
     "number": "UA50BT/IYS-1-048",
-    "name": "资料待补",
+    "name": "桔梗",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-049_p1",
     "number": "UA50BT/IYS-1-049",
-    "name": "资料待补",
+    "name": "桔梗",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-049",
     "number": "UA50BT/IYS-1-049",
-    "name": "资料待补",
+    "name": "桔梗",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-050",
     "number": "UA50BT/IYS-1-050",
-    "name": "资料待补",
+    "name": "雲母",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-051",
     "number": "UA50BT/IYS-1-051",
-    "name": "资料待补",
+    "name": "雲母",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-052",
     "number": "UA50BT/IYS-1-052",
-    "name": "资料待补",
+    "name": "銀太＆白角",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-053",
     "number": "UA50BT/IYS-1-053",
-    "name": "资料待补",
+    "name": "鋼牙",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-054_p1",
     "number": "UA50BT/IYS-1-054",
-    "name": "资料待补",
+    "name": "鋼牙",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-054",
     "number": "UA50BT/IYS-1-054",
-    "name": "资料待补",
+    "name": "鋼牙",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-055",
     "number": "UA50BT/IYS-1-055",
-    "name": "资料待补",
+    "name": "琥珀",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-056",
     "number": "UA50BT/IYS-1-056",
-    "name": "资料待补",
+    "name": "珊瑚",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-057",
     "number": "UA50BT/IYS-1-057",
-    "name": "资料待补",
+    "name": "珊瑚",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-058_p1",
     "number": "UA50BT/IYS-1-058",
-    "name": "资料待补",
+    "name": "珊瑚",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-058",
     "number": "UA50BT/IYS-1-058",
-    "name": "资料待补",
+    "name": "珊瑚",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-059_p1",
     "number": "UA50BT/IYS-1-059",
-    "name": "资料待补",
+    "name": "珊瑚",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-059",
     "number": "UA50BT/IYS-1-059",
-    "name": "资料待补",
+    "name": "珊瑚",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-060",
     "number": "UA50BT/IYS-1-060",
-    "name": "资料待补",
+    "name": "七宝",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-061_p1",
     "number": "UA50BT/IYS-1-061",
-    "name": "资料待补",
+    "name": "七宝",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-061",
     "number": "UA50BT/IYS-1-061",
-    "name": "资料待补",
+    "name": "七宝",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-062",
     "number": "UA50BT/IYS-1-062",
-    "name": "资料待补",
+    "name": "刀々斎",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-063",
     "number": "UA50BT/IYS-1-063",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-064",
     "number": "UA50BT/IYS-1-064",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-065_p1",
     "number": "UA50BT/IYS-1-065",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-065",
     "number": "UA50BT/IYS-1-065",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-066_p1",
     "number": "UA50BT/IYS-1-066",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-066",
     "number": "UA50BT/IYS-1-066",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-067",
     "number": "UA50BT/IYS-1-067",
-    "name": "资料待补",
+    "name": "冥加",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-068",
     "number": "UA50BT/IYS-1-068",
-    "name": "资料待补",
+    "name": "弥勒",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-069",
     "number": "UA50BT/IYS-1-069",
-    "name": "资料待补",
+    "name": "弥勒",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-070_p1",
     "number": "UA50BT/IYS-1-070",
-    "name": "资料待补",
+    "name": "弥勒",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-070",
     "number": "UA50BT/IYS-1-070",
-    "name": "资料待补",
+    "name": "弥勒",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-071_p1",
     "number": "UA50BT/IYS-1-071",
-    "name": "资料待补",
+    "name": "弥勒",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-071",
     "number": "UA50BT/IYS-1-071",
-    "name": "资料待补",
+    "name": "弥勒",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-072",
     "number": "UA50BT/IYS-1-072",
-    "name": "资料待补",
+    "name": "骨喰いの井戸",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-073",
     "number": "UA50BT/IYS-1-073",
-    "name": "资料待补",
+    "name": "生き方を選べるということだ",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-074",
     "number": "UA50BT/IYS-1-074",
-    "name": "资料待补",
+    "name": "おすわり",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-075",
     "number": "UA50BT/IYS-1-075",
-    "name": "资料待补",
+    "name": "おらがしっかりせねば",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-076",
     "number": "UA50BT/IYS-1-076",
-    "name": "资料待补",
+    "name": "おれは命を懸けておまえを守る",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-077",
     "number": "UA50BT/IYS-1-077",
-    "name": "资料待补",
+    "name": "風穴",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-078",
     "number": "UA50BT/IYS-1-078",
-    "name": "资料待补",
+    "name": "結界",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-079",
     "number": "UA50BT/IYS-1-079",
-    "name": "资料待补",
+    "name": "鉄砕牙",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-080",
     "number": "UA50BT/IYS-1-080",
-    "name": "资料待补",
+    "name": "飛来骨",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2269,8 +2269,8 @@ export const inuyashaCards: Card[] = [
   },
   {
     "id": "inuyasha-ua50bt_iys-1-ap01_p1",
-    "number": "UA50BT/IYS-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UA50BT/IYS-1-AP01",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap01",
     "number": "UA50BT/IYS-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2313,8 +2313,8 @@ export const inuyashaCards: Card[] = [
   },
   {
     "id": "inuyasha-ua50bt_iys-1-ap02_p1",
-    "number": "UA50BT/IYS-1-AP02/p1",
-    "name": "资料待补",
+    "number": "UA50BT/IYS-1-AP02",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap02",
     "number": "UA50BT/IYS-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap03",
     "number": "UA50BT/IYS-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap04",
     "number": "UA50BT/IYS-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap05",
     "number": "UA50BT/IYS-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap06",
     "number": "UA50BT/IYS-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap07",
     "number": "UA50BT/IYS-1-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap08",
     "number": "UA50BT/IYS-1-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap09",
     "number": "UA50BT/IYS-1-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap10",
     "number": "UA50BT/IYS-1-AP10",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap11",
     "number": "UA50BT/IYS-1-AP11",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const inuyashaCards: Card[] = [
   {
     "id": "inuyasha-ua50bt_iys-1-ap12",
     "number": "UA50BT/IYS-1-AP12",
-    "name": "资料待补",
+    "name": "アクションポイントカード(犬夜叉)",
     "nameZh": "",
     "series": "犬夜叉",
     "color": "资料待补",

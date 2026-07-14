@@ -4,7 +4,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-001",
     "number": "UA05ST/KMY-1-001",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-003",
     "number": "UA05ST/KMY-1-003",
-    "name": "资料待补",
+    "name": "鱗滝 左近次",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-004",
     "number": "UA05ST/KMY-1-004",
-    "name": "资料待补",
+    "name": "鎹鴉",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-005",
     "number": "UA05ST/KMY-1-005",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-009",
     "number": "UA05ST/KMY-1-009",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-014",
     "number": "UA05ST/KMY-1-014",
-    "name": "资料待补",
+    "name": "栗花落 カナヲ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-015",
     "number": "UA05ST/KMY-1-015",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-029",
     "number": "UA05ST/KMY-1-029",
-    "name": "资料待补",
+    "name": "全集中の呼吸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-033",
     "number": "UA05ST/KMY-1-033",
-    "name": "资料待补",
+    "name": "水の呼吸 拾ノ型 生生流転",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-101",
     "number": "UA05ST/KMY-1-101",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-102",
     "number": "UA05ST/KMY-1-102",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-103",
     "number": "UA05ST/KMY-1-103",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-104",
     "number": "UA05ST/KMY-1-104",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-105",
     "number": "UA05ST/KMY-1-105",
-    "name": "资料待补",
+    "name": "錆兎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-106",
     "number": "UA05ST/KMY-1-106",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-107",
     "number": "UA05ST/KMY-1-107",
-    "name": "资料待补",
+    "name": "冨岡 義勇",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-108",
     "number": "UA05ST/KMY-1-108",
-    "name": "资料待补",
+    "name": "丸い岩",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-109",
     "number": "UA05ST/KMY-1-109",
-    "name": "资料待补",
+    "name": "仲間",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-ap01",
     "number": "UA05ST/KMY-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-ua05st_kmy-1-ap02",
     "number": "UA05ST/KMY-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-001",
     "number": "UA05BT/KMY-1-001",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-002",
     "number": "UA05BT/KMY-1-002",
-    "name": "资料待补",
+    "name": "産屋敷 耀哉",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-003",
     "number": "UA05BT/KMY-1-003",
-    "name": "资料待补",
+    "name": "鱗滝 左近次",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-004",
     "number": "UA05BT/KMY-1-004",
-    "name": "资料待补",
+    "name": "鎹鴉",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-005",
     "number": "UA05BT/KMY-1-005",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-006",
     "number": "UA05BT/KMY-1-006",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-007",
     "number": "UA05BT/KMY-1-007",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-008_p1",
     "number": "UA05BT/KMY-1-008",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-008_p2",
     "number": "UA05BT/KMY-1-008",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-008",
     "number": "UA05BT/KMY-1-008",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-009",
     "number": "UA05BT/KMY-1-009",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-010",
     "number": "UA05BT/KMY-1-010",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-011_p1",
     "number": "UA05BT/KMY-1-011",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-011",
     "number": "UA05BT/KMY-1-011",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-012",
     "number": "UA05BT/KMY-1-012",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-013_p1",
     "number": "UA05BT/KMY-1-013",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-013",
     "number": "UA05BT/KMY-1-013",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-014",
     "number": "UA05BT/KMY-1-014",
-    "name": "资料待补",
+    "name": "栗花落 カナヲ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-015",
     "number": "UA05BT/KMY-1-015",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-016",
     "number": "UA05BT/KMY-1-016",
-    "name": "资料待补",
+    "name": "村田",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-017",
     "number": "UA05BT/KMY-1-017",
-    "name": "资料待补",
+    "name": "伊黒 小芭内",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-018",
     "number": "UA05BT/KMY-1-018",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-019",
     "number": "UA05BT/KMY-1-019",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-020_p1",
     "number": "UA05BT/KMY-1-020",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-020",
     "number": "UA05BT/KMY-1-020",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-021_p1",
     "number": "UA05BT/KMY-1-021",
-    "name": "资料待补",
+    "name": "胡蝶 しのぶ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-021",
     "number": "UA05BT/KMY-1-021",
-    "name": "资料待补",
+    "name": "胡蝶 しのぶ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-022",
     "number": "UA05BT/KMY-1-022",
-    "name": "资料待补",
+    "name": "不死川 実弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-023",
     "number": "UA05BT/KMY-1-023",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-024_p1",
     "number": "UA05BT/KMY-1-024",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-024",
     "number": "UA05BT/KMY-1-024",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-025_p1",
     "number": "UA05BT/KMY-1-025",
-    "name": "资料待补",
+    "name": "冨岡 義勇",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-025",
     "number": "UA05BT/KMY-1-025",
-    "name": "资料待补",
+    "name": "冨岡 義勇",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-026",
     "number": "UA05BT/KMY-1-026",
-    "name": "资料待补",
+    "name": "悲鳴嶼 行冥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-027",
     "number": "UA05BT/KMY-1-027",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-028",
     "number": "UA05BT/KMY-1-028",
-    "name": "资料待补",
+    "name": "蝶屋敷",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-029_p1",
     "number": "UA05BT/KMY-1-029",
-    "name": "资料待补",
+    "name": "全集中の呼吸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-029",
     "number": "UA05BT/KMY-1-029",
-    "name": "资料待补",
+    "name": "全集中の呼吸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-030",
     "number": "UA05BT/KMY-1-030",
-    "name": "资料待补",
+    "name": "柱合会議",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-031_p1",
     "number": "UA05BT/KMY-1-031",
-    "name": "资料待补",
+    "name": "柱合裁判",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-031",
     "number": "UA05BT/KMY-1-031",
-    "name": "资料待补",
+    "name": "柱合裁判",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-032",
     "number": "UA05BT/KMY-1-032",
-    "name": "资料待补",
+    "name": "判断が遅い",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-033_p1",
     "number": "UA05BT/KMY-1-033",
-    "name": "资料待补",
+    "name": "水の呼吸 拾ノ型 生生流転",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-033",
     "number": "UA05BT/KMY-1-033",
-    "name": "资料待补",
+    "name": "水の呼吸 拾ノ型 生生流転",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-034",
     "number": "UA05BT/KMY-1-034",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀 無惨",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-035_p1",
     "number": "UA05BT/KMY-1-035",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀 無惨",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-035",
     "number": "UA05BT/KMY-1-035",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀 無惨",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-036",
     "number": "UA05BT/KMY-1-036",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀無惨(擬態\"芸妓\")",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-037",
     "number": "UA05BT/KMY-1-037",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀無惨(擬態\"少年\")",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-038",
     "number": "UA05BT/KMY-1-038",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀無惨(擬態\"月彦\")",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-039",
     "number": "UA05BT/KMY-1-039",
-    "name": "资料待补",
+    "name": "響凱",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-040",
     "number": "UA05BT/KMY-1-040",
-    "name": "资料待补",
+    "name": "朱紗丸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-041",
     "number": "UA05BT/KMY-1-041",
-    "name": "资料待补",
+    "name": "手鬼",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-042",
     "number": "UA05BT/KMY-1-042",
-    "name": "资料待补",
+    "name": "鳴女",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-043",
     "number": "UA05BT/KMY-1-043",
-    "name": "资料待补",
+    "name": "矢琶羽",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-044",
     "number": "UA05BT/KMY-1-044",
-    "name": "资料待补",
+    "name": "魘夢",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-045_p1",
     "number": "UA05BT/KMY-1-045",
-    "name": "资料待补",
+    "name": "魘夢",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-045",
     "number": "UA05BT/KMY-1-045",
-    "name": "资料待补",
+    "name": "魘夢",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-046",
     "number": "UA05BT/KMY-1-046",
-    "name": "资料待补",
+    "name": "下弦の参",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-047",
     "number": "UA05BT/KMY-1-047",
-    "name": "资料待补",
+    "name": "下弦の肆",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-048",
     "number": "UA05BT/KMY-1-048",
-    "name": "资料待补",
+    "name": "下弦の弐",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-049",
     "number": "UA05BT/KMY-1-049",
-    "name": "资料待补",
+    "name": "下弦の陸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-050",
     "number": "UA05BT/KMY-1-050",
-    "name": "资料待补",
+    "name": "累",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-051",
     "number": "UA05BT/KMY-1-051",
-    "name": "资料待补",
+    "name": "猗窩座",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-052_p1",
     "number": "UA05BT/KMY-1-052",
-    "name": "资料待补",
+    "name": "猗窩座",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-052",
     "number": "UA05BT/KMY-1-052",
-    "name": "资料待补",
+    "name": "猗窩座",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-053",
     "number": "UA05BT/KMY-1-053",
-    "name": "资料待补",
+    "name": "妓夫太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-054",
     "number": "UA05BT/KMY-1-054",
-    "name": "资料待补",
+    "name": "妓夫太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-055",
     "number": "UA05BT/KMY-1-055",
-    "name": "资料待补",
+    "name": "妓夫太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-056_p1",
     "number": "UA05BT/KMY-1-056",
-    "name": "资料待补",
+    "name": "妓夫太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-056",
     "number": "UA05BT/KMY-1-056",
-    "name": "资料待补",
+    "name": "妓夫太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-057",
     "number": "UA05BT/KMY-1-057",
-    "name": "资料待补",
+    "name": "堕姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-058",
     "number": "UA05BT/KMY-1-058",
-    "name": "资料待补",
+    "name": "堕姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-059_p1",
     "number": "UA05BT/KMY-1-059",
-    "name": "资料待补",
+    "name": "堕姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-059",
     "number": "UA05BT/KMY-1-059",
-    "name": "资料待补",
+    "name": "堕姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-060",
     "number": "UA05BT/KMY-1-060",
-    "name": "资料待补",
+    "name": "蕨姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-061",
     "number": "UA05BT/KMY-1-061",
-    "name": "资料待补",
+    "name": "京極屋",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-062",
     "number": "UA05BT/KMY-1-062",
-    "name": "资料待补",
+    "name": "鬼の力",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-063_p1",
     "number": "UA05BT/KMY-1-063",
-    "name": "资料待补",
+    "name": "頭を垂れて蹲え 平伏せよ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-063",
     "number": "UA05BT/KMY-1-063",
-    "name": "资料待补",
+    "name": "頭を垂れて蹲え 平伏せよ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-064",
     "number": "UA05BT/KMY-1-064",
-    "name": "资料待补",
+    "name": "粛清",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-065",
     "number": "UA05BT/KMY-1-065",
-    "name": "资料待补",
+    "name": "ずっと一緒だ 絶対離れない",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-066_p1",
     "number": "UA05BT/KMY-1-066",
-    "name": "资料待补",
+    "name": "飛び血鎌",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-066",
     "number": "UA05BT/KMY-1-066",
-    "name": "资料待补",
+    "name": "飛び血鎌",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-067_p1",
     "number": "UA05BT/KMY-1-067",
-    "name": "资料待补",
+    "name": "無惨の血",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-067",
     "number": "UA05BT/KMY-1-067",
-    "name": "资料待补",
+    "name": "無惨の血",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-068",
     "number": "UA05BT/KMY-1-068",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-069",
     "number": "UA05BT/KMY-1-069",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-070_p1",
     "number": "UA05BT/KMY-1-070",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-070",
     "number": "UA05BT/KMY-1-070",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-071_p1",
     "number": "UA05BT/KMY-1-071",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-071",
     "number": "UA05BT/KMY-1-071",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-072",
     "number": "UA05BT/KMY-1-072",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-073",
     "number": "UA05BT/KMY-1-073",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-074",
     "number": "UA05BT/KMY-1-074",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-075",
     "number": "UA05BT/KMY-1-075",
-    "name": "资料待补",
+    "name": "チュン太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-076",
     "number": "UA05BT/KMY-1-076",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-077",
     "number": "UA05BT/KMY-1-077",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-078_p1",
     "number": "UA05BT/KMY-1-078",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-078",
     "number": "UA05BT/KMY-1-078",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-079_p1",
     "number": "UA05BT/KMY-1-079",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-079",
     "number": "UA05BT/KMY-1-079",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-080",
     "number": "UA05BT/KMY-1-080",
-    "name": "资料待补",
+    "name": "ムキムキねずみ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-081",
     "number": "UA05BT/KMY-1-081",
-    "name": "资料待补",
+    "name": "煉󠄁獄 千寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-082",
     "number": "UA05BT/KMY-1-082",
-    "name": "资料待补",
+    "name": "須磨",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-083",
     "number": "UA05BT/KMY-1-083",
-    "name": "资料待补",
+    "name": "雛鶴",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-084",
     "number": "UA05BT/KMY-1-084",
-    "name": "资料待补",
+    "name": "まきを",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-085",
     "number": "UA05BT/KMY-1-085",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-086",
     "number": "UA05BT/KMY-1-086",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-087_p1",
     "number": "UA05BT/KMY-1-087",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-087",
     "number": "UA05BT/KMY-1-087",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-088",
     "number": "UA05BT/KMY-1-088",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-089",
     "number": "UA05BT/KMY-1-089",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-090_p1",
     "number": "UA05BT/KMY-1-090",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-090",
     "number": "UA05BT/KMY-1-090",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-091",
     "number": "UA05BT/KMY-1-091",
-    "name": "资料待补",
+    "name": "猪子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-092",
     "number": "UA05BT/KMY-1-092",
-    "name": "资料待补",
+    "name": "炭子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-093",
     "number": "UA05BT/KMY-1-093",
-    "name": "资料待补",
+    "name": "善子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-094",
     "number": "UA05BT/KMY-1-094",
-    "name": "资料待补",
+    "name": "弁当",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-095",
     "number": "UA05BT/KMY-1-095",
-    "name": "资料待补",
+    "name": "うまい！うまい！うまい！",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-096_p1",
     "number": "UA05BT/KMY-1-096",
-    "name": "资料待补",
+    "name": "音の呼吸 伍ノ型 鳴弦奏々",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-096",
     "number": "UA05BT/KMY-1-096",
-    "name": "资料待补",
+    "name": "音の呼吸 伍ノ型 鳴弦奏々",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-097_p1",
     "number": "UA05BT/KMY-1-097",
-    "name": "资料待补",
+    "name": "雷の呼吸 壱ノ型 霹靂一閃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-097",
     "number": "UA05BT/KMY-1-097",
-    "name": "资料待补",
+    "name": "雷の呼吸 壱ノ型 霹靂一閃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-098",
     "number": "UA05BT/KMY-1-098",
-    "name": "资料待补",
+    "name": "獣の呼吸 伍ノ牙 狂い裂き",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-099_p1",
     "number": "UA05BT/KMY-1-099",
-    "name": "资料待补",
+    "name": "全集中の呼吸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-099",
     "number": "UA05BT/KMY-1-099",
-    "name": "资料待补",
+    "name": "全集中の呼吸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-100",
     "number": "UA05BT/KMY-1-100",
-    "name": "资料待补",
+    "name": "猪突猛進",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-ap01",
     "number": "UA05BT/KMY-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-ap02",
     "number": "UA05BT/KMY-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-ap03",
     "number": "UA05BT/KMY-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-ap04",
     "number": "UA05BT/KMY-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-ap05",
     "number": "UA05BT/KMY-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-2-ua05bt_kmy-1-ap06",
     "number": "UA05BT/KMY-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-1-017_p1",
     "number": "EX05BT/KMY-1-017",
-    "name": "资料待补",
+    "name": "伊黒 小芭内",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-1-022_p1",
     "number": "EX05BT/KMY-1-022",
-    "name": "资料待补",
+    "name": "不死川 実弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-1-026_p1",
     "number": "EX05BT/KMY-1-026",
-    "name": "资料待补",
+    "name": "悲鳴嶼 行冥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-001",
     "number": "EX05BT/KMY-3-001",
-    "name": "资料待补",
+    "name": "産屋敷 耀哉",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-002_p1",
     "number": "EX05BT/KMY-3-002",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-002",
     "number": "EX05BT/KMY-3-002",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-003",
     "number": "EX05BT/KMY-3-003",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-004",
     "number": "EX05BT/KMY-3-004",
-    "name": "资料待补",
+    "name": "神崎 アオイ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-005_p1",
     "number": "EX05BT/KMY-3-005",
-    "name": "资料待补",
+    "name": "珠世",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-005",
     "number": "EX05BT/KMY-3-005",
-    "name": "资料待补",
+    "name": "珠世",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-006",
     "number": "EX05BT/KMY-3-006",
-    "name": "资料待补",
+    "name": "愈史郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-007_p1",
     "number": "EX05BT/KMY-3-007",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-007",
     "number": "EX05BT/KMY-3-007",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-008_p1",
     "number": "EX05BT/KMY-3-008",
-    "name": "资料待补",
+    "name": "胡蝶 しのぶ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-008",
     "number": "EX05BT/KMY-3-008",
-    "name": "资料待补",
+    "name": "胡蝶 しのぶ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-009_p1",
     "number": "EX05BT/KMY-3-009",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-009",
     "number": "EX05BT/KMY-3-009",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-010_p1",
     "number": "EX05BT/KMY-3-010",
-    "name": "资料待补",
+    "name": "冨岡 義勇",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-010",
     "number": "EX05BT/KMY-3-010",
-    "name": "资料待补",
+    "name": "冨岡 義勇",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-011",
     "number": "EX05BT/KMY-3-011",
-    "name": "资料待补",
+    "name": "看病",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-012",
     "number": "EX05BT/KMY-3-012",
-    "name": "资料待补",
+    "name": "隠",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-013",
     "number": "EX05BT/KMY-3-013",
-    "name": "资料待补",
+    "name": "鎹鴉",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-014",
     "number": "EX05BT/KMY-3-014",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-015",
     "number": "EX05BT/KMY-3-015",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-016_p1",
     "number": "EX05BT/KMY-3-016",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-016",
     "number": "EX05BT/KMY-3-016",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-017_p1",
     "number": "EX05BT/KMY-3-017",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-017",
     "number": "EX05BT/KMY-3-017",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-018",
     "number": "EX05BT/KMY-3-018",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-019",
     "number": "EX05BT/KMY-3-019",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-020_p1",
     "number": "EX05BT/KMY-3-020",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-020",
     "number": "EX05BT/KMY-3-020",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-021_p1",
     "number": "EX05BT/KMY-3-021",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-021_p2",
     "number": "EX05BT/KMY-3-021",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-021",
     "number": "EX05BT/KMY-3-021",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-022",
     "number": "EX05BT/KMY-3-022",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-023",
     "number": "EX05BT/KMY-3-023",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-024_p1",
     "number": "EX05BT/KMY-3-024",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-024",
     "number": "EX05BT/KMY-3-024",
-    "name": "资料待补",
+    "name": "不死川 玄弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-025",
     "number": "EX05BT/KMY-3-025",
-    "name": "资料待补",
+    "name": "鋼鐵塚 蛍",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-026",
     "number": "EX05BT/KMY-3-026",
-    "name": "资料待补",
+    "name": "鉄穴森 鋼蔵",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-027",
     "number": "EX05BT/KMY-3-027",
-    "name": "资料待补",
+    "name": "小鉄",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-028",
     "number": "EX05BT/KMY-3-028",
-    "name": "资料待补",
+    "name": "鉄地河原 鉄珍",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-029",
     "number": "EX05BT/KMY-3-029",
-    "name": "资料待补",
+    "name": "縁壱零式",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-030",
     "number": "EX05BT/KMY-3-030",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-031",
     "number": "EX05BT/KMY-3-031",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-032",
     "number": "EX05BT/KMY-3-032",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-033_p1",
     "number": "EX05BT/KMY-3-033",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-033",
     "number": "EX05BT/KMY-3-033",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-034_p1",
     "number": "EX05BT/KMY-3-034",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-034",
     "number": "EX05BT/KMY-3-034",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-035",
     "number": "EX05BT/KMY-3-035",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-036",
     "number": "EX05BT/KMY-3-036",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-037",
     "number": "EX05BT/KMY-3-037",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-038_p1",
     "number": "EX05BT/KMY-3-038",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-038",
     "number": "EX05BT/KMY-3-038",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-039_p1",
     "number": "EX05BT/KMY-3-039",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-039",
     "number": "EX05BT/KMY-3-039",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-040",
     "number": "EX05BT/KMY-3-040",
-    "name": "资料待补",
+    "name": "刀鍛冶の里",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-041",
     "number": "EX05BT/KMY-3-041",
-    "name": "资料待补",
+    "name": "日輪刀（竈門 炭治郎）",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-042",
     "number": "EX05BT/KMY-3-042",
-    "name": "资料待补",
+    "name": "日輪刀（甘露寺 蜜璃）",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-043",
     "number": "EX05BT/KMY-3-043",
-    "name": "资料待补",
+    "name": "日輪刀（時透 無一郎）",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-044",
     "number": "EX05BT/KMY-3-044",
-    "name": "资料待补",
+    "name": "痣",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-045",
     "number": "EX05BT/KMY-3-045",
-    "name": "资料待补",
+    "name": "円舞一閃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-046",
     "number": "EX05BT/KMY-3-046",
-    "name": "资料待补",
+    "name": "赫刀",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-047",
     "number": "EX05BT/KMY-3-047",
-    "name": "资料待补",
+    "name": "霞の呼吸 伍ノ型 霞雲の海",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-048",
     "number": "EX05BT/KMY-3-048",
-    "name": "资料待补",
+    "name": "恋の呼吸 壱ノ型 初恋のわななき",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-049_p1",
     "number": "EX05BT/KMY-3-049",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀 無惨",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-049",
     "number": "EX05BT/KMY-3-049",
-    "name": "资料待补",
+    "name": "鬼舞辻󠄀 無惨",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-050",
     "number": "EX05BT/KMY-3-050",
-    "name": "资料待补",
+    "name": "妓夫太郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-051",
     "number": "EX05BT/KMY-3-051",
-    "name": "资料待补",
+    "name": "玉壺",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-052",
     "number": "EX05BT/KMY-3-052",
-    "name": "资料待补",
+    "name": "玉壺",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-053",
     "number": "EX05BT/KMY-3-053",
-    "name": "资料待补",
+    "name": "堕姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-054",
     "number": "EX05BT/KMY-3-054",
-    "name": "资料待补",
+    "name": "堕姫",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-055",
     "number": "EX05BT/KMY-3-055",
-    "name": "资料待补",
+    "name": "半天狗",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-056",
     "number": "EX05BT/KMY-3-056",
-    "name": "资料待补",
+    "name": "哀絶",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-057",
     "number": "EX05BT/KMY-3-057",
-    "name": "资料待补",
+    "name": "空喜",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-058",
     "number": "EX05BT/KMY-3-058",
-    "name": "资料待补",
+    "name": "可楽",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-059",
     "number": "EX05BT/KMY-3-059",
-    "name": "资料待补",
+    "name": "積怒",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-060",
     "number": "EX05BT/KMY-3-060",
-    "name": "资料待补",
+    "name": "憎珀天",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-061",
     "number": "EX05BT/KMY-3-061",
-    "name": "资料待补",
+    "name": "無惨の研究",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-062_p1",
     "number": "EX05BT/KMY-3-062",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-062",
     "number": "EX05BT/KMY-3-062",
-    "name": "资料待补",
+    "name": "我妻 善逸",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-063",
     "number": "EX05BT/KMY-3-063",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-064",
     "number": "EX05BT/KMY-3-064",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-065",
     "number": "EX05BT/KMY-3-065",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-066",
     "number": "EX05BT/KMY-3-066",
-    "name": "资料待补",
+    "name": "煉󠄁獄 槇寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-067",
     "number": "EX05BT/KMY-3-067",
-    "name": "资料待补",
+    "name": "煉󠄁獄 瑠火",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-068",
     "number": "EX05BT/KMY-3-068",
-    "name": "资料待补",
+    "name": "須磨＆まきを＆雛鶴",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-069_p1",
     "number": "EX05BT/KMY-3-069",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-069",
     "number": "EX05BT/KMY-3-069",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-070",
     "number": "EX05BT/KMY-3-070",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-071_p1",
     "number": "EX05BT/KMY-3-071",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-071",
     "number": "EX05BT/KMY-3-071",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-072_p1",
     "number": "EX05BT/KMY-3-072",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-072",
     "number": "EX05BT/KMY-3-072",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-073",
     "number": "EX05BT/KMY-3-073",
-    "name": "资料待补",
+    "name": "炎の呼吸 壱ノ型 不知火",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-ap01",
     "number": "EX05BT/KMY-3-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-ap02",
     "number": "EX05BT/KMY-3-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-ap03",
     "number": "EX05BT/KMY-3-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-3-ex05bt_kmy-3-ap04",
     "number": "EX05BT/KMY-3-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-001",
     "number": "UA01NC/KMY-2-001",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-002",
     "number": "UA01NC/KMY-2-002",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-003",
     "number": "UA01NC/KMY-2-003",
-    "name": "资料待补",
+    "name": "伊黒 小芭内",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-004",
     "number": "UA01NC/KMY-2-004",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-005",
     "number": "UA01NC/KMY-2-005",
-    "name": "资料待补",
+    "name": "胡蝶 しのぶ",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5746,7 +5746,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-006",
     "number": "UA01NC/KMY-2-006",
-    "name": "资料待补",
+    "name": "不死川 実弥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5768,7 +5768,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-007",
     "number": "UA01NC/KMY-2-007",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5790,7 +5790,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-008",
     "number": "UA01NC/KMY-2-008",
-    "name": "资料待补",
+    "name": "冨岡 義勇",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5812,7 +5812,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-009",
     "number": "UA01NC/KMY-2-009",
-    "name": "资料待补",
+    "name": "悲鳴嶼 行冥",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5834,7 +5834,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-010",
     "number": "UA01NC/KMY-2-010",
-    "name": "资料待补",
+    "name": "宇髄 天元",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5856,7 +5856,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-011",
     "number": "UA01NC/KMY-2-011",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",
@@ -5878,7 +5878,7 @@ export const demonSlayerCards: Card[] = [
   {
     "id": "demon-slayer-4-ua01nc_kmy-2-ap01",
     "number": "UA01NC/KMY-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "鬼灭之刃",
     "color": "资料待补",

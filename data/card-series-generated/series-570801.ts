@@ -4,7 +4,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-ua01pb_cgh-1-016",
     "number": "UA01PB/CGH-1-016",
-    "name": "资料待补",
+    "name": "ルルーシュ・ランペルージ",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-ua02pb_jjk-1-039",
     "number": "UA02PB/JJK-1-039",
-    "name": "资料待补",
+    "name": "虎杖 悠仁",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-ua03pb_htr-1-077",
     "number": "UA03PB/HTR-1-077",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_cgh-ap01",
     "number": "UAPB/CGH-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_cgh-ap02",
     "number": "UAPB/CGH-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_cgh-ap03",
     "number": "UAPB/CGH-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_htr-ap01",
     "number": "UAPB/HTR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_htr-ap02",
     "number": "UAPB/HTR-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_htr-ap03",
     "number": "UAPB/HTR-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_jjk-ap01",
     "number": "UAPB/JJK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_jjk-ap02",
     "number": "UAPB/JJK-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const series570801Cards: Card[] = [
   {
     "id": "series-570801-uapb_jjk-ap03",
     "number": "UAPB/JJK-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570801",
     "color": "资料待补",

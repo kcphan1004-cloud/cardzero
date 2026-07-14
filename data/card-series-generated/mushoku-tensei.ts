@@ -2138,7 +2138,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-001",
     "number": "UA54BT/MST-1-001",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-002_p1",
     "number": "UA54BT/MST-1-002",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-002",
     "number": "UA54BT/MST-1-002",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-003",
     "number": "UA54BT/MST-1-003",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-004",
     "number": "UA54BT/MST-1-004",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-005",
     "number": "UA54BT/MST-1-005",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-006",
     "number": "UA54BT/MST-1-006",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-007_p1",
     "number": "UA54BT/MST-1-007",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-007",
     "number": "UA54BT/MST-1-007",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-008_p1",
     "number": "UA54BT/MST-1-008",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-008",
     "number": "UA54BT/MST-1-008",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-009_p1",
     "number": "UA54BT/MST-1-009",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-009",
     "number": "UA54BT/MST-1-009",
-    "name": "资料待补",
+    "name": "エリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-010",
     "number": "UA54BT/MST-1-010",
-    "name": "资料待补",
+    "name": "キシリカ・キシリス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-011",
     "number": "UA54BT/MST-1-011",
-    "name": "资料待补",
+    "name": "ギレーヌ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-012",
     "number": "UA54BT/MST-1-012",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-013",
     "number": "UA54BT/MST-1-013",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-014_p1",
     "number": "UA54BT/MST-1-014",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-014",
     "number": "UA54BT/MST-1-014",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-015",
     "number": "UA54BT/MST-1-015",
-    "name": "资料待补",
+    "name": "聖獣",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-016",
     "number": "UA54BT/MST-1-016",
-    "name": "资料待补",
+    "name": "ゼニス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-017",
     "number": "UA54BT/MST-1-017",
-    "name": "资料待补",
+    "name": "ノルン＆アイシャ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-018",
     "number": "UA54BT/MST-1-018",
-    "name": "资料待补",
+    "name": "パウロ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-019",
     "number": "UA54BT/MST-1-019",
-    "name": "资料待补",
+    "name": "リーリャ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-020",
     "number": "UA54BT/MST-1-020",
-    "name": "资料待补",
+    "name": "ルイジェルド",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-021",
     "number": "UA54BT/MST-1-021",
-    "name": "资料待补",
+    "name": "ルイジェルド",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-022",
     "number": "UA54BT/MST-1-022",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-023",
     "number": "UA54BT/MST-1-023",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-024",
     "number": "UA54BT/MST-1-024",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-025",
     "number": "UA54BT/MST-1-025",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-026_p1",
     "number": "UA54BT/MST-1-026",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-026",
     "number": "UA54BT/MST-1-026",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-027",
     "number": "UA54BT/MST-1-027",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-028",
     "number": "UA54BT/MST-1-028",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-029",
     "number": "UA54BT/MST-1-029",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-030",
     "number": "UA54BT/MST-1-030",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-031_p1",
     "number": "UA54BT/MST-1-031",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-031",
     "number": "UA54BT/MST-1-031",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-032_p1",
     "number": "UA54BT/MST-1-032",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-032",
     "number": "UA54BT/MST-1-032",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-033",
     "number": "UA54BT/MST-1-033",
-    "name": "资料待补",
+    "name": "デッドエンド",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-034_p1",
     "number": "UA54BT/MST-1-034",
-    "name": "资料待补",
+    "name": "エリスに魔術を教えてくださいニャン☆",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-034",
     "number": "UA54BT/MST-1-034",
-    "name": "资料待补",
+    "name": "エリスに魔術を教えてくださいニャン☆",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-035",
     "number": "UA54BT/MST-1-035",
-    "name": "资料待补",
+    "name": "お前は戦士だ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-036_p1",
     "number": "UA54BT/MST-1-036",
-    "name": "资料待补",
+    "name": "豪雷積層雲",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-036",
     "number": "UA54BT/MST-1-036",
-    "name": "资料待补",
+    "name": "豪雷積層雲",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-037",
     "number": "UA54BT/MST-1-037",
-    "name": "资料待补",
+    "name": "ご神体",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-038",
     "number": "UA54BT/MST-1-038",
-    "name": "资料待补",
+    "name": "師匠からのおくりもの",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-039",
     "number": "UA54BT/MST-1-039",
-    "name": "资料待补",
+    "name": "ルーデウスはすごいのよ！",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-040",
     "number": "UA54BT/MST-1-040",
-    "name": "资料待补",
+    "name": "私がついていますから",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-041_p1",
     "number": "UA54BT/MST-1-041",
-    "name": "资料待补",
+    "name": "アイシャ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-041",
     "number": "UA54BT/MST-1-041",
-    "name": "资料待补",
+    "name": "アイシャ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-042",
     "number": "UA54BT/MST-1-042",
-    "name": "资料待补",
+    "name": "エリナリーゼ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-043",
     "number": "UA54BT/MST-1-043",
-    "name": "资料待补",
+    "name": "ギース",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-044",
     "number": "UA54BT/MST-1-044",
-    "name": "资料待补",
+    "name": "サラ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-045",
     "number": "UA54BT/MST-1-045",
-    "name": "资料待补",
+    "name": "ゼニス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-046",
     "number": "UA54BT/MST-1-046",
-    "name": "资料待补",
+    "name": "タルハンド",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-047",
     "number": "UA54BT/MST-1-047",
-    "name": "资料待补",
+    "name": "パウロ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-048",
     "number": "UA54BT/MST-1-048",
-    "name": "资料待补",
+    "name": "パウロ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-049_p1",
     "number": "UA54BT/MST-1-049",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-049",
     "number": "UA54BT/MST-1-049",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-050",
     "number": "UA54BT/MST-1-050",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-051",
     "number": "UA54BT/MST-1-051",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-052_p1",
     "number": "UA54BT/MST-1-052",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-052",
     "number": "UA54BT/MST-1-052",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-053_p1",
     "number": "UA54BT/MST-1-053",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-053",
     "number": "UA54BT/MST-1-053",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-054_p1",
     "number": "UA54BT/MST-1-054",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-054_p2",
     "number": "UA54BT/MST-1-054",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-054",
     "number": "UA54BT/MST-1-054",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-055",
     "number": "UA54BT/MST-1-055",
-    "name": "资料待补",
+    "name": "アリエル",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-056",
     "number": "UA54BT/MST-1-056",
-    "name": "资料待补",
+    "name": "エリナリーゼ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-057",
     "number": "UA54BT/MST-1-057",
-    "name": "资料待补",
+    "name": "クリフ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-058",
     "number": "UA54BT/MST-1-058",
-    "name": "资料待补",
+    "name": "ザノバ＆ジュリエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-059_p1",
     "number": "UA54BT/MST-1-059",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-059",
     "number": "UA54BT/MST-1-059",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-060_p1",
     "number": "UA54BT/MST-1-060",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-060_p2",
     "number": "UA54BT/MST-1-060",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-060",
     "number": "UA54BT/MST-1-060",
-    "name": "资料待补",
+    "name": "シルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-061_p1",
     "number": "UA54BT/MST-1-061",
-    "name": "资料待补",
+    "name": "ナナホシ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-061",
     "number": "UA54BT/MST-1-061",
-    "name": "资料待补",
+    "name": "ナナホシ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-062_p1",
     "number": "UA54BT/MST-1-062",
-    "name": "资料待补",
+    "name": "ナナホシ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-062",
     "number": "UA54BT/MST-1-062",
-    "name": "资料待补",
+    "name": "ナナホシ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-063",
     "number": "UA54BT/MST-1-063",
-    "name": "资料待补",
+    "name": "ノルン",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-064",
     "number": "UA54BT/MST-1-064",
-    "name": "资料待补",
+    "name": "バーディガーディ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-065",
     "number": "UA54BT/MST-1-065",
-    "name": "资料待补",
+    "name": "フィッツ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-066",
     "number": "UA54BT/MST-1-066",
-    "name": "资料待补",
+    "name": "フィッツ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-067",
     "number": "UA54BT/MST-1-067",
-    "name": "资料待补",
+    "name": "フィッツ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-068_p1",
     "number": "UA54BT/MST-1-068",
-    "name": "资料待补",
+    "name": "フィッツ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-068",
     "number": "UA54BT/MST-1-068",
-    "name": "资料待补",
+    "name": "フィッツ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-069_p1",
     "number": "UA54BT/MST-1-069",
-    "name": "资料待补",
+    "name": "プルセナ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-069",
     "number": "UA54BT/MST-1-069",
-    "name": "资料待补",
+    "name": "プルセナ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-070_p1",
     "number": "UA54BT/MST-1-070",
-    "name": "资料待补",
+    "name": "リニアーナ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-070",
     "number": "UA54BT/MST-1-070",
-    "name": "资料待补",
+    "name": "リニアーナ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-071",
     "number": "UA54BT/MST-1-071",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-072",
     "number": "UA54BT/MST-1-072",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-073_p1",
     "number": "UA54BT/MST-1-073",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-073",
     "number": "UA54BT/MST-1-073",
-    "name": "资料待补",
+    "name": "ルーデウス",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-074",
     "number": "UA54BT/MST-1-074",
-    "name": "资料待补",
+    "name": "転移の迷宮",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-075",
     "number": "UA54BT/MST-1-075",
-    "name": "资料待补",
+    "name": "迷宮都市ラパン",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-076",
     "number": "UA54BT/MST-1-076",
-    "name": "资料待补",
+    "name": "迷宮の守護者 マナタイトヒュドラ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-077_p1",
     "number": "UA54BT/MST-1-077",
-    "name": "资料待补",
+    "name": "今までありがとう",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-077",
     "number": "UA54BT/MST-1-077",
-    "name": "资料待补",
+    "name": "今までありがとう",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-078",
     "number": "UA54BT/MST-1-078",
-    "name": "资料待补",
+    "name": "守護術師フィッツ",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-079",
     "number": "UA54BT/MST-1-079",
-    "name": "资料待补",
+    "name": "ゼニス救出作戦",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-080",
     "number": "UA54BT/MST-1-080",
-    "name": "资料待补",
+    "name": "そう、ボクはシルフィエット",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4469,8 +4469,8 @@ export const mushokuTenseiCards: Card[] = [
   },
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap01_p1",
-    "number": "UA54BT/MST-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UA54BT/MST-1-AP01",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap01",
     "number": "UA54BT/MST-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4513,8 +4513,8 @@ export const mushokuTenseiCards: Card[] = [
   },
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap02_p1",
-    "number": "UA54BT/MST-1-AP02/p1",
-    "name": "资料待补",
+    "number": "UA54BT/MST-1-AP02",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap02",
     "number": "UA54BT/MST-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap03",
     "number": "UA54BT/MST-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap04",
     "number": "UA54BT/MST-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap05",
     "number": "UA54BT/MST-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap06",
     "number": "UA54BT/MST-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap07",
     "number": "UA54BT/MST-1-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap08",
     "number": "UA54BT/MST-1-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap09",
     "number": "UA54BT/MST-1-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap10",
     "number": "UA54BT/MST-1-AP10",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap11",
     "number": "UA54BT/MST-1-AP11",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const mushokuTenseiCards: Card[] = [
   {
     "id": "mushoku-tensei-ua54bt_mst-1-ap12",
     "number": "UA54BT/MST-1-AP12",
-    "name": "资料待补",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
     "nameZh": "",
     "series": "无职转生",
     "color": "资料待补",

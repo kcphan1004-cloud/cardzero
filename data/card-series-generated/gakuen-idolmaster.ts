@@ -4,7 +4,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-001",
     "number": "UA27BT/GIM-1-001",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-002",
     "number": "UA27BT/GIM-1-002",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-003",
     "number": "UA27BT/GIM-1-003",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-004_p1",
     "number": "UA27BT/GIM-1-004",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-004",
     "number": "UA27BT/GIM-1-004",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-005_p1",
     "number": "UA27BT/GIM-1-005",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-005",
     "number": "UA27BT/GIM-1-005",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-006_p1",
     "number": "UA27BT/GIM-1-006",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-006",
     "number": "UA27BT/GIM-1-006",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-007",
     "number": "UA27BT/GIM-1-007",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-008",
     "number": "UA27BT/GIM-1-008",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-009_p1",
     "number": "UA27BT/GIM-1-009",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-009",
     "number": "UA27BT/GIM-1-009",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-010_p1",
     "number": "UA27BT/GIM-1-010",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-010",
     "number": "UA27BT/GIM-1-010",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-011_p1",
     "number": "UA27BT/GIM-1-011",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-011",
     "number": "UA27BT/GIM-1-011",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-012",
     "number": "UA27BT/GIM-1-012",
-    "name": "资料待补",
+    "name": "根緒 亜紗里",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-013",
     "number": "UA27BT/GIM-1-013",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-014_p1",
     "number": "UA27BT/GIM-1-014",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-014",
     "number": "UA27BT/GIM-1-014",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-015_p1",
     "number": "UA27BT/GIM-1-015",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-015",
     "number": "UA27BT/GIM-1-015",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-016_p1",
     "number": "UA27BT/GIM-1-016",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-016",
     "number": "UA27BT/GIM-1-016",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-017",
     "number": "UA27BT/GIM-1-017",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-018_p1",
     "number": "UA27BT/GIM-1-018",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-018",
     "number": "UA27BT/GIM-1-018",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-019_p1",
     "number": "UA27BT/GIM-1-019",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-019",
     "number": "UA27BT/GIM-1-019",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-020_p1",
     "number": "UA27BT/GIM-1-020",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-020",
     "number": "UA27BT/GIM-1-020",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-021",
     "number": "UA27BT/GIM-1-021",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-022_p1",
     "number": "UA27BT/GIM-1-022",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-022",
     "number": "UA27BT/GIM-1-022",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-023_p1",
     "number": "UA27BT/GIM-1-023",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-023",
     "number": "UA27BT/GIM-1-023",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-024_p1",
     "number": "UA27BT/GIM-1-024",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-024",
     "number": "UA27BT/GIM-1-024",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-025",
     "number": "UA27BT/GIM-1-025",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-026",
     "number": "UA27BT/GIM-1-026",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-027_p1",
     "number": "UA27BT/GIM-1-027",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-027",
     "number": "UA27BT/GIM-1-027",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-028_p1",
     "number": "UA27BT/GIM-1-028",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-028",
     "number": "UA27BT/GIM-1-028",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-029_p1",
     "number": "UA27BT/GIM-1-029",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-029",
     "number": "UA27BT/GIM-1-029",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-030",
     "number": "UA27BT/GIM-1-030",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-031",
     "number": "UA27BT/GIM-1-031",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-032",
     "number": "UA27BT/GIM-1-032",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-033",
     "number": "UA27BT/GIM-1-033",
-    "name": "资料待补",
+    "name": "生徒会室",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-034",
     "number": "UA27BT/GIM-1-034",
-    "name": "资料待补",
+    "name": "新たな挑戦の成功ですわ！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-035",
     "number": "UA27BT/GIM-1-035",
-    "name": "资料待补",
+    "name": "お疲れ様、千奈ちゃん。",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-036",
     "number": "UA27BT/GIM-1-036",
-    "name": "资料待补",
+    "name": "可愛いと可愛いで可愛い！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-037",
     "number": "UA27BT/GIM-1-037",
-    "name": "资料待补",
+    "name": "ぐぬぬぬぬ…………！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-038",
     "number": "UA27BT/GIM-1-038",
-    "name": "资料待补",
+    "name": "はじめてのお友達",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-039",
     "number": "UA27BT/GIM-1-039",
-    "name": "资料待补",
+    "name": "わたしたち、やればできる",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-040",
     "number": "UA27BT/GIM-1-040",
-    "name": "资料待补",
+    "name": "私の目に狂いはない",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-041",
     "number": "UA27BT/GIM-1-041",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-042_p1",
     "number": "UA27BT/GIM-1-042",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-042",
     "number": "UA27BT/GIM-1-042",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-043_p1",
     "number": "UA27BT/GIM-1-043",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-043",
     "number": "UA27BT/GIM-1-043",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-044_p1",
     "number": "UA27BT/GIM-1-044",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-044",
     "number": "UA27BT/GIM-1-044",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-045",
     "number": "UA27BT/GIM-1-045",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-046_p1",
     "number": "UA27BT/GIM-1-046",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-046",
     "number": "UA27BT/GIM-1-046",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-047_p1",
     "number": "UA27BT/GIM-1-047",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-047",
     "number": "UA27BT/GIM-1-047",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-048_p1",
     "number": "UA27BT/GIM-1-048",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-048",
     "number": "UA27BT/GIM-1-048",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-049",
     "number": "UA27BT/GIM-1-049",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-050",
     "number": "UA27BT/GIM-1-050",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-051_p1",
     "number": "UA27BT/GIM-1-051",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-051",
     "number": "UA27BT/GIM-1-051",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-052_p1",
     "number": "UA27BT/GIM-1-052",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-052",
     "number": "UA27BT/GIM-1-052",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-053_p1",
     "number": "UA27BT/GIM-1-053",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-053",
     "number": "UA27BT/GIM-1-053",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-054",
     "number": "UA27BT/GIM-1-054",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-055",
     "number": "UA27BT/GIM-1-055",
-    "name": "资料待补",
+    "name": "根緒 亜紗里",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-056",
     "number": "UA27BT/GIM-1-056",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-057",
     "number": "UA27BT/GIM-1-057",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-058",
     "number": "UA27BT/GIM-1-058",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-059",
     "number": "UA27BT/GIM-1-059",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-060",
     "number": "UA27BT/GIM-1-060",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-061_p1",
     "number": "UA27BT/GIM-1-061",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-061",
     "number": "UA27BT/GIM-1-061",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-062_p1",
     "number": "UA27BT/GIM-1-062",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-062",
     "number": "UA27BT/GIM-1-062",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-063_p1",
     "number": "UA27BT/GIM-1-063",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-063",
     "number": "UA27BT/GIM-1-063",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-064",
     "number": "UA27BT/GIM-1-064",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-065_p1",
     "number": "UA27BT/GIM-1-065",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-065",
     "number": "UA27BT/GIM-1-065",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-066",
     "number": "UA27BT/GIM-1-066",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-067_p1",
     "number": "UA27BT/GIM-1-067",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-067",
     "number": "UA27BT/GIM-1-067",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-068_p1",
     "number": "UA27BT/GIM-1-068",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-068_p2",
     "number": "UA27BT/GIM-1-068",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-068",
     "number": "UA27BT/GIM-1-068",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-069",
     "number": "UA27BT/GIM-1-069",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-070_p1",
     "number": "UA27BT/GIM-1-070",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-070",
     "number": "UA27BT/GIM-1-070",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-071_p1",
     "number": "UA27BT/GIM-1-071",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-071",
     "number": "UA27BT/GIM-1-071",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-072_p1",
     "number": "UA27BT/GIM-1-072",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-072",
     "number": "UA27BT/GIM-1-072",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-073",
     "number": "UA27BT/GIM-1-073",
-    "name": "资料待补",
+    "name": "初星学園",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-074",
     "number": "UA27BT/GIM-1-074",
-    "name": "资料待补",
+    "name": "あなたにも作ってあげる！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-075",
     "number": "UA27BT/GIM-1-075",
-    "name": "资料待补",
+    "name": "おいしい顔、いただき～！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-076",
     "number": "UA27BT/GIM-1-076",
-    "name": "资料待补",
+    "name": "きみは、自慢の生徒です",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-077",
     "number": "UA27BT/GIM-1-077",
-    "name": "资料待补",
+    "name": "こいつらめんどくさー",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-078",
     "number": "UA27BT/GIM-1-078",
-    "name": "资料待补",
+    "name": "第2回教室パーティー！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-079",
     "number": "UA27BT/GIM-1-079",
-    "name": "资料待补",
+    "name": "ほら、一緒に持と♪",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-080",
     "number": "UA27BT/GIM-1-080",
-    "name": "资料待补",
+    "name": "まるで王子様みたいな",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap01",
     "number": "UA27BT/GIM-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap02",
     "number": "UA27BT/GIM-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap03",
     "number": "UA27BT/GIM-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap04",
     "number": "UA27BT/GIM-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap05",
     "number": "UA27BT/GIM-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap06",
     "number": "UA27BT/GIM-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap07",
     "number": "UA27BT/GIM-1-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap08",
     "number": "UA27BT/GIM-1-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap09",
     "number": "UA27BT/GIM-1-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap10",
     "number": "UA27BT/GIM-1-AP10",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap11",
     "number": "UA27BT/GIM-1-AP11",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap12",
     "number": "UA27BT/GIM-1-AP12",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap13",
     "number": "UA27BT/GIM-1-AP13",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap14",
     "number": "UA27BT/GIM-1-AP14",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap15",
     "number": "UA27BT/GIM-1-AP15",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap16",
     "number": "UA27BT/GIM-1-AP16",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap17",
     "number": "UA27BT/GIM-1-AP17",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap18",
     "number": "UA27BT/GIM-1-AP18",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-ua27bt_gim-1-ap19",
     "number": "UA27BT/GIM-1-AP19",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-001",
     "number": "EX13BT/GIM-2-001",
-    "name": "资料待补",
+    "name": "根緒 亜紗里",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-002",
     "number": "EX13BT/GIM-2-002",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-003_p1",
     "number": "EX13BT/GIM-2-003",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-003",
     "number": "EX13BT/GIM-2-003",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-004",
     "number": "EX13BT/GIM-2-004",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-005_p1",
     "number": "EX13BT/GIM-2-005",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-005",
     "number": "EX13BT/GIM-2-005",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-006_p1",
     "number": "EX13BT/GIM-2-006",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-006",
     "number": "EX13BT/GIM-2-006",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-007_p1",
     "number": "EX13BT/GIM-2-007",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-007",
     "number": "EX13BT/GIM-2-007",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-008_p1",
     "number": "EX13BT/GIM-2-008",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-008",
     "number": "EX13BT/GIM-2-008",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-009",
     "number": "EX13BT/GIM-2-009",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-010_p1",
     "number": "EX13BT/GIM-2-010",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-010",
     "number": "EX13BT/GIM-2-010",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-011_p1",
     "number": "EX13BT/GIM-2-011",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-011_p2",
     "number": "EX13BT/GIM-2-011",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-011",
     "number": "EX13BT/GIM-2-011",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-012_p1",
     "number": "EX13BT/GIM-2-012",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-012",
     "number": "EX13BT/GIM-2-012",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-013",
     "number": "EX13BT/GIM-2-013",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-014_p1",
     "number": "EX13BT/GIM-2-014",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-014",
     "number": "EX13BT/GIM-2-014",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-015_p1",
     "number": "EX13BT/GIM-2-015",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-015",
     "number": "EX13BT/GIM-2-015",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-016_p1",
     "number": "EX13BT/GIM-2-016",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-016",
     "number": "EX13BT/GIM-2-016",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-017",
     "number": "EX13BT/GIM-2-017",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-018_p1",
     "number": "EX13BT/GIM-2-018",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-018",
     "number": "EX13BT/GIM-2-018",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-019_p1",
     "number": "EX13BT/GIM-2-019",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-019",
     "number": "EX13BT/GIM-2-019",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-020_p1",
     "number": "EX13BT/GIM-2-020",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-020",
     "number": "EX13BT/GIM-2-020",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-021",
     "number": "EX13BT/GIM-2-021",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-022_p1",
     "number": "EX13BT/GIM-2-022",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-022",
     "number": "EX13BT/GIM-2-022",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-023",
     "number": "EX13BT/GIM-2-023",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-024_p1",
     "number": "EX13BT/GIM-2-024",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-024",
     "number": "EX13BT/GIM-2-024",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-025",
     "number": "EX13BT/GIM-2-025",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-026_p1",
     "number": "EX13BT/GIM-2-026",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-026",
     "number": "EX13BT/GIM-2-026",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-027",
     "number": "EX13BT/GIM-2-027",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-028_p1",
     "number": "EX13BT/GIM-2-028",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-028",
     "number": "EX13BT/GIM-2-028",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-029_p1",
     "number": "EX13BT/GIM-2-029",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-029_p2",
     "number": "EX13BT/GIM-2-029",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-029",
     "number": "EX13BT/GIM-2-029",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-030",
     "number": "EX13BT/GIM-2-030",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-031_p1",
     "number": "EX13BT/GIM-2-031",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-031_p2",
     "number": "EX13BT/GIM-2-031",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-031",
     "number": "EX13BT/GIM-2-031",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-032",
     "number": "EX13BT/GIM-2-032",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-033_p1",
     "number": "EX13BT/GIM-2-033",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-033",
     "number": "EX13BT/GIM-2-033",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-034_p1",
     "number": "EX13BT/GIM-2-034",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-034",
     "number": "EX13BT/GIM-2-034",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-035",
     "number": "EX13BT/GIM-2-035",
-    "name": "资料待补",
+    "name": "教室",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-036",
     "number": "EX13BT/GIM-2-036",
-    "name": "资料待补",
+    "name": "相変わらず不器用ね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-037",
     "number": "EX13BT/GIM-2-037",
-    "name": "资料待补",
+    "name": "これが私達の、3年間",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-038",
     "number": "EX13BT/GIM-2-038",
-    "name": "资料待补",
+    "name": "さあ、もう一戦！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-039",
     "number": "EX13BT/GIM-2-039",
-    "name": "资料待补",
+    "name": "食欲の秋なんです",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-040",
     "number": "EX13BT/GIM-2-040",
-    "name": "资料待补",
+    "name": "似合うんじゃない？",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-041",
     "number": "EX13BT/GIM-2-041",
-    "name": "资料待补",
+    "name": "はいっ、みんなも一緒に♪",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-042",
     "number": "EX13BT/GIM-2-042",
-    "name": "资料待补",
+    "name": "もう一度、最初から！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-043_p1",
     "number": "EX13BT/GIM-2-043",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-043",
     "number": "EX13BT/GIM-2-043",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-044_p1",
     "number": "EX13BT/GIM-2-044",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-044",
     "number": "EX13BT/GIM-2-044",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-045",
     "number": "EX13BT/GIM-2-045",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-046_p1",
     "number": "EX13BT/GIM-2-046",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-046",
     "number": "EX13BT/GIM-2-046",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-047_p1",
     "number": "EX13BT/GIM-2-047",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-047",
     "number": "EX13BT/GIM-2-047",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-048_p1",
     "number": "EX13BT/GIM-2-048",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-048",
     "number": "EX13BT/GIM-2-048",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-049_p1",
     "number": "EX13BT/GIM-2-049",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-049",
     "number": "EX13BT/GIM-2-049",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-050_p1",
     "number": "EX13BT/GIM-2-050",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-050",
     "number": "EX13BT/GIM-2-050",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-051_p1",
     "number": "EX13BT/GIM-2-051",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-051",
     "number": "EX13BT/GIM-2-051",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-052_p1",
     "number": "EX13BT/GIM-2-052",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-052",
     "number": "EX13BT/GIM-2-052",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-053",
     "number": "EX13BT/GIM-2-053",
-    "name": "资料待补",
+    "name": "あなたたちのことが好き",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-054",
     "number": "EX13BT/GIM-2-054",
-    "name": "资料待补",
+    "name": "キラキラして綺麗～っ！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-055",
     "number": "EX13BT/GIM-2-055",
-    "name": "资料待补",
+    "name": "夏を楽しみましょう！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-056",
     "number": "EX13BT/GIM-2-056",
-    "name": "资料待补",
+    "name": "プロデュースって大変ね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-057_p1",
     "number": "EX13BT/GIM-2-057",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-057",
     "number": "EX13BT/GIM-2-057",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-058_p1",
     "number": "EX13BT/GIM-2-058",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-058",
     "number": "EX13BT/GIM-2-058",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-059",
     "number": "EX13BT/GIM-2-059",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-060_p1",
     "number": "EX13BT/GIM-2-060",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-060",
     "number": "EX13BT/GIM-2-060",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-061_p1",
     "number": "EX13BT/GIM-2-061",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-061",
     "number": "EX13BT/GIM-2-061",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-062_p1",
     "number": "EX13BT/GIM-2-062",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-062_p2",
     "number": "EX13BT/GIM-2-062",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-062",
     "number": "EX13BT/GIM-2-062",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-063_p1",
     "number": "EX13BT/GIM-2-063",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-063",
     "number": "EX13BT/GIM-2-063",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-064_p1",
     "number": "EX13BT/GIM-2-064",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-064",
     "number": "EX13BT/GIM-2-064",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-065_p1",
     "number": "EX13BT/GIM-2-065",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-065",
     "number": "EX13BT/GIM-2-065",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-066",
     "number": "EX13BT/GIM-2-066",
-    "name": "资料待补",
+    "name": "あったかいね",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-067",
     "number": "EX13BT/GIM-2-067",
-    "name": "资料待补",
+    "name": "お母さんか！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-068",
     "number": "EX13BT/GIM-2-068",
-    "name": "资料待补",
+    "name": "ここから始まるんだね！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-069",
     "number": "EX13BT/GIM-2-069",
-    "name": "资料待补",
+    "name": "そろそろ焼けたかな？",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-070",
     "number": "EX13BT/GIM-2-070",
-    "name": "资料待补",
+    "name": "夏を満喫するわよ！",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5745,8 +5745,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap01_p1",
-    "number": "EX13BT/GIM-2-AP01/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP01",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5768,7 +5768,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap01",
     "number": "EX13BT/GIM-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5789,8 +5789,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap02_p1",
-    "number": "EX13BT/GIM-2-AP02/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP02",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5812,7 +5812,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap02",
     "number": "EX13BT/GIM-2-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5833,8 +5833,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap03_p1",
-    "number": "EX13BT/GIM-2-AP03/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP03",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5856,7 +5856,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap03",
     "number": "EX13BT/GIM-2-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5877,8 +5877,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap04_p1",
-    "number": "EX13BT/GIM-2-AP04/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP04",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5900,7 +5900,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap04",
     "number": "EX13BT/GIM-2-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5921,8 +5921,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap05_p1",
-    "number": "EX13BT/GIM-2-AP05/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP05",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5944,7 +5944,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap05",
     "number": "EX13BT/GIM-2-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5965,8 +5965,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap06_p1",
-    "number": "EX13BT/GIM-2-AP06/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP06",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -5988,7 +5988,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap06",
     "number": "EX13BT/GIM-2-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6009,8 +6009,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap07_p1",
-    "number": "EX13BT/GIM-2-AP07/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP07",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6032,7 +6032,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap07",
     "number": "EX13BT/GIM-2-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6053,8 +6053,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap08_p1",
-    "number": "EX13BT/GIM-2-AP08/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP08",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6076,7 +6076,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap08",
     "number": "EX13BT/GIM-2-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6097,8 +6097,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap09_p1",
-    "number": "EX13BT/GIM-2-AP09/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP09",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6120,7 +6120,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap09",
     "number": "EX13BT/GIM-2-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6141,8 +6141,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap10_p1",
-    "number": "EX13BT/GIM-2-AP10/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP10",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6164,7 +6164,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap10",
     "number": "EX13BT/GIM-2-AP10",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6185,8 +6185,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap11_p1",
-    "number": "EX13BT/GIM-2-AP11/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP11",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6208,7 +6208,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap11",
     "number": "EX13BT/GIM-2-AP11",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6229,8 +6229,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap12_p1",
-    "number": "EX13BT/GIM-2-AP12/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP12",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6252,7 +6252,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap12",
     "number": "EX13BT/GIM-2-AP12",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6273,8 +6273,8 @@ export const gakuenIdolmasterCards: Card[] = [
   },
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap13_p1",
-    "number": "EX13BT/GIM-2-AP13/p1",
-    "name": "资料待补",
+    "number": "EX13BT/GIM-2-AP13",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",
@@ -6296,7 +6296,7 @@ export const gakuenIdolmasterCards: Card[] = [
   {
     "id": "gakuen-idolmaster-2-ex13bt_gim-2-ap13",
     "number": "EX13BT/GIM-2-AP13",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "学园偶像大师",
     "color": "资料待补",

@@ -4,7 +4,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-069",
     "number": "UA31ST/MMM-1-069",
-    "name": "资料待补",
+    "name": "キュゥべえ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-070",
     "number": "UA31ST/MMM-1-070",
-    "name": "资料待补",
+    "name": "志筑 仁美",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-076",
     "number": "UA31ST/MMM-1-076",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-080",
     "number": "UA31ST/MMM-1-080",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-081",
     "number": "UA31ST/MMM-1-081",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-085",
     "number": "UA31ST/MMM-1-085",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-088",
     "number": "UA31ST/MMM-1-088",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-094",
     "number": "UA31ST/MMM-1-094",
-    "name": "资料待补",
+    "name": "クラスのみんなには、内緒だよ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-095",
     "number": "UA31ST/MMM-1-095",
-    "name": "资料待补",
+    "name": "ソウルジェム（鹿目 まどか）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-101",
     "number": "UA31ST/MMM-1-101",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-102",
     "number": "UA31ST/MMM-1-102",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-103",
     "number": "UA31ST/MMM-1-103",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-104",
     "number": "UA31ST/MMM-1-104",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-105",
     "number": "UA31ST/MMM-1-105",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-106",
     "number": "UA31ST/MMM-1-106",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-107",
     "number": "UA31ST/MMM-1-107",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-108",
     "number": "UA31ST/MMM-1-108",
-    "name": "资料待补",
+    "name": "見滝原中学校",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-109",
     "number": "UA31ST/MMM-1-109",
-    "name": "资料待补",
+    "name": "僕と契約して、魔法少女になってよ!",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-110_p1",
     "number": "UA31ST/MMM-1-110",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-110",
     "number": "UA31ST/MMM-1-110",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-111_p1",
     "number": "UA31ST/MMM-1-111",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-111",
     "number": "UA31ST/MMM-1-111",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-112_p1",
     "number": "UA31ST/MMM-1-112",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-112",
     "number": "UA31ST/MMM-1-112",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-113_p1",
     "number": "UA31ST/MMM-1-113",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-113",
     "number": "UA31ST/MMM-1-113",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-ua31st_mmm-1-ap01",
     "number": "UA31ST/MMM-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-001_p1",
     "number": "UA31BT/MMM-1-001",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-001",
     "number": "UA31BT/MMM-1-001",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-002_p1",
     "number": "UA31BT/MMM-1-002",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-002_p2",
     "number": "UA31BT/MMM-1-002",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-002",
     "number": "UA31BT/MMM-1-002",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-003_p1",
     "number": "UA31BT/MMM-1-003",
-    "name": "资料待补",
+    "name": "キュゥべえ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-003",
     "number": "UA31BT/MMM-1-003",
-    "name": "资料待补",
+    "name": "キュゥべえ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-004",
     "number": "UA31BT/MMM-1-004",
-    "name": "资料待补",
+    "name": "早乙女 和子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-005_p1",
     "number": "UA31BT/MMM-1-005",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-005",
     "number": "UA31BT/MMM-1-005",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-006",
     "number": "UA31BT/MMM-1-006",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-007",
     "number": "UA31BT/MMM-1-007",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-008_p1",
     "number": "UA31BT/MMM-1-008",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-008",
     "number": "UA31BT/MMM-1-008",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-009",
     "number": "UA31BT/MMM-1-009",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-010",
     "number": "UA31BT/MMM-1-010",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-011",
     "number": "UA31BT/MMM-1-011",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-012",
     "number": "UA31BT/MMM-1-012",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-013_p1",
     "number": "UA31BT/MMM-1-013",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-013",
     "number": "UA31BT/MMM-1-013",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-014",
     "number": "UA31BT/MMM-1-014",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-015",
     "number": "UA31BT/MMM-1-015",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-016",
     "number": "UA31BT/MMM-1-016",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-017",
     "number": "UA31BT/MMM-1-017",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-018",
     "number": "UA31BT/MMM-1-018",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-019_p1",
     "number": "UA31BT/MMM-1-019",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-019",
     "number": "UA31BT/MMM-1-019",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-020_p1",
     "number": "UA31BT/MMM-1-020",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-020",
     "number": "UA31BT/MMM-1-020",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-021",
     "number": "UA31BT/MMM-1-021",
-    "name": "资料待补",
+    "name": "百江 なぎさ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-022",
     "number": "UA31BT/MMM-1-022",
-    "name": "资料待补",
+    "name": "百江 なぎさ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-023",
     "number": "UA31BT/MMM-1-023",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-024",
     "number": "UA31BT/MMM-1-024",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-025",
     "number": "UA31BT/MMM-1-025",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-026_p1",
     "number": "UA31BT/MMM-1-026",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-026",
     "number": "UA31BT/MMM-1-026",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-027",
     "number": "UA31BT/MMM-1-027",
-    "name": "资料待补",
+    "name": "マミの家",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-028",
     "number": "UA31BT/MMM-1-028",
-    "name": "资料待补",
+    "name": "円環の理",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-029",
     "number": "UA31BT/MMM-1-029",
-    "name": "资料待补",
+    "name": "こんなの！ 絶対おかしいよ！",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-030",
     "number": "UA31BT/MMM-1-030",
-    "name": "资料待补",
+    "name": "ソウルジェム（鹿目 まどか）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-031",
     "number": "UA31BT/MMM-1-031",
-    "name": "资料待补",
+    "name": "ソウルジェム（巴 マミ）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-032",
     "number": "UA31BT/MMM-1-032",
-    "name": "资料待补",
+    "name": "ティロ・フィナーレ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-033",
     "number": "UA31BT/MMM-1-033",
-    "name": "资料待补",
+    "name": "もう何も恐くない",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-034",
     "number": "UA31BT/MMM-1-034",
-    "name": "资料待补",
+    "name": "訳が分からないよ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-035",
     "number": "UA31BT/MMM-1-035",
-    "name": "资料待补",
+    "name": "悪魔ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-036_p1",
     "number": "UA31BT/MMM-1-036",
-    "name": "资料待补",
+    "name": "悪魔ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-036_p2",
     "number": "UA31BT/MMM-1-036",
-    "name": "资料待补",
+    "name": "悪魔ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-036",
     "number": "UA31BT/MMM-1-036",
-    "name": "资料待补",
+    "name": "悪魔ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-037",
     "number": "UA31BT/MMM-1-037",
-    "name": "资料待补",
+    "name": "キュゥべえ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-038",
     "number": "UA31BT/MMM-1-038",
-    "name": "资料待补",
+    "name": "べべ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-039",
     "number": "UA31BT/MMM-1-039",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-040",
     "number": "UA31BT/MMM-1-040",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-041_p1",
     "number": "UA31BT/MMM-1-041",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-041",
     "number": "UA31BT/MMM-1-041",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-042_p1",
     "number": "UA31BT/MMM-1-042",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-042",
     "number": "UA31BT/MMM-1-042",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-043",
     "number": "UA31BT/MMM-1-043",
-    "name": "资料待补",
+    "name": "百江 なぎさ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-044_p1",
     "number": "UA31BT/MMM-1-044",
-    "name": "资料待补",
+    "name": "百江 なぎさ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-044",
     "number": "UA31BT/MMM-1-044",
-    "name": "资料待补",
+    "name": "百江 なぎさ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-045",
     "number": "UA31BT/MMM-1-045",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-046",
     "number": "UA31BT/MMM-1-046",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-047",
     "number": "UA31BT/MMM-1-047",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-048",
     "number": "UA31BT/MMM-1-048",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-049",
     "number": "UA31BT/MMM-1-049",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-050",
     "number": "UA31BT/MMM-1-050",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-051",
     "number": "UA31BT/MMM-1-051",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-052_p1",
     "number": "UA31BT/MMM-1-052",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-052",
     "number": "UA31BT/MMM-1-052",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-053",
     "number": "UA31BT/MMM-1-053",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-054",
     "number": "UA31BT/MMM-1-054",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-055",
     "number": "UA31BT/MMM-1-055",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-056_p1",
     "number": "UA31BT/MMM-1-056",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-056",
     "number": "UA31BT/MMM-1-056",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-057",
     "number": "UA31BT/MMM-1-057",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-058",
     "number": "UA31BT/MMM-1-058",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-059",
     "number": "UA31BT/MMM-1-059",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-060_p1",
     "number": "UA31BT/MMM-1-060",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-060",
     "number": "UA31BT/MMM-1-060",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-061",
     "number": "UA31BT/MMM-1-061",
-    "name": "资料待补",
+    "name": "ほむらの武器",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-062",
     "number": "UA31BT/MMM-1-062",
-    "name": "资料待补",
+    "name": "このときを、待ってた…",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-063",
     "number": "UA31BT/MMM-1-063",
-    "name": "资料待补",
+    "name": "ソウルジェム（暁美 ほむら）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-064",
     "number": "UA31BT/MMM-1-064",
-    "name": "资料待补",
+    "name": "ティロ・デュエット",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-065",
     "number": "UA31BT/MMM-1-065",
-    "name": "资料待补",
+    "name": "ピュエラ・マギ・ホーリー・クインテット",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-066",
     "number": "UA31BT/MMM-1-066",
-    "name": "资料待补",
+    "name": "もう誰にも頼らない",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-067",
     "number": "UA31BT/MMM-1-067",
-    "name": "资料待补",
+    "name": "私は何度でも繰り返す……",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-068",
     "number": "UA31BT/MMM-1-068",
-    "name": "资料待补",
+    "name": "上条 恭介",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-069_p1",
     "number": "UA31BT/MMM-1-069",
-    "name": "资料待补",
+    "name": "キュゥべえ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-069",
     "number": "UA31BT/MMM-1-069",
-    "name": "资料待补",
+    "name": "キュゥべえ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-070",
     "number": "UA31BT/MMM-1-070",
-    "name": "资料待补",
+    "name": "志筑 仁美",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-071",
     "number": "UA31BT/MMM-1-071",
-    "name": "资料待补",
+    "name": "人魚の魔女",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-072",
     "number": "UA31BT/MMM-1-072",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-073",
     "number": "UA31BT/MMM-1-073",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-074_p1",
     "number": "UA31BT/MMM-1-074",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-074",
     "number": "UA31BT/MMM-1-074",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-075_p1",
     "number": "UA31BT/MMM-1-075",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-075",
     "number": "UA31BT/MMM-1-075",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-076",
     "number": "UA31BT/MMM-1-076",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-077_p1",
     "number": "UA31BT/MMM-1-077",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-077",
     "number": "UA31BT/MMM-1-077",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-078_p1",
     "number": "UA31BT/MMM-1-078",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-078",
     "number": "UA31BT/MMM-1-078",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-079",
     "number": "UA31BT/MMM-1-079",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-080",
     "number": "UA31BT/MMM-1-080",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-081",
     "number": "UA31BT/MMM-1-081",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-082_p1",
     "number": "UA31BT/MMM-1-082",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-082",
     "number": "UA31BT/MMM-1-082",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-083_p1",
     "number": "UA31BT/MMM-1-083",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-083",
     "number": "UA31BT/MMM-1-083",
-    "name": "资料待补",
+    "name": "佐倉 杏子",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-084",
     "number": "UA31BT/MMM-1-084",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-085_p1",
     "number": "UA31BT/MMM-1-085",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-085",
     "number": "UA31BT/MMM-1-085",
-    "name": "资料待补",
+    "name": "巴 マミ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-086",
     "number": "UA31BT/MMM-1-086",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-087",
     "number": "UA31BT/MMM-1-087",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-088",
     "number": "UA31BT/MMM-1-088",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-089_p1",
     "number": "UA31BT/MMM-1-089",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-089",
     "number": "UA31BT/MMM-1-089",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-090_p1",
     "number": "UA31BT/MMM-1-090",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-090",
     "number": "UA31BT/MMM-1-090",
-    "name": "资料待补",
+    "name": "美樹 さやか",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-091",
     "number": "UA31BT/MMM-1-091",
-    "name": "资料待补",
+    "name": "見滝原",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-092",
     "number": "UA31BT/MMM-1-092",
-    "name": "资料待补",
+    "name": "あたしって、ほんとバカ……",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-093",
     "number": "UA31BT/MMM-1-093",
-    "name": "资料待补",
+    "name": "奇跡も、魔法も、あるんだよ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-094",
     "number": "UA31BT/MMM-1-094",
-    "name": "资料待补",
+    "name": "クラスのみんなには、内緒だよ",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-095",
     "number": "UA31BT/MMM-1-095",
-    "name": "资料待补",
+    "name": "ソウルジェム（鹿目 まどか）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-096",
     "number": "UA31BT/MMM-1-096",
-    "name": "资料待补",
+    "name": "ソウルジェム（佐倉 杏子）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-097",
     "number": "UA31BT/MMM-1-097",
-    "name": "资料待补",
+    "name": "ソウルジェム（美樹 さやか）",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-098",
     "number": "UA31BT/MMM-1-098",
-    "name": "资料待补",
+    "name": "それはとっても嬉しいなって",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-099",
     "number": "UA31BT/MMM-1-099",
-    "name": "资料待补",
+    "name": "そんなの、あたしが許さない",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-100",
     "number": "UA31BT/MMM-1-100",
-    "name": "资料待补",
+    "name": "独りぼっちは、寂しいもんな……",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-ap01",
     "number": "UA31BT/MMM-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-ap02",
     "number": "UA31BT/MMM-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-ap03",
     "number": "UA31BT/MMM-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-ap04",
     "number": "UA31BT/MMM-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-ap05",
     "number": "UA31BT/MMM-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const madokaMagicaCards: Card[] = [
   {
     "id": "madoka-magica-2-ua31bt_mmm-1-ap06",
     "number": "UA31BT/MMM-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "魔法少女小圆",
     "color": "资料待补",

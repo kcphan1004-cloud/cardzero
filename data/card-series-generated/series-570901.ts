@@ -3,8 +3,8 @@ import type { Card } from "./types";
 export const series570901Cards: Card[] = [
   {
     "id": "series-570901-pcpr_nik-2-013",
-    "number": "PR/NIK-2-013",
-    "name": "资料待补",
+    "number": "PCPR/NIK-2-013",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_ark-ap01",
     "number": "UAPB/ARK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アークナイツ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_ark-ap02",
     "number": "UAPB/ARK-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アークナイツ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_blc-ap01",
     "number": "UAPB/BLC-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_blk-ap01",
     "number": "UAPB/BLK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_cgh-ap04",
     "number": "UAPB/CGH-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_eva-ap01",
     "number": "UAPB/EVA-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-002",
     "number": "UAPB/GIM-2-002",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-004",
     "number": "UAPB/GIM-2-004",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-009",
     "number": "UAPB/GIM-2-009",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-013",
     "number": "UAPB/GIM-2-013",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-017",
     "number": "UAPB/GIM-2-017",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-021",
     "number": "UAPB/GIM-2-021",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-023",
     "number": "UAPB/GIM-2-023",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-025",
     "number": "UAPB/GIM-2-025",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-027",
     "number": "UAPB/GIM-2-027",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-030",
     "number": "UAPB/GIM-2-030",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-032",
     "number": "UAPB/GIM-2-032",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-045",
     "number": "UAPB/GIM-2-045",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-2-059",
     "number": "UAPB/GIM-2-059",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-ap01",
     "number": "UAPB/GIM-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gim-ap02",
     "number": "UAPB/GIM-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_gnt-ap01",
     "number": "UAPB/GNT-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(銀魂)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_hiq-ap01",
     "number": "UAPB/HIQ-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ハイキュー‼)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_htr-ap04",
     "number": "UAPB/HTR-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_ims-ap01",
     "number": "UAPB/IMS-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_jjk-ap04",
     "number": "UAPB/JJK-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_kgr-ap01",
     "number": "UAPB/KGR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_kmr-ap01",
     "number": "UAPB/KMR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_mmm-ap01",
     "number": "UAPB/MMM-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_nik-ap01",
     "number": "UAPB/NIK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_rez-ap01",
     "number": "UAPB/REZ-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(Re:ゼロから始める異世界生活)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_sao-ap01",
     "number": "UAPB/SAO-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ソードアート・オンライン)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_slg-ap01",
     "number": "UAPB/SLG-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(俺だけレベルアップな件)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-011",
     "number": "UAPB/TLR-1-011",
-    "name": "资料待补",
+    "name": "結城 美柑",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-019",
     "number": "UAPB/TLR-1-019",
-    "name": "资料待补",
+    "name": "黒咲 芽亜",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-025",
     "number": "UAPB/TLR-1-025",
-    "name": "资料待补",
+    "name": "金色の闇",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-044",
     "number": "UAPB/TLR-1-044",
-    "name": "资料待补",
+    "name": "古手川 唯",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-049",
     "number": "UAPB/TLR-1-049",
-    "name": "资料待补",
+    "name": "西連寺 春菜",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-058",
     "number": "UAPB/TLR-1-058",
-    "name": "资料待补",
+    "name": "ナナ・アスタ・デビルーク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-065",
     "number": "UAPB/TLR-1-065",
-    "name": "资料待补",
+    "name": "モモ・ベリア・デビルーク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-1-073",
     "number": "UAPB/TLR-1-073",
-    "name": "资料待补",
+    "name": "ララ・サタリン・デビルーク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-ap01",
     "number": "UAPB/TLR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(To LOVEる-とらぶる-)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tlr-ap02",
     "number": "UAPB/TLR-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(To LOVEる-とらぶる-)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_tsk-ap01",
     "number": "UAPB/TSK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(転生したらスライムだった件)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapb_yyh-ap01",
     "number": "UAPB/YYH-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2023-ap01",
     "number": "UAPR/2023-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2023-ap02",
     "number": "UAPR/2023-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2023-ap03",
     "number": "UAPR/2023-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2023-ap04",
     "number": "UAPR/2023-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2023-ap05",
     "number": "UAPR/2023-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2023-ap06",
     "number": "UAPR/2023-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カードラボ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2024-ap01",
     "number": "UAPR/2024-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2024-ap02",
     "number": "UAPR/2024-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2024-ap03",
     "number": "UAPR/2024-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(伊織もえ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2024-ap04",
     "number": "UAPR/2024-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(伊織もえ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap01",
     "number": "UAPR/2025-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap02",
     "number": "UAPR/2025-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap03",
     "number": "UAPR/2025-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap04",
     "number": "UAPR/2025-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap05",
     "number": "UAPR/2025-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap06",
     "number": "UAPR/2025-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap07",
     "number": "UAPR/2025-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap08",
     "number": "UAPR/2025-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(塩島弾)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2025-ap09",
     "number": "UAPR/2025-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(伊織もえ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2026-ap01",
     "number": "UAPR/2026-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2026-ap02",
     "number": "UAPR/2026-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2026-ap04",
     "number": "UAPR/2026-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(UNION ARENA)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_2026-ap06",
     "number": "UAPR/2026-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(塩島弾)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_and-1-006",
     "number": "UAPR/AND-1-006",
-    "name": "资料待补",
+    "name": "ビリー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_and-1-046_p1",
     "number": "UAPR/AND-1-046",
-    "name": "资料待补",
+    "name": "アンディ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_and-1-046",
     "number": "UAPR/AND-1-046",
-    "name": "资料待补",
+    "name": "アンディ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_and-1-047",
     "number": "UAPR/AND-1-047",
-    "name": "资料待补",
+    "name": "出雲 風子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-1-010_p1",
     "number": "UAPR/AOT-1-010",
-    "name": "资料待补",
+    "name": "リヴァイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-1-010",
     "number": "UAPR/AOT-1-010",
-    "name": "资料待补",
+    "name": "リヴァイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-1-023",
     "number": "UAPR/AOT-1-023",
-    "name": "资料待补",
+    "name": "ミカサ・アッカーマン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-1-075",
     "number": "UAPR/AOT-1-075",
-    "name": "资料待补",
+    "name": "アルミン・アルレルト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-1-092_p1",
     "number": "UAPR/AOT-1-092",
-    "name": "资料待补",
+    "name": "エレン・イェーガー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-1-092",
     "number": "UAPR/AOT-1-092",
-    "name": "资料待补",
+    "name": "エレン・イェーガー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-2-003",
     "number": "UAPR/AOT-2-003",
-    "name": "资料待补",
+    "name": "ガビ・ブラウン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-2-008_p1",
     "number": "UAPR/AOT-2-008",
-    "name": "资料待补",
+    "name": "ミカサ・アッカーマン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-2-008",
     "number": "UAPR/AOT-2-008",
-    "name": "资料待补",
+    "name": "ミカサ・アッカーマン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-2-068",
     "number": "UAPR/AOT-2-068",
-    "name": "资料待补",
+    "name": "アルミン・アルレルト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_aot-p-001",
     "number": "UAPR/AOT-P-001",
-    "name": "资料待补",
+    "name": "進撃の巨人",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-014",
     "number": "UAPR/ARK-1-014",
-    "name": "资料待补",
+    "name": "タルラ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-040",
     "number": "UAPR/ARK-1-040",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-042_p1",
     "number": "UAPR/ARK-1-042",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-042",
     "number": "UAPR/ARK-1-042",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-045",
     "number": "UAPR/ARK-1-045",
-    "name": "资料待补",
+    "name": "ケルシー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-046",
     "number": "UAPR/ARK-1-046",
-    "name": "资料待补",
+    "name": "ケルシー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-077",
     "number": "UAPR/ARK-1-077",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-1-084",
     "number": "UAPR/ARK-1-084",
-    "name": "资料待补",
+    "name": "チェン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-2-016",
     "number": "UAPR/ARK-2-016",
-    "name": "资料待补",
+    "name": "ケルシー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-2-048",
     "number": "UAPR/ARK-2-048",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-2-049",
     "number": "UAPR/ARK-2-049",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-2-051_p1",
     "number": "UAPR/ARK-2-051",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-2-051",
     "number": "UAPR/ARK-2-051",
-    "name": "资料待补",
+    "name": "アーミヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-p-001",
     "number": "UAPR/ARK-P-001",
-    "name": "资料待补",
+    "name": "アークナイツ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ark-p-002",
     "number": "UAPR/ARK-P-002",
-    "name": "资料待补",
+    "name": "アークナイツ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_bcv-1-039",
     "number": "UAPR/BCV-1-039",
-    "name": "资料待补",
+    "name": "フエゴレオン・ヴァーミリオン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_bcv-1-056",
     "number": "UAPR/BCV-1-056",
-    "name": "资料待补",
+    "name": "ユノ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_bcv-1-074",
     "number": "UAPR/BCV-1-074",
-    "name": "资料待补",
+    "name": "アスタ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_bcv-1-075_p1",
     "number": "UAPR/BCV-1-075",
-    "name": "资料待补",
+    "name": "アスタ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_bcv-1-075",
     "number": "UAPR/BCV-1-075",
-    "name": "资料待补",
+    "name": "アスタ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-041_p1",
     "number": "UAPR/BLC-1-041",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-041",
     "number": "UAPR/BLC-1-041",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-046",
     "number": "UAPR/BLC-1-046",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-049",
     "number": "UAPR/BLC-1-049",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-053_p1",
     "number": "UAPR/BLC-1-053",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-053",
     "number": "UAPR/BLC-1-053",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-084",
     "number": "UAPR/BLC-1-084",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-103_p1",
     "number": "UAPR/BLC-1-103",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-1-103",
     "number": "UAPR/BLC-1-103",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-2-016",
     "number": "UAPR/BLC-2-016",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-2-029",
     "number": "UAPR/BLC-2-029",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-2-032",
     "number": "UAPR/BLC-2-032",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-2-034_p1",
     "number": "UAPR/BLC-2-034",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-2-034",
     "number": "UAPR/BLC-2-034",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-ap01",
     "number": "UAPR/BLC-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-ap02",
     "number": "UAPR/BLC-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-ap03",
     "number": "UAPR/BLC-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blc-ap04",
     "number": "UAPR/BLC-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-1-005",
     "number": "UAPR/BLK-1-005",
-    "name": "资料待补",
+    "name": "絵心 甚八",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-1-021",
     "number": "UAPR/BLK-1-021",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-1-046_p1",
     "number": "UAPR/BLK-1-046",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-1-046",
     "number": "UAPR/BLK-1-046",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-1-075_p1",
     "number": "UAPR/BLK-1-075",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-1-075",
     "number": "UAPR/BLK-1-075",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-ap01",
     "number": "UAPR/BLK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_blk-ap02",
     "number": "UAPR/BLK-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-1-022",
     "number": "UAPR/BTR-1-022",
-    "name": "资料待补",
+    "name": "ロボコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-1-026",
     "number": "UAPR/BTR-1-026",
-    "name": "资料待补",
+    "name": "ニョンタ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-1-044",
     "number": "UAPR/BTR-1-044",
-    "name": "资料待补",
+    "name": "ロボコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-1-045",
     "number": "UAPR/BTR-1-045",
-    "name": "资料待补",
+    "name": "ロボコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-1-106_p1",
     "number": "UAPR/BTR-1-106",
-    "name": "资料待补",
+    "name": "ロボコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-1-106",
     "number": "UAPR/BTR-1-106",
-    "name": "资料待补",
+    "name": "ロボコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-ap01",
     "number": "UAPR/BTR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(僕とロボコ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-ap02",
     "number": "UAPR/BTR-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(僕とロボコ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-ap03",
     "number": "UAPR/BTR-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(僕とロボコ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-p-001",
     "number": "UAPR/BTR-P-001",
-    "name": "资料待补",
+    "name": "ロボコ（本格SFアクションの世界線）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-p-002",
     "number": "UAPR/BTR-P-002",
-    "name": "资料待补",
+    "name": "ロボコ（王道バトルの世界線）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-p-003",
     "number": "UAPR/BTR-P-003",
-    "name": "资料待补",
+    "name": "ロボコ（昭和ギャグ漫画の世界線）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_btr-p-004",
     "number": "UAPR/BTR-P-004",
-    "name": "资料待补",
+    "name": "ロボコ（ラブコメの世界線）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgd-1-023",
     "number": "UAPR/CGD-1-023",
-    "name": "资料待补",
+    "name": "アッシュ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgd-1-027_p1",
     "number": "UAPR/CGD-1-027",
-    "name": "资料待补",
+    "name": "ロゼ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgd-1-027",
     "number": "UAPR/CGD-1-027",
-    "name": "资料待补",
+    "name": "ロゼ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgd-1-049",
     "number": "UAPR/CGD-1-049",
-    "name": "资料待补",
+    "name": "キャサリン・サバスラ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgd-ap01",
     "number": "UAPR/CGD-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 奪還のロゼ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgd-ap02",
     "number": "UAPR/CGD-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 奪還のロゼ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-007_p1",
     "number": "UAPR/CGH-1-007",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-007",
     "number": "UAPR/CGH-1-007",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-016",
     "number": "UAPR/CGH-1-016",
-    "name": "资料待补",
+    "name": "ルルーシュ・ランペルージ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-017_p1",
     "number": "UAPR/CGH-1-017",
-    "name": "资料待补",
+    "name": "ルルーシュ・ランペルージ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-017",
     "number": "UAPR/CGH-1-017",
-    "name": "资料待补",
+    "name": "ルルーシュ・ランペルージ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-035",
     "number": "UAPR/CGH-1-035",
-    "name": "资料待补",
+    "name": "枢木 スザク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-077",
     "number": "UAPR/CGH-1-077",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-1-091",
     "number": "UAPR/CGH-1-091",
-    "name": "资料待补",
+    "name": "ルルーシュ・ランペルージ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-2-004",
     "number": "UAPR/CGH-2-004",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-2-019",
     "number": "UAPR/CGH-2-019",
-    "name": "资料待补",
+    "name": "天子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-2-066_p1",
     "number": "UAPR/CGH-2-066",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-2-066",
     "number": "UAPR/CGH-2-066",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-ap01",
     "number": "UAPR/CGH-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-ap02",
     "number": "UAPR/CGH-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-ap03",
     "number": "UAPR/CGH-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-ap04",
     "number": "UAPR/CGH-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-ap05",
     "number": "UAPR/CGH-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-p-001",
     "number": "UAPR/CGH-P-001",
-    "name": "资料待补",
+    "name": "ルルーシュ・ランペルージ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-p-002",
     "number": "UAPR/CGH-P-002",
-    "name": "资料待补",
+    "name": "紅月 カレン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_cgh-p-003",
     "number": "UAPR/CGH-P-003",
-    "name": "资料待补",
+    "name": "C.C.",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_csm-1-008_p1",
     "number": "UAPR/CSM-1-008",
-    "name": "资料待补",
+    "name": "デンジ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_csm-1-008",
     "number": "UAPR/CSM-1-008",
-    "name": "资料待补",
+    "name": "デンジ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_csm-1-021",
     "number": "UAPR/CSM-1-021",
-    "name": "资料待补",
+    "name": "マキマ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_csm-1-026",
     "number": "UAPR/CSM-1-026",
-    "name": "资料待补",
+    "name": "レゼ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_csm-1-027",
     "number": "UAPR/CSM-1-027",
-    "name": "资料待补",
+    "name": "レゼ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-1-002",
     "number": "UAPR/DST-1-002",
-    "name": "资料待补",
+    "name": "石神 千空",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-1-006",
     "number": "UAPR/DST-1-006",
-    "name": "资料待补",
+    "name": "七海 龍水",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-1-039",
     "number": "UAPR/DST-1-039",
-    "name": "资料待补",
+    "name": "石神 千空",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-1-052",
     "number": "UAPR/DST-1-052",
-    "name": "资料待补",
+    "name": "獅子王 司",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-1-078_p1",
     "number": "UAPR/DST-1-078",
-    "name": "资料待补",
+    "name": "石神 千空",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-1-078",
     "number": "UAPR/DST-1-078",
-    "name": "资料待补",
+    "name": "石神 千空",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-ap01",
     "number": "UAPR/DST-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(Dr.STONE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-ap03",
     "number": "UAPR/DST-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(Dr.STONE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-p-001",
     "number": "UAPR/DST-P-001",
-    "name": "资料待补",
+    "name": "七海 龍水",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-p-002",
     "number": "UAPR/DST-P-002",
-    "name": "资料待补",
+    "name": "あさぎり ゲン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_dst-p-003",
     "number": "UAPR/DST-P-003",
-    "name": "资料待补",
+    "name": "石神 千空",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-010",
     "number": "UAPR/EVA-1-010",
-    "name": "资料待补",
+    "name": "式波・アスカ・ラングレー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-016",
     "number": "UAPR/EVA-1-016",
-    "name": "资料待补",
+    "name": "真希波・マリ・イラストリアス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-070",
     "number": "UAPR/EVA-1-070",
-    "name": "资料待补",
+    "name": "綾波 レイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-071",
     "number": "UAPR/EVA-1-071",
-    "name": "资料待补",
+    "name": "綾波 レイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-079_p1",
     "number": "UAPR/EVA-1-079",
-    "name": "资料待补",
+    "name": "エヴァンゲリオン初号機 疑似シン化",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-079",
     "number": "UAPR/EVA-1-079",
-    "name": "资料待补",
+    "name": "エヴァンゲリオン初号機 疑似シン化",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-080_p1",
     "number": "UAPR/EVA-1-080",
-    "name": "资料待补",
+    "name": "エヴァンゲリオン零号機",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-1-080",
     "number": "UAPR/EVA-1-080",
-    "name": "资料待补",
+    "name": "エヴァンゲリオン零号機",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_eva-p-001",
     "number": "UAPR/EVA-P-001",
-    "name": "资料待补",
+    "name": "ヱヴァンゲリヲン新劇場版",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_fma-1-010",
     "number": "UAPR/FMA-1-010",
-    "name": "资料待补",
+    "name": "エドワード・エルリック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_fma-1-012_p1",
     "number": "UAPR/FMA-1-012",
-    "name": "资料待补",
+    "name": "エドワード・エルリック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_fma-1-012",
     "number": "UAPR/FMA-1-012",
-    "name": "资料待补",
+    "name": "エドワード・エルリック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_fma-1-053",
     "number": "UAPR/FMA-1-053",
-    "name": "资料待补",
+    "name": "ロイ・マスタング",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_fma-p-001",
     "number": "UAPR/FMA-P-001",
-    "name": "资料待补",
+    "name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-003",
     "number": "UAPR/GIM-1-003",
-    "name": "资料待补",
+    "name": "倉本 千奈",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-008",
     "number": "UAPR/GIM-1-008",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-013",
     "number": "UAPR/GIM-1-013",
-    "name": "资料待补",
+    "name": "姫崎 莉波",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-017",
     "number": "UAPR/GIM-1-017",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-021",
     "number": "UAPR/GIM-1-021",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-025",
     "number": "UAPR/GIM-1-025",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-026",
     "number": "UAPR/GIM-1-026",
-    "name": "资料待补",
+    "name": "花海 佑芽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-041",
     "number": "UAPR/GIM-1-041",
-    "name": "资料待补",
+    "name": "有村 麻央",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-045",
     "number": "UAPR/GIM-1-045",
-    "name": "资料待补",
+    "name": "葛城 リーリヤ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-050",
     "number": "UAPR/GIM-1-050",
-    "name": "资料待补",
+    "name": "紫雲 清夏",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-054",
     "number": "UAPR/GIM-1-054",
-    "name": "资料待补",
+    "name": "篠澤 広",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-060",
     "number": "UAPR/GIM-1-060",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-063_p1",
     "number": "UAPR/GIM-1-063",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-063",
     "number": "UAPR/GIM-1-063",
-    "name": "资料待补",
+    "name": "月村 手毬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-064",
     "number": "UAPR/GIM-1-064",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-065",
     "number": "UAPR/GIM-1-065",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-066",
     "number": "UAPR/GIM-1-066",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-068_p1",
     "number": "UAPR/GIM-1-068",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-068",
     "number": "UAPR/GIM-1-068",
-    "name": "资料待补",
+    "name": "花海 咲季",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-069_p1",
     "number": "UAPR/GIM-1-069",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-1-069",
     "number": "UAPR/GIM-1-069",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-2-009",
     "number": "UAPR/GIM-2-009",
-    "name": "资料待补",
+    "name": "雨夜 燕",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-2-021",
     "number": "UAPR/GIM-2-021",
-    "name": "资料待补",
+    "name": "秦谷 美鈴",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-2-031_p1",
     "number": "UAPR/GIM-2-031",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-2-031",
     "number": "UAPR/GIM-2-031",
-    "name": "资料待补",
+    "name": "藤田 ことね",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-2-032",
     "number": "UAPR/GIM-2-032",
-    "name": "资料待补",
+    "name": "十王 星南",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-ap01",
     "number": "UAPR/GIM-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-ap02",
     "number": "UAPR/GIM-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(学園アイドルマスター)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gim-p-001",
     "number": "UAPR/GIM-P-001",
-    "name": "资料待补",
+    "name": "学園アイドルマスター",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gmr-1-002",
     "number": "UAPR/GMR-1-002",
-    "name": "资料待补",
+    "name": "エミコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gmr-1-048",
     "number": "UAPR/GMR-1-048",
-    "name": "资料待补",
+    "name": "ガメラ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gmr-1-072_p1",
     "number": "UAPR/GMR-1-072",
-    "name": "资料待补",
+    "name": "ガメラ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gmr-1-072",
     "number": "UAPR/GMR-1-072",
-    "name": "资料待补",
+    "name": "ガメラ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-1-068",
     "number": "UAPR/GNT-1-068",
-    "name": "资料待补",
+    "name": "エリザベス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-1-072",
     "number": "UAPR/GNT-1-072",
-    "name": "资料待补",
+    "name": "桂 小太郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-1-089_p1",
     "number": "UAPR/GNT-1-089",
-    "name": "资料待补",
+    "name": "坂田 銀時",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-1-089",
     "number": "UAPR/GNT-1-089",
-    "name": "资料待补",
+    "name": "坂田 銀時",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-1-104",
     "number": "UAPR/GNT-1-104",
-    "name": "资料待补",
+    "name": "坂田 銀時",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-ap01",
     "number": "UAPR/GNT-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(銀魂)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-ap02",
     "number": "UAPR/GNT-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(銀魂)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5261,8 +5261,8 @@ export const series570901Cards: Card[] = [
   },
   {
     "id": "series-570901-uapr_gnt-ap03_p1",
-    "number": "UAPR/GNT-AP03/p1",
-    "name": "资料待补",
+    "number": "UAPR/GNT-AP03",
+    "name": "アクションポイントカード(白夜叉)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-ap03",
     "number": "UAPR/GNT-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(白夜叉)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-ap04",
     "number": "UAPR/GNT-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(銀魂)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-p-001",
     "number": "UAPR/GNT-P-001",
-    "name": "资料待补",
+    "name": "土方 十四郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-p-002",
     "number": "UAPR/GNT-P-002",
-    "name": "资料待补",
+    "name": "高杉 晋助",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_gnt-p-003",
     "number": "UAPR/GNT-P-003",
-    "name": "资料待补",
+    "name": "坂田 銀時",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-006",
     "number": "UAPR/HIQ-1-006",
-    "name": "资料待补",
+    "name": "日向 翔陽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-011",
     "number": "UAPR/HIQ-1-011",
-    "name": "资料待补",
+    "name": "孤爪 研磨",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-075",
     "number": "UAPR/HIQ-1-075",
-    "name": "资料待补",
+    "name": "影山 飛雄",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-083",
     "number": "UAPR/HIQ-1-083",
-    "name": "资料待补",
+    "name": "月島 蛍",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-086",
     "number": "UAPR/HIQ-1-086",
-    "name": "资料待补",
+    "name": "日向 翔陽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-088_p1",
     "number": "UAPR/HIQ-1-088",
-    "name": "资料待补",
+    "name": "日向 翔陽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-1-088",
     "number": "UAPR/HIQ-1-088",
-    "name": "资料待补",
+    "name": "日向 翔陽",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-ap01",
     "number": "UAPR/HIQ-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ハイキュー‼)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_hiq-ap03",
     "number": "UAPR/HIQ-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ハイキュー‼)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-005",
     "number": "UAPR/HTR-1-005",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-018",
     "number": "UAPR/HTR-1-018",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-026",
     "number": "UAPR/HTR-1-026",
-    "name": "资料待补",
+    "name": "一坪の海岸線",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-042",
     "number": "UAPR/HTR-1-042",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-072",
     "number": "UAPR/HTR-1-072",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-076",
     "number": "UAPR/HTR-1-076",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-078_p1",
     "number": "UAPR/HTR-1-078",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5746,7 +5746,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-078",
     "number": "UAPR/HTR-1-078",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5768,7 +5768,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-1-090",
     "number": "UAPR/HTR-1-090",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5790,7 +5790,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-024_p1",
     "number": "UAPR/HTR-2-024",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5812,7 +5812,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-024",
     "number": "UAPR/HTR-2-024",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5834,7 +5834,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-027",
     "number": "UAPR/HTR-2-027",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5856,7 +5856,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-029_p1",
     "number": "UAPR/HTR-2-029",
-    "name": "资料待补",
+    "name": "キルア・ゾルディック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5878,7 +5878,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-029",
     "number": "UAPR/HTR-2-029",
-    "name": "资料待补",
+    "name": "キルア・ゾルディック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5900,7 +5900,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-074",
     "number": "UAPR/HTR-2-074",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5922,7 +5922,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-075",
     "number": "UAPR/HTR-2-075",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5944,7 +5944,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-076",
     "number": "UAPR/HTR-2-076",
-    "name": "资料待补",
+    "name": "イルミ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5966,7 +5966,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-2-077",
     "number": "UAPR/HTR-2-077",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -5988,7 +5988,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-ap01",
     "number": "UAPR/HTR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6010,7 +6010,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-ap02",
     "number": "UAPR/HTR-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6032,7 +6032,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-p-001",
     "number": "UAPR/HTR-P-001",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6054,7 +6054,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-p-002",
     "number": "UAPR/HTR-P-002",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6076,7 +6076,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_htr-p-003",
     "number": "UAPR/HTR-P-003",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6098,7 +6098,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_imc-1-027",
     "number": "UAPR/IMC-1-027",
-    "name": "资料待补",
+    "name": "本田 未央",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6120,7 +6120,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_imc-1-041",
     "number": "UAPR/IMC-1-041",
-    "name": "资料待补",
+    "name": "渋谷 凛",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6252,7 +6252,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-015",
     "number": "UAPR/IMS-1-015",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6274,7 +6274,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-016_p1",
     "number": "UAPR/IMS-1-016",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6296,7 +6296,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-016",
     "number": "UAPR/IMS-1-016",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6318,7 +6318,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-034",
     "number": "UAPR/IMS-1-034",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6340,7 +6340,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-050",
     "number": "UAPR/IMS-1-050",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6362,7 +6362,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-073",
     "number": "UAPR/IMS-1-073",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6384,7 +6384,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-076",
     "number": "UAPR/IMS-1-076",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6406,7 +6406,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-1-085",
     "number": "UAPR/IMS-1-085",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6428,7 +6428,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-2-042",
     "number": "UAPR/IMS-2-042",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6450,7 +6450,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-2-045",
     "number": "UAPR/IMS-2-045",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6472,7 +6472,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-2-046_p1",
     "number": "UAPR/IMS-2-046",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6494,7 +6494,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-2-046",
     "number": "UAPR/IMS-2-046",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6516,7 +6516,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-2-048",
     "number": "UAPR/IMS-2-048",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6538,7 +6538,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-3-033",
     "number": "UAPR/IMS-3-033",
-    "name": "资料待补",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6560,7 +6560,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-3-037",
     "number": "UAPR/IMS-3-037",
-    "name": "资料待补",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6582,7 +6582,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-3-043_p1",
     "number": "UAPR/IMS-3-043",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6604,7 +6604,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-3-043",
     "number": "UAPR/IMS-3-043",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6626,7 +6626,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-ap01",
     "number": "UAPR/IMS-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6648,7 +6648,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-ap02",
     "number": "UAPR/IMS-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6669,8 +6669,8 @@ export const series570901Cards: Card[] = [
   },
   {
     "id": "series-570901-uapr_ims-ap09_p1",
-    "number": "UAPR/IMS-AP09/p1",
-    "name": "资料待补",
+    "number": "UAPR/IMS-AP09",
+    "name": "アクションポイントカード(アンティーカ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6692,7 +6692,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-ap09",
     "number": "UAPR/IMS-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アンティーカ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6713,8 +6713,8 @@ export const series570901Cards: Card[] = [
   },
   {
     "id": "series-570901-uapr_ims-ap10_p1",
-    "number": "UAPR/IMS-AP10/p1",
-    "name": "资料待补",
+    "number": "UAPR/IMS-AP10",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6736,7 +6736,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-ap10",
     "number": "UAPR/IMS-AP10",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6758,7 +6758,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-p-001",
     "number": "UAPR/IMS-P-001",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6780,7 +6780,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-p-002",
     "number": "UAPR/IMS-P-002",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6802,7 +6802,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-p-003",
     "number": "UAPR/IMS-P-003",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6824,7 +6824,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ims-p-004",
     "number": "UAPR/IMS-P-004",
-    "name": "资料待补",
+    "name": "アイドルマスター シャイニーカラーズ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6846,7 +6846,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_iys-1-006",
     "number": "UAPR/IYS-1-006",
-    "name": "资料待补",
+    "name": "殺生丸",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6868,7 +6868,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_iys-1-046_p1",
     "number": "UAPR/IYS-1-046",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6890,7 +6890,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_iys-1-046",
     "number": "UAPR/IYS-1-046",
-    "name": "资料待补",
+    "name": "犬夜叉",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6912,7 +6912,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_iys-1-063",
     "number": "UAPR/IYS-1-063",
-    "name": "资料待补",
+    "name": "日暮 かごめ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6934,7 +6934,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-009",
     "number": "UAPR/JJK-1-009",
-    "name": "资料待补",
+    "name": "五条 悟",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6956,7 +6956,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-020",
     "number": "UAPR/JJK-1-020",
-    "name": "资料待补",
+    "name": "伏黒 恵",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -6978,7 +6978,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-038",
     "number": "UAPR/JJK-1-038",
-    "name": "资料待补",
+    "name": "虎杖 悠仁",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7000,7 +7000,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-040_p1",
     "number": "UAPR/JJK-1-040",
-    "name": "资料待补",
+    "name": "虎杖 悠仁",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7022,7 +7022,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-040",
     "number": "UAPR/JJK-1-040",
-    "name": "资料待补",
+    "name": "虎杖 悠仁",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7044,7 +7044,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-043",
     "number": "UAPR/JJK-1-043",
-    "name": "资料待补",
+    "name": "釘崎 野薔薇",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7066,7 +7066,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-045",
     "number": "UAPR/JJK-1-045",
-    "name": "资料待补",
+    "name": "五条 悟",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7088,7 +7088,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-053",
     "number": "UAPR/JJK-1-053",
-    "name": "资料待补",
+    "name": "七海 建人",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7110,7 +7110,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-105_p1",
     "number": "UAPR/JJK-1-105",
-    "name": "资料待补",
+    "name": "宿儺",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7132,7 +7132,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-1-105",
     "number": "UAPR/JJK-1-105",
-    "name": "资料待补",
+    "name": "宿儺",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7154,7 +7154,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-3-015_p1",
     "number": "UAPR/JJK-3-015",
-    "name": "资料待补",
+    "name": "宿儺",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7176,7 +7176,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-3-015",
     "number": "UAPR/JJK-3-015",
-    "name": "资料待补",
+    "name": "宿儺",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7198,7 +7198,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-3-018",
     "number": "UAPR/JJK-3-018",
-    "name": "资料待补",
+    "name": "七海 建人",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7220,7 +7220,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-3-037",
     "number": "UAPR/JJK-3-037",
-    "name": "资料待补",
+    "name": "夏油 傑",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7242,7 +7242,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-3-054",
     "number": "UAPR/JJK-3-054",
-    "name": "资料待补",
+    "name": "パンダ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7264,7 +7264,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-ap01",
     "number": "UAPR/JJK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7286,7 +7286,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-ap02",
     "number": "UAPR/JJK-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7308,7 +7308,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-ap03",
     "number": "UAPR/JJK-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7330,7 +7330,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-ap04",
     "number": "UAPR/JJK-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7352,7 +7352,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_jjk-ap05",
     "number": "UAPR/JJK-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(呪術廻戦)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7374,7 +7374,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-1-047",
     "number": "UAPR/KGD-1-047",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7396,7 +7396,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-1-053",
     "number": "UAPR/KGD-1-053",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7418,7 +7418,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-1-068",
     "number": "UAPR/KGD-1-068",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7440,7 +7440,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-1-093_p1",
     "number": "UAPR/KGD-1-093",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7462,7 +7462,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-1-093",
     "number": "UAPR/KGD-1-093",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7484,7 +7484,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-ap01",
     "number": "UAPR/KGD-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7506,7 +7506,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgd-p-001",
     "number": "UAPR/KGD-P-001",
-    "name": "资料待补",
+    "name": "キングダム",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7528,7 +7528,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-012",
     "number": "UAPR/KGR-1-012",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7550,7 +7550,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-013",
     "number": "UAPR/KGR-1-013",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7572,7 +7572,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-044",
     "number": "UAPR/KGR-1-044",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7594,7 +7594,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-055",
     "number": "UAPR/KGR-1-055",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7616,7 +7616,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-056",
     "number": "UAPR/KGR-1-056",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7638,7 +7638,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-060_p1",
     "number": "UAPR/KGR-1-060",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7660,7 +7660,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-1-060",
     "number": "UAPR/KGR-1-060",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7682,7 +7682,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-ap01",
     "number": "UAPR/KGR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7704,7 +7704,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-ap02",
     "number": "UAPR/KGR-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7726,7 +7726,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kgr-p-001",
     "number": "UAPR/KGR-P-001",
-    "name": "资料待补",
+    "name": "カグラバチ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7748,7 +7748,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kin-1-047",
     "number": "UAPR/KIN-1-047",
-    "name": "资料待补",
+    "name": "キン肉マン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7770,7 +7770,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kin-1-048",
     "number": "UAPR/KIN-1-048",
-    "name": "资料待补",
+    "name": "キン肉マン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7792,7 +7792,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kin-1-051_p1",
     "number": "UAPR/KIN-1-051",
-    "name": "资料待补",
+    "name": "キン肉マン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7814,7 +7814,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kin-1-051",
     "number": "UAPR/KIN-1-051",
-    "name": "资料待补",
+    "name": "キン肉マン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7836,7 +7836,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kin-1-056",
     "number": "UAPR/KIN-1-056",
-    "name": "资料待补",
+    "name": "テリーマン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7858,7 +7858,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kin-p-001",
     "number": "UAPR/KIN-P-001",
-    "name": "资料待补",
+    "name": "『キン肉マン』完璧超人始祖編",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7880,7 +7880,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kj8-1-010",
     "number": "UAPR/KJ8-1-010",
-    "name": "资料待补",
+    "name": "市川 レノ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7902,7 +7902,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kj8-1-041",
     "number": "UAPR/KJ8-1-041",
-    "name": "资料待补",
+    "name": "亜白 ミナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7924,7 +7924,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kj8-1-055_p1",
     "number": "UAPR/KJ8-1-055",
-    "name": "资料待补",
+    "name": "怪獣８号",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7946,7 +7946,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kj8-1-055",
     "number": "UAPR/KJ8-1-055",
-    "name": "资料待补",
+    "name": "怪獣８号",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7968,7 +7968,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kj8-1-061",
     "number": "UAPR/KJ8-1-061",
-    "name": "资料待补",
+    "name": "日比野 カフカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -7990,7 +7990,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kj8-p-001",
     "number": "UAPR/KJ8-P-001",
-    "name": "资料待补",
+    "name": "怪獣８号",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8012,7 +8012,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kjn-1-047",
     "number": "UAPR/KJN-1-047",
-    "name": "资料待补",
+    "name": "シャドウ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8034,7 +8034,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kjn-1-052",
     "number": "UAPR/KJN-1-052",
-    "name": "资料待补",
+    "name": "アルファ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8056,7 +8056,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kjn-1-056_p1",
     "number": "UAPR/KJN-1-056",
-    "name": "资料待补",
+    "name": "アルファ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8078,7 +8078,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kjn-1-056",
     "number": "UAPR/KJN-1-056",
-    "name": "资料待补",
+    "name": "アルファ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8100,7 +8100,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-1-021_p1",
     "number": "UAPR/KMR-1-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロツー（イズ）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8122,7 +8122,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-1-021",
     "number": "UAPR/KMR-1-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロツー（イズ）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8144,7 +8144,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-1-022",
     "number": "UAPR/KMR-1-022",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン メタルクラスタホッパー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8166,7 +8166,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-1-023",
     "number": "UAPR/KMR-1-023",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン ライジングホッパー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8188,7 +8188,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-1-039_p1",
     "number": "UAPR/KMR-1-039",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タジャドル コンボ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8210,7 +8210,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-1-039",
     "number": "UAPR/KMR-1-039",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タジャドル コンボ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8232,7 +8232,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-2-011",
     "number": "UAPR/KMR-2-011",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ポッピングミフォーム",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8254,7 +8254,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-2-012_p1",
     "number": "UAPR/KMR-2-012",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ マスターモード",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8276,7 +8276,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-2-012",
     "number": "UAPR/KMR-2-012",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ マスターモード",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8298,7 +8298,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-2-052",
     "number": "UAPR/KMR-2-052",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ヒートジョーカー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8320,7 +8320,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-2-085",
     "number": "UAPR/KMR-2-085",
-    "name": "资料待补",
+    "name": "仮面ライダーゾルダ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8342,7 +8342,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-p-001",
     "number": "UAPR/KMR-P-001",
-    "name": "资料待补",
+    "name": "仮面ライダー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8364,7 +8364,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmr-p-002",
     "number": "UAPR/KMR-P-002",
-    "name": "资料待补",
+    "name": "仮面ライダー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8386,7 +8386,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-006",
     "number": "UAPR/KMY-1-006",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8408,7 +8408,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-008_p1",
     "number": "UAPR/KMY-1-008",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8430,7 +8430,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-008",
     "number": "UAPR/KMY-1-008",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8452,7 +8452,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-015",
     "number": "UAPR/KMY-1-015",
-    "name": "资料待补",
+    "name": "嘴平 伊之助",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8474,7 +8474,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-072",
     "number": "UAPR/KMY-1-072",
-    "name": "资料待补",
+    "name": "竈門 炭治郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8496,7 +8496,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-074",
     "number": "UAPR/KMY-1-074",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8518,7 +8518,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-1-089",
     "number": "UAPR/KMY-1-089",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8540,7 +8540,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-3-021_p1",
     "number": "UAPR/KMY-3-021",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8562,7 +8562,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-3-021",
     "number": "UAPR/KMY-3-021",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8584,7 +8584,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-3-031",
     "number": "UAPR/KMY-3-031",
-    "name": "资料待补",
+    "name": "甘露寺 蜜璃",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8606,7 +8606,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-3-037",
     "number": "UAPR/KMY-3-037",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8628,7 +8628,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-3-039_p1",
     "number": "UAPR/KMY-3-039",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8650,7 +8650,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-3-039",
     "number": "UAPR/KMY-3-039",
-    "name": "资料待补",
+    "name": "時透 無一郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8672,7 +8672,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-ap01",
     "number": "UAPR/KMY-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8694,7 +8694,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-ap02",
     "number": "UAPR/KMY-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鬼滅の刃)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8716,7 +8716,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-p-001",
     "number": "UAPR/KMY-P-001",
-    "name": "资料待补",
+    "name": "竈門 禰󠄀豆子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8738,7 +8738,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-p-002",
     "number": "UAPR/KMY-P-002",
-    "name": "资料待补",
+    "name": "猗窩座",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8760,7 +8760,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_kmy-p-003",
     "number": "UAPR/KMY-P-003",
-    "name": "资料待补",
+    "name": "煉󠄁獄 杏寿郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8782,7 +8782,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-1-005",
     "number": "UAPR/MCR-1-005",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8804,7 +8804,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-1-014",
     "number": "UAPR/MCR-1-014",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8826,7 +8826,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-1-057",
     "number": "UAPR/MCR-1-057",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8848,7 +8848,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-1-067_p1",
     "number": "UAPR/MCR-1-067",
-    "name": "资料待补",
+    "name": "リン・ミンメイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8870,7 +8870,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-1-067",
     "number": "UAPR/MCR-1-067",
-    "name": "资料待补",
+    "name": "リン・ミンメイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8892,7 +8892,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-2-025",
     "number": "UAPR/MCR-2-025",
-    "name": "资料待补",
+    "name": "ミラージュ・ファリーナ・ジーナス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8914,7 +8914,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-2-035",
     "number": "UAPR/MCR-2-035",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8936,7 +8936,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-2-042",
     "number": "UAPR/MCR-2-042",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8958,7 +8958,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-ap01",
     "number": "UAPR/MCR-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス7)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -8980,7 +8980,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-ap02",
     "number": "UAPR/MCR-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9002,7 +9002,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-ap03",
     "number": "UAPR/MCR-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9024,7 +9024,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mcr-p-001",
     "number": "UAPR/MCR-P-001",
-    "name": "资料待补",
+    "name": "マクロスF",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9046,7 +9046,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-1-047_p1",
     "number": "UAPR/MGS-1-047",
-    "name": "资料待补",
+    "name": "忍野 忍",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9068,7 +9068,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-1-047",
     "number": "UAPR/MGS-1-047",
-    "name": "资料待补",
+    "name": "忍野 忍",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9090,7 +9090,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-1-055",
     "number": "UAPR/MGS-1-055",
-    "name": "资料待补",
+    "name": "羽川 翼",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9112,7 +9112,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-1-080",
     "number": "UAPR/MGS-1-080",
-    "name": "资料待补",
+    "name": "戦場ヶ原 ひたぎ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9134,7 +9134,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-1-083_p1",
     "number": "UAPR/MGS-1-083",
-    "name": "资料待补",
+    "name": "戦場ヶ原 ひたぎ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9156,7 +9156,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-1-083",
     "number": "UAPR/MGS-1-083",
-    "name": "资料待补",
+    "name": "戦場ヶ原 ひたぎ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9178,7 +9178,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mgs-p-001",
     "number": "UAPR/MGS-P-001",
-    "name": "资料待补",
+    "name": "〈物語〉シリーズ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9200,7 +9200,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-018",
     "number": "UAPR/MHA-1-018",
-    "name": "资料待补",
+    "name": "トガヒミコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9222,7 +9222,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-053",
     "number": "UAPR/MHA-1-053",
-    "name": "资料待补",
+    "name": "爆豪 勝己",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9244,7 +9244,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-058",
     "number": "UAPR/MHA-1-058",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9266,7 +9266,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-060_p1",
     "number": "UAPR/MHA-1-060",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9288,7 +9288,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-060",
     "number": "UAPR/MHA-1-060",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9310,7 +9310,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-085_p1",
     "number": "UAPR/MHA-1-085",
-    "name": "资料待补",
+    "name": "爆豪 勝己",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9332,7 +9332,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-085",
     "number": "UAPR/MHA-1-085",
-    "name": "资料待补",
+    "name": "爆豪 勝己",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9354,7 +9354,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-1-093",
     "number": "UAPR/MHA-1-093",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9376,7 +9376,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-2-005",
     "number": "UAPR/MHA-2-005",
-    "name": "资料待补",
+    "name": "蛙吹 梅雨",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9398,7 +9398,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-2-023",
     "number": "UAPR/MHA-2-023",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9420,7 +9420,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-2-026_p1",
     "number": "UAPR/MHA-2-026",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9442,7 +9442,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-2-026",
     "number": "UAPR/MHA-2-026",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9464,7 +9464,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-2-053",
     "number": "UAPR/MHA-2-053",
-    "name": "资料待补",
+    "name": "麗日 お茶子",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9486,7 +9486,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-ap01",
     "number": "UAPR/MHA-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(僕のヒーローアカデミア)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9508,7 +9508,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-p-001",
     "number": "UAPR/MHA-P-001",
-    "name": "资料待补",
+    "name": "緑谷 出久",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9530,7 +9530,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-p-002",
     "number": "UAPR/MHA-P-002",
-    "name": "资料待补",
+    "name": "死柄木 弔",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9552,7 +9552,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mha-p-003",
     "number": "UAPR/MHA-P-003",
-    "name": "资料待补",
+    "name": "ホークス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9574,7 +9574,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mmm-1-002_p1",
     "number": "UAPR/MMM-1-002",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9596,7 +9596,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mmm-1-002",
     "number": "UAPR/MMM-1-002",
-    "name": "资料待补",
+    "name": "アルティメットまどか",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9618,7 +9618,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mmm-1-007",
     "number": "UAPR/MMM-1-007",
-    "name": "资料待补",
+    "name": "鹿目 まどか",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9640,7 +9640,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mmm-1-040",
     "number": "UAPR/MMM-1-040",
-    "name": "资料待补",
+    "name": "暁美 ほむら",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9662,7 +9662,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mmm-1-ap01",
     "number": "UAPR/MMM-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9684,7 +9684,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mmm-p-001",
     "number": "UAPR/MMM-P-001",
-    "name": "资料待补",
+    "name": "魔法少女まどか☆マギカ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9706,7 +9706,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mss-1-009",
     "number": "UAPR/MSS-1-009",
-    "name": "资料待补",
+    "name": "東 日万凛",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9728,7 +9728,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mss-1-021_p1",
     "number": "UAPR/MSS-1-021",
-    "name": "资料待补",
+    "name": "羽前 京香",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9750,7 +9750,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mss-1-021",
     "number": "UAPR/MSS-1-021",
-    "name": "资料待补",
+    "name": "羽前 京香",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9772,7 +9772,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mss-1-035",
     "number": "UAPR/MSS-1-035",
-    "name": "资料待补",
+    "name": "出雲 天花",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9794,7 +9794,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mss-ap01",
     "number": "UAPR/MSS-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(魔都精兵のスレイブ)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9816,7 +9816,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mss-p-001",
     "number": "UAPR/MSS-P-001",
-    "name": "资料待补",
+    "name": "魔都精兵のスレイブ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9838,7 +9838,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mst-1-030",
     "number": "UAPR/MST-1-030",
-    "name": "资料待补",
+    "name": "ロキシー",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9860,7 +9860,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_mst-1-055",
     "number": "UAPR/MST-1-055",
-    "name": "资料待补",
+    "name": "アリエル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9882,7 +9882,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-1-002",
     "number": "UAPR/NGR-1-002",
-    "name": "资料待补",
+    "name": "天乃 リリサ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9904,7 +9904,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-1-003",
     "number": "UAPR/NGR-1-003",
-    "name": "资料待补",
+    "name": "天乃 リリサ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9926,7 +9926,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-1-016",
     "number": "UAPR/NGR-1-016",
-    "name": "资料待补",
+    "name": "橘 美花莉",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9948,7 +9948,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-1-020",
     "number": "UAPR/NGR-1-020",
-    "name": "资料待补",
+    "name": "ノノア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9970,7 +9970,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-1-030_p1",
     "number": "UAPR/NGR-1-030",
-    "name": "资料待补",
+    "name": "リリエル 天使衣装/リリサ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -9992,7 +9992,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-1-030",
     "number": "UAPR/NGR-1-030",
-    "name": "资料待补",
+    "name": "リリエル 天使衣装/リリサ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10014,7 +10014,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-p-001",
     "number": "UAPR/NGR-P-001",
-    "name": "资料待补",
+    "name": "橘 美花莉",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10036,7 +10036,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-p-002",
     "number": "UAPR/NGR-P-002",
-    "name": "资料待补",
+    "name": "753♡",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10058,7 +10058,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_ngr-p-003",
     "number": "UAPR/NGR-P-003",
-    "name": "资料待补",
+    "name": "リリエル 天使空挺隊/リリサ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10080,7 +10080,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-1-011_p1",
     "number": "UAPR/NIK-1-011",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10102,7 +10102,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-1-011",
     "number": "UAPR/NIK-1-011",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10123,8 +10123,8 @@ export const series570901Cards: Card[] = [
   },
   {
     "id": "series-570901-uapr_nik-1-ap01_p1",
-    "number": "UAPR/NIK-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UAPR/NIK-1-AP01",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10146,7 +10146,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-1-ap01",
     "number": "UAPR/NIK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10168,7 +10168,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-2-036_p1",
     "number": "UAPR/NIK-2-036",
-    "name": "资料待补",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10190,7 +10190,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-2-036",
     "number": "UAPR/NIK-2-036",
-    "name": "资料待补",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10212,7 +10212,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-ap01",
     "number": "UAPR/NIK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10234,7 +10234,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-ap02",
     "number": "UAPR/NIK-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10256,7 +10256,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-ap04",
     "number": "UAPR/NIK-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10278,7 +10278,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-ap05",
     "number": "UAPR/NIK-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10300,7 +10300,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-p-001",
     "number": "UAPR/NIK-P-001",
-    "name": "资料待补",
+    "name": "マリアン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10322,7 +10322,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-p-002",
     "number": "UAPR/NIK-P-002",
-    "name": "资料待补",
+    "name": "ラプンツェル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10344,7 +10344,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-p-003",
     "number": "UAPR/NIK-P-003",
-    "name": "资料待补",
+    "name": "エレグ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10366,7 +10366,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_nik-p-004",
     "number": "UAPR/NIK-P-004",
-    "name": "资料待补",
+    "name": "勝利の女神：NIKKE",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10388,7 +10388,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-1-018_p1",
     "number": "UAPR/OPM-1-018",
-    "name": "资料待补",
+    "name": "サイタマ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10410,7 +10410,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-1-018",
     "number": "UAPR/OPM-1-018",
-    "name": "资料待补",
+    "name": "サイタマ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10432,7 +10432,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-1-048",
     "number": "UAPR/OPM-1-048",
-    "name": "资料待补",
+    "name": "ジェノス",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10454,7 +10454,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-1-051",
     "number": "UAPR/OPM-1-051",
-    "name": "资料待补",
+    "name": "戦慄のタツマキ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10476,7 +10476,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-1-074",
     "number": "UAPR/OPM-1-074",
-    "name": "资料待补",
+    "name": "ガロウ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10498,7 +10498,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-ap02",
     "number": "UAPR/OPM-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ワンパンマン)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10520,7 +10520,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-p-001",
     "number": "UAPR/OPM-P-001",
-    "name": "资料待补",
+    "name": "戦慄のタツマキ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10542,7 +10542,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-p-002",
     "number": "UAPR/OPM-P-002",
-    "name": "资料待补",
+    "name": "金属バット",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10564,7 +10564,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_opm-p-003",
     "number": "UAPR/OPM-P-003",
-    "name": "资料待补",
+    "name": "音速のソニック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10586,7 +10586,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-1-014",
     "number": "UAPR/REZ-1-014",
-    "name": "资料待补",
+    "name": "レム",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10608,7 +10608,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-1-086",
     "number": "UAPR/REZ-1-086",
-    "name": "资料待补",
+    "name": "エミリア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10630,7 +10630,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-1-090_p1",
     "number": "UAPR/REZ-1-090",
-    "name": "资料待补",
+    "name": "エミリア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10652,7 +10652,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-1-090",
     "number": "UAPR/REZ-1-090",
-    "name": "资料待补",
+    "name": "エミリア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10674,7 +10674,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-1-106_p1",
     "number": "UAPR/REZ-1-106",
-    "name": "资料待补",
+    "name": "エミリア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10696,7 +10696,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-1-106",
     "number": "UAPR/REZ-1-106",
-    "name": "资料待补",
+    "name": "エミリア",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10718,7 +10718,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-ap01",
     "number": "UAPR/REZ-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(Re:ゼロから始める異世界生活)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10740,7 +10740,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rez-p-001",
     "number": "UAPR/REZ-P-001",
-    "name": "资料待补",
+    "name": "Re:ゼロから始める異世界生活",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10762,7 +10762,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rly-1-041_p1",
     "number": "UAPR/RLY-1-041",
-    "name": "资料待补",
+    "name": "大大大大大好きな彼女たち",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10784,7 +10784,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rly-1-041",
     "number": "UAPR/RLY-1-041",
-    "name": "资料待补",
+    "name": "大大大大大好きな彼女たち",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10806,7 +10806,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rly-ap01",
     "number": "UAPR/RLY-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10828,7 +10828,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rly-ap02",
     "number": "UAPR/RLY-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10850,7 +10850,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rly-ap03",
     "number": "UAPR/RLY-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10872,7 +10872,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-1-014",
     "number": "UAPR/RNK-1-014",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10894,7 +10894,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-1-057",
     "number": "UAPR/RNK-1-057",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10916,7 +10916,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-1-086",
     "number": "UAPR/RNK-1-086",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10938,7 +10938,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-1-090_p1",
     "number": "UAPR/RNK-1-090",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10960,7 +10960,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-1-090",
     "number": "UAPR/RNK-1-090",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -10982,7 +10982,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-ap01",
     "number": "UAPR/RNK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11004,7 +11004,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_rnk-p-001",
     "number": "UAPR/RNK-P-001",
-    "name": "资料待补",
+    "name": "るろうに剣心 －明治剣客浪漫譚－",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11026,7 +11026,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-036",
     "number": "UAPR/SAO-1-036",
-    "name": "资料待补",
+    "name": "アスナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11048,7 +11048,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-041_p1",
     "number": "UAPR/SAO-1-041",
-    "name": "资料待补",
+    "name": "キリト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11070,7 +11070,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-041",
     "number": "UAPR/SAO-1-041",
-    "name": "资料待补",
+    "name": "キリト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11092,7 +11092,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-089",
     "number": "UAPR/SAO-1-089",
-    "name": "资料待补",
+    "name": "シノン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11114,7 +11114,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-091_p1",
     "number": "UAPR/SAO-1-091",
-    "name": "资料待补",
+    "name": "シノン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11136,7 +11136,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-091",
     "number": "UAPR/SAO-1-091",
-    "name": "资料待补",
+    "name": "シノン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11158,7 +11158,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-101",
     "number": "UAPR/SAO-1-101",
-    "name": "资料待补",
+    "name": "アスナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11180,7 +11180,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-103",
     "number": "UAPR/SAO-1-103",
-    "name": "资料待补",
+    "name": "キリト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11202,7 +11202,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-1-104",
     "number": "UAPR/SAO-1-104",
-    "name": "资料待补",
+    "name": "キリト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11224,7 +11224,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-2-041",
     "number": "UAPR/SAO-2-041",
-    "name": "资料待补",
+    "name": "アスナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11246,7 +11246,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-2-042_p1",
     "number": "UAPR/SAO-2-042",
-    "name": "资料待补",
+    "name": "アスナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11268,7 +11268,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-2-042",
     "number": "UAPR/SAO-2-042",
-    "name": "资料待补",
+    "name": "アスナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11290,7 +11290,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-2-052",
     "number": "UAPR/SAO-2-052",
-    "name": "资料待补",
+    "name": "ミト",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11312,7 +11312,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-ap02",
     "number": "UAPR/SAO-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ソードアート・オンライン)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11334,7 +11334,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-ap03",
     "number": "UAPR/SAO-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ソードアート・オンライン)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11356,7 +11356,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_sao-p-001",
     "number": "UAPR/SAO-P-001",
-    "name": "资料待补",
+    "name": "ソードアート・オンライン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11378,7 +11378,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-1-001",
     "number": "UAPR/SHY-1-001",
-    "name": "资料待补",
+    "name": "シャイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11400,7 +11400,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-1-002",
     "number": "UAPR/SHY-1-002",
-    "name": "资料待补",
+    "name": "レディ・ブラック",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11422,7 +11422,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-1-003",
     "number": "UAPR/SHY-1-003",
-    "name": "资料待补",
+    "name": "スピリッツ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11444,7 +11444,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-1-048",
     "number": "UAPR/SHY-1-048",
-    "name": "资料待补",
+    "name": "シャイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11466,7 +11466,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-1-052_p1",
     "number": "UAPR/SHY-1-052",
-    "name": "资料待补",
+    "name": "シャイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11488,7 +11488,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-1-052",
     "number": "UAPR/SHY-1-052",
-    "name": "资料待补",
+    "name": "シャイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11510,7 +11510,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-ap01",
     "number": "UAPR/SHY-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SHY)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11532,7 +11532,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-ap02",
     "number": "UAPR/SHY-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SHY)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11554,7 +11554,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-ap03",
     "number": "UAPR/SHY-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SHY)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11576,7 +11576,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-ap04",
     "number": "UAPR/SHY-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SHY)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11598,7 +11598,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-p-001",
     "number": "UAPR/SHY-P-001",
-    "name": "资料待补",
+    "name": "ツィベタ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11620,7 +11620,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-p-002",
     "number": "UAPR/SHY-P-002",
-    "name": "资料待补",
+    "name": "スピリッツ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11642,7 +11642,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_shy-p-003",
     "number": "UAPR/SHY-P-003",
-    "name": "资料待补",
+    "name": "シャイ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11664,7 +11664,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_slg-1-019",
     "number": "UAPR/SLG-1-019",
-    "name": "资料待补",
+    "name": "水篠 旬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11686,7 +11686,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_slg-1-022_p1",
     "number": "UAPR/SLG-1-022",
-    "name": "资料待补",
+    "name": "水篠 旬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11708,7 +11708,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_slg-1-022",
     "number": "UAPR/SLG-1-022",
-    "name": "资料待补",
+    "name": "水篠 旬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11730,7 +11730,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_slg-1-030",
     "number": "UAPR/SLG-1-030",
-    "name": "资料待补",
+    "name": "影の兵士",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11752,7 +11752,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-1-022",
     "number": "UAPR/SMD-1-022",
-    "name": "资料待补",
+    "name": "坂本 太郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11774,7 +11774,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-1-026_p1",
     "number": "UAPR/SMD-1-026",
-    "name": "资料待补",
+    "name": "坂本 太郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11796,7 +11796,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-1-026",
     "number": "UAPR/SMD-1-026",
-    "name": "资料待补",
+    "name": "坂本 太郎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11818,7 +11818,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-1-058",
     "number": "UAPR/SMD-1-058",
-    "name": "资料待补",
+    "name": "南雲",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11840,7 +11840,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-ap01",
     "number": "UAPR/SMD-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SAKAMOTO DAYS)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11862,7 +11862,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-ap02",
     "number": "UAPR/SMD-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SAKAMOTO DAYS)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11884,7 +11884,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_smd-p-001",
     "number": "UAPR/SMD-P-001",
-    "name": "资料待补",
+    "name": "SAKAMOTO DAYS",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11906,7 +11906,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_snf-1-013",
     "number": "UAPR/SNF-1-013",
-    "name": "资料待补",
+    "name": "エムル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11928,7 +11928,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_snf-1-056",
     "number": "UAPR/SNF-1-056",
-    "name": "资料待补",
+    "name": "サンラク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11950,7 +11950,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_snf-1-058_p1",
     "number": "UAPR/SNF-1-058",
-    "name": "资料待补",
+    "name": "サンラク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11972,7 +11972,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_snf-1-058",
     "number": "UAPR/SNF-1-058",
-    "name": "资料待补",
+    "name": "サンラク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -11994,7 +11994,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-001",
     "number": "UAPR/SYN-1-001",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12016,7 +12016,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-002",
     "number": "UAPR/SYN-1-002",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12038,7 +12038,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-003_p1",
     "number": "UAPR/SYN-1-003",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12060,7 +12060,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-003",
     "number": "UAPR/SYN-1-003",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12082,7 +12082,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-073",
     "number": "UAPR/SYN-1-073",
-    "name": "资料待补",
+    "name": "アルバ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12104,7 +12104,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-083_p1",
     "number": "UAPR/SYN-1-083",
-    "name": "资料待补",
+    "name": "エイダ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12126,7 +12126,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-083",
     "number": "UAPR/SYN-1-083",
-    "name": "资料待补",
+    "name": "エイダ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12148,7 +12148,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-1-092",
     "number": "UAPR/SYN-1-092",
-    "name": "资料待补",
+    "name": "ミステル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12170,7 +12170,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-ap01",
     "number": "UAPR/SYN-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SYNDUALITY Noir)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12192,7 +12192,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-ap02",
     "number": "UAPR/SYN-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SYNDUALITY Noir)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12214,7 +12214,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-ap03",
     "number": "UAPR/SYN-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SYNDUALITY Noir)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12236,7 +12236,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-ap04",
     "number": "UAPR/SYN-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(SYNDUALITY Noir)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12258,7 +12258,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-p-001",
     "number": "UAPR/SYN-P-001",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12280,7 +12280,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-p-002",
     "number": "UAPR/SYN-P-002",
-    "name": "资料待补",
+    "name": "黒仮面",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12302,7 +12302,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_syn-p-003",
     "number": "UAPR/SYN-P-003",
-    "name": "资料待补",
+    "name": "シエル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12324,7 +12324,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkg-1-039",
     "number": "UAPR/TKG-1-039",
-    "name": "资料待补",
+    "name": "金木 研",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12346,7 +12346,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkg-1-042_p1",
     "number": "UAPR/TKG-1-042",
-    "name": "资料待补",
+    "name": "金木 研",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12368,7 +12368,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkg-1-042",
     "number": "UAPR/TKG-1-042",
-    "name": "资料待补",
+    "name": "金木 研",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12390,7 +12390,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkg-1-068",
     "number": "UAPR/TKG-1-068",
-    "name": "资料待补",
+    "name": "金木 研",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12412,7 +12412,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkg-1-088",
     "number": "UAPR/TKG-1-088",
-    "name": "资料待补",
+    "name": "鈴屋 什造",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12434,7 +12434,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkg-p-001",
     "number": "UAPR/TKG-P-001",
-    "name": "资料待补",
+    "name": "東京喰種トーキョーグール",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12456,7 +12456,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkn-1-055",
     "number": "UAPR/TKN-1-055",
-    "name": "资料待补",
+    "name": "クマ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12478,7 +12478,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkn-1-061",
     "number": "UAPR/TKN-1-061",
-    "name": "资料待补",
+    "name": "三島 平八",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12500,7 +12500,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkn-1-091_p1",
     "number": "UAPR/TKN-1-091",
-    "name": "资料待补",
+    "name": "三島 一八",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12522,7 +12522,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkn-1-091",
     "number": "UAPR/TKN-1-091",
-    "name": "资料待补",
+    "name": "三島 一八",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12544,7 +12544,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkn-1-106",
     "number": "UAPR/TKN-1-106",
-    "name": "资料待补",
+    "name": "三島 一八",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12566,7 +12566,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tkn-ap01",
     "number": "UAPR/TKN-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鉄拳7)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12588,7 +12588,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-1-012",
     "number": "UAPR/TLR-1-012",
-    "name": "资料待补",
+    "name": "結城 美柑",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12610,7 +12610,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-1-024",
     "number": "UAPR/TLR-1-024",
-    "name": "资料待补",
+    "name": "金色の闇",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12632,7 +12632,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-1-072",
     "number": "UAPR/TLR-1-072",
-    "name": "资料待补",
+    "name": "ララ・サタリン・デビルーク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12654,7 +12654,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-1-075_p1",
     "number": "UAPR/TLR-1-075",
-    "name": "资料待补",
+    "name": "ララ・サタリン・デビルーク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12676,7 +12676,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-1-075",
     "number": "UAPR/TLR-1-075",
-    "name": "资料待补",
+    "name": "ララ・サタリン・デビルーク",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12697,8 +12697,8 @@ export const series570901Cards: Card[] = [
   },
   {
     "id": "series-570901-uapr_tlr-1-ap01_p1",
-    "number": "UAPR/TLR-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UAPR/TLR-1-AP01",
+    "name": "アクションポイントカード(To LOVEる-とらぶる-)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12720,7 +12720,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-1-ap01",
     "number": "UAPR/TLR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(To LOVEる-とらぶる-)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12742,7 +12742,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tlr-p-001",
     "number": "UAPR/TLR-P-001",
-    "name": "资料待补",
+    "name": "To LOVEる-とらぶる- Memory of Heroines",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12764,7 +12764,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-1-003",
     "number": "UAPR/TOA-1-003",
-    "name": "资料待补",
+    "name": "アルフェン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12786,7 +12786,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-1-016",
     "number": "UAPR/TOA-1-016",
-    "name": "资料待补",
+    "name": "フルル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12808,7 +12808,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-1-070_p1",
     "number": "UAPR/TOA-1-070",
-    "name": "资料待补",
+    "name": "アルフェン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12830,7 +12830,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-1-070",
     "number": "UAPR/TOA-1-070",
-    "name": "资料待补",
+    "name": "アルフェン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12852,7 +12852,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-1-109",
     "number": "UAPR/TOA-1-109",
-    "name": "资料待补",
+    "name": "絆の光",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12874,7 +12874,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-ap01",
     "number": "UAPR/TOA-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(Tales of ARISE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12896,7 +12896,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-ap02",
     "number": "UAPR/TOA-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(Tales of ARISE)",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12918,7 +12918,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-p-001",
     "number": "UAPR/TOA-P-001",
-    "name": "资料待补",
+    "name": "リンウェル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12940,7 +12940,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-p-002",
     "number": "UAPR/TOA-P-002",
-    "name": "资料待补",
+    "name": "ロウ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12962,7 +12962,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-p-003",
     "number": "UAPR/TOA-P-003",
-    "name": "资料待补",
+    "name": "アルフェン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -12984,7 +12984,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_toa-p-004",
     "number": "UAPR/TOA-P-004",
-    "name": "资料待补",
+    "name": "シオン",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13006,7 +13006,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-1-007",
     "number": "UAPR/TRK-1-007",
-    "name": "资料待补",
+    "name": "ココ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13028,7 +13028,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-1-019",
     "number": "UAPR/TRK-1-019",
-    "name": "资料待补",
+    "name": "トリコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13050,7 +13050,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-1-053",
     "number": "UAPR/TRK-1-053",
-    "name": "资料待补",
+    "name": "トリコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13072,7 +13072,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-1-054_p1",
     "number": "UAPR/TRK-1-054",
-    "name": "资料待补",
+    "name": "トリコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13094,7 +13094,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-1-054",
     "number": "UAPR/TRK-1-054",
-    "name": "资料待补",
+    "name": "トリコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13116,7 +13116,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-1-079",
     "number": "UAPR/TRK-1-079",
-    "name": "资料待补",
+    "name": "トリコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13138,7 +13138,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-p-001",
     "number": "UAPR/TRK-P-001",
-    "name": "资料待补",
+    "name": "ココ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13160,7 +13160,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-p-002",
     "number": "UAPR/TRK-P-002",
-    "name": "资料待补",
+    "name": "トリコ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13182,7 +13182,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_trk-p-003",
     "number": "UAPR/TRK-P-003",
-    "name": "资料待补",
+    "name": "三虎",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13204,7 +13204,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tsk-1-012",
     "number": "UAPR/TSK-1-012",
-    "name": "资料待补",
+    "name": "リムル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13226,7 +13226,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tsk-1-057",
     "number": "UAPR/TSK-1-057",
-    "name": "资料待补",
+    "name": "シュナ",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13248,7 +13248,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tsk-1-085_p1",
     "number": "UAPR/TSK-1-085",
-    "name": "资料待补",
+    "name": "ミリム",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13270,7 +13270,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tsk-1-085",
     "number": "UAPR/TSK-1-085",
-    "name": "资料待补",
+    "name": "ミリム",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13292,7 +13292,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tsk-1-091_p1",
     "number": "UAPR/TSK-1-091",
-    "name": "资料待补",
+    "name": "リムル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13314,7 +13314,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_tsk-1-091",
     "number": "UAPR/TSK-1-091",
-    "name": "资料待补",
+    "name": "リムル",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13754,7 +13754,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_yyh-1-081",
     "number": "UAPR/YYH-1-081",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13776,7 +13776,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_yyh-p-001",
     "number": "UAPR/YYH-P-001",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13798,7 +13798,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_yyh-p-002",
     "number": "UAPR/YYH-P-002",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",
@@ -13820,7 +13820,7 @@ export const series570901Cards: Card[] = [
   {
     "id": "series-570901-uapr_yyh-p-003",
     "number": "UAPR/YYH-P-003",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "未识别系列 570901",
     "color": "资料待补",

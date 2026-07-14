@@ -4,7 +4,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-070",
     "number": "UA03ST/HTR-1-070",
-    "name": "资料待补",
+    "name": "凶狸狐",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-072",
     "number": "UA03ST/HTR-1-072",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-075",
     "number": "UA03ST/HTR-1-075",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-079",
     "number": "UA03ST/HTR-1-079",
-    "name": "资料待补",
+    "name": "サトツ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-083",
     "number": "UA03ST/HTR-1-083",
-    "name": "资料待补",
+    "name": "トンパ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-085",
     "number": "UA03ST/HTR-1-085",
-    "name": "资料待补",
+    "name": "ネテロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-090",
     "number": "UA03ST/HTR-1-090",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-097",
     "number": "UA03ST/HTR-1-097",
-    "name": "资料待补",
+    "name": "釣り竿",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-099",
     "number": "UA03ST/HTR-1-099",
-    "name": "资料待补",
+    "name": "ハンターライセンス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-101",
     "number": "UA03ST/HTR-1-101",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-102",
     "number": "UA03ST/HTR-1-102",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-103",
     "number": "UA03ST/HTR-1-103",
-    "name": "资料待补",
+    "name": "船長",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-104",
     "number": "UA03ST/HTR-1-104",
-    "name": "资料待补",
+    "name": "ミト",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-105",
     "number": "UA03ST/HTR-1-105",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-106",
     "number": "UA03ST/HTR-1-106",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-107",
     "number": "UA03ST/HTR-1-107",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-108",
     "number": "UA03ST/HTR-1-108",
-    "name": "资料待补",
+    "name": "くじら島",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-109",
     "number": "UA03ST/HTR-1-109",
-    "name": "资料待补",
+    "name": "ジンの写真",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-ap01",
     "number": "UA03ST/HTR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-ua03st_htr-1-ap02",
     "number": "UA03ST/HTR-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-001",
     "number": "UA03BT/HTR-1-001",
-    "name": "资料待补",
+    "name": "アベンガネ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-002",
     "number": "UA03BT/HTR-1-002",
-    "name": "资料待补",
+    "name": "イータ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-003",
     "number": "UA03BT/HTR-1-003",
-    "name": "资料待补",
+    "name": "エレナ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-004",
     "number": "UA03BT/HTR-1-004",
-    "name": "资料待补",
+    "name": "ゴレイヌ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-005",
     "number": "UA03BT/HTR-1-005",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-006_p1",
     "number": "UA03BT/HTR-1-006",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-006",
     "number": "UA03BT/HTR-1-006",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-007_p1",
     "number": "UA03BT/HTR-1-007",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-007",
     "number": "UA03BT/HTR-1-007",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-008",
     "number": "UA03BT/HTR-1-008",
-    "name": "资料待补",
+    "name": "ツェズゲラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-009",
     "number": "UA03BT/HTR-1-009",
-    "name": "资料待补",
+    "name": "バッテラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-010",
     "number": "UA03BT/HTR-1-010",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-011",
     "number": "UA03BT/HTR-1-011",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-012_p1",
     "number": "UA03BT/HTR-1-012",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-012",
     "number": "UA03BT/HTR-1-012",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-013",
     "number": "UA03BT/HTR-1-013",
-    "name": "资料待补",
+    "name": "ビノールト",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-014",
     "number": "UA03BT/HTR-1-014",
-    "name": "资料待补",
+    "name": "プーハット",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-015",
     "number": "UA03BT/HTR-1-015",
-    "name": "资料待补",
+    "name": "レイザー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-016",
     "number": "UA03BT/HTR-1-016",
-    "name": "资料待补",
+    "name": "トラエモン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-017",
     "number": "UA03BT/HTR-1-017",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-018",
     "number": "UA03BT/HTR-1-018",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-019_p1",
     "number": "UA03BT/HTR-1-019",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-019",
     "number": "UA03BT/HTR-1-019",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-020",
     "number": "UA03BT/HTR-1-020",
-    "name": "资料待补",
+    "name": "ゲンスルー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-021",
     "number": "UA03BT/HTR-1-021",
-    "name": "资料待补",
+    "name": "ゲンスルー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-022",
     "number": "UA03BT/HTR-1-022",
-    "name": "资料待补",
+    "name": "ゲンスルー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-023_p1",
     "number": "UA03BT/HTR-1-023",
-    "name": "资料待补",
+    "name": "ゲンスルー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-023",
     "number": "UA03BT/HTR-1-023",
-    "name": "资料待补",
+    "name": "ゲンスルー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-024",
     "number": "UA03BT/HTR-1-024",
-    "name": "资料待补",
+    "name": "サブ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-025",
     "number": "UA03BT/HTR-1-025",
-    "name": "资料待补",
+    "name": "バラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-026",
     "number": "UA03BT/HTR-1-026",
-    "name": "资料待补",
+    "name": "一坪の海岸線",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-027_p1",
     "number": "UA03BT/HTR-1-027",
-    "name": "资料待补",
+    "name": "リスキーダイス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-027",
     "number": "UA03BT/HTR-1-027",
-    "name": "资料待补",
+    "name": "リスキーダイス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-028",
     "number": "UA03BT/HTR-1-028",
-    "name": "资料待补",
+    "name": "聖騎士の首飾り",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-029",
     "number": "UA03BT/HTR-1-029",
-    "name": "资料待补",
+    "name": "大天使の息吹",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-030",
     "number": "UA03BT/HTR-1-030",
-    "name": "资料待补",
+    "name": "同行",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-031_p1",
     "number": "UA03BT/HTR-1-031",
-    "name": "资料待补",
+    "name": "ジャジャン拳",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-031",
     "number": "UA03BT/HTR-1-031",
-    "name": "资料待补",
+    "name": "ジャジャン拳",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-032_p1",
     "number": "UA03BT/HTR-1-032",
-    "name": "资料待补",
+    "name": "ビスケの修行",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-032",
     "number": "UA03BT/HTR-1-032",
-    "name": "资料待补",
+    "name": "ビスケの修行",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-033_p1",
     "number": "UA03BT/HTR-1-033",
-    "name": "资料待补",
+    "name": "解放",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-033",
     "number": "UA03BT/HTR-1-033",
-    "name": "资料待补",
+    "name": "解放",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-034_p1",
     "number": "UA03BT/HTR-1-034",
-    "name": "资料待补",
+    "name": "ウボォーギン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-034",
     "number": "UA03BT/HTR-1-034",
-    "name": "资料待补",
+    "name": "ウボォーギン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-035",
     "number": "UA03BT/HTR-1-035",
-    "name": "资料待补",
+    "name": "クロロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-036",
     "number": "UA03BT/HTR-1-036",
-    "name": "资料待补",
+    "name": "クロロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-037_p1",
     "number": "UA03BT/HTR-1-037",
-    "name": "资料待补",
+    "name": "クロロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-037",
     "number": "UA03BT/HTR-1-037",
-    "name": "资料待补",
+    "name": "クロロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-038",
     "number": "UA03BT/HTR-1-038",
-    "name": "资料待补",
+    "name": "シズク",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-039",
     "number": "UA03BT/HTR-1-039",
-    "name": "资料待补",
+    "name": "シャルナーク",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-040",
     "number": "UA03BT/HTR-1-040",
-    "name": "资料待补",
+    "name": "ノブナガ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-041",
     "number": "UA03BT/HTR-1-041",
-    "name": "资料待补",
+    "name": "パクノダ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-042",
     "number": "UA03BT/HTR-1-042",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-043_p1",
     "number": "UA03BT/HTR-1-043",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-043",
     "number": "UA03BT/HTR-1-043",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-044",
     "number": "UA03BT/HTR-1-044",
-    "name": "资料待补",
+    "name": "フィンクス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-045_p1",
     "number": "UA03BT/HTR-1-045",
-    "name": "资料待补",
+    "name": "フェイタン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-045",
     "number": "UA03BT/HTR-1-045",
-    "name": "资料待补",
+    "name": "フェイタン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-046",
     "number": "UA03BT/HTR-1-046",
-    "name": "资料待补",
+    "name": "フランクリン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-047",
     "number": "UA03BT/HTR-1-047",
-    "name": "资料待补",
+    "name": "ボノレノフ＆コルトピ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-048",
     "number": "UA03BT/HTR-1-048",
-    "name": "资料待补",
+    "name": "マチ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-049",
     "number": "UA03BT/HTR-1-049",
-    "name": "资料待补",
+    "name": "イルミ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-050_p1",
     "number": "UA03BT/HTR-1-050",
-    "name": "资料待补",
+    "name": "イルミ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-050",
     "number": "UA03BT/HTR-1-050",
-    "name": "资料待补",
+    "name": "イルミ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-051",
     "number": "UA03BT/HTR-1-051",
-    "name": "资料待补",
+    "name": "カルト",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-052",
     "number": "UA03BT/HTR-1-052",
-    "name": "资料待补",
+    "name": "キキョウ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-053",
     "number": "UA03BT/HTR-1-053",
-    "name": "资料待补",
+    "name": "ギタラクル",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-054",
     "number": "UA03BT/HTR-1-054",
-    "name": "资料待补",
+    "name": "ゴトー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-055",
     "number": "UA03BT/HTR-1-055",
-    "name": "资料待补",
+    "name": "シルバ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-056_p1",
     "number": "UA03BT/HTR-1-056",
-    "name": "资料待补",
+    "name": "シルバ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-056",
     "number": "UA03BT/HTR-1-056",
-    "name": "资料待补",
+    "name": "シルバ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-057",
     "number": "UA03BT/HTR-1-057",
-    "name": "资料待补",
+    "name": "ゼノ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-058",
     "number": "UA03BT/HTR-1-058",
-    "name": "资料待补",
+    "name": "ゼブロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-059",
     "number": "UA03BT/HTR-1-059",
-    "name": "资料待补",
+    "name": "ミケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-060",
     "number": "UA03BT/HTR-1-060",
-    "name": "资料待补",
+    "name": "ミルキ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-061",
     "number": "UA03BT/HTR-1-061",
-    "name": "资料待补",
+    "name": "試しの門",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-062_p1",
     "number": "UA03BT/HTR-1-062",
-    "name": "资料待补",
+    "name": "裏社会の住人",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-062",
     "number": "UA03BT/HTR-1-062",
-    "name": "资料待补",
+    "name": "裏社会の住人",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-063",
     "number": "UA03BT/HTR-1-063",
-    "name": "资料待补",
+    "name": "おそろしく速い手刀",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-064",
     "number": "UA03BT/HTR-1-064",
-    "name": "资料待补",
+    "name": "蜘蛛の刺青",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-065_p1",
     "number": "UA03BT/HTR-1-065",
-    "name": "资料待补",
+    "name": "盗賊の極意",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-065",
     "number": "UA03BT/HTR-1-065",
-    "name": "资料待补",
+    "name": "盗賊の極意",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-066_p1",
     "number": "UA03BT/HTR-1-066",
-    "name": "资料待补",
+    "name": "龍頭戯画",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-066",
     "number": "UA03BT/HTR-1-066",
-    "name": "资料待补",
+    "name": "龍頭戯画",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-067",
     "number": "UA03BT/HTR-1-067",
-    "name": "资料待补",
+    "name": "伸縮自在の愛",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-068",
     "number": "UA03BT/HTR-1-068",
-    "name": "资料待补",
+    "name": "陰獣",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-069",
     "number": "UA03BT/HTR-1-069",
-    "name": "资料待补",
+    "name": "ウイング",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-070",
     "number": "UA03BT/HTR-1-070",
-    "name": "资料待补",
+    "name": "凶狸狐",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-071",
     "number": "UA03BT/HTR-1-071",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-072",
     "number": "UA03BT/HTR-1-072",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-073_p1",
     "number": "UA03BT/HTR-1-073",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-073",
     "number": "UA03BT/HTR-1-073",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-074_p1",
     "number": "UA03BT/HTR-1-074",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-074",
     "number": "UA03BT/HTR-1-074",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-075",
     "number": "UA03BT/HTR-1-075",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-076",
     "number": "UA03BT/HTR-1-076",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-077",
     "number": "UA03BT/HTR-1-077",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-078_p1",
     "number": "UA03BT/HTR-1-078",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-078_p2",
     "number": "UA03BT/HTR-1-078",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-078",
     "number": "UA03BT/HTR-1-078",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-079",
     "number": "UA03BT/HTR-1-079",
-    "name": "资料待补",
+    "name": "サトツ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-080",
     "number": "UA03BT/HTR-1-080",
-    "name": "资料待补",
+    "name": "ジョネス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-081",
     "number": "UA03BT/HTR-1-081",
-    "name": "资料待补",
+    "name": "ゼパイル",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-082",
     "number": "UA03BT/HTR-1-082",
-    "name": "资料待补",
+    "name": "センリツ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-083",
     "number": "UA03BT/HTR-1-083",
-    "name": "资料待补",
+    "name": "トンパ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-084",
     "number": "UA03BT/HTR-1-084",
-    "name": "资料待补",
+    "name": "ネオン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-085",
     "number": "UA03BT/HTR-1-085",
-    "name": "资料待补",
+    "name": "ネテロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-086",
     "number": "UA03BT/HTR-1-086",
-    "name": "资料待补",
+    "name": "バショウ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-087",
     "number": "UA03BT/HTR-1-087",
-    "name": "资料待补",
+    "name": "ハンゾー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-088",
     "number": "UA03BT/HTR-1-088",
-    "name": "资料待补",
+    "name": "ポックル",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-089",
     "number": "UA03BT/HTR-1-089",
-    "name": "资料待补",
+    "name": "ポンズ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-090",
     "number": "UA03BT/HTR-1-090",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-091_p1",
     "number": "UA03BT/HTR-1-091",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-091",
     "number": "UA03BT/HTR-1-091",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-092_p1",
     "number": "UA03BT/HTR-1-092",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-092",
     "number": "UA03BT/HTR-1-092",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-093_p1",
     "number": "UA03BT/HTR-1-093",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-093",
     "number": "UA03BT/HTR-1-093",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-094_p1",
     "number": "UA03BT/HTR-1-094",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-094",
     "number": "UA03BT/HTR-1-094",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-095",
     "number": "UA03BT/HTR-1-095",
-    "name": "资料待补",
+    "name": "天空闘技場",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-096_p1",
     "number": "UA03BT/HTR-1-096",
-    "name": "资料待补",
+    "name": "絶対時間",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-096",
     "number": "UA03BT/HTR-1-096",
-    "name": "资料待补",
+    "name": "絶対時間",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-097",
     "number": "UA03BT/HTR-1-097",
-    "name": "资料待补",
+    "name": "釣り竿",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-098",
     "number": "UA03BT/HTR-1-098",
-    "name": "资料待补",
+    "name": "ドキドキ2択クイズ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-099_p1",
     "number": "UA03BT/HTR-1-099",
-    "name": "资料待补",
+    "name": "ハンターライセンス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-099",
     "number": "UA03BT/HTR-1-099",
-    "name": "资料待补",
+    "name": "ハンターライセンス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-100",
     "number": "UA03BT/HTR-1-100",
-    "name": "资料待补",
+    "name": "水見式",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-ap01",
     "number": "UA03BT/HTR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-ap02",
     "number": "UA03BT/HTR-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-ap03",
     "number": "UA03BT/HTR-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-ap04",
     "number": "UA03BT/HTR-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-ap05",
     "number": "UA03BT/HTR-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-2-ua03bt_htr-1-ap06",
     "number": "UA03BT/HTR-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-1-030_p1",
     "number": "EX01BT/HTR-1-030",
-    "name": "资料待补",
+    "name": "同行",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-001",
     "number": "EX01BT/HTR-2-001",
-    "name": "资料待补",
+    "name": "アベンガネ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-002",
     "number": "EX01BT/HTR-2-002",
-    "name": "资料待补",
+    "name": "カヅスール",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-003",
     "number": "EX01BT/HTR-2-003",
-    "name": "资料待补",
+    "name": "ドゥーン",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-004",
     "number": "EX01BT/HTR-2-004",
-    "name": "资料待补",
+    "name": "リスト",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-005",
     "number": "EX01BT/HTR-2-005",
-    "name": "资料待补",
+    "name": "レイザー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-006",
     "number": "EX01BT/HTR-2-006",
-    "name": "资料待补",
+    "name": "レイザー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-007",
     "number": "EX01BT/HTR-2-007",
-    "name": "资料待补",
+    "name": "レイザー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-008_p1",
     "number": "EX01BT/HTR-2-008",
-    "name": "资料待补",
+    "name": "レイザー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-008",
     "number": "EX01BT/HTR-2-008",
-    "name": "资料待补",
+    "name": "レイザー",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-009",
     "number": "EX01BT/HTR-2-009",
-    "name": "资料待补",
+    "name": "No.13",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-010",
     "number": "EX01BT/HTR-2-010",
-    "name": "资料待补",
+    "name": "No.0",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-011",
     "number": "EX01BT/HTR-2-011",
-    "name": "资料待补",
+    "name": "レイザーの念獣",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-012",
     "number": "EX01BT/HTR-2-012",
-    "name": "资料待补",
+    "name": "ゴレイヌ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-013_p1",
     "number": "EX01BT/HTR-2-013",
-    "name": "资料待补",
+    "name": "ゴレイヌ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-013",
     "number": "EX01BT/HTR-2-013",
-    "name": "资料待补",
+    "name": "ゴレイヌ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-014",
     "number": "EX01BT/HTR-2-014",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-015_p1",
     "number": "EX01BT/HTR-2-015",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-015",
     "number": "EX01BT/HTR-2-015",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-016_p1",
     "number": "EX01BT/HTR-2-016",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-016",
     "number": "EX01BT/HTR-2-016",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-017",
     "number": "EX01BT/HTR-2-017",
-    "name": "资料待补",
+    "name": "ツェズゲラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-018",
     "number": "EX01BT/HTR-2-018",
-    "name": "资料待补",
+    "name": "ツェズゲラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-019",
     "number": "EX01BT/HTR-2-019",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-020",
     "number": "EX01BT/HTR-2-020",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-021_p1",
     "number": "EX01BT/HTR-2-021",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-021",
     "number": "EX01BT/HTR-2-021",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-022",
     "number": "EX01BT/HTR-2-022",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-023",
     "number": "EX01BT/HTR-2-023",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-024_p1",
     "number": "EX01BT/HTR-2-024",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-024_p2",
     "number": "EX01BT/HTR-2-024",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-024",
     "number": "EX01BT/HTR-2-024",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-025",
     "number": "EX01BT/HTR-2-025",
-    "name": "资料待补",
+    "name": "黒の賢人",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-026",
     "number": "EX01BT/HTR-2-026",
-    "name": "资料待补",
+    "name": "白の賢人",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-027",
     "number": "EX01BT/HTR-2-027",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-028",
     "number": "EX01BT/HTR-2-028",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-029_p1",
     "number": "EX01BT/HTR-2-029",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-029",
     "number": "EX01BT/HTR-2-029",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-030",
     "number": "EX01BT/HTR-2-030",
-    "name": "资料待补",
+    "name": "ドッジボールコート",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-031",
     "number": "EX01BT/HTR-2-031",
-    "name": "资料待补",
+    "name": "合体",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-032",
     "number": "EX01BT/HTR-2-032",
-    "name": "资料待补",
+    "name": "カンペキに勝つ♣だろ？ゴン♥",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-033",
     "number": "EX01BT/HTR-2-033",
-    "name": "资料待补",
+    "name": "垂直跳び",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-034",
     "number": "EX01BT/HTR-2-034",
-    "name": "资料待补",
+    "name": "スパイク",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-035",
     "number": "EX01BT/HTR-2-035",
-    "name": "资料待补",
+    "name": "バック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-036",
     "number": "EX01BT/HTR-2-036",
-    "name": "资料待补",
+    "name": "ビスケのご飯",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-037",
     "number": "EX01BT/HTR-2-037",
-    "name": "资料待补",
+    "name": "レイザーと14人の悪魔",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-038",
     "number": "EX01BT/HTR-2-038",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-039",
     "number": "EX01BT/HTR-2-039",
-    "name": "资料待补",
+    "name": "バブルホース",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-040",
     "number": "EX01BT/HTR-2-040",
-    "name": "资料待补",
+    "name": "ビスケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-041",
     "number": "EX01BT/HTR-2-041",
-    "name": "资料待补",
+    "name": "マリモッチ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-042",
     "number": "EX01BT/HTR-2-042",
-    "name": "资料待补",
+    "name": "モタリケ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-043_p1",
     "number": "EX01BT/HTR-2-043",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-043",
     "number": "EX01BT/HTR-2-043",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-044",
     "number": "EX01BT/HTR-2-044",
-    "name": "资料待补",
+    "name": "ゲンスルー組",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-045",
     "number": "EX01BT/HTR-2-045",
-    "name": "资料待补",
+    "name": "サブ＆バラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-046",
     "number": "EX01BT/HTR-2-046",
-    "name": "资料待补",
+    "name": "アウト―!!",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-047",
     "number": "EX01BT/HTR-2-047",
-    "name": "资料待补",
+    "name": "擬態",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-048",
     "number": "EX01BT/HTR-2-048",
-    "name": "资料待补",
+    "name": "再来",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-049_p1",
     "number": "EX01BT/HTR-2-049",
-    "name": "资料待补",
+    "name": "ブループラネット",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-049",
     "number": "EX01BT/HTR-2-049",
-    "name": "资料待补",
+    "name": "ブループラネット",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-050_p1",
     "number": "EX01BT/HTR-2-050",
-    "name": "资料待补",
+    "name": "クロロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-050",
     "number": "EX01BT/HTR-2-050",
-    "name": "资料待补",
+    "name": "クロロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-051",
     "number": "EX01BT/HTR-2-051",
-    "name": "资料待补",
+    "name": "コルトピ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-052",
     "number": "EX01BT/HTR-2-052",
-    "name": "资料待补",
+    "name": "シャルナーク",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-053_p1",
     "number": "EX01BT/HTR-2-053",
-    "name": "资料待补",
+    "name": "ノブナガ＆マチ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-053",
     "number": "EX01BT/HTR-2-053",
-    "name": "资料待补",
+    "name": "ノブナガ＆マチ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-054_p1",
     "number": "EX01BT/HTR-2-054",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-054",
     "number": "EX01BT/HTR-2-054",
-    "name": "资料待补",
+    "name": "ヒソカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-055_p1",
     "number": "EX01BT/HTR-2-055",
-    "name": "资料待补",
+    "name": "イルミ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-055",
     "number": "EX01BT/HTR-2-055",
-    "name": "资料待补",
+    "name": "イルミ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-056",
     "number": "EX01BT/HTR-2-056",
-    "name": "资料待补",
+    "name": "カナリア",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-057",
     "number": "EX01BT/HTR-2-057",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-058",
     "number": "EX01BT/HTR-2-058",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-059_p1",
     "number": "EX01BT/HTR-2-059",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-059",
     "number": "EX01BT/HTR-2-059",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-060",
     "number": "EX01BT/HTR-2-060",
-    "name": "资料待补",
+    "name": "家族の誓い",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-061",
     "number": "EX01BT/HTR-2-061",
-    "name": "资料待补",
+    "name": "鎮魂歌",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-062",
     "number": "EX01BT/HTR-2-062",
-    "name": "资料待补",
+    "name": "ウイング",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-063",
     "number": "EX01BT/HTR-2-063",
-    "name": "资料待补",
+    "name": "カストロ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-064",
     "number": "EX01BT/HTR-2-064",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-065_p1",
     "number": "EX01BT/HTR-2-065",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-065",
     "number": "EX01BT/HTR-2-065",
-    "name": "资料待补",
+    "name": "クラピカ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-066_p1",
     "number": "EX01BT/HTR-2-066",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-066",
     "number": "EX01BT/HTR-2-066",
-    "name": "资料待补",
+    "name": "ゴン＝フリークス",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-067",
     "number": "EX01BT/HTR-2-067",
-    "name": "资料待补",
+    "name": "スクワラ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-068",
     "number": "EX01BT/HTR-2-068",
-    "name": "资料待补",
+    "name": "ズシ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-069",
     "number": "EX01BT/HTR-2-069",
-    "name": "资料待补",
+    "name": "ダルツォルネ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-070_p1",
     "number": "EX01BT/HTR-2-070",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-070",
     "number": "EX01BT/HTR-2-070",
-    "name": "资料待补",
+    "name": "レオリオ",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-071",
     "number": "EX01BT/HTR-2-071",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-072",
     "number": "EX01BT/HTR-2-072",
-    "name": "资料待补",
+    "name": "キルア＝ゾルディック",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-073",
     "number": "EX01BT/HTR-2-073",
-    "name": "资料待补",
+    "name": "制約と誓約",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-ap01",
     "number": "EX01BT/HTR-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-ap02",
     "number": "EX01BT/HTR-2-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-ap03",
     "number": "EX01BT/HTR-2-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const hunterXHunterCards: Card[] = [
   {
     "id": "hunter-x-hunter-3-ex01bt_htr-2-ap04",
     "number": "EX01BT/HTR-2-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
     "nameZh": "",
     "series": "HUNTER×HUNTER",
     "color": "资料待补",

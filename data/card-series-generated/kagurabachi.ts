@@ -4,7 +4,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-001_p1",
     "number": "UA46BT/KGR-1-001",
-    "name": "资料待补",
+    "name": "漣 京羅",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-001",
     "number": "UA46BT/KGR-1-001",
-    "name": "资料待补",
+    "name": "漣 京羅",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-002",
     "number": "UA46BT/KGR-1-002",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-003",
     "number": "UA46BT/KGR-1-003",
-    "name": "资料待补",
+    "name": "座村 イヲリ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-004",
     "number": "UA46BT/KGR-1-004",
-    "name": "资料待补",
+    "name": "座村 イヲリ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-005_p1",
     "number": "UA46BT/KGR-1-005",
-    "name": "资料待补",
+    "name": "座村 イヲリ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-005",
     "number": "UA46BT/KGR-1-005",
-    "name": "资料待补",
+    "name": "座村 イヲリ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-006_p1",
     "number": "UA46BT/KGR-1-006",
-    "name": "资料待补",
+    "name": "座村 イヲリ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-006",
     "number": "UA46BT/KGR-1-006",
-    "name": "资料待补",
+    "name": "座村 イヲリ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-007",
     "number": "UA46BT/KGR-1-007",
-    "name": "资料待补",
+    "name": "柴 登吾",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-008",
     "number": "UA46BT/KGR-1-008",
-    "name": "资料待补",
+    "name": "双城 厳一",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-009",
     "number": "UA46BT/KGR-1-009",
-    "name": "资料待补",
+    "name": "双城 厳一",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-010",
     "number": "UA46BT/KGR-1-010",
-    "name": "资料待补",
+    "name": "双城 厳一",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-011_p1",
     "number": "UA46BT/KGR-1-011",
-    "name": "资料待补",
+    "name": "双城 厳一",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-011",
     "number": "UA46BT/KGR-1-011",
-    "name": "资料待补",
+    "name": "双城 厳一",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-012",
     "number": "UA46BT/KGR-1-012",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-013",
     "number": "UA46BT/KGR-1-013",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-014_p1",
     "number": "UA46BT/KGR-1-014",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-014",
     "number": "UA46BT/KGR-1-014",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-015_p1",
     "number": "UA46BT/KGR-1-015",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-015_p2",
     "number": "UA46BT/KGR-1-015",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-015",
     "number": "UA46BT/KGR-1-015",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-016",
     "number": "UA46BT/KGR-1-016",
-    "name": "资料待补",
+    "name": "漆羽 洋児",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-017_p1",
     "number": "UA46BT/KGR-1-017",
-    "name": "资料待补",
+    "name": "漆羽 洋児",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-017",
     "number": "UA46BT/KGR-1-017",
-    "name": "资料待补",
+    "name": "漆羽 洋児",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-018_p1",
     "number": "UA46BT/KGR-1-018",
-    "name": "资料待补",
+    "name": "漆羽 洋児",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-018_p2",
     "number": "UA46BT/KGR-1-018",
-    "name": "资料待补",
+    "name": "漆羽 洋児",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-018",
     "number": "UA46BT/KGR-1-018",
-    "name": "资料待补",
+    "name": "漆羽 洋児",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-019",
     "number": "UA46BT/KGR-1-019",
-    "name": "资料待补",
+    "name": "座村 清市",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-020_p1",
     "number": "UA46BT/KGR-1-020",
-    "name": "资料待补",
+    "name": "座村 清市",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-020",
     "number": "UA46BT/KGR-1-020",
-    "name": "资料待补",
+    "name": "座村 清市",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-021_p1",
     "number": "UA46BT/KGR-1-021",
-    "name": "资料待补",
+    "name": "座村 清市",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-021",
     "number": "UA46BT/KGR-1-021",
-    "name": "资料待补",
+    "name": "座村 清市",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-022",
     "number": "UA46BT/KGR-1-022",
-    "name": "资料待补",
+    "name": "漣 円慈",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-023",
     "number": "UA46BT/KGR-1-023",
-    "name": "资料待补",
+    "name": "漣 宗也",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-024",
     "number": "UA46BT/KGR-1-024",
-    "name": "资料待补",
+    "name": "漣 珠紀",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-025",
     "number": "UA46BT/KGR-1-025",
-    "name": "资料待补",
+    "name": "漣 天理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-026",
     "number": "UA46BT/KGR-1-026",
-    "name": "资料待补",
+    "name": "久々李",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-027",
     "number": "UA46BT/KGR-1-027",
-    "name": "资料待补",
+    "name": "斗斗",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-028",
     "number": "UA46BT/KGR-1-028",
-    "name": "资料待补",
+    "name": "昼彦",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-029_p1",
     "number": "UA46BT/KGR-1-029",
-    "name": "资料待补",
+    "name": "昼彦",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-029",
     "number": "UA46BT/KGR-1-029",
-    "name": "资料待补",
+    "name": "昼彦",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-030",
     "number": "UA46BT/KGR-1-030",
-    "name": "资料待补",
+    "name": "幽",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-031",
     "number": "UA46BT/KGR-1-031",
-    "name": "资料待补",
+    "name": "炭",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-032",
     "number": "UA46BT/KGR-1-032",
-    "name": "资料待补",
+    "name": "杢",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-033",
     "number": "UA46BT/KGR-1-033",
-    "name": "资料待补",
+    "name": "郎",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-034",
     "number": "UA46BT/KGR-1-034",
-    "name": "资料待补",
+    "name": "楽座市",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-035",
     "number": "UA46BT/KGR-1-035",
-    "name": "资料待补",
+    "name": "雫天石",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-036",
     "number": "UA46BT/KGR-1-036",
-    "name": "资料待补",
+    "name": "血鶴",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-037",
     "number": "UA46BT/KGR-1-037",
-    "name": "资料待补",
+    "name": "毘灼",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-038",
     "number": "UA46BT/KGR-1-038",
-    "name": "资料待补",
+    "name": "学校生活を守りたい",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-039_p1",
     "number": "UA46BT/KGR-1-039",
-    "name": "资料待补",
+    "name": "居合白禊流",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-039",
     "number": "UA46BT/KGR-1-039",
-    "name": "资料待补",
+    "name": "居合白禊流",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-040",
     "number": "UA46BT/KGR-1-040",
-    "name": "资料待补",
+    "name": "刳雲 鳴",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-041",
     "number": "UA46BT/KGR-1-041",
-    "name": "资料待补",
+    "name": "勾罪 蜈",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-042",
     "number": "UA46BT/KGR-1-042",
-    "name": "资料待补",
+    "name": "鏡凪 シャル",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-043_p1",
     "number": "UA46BT/KGR-1-043",
-    "name": "资料待补",
+    "name": "鏡凪 シャル",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-043",
     "number": "UA46BT/KGR-1-043",
-    "name": "资料待补",
+    "name": "鏡凪 シャル",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-044",
     "number": "UA46BT/KGR-1-044",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-045",
     "number": "UA46BT/KGR-1-045",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-046_p1",
     "number": "UA46BT/KGR-1-046",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-046",
     "number": "UA46BT/KGR-1-046",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-047_p1",
     "number": "UA46BT/KGR-1-047",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-047_p2",
     "number": "UA46BT/KGR-1-047",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-047",
     "number": "UA46BT/KGR-1-047",
-    "name": "资料待补",
+    "name": "漣 伯理",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-048",
     "number": "UA46BT/KGR-1-048",
-    "name": "资料待补",
+    "name": "柴 登吾",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-049_p1",
     "number": "UA46BT/KGR-1-049",
-    "name": "资料待补",
+    "name": "柴 登吾",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-049",
     "number": "UA46BT/KGR-1-049",
-    "name": "资料待补",
+    "name": "柴 登吾",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-050_p1",
     "number": "UA46BT/KGR-1-050",
-    "name": "资料待补",
+    "name": "柴 登吾",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-050",
     "number": "UA46BT/KGR-1-050",
-    "name": "资料待补",
+    "name": "柴 登吾",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-051",
     "number": "UA46BT/KGR-1-051",
-    "name": "资料待补",
+    "name": "ヒナオ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-052",
     "number": "UA46BT/KGR-1-052",
-    "name": "资料待补",
+    "name": "ヒナオ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-053",
     "number": "UA46BT/KGR-1-053",
-    "name": "资料待补",
+    "name": "Mr.イナズマ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-054",
     "number": "UA46BT/KGR-1-054",
-    "name": "资料待补",
+    "name": "六平 国重",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-055",
     "number": "UA46BT/KGR-1-055",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-056",
     "number": "UA46BT/KGR-1-056",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-057_p1",
     "number": "UA46BT/KGR-1-057",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-057",
     "number": "UA46BT/KGR-1-057",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-058_p1",
     "number": "UA46BT/KGR-1-058",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-058",
     "number": "UA46BT/KGR-1-058",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-059_p1",
     "number": "UA46BT/KGR-1-059",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-059",
     "number": "UA46BT/KGR-1-059",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-060_p1",
     "number": "UA46BT/KGR-1-060",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-060_p2",
     "number": "UA46BT/KGR-1-060",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-060",
     "number": "UA46BT/KGR-1-060",
-    "name": "资料待补",
+    "name": "六平 千鉱",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-061",
     "number": "UA46BT/KGR-1-061",
-    "name": "资料待补",
+    "name": "薊 奏士郎",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-062_p1",
     "number": "UA46BT/KGR-1-062",
-    "name": "资料待补",
+    "name": "薊 奏士郎",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-062",
     "number": "UA46BT/KGR-1-062",
-    "name": "资料待补",
+    "name": "薊 奏士郎",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-063",
     "number": "UA46BT/KGR-1-063",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-064",
     "number": "UA46BT/KGR-1-064",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-065",
     "number": "UA46BT/KGR-1-065",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-066_p1",
     "number": "UA46BT/KGR-1-066",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-066",
     "number": "UA46BT/KGR-1-066",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-067_p1",
     "number": "UA46BT/KGR-1-067",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-067",
     "number": "UA46BT/KGR-1-067",
-    "name": "资料待补",
+    "name": "香刈 緋雪",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-068",
     "number": "UA46BT/KGR-1-068",
-    "name": "资料待补",
+    "name": "美原 多福",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-069",
     "number": "UA46BT/KGR-1-069",
-    "name": "资料待补",
+    "name": "美原 多福",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-070",
     "number": "UA46BT/KGR-1-070",
-    "name": "资料待补",
+    "name": "卯月 清彦",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-071",
     "number": "UA46BT/KGR-1-071",
-    "name": "资料待补",
+    "name": "笠原 誠",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-072",
     "number": "UA46BT/KGR-1-072",
-    "name": "资料待补",
+    "name": "具柄 一",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-073",
     "number": "UA46BT/KGR-1-073",
-    "name": "资料待补",
+    "name": "萩原 幾兎",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-074",
     "number": "UA46BT/KGR-1-074",
-    "name": "资料待补",
+    "name": "張間 梓弓",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-075",
     "number": "UA46BT/KGR-1-075",
-    "name": "资料待补",
+    "name": "真智 カザネ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-076",
     "number": "UA46BT/KGR-1-076",
-    "name": "资料待补",
+    "name": "神奈備本部",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-077",
     "number": "UA46BT/KGR-1-077",
-    "name": "资料待补",
+    "name": "“あの日”は俺の原動力だ より鮮明になった",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-078",
     "number": "UA46BT/KGR-1-078",
-    "name": "资料待补",
+    "name": "威葬",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-079",
     "number": "UA46BT/KGR-1-079",
-    "name": "资料待补",
+    "name": "炎骨 陸郎",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-080",
     "number": "UA46BT/KGR-1-080",
-    "name": "资料待补",
+    "name": "俺は奴らを斬らなきゃならない",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-081",
     "number": "UA46BT/KGR-1-081",
-    "name": "资料待补",
+    "name": "もう生微温いのはナシだ",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-082_p1",
     "number": "UA46BT/KGR-1-082",
-    "name": "资料待补",
+    "name": "淵天 涅",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-082",
     "number": "UA46BT/KGR-1-082",
-    "name": "资料待补",
+    "name": "淵天 涅",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2445,8 +2445,8 @@ export const kagurabachiCards: Card[] = [
   },
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap01_p1",
-    "number": "UA46BT/KGR-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UA46BT/KGR-1-AP01",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap01",
     "number": "UA46BT/KGR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap02",
     "number": "UA46BT/KGR-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap03",
     "number": "UA46BT/KGR-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap04",
     "number": "UA46BT/KGR-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap05",
     "number": "UA46BT/KGR-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap06",
     "number": "UA46BT/KGR-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap07",
     "number": "UA46BT/KGR-1-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap08",
     "number": "UA46BT/KGR-1-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap09",
     "number": "UA46BT/KGR-1-AP09",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap10",
     "number": "UA46BT/KGR-1-AP10",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap11",
     "number": "UA46BT/KGR-1-AP11",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap12",
     "number": "UA46BT/KGR-1-AP12",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const kagurabachiCards: Card[] = [
   {
     "id": "kagurabachi-ua46bt_kgr-1-ap13",
     "number": "UA46BT/KGR-1-AP13",
-    "name": "资料待补",
+    "name": "アクションポイントカード(カグラバチ)",
     "nameZh": "",
     "series": "神乐钵",
     "color": "资料待补",

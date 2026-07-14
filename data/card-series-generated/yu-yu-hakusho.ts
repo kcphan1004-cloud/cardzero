@@ -4,7 +4,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-035",
     "number": "UA21ST/YYH-1-035",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-045",
     "number": "UA21ST/YYH-1-045",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-049",
     "number": "UA21ST/YYH-1-049",
-    "name": "资料待补",
+    "name": "コエンマ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-055",
     "number": "UA21ST/YYH-1-055",
-    "name": "资料待补",
+    "name": "プー",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-057",
     "number": "UA21ST/YYH-1-057",
-    "name": "资料待补",
+    "name": "ぼたん",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-059",
     "number": "UA21ST/YYH-1-059",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-061",
     "number": "UA21ST/YYH-1-061",
-    "name": "资料待补",
+    "name": "雪村 螢子",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-064",
     "number": "UA21ST/YYH-1-064",
-    "name": "资料待补",
+    "name": "伊達にあの世は見てねぇぜ！",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-065",
     "number": "UA21ST/YYH-1-065",
-    "name": "资料待补",
+    "name": "霊丸",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-101",
     "number": "UA21ST/YYH-1-101",
-    "name": "资料待补",
+    "name": "浦飯 温子",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-102",
     "number": "UA21ST/YYH-1-102",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-103",
     "number": "UA21ST/YYH-1-103",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-104",
     "number": "UA21ST/YYH-1-104",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-105",
     "number": "UA21ST/YYH-1-105",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-106",
     "number": "UA21ST/YYH-1-106",
-    "name": "资料待补",
+    "name": "桑原 静流",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-107",
     "number": "UA21ST/YYH-1-107",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-108",
     "number": "UA21ST/YYH-1-108",
-    "name": "资料待补",
+    "name": "皿屋敷中学校",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-109",
     "number": "UA21ST/YYH-1-109",
-    "name": "资料待补",
+    "name": "霊界探偵",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-110_p1",
     "number": "UA21ST/YYH-1-110",
-    "name": "资料待补",
+    "name": "陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-110",
     "number": "UA21ST/YYH-1-110",
-    "name": "资料待补",
+    "name": "陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-111_p1",
     "number": "UA21ST/YYH-1-111",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-111",
     "number": "UA21ST/YYH-1-111",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-112_p1",
     "number": "UA21ST/YYH-1-112",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-112",
     "number": "UA21ST/YYH-1-112",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-113_p1",
     "number": "UA21ST/YYH-1-113",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-113",
     "number": "UA21ST/YYH-1-113",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-ua21st_yyh-1-ap01",
     "number": "UA21ST/YYH-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-001",
     "number": "UA21BT/YYH-1-001",
-    "name": "资料待补",
+    "name": "美しい魔闘家鈴木",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-002",
     "number": "UA21BT/YYH-1-002",
-    "name": "资料待补",
+    "name": "美しい魔闘家鈴木",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-003",
     "number": "UA21BT/YYH-1-003",
-    "name": "资料待补",
+    "name": "裏浦島",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-004",
     "number": "UA21BT/YYH-1-004",
-    "name": "资料待补",
+    "name": "円＆魁＆梁",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-005",
     "number": "UA21BT/YYH-1-005",
-    "name": "资料待补",
+    "name": "怨爺",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-006",
     "number": "UA21BT/YYH-1-006",
-    "name": "资料待补",
+    "name": "鴉",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-007",
     "number": "UA21BT/YYH-1-007",
-    "name": "资料待补",
+    "name": "鴉",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-008_p1",
     "number": "UA21BT/YYH-1-008",
-    "name": "资料待补",
+    "name": "鴉",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-008",
     "number": "UA21BT/YYH-1-008",
-    "name": "资料待补",
+    "name": "鴉",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-009",
     "number": "UA21BT/YYH-1-009",
-    "name": "资料待补",
+    "name": "黒桃太郎",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-010",
     "number": "UA21BT/YYH-1-010",
-    "name": "资料待补",
+    "name": "玄武",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-011",
     "number": "UA21BT/YYH-1-011",
-    "name": "资料待补",
+    "name": "左京",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-012_p1",
     "number": "UA21BT/YYH-1-012",
-    "name": "资料待补",
+    "name": "死々若丸",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-012",
     "number": "UA21BT/YYH-1-012",
-    "name": "资料待补",
+    "name": "死々若丸",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-013",
     "number": "UA21BT/YYH-1-013",
-    "name": "资料待补",
+    "name": "陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-014",
     "number": "UA21BT/YYH-1-014",
-    "name": "资料待补",
+    "name": "陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-015_p1",
     "number": "UA21BT/YYH-1-015",
-    "name": "资料待补",
+    "name": "陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-015",
     "number": "UA21BT/YYH-1-015",
-    "name": "资料待补",
+    "name": "陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-016_p1",
     "number": "UA21BT/YYH-1-016",
-    "name": "资料待补",
+    "name": "朱雀",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-016",
     "number": "UA21BT/YYH-1-016",
-    "name": "资料待补",
+    "name": "朱雀",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-017",
     "number": "UA21BT/YYH-1-017",
-    "name": "资料待补",
+    "name": "青龍",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-018",
     "number": "UA21BT/YYH-1-018",
-    "name": "资料待补",
+    "name": "是流",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-019_p1",
     "number": "UA21BT/YYH-1-019",
-    "name": "资料待补",
+    "name": "酎",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-019",
     "number": "UA21BT/YYH-1-019",
-    "name": "资料待补",
+    "name": "酎",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-020",
     "number": "UA21BT/YYH-1-020",
-    "name": "资料待补",
+    "name": "凍矢",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-021",
     "number": "UA21BT/YYH-1-021",
-    "name": "资料待补",
+    "name": "Dr.イチガキ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-022_p1",
     "number": "UA21BT/YYH-1-022",
-    "name": "资料待补",
+    "name": "戸愚呂（兄）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-022",
     "number": "UA21BT/YYH-1-022",
-    "name": "资料待补",
+    "name": "戸愚呂（兄）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-023",
     "number": "UA21BT/YYH-1-023",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-024_p1",
     "number": "UA21BT/YYH-1-024",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-024",
     "number": "UA21BT/YYH-1-024",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-025_p1",
     "number": "UA21BT/YYH-1-025",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-025",
     "number": "UA21BT/YYH-1-025",
-    "name": "资料待补",
+    "name": "戸愚呂（弟）",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-026",
     "number": "UA21BT/YYH-1-026",
-    "name": "资料待补",
+    "name": "白虎",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-027",
     "number": "UA21BT/YYH-1-027",
-    "name": "资料待补",
+    "name": "武威",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-028",
     "number": "UA21BT/YYH-1-028",
-    "name": "资料待补",
+    "name": "鈴駒",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-029",
     "number": "UA21BT/YYH-1-029",
-    "name": "资料待补",
+    "name": "暗黒武術会",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-030",
     "number": "UA21BT/YYH-1-030",
-    "name": "资料待补",
+    "name": "修羅旋風拳",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-031",
     "number": "UA21BT/YYH-1-031",
-    "name": "资料待补",
+    "name": "追跡爆弾",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-032",
     "number": "UA21BT/YYH-1-032",
-    "name": "资料待补",
+    "name": "100%中の100%",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-033",
     "number": "UA21BT/YYH-1-033",
-    "name": "资料待补",
+    "name": "やるねェ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-034",
     "number": "UA21BT/YYH-1-034",
-    "name": "资料待补",
+    "name": "レインボーサイクロン",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-035",
     "number": "UA21BT/YYH-1-035",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-036",
     "number": "UA21BT/YYH-1-036",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-037_p1",
     "number": "UA21BT/YYH-1-037",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-037",
     "number": "UA21BT/YYH-1-037",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-038_p1",
     "number": "UA21BT/YYH-1-038",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-038_p2",
     "number": "UA21BT/YYH-1-038",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-038_p3",
     "number": "UA21BT/YYH-1-038",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-038",
     "number": "UA21BT/YYH-1-038",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-039",
     "number": "UA21BT/YYH-1-039",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-040",
     "number": "UA21BT/YYH-1-040",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-041",
     "number": "UA21BT/YYH-1-041",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-042_p1",
     "number": "UA21BT/YYH-1-042",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-042",
     "number": "UA21BT/YYH-1-042",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-043_p1",
     "number": "UA21BT/YYH-1-043",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-043_p2",
     "number": "UA21BT/YYH-1-043",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-043",
     "number": "UA21BT/YYH-1-043",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-044",
     "number": "UA21BT/YYH-1-044",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-045_p1",
     "number": "UA21BT/YYH-1-045",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-045",
     "number": "UA21BT/YYH-1-045",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-046",
     "number": "UA21BT/YYH-1-046",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-047_p1",
     "number": "UA21BT/YYH-1-047",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-047",
     "number": "UA21BT/YYH-1-047",
-    "name": "资料待补",
+    "name": "幻海",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-048",
     "number": "UA21BT/YYH-1-048",
-    "name": "资料待补",
+    "name": "コエンマ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-049",
     "number": "UA21BT/YYH-1-049",
-    "name": "资料待补",
+    "name": "コエンマ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-050_p1",
     "number": "UA21BT/YYH-1-050",
-    "name": "资料待补",
+    "name": "コエンマ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-050",
     "number": "UA21BT/YYH-1-050",
-    "name": "资料待补",
+    "name": "コエンマ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-051",
     "number": "UA21BT/YYH-1-051",
-    "name": "资料待补",
+    "name": "小兎",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-052",
     "number": "UA21BT/YYH-1-052",
-    "name": "资料待补",
+    "name": "樹里",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-053",
     "number": "UA21BT/YYH-1-053",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-054",
     "number": "UA21BT/YYH-1-054",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-055",
     "number": "UA21BT/YYH-1-055",
-    "name": "资料待补",
+    "name": "プー",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-056",
     "number": "UA21BT/YYH-1-056",
-    "name": "资料待补",
+    "name": "プー",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-057",
     "number": "UA21BT/YYH-1-057",
-    "name": "资料待补",
+    "name": "ぼたん",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-058_p1",
     "number": "UA21BT/YYH-1-058",
-    "name": "资料待补",
+    "name": "ぼたん",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-058",
     "number": "UA21BT/YYH-1-058",
-    "name": "资料待补",
+    "name": "ぼたん",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-059",
     "number": "UA21BT/YYH-1-059",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-060",
     "number": "UA21BT/YYH-1-060",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-061_p1",
     "number": "UA21BT/YYH-1-061",
-    "name": "资料待补",
+    "name": "雪村 螢子",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-061",
     "number": "UA21BT/YYH-1-061",
-    "name": "资料待补",
+    "name": "雪村 螢子",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-062",
     "number": "UA21BT/YYH-1-062",
-    "name": "资料待补",
+    "name": "瑠架",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-063",
     "number": "UA21BT/YYH-1-063",
-    "name": "资料待补",
+    "name": "選考会",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-064",
     "number": "UA21BT/YYH-1-064",
-    "name": "资料待补",
+    "name": "伊達にあの世は見てねぇぜ！",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-065",
     "number": "UA21BT/YYH-1-065",
-    "name": "资料待补",
+    "name": "霊丸",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-066",
     "number": "UA21BT/YYH-1-066",
-    "name": "资料待补",
+    "name": "霊剣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-067",
     "number": "UA21BT/YYH-1-067",
-    "name": "资料待补",
+    "name": "霊光鏡反衝",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-068",
     "number": "UA21BT/YYH-1-068",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-069",
     "number": "UA21BT/YYH-1-069",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-070",
     "number": "UA21BT/YYH-1-070",
-    "name": "资料待补",
+    "name": "浦飯 幽助",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-071",
     "number": "UA21BT/YYH-1-071",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-072_p1",
     "number": "UA21BT/YYH-1-072",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-072",
     "number": "UA21BT/YYH-1-072",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-073_p1",
     "number": "UA21BT/YYH-1-073",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-073_p2",
     "number": "UA21BT/YYH-1-073",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-073",
     "number": "UA21BT/YYH-1-073",
-    "name": "资料待补",
+    "name": "蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-074",
     "number": "UA21BT/YYH-1-074",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-075",
     "number": "UA21BT/YYH-1-075",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-076",
     "number": "UA21BT/YYH-1-076",
-    "name": "资料待补",
+    "name": "桑原 和真",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-077",
     "number": "UA21BT/YYH-1-077",
-    "name": "资料待补",
+    "name": "剛鬼",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-078",
     "number": "UA21BT/YYH-1-078",
-    "name": "资料待补",
+    "name": "剛鬼",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-079",
     "number": "UA21BT/YYH-1-079",
-    "name": "资料待补",
+    "name": "コエンマ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-080",
     "number": "UA21BT/YYH-1-080",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-081",
     "number": "UA21BT/YYH-1-081",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-082_p1",
     "number": "UA21BT/YYH-1-082",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-082",
     "number": "UA21BT/YYH-1-082",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-083_p1",
     "number": "UA21BT/YYH-1-083",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-083_p2",
     "number": "UA21BT/YYH-1-083",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-083",
     "number": "UA21BT/YYH-1-083",
-    "name": "资料待补",
+    "name": "飛影",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-084",
     "number": "UA21BT/YYH-1-084",
-    "name": "资料待补",
+    "name": "ぼたん",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-085",
     "number": "UA21BT/YYH-1-085",
-    "name": "资料待补",
+    "name": "ぼたん",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-086",
     "number": "UA21BT/YYH-1-086",
-    "name": "资料待补",
+    "name": "南野 志保利",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-087",
     "number": "UA21BT/YYH-1-087",
-    "name": "资料待补",
+    "name": "南野 秀一",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-088",
     "number": "UA21BT/YYH-1-088",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-089",
     "number": "UA21BT/YYH-1-089",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-090_p1",
     "number": "UA21BT/YYH-1-090",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-090",
     "number": "UA21BT/YYH-1-090",
-    "name": "资料待补",
+    "name": "雪菜",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-091_p1",
     "number": "UA21BT/YYH-1-091",
-    "name": "资料待补",
+    "name": "妖狐蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-091",
     "number": "UA21BT/YYH-1-091",
-    "name": "资料待补",
+    "name": "妖狐蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-092_p1",
     "number": "UA21BT/YYH-1-092",
-    "name": "资料待补",
+    "name": "妖狐蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-092",
     "number": "UA21BT/YYH-1-092",
-    "name": "资料待补",
+    "name": "妖狐蔵馬",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-093",
     "number": "UA21BT/YYH-1-093",
-    "name": "资料待补",
+    "name": "風華円舞陣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-094",
     "number": "UA21BT/YYH-1-094",
-    "name": "资料待补",
+    "name": "残像だ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-095",
     "number": "UA21BT/YYH-1-095",
-    "name": "资料待补",
+    "name": "シマネキ草",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-096",
     "number": "UA21BT/YYH-1-096",
-    "name": "资料待补",
+    "name": "邪王炎殺剣",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-097",
     "number": "UA21BT/YYH-1-097",
-    "name": "资料待补",
+    "name": "邪王炎殺黒龍波",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-098",
     "number": "UA21BT/YYH-1-098",
-    "name": "资料待补",
+    "name": "邪眼の力をなめるなよ",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-099",
     "number": "UA21BT/YYH-1-099",
-    "name": "资料待补",
+    "name": "闇の三大秘宝",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-100",
     "number": "UA21BT/YYH-1-100",
-    "name": "资料待补",
+    "name": "薔薇棘鞭刃",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap01",
     "number": "UA21BT/YYH-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap02",
     "number": "UA21BT/YYH-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap03",
     "number": "UA21BT/YYH-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap04",
     "number": "UA21BT/YYH-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap05",
     "number": "UA21BT/YYH-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap06",
     "number": "UA21BT/YYH-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const yuYuHakushoCards: Card[] = [
   {
     "id": "yu-yu-hakusho-2-ua21bt_yyh-1-ap07",
     "number": "UA21BT/YYH-1-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
     "nameZh": "",
     "series": "幽游白书",
     "color": "资料待补",

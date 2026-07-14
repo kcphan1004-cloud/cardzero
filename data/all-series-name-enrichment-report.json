@@ -1,0 +1,730 @@
+{
+  "generatedAt": "2026-07-14T16:26:22.046Z",
+  "manifestFiles": 111,
+  "manifestImageRecords": 10245,
+  "seriesFiles": 57,
+  "totalRows": 10362,
+  "totalUpdated": 0,
+  "totalAlreadyNamed": 10183,
+  "totalUnmatched": 179,
+  "unparsedAltCount": 63,
+  "series": [
+    {
+      "file": "100-girlfriends.ts",
+      "rows": 126,
+      "updated": 0,
+      "alreadyNamed": 120,
+      "unmatched": 6
+    },
+    {
+      "file": "2-5-dimensional-seduction.ts",
+      "rows": 118,
+      "updated": 0,
+      "alreadyNamed": 114,
+      "unmatched": 4
+    },
+    {
+      "file": "arknights.ts",
+      "rows": 269,
+      "updated": 0,
+      "alreadyNamed": 268,
+      "unmatched": 1
+    },
+    {
+      "file": "attack-on-titan.ts",
+      "rows": 268,
+      "updated": 0,
+      "alreadyNamed": 266,
+      "unmatched": 2
+    },
+    {
+      "file": "black-clover.ts",
+      "rows": 163,
+      "updated": 0,
+      "alreadyNamed": 161,
+      "unmatched": 2
+    },
+    {
+      "file": "bleach-thousand-year-blood-war.ts",
+      "rows": 262,
+      "updated": 0,
+      "alreadyNamed": 261,
+      "unmatched": 1
+    },
+    {
+      "file": "blue-lock.ts",
+      "rows": 166,
+      "updated": 0,
+      "alreadyNamed": 163,
+      "unmatched": 3
+    },
+    {
+      "file": "chained-soldier.ts",
+      "rows": 125,
+      "updated": 0,
+      "alreadyNamed": 125,
+      "unmatched": 0
+    },
+    {
+      "file": "chainsaw-man.ts",
+      "rows": 122,
+      "updated": 0,
+      "alreadyNamed": 122,
+      "unmatched": 0
+    },
+    {
+      "file": "code-geass-roze.ts",
+      "rows": 114,
+      "updated": 0,
+      "alreadyNamed": 114,
+      "unmatched": 0
+    },
+    {
+      "file": "code-geass.ts",
+      "rows": 251,
+      "updated": 0,
+      "alreadyNamed": 251,
+      "unmatched": 0
+    },
+    {
+      "file": "demon-slayer.ts",
+      "rows": 268,
+      "updated": 0,
+      "alreadyNamed": 267,
+      "unmatched": 1
+    },
+    {
+      "file": "dr-stone.ts",
+      "rows": 154,
+      "updated": 0,
+      "alreadyNamed": 154,
+      "unmatched": 0
+    },
+    {
+      "file": "eminence-in-shadow.ts",
+      "rows": 131,
+      "updated": 0,
+      "alreadyNamed": 131,
+      "unmatched": 0
+    },
+    {
+      "file": "evangelion.ts",
+      "rows": 163,
+      "updated": 0,
+      "alreadyNamed": 163,
+      "unmatched": 0
+    },
+    {
+      "file": "fullmetal-alchemist.ts",
+      "rows": 165,
+      "updated": 0,
+      "alreadyNamed": 165,
+      "unmatched": 0
+    },
+    {
+      "file": "gakuen-idolmaster.ts",
+      "rows": 287,
+      "updated": 0,
+      "alreadyNamed": 275,
+      "unmatched": 12
+    },
+    {
+      "file": "gamera-rebirth.ts",
+      "rows": 113,
+      "updated": 0,
+      "alreadyNamed": 111,
+      "unmatched": 2
+    },
+    {
+      "file": "gintama.ts",
+      "rows": 154,
+      "updated": 0,
+      "alreadyNamed": 154,
+      "unmatched": 0
+    },
+    {
+      "file": "haikyu.ts",
+      "rows": 161,
+      "updated": 0,
+      "alreadyNamed": 160,
+      "unmatched": 1
+    },
+    {
+      "file": "hunter-x-hunter.ts",
+      "rows": 250,
+      "updated": 0,
+      "alreadyNamed": 250,
+      "unmatched": 0
+    },
+    {
+      "file": "idolmaster-shiny-colors.ts",
+      "rows": 372,
+      "updated": 0,
+      "alreadyNamed": 372,
+      "unmatched": 0
+    },
+    {
+      "file": "inuyasha.ts",
+      "rows": 117,
+      "updated": 0,
+      "alreadyNamed": 117,
+      "unmatched": 0
+    },
+    {
+      "file": "jujutsu-kaisen.ts",
+      "rows": 265,
+      "updated": 0,
+      "alreadyNamed": 264,
+      "unmatched": 1
+    },
+    {
+      "file": "kagurabachi.ts",
+      "rows": 125,
+      "updated": 0,
+      "alreadyNamed": 125,
+      "unmatched": 0
+    },
+    {
+      "file": "kaiju-no.ts",
+      "rows": 116,
+      "updated": 0,
+      "alreadyNamed": 114,
+      "unmatched": 2
+    },
+    {
+      "file": "kamen-rider.ts",
+      "rows": 298,
+      "updated": 0,
+      "alreadyNamed": 297,
+      "unmatched": 1
+    },
+    {
+      "file": "kingdom.ts",
+      "rows": 169,
+      "updated": 0,
+      "alreadyNamed": 169,
+      "unmatched": 0
+    },
+    {
+      "file": "kinnikuman.ts",
+      "rows": 117,
+      "updated": 0,
+      "alreadyNamed": 117,
+      "unmatched": 0
+    },
+    {
+      "file": "macross.ts",
+      "rows": 289,
+      "updated": 0,
+      "alreadyNamed": 289,
+      "unmatched": 0
+    },
+    {
+      "file": "madoka-magica.ts",
+      "rows": 163,
+      "updated": 0,
+      "alreadyNamed": 161,
+      "unmatched": 2
+    },
+    {
+      "file": "me-and-roboco.ts",
+      "rows": 150,
+      "updated": 0,
+      "alreadyNamed": 150,
+      "unmatched": 0
+    },
+    {
+      "file": "monogatari-series.ts",
+      "rows": 174,
+      "updated": 0,
+      "alreadyNamed": 174,
+      "unmatched": 0
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "rows": 217,
+      "updated": 0,
+      "alreadyNamed": 120,
+      "unmatched": 97
+    },
+    {
+      "file": "my-hero-academia.ts",
+      "rows": 258,
+      "updated": 0,
+      "alreadyNamed": 255,
+      "unmatched": 3
+    },
+    {
+      "file": "nikke.ts",
+      "rows": 256,
+      "updated": 0,
+      "alreadyNamed": 255,
+      "unmatched": 1
+    },
+    {
+      "file": "one-punch-man.ts",
+      "rows": 162,
+      "updated": 0,
+      "alreadyNamed": 162,
+      "unmatched": 0
+    },
+    {
+      "file": "re-zero.ts",
+      "rows": 164,
+      "updated": 0,
+      "alreadyNamed": 164,
+      "unmatched": 0
+    },
+    {
+      "file": "rurouni-kenshin.ts",
+      "rows": 164,
+      "updated": 0,
+      "alreadyNamed": 164,
+      "unmatched": 0
+    },
+    {
+      "file": "sakamoto-days.ts",
+      "rows": 114,
+      "updated": 0,
+      "alreadyNamed": 114,
+      "unmatched": 0
+    },
+    {
+      "file": "series-570801.ts",
+      "rows": 12,
+      "updated": 0,
+      "alreadyNamed": 12,
+      "unmatched": 0
+    },
+    {
+      "file": "series-570901.ts",
+      "rows": 629,
+      "updated": 0,
+      "alreadyNamed": 605,
+      "unmatched": 24
+    },
+    {
+      "file": "shangri-la-frontier.ts",
+      "rows": 115,
+      "updated": 0,
+      "alreadyNamed": 113,
+      "unmatched": 2
+    },
+    {
+      "file": "shy.ts",
+      "rows": 114,
+      "updated": 0,
+      "alreadyNamed": 113,
+      "unmatched": 1
+    },
+    {
+      "file": "solo-leveling.ts",
+      "rows": 118,
+      "updated": 0,
+      "alreadyNamed": 118,
+      "unmatched": 0
+    },
+    {
+      "file": "sword-art-online.ts",
+      "rows": 275,
+      "updated": 0,
+      "alreadyNamed": 270,
+      "unmatched": 5
+    },
+    {
+      "file": "synduality-noir.ts",
+      "rows": 155,
+      "updated": 0,
+      "alreadyNamed": 154,
+      "unmatched": 1
+    },
+    {
+      "file": "tales-of-arise.ts",
+      "rows": 154,
+      "updated": 0,
+      "alreadyNamed": 154,
+      "unmatched": 0
+    },
+    {
+      "file": "tekken-7.ts",
+      "rows": 134,
+      "updated": 0,
+      "alreadyNamed": 134,
+      "unmatched": 0
+    },
+    {
+      "file": "tekken.ts",
+      "rows": 20,
+      "updated": 0,
+      "alreadyNamed": 20,
+      "unmatched": 0
+    },
+    {
+      "file": "tensura.ts",
+      "rows": 255,
+      "updated": 0,
+      "alreadyNamed": 254,
+      "unmatched": 1
+    },
+    {
+      "file": "to-love-ru.ts",
+      "rows": 135,
+      "updated": 0,
+      "alreadyNamed": 135,
+      "unmatched": 0
+    },
+    {
+      "file": "tokyo-ghoul.ts",
+      "rows": 173,
+      "updated": 0,
+      "alreadyNamed": 173,
+      "unmatched": 0
+    },
+    {
+      "file": "toriko.ts",
+      "rows": 155,
+      "updated": 0,
+      "alreadyNamed": 154,
+      "unmatched": 1
+    },
+    {
+      "file": "undead-unluck.ts",
+      "rows": 115,
+      "updated": 0,
+      "alreadyNamed": 113,
+      "unmatched": 2
+    },
+    {
+      "file": "wind-breaker.ts",
+      "rows": 120,
+      "updated": 0,
+      "alreadyNamed": 120,
+      "unmatched": 0
+    },
+    {
+      "file": "yu-yu-hakusho.ts",
+      "rows": 163,
+      "updated": 0,
+      "alreadyNamed": 163,
+      "unmatched": 0
+    }
+  ],
+  "unparsedAlt": [
+    {
+      "manifest": "100-girlfriends.images.json",
+      "alt": "UA26BT/RLY-1-AP01★ アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "localPath": "/cards/100-girlfriends/UA26BT_RLY-1-AP01_s.png"
+    },
+    {
+      "manifest": "100-girlfriends.images.json",
+      "alt": "UA26BT/RLY-1-AP02★ アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "localPath": "/cards/100-girlfriends/UA26BT_RLY-1-AP02_s.png"
+    },
+    {
+      "manifest": "100-girlfriends.images.json",
+      "alt": "UA26BT/RLY-1-AP03★ アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "localPath": "/cards/100-girlfriends/UA26BT_RLY-1-AP03_s.png"
+    },
+    {
+      "manifest": "100-girlfriends.images.json",
+      "alt": "UA26BT/RLY-1-AP04★ アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "localPath": "/cards/100-girlfriends/UA26BT_RLY-1-AP04_s.png"
+    },
+    {
+      "manifest": "100-girlfriends.images.json",
+      "alt": "UA26BT/RLY-1-AP05★ アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "localPath": "/cards/100-girlfriends/UA26BT_RLY-1-AP05_s.png"
+    },
+    {
+      "manifest": "100-girlfriends.images.json",
+      "alt": "UA26BT/RLY-1-AP06★ アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "localPath": "/cards/100-girlfriends/UA26BT_RLY-1-AP06_s.png"
+    },
+    {
+      "manifest": "2-5-dimensional-seduction.images.json",
+      "alt": "UA33BT/NGR-1-AP01★ アクションポイントカード(2.5次元の誘惑)",
+      "localPath": "/cards/2-5-dimensional-seduction/UA33BT_NGR-1-AP01_s.png"
+    },
+    {
+      "manifest": "2-5-dimensional-seduction.images.json",
+      "alt": "UA33BT/NGR-1-AP02★ アクションポイントカード(2.5次元の誘惑)",
+      "localPath": "/cards/2-5-dimensional-seduction/UA33BT_NGR-1-AP02_s.png"
+    },
+    {
+      "manifest": "2-5-dimensional-seduction.images.json",
+      "alt": "UA33BT/NGR-1-AP03★ アクションポイントカード(2.5次元の誘惑)",
+      "localPath": "/cards/2-5-dimensional-seduction/UA33BT_NGR-1-AP03_s.png"
+    },
+    {
+      "manifest": "2-5-dimensional-seduction.images.json",
+      "alt": "UA33BT/NGR-1-AP04★ アクションポイントカード(2.5次元の誘惑)",
+      "localPath": "/cards/2-5-dimensional-seduction/UA33BT_NGR-1-AP04_s.png"
+    },
+    {
+      "manifest": "arknights-2.images.json",
+      "alt": "UA30BT/ARK-1-AP01★ アクションポイントカード(アークナイツ)",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP01_s.png"
+    },
+    {
+      "manifest": "attack-on-titan-2.images.json",
+      "alt": "UA23BT/AOT-1-AP01★ アクションポイントカード(進撃の巨人)",
+      "localPath": "/cards/attack-on-titan-2/UA23BT_AOT-1-AP01_s.png"
+    },
+    {
+      "manifest": "attack-on-titan-2.images.json",
+      "alt": "UA23BT/AOT-1-AP02★ アクションポイントカード(進撃の巨人)",
+      "localPath": "/cards/attack-on-titan-2/UA23BT_AOT-1-AP02_s.png"
+    },
+    {
+      "manifest": "black-clover-2.images.json",
+      "alt": "UA20BT/BCV-1-AP01★ アクションポイントカード(ブラッククローバー)",
+      "localPath": "/cards/black-clover-2/UA20BT_BCV-1-AP01_s.png"
+    },
+    {
+      "manifest": "black-clover-2.images.json",
+      "alt": "UA20BT/BCV-1-AP02★ アクションポイントカード(ブラッククローバー)",
+      "localPath": "/cards/black-clover-2/UA20BT_BCV-1-AP02_s.png"
+    },
+    {
+      "manifest": "bleach-thousand-year-blood-war-3.images.json",
+      "alt": "EX07BT/BLC-2-AP01★ アクションポイントカード(BLEACH 千年血戦篇)",
+      "localPath": "/cards/bleach-thousand-year-blood-war-3/EX07BT_BLC-2-AP01_s.png"
+    },
+    {
+      "manifest": "blue-lock-2.images.json",
+      "alt": "UA12BT/BLK-1-029",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-029.png"
+    },
+    {
+      "manifest": "blue-lock-2.images.json",
+      "alt": "UA12BT/BLK-1-031",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-031.png"
+    },
+    {
+      "manifest": "blue-lock-2.images.json",
+      "alt": "UA12BT/BLK-1-031",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-031_p1.png"
+    },
+    {
+      "manifest": "demon-slayer-3.images.json",
+      "alt": "EX05BT/KMY-3-AP01★ アクションポイントカード(鬼滅の刃)",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-AP01_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP01★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP01_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP02★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP02_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP03★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP03_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP04★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP04_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP05★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP05_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP06★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP06_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP07★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP07_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP08★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP08_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP09★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP09_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP10★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP10_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP11★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP11_s.png"
+    },
+    {
+      "manifest": "gakuen-idolmaster.images.json",
+      "alt": "UA27BT/GIM-1-AP12★ アクションポイントカード(学園アイドルマスター)",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP12_s.png"
+    },
+    {
+      "manifest": "gamera-rebirth.images.json",
+      "alt": "UA22BT/GMR-1-AP01★ アクションポイントカード(GAMERA -Rebirth-)",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP01_s.png"
+    },
+    {
+      "manifest": "gamera-rebirth.images.json",
+      "alt": "UA22BT/GMR-1-AP02★ アクションポイントカード(GAMERA -Rebirth-)",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP02_s.png"
+    },
+    {
+      "manifest": "haikyu-2.images.json",
+      "alt": "UA19BT/HIQ-1-067",
+      "localPath": "/cards/haikyu-2/UA19BT_HIQ-1-067.png"
+    },
+    {
+      "manifest": "jujutsu-kaisen-3.images.json",
+      "alt": "EX04BT/JJK-3-AP01★ アクションポイントカード(呪術廻戦)",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP01_s.png"
+    },
+    {
+      "manifest": "kaiju-no-8.images.json",
+      "alt": "UA28BT/KJ8-1-AP01★ アクションポイントカード(怪獣８号)",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP01_s.png"
+    },
+    {
+      "manifest": "kaiju-no-8.images.json",
+      "alt": "UA28BT/KJ8-1-AP03★ アクションポイントカード(怪獣８号)",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP03_s.png"
+    },
+    {
+      "manifest": "kamen-rider-2.images.json",
+      "alt": "UA29BT/KMR-1-AP01★ アクションポイントカード(仮面ライダー)",
+      "localPath": "/cards/kamen-rider-2/UA29BT_KMR-1-AP01_s.png"
+    },
+    {
+      "manifest": "madoka-magica-2.images.json",
+      "alt": "UA31BT/MMM-1-AP01★ アクションポイントカード(魔法少女まどか☆マギカ)",
+      "localPath": "/cards/madoka-magica-2/UA31BT_MMM-1-AP01_s.png"
+    },
+    {
+      "manifest": "madoka-magica-2.images.json",
+      "alt": "UA31BT/MMM-1-AP02★ アクションポイントカード(魔法少女まどか☆マギカ)",
+      "localPath": "/cards/madoka-magica-2/UA31BT_MMM-1-AP02_s.png"
+    },
+    {
+      "manifest": "my-hero-academia-3.images.json",
+      "alt": "EX06BT/MHA-2-AP01★ アクションポイントカード(僕のヒーローアカデミア)",
+      "localPath": "/cards/my-hero-academia-3/EX06BT_MHA-2-AP01_s_p1.png"
+    },
+    {
+      "manifest": "my-hero-academia-3.images.json",
+      "alt": "EX06BT/MHA-2-AP02★ アクションポイントカード(僕のヒーローアカデミア)",
+      "localPath": "/cards/my-hero-academia-3/EX06BT_MHA-2-AP02_s_p1.png"
+    },
+    {
+      "manifest": "my-hero-academia-3.images.json",
+      "alt": "EX06BT/MHA-2-AP03★ アクションポイントカード(僕のヒーローアカデミア)",
+      "localPath": "/cards/my-hero-academia-3/EX06BT_MHA-2-AP03_s_p1.png"
+    },
+    {
+      "manifest": "nikke-2.images.json",
+      "alt": "UA18BT/NIK-1-AP06★ アクションポイントカード(勝利の女神：NIKKE)",
+      "localPath": "/cards/nikke-2/UA18BT_NIK-1-AP06_s.png"
+    },
+    {
+      "manifest": "series-570901.images.json",
+      "alt": "UAPR/IMS_AP04 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP04.png"
+    },
+    {
+      "manifest": "series-570901.images.json",
+      "alt": "UAPR/IMS_AP05 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP05.png"
+    },
+    {
+      "manifest": "series-570901.images.json",
+      "alt": "UAPR/IMS_AP06 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP06.png"
+    },
+    {
+      "manifest": "series-570901.images.json",
+      "alt": "UAPR/IMS_AP07 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP07.png"
+    },
+    {
+      "manifest": "series-570901.images.json",
+      "alt": "UAPR/IMS_AP08 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP08.png"
+    },
+    {
+      "manifest": "shangri-la-frontier.images.json",
+      "alt": "UA32BT/SNF-1-AP01★ アクションポイントカード(シャングリラ・フロンティア)",
+      "localPath": "/cards/shangri-la-frontier/UA32BT_SNF-1-AP01_s.png"
+    },
+    {
+      "manifest": "shangri-la-frontier.images.json",
+      "alt": "UA32BT/SNF-1-AP02★ アクションポイントカード(シャングリラ・フロンティア)",
+      "localPath": "/cards/shangri-la-frontier/UA32BT_SNF-1-AP02_s.png"
+    },
+    {
+      "manifest": "shy.images.json",
+      "alt": "UA24BT/SHY-1-AP01★ アクションポイントカード（SHY）",
+      "localPath": "/cards/shy/UA24BT_SHY-1-AP01_s.png"
+    },
+    {
+      "manifest": "sword-art-online-2.images.json",
+      "alt": "UA15BT/SAO-1-AP01★ アクションポイントカード(ソードアート・オンライン)",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP01_s.png"
+    },
+    {
+      "manifest": "sword-art-online-2.images.json",
+      "alt": "UA15BT/SAO-1-AP02★ アクションポイントカード(ソードアート・オンライン)",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP02_s.png"
+    },
+    {
+      "manifest": "sword-art-online-3.images.json",
+      "alt": "EX08BT/SAO-2-AP01★ アクションポイントカード(ソードアート・オンライン)",
+      "localPath": "/cards/sword-art-online-3/EX08BT_SAO-2-AP01_s.png"
+    },
+    {
+      "manifest": "sword-art-online-3.images.json",
+      "alt": "EX08BT/SAO-2-AP02★ アクションポイントカード(ソードアート・オンライン)",
+      "localPath": "/cards/sword-art-online-3/EX08BT_SAO-2-AP02_s.png"
+    },
+    {
+      "manifest": "sword-art-online-3.images.json",
+      "alt": "EX08BT/SAO-2-AP03★ アクションポイントカード(ソードアート・オンライン)",
+      "localPath": "/cards/sword-art-online-3/EX08BT_SAO-2-AP03_s.png"
+    },
+    {
+      "manifest": "synduality-noir-2.images.json",
+      "alt": "UA16BT/SYN-1-AP01★ アクションポイントカード(SYNDUALITY Noir)",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP01_s.png"
+    },
+    {
+      "manifest": "tensura-3.images.json",
+      "alt": "EX09BT/TSK-2-AP01★ アクションポイントカード(転生したらスライムだった件",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP01_s.png"
+    },
+    {
+      "manifest": "toriko-2.images.json",
+      "alt": "UA17BT/TRK-1-AP05★ アクションポイントカード(トリコ)",
+      "localPath": "/cards/toriko-2/UA17BT_TRK-1-AP05_s.png"
+    },
+    {
+      "manifest": "undead-unluck.images.json",
+      "alt": "UA25BT/AND-1-AP01★ アクションポイントカード(アンデッドアンラック)",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP01_s.png"
+    },
+    {
+      "manifest": "undead-unluck.images.json",
+      "alt": "UA25BT/AND-1-AP02★ アクションポイントカード(アンデッドアンラック)",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP02_s.png"
+    }
+  ],
+  "note": "本工具只补入卡号与日文卡名，不会修改颜色、费用、AP、BP、效果、翻译或图片路径。"
+}

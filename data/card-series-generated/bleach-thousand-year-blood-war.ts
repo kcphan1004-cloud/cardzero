@@ -4,7 +4,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-034",
     "number": "UA08ST/BLC-1-034",
-    "name": "资料待补",
+    "name": "石田 雨竜",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-035",
     "number": "UA08ST/BLC-1-035",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-037",
     "number": "UA08ST/BLC-1-037",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-039",
     "number": "UA08ST/BLC-1-039",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-042",
     "number": "UA08ST/BLC-1-042",
-    "name": "资料待补",
+    "name": "茶渡 泰虎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-046",
     "number": "UA08ST/BLC-1-046",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-062",
     "number": "UA08ST/BLC-1-062",
-    "name": "资料待补",
+    "name": "おいしいパン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-064",
     "number": "UA08ST/BLC-1-064",
-    "name": "资料待补",
+    "name": "月牙天衝",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-066",
     "number": "UA08ST/BLC-1-066",
-    "name": "资料待补",
+    "name": "卍解",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-101",
     "number": "UA08ST/BLC-1-101",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-102",
     "number": "UA08ST/BLC-1-102",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-103",
     "number": "UA08ST/BLC-1-103",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-104",
     "number": "UA08ST/BLC-1-104",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-105",
     "number": "UA08ST/BLC-1-105",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-106",
     "number": "UA08ST/BLC-1-106",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-107",
     "number": "UA08ST/BLC-1-107",
-    "name": "资料待补",
+    "name": "斑目 志乃＆行木 竜ノ介",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-108",
     "number": "UA08ST/BLC-1-108",
-    "name": "资料待补",
+    "name": "一護の部屋",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-109",
     "number": "UA08ST/BLC-1-109",
-    "name": "资料待补",
+    "name": "空座町の死神代行",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-ap01",
     "number": "UA08ST/BLC-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-ua08st_blc-1-ap02",
     "number": "UA08ST/BLC-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-001",
     "number": "UA08BT/BLC-1-001",
-    "name": "资料待补",
+    "name": "アズギアロ・イーバーン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-002",
     "number": "UA08BT/BLC-1-002",
-    "name": "资料待补",
+    "name": "エス・ノト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-003",
     "number": "UA08BT/BLC-1-003",
-    "name": "资料待补",
+    "name": "エス・ノト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-004_p1",
     "number": "UA08BT/BLC-1-004",
-    "name": "资料待补",
+    "name": "エス・ノト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-004",
     "number": "UA08BT/BLC-1-004",
-    "name": "资料待补",
+    "name": "エス・ノト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-005",
     "number": "UA08BT/BLC-1-005",
-    "name": "资料待补",
+    "name": "キルゲ・オピー",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-006",
     "number": "UA08BT/BLC-1-006",
-    "name": "资料待补",
+    "name": "キルゲ・オピー",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-007",
     "number": "UA08BT/BLC-1-007",
-    "name": "资料待补",
+    "name": "ジェローム・ギズバット",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-008",
     "number": "UA08BT/BLC-1-008",
-    "name": "资料待补",
+    "name": "蒼都",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-009",
     "number": "UA08BT/BLC-1-009",
-    "name": "资料待补",
+    "name": "ドリスコール・ベルチ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-010",
     "number": "UA08BT/BLC-1-010",
-    "name": "资料待补",
+    "name": "ナナナ・ナジャークープ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-011_p1",
     "number": "UA08BT/BLC-1-011",
-    "name": "资料待补",
+    "name": "バズビー",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-011",
     "number": "UA08BT/BLC-1-011",
-    "name": "资料待补",
+    "name": "バズビー",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-012",
     "number": "UA08BT/BLC-1-012",
-    "name": "资料待补",
+    "name": "バンビエッタ・バスターバイン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-013",
     "number": "UA08BT/BLC-1-013",
-    "name": "资料待补",
+    "name": "バンビエッタ・バスターバイン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-014_p1",
     "number": "UA08BT/BLC-1-014",
-    "name": "资料待补",
+    "name": "バンビエッタ・バスターバイン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-014",
     "number": "UA08BT/BLC-1-014",
-    "name": "资料待补",
+    "name": "バンビエッタ・バスターバイン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-015",
     "number": "UA08BT/BLC-1-015",
-    "name": "资料待补",
+    "name": "BG9",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-016",
     "number": "UA08BT/BLC-1-016",
-    "name": "资料待补",
+    "name": "ベレニケ・ガブリエリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-017",
     "number": "UA08BT/BLC-1-017",
-    "name": "资料待补",
+    "name": "マスク・ド・マスキュリン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-018",
     "number": "UA08BT/BLC-1-018",
-    "name": "资料待补",
+    "name": "ユーグラム・ハッシュヴァルト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-019",
     "number": "UA08BT/BLC-1-019",
-    "name": "资料待补",
+    "name": "ユーグラム・ハッシュヴァルト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-020_p1",
     "number": "UA08BT/BLC-1-020",
-    "name": "资料待补",
+    "name": "ユーグラム・ハッシュヴァルト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-020",
     "number": "UA08BT/BLC-1-020",
-    "name": "资料待补",
+    "name": "ユーグラム・ハッシュヴァルト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-021",
     "number": "UA08BT/BLC-1-021",
-    "name": "资料待补",
+    "name": "ユーハバッハ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-022",
     "number": "UA08BT/BLC-1-022",
-    "name": "资料待补",
+    "name": "ユーハバッハ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-023",
     "number": "UA08BT/BLC-1-023",
-    "name": "资料待补",
+    "name": "ユーハバッハ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-024_p1",
     "number": "UA08BT/BLC-1-024",
-    "name": "资料待补",
+    "name": "ユーハバッハ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-024",
     "number": "UA08BT/BLC-1-024",
-    "name": "资料待补",
+    "name": "ユーハバッハ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-025",
     "number": "UA08BT/BLC-1-025",
-    "name": "资料待补",
+    "name": "ロイド・ロイド（L）",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-026",
     "number": "UA08BT/BLC-1-026",
-    "name": "资料待补",
+    "name": "ロイド・ロイド（R）",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-027",
     "number": "UA08BT/BLC-1-027",
-    "name": "资料待补",
+    "name": "ロバート・アキュトロン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-028",
     "number": "UA08BT/BLC-1-028",
-    "name": "资料待补",
+    "name": "銀架城",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-029",
     "number": "UA08BT/BLC-1-029",
-    "name": "资料待补",
+    "name": "滅却師完聖体",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-030",
     "number": "UA08BT/BLC-1-030",
-    "name": "资料待补",
+    "name": "The Jail",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-031",
     "number": "UA08BT/BLC-1-031",
-    "name": "资料待补",
+    "name": "The Fear",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-032",
     "number": "UA08BT/BLC-1-032",
-    "name": "资料待补",
+    "name": "血装",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-033",
     "number": "UA08BT/BLC-1-033",
-    "name": "资料待补",
+    "name": "星章化",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-034",
     "number": "UA08BT/BLC-1-034",
-    "name": "资料待补",
+    "name": "石田 雨竜",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-035",
     "number": "UA08BT/BLC-1-035",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-036",
     "number": "UA08BT/BLC-1-036",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-037",
     "number": "UA08BT/BLC-1-037",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-038_p1",
     "number": "UA08BT/BLC-1-038",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-038",
     "number": "UA08BT/BLC-1-038",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-039",
     "number": "UA08BT/BLC-1-039",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-040_p1",
     "number": "UA08BT/BLC-1-040",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-040",
     "number": "UA08BT/BLC-1-040",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-041_p1",
     "number": "UA08BT/BLC-1-041",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-041_p2",
     "number": "UA08BT/BLC-1-041",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-041_p3",
     "number": "UA08BT/BLC-1-041",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-041",
     "number": "UA08BT/BLC-1-041",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-042",
     "number": "UA08BT/BLC-1-042",
-    "name": "资料待补",
+    "name": "茶渡 泰虎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-043",
     "number": "UA08BT/BLC-1-043",
-    "name": "资料待补",
+    "name": "ネル・トゥ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-044",
     "number": "UA08BT/BLC-1-044",
-    "name": "资料待补",
+    "name": "阿近",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-045",
     "number": "UA08BT/BLC-1-045",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-046",
     "number": "UA08BT/BLC-1-046",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-047_p1",
     "number": "UA08BT/BLC-1-047",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-047_p2",
     "number": "UA08BT/BLC-1-047",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-047",
     "number": "UA08BT/BLC-1-047",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-048",
     "number": "UA08BT/BLC-1-048",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-049",
     "number": "UA08BT/BLC-1-049",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-050_p1",
     "number": "UA08BT/BLC-1-050",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-050_p2",
     "number": "UA08BT/BLC-1-050",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-050",
     "number": "UA08BT/BLC-1-050",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-051",
     "number": "UA08BT/BLC-1-051",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-052_p1",
     "number": "UA08BT/BLC-1-052",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-052",
     "number": "UA08BT/BLC-1-052",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-053_p1",
     "number": "UA08BT/BLC-1-053",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-053",
     "number": "UA08BT/BLC-1-053",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-054",
     "number": "UA08BT/BLC-1-054",
-    "name": "资料待补",
+    "name": "涅 マユリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-055_p1",
     "number": "UA08BT/BLC-1-055",
-    "name": "资料待补",
+    "name": "砕蜂",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-055",
     "number": "UA08BT/BLC-1-055",
-    "name": "资料待补",
+    "name": "砕蜂",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-056",
     "number": "UA08BT/BLC-1-056",
-    "name": "资料待补",
+    "name": "麒麟寺 天示郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-057",
     "number": "UA08BT/BLC-1-057",
-    "name": "资料待补",
+    "name": "修多羅 千手丸",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-058",
     "number": "UA08BT/BLC-1-058",
-    "name": "资料待补",
+    "name": "二枚屋 王悦",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-059",
     "number": "UA08BT/BLC-1-059",
-    "name": "资料待补",
+    "name": "曳舟 桐生",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-060",
     "number": "UA08BT/BLC-1-060",
-    "name": "资料待补",
+    "name": "兵主部 一兵衛",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-061",
     "number": "UA08BT/BLC-1-061",
-    "name": "资料待补",
+    "name": "霊王宮",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-062",
     "number": "UA08BT/BLC-1-062",
-    "name": "资料待补",
+    "name": "おいしいパン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-063",
     "number": "UA08BT/BLC-1-063",
-    "name": "资料待补",
+    "name": "技術開発局",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-064",
     "number": "UA08BT/BLC-1-064",
-    "name": "资料待补",
+    "name": "月牙天衝",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-065",
     "number": "UA08BT/BLC-1-065",
-    "name": "资料待补",
+    "name": "千本桜景厳",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-066",
     "number": "UA08BT/BLC-1-066",
-    "name": "资料待补",
+    "name": "卍解",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-067",
     "number": "UA08BT/BLC-1-067",
-    "name": "资料待补",
+    "name": "綾瀬川 弓親",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-068",
     "number": "UA08BT/BLC-1-068",
-    "name": "资料待补",
+    "name": "伊勢 七緒",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-069",
     "number": "UA08BT/BLC-1-069",
-    "name": "资料待补",
+    "name": "浮竹 十四郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-070_p1",
     "number": "UA08BT/BLC-1-070",
-    "name": "资料待补",
+    "name": "卯ノ花 八千流",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-070",
     "number": "UA08BT/BLC-1-070",
-    "name": "资料待补",
+    "name": "卯ノ花 八千流",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-071",
     "number": "UA08BT/BLC-1-071",
-    "name": "资料待补",
+    "name": "卯ノ花 烈",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-072",
     "number": "UA08BT/BLC-1-072",
-    "name": "资料待补",
+    "name": "卯ノ花 烈",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-073",
     "number": "UA08BT/BLC-1-073",
-    "name": "资料待补",
+    "name": "鳳橋 楼十郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-074_p1",
     "number": "UA08BT/BLC-1-074",
-    "name": "资料待补",
+    "name": "京楽 春水",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-074",
     "number": "UA08BT/BLC-1-074",
-    "name": "资料待补",
+    "name": "京楽 春水",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-075",
     "number": "UA08BT/BLC-1-075",
-    "name": "资料待补",
+    "name": "吉良 イヅル",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-076",
     "number": "UA08BT/BLC-1-076",
-    "name": "资料待补",
+    "name": "草鹿 やちる",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-077",
     "number": "UA08BT/BLC-1-077",
-    "name": "资料待补",
+    "name": "虎徹 勇音",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-078_p1",
     "number": "UA08BT/BLC-1-078",
-    "name": "资料待补",
+    "name": "狛村 左陣",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-078",
     "number": "UA08BT/BLC-1-078",
-    "name": "资料待补",
+    "name": "狛村 左陣",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-079",
     "number": "UA08BT/BLC-1-079",
-    "name": "资料待补",
+    "name": "雀部 長次郎 忠息",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-080",
     "number": "UA08BT/BLC-1-080",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-081_p1",
     "number": "UA08BT/BLC-1-081",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-081",
     "number": "UA08BT/BLC-1-081",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-082",
     "number": "UA08BT/BLC-1-082",
-    "name": "资料待补",
+    "name": "檜佐木 修兵",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-083",
     "number": "UA08BT/BLC-1-083",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-084",
     "number": "UA08BT/BLC-1-084",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-085_p1",
     "number": "UA08BT/BLC-1-085",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-085_p2",
     "number": "UA08BT/BLC-1-085",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-085",
     "number": "UA08BT/BLC-1-085",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-086",
     "number": "UA08BT/BLC-1-086",
-    "name": "资料待补",
+    "name": "雛森 桃",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-087_p1",
     "number": "UA08BT/BLC-1-087",
-    "name": "资料待补",
+    "name": "平子 真子",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-087",
     "number": "UA08BT/BLC-1-087",
-    "name": "资料待补",
+    "name": "平子 真子",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-088",
     "number": "UA08BT/BLC-1-088",
-    "name": "资料待补",
+    "name": "斑目 一角",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-089_p1",
     "number": "UA08BT/BLC-1-089",
-    "name": "资料待补",
+    "name": "松本 乱菊",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-089",
     "number": "UA08BT/BLC-1-089",
-    "name": "资料待补",
+    "name": "松本 乱菊",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-090",
     "number": "UA08BT/BLC-1-090",
-    "name": "资料待补",
+    "name": "六車 拳西",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-091",
     "number": "UA08BT/BLC-1-091",
-    "name": "资料待补",
+    "name": "山本 重國",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-092",
     "number": "UA08BT/BLC-1-092",
-    "name": "资料待补",
+    "name": "山本 元柳斎 重國",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-093_p1",
     "number": "UA08BT/BLC-1-093",
-    "name": "资料待补",
+    "name": "山本 元柳斎 重國",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-093",
     "number": "UA08BT/BLC-1-093",
-    "name": "资料待补",
+    "name": "山本 元柳斎 重國",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-094",
     "number": "UA08BT/BLC-1-094",
-    "name": "资料待补",
+    "name": "尸魂界",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-095",
     "number": "UA08BT/BLC-1-095",
-    "name": "资料待补",
+    "name": "護廷十三隊",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-096",
     "number": "UA08BT/BLC-1-096",
-    "name": "资料待补",
+    "name": "大紅蓮氷輪丸",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-097",
     "number": "UA08BT/BLC-1-097",
-    "name": "资料待补",
+    "name": "隊首羽織",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-098",
     "number": "UA08BT/BLC-1-098",
-    "name": "资料待补",
+    "name": "隊葬",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-099",
     "number": "UA08BT/BLC-1-099",
-    "name": "资料待补",
+    "name": "天地灰尽",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-100",
     "number": "UA08BT/BLC-1-100",
-    "name": "资料待补",
+    "name": "卍解",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-ap01",
     "number": "UA08BT/BLC-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-ap02",
     "number": "UA08BT/BLC-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-ap03",
     "number": "UA08BT/BLC-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-ap04",
     "number": "UA08BT/BLC-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-ap05",
     "number": "UA08BT/BLC-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-2-ua08bt_blc-1-ap06",
     "number": "UA08BT/BLC-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-001",
     "number": "EX07BT/BLC-2-001",
-    "name": "资料待补",
+    "name": "アスキン・ナックルヴァール",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-002_p1",
     "number": "EX07BT/BLC-2-002",
-    "name": "资料待补",
+    "name": "石田 雨竜",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-002",
     "number": "EX07BT/BLC-2-002",
-    "name": "资料待补",
+    "name": "石田 雨竜",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-003",
     "number": "EX07BT/BLC-2-003",
-    "name": "资料待补",
+    "name": "バズビー",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-004",
     "number": "EX07BT/BLC-2-004",
-    "name": "资料待补",
+    "name": "ユーグラム・ハッシュヴァルト",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-005",
     "number": "EX07BT/BLC-2-005",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-006_p1",
     "number": "EX07BT/BLC-2-006",
-    "name": "资料待补",
+    "name": "バンビエッタ・バスターバイン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-006",
     "number": "EX07BT/BLC-2-006",
-    "name": "资料待补",
+    "name": "バンビエッタ・バスターバイン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-007",
     "number": "EX07BT/BLC-2-007",
-    "name": "资料待补",
+    "name": "キャンディス・キャットニップ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-008",
     "number": "EX07BT/BLC-2-008",
-    "name": "资料待补",
+    "name": "ジゼル・ジュエル",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-009_p1",
     "number": "EX07BT/BLC-2-009",
-    "name": "资料待补",
+    "name": "ジゼル・ジュエル",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-009",
     "number": "EX07BT/BLC-2-009",
-    "name": "资料待补",
+    "name": "ジゼル・ジュエル",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-010",
     "number": "EX07BT/BLC-2-010",
-    "name": "资料待补",
+    "name": "ミニーニャ・マカロン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-011",
     "number": "EX07BT/BLC-2-011",
-    "name": "资料待补",
+    "name": "リルトット・ランパード",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-012",
     "number": "EX07BT/BLC-2-012",
-    "name": "资料待补",
+    "name": "聖隷",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-013",
     "number": "EX07BT/BLC-2-013",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-014_p1",
     "number": "EX07BT/BLC-2-014",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-014",
     "number": "EX07BT/BLC-2-014",
-    "name": "资料待补",
+    "name": "井上 織姫",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-015",
     "number": "EX07BT/BLC-2-015",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-016",
     "number": "EX07BT/BLC-2-016",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-017",
     "number": "EX07BT/BLC-2-017",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-018",
     "number": "EX07BT/BLC-2-018",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-019_p1",
     "number": "EX07BT/BLC-2-019",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-019",
     "number": "EX07BT/BLC-2-019",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-020",
     "number": "EX07BT/BLC-2-020",
-    "name": "资料待补",
+    "name": "茶渡 泰虎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-021",
     "number": "EX07BT/BLC-2-021",
-    "name": "资料待补",
+    "name": "斬月",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-022",
     "number": "EX07BT/BLC-2-022",
-    "name": "资料待补",
+    "name": "志波 岩鷲",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-023",
     "number": "EX07BT/BLC-2-023",
-    "name": "资料待补",
+    "name": "四楓院 夕四郎 咲宗",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-024_p1",
     "number": "EX07BT/BLC-2-024",
-    "name": "资料待补",
+    "name": "四楓院 夜一",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-024",
     "number": "EX07BT/BLC-2-024",
-    "name": "资料待补",
+    "name": "四楓院 夜一",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-025",
     "number": "EX07BT/BLC-2-025",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-026",
     "number": "EX07BT/BLC-2-026",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-027",
     "number": "EX07BT/BLC-2-027",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-028_p1",
     "number": "EX07BT/BLC-2-028",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-028",
     "number": "EX07BT/BLC-2-028",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-029",
     "number": "EX07BT/BLC-2-029",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-030_p1",
     "number": "EX07BT/BLC-2-030",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-030",
     "number": "EX07BT/BLC-2-030",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-031",
     "number": "EX07BT/BLC-2-031",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-032",
     "number": "EX07BT/BLC-2-032",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-033",
     "number": "EX07BT/BLC-2-033",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-034_p1",
     "number": "EX07BT/BLC-2-034",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-034_p2",
     "number": "EX07BT/BLC-2-034",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-034",
     "number": "EX07BT/BLC-2-034",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-035_p1",
     "number": "EX07BT/BLC-2-035",
-    "name": "资料待补",
+    "name": "涅 ネム",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-035",
     "number": "EX07BT/BLC-2-035",
-    "name": "资料待补",
+    "name": "涅 ネム",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-036",
     "number": "EX07BT/BLC-2-036",
-    "name": "资料待补",
+    "name": "涅 マユリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-037",
     "number": "EX07BT/BLC-2-037",
-    "name": "资料待补",
+    "name": "涅 マユリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-038_p1",
     "number": "EX07BT/BLC-2-038",
-    "name": "资料待补",
+    "name": "涅 マユリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-038",
     "number": "EX07BT/BLC-2-038",
-    "name": "资料待补",
+    "name": "涅 マユリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-039",
     "number": "EX07BT/BLC-2-039",
-    "name": "资料待补",
+    "name": "シャルロッテ・クールホーン",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-040",
     "number": "EX07BT/BLC-2-040",
-    "name": "资料待补",
+    "name": "チルッチ・サンダーウィッチ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-041",
     "number": "EX07BT/BLC-2-041",
-    "name": "资料待补",
+    "name": "ドルドーニ・アレッサンドロ・デル・ソカッチオ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-042",
     "number": "EX07BT/BLC-2-042",
-    "name": "资料待补",
+    "name": "ルピ・アンテノール",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-043",
     "number": "EX07BT/BLC-2-043",
-    "name": "资料待补",
+    "name": "六車 拳西＆鳳橋 楼十郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-044",
     "number": "EX07BT/BLC-2-044",
-    "name": "资料待补",
+    "name": "涅骸部隊",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-045",
     "number": "EX07BT/BLC-2-045",
-    "name": "资料待补",
+    "name": "勝手にギャアギャア喋るんじゃないヨ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-046",
     "number": "EX07BT/BLC-2-046",
-    "name": "资料待补",
+    "name": "月牙十字衝",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-047",
     "number": "EX07BT/BLC-2-047",
-    "name": "资料待补",
+    "name": "その名は斬月",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-048",
     "number": "EX07BT/BLC-2-048",
-    "name": "资料待补",
+    "name": "白霞罸",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-049",
     "number": "EX07BT/BLC-2-049",
-    "name": "资料待补",
+    "name": "卍解",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-050",
     "number": "EX07BT/BLC-2-050",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-051_p1",
     "number": "EX07BT/BLC-2-051",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-051",
     "number": "EX07BT/BLC-2-051",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-052",
     "number": "EX07BT/BLC-2-052",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-053",
     "number": "EX07BT/BLC-2-053",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-054",
     "number": "EX07BT/BLC-2-054",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-055",
     "number": "EX07BT/BLC-2-055",
-    "name": "资料待补",
+    "name": "麒麟寺 天示郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-056",
     "number": "EX07BT/BLC-2-056",
-    "name": "资料待补",
+    "name": "修多羅 千手丸",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-057_p1",
     "number": "EX07BT/BLC-2-057",
-    "name": "资料待补",
+    "name": "修多羅 千手丸",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-057",
     "number": "EX07BT/BLC-2-057",
-    "name": "资料待补",
+    "name": "修多羅 千手丸",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-058",
     "number": "EX07BT/BLC-2-058",
-    "name": "资料待补",
+    "name": "二枚屋 王悦",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-059",
     "number": "EX07BT/BLC-2-059",
-    "name": "资料待补",
+    "name": "曳舟 桐生",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-060",
     "number": "EX07BT/BLC-2-060",
-    "name": "资料待补",
+    "name": "兵主部 一兵衛",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-061",
     "number": "EX07BT/BLC-2-061",
-    "name": "资料待补",
+    "name": "娑闥迦羅骸刺絡辻",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-062_p1",
     "number": "EX07BT/BLC-2-062",
-    "name": "资料待补",
+    "name": "綾瀬川 弓親",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-062",
     "number": "EX07BT/BLC-2-062",
-    "name": "资料待补",
+    "name": "綾瀬川 弓親",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-063",
     "number": "EX07BT/BLC-2-063",
-    "name": "资料待补",
+    "name": "京楽 春水",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-064",
     "number": "EX07BT/BLC-2-064",
-    "name": "资料待补",
+    "name": "草鹿 やちる",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-065",
     "number": "EX07BT/BLC-2-065",
-    "name": "资料待补",
+    "name": "狛村 左陣",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-066",
     "number": "EX07BT/BLC-2-066",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-067_p1",
     "number": "EX07BT/BLC-2-067",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-067",
     "number": "EX07BT/BLC-2-067",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-068",
     "number": "EX07BT/BLC-2-068",
-    "name": "资料待补",
+    "name": "檜佐木 修兵",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-069_p1",
     "number": "EX07BT/BLC-2-069",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-069",
     "number": "EX07BT/BLC-2-069",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-070_p1",
     "number": "EX07BT/BLC-2-070",
-    "name": "资料待补",
+    "name": "平子 真子",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-070",
     "number": "EX07BT/BLC-2-070",
-    "name": "资料待补",
+    "name": "平子 真子",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-071_p1",
     "number": "EX07BT/BLC-2-071",
-    "name": "资料待补",
+    "name": "斑目 一角",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-071",
     "number": "EX07BT/BLC-2-071",
-    "name": "资料待补",
+    "name": "斑目 一角",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-072",
     "number": "EX07BT/BLC-2-072",
-    "name": "资料待补",
+    "name": "松本 乱菊",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-073",
     "number": "EX07BT/BLC-2-073",
-    "name": "资料待补",
+    "name": "野晒",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-ap01",
     "number": "EX07BT/BLC-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-ap02",
     "number": "EX07BT/BLC-2-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-ap03",
     "number": "EX07BT/BLC-2-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-ap04",
     "number": "EX07BT/BLC-2-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-3-ex07bt_blc-2-ap05",
     "number": "EX07BT/BLC-2-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-001",
     "number": "UA04NC/BLC-3-001",
-    "name": "资料待补",
+    "name": "黒崎 一護",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-002",
     "number": "UA04NC/BLC-3-002",
-    "name": "资料待补",
+    "name": "朽木 ルキア",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-003",
     "number": "UA04NC/BLC-3-003",
-    "name": "资料待补",
+    "name": "涅 マユリ",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-004",
     "number": "UA04NC/BLC-3-004",
-    "name": "资料待补",
+    "name": "浦原 喜助",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-005",
     "number": "UA04NC/BLC-3-005",
-    "name": "资料待补",
+    "name": "阿散井 恋次",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-006",
     "number": "UA04NC/BLC-3-006",
-    "name": "资料待补",
+    "name": "朽木 白哉",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-007",
     "number": "UA04NC/BLC-3-007",
-    "name": "资料待补",
+    "name": "京楽 春水",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-008",
     "number": "UA04NC/BLC-3-008",
-    "name": "资料待补",
+    "name": "更木 剣八",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-009",
     "number": "UA04NC/BLC-3-009",
-    "name": "资料待补",
+    "name": "日番谷 冬獅郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-010",
     "number": "UA04NC/BLC-3-010",
-    "name": "资料待补",
+    "name": "平子 真子",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-011",
     "number": "UA04NC/BLC-3-011",
-    "name": "资料待补",
+    "name": "浮竹 十四郎",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",
@@ -5746,7 +5746,7 @@ export const bleachThousandYearBloodWarCards: Card[] = [
   {
     "id": "bleach-thousand-year-blood-war-4-ua04nc_blc-3-ap01",
     "number": "UA04NC/BLC-3-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
     "nameZh": "",
     "series": "BLEACH 千年血战篇",
     "color": "资料待补",

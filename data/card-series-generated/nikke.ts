@@ -4,7 +4,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-001",
     "number": "UA18ST/NIK-1-001",
-    "name": "资料待补",
+    "name": "シフティー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-002",
     "number": "UA18ST/NIK-1-002",
-    "name": "资料待补",
+    "name": "ヘルム",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-004",
     "number": "UA18ST/NIK-1-004",
-    "name": "资料待补",
+    "name": "ポリ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-005",
     "number": "UA18ST/NIK-1-005",
-    "name": "资料待补",
+    "name": "ネオン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-009",
     "number": "UA18ST/NIK-1-009",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-016",
     "number": "UA18ST/NIK-1-016",
-    "name": "资料待补",
+    "name": "アニス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-029",
     "number": "UA18ST/NIK-1-029",
-    "name": "资料待补",
+    "name": "エンカウンター",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-030",
     "number": "UA18ST/NIK-1-030",
-    "name": "资料待补",
+    "name": "記憶",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-031",
     "number": "UA18ST/NIK-1-031",
-    "name": "资料待补",
+    "name": "「コードネーム・レッドフード」",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-101",
     "number": "UA18ST/NIK-1-101",
-    "name": "资料待补",
+    "name": "ウンファ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-102",
     "number": "UA18ST/NIK-1-102",
-    "name": "资料待补",
+    "name": "ミランダ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-103",
     "number": "UA18ST/NIK-1-103",
-    "name": "资料待补",
+    "name": "ネオン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-104",
     "number": "UA18ST/NIK-1-104",
-    "name": "资料待补",
+    "name": "マリアン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-105",
     "number": "UA18ST/NIK-1-105",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-106",
     "number": "UA18ST/NIK-1-106",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-107",
     "number": "UA18ST/NIK-1-107",
-    "name": "资料待补",
+    "name": "アニス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-108",
     "number": "UA18ST/NIK-1-108",
-    "name": "资料待补",
+    "name": "アーク",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-109",
     "number": "UA18ST/NIK-1-109",
-    "name": "资料待补",
+    "name": "カウンターズ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-110_p1",
     "number": "UA18ST/NIK-1-110",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-110",
     "number": "UA18ST/NIK-1-110",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-111_p1",
     "number": "UA18ST/NIK-1-111",
-    "name": "资料待补",
+    "name": "スノーホワイト",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-111",
     "number": "UA18ST/NIK-1-111",
-    "name": "资料待补",
+    "name": "スノーホワイト",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-112_p1",
     "number": "UA18ST/NIK-1-112",
-    "name": "资料待补",
+    "name": "アリス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-112",
     "number": "UA18ST/NIK-1-112",
-    "name": "资料待补",
+    "name": "アリス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-113_p1",
     "number": "UA18ST/NIK-1-113",
-    "name": "资料待补",
+    "name": "センチ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-113",
     "number": "UA18ST/NIK-1-113",
-    "name": "资料待补",
+    "name": "センチ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-ua18st_nik-1-ap01",
     "number": "UA18ST/NIK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-001",
     "number": "UA18BT/NIK-1-001",
-    "name": "资料待补",
+    "name": "シフティー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-002_p1",
     "number": "UA18BT/NIK-1-002",
-    "name": "资料待补",
+    "name": "ヘルム",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-002",
     "number": "UA18BT/NIK-1-002",
-    "name": "资料待补",
+    "name": "ヘルム",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-003_p1",
     "number": "UA18BT/NIK-1-003",
-    "name": "资料待补",
+    "name": "ディーゼル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-003",
     "number": "UA18BT/NIK-1-003",
-    "name": "资料待补",
+    "name": "ディーゼル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-004_p1",
     "number": "UA18BT/NIK-1-004",
-    "name": "资料待补",
+    "name": "ポリ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-004",
     "number": "UA18BT/NIK-1-004",
-    "name": "资料待补",
+    "name": "ポリ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-005",
     "number": "UA18BT/NIK-1-005",
-    "name": "资料待补",
+    "name": "ネオン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-006_p1",
     "number": "UA18BT/NIK-1-006",
-    "name": "资料待补",
+    "name": "ネオン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-006",
     "number": "UA18BT/NIK-1-006",
-    "name": "资料待补",
+    "name": "ネオン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-007",
     "number": "UA18BT/NIK-1-007",
-    "name": "资料待补",
+    "name": "マリアン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-008_p1",
     "number": "UA18BT/NIK-1-008",
-    "name": "资料待补",
+    "name": "マリアン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-008",
     "number": "UA18BT/NIK-1-008",
-    "name": "资料待补",
+    "name": "マリアン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-009",
     "number": "UA18BT/NIK-1-009",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-010",
     "number": "UA18BT/NIK-1-010",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-011_p1",
     "number": "UA18BT/NIK-1-011",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-011",
     "number": "UA18BT/NIK-1-011",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-012_p1",
     "number": "UA18BT/NIK-1-012",
-    "name": "资料待补",
+    "name": "プリバティ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-012",
     "number": "UA18BT/NIK-1-012",
-    "name": "资料待补",
+    "name": "プリバティ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-013",
     "number": "UA18BT/NIK-1-013",
-    "name": "资料待补",
+    "name": "バイパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-014",
     "number": "UA18BT/NIK-1-014",
-    "name": "资料待补",
+    "name": "バイパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-015_p1",
     "number": "UA18BT/NIK-1-015",
-    "name": "资料待补",
+    "name": "バイパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-015",
     "number": "UA18BT/NIK-1-015",
-    "name": "资料待补",
+    "name": "バイパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-016",
     "number": "UA18BT/NIK-1-016",
-    "name": "资料待补",
+    "name": "アニス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-017",
     "number": "UA18BT/NIK-1-017",
-    "name": "资料待补",
+    "name": "アニス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-018_p1",
     "number": "UA18BT/NIK-1-018",
-    "name": "资料待补",
+    "name": "アニス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-018",
     "number": "UA18BT/NIK-1-018",
-    "name": "资料待补",
+    "name": "アニス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-019_p1",
     "number": "UA18BT/NIK-1-019",
-    "name": "资料待补",
+    "name": "モダニア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-019_p2",
     "number": "UA18BT/NIK-1-019",
-    "name": "资料待补",
+    "name": "モダニア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-019",
     "number": "UA18BT/NIK-1-019",
-    "name": "资料待补",
+    "name": "モダニア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-020",
     "number": "UA18BT/NIK-1-020",
-    "name": "资料待补",
+    "name": "クロウ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-021_p1",
     "number": "UA18BT/NIK-1-021",
-    "name": "资料待补",
+    "name": "クロウ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-021",
     "number": "UA18BT/NIK-1-021",
-    "name": "资料待补",
+    "name": "クロウ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-022",
     "number": "UA18BT/NIK-1-022",
-    "name": "资料待补",
+    "name": "ジャッカル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-023_p1",
     "number": "UA18BT/NIK-1-023",
-    "name": "资料待补",
+    "name": "ジャッカル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-023",
     "number": "UA18BT/NIK-1-023",
-    "name": "资料待补",
+    "name": "ジャッカル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-024",
     "number": "UA18BT/NIK-1-024",
-    "name": "资料待补",
+    "name": "ミハラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-025",
     "number": "UA18BT/NIK-1-025",
-    "name": "资料待补",
+    "name": "ユニ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-026",
     "number": "UA18BT/NIK-1-026",
-    "name": "资料待补",
+    "name": "ユニ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-027_p1",
     "number": "UA18BT/NIK-1-027",
-    "name": "资料待补",
+    "name": "ユニ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-027",
     "number": "UA18BT/NIK-1-027",
-    "name": "资料待补",
+    "name": "ユニ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-028",
     "number": "UA18BT/NIK-1-028",
-    "name": "资料待补",
+    "name": "アニス～レベル～アップ！",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-029",
     "number": "UA18BT/NIK-1-029",
-    "name": "资料待补",
+    "name": "エンカウンター",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-030",
     "number": "UA18BT/NIK-1-030",
-    "name": "资料待补",
+    "name": "記憶",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-031",
     "number": "UA18BT/NIK-1-031",
-    "name": "资料待补",
+    "name": "「コードネーム・レッドフード」",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-032",
     "number": "UA18BT/NIK-1-032",
-    "name": "资料待补",
+    "name": "ご褒美",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-033",
     "number": "UA18BT/NIK-1-033",
-    "name": "资料待补",
+    "name": "弱者と強者",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-034",
     "number": "UA18BT/NIK-1-034",
-    "name": "资料待补",
+    "name": "セシル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-035",
     "number": "UA18BT/NIK-1-035",
-    "name": "资料待补",
+    "name": "ヨハン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-036",
     "number": "UA18BT/NIK-1-036",
-    "name": "资料待补",
+    "name": "ピナ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-037",
     "number": "UA18BT/NIK-1-037",
-    "name": "资料待补",
+    "name": "イサベル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-038",
     "number": "UA18BT/NIK-1-038",
-    "name": "资料待补",
+    "name": "イサベル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-039_p1",
     "number": "UA18BT/NIK-1-039",
-    "name": "资料待补",
+    "name": "イサベル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-039",
     "number": "UA18BT/NIK-1-039",
-    "name": "资料待补",
+    "name": "イサベル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-040",
     "number": "UA18BT/NIK-1-040",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-041",
     "number": "UA18BT/NIK-1-041",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-042",
     "number": "UA18BT/NIK-1-042",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-043_p1",
     "number": "UA18BT/NIK-1-043",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-043",
     "number": "UA18BT/NIK-1-043",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-044",
     "number": "UA18BT/NIK-1-044",
-    "name": "资料待补",
+    "name": "ノア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-045",
     "number": "UA18BT/NIK-1-045",
-    "name": "资料待补",
+    "name": "ノア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-046_p1",
     "number": "UA18BT/NIK-1-046",
-    "name": "资料待补",
+    "name": "ノア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-046",
     "number": "UA18BT/NIK-1-046",
-    "name": "资料待补",
+    "name": "ノア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-047",
     "number": "UA18BT/NIK-1-047",
-    "name": "资料待补",
+    "name": "ハラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-048",
     "number": "UA18BT/NIK-1-048",
-    "name": "资料待补",
+    "name": "ハラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-049_p1",
     "number": "UA18BT/NIK-1-049",
-    "name": "资料待补",
+    "name": "ハラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-049",
     "number": "UA18BT/NIK-1-049",
-    "name": "资料待补",
+    "name": "ハラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-050",
     "number": "UA18BT/NIK-1-050",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-051",
     "number": "UA18BT/NIK-1-051",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-052_p1",
     "number": "UA18BT/NIK-1-052",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-052",
     "number": "UA18BT/NIK-1-052",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-053",
     "number": "UA18BT/NIK-1-053",
-    "name": "资料待补",
+    "name": "スノーホワイト",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-054",
     "number": "UA18BT/NIK-1-054",
-    "name": "资料待补",
+    "name": "スノーホワイト",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-055_p1",
     "number": "UA18BT/NIK-1-055",
-    "name": "资料待补",
+    "name": "スノーホワイト",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-055",
     "number": "UA18BT/NIK-1-055",
-    "name": "资料待补",
+    "name": "スノーホワイト",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-056",
     "number": "UA18BT/NIK-1-056",
-    "name": "资料待补",
+    "name": "ラプンツェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-057",
     "number": "UA18BT/NIK-1-057",
-    "name": "资料待补",
+    "name": "ラプンツェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-058_p1",
     "number": "UA18BT/NIK-1-058",
-    "name": "资料待补",
+    "name": "ラプンツェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-058",
     "number": "UA18BT/NIK-1-058",
-    "name": "资料待补",
+    "name": "ラプンツェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-059",
     "number": "UA18BT/NIK-1-059",
-    "name": "资料待补",
+    "name": "モダニア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-060",
     "number": "UA18BT/NIK-1-060",
-    "name": "资料待补",
+    "name": "モダニア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-061",
     "number": "UA18BT/NIK-1-061",
-    "name": "资料待补",
+    "name": "モダニア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-062",
     "number": "UA18BT/NIK-1-062",
-    "name": "资料待补",
+    "name": "エデン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-063",
     "number": "UA18BT/NIK-1-063",
-    "name": "资料待补",
+    "name": "エンカウンター",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-064",
     "number": "UA18BT/NIK-1-064",
-    "name": "资料待补",
+    "name": "天地万物を斬るとはこういうことだ。",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-065",
     "number": "UA18BT/NIK-1-065",
-    "name": "资料待补",
+    "name": "巡礼者",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-066",
     "number": "UA18BT/NIK-1-066",
-    "name": "资料待补",
+    "name": "楽園の翼",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-067",
     "number": "UA18BT/NIK-1-067",
-    "name": "资料待补",
+    "name": "サクラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-068",
     "number": "UA18BT/NIK-1-068",
-    "name": "资料待补",
+    "name": "アリス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-069",
     "number": "UA18BT/NIK-1-069",
-    "name": "资料待补",
+    "name": "アリス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-070_p1",
     "number": "UA18BT/NIK-1-070",
-    "name": "资料待补",
+    "name": "アリス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-070",
     "number": "UA18BT/NIK-1-070",
-    "name": "资料待补",
+    "name": "アリス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-071",
     "number": "UA18BT/NIK-1-071",
-    "name": "资料待补",
+    "name": "シュガー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-072",
     "number": "UA18BT/NIK-1-072",
-    "name": "资料待补",
+    "name": "ライ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-073_p1",
     "number": "UA18BT/NIK-1-073",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-073",
     "number": "UA18BT/NIK-1-073",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-074_p1",
     "number": "UA18BT/NIK-1-074",
-    "name": "资料待补",
+    "name": "ブラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-074",
     "number": "UA18BT/NIK-1-074",
-    "name": "资料待补",
+    "name": "ブラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-075",
     "number": "UA18BT/NIK-1-075",
-    "name": "资料待补",
+    "name": "ドラー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-076",
     "number": "UA18BT/NIK-1-076",
-    "name": "资料待补",
+    "name": "ヤン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-077_p1",
     "number": "UA18BT/NIK-1-077",
-    "name": "资料待补",
+    "name": "ルピー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-077",
     "number": "UA18BT/NIK-1-077",
-    "name": "资料待补",
+    "name": "ルピー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-078",
     "number": "UA18BT/NIK-1-078",
-    "name": "资料待补",
+    "name": "ビスケット",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-079",
     "number": "UA18BT/NIK-1-079",
-    "name": "资料待补",
+    "name": "ノイズ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-080",
     "number": "UA18BT/NIK-1-080",
-    "name": "资料待补",
+    "name": "エクシア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-081_p1",
     "number": "UA18BT/NIK-1-081",
-    "name": "资料待补",
+    "name": "ソーダ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-081",
     "number": "UA18BT/NIK-1-081",
-    "name": "资料待补",
+    "name": "ソーダ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-082_p1",
     "number": "UA18BT/NIK-1-082",
-    "name": "资料待补",
+    "name": "ペッパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-082",
     "number": "UA18BT/NIK-1-082",
-    "name": "资料待补",
+    "name": "ペッパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-083_p1",
     "number": "UA18BT/NIK-1-083",
-    "name": "资料待补",
+    "name": "ルドミラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-083",
     "number": "UA18BT/NIK-1-083",
-    "name": "资料待补",
+    "name": "ルドミラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-084_p1",
     "number": "UA18BT/NIK-1-084",
-    "name": "资料待补",
+    "name": "リター",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-084",
     "number": "UA18BT/NIK-1-084",
-    "name": "资料待补",
+    "name": "リター",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-085_p1",
     "number": "UA18BT/NIK-1-085",
-    "name": "资料待补",
+    "name": "ジュリア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-085",
     "number": "UA18BT/NIK-1-085",
-    "name": "资料待补",
+    "name": "ジュリア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-086",
     "number": "UA18BT/NIK-1-086",
-    "name": "资料待补",
+    "name": "ドレイク",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-087_p1",
     "number": "UA18BT/NIK-1-087",
-    "name": "资料待补",
+    "name": "ドレイク",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-087",
     "number": "UA18BT/NIK-1-087",
-    "name": "资料待补",
+    "name": "ドレイク",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-088",
     "number": "UA18BT/NIK-1-088",
-    "name": "资料待补",
+    "name": "マクスウェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-089_p1",
     "number": "UA18BT/NIK-1-089",
-    "name": "资料待补",
+    "name": "マクスウェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-089",
     "number": "UA18BT/NIK-1-089",
-    "name": "资料待补",
+    "name": "マクスウェル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-090",
     "number": "UA18BT/NIK-1-090",
-    "name": "资料待补",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-091",
     "number": "UA18BT/NIK-1-091",
-    "name": "资料待补",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-092_p1",
     "number": "UA18BT/NIK-1-092",
-    "name": "资料待补",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-092",
     "number": "UA18BT/NIK-1-092",
-    "name": "资料待补",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-093",
     "number": "UA18BT/NIK-1-093",
-    "name": "资料待补",
+    "name": "エピネル",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-094_p1",
     "number": "UA18BT/NIK-1-094",
-    "name": "资料待补",
+    "name": "ギルティ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-094",
     "number": "UA18BT/NIK-1-094",
-    "name": "资料待补",
+    "name": "ギルティ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-095",
     "number": "UA18BT/NIK-1-095",
-    "name": "资料待补",
+    "name": "N102",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-096",
     "number": "UA18BT/NIK-1-096",
-    "name": "资料待补",
+    "name": "アリーナ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-097",
     "number": "UA18BT/NIK-1-097",
-    "name": "资料待补",
+    "name": "アリスと雪の女王",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-098",
     "number": "UA18BT/NIK-1-098",
-    "name": "资料待补",
+    "name": "エンカウンター",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-099",
     "number": "UA18BT/NIK-1-099",
-    "name": "资料待补",
+    "name": "ただ言われた通りにやればいいのよ。",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-100",
     "number": "UA18BT/NIK-1-100",
-    "name": "资料待补",
+    "name": "ヒーローの登場",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-ap01",
     "number": "UA18BT/NIK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-ap02",
     "number": "UA18BT/NIK-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-ap03",
     "number": "UA18BT/NIK-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-ap04",
     "number": "UA18BT/NIK-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-ap05",
     "number": "UA18BT/NIK-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-2-ua18bt_nik-1-ap06",
     "number": "UA18BT/NIK-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-001",
     "number": "PC02BT/NIK-2-001",
-    "name": "资料待补",
+    "name": "エイブ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-002",
     "number": "PC02BT/NIK-2-002",
-    "name": "资料待补",
+    "name": "ネオン：ブルーオーシャン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3743,8 +3743,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-003_p1",
-    "number": "PC02BT/NIK-2-003/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-003",
+    "name": "マリアン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-003",
     "number": "PC02BT/NIK-2-003",
-    "name": "资料待补",
+    "name": "マリアン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3787,8 +3787,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-004_p1",
-    "number": "PC02BT/NIK-2-004/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-004",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-004",
     "number": "PC02BT/NIK-2-004",
-    "name": "资料待补",
+    "name": "ラピ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3831,8 +3831,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-005_p1",
-    "number": "PC02BT/NIK-2-005/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-005",
+    "name": "ラピ：レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-005",
     "number": "PC02BT/NIK-2-005",
-    "name": "资料待补",
+    "name": "ラピ：レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3875,8 +3875,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-006_p1",
-    "number": "PC02BT/NIK-2-006/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-006",
+    "name": "バイパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-006",
     "number": "PC02BT/NIK-2-006",
-    "name": "资料待补",
+    "name": "バイパー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-007",
     "number": "PC02BT/NIK-2-007",
-    "name": "资料待补",
+    "name": "アニス：スパークリングサマー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3941,8 +3941,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-008_p1",
-    "number": "PC02BT/NIK-2-008/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-008",
+    "name": "アニス：スパークリングサマー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-008",
     "number": "PC02BT/NIK-2-008",
-    "name": "资料待补",
+    "name": "アニス：スパークリングサマー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-009",
     "number": "PC02BT/NIK-2-009",
-    "name": "资料待补",
+    "name": "グレイブ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-010",
     "number": "PC02BT/NIK-2-010",
-    "name": "资料待补",
+    "name": "グレイブ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4029,8 +4029,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-011_p1",
-    "number": "PC02BT/NIK-2-011/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-011",
+    "name": "グレイブ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-011",
     "number": "PC02BT/NIK-2-011",
-    "name": "资料待补",
+    "name": "グレイブ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-012",
     "number": "PC02BT/NIK-2-012",
-    "name": "资料待补",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-013",
     "number": "PC02BT/NIK-2-013",
-    "name": "资料待补",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4117,8 +4117,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-014_p1",
-    "number": "PC02BT/NIK-2-014/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-014",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-014",
     "number": "PC02BT/NIK-2-014",
-    "name": "资料待补",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4161,8 +4161,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-015_p1",
-    "number": "PC02BT/NIK-2-015/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-015",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4183,8 +4183,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-015_p2",
-    "number": "PC02BT/NIK-2-015/p2",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-015",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-015",
     "number": "PC02BT/NIK-2-015",
-    "name": "资料待补",
+    "name": "シンデレラ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-016",
     "number": "PC02BT/NIK-2-016",
-    "name": "资料待补",
+    "name": "リトルマーメイド",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4249,8 +4249,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-017_p1",
-    "number": "PC02BT/NIK-2-017/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-017",
+    "name": "リトルマーメイド",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-017",
     "number": "PC02BT/NIK-2-017",
-    "name": "资料待补",
+    "name": "リトルマーメイド",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-018",
     "number": "PC02BT/NIK-2-018",
-    "name": "资料待补",
+    "name": "継承",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4315,8 +4315,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-019_p1",
-    "number": "PC02BT/NIK-2-019/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-019",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-019",
     "number": "PC02BT/NIK-2-019",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-020",
     "number": "PC02BT/NIK-2-020",
-    "name": "资料待补",
+    "name": "クラウン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-021",
     "number": "PC02BT/NIK-2-021",
-    "name": "资料待补",
+    "name": "クラウン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4403,8 +4403,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-022_p1",
-    "number": "PC02BT/NIK-2-022/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-022",
+    "name": "クラウン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-022",
     "number": "PC02BT/NIK-2-022",
-    "name": "资料待补",
+    "name": "クラウン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-023",
     "number": "PC02BT/NIK-2-023",
-    "name": "资料待补",
+    "name": "トロンベ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-024",
     "number": "PC02BT/NIK-2-024",
-    "name": "资料待补",
+    "name": "紅蓮：ブラックシャドウ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4491,8 +4491,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-025_p1",
-    "number": "PC02BT/NIK-2-025/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-025",
+    "name": "紅蓮：ブラックシャドウ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-025",
     "number": "PC02BT/NIK-2-025",
-    "name": "资料待补",
+    "name": "紅蓮：ブラックシャドウ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-026",
     "number": "PC02BT/NIK-2-026",
-    "name": "资料待补",
+    "name": "スノーホワイト：イノセントデイズ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-027",
     "number": "PC02BT/NIK-2-027",
-    "name": "资料待补",
+    "name": "スノーホワイト：イノセントデイズ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4579,8 +4579,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-028_p1",
-    "number": "PC02BT/NIK-2-028/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-028",
+    "name": "スノーホワイト：イノセントデイズ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-028",
     "number": "PC02BT/NIK-2-028",
-    "name": "资料待补",
+    "name": "スノーホワイト：イノセントデイズ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4623,8 +4623,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-029_p1",
-    "number": "PC02BT/NIK-2-029/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-029",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-029",
     "number": "PC02BT/NIK-2-029",
-    "name": "资料待补",
+    "name": "ドロシー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-030",
     "number": "PC02BT/NIK-2-030",
-    "name": "资料待补",
+    "name": "ラプンツェル：ピュアグレイス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4689,8 +4689,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-031_p1",
-    "number": "PC02BT/NIK-2-031/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-031",
+    "name": "ラプンツェル：ピュアグレイス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-031",
     "number": "PC02BT/NIK-2-031",
-    "name": "资料待补",
+    "name": "ラプンツェル：ピュアグレイス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4733,8 +4733,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-032_p1",
-    "number": "PC02BT/NIK-2-032/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-032",
+    "name": "リリーバイス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-032",
     "number": "PC02BT/NIK-2-032",
-    "name": "资料待补",
+    "name": "リリーバイス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-033",
     "number": "PC02BT/NIK-2-033",
-    "name": "资料待补",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-034",
     "number": "PC02BT/NIK-2-034",
-    "name": "资料待补",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4821,8 +4821,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-035_p1",
-    "number": "PC02BT/NIK-2-035/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-035",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-035",
     "number": "PC02BT/NIK-2-035",
-    "name": "资料待补",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4865,8 +4865,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-036_p1",
-    "number": "PC02BT/NIK-2-036/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-036",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4887,8 +4887,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-036_p2",
-    "number": "PC02BT/NIK-2-036/p2",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-036",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-036",
     "number": "PC02BT/NIK-2-036",
-    "name": "资料待补",
+    "name": "レッドフード",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4931,8 +4931,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-037_p1",
-    "number": "PC02BT/NIK-2-037/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-037",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-037",
     "number": "PC02BT/NIK-2-037",
-    "name": "资料待补",
+    "name": "紅蓮",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-038",
     "number": "PC02BT/NIK-2-038",
-    "name": "资料待补",
+    "name": "勝利の女神ゴッデス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-039",
     "number": "PC02BT/NIK-2-039",
-    "name": "资料待补",
+    "name": "雪と狼",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5019,8 +5019,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-040_p1",
-    "number": "PC02BT/NIK-2-040/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-040",
+    "name": "アリス：ワンダーランドバニー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-040",
     "number": "PC02BT/NIK-2-040",
-    "name": "资料待补",
+    "name": "アリス：ワンダーランドバニー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-041",
     "number": "PC02BT/NIK-2-041",
-    "name": "资料待补",
+    "name": "ノワール",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-042",
     "number": "PC02BT/NIK-2-042",
-    "name": "资料待补",
+    "name": "ブラン",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5107,8 +5107,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-043_p1",
-    "number": "PC02BT/NIK-2-043/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-043",
+    "name": "ルージュ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-043",
     "number": "PC02BT/NIK-2-043",
-    "name": "资料待补",
+    "name": "ルージュ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5151,8 +5151,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-044_p1",
-    "number": "PC02BT/NIK-2-044/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-044",
+    "name": "ソーダ：トゥインクルバニー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-044",
     "number": "PC02BT/NIK-2-044",
-    "name": "资料待补",
+    "name": "ソーダ：トゥインクルバニー",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5195,8 +5195,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-045_p1",
-    "number": "PC02BT/NIK-2-045/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-045",
+    "name": "エレグ：ブーム・アンド・ショック",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-045",
     "number": "PC02BT/NIK-2-045",
-    "name": "资料待补",
+    "name": "エレグ：ブーム・アンド・ショック",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-046",
     "number": "PC02BT/NIK-2-046",
-    "name": "资料待补",
+    "name": "ティア",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-047",
     "number": "PC02BT/NIK-2-047",
-    "name": "资料待补",
+    "name": "ナガ",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5283,8 +5283,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-048_p1",
-    "number": "PC02BT/NIK-2-048/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-048",
+    "name": "ドレイク",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-048",
     "number": "PC02BT/NIK-2-048",
-    "name": "资料待补",
+    "name": "ドレイク",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-049",
     "number": "PC02BT/NIK-2-049",
-    "name": "资料待补",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5349,8 +5349,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-2-050_p1",
-    "number": "PC02BT/NIK-2-050/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-2-050",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-050",
     "number": "PC02BT/NIK-2-050",
-    "name": "资料待补",
+    "name": "ラプラス",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-2-051",
     "number": "PC02BT/NIK-2-051",
-    "name": "资料待补",
+    "name": "GOLDEN COIN RUSH",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5415,8 +5415,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-ap01_p1",
-    "number": "PC02BT/NIK-AP01/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-AP01",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-ap01",
     "number": "PC02BT/NIK-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5459,8 +5459,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-ap02_p1",
-    "number": "PC02BT/NIK-AP02/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-AP02",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-ap02",
     "number": "PC02BT/NIK-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5503,8 +5503,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-ap03_p1",
-    "number": "PC02BT/NIK-AP03/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-AP03",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-ap03",
     "number": "PC02BT/NIK-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5547,8 +5547,8 @@ export const nikkeCards: Card[] = [
   },
   {
     "id": "nikke-3-pc02bt_nik-ap04_p1",
-    "number": "PC02BT/NIK-AP04/p1",
-    "name": "资料待补",
+    "number": "PC02BT/NIK-AP04",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-ap04",
     "number": "PC02BT/NIK-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-ap05",
     "number": "PC02BT/NIK-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const nikkeCards: Card[] = [
   {
     "id": "nikke-3-pc02bt_nik-ap06",
     "number": "PC02BT/NIK-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
     "nameZh": "",
     "series": "胜利女神：妮姬",
     "color": "资料待补",

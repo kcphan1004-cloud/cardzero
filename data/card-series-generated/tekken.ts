@@ -4,7 +4,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-068",
     "number": "UA13ST/TKN-1-068",
-    "name": "资料待补",
+    "name": "アリサ・ボスコノビッチ",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-069",
     "number": "UA13ST/TKN-1-069",
-    "name": "资料待补",
+    "name": "風間 仁",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-079",
     "number": "UA13ST/TKN-1-079",
-    "name": "资料待补",
+    "name": "三島 一美",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-080",
     "number": "UA13ST/TKN-1-080",
-    "name": "资料待补",
+    "name": "三島 一美",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-085",
     "number": "UA13ST/TKN-1-085",
-    "name": "资料待补",
+    "name": "アンナ・ウィリアムズ",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-088",
     "number": "UA13ST/TKN-1-088",
-    "name": "资料待补",
+    "name": "三島 一八",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-094",
     "number": "UA13ST/TKN-1-094",
-    "name": "资料待补",
+    "name": "ラッキークロエ",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-097",
     "number": "UA13ST/TKN-1-097",
-    "name": "资料待补",
+    "name": "地獄へ送ってやろう！",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-099",
     "number": "UA13ST/TKN-1-099",
-    "name": "资料待补",
+    "name": "デビル因子",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-101",
     "number": "UA13ST/TKN-1-101",
-    "name": "资料待补",
+    "name": "風間 仁",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-102",
     "number": "UA13ST/TKN-1-102",
-    "name": "资料待补",
+    "name": "三島 一美",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-103",
     "number": "UA13ST/TKN-1-103",
-    "name": "资料待补",
+    "name": "三島 平八",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-104",
     "number": "UA13ST/TKN-1-104",
-    "name": "资料待补",
+    "name": "ラース・アレクサンダーソン",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-105",
     "number": "UA13ST/TKN-1-105",
-    "name": "资料待补",
+    "name": "李 超狼",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-106",
     "number": "UA13ST/TKN-1-106",
-    "name": "资料待补",
+    "name": "三島 一八",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-107",
     "number": "UA13ST/TKN-1-107",
-    "name": "资料待补",
+    "name": "三島 一八",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-108",
     "number": "UA13ST/TKN-1-108",
-    "name": "资料待补",
+    "name": "GET READY FOR THE NEXT BATTLE",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-109",
     "number": "UA13ST/TKN-1-109",
-    "name": "资料待补",
+    "name": "THE KING OF IRON FIST TOURNAMENT",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-ap01",
     "number": "UA13ST/TKN-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鉄拳7)",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const tekkenCards: Card[] = [
   {
     "id": "tekken-7-ua13st_tkn-1-ap02",
     "number": "UA13ST/TKN-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(鉄拳7)",
     "nameZh": "",
     "series": "tekken",
     "color": "资料待补",

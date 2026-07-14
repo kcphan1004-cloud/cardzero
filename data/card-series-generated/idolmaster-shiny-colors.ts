@@ -4,7 +4,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-001",
     "number": "UA04ST/IMS-1-001",
-    "name": "资料待补",
+    "name": "七草 はづき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-011",
     "number": "UA04ST/IMS-1-011",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-012",
     "number": "UA04ST/IMS-1-012",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-014",
     "number": "UA04ST/IMS-1-014",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-015",
     "number": "UA04ST/IMS-1-015",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-017",
     "number": "UA04ST/IMS-1-017",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-018",
     "number": "UA04ST/IMS-1-018",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-028",
     "number": "UA04ST/IMS-1-028",
-    "name": "资料待补",
+    "name": "お揃いスナップ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-030",
     "number": "UA04ST/IMS-1-030",
-    "name": "资料待补",
+    "name": "七草 はづき アシスト",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-101",
     "number": "UA04ST/IMS-1-101",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-102",
     "number": "UA04ST/IMS-1-102",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-103",
     "number": "UA04ST/IMS-1-103",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-104",
     "number": "UA04ST/IMS-1-104",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-105",
     "number": "UA04ST/IMS-1-105",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-106",
     "number": "UA04ST/IMS-1-106",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-107",
     "number": "UA04ST/IMS-1-107",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-108",
     "number": "UA04ST/IMS-1-108",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-109",
     "number": "UA04ST/IMS-1-109",
-    "name": "资料待补",
+    "name": "283プロダクション",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-ap01",
     "number": "UA04ST/IMS-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-ua04st_ims-1-ap02",
     "number": "UA04ST/IMS-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-001",
     "number": "UA04BT/IMS-1-001",
-    "name": "资料待补",
+    "name": "七草 はづき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-002",
     "number": "UA04BT/IMS-1-002",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-003",
     "number": "UA04BT/IMS-1-003",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-004_p1",
     "number": "UA04BT/IMS-1-004",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-004_p2",
     "number": "UA04BT/IMS-1-004",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-004",
     "number": "UA04BT/IMS-1-004",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-005",
     "number": "UA04BT/IMS-1-005",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-006",
     "number": "UA04BT/IMS-1-006",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-007_p1",
     "number": "UA04BT/IMS-1-007",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-007",
     "number": "UA04BT/IMS-1-007",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-008",
     "number": "UA04BT/IMS-1-008",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-009",
     "number": "UA04BT/IMS-1-009",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-010_p1",
     "number": "UA04BT/IMS-1-010",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-010",
     "number": "UA04BT/IMS-1-010",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-011",
     "number": "UA04BT/IMS-1-011",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-012",
     "number": "UA04BT/IMS-1-012",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-013_p1",
     "number": "UA04BT/IMS-1-013",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-013",
     "number": "UA04BT/IMS-1-013",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-014",
     "number": "UA04BT/IMS-1-014",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-015",
     "number": "UA04BT/IMS-1-015",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-016_p1",
     "number": "UA04BT/IMS-1-016",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-016_p2",
     "number": "UA04BT/IMS-1-016",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-016_p3",
     "number": "UA04BT/IMS-1-016",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-016",
     "number": "UA04BT/IMS-1-016",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-017",
     "number": "UA04BT/IMS-1-017",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-018",
     "number": "UA04BT/IMS-1-018",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-019_p1",
     "number": "UA04BT/IMS-1-019",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-019",
     "number": "UA04BT/IMS-1-019",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-020",
     "number": "UA04BT/IMS-1-020",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-021",
     "number": "UA04BT/IMS-1-021",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-022_p1",
     "number": "UA04BT/IMS-1-022",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-022",
     "number": "UA04BT/IMS-1-022",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-023",
     "number": "UA04BT/IMS-1-023",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-024",
     "number": "UA04BT/IMS-1-024",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-025_p1",
     "number": "UA04BT/IMS-1-025",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-025_p2",
     "number": "UA04BT/IMS-1-025",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-025",
     "number": "UA04BT/IMS-1-025",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-026",
     "number": "UA04BT/IMS-1-026",
-    "name": "资料待补",
+    "name": "アイムカミングスーン",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-027",
     "number": "UA04BT/IMS-1-027",
-    "name": "资料待补",
+    "name": "あっかい",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-028",
     "number": "UA04BT/IMS-1-028",
-    "name": "资料待补",
+    "name": "お揃いスナップ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-029",
     "number": "UA04BT/IMS-1-029",
-    "name": "资料待补",
+    "name": "こんなのホラーでしょ最悪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-030",
     "number": "UA04BT/IMS-1-030",
-    "name": "资料待补",
+    "name": "七草 はづき アシスト",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-031",
     "number": "UA04BT/IMS-1-031",
-    "name": "资料待补",
+    "name": "初風Nostalgia",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-032",
     "number": "UA04BT/IMS-1-032",
-    "name": "资料待补",
+    "name": "満開、うまストロメリア",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-033",
     "number": "UA04BT/IMS-1-033",
-    "name": "资料待补",
+    "name": "七草 はづき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-034",
     "number": "UA04BT/IMS-1-034",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-035",
     "number": "UA04BT/IMS-1-035",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-036_p1",
     "number": "UA04BT/IMS-1-036",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-036",
     "number": "UA04BT/IMS-1-036",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-037",
     "number": "UA04BT/IMS-1-037",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-038",
     "number": "UA04BT/IMS-1-038",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-039_p1",
     "number": "UA04BT/IMS-1-039",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-039",
     "number": "UA04BT/IMS-1-039",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-040",
     "number": "UA04BT/IMS-1-040",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-041",
     "number": "UA04BT/IMS-1-041",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-042_p1",
     "number": "UA04BT/IMS-1-042",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-042_p2",
     "number": "UA04BT/IMS-1-042",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-042",
     "number": "UA04BT/IMS-1-042",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-043",
     "number": "UA04BT/IMS-1-043",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-044",
     "number": "UA04BT/IMS-1-044",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-045_p1",
     "number": "UA04BT/IMS-1-045",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-045",
     "number": "UA04BT/IMS-1-045",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-046",
     "number": "UA04BT/IMS-1-046",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-047",
     "number": "UA04BT/IMS-1-047",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-048_p1",
     "number": "UA04BT/IMS-1-048",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-048",
     "number": "UA04BT/IMS-1-048",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-049",
     "number": "UA04BT/IMS-1-049",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-050",
     "number": "UA04BT/IMS-1-050",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-051_p1",
     "number": "UA04BT/IMS-1-051",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-051_p2",
     "number": "UA04BT/IMS-1-051",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-051",
     "number": "UA04BT/IMS-1-051",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-052",
     "number": "UA04BT/IMS-1-052",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-053",
     "number": "UA04BT/IMS-1-053",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-054_p1",
     "number": "UA04BT/IMS-1-054",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-054",
     "number": "UA04BT/IMS-1-054",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-055",
     "number": "UA04BT/IMS-1-055",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-056",
     "number": "UA04BT/IMS-1-056",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-057_p1",
     "number": "UA04BT/IMS-1-057",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-057",
     "number": "UA04BT/IMS-1-057",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-058",
     "number": "UA04BT/IMS-1-058",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-059",
     "number": "UA04BT/IMS-1-059",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-060_p1",
     "number": "UA04BT/IMS-1-060",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-060",
     "number": "UA04BT/IMS-1-060",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-061",
     "number": "UA04BT/IMS-1-061",
-    "name": "资料待补",
+    "name": "かっとばし党の長い夏",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-062",
     "number": "UA04BT/IMS-1-062",
-    "name": "资料待补",
+    "name": "SIDE：K",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-063",
     "number": "UA04BT/IMS-1-063",
-    "name": "资料待补",
+    "name": "七草 はづき アシスト",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-064",
     "number": "UA04BT/IMS-1-064",
-    "name": "资料待补",
+    "name": "ハシルウマ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-065",
     "number": "UA04BT/IMS-1-065",
-    "name": "资料待补",
+    "name": "ばら色ハーモニー",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-066",
     "number": "UA04BT/IMS-1-066",
-    "name": "资料待补",
+    "name": "faaaar",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-067",
     "number": "UA04BT/IMS-1-067",
-    "name": "资料待补",
+    "name": "翻弄by♡time",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-068",
     "number": "UA04BT/IMS-1-068",
-    "name": "资料待补",
+    "name": "七草 はづき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-069",
     "number": "UA04BT/IMS-1-069",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-070",
     "number": "UA04BT/IMS-1-070",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-071_p1",
     "number": "UA04BT/IMS-1-071",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-071",
     "number": "UA04BT/IMS-1-071",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-072",
     "number": "UA04BT/IMS-1-072",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-073",
     "number": "UA04BT/IMS-1-073",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-074_p1",
     "number": "UA04BT/IMS-1-074",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-074_p2",
     "number": "UA04BT/IMS-1-074",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-074",
     "number": "UA04BT/IMS-1-074",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-075",
     "number": "UA04BT/IMS-1-075",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-076",
     "number": "UA04BT/IMS-1-076",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-077_p1",
     "number": "UA04BT/IMS-1-077",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-077",
     "number": "UA04BT/IMS-1-077",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-078",
     "number": "UA04BT/IMS-1-078",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-079",
     "number": "UA04BT/IMS-1-079",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-080_p1",
     "number": "UA04BT/IMS-1-080",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-080",
     "number": "UA04BT/IMS-1-080",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-081",
     "number": "UA04BT/IMS-1-081",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-082",
     "number": "UA04BT/IMS-1-082",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-083_p1",
     "number": "UA04BT/IMS-1-083",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-083_p2",
     "number": "UA04BT/IMS-1-083",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-083",
     "number": "UA04BT/IMS-1-083",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-084",
     "number": "UA04BT/IMS-1-084",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-085",
     "number": "UA04BT/IMS-1-085",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-086_p1",
     "number": "UA04BT/IMS-1-086",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-086",
     "number": "UA04BT/IMS-1-086",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-087",
     "number": "UA04BT/IMS-1-087",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-088",
     "number": "UA04BT/IMS-1-088",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-089_p1",
     "number": "UA04BT/IMS-1-089",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-089",
     "number": "UA04BT/IMS-1-089",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-090",
     "number": "UA04BT/IMS-1-090",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-091",
     "number": "UA04BT/IMS-1-091",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-092_p1",
     "number": "UA04BT/IMS-1-092",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-092",
     "number": "UA04BT/IMS-1-092",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-093",
     "number": "UA04BT/IMS-1-093",
-    "name": "资料待补",
+    "name": "キング・アンド・ヒーロー",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-094",
     "number": "UA04BT/IMS-1-094",
-    "name": "资料待补",
+    "name": "グッド・ラック・ボール",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-095",
     "number": "UA04BT/IMS-1-095",
-    "name": "资料待补",
+    "name": "ぐるもこ・まふ×２",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-096",
     "number": "UA04BT/IMS-1-096",
-    "name": "资料待补",
+    "name": "馴染まないで非日常",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-097",
     "number": "UA04BT/IMS-1-097",
-    "name": "资料待补",
+    "name": "七草 はづき アシスト",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-098",
     "number": "UA04BT/IMS-1-098",
-    "name": "资料待补",
+    "name": "ノー墨・勝者フェイス",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-099",
     "number": "UA04BT/IMS-1-099",
-    "name": "资料待补",
+    "name": "腹が減っては遊びはできぬ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-100",
     "number": "UA04BT/IMS-1-100",
-    "name": "资料待补",
+    "name": "反撃の狼煙をあげよ！",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-ap01",
     "number": "UA04BT/IMS-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-ap02",
     "number": "UA04BT/IMS-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-ap03",
     "number": "UA04BT/IMS-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-ap04",
     "number": "UA04BT/IMS-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-ap05",
     "number": "UA04BT/IMS-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-2-ua04bt_ims-1-ap06",
     "number": "UA04BT/IMS-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-001",
     "number": "EX03BT/IMS-2-001",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-002",
     "number": "EX03BT/IMS-2-002",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-003",
     "number": "EX03BT/IMS-2-003",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-004",
     "number": "EX03BT/IMS-2-004",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-005",
     "number": "EX03BT/IMS-2-005",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-006_p1",
     "number": "EX03BT/IMS-2-006",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-006",
     "number": "EX03BT/IMS-2-006",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-007",
     "number": "EX03BT/IMS-2-007",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-008_p1",
     "number": "EX03BT/IMS-2-008",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-008",
     "number": "EX03BT/IMS-2-008",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-009",
     "number": "EX03BT/IMS-2-009",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-010_p1",
     "number": "EX03BT/IMS-2-010",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-010",
     "number": "EX03BT/IMS-2-010",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-011_p1",
     "number": "EX03BT/IMS-2-011",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-011",
     "number": "EX03BT/IMS-2-011",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-012",
     "number": "EX03BT/IMS-2-012",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-013_p1",
     "number": "EX03BT/IMS-2-013",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-013",
     "number": "EX03BT/IMS-2-013",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-014",
     "number": "EX03BT/IMS-2-014",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-015",
     "number": "EX03BT/IMS-2-015",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-016",
     "number": "EX03BT/IMS-2-016",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-017",
     "number": "EX03BT/IMS-2-017",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-018",
     "number": "EX03BT/IMS-2-018",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-019",
     "number": "EX03BT/IMS-2-019",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-020_p1",
     "number": "EX03BT/IMS-2-020",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-020",
     "number": "EX03BT/IMS-2-020",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-021",
     "number": "EX03BT/IMS-2-021",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-022_p1",
     "number": "EX03BT/IMS-2-022",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-022",
     "number": "EX03BT/IMS-2-022",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-023",
     "number": "EX03BT/IMS-2-023",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-024_p1",
     "number": "EX03BT/IMS-2-024",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-024",
     "number": "EX03BT/IMS-2-024",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-025",
     "number": "EX03BT/IMS-2-025",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-026_p1",
     "number": "EX03BT/IMS-2-026",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-026",
     "number": "EX03BT/IMS-2-026",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-027",
     "number": "EX03BT/IMS-2-027",
-    "name": "资料待补",
+    "name": "七草 はづき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-028",
     "number": "EX03BT/IMS-2-028",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-029",
     "number": "EX03BT/IMS-2-029",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-030_p1",
     "number": "EX03BT/IMS-2-030",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-030",
     "number": "EX03BT/IMS-2-030",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-031",
     "number": "EX03BT/IMS-2-031",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-032",
     "number": "EX03BT/IMS-2-032",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-033",
     "number": "EX03BT/IMS-2-033",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-034_p1",
     "number": "EX03BT/IMS-2-034",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-034",
     "number": "EX03BT/IMS-2-034",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-035",
     "number": "EX03BT/IMS-2-035",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-036",
     "number": "EX03BT/IMS-2-036",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-037",
     "number": "EX03BT/IMS-2-037",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-038_p1",
     "number": "EX03BT/IMS-2-038",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-038",
     "number": "EX03BT/IMS-2-038",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-039",
     "number": "EX03BT/IMS-2-039",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-040_p1",
     "number": "EX03BT/IMS-2-040",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-040_p2",
     "number": "EX03BT/IMS-2-040",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-040",
     "number": "EX03BT/IMS-2-040",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-041",
     "number": "EX03BT/IMS-2-041",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-042",
     "number": "EX03BT/IMS-2-042",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-043_p1",
     "number": "EX03BT/IMS-2-043",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-043_p2",
     "number": "EX03BT/IMS-2-043",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-043",
     "number": "EX03BT/IMS-2-043",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-044",
     "number": "EX03BT/IMS-2-044",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-045",
     "number": "EX03BT/IMS-2-045",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-046_p1",
     "number": "EX03BT/IMS-2-046",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-046_p2",
     "number": "EX03BT/IMS-2-046",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-046_p3",
     "number": "EX03BT/IMS-2-046",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-046",
     "number": "EX03BT/IMS-2-046",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-047",
     "number": "EX03BT/IMS-2-047",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-048",
     "number": "EX03BT/IMS-2-048",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-049_p1",
     "number": "EX03BT/IMS-2-049",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-049_p2",
     "number": "EX03BT/IMS-2-049",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-049",
     "number": "EX03BT/IMS-2-049",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-050",
     "number": "EX03BT/IMS-2-050",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-051",
     "number": "EX03BT/IMS-2-051",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-052_p1",
     "number": "EX03BT/IMS-2-052",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-052_p2",
     "number": "EX03BT/IMS-2-052",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-052",
     "number": "EX03BT/IMS-2-052",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-053_p1",
     "number": "EX03BT/IMS-2-053",
-    "name": "资料待补",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-053",
     "number": "EX03BT/IMS-2-053",
-    "name": "资料待补",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-054",
     "number": "EX03BT/IMS-2-054",
-    "name": "资料待补",
+    "name": "283プロダクション",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-055",
     "number": "EX03BT/IMS-2-055",
-    "name": "资料待补",
+    "name": "SIDE：Y",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-056",
     "number": "EX03BT/IMS-2-056",
-    "name": "资料待补",
+    "name": "Summer for Us",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-057",
     "number": "EX03BT/IMS-2-057",
-    "name": "资料待补",
+    "name": "七草 はづき アシスト",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-058",
     "number": "EX03BT/IMS-2-058",
-    "name": "资料待补",
+    "name": "Noir",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-059",
     "number": "EX03BT/IMS-2-059",
-    "name": "资料待补",
+    "name": "マジカル＊スカイレース",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-060",
     "number": "EX03BT/IMS-2-060",
-    "name": "资料待补",
+    "name": "やけん、なんの話～！？",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-061_p1",
     "number": "EX03BT/IMS-2-061",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-061",
     "number": "EX03BT/IMS-2-061",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-062",
     "number": "EX03BT/IMS-2-062",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-063",
     "number": "EX03BT/IMS-2-063",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-064_p1",
     "number": "EX03BT/IMS-2-064",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-064",
     "number": "EX03BT/IMS-2-064",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-065",
     "number": "EX03BT/IMS-2-065",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-066_p1",
     "number": "EX03BT/IMS-2-066",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-066",
     "number": "EX03BT/IMS-2-066",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-067_p1",
     "number": "EX03BT/IMS-2-067",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-067",
     "number": "EX03BT/IMS-2-067",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-068_p1",
     "number": "EX03BT/IMS-2-068",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-068",
     "number": "EX03BT/IMS-2-068",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-069_p1",
     "number": "EX03BT/IMS-2-069",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-069",
     "number": "EX03BT/IMS-2-069",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-070_p1",
     "number": "EX03BT/IMS-2-070",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-070",
     "number": "EX03BT/IMS-2-070",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-071_p1",
     "number": "EX03BT/IMS-2-071",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5746,7 +5746,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-071",
     "number": "EX03BT/IMS-2-071",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5768,7 +5768,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-072",
     "number": "EX03BT/IMS-2-072",
-    "name": "资料待补",
+    "name": "月に向かって吠えろ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5790,7 +5790,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-073",
     "number": "EX03BT/IMS-2-073",
-    "name": "资料待补",
+    "name": "無敵の証！五紋章！",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5812,7 +5812,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap01",
     "number": "EX03BT/IMS-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5834,7 +5834,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap02",
     "number": "EX03BT/IMS-2-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5856,7 +5856,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap03",
     "number": "EX03BT/IMS-2-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5878,7 +5878,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap04",
     "number": "EX03BT/IMS-2-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5900,7 +5900,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap05",
     "number": "EX03BT/IMS-2-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5922,7 +5922,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap06",
     "number": "EX03BT/IMS-2-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5944,7 +5944,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap07",
     "number": "EX03BT/IMS-2-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5966,7 +5966,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-3-ex03bt_ims-2-ap08",
     "number": "EX03BT/IMS-2-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -5988,7 +5988,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-001",
     "number": "PC01BT/IMS-3-001",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6009,8 +6009,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-002_p1",
-    "number": "PC01BT/IMS-3-002/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-002",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6032,7 +6032,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-002",
     "number": "PC01BT/IMS-3-002",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6053,8 +6053,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-003_p1",
-    "number": "PC01BT/IMS-3-003/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-003",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6076,7 +6076,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-003",
     "number": "PC01BT/IMS-3-003",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6097,8 +6097,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-004_p1",
-    "number": "PC01BT/IMS-3-004/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-004",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6120,7 +6120,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-004",
     "number": "PC01BT/IMS-3-004",
-    "name": "资料待补",
+    "name": "櫻木 真乃",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6141,8 +6141,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-005_p1",
-    "number": "PC01BT/IMS-3-005/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-005",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6164,7 +6164,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-005",
     "number": "PC01BT/IMS-3-005",
-    "name": "资料待补",
+    "name": "八宮 めぐる",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6185,8 +6185,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-006_p1",
-    "number": "PC01BT/IMS-3-006/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-006",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6208,7 +6208,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-006",
     "number": "PC01BT/IMS-3-006",
-    "name": "资料待补",
+    "name": "風野 灯織",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6229,8 +6229,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-007_p1",
-    "number": "PC01BT/IMS-3-007/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-007",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6252,7 +6252,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-007",
     "number": "PC01BT/IMS-3-007",
-    "name": "资料待补",
+    "name": "緋田 美琴",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6273,8 +6273,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-008_p1",
-    "number": "PC01BT/IMS-3-008/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-008",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6296,7 +6296,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-008",
     "number": "PC01BT/IMS-3-008",
-    "name": "资料待补",
+    "name": "七草 にちか",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6318,7 +6318,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-009",
     "number": "PC01BT/IMS-3-009",
-    "name": "资料待补",
+    "name": "私たちらしく",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6340,7 +6340,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-010",
     "number": "PC01BT/IMS-3-010",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6362,7 +6362,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-011",
     "number": "PC01BT/IMS-3-011",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6383,8 +6383,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-012_p1",
-    "number": "PC01BT/IMS-3-012/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-012",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6406,7 +6406,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-012",
     "number": "PC01BT/IMS-3-012",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6428,7 +6428,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-013",
     "number": "PC01BT/IMS-3-013",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6449,8 +6449,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-014_p1",
-    "number": "PC01BT/IMS-3-014/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-014",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6472,7 +6472,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-014",
     "number": "PC01BT/IMS-3-014",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6493,8 +6493,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-015_p1",
-    "number": "PC01BT/IMS-3-015/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-015",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6516,7 +6516,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-015",
     "number": "PC01BT/IMS-3-015",
-    "name": "资料待补",
+    "name": "浅倉 透",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6537,8 +6537,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-016_p1",
-    "number": "PC01BT/IMS-3-016/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-016",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6560,7 +6560,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-016",
     "number": "PC01BT/IMS-3-016",
-    "name": "资料待补",
+    "name": "市川 雛菜",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6581,8 +6581,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-017_p1",
-    "number": "PC01BT/IMS-3-017/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-017",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6604,7 +6604,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-017",
     "number": "PC01BT/IMS-3-017",
-    "name": "资料待补",
+    "name": "樋口 円香",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6625,8 +6625,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-018_p1",
-    "number": "PC01BT/IMS-3-018/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-018",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6648,7 +6648,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-018",
     "number": "PC01BT/IMS-3-018",
-    "name": "资料待补",
+    "name": "福丸 小糸",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6670,7 +6670,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-019",
     "number": "PC01BT/IMS-3-019",
-    "name": "资料待补",
+    "name": "がんばれ！ ノロマ号",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6691,8 +6691,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-020_p1",
-    "number": "PC01BT/IMS-3-020/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-020",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6714,7 +6714,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-020",
     "number": "PC01BT/IMS-3-020",
-    "name": "资料待补",
+    "name": "大崎 甘奈",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6736,7 +6736,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-021",
     "number": "PC01BT/IMS-3-021",
-    "name": "资料待补",
+    "name": "大崎 甜花",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6758,7 +6758,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-022",
     "number": "PC01BT/IMS-3-022",
-    "name": "资料待补",
+    "name": "桑山 千雪",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6779,8 +6779,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-023_p1",
-    "number": "PC01BT/IMS-3-023/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-023",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6802,7 +6802,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-023",
     "number": "PC01BT/IMS-3-023",
-    "name": "资料待补",
+    "name": "白瀬 咲耶",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6823,8 +6823,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-024_p1",
-    "number": "PC01BT/IMS-3-024/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-024",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6846,7 +6846,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-024",
     "number": "PC01BT/IMS-3-024",
-    "name": "资料待补",
+    "name": "田中 摩美々",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6868,7 +6868,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-025",
     "number": "PC01BT/IMS-3-025",
-    "name": "资料待补",
+    "name": "月岡 恋鐘",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6889,8 +6889,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-026_p1",
-    "number": "PC01BT/IMS-3-026/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-026",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6912,7 +6912,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-026",
     "number": "PC01BT/IMS-3-026",
-    "name": "资料待补",
+    "name": "三峰 結華",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6934,7 +6934,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-027",
     "number": "PC01BT/IMS-3-027",
-    "name": "资料待补",
+    "name": "幽谷 霧子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6956,7 +6956,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-028",
     "number": "PC01BT/IMS-3-028",
-    "name": "资料待补",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6978,7 +6978,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-029",
     "number": "PC01BT/IMS-3-029",
-    "name": "资料待补",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -6999,8 +6999,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-030_p1",
-    "number": "PC01BT/IMS-3-030/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-030",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7022,7 +7022,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-030",
     "number": "PC01BT/IMS-3-030",
-    "name": "资料待补",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7043,8 +7043,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-031_p1",
-    "number": "PC01BT/IMS-3-031/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-031",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7065,8 +7065,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-031_p2",
-    "number": "PC01BT/IMS-3-031/p2",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-031",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7088,7 +7088,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-031",
     "number": "PC01BT/IMS-3-031",
-    "name": "资料待补",
+    "name": "斑鳩 ルカ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7110,7 +7110,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-032",
     "number": "PC01BT/IMS-3-032",
-    "name": "资料待补",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7132,7 +7132,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-033",
     "number": "PC01BT/IMS-3-033",
-    "name": "资料待补",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7153,8 +7153,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-034_p1",
-    "number": "PC01BT/IMS-3-034/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-034",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7176,7 +7176,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-034",
     "number": "PC01BT/IMS-3-034",
-    "name": "资料待补",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7197,8 +7197,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-035_p1",
-    "number": "PC01BT/IMS-3-035/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-035",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7220,7 +7220,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-035",
     "number": "PC01BT/IMS-3-035",
-    "name": "资料待补",
+    "name": "郁田 はるき",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7242,7 +7242,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-036",
     "number": "PC01BT/IMS-3-036",
-    "name": "资料待补",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7264,7 +7264,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-037",
     "number": "PC01BT/IMS-3-037",
-    "name": "资料待补",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7285,8 +7285,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-038_p1",
-    "number": "PC01BT/IMS-3-038/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-038",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7308,7 +7308,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-038",
     "number": "PC01BT/IMS-3-038",
-    "name": "资料待补",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7329,8 +7329,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-039_p1",
-    "number": "PC01BT/IMS-3-039/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-039",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7352,7 +7352,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-039",
     "number": "PC01BT/IMS-3-039",
-    "name": "资料待补",
+    "name": "鈴木 羽那",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7374,7 +7374,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-040",
     "number": "PC01BT/IMS-3-040",
-    "name": "资料待补",
+    "name": "黒色彗星",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7396,7 +7396,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-041",
     "number": "PC01BT/IMS-3-041",
-    "name": "资料待补",
+    "name": "※CAUTION※",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7417,8 +7417,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-042_p1",
-    "number": "PC01BT/IMS-3-042/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-042",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7439,8 +7439,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-042_p2",
-    "number": "PC01BT/IMS-3-042/p2",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-042",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7462,7 +7462,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-042",
     "number": "PC01BT/IMS-3-042",
-    "name": "资料待补",
+    "name": "和泉 愛依",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7483,8 +7483,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-043_p1",
-    "number": "PC01BT/IMS-3-043/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-043",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7505,8 +7505,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-043_p2",
-    "number": "PC01BT/IMS-3-043/p2",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-043",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7527,8 +7527,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-043_p3",
-    "number": "PC01BT/IMS-3-043/p3",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-043",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7550,7 +7550,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-043",
     "number": "PC01BT/IMS-3-043",
-    "name": "资料待补",
+    "name": "芹沢 あさひ",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7571,8 +7571,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-044_p1",
-    "number": "PC01BT/IMS-3-044/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-044",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7593,8 +7593,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-044_p2",
-    "number": "PC01BT/IMS-3-044/p2",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-044",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7616,7 +7616,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-044",
     "number": "PC01BT/IMS-3-044",
-    "name": "资料待补",
+    "name": "黛 冬優子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7637,8 +7637,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-045_p1",
-    "number": "PC01BT/IMS-3-045/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-045",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7660,7 +7660,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-045",
     "number": "PC01BT/IMS-3-045",
-    "name": "资料待补",
+    "name": "有栖川 夏葉",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7681,8 +7681,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-046_p1",
-    "number": "PC01BT/IMS-3-046/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-046",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7704,7 +7704,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-046",
     "number": "PC01BT/IMS-3-046",
-    "name": "资料待补",
+    "name": "小宮 果穂",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7725,8 +7725,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-047_p1",
-    "number": "PC01BT/IMS-3-047/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-047",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7748,7 +7748,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-047",
     "number": "PC01BT/IMS-3-047",
-    "name": "资料待补",
+    "name": "西城 樹里",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7769,8 +7769,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-048_p1",
-    "number": "PC01BT/IMS-3-048/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-048",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7792,7 +7792,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-048",
     "number": "PC01BT/IMS-3-048",
-    "name": "资料待补",
+    "name": "園田 智代子",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7813,8 +7813,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-049_p1",
-    "number": "PC01BT/IMS-3-049/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-049",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7836,7 +7836,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-049",
     "number": "PC01BT/IMS-3-049",
-    "name": "资料待补",
+    "name": "杜野 凛世",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7858,7 +7858,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-050",
     "number": "PC01BT/IMS-3-050",
-    "name": "资料待补",
+    "name": "獲るよ！",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7880,7 +7880,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap01",
     "number": "PC01BT/IMS-3-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7902,7 +7902,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap02",
     "number": "PC01BT/IMS-3-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7924,7 +7924,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap03",
     "number": "PC01BT/IMS-3-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7946,7 +7946,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap04",
     "number": "PC01BT/IMS-3-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7967,8 +7967,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap05_p1",
-    "number": "PC01BT/IMS-3-AP05/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-AP05",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -7989,8 +7989,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap05_p2",
-    "number": "PC01BT/IMS-3-AP05/p2",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-AP05",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8011,8 +8011,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap05_p3",
-    "number": "PC01BT/IMS-3-AP05/p3",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-AP05",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8034,7 +8034,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap05",
     "number": "PC01BT/IMS-3-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8056,7 +8056,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap06",
     "number": "PC01BT/IMS-3-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8078,7 +8078,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap07",
     "number": "PC01BT/IMS-3-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8099,8 +8099,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap08_p1",
-    "number": "PC01BT/IMS-3-AP08/p1",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-AP08",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8121,8 +8121,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap08_p2",
-    "number": "PC01BT/IMS-3-AP08/p2",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-AP08",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8143,8 +8143,8 @@ export const idolmasterShinyColorsCards: Card[] = [
   },
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap08_p3",
-    "number": "PC01BT/IMS-3-AP08/p3",
-    "name": "资料待补",
+    "number": "PC01BT/IMS-3-AP08",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",
@@ -8166,7 +8166,7 @@ export const idolmasterShinyColorsCards: Card[] = [
   {
     "id": "idolmaster-shiny-colors-4-pc01bt_ims-3-ap08",
     "number": "PC01BT/IMS-3-AP08",
-    "name": "资料待补",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
     "nameZh": "",
     "series": "偶像大师 闪耀色彩",
     "color": "资料待补",

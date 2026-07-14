@@ -4,7 +4,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-016",
     "number": "UA29ST/KMR-1-016",
-    "name": "资料待补",
+    "name": "仮面ライダーバルカン アサルトウルフ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-017",
     "number": "UA29ST/KMR-1-017",
-    "name": "资料待补",
+    "name": "仮面ライダーバルカン シューティングウルフ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-018",
     "number": "UA29ST/KMR-1-018",
-    "name": "资料待补",
+    "name": "仮面ライダーバルキリー ラッシングチーター",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-023",
     "number": "UA29ST/KMR-1-023",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン ライジングホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-025",
     "number": "UA29ST/KMR-1-025",
-    "name": "资料待补",
+    "name": "仮面ライダー迅 バーニングファルコン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-026",
     "number": "UA29ST/KMR-1-026",
-    "name": "资料待补",
+    "name": "仮面ライダー迅 フライングファルコン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-027",
     "number": "UA29ST/KMR-1-027",
-    "name": "资料待补",
+    "name": "仮面ライダー滅",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-032",
     "number": "UA29ST/KMR-1-032",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-033",
     "number": "UA29ST/KMR-1-033",
-    "name": "资料待补",
+    "name": "ライジングインパクト",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-101",
     "number": "UA29ST/KMR-1-101",
-    "name": "资料待补",
+    "name": "仮面ライダー001",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-102",
     "number": "UA29ST/KMR-1-102",
-    "name": "资料待补",
+    "name": "仮面ライダーバルカン パンチングコング",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-103",
     "number": "UA29ST/KMR-1-103",
-    "name": "资料待补",
+    "name": "仮面ライダーバルキリー ライトニングホーネット",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-104",
     "number": "UA29ST/KMR-1-104",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロツー（或人）",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-105",
     "number": "UA29ST/KMR-1-105",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン シャイニングアサルトホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-106",
     "number": "UA29ST/KMR-1-106",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン シャイニングホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-107",
     "number": "UA29ST/KMR-1-107",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン リアライジングホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-108",
     "number": "UA29ST/KMR-1-108",
-    "name": "资料待补",
+    "name": "衛星ゼア",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-109",
     "number": "UA29ST/KMR-1-109",
-    "name": "资料待补",
+    "name": "お前を止められるのはただ一人、俺だ！",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-110_p1",
     "number": "UA29ST/KMR-1-110",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タトバ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-110",
     "number": "UA29ST/KMR-1-110",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タトバ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-111_p1",
     "number": "UA29ST/KMR-1-111",
-    "name": "资料待补",
+    "name": "仮面ライダーゲンム アクションゲーマー レベル0",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-111",
     "number": "UA29ST/KMR-1-111",
-    "name": "资料待补",
+    "name": "仮面ライダーゲンム アクションゲーマー レベル0",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-112_p1",
     "number": "UA29ST/KMR-1-112",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロノス ベガフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-112",
     "number": "UA29ST/KMR-1-112",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロノス ベガフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-113_p1",
     "number": "UA29ST/KMR-1-113",
-    "name": "资料待补",
+    "name": "仮面ライダーミューズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-113",
     "number": "UA29ST/KMR-1-113",
-    "name": "资料待补",
+    "name": "仮面ライダーミューズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-ua29st_kmr-1-ap01",
     "number": "UA29ST/KMR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-001_p1",
     "number": "UA29BT/KMR-1-001",
-    "name": "资料待补",
+    "name": "仮面ライダーアークワン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-001",
     "number": "UA29BT/KMR-1-001",
-    "name": "资料待补",
+    "name": "仮面ライダーアークワン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-002_p1",
     "number": "UA29BT/KMR-1-002",
-    "name": "资料待补",
+    "name": "仮面ライダーウォズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-002",
     "number": "UA29BT/KMR-1-002",
-    "name": "资料待补",
+    "name": "仮面ライダーウォズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-003",
     "number": "UA29BT/KMR-1-003",
-    "name": "资料待补",
+    "name": "仮面ライダーウォズギンガファイナリー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-004_p1",
     "number": "UA29BT/KMR-1-004",
-    "name": "资料待补",
+    "name": "仮面ライダーオーマジオウ (2019)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-004",
     "number": "UA29BT/KMR-1-004",
-    "name": "资料待补",
+    "name": "仮面ライダーオーマジオウ (2019)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-005_p1",
     "number": "UA29BT/KMR-1-005",
-    "name": "资料待补",
+    "name": "仮面ライダーグランドジオウ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-005",
     "number": "UA29BT/KMR-1-005",
-    "name": "资料待补",
+    "name": "仮面ライダーグランドジオウ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-006",
     "number": "UA29BT/KMR-1-006",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-007",
     "number": "UA29BT/KMR-1-007",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツ ゴーストアーマー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-008_p1",
     "number": "UA29BT/KMR-1-008",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツリバイブ剛烈",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-008",
     "number": "UA29BT/KMR-1-008",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツリバイブ剛烈",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-009_p1",
     "number": "UA29BT/KMR-1-009",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツリバイブ疾風",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-009",
     "number": "UA29BT/KMR-1-009",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツリバイブ疾風",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-010",
     "number": "UA29BT/KMR-1-010",
-    "name": "资料待补",
+    "name": "仮面ライダージオウ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-011",
     "number": "UA29BT/KMR-1-011",
-    "name": "资料待补",
+    "name": "仮面ライダージオウⅡ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-012",
     "number": "UA29BT/KMR-1-012",
-    "name": "资料待补",
+    "name": "仮面ライダージオウ ディケイドアーマー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-013",
     "number": "UA29BT/KMR-1-013",
-    "name": "资料待补",
+    "name": "仮面ライダージオウトリニティ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-014",
     "number": "UA29BT/KMR-1-014",
-    "name": "资料待补",
+    "name": "仮面ライダージオウ ビルドアーマー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-015",
     "number": "UA29BT/KMR-1-015",
-    "name": "资料待补",
+    "name": "仮面ライダーツクヨミ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-016",
     "number": "UA29BT/KMR-1-016",
-    "name": "资料待补",
+    "name": "仮面ライダーバルカン アサルトウルフ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-017",
     "number": "UA29BT/KMR-1-017",
-    "name": "资料待补",
+    "name": "仮面ライダーバルカン シューティングウルフ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-018_p1",
     "number": "UA29BT/KMR-1-018",
-    "name": "资料待补",
+    "name": "仮面ライダーバルキリー ラッシングチーター",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-018",
     "number": "UA29BT/KMR-1-018",
-    "name": "资料待补",
+    "name": "仮面ライダーバルキリー ラッシングチーター",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-019_p1",
     "number": "UA29BT/KMR-1-019",
-    "name": "资料待补",
+    "name": "仮面ライダーランペイジバルカン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-019",
     "number": "UA29BT/KMR-1-019",
-    "name": "资料待补",
+    "name": "仮面ライダーランペイジバルカン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-020",
     "number": "UA29BT/KMR-1-020",
-    "name": "资料待补",
+    "name": "仮面ライダーサウザー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-021_p1",
     "number": "UA29BT/KMR-1-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロツー（イズ）",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-021_p2",
     "number": "UA29BT/KMR-1-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロツー（イズ）",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-021",
     "number": "UA29BT/KMR-1-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロツー（イズ）",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-022",
     "number": "UA29BT/KMR-1-022",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン メタルクラスタホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-023",
     "number": "UA29BT/KMR-1-023",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン ライジングホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-024",
     "number": "UA29BT/KMR-1-024",
-    "name": "资料待补",
+    "name": "仮面ライダーアークゼロ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-025",
     "number": "UA29BT/KMR-1-025",
-    "name": "资料待补",
+    "name": "仮面ライダー迅 バーニングファルコン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-026",
     "number": "UA29BT/KMR-1-026",
-    "name": "资料待补",
+    "name": "仮面ライダー迅 フライングファルコン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-027",
     "number": "UA29BT/KMR-1-027",
-    "name": "资料待补",
+    "name": "仮面ライダー滅",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-028",
     "number": "UA29BT/KMR-1-028",
-    "name": "资料待补",
+    "name": "タイムマジーン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-029",
     "number": "UA29BT/KMR-1-029",
-    "name": "资料待补",
+    "name": "衛星アーク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-030",
     "number": "UA29BT/KMR-1-030",
-    "name": "资料待补",
+    "name": "祝え！",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-031",
     "number": "UA29BT/KMR-1-031",
-    "name": "资料待补",
+    "name": "タイムブレーク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-032",
     "number": "UA29BT/KMR-1-032",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-033",
     "number": "UA29BT/KMR-1-033",
-    "name": "资料待补",
+    "name": "ライジングインパクト",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-034",
     "number": "UA29BT/KMR-1-034",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ ガタキリバ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-035",
     "number": "UA29BT/KMR-1-035",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ サゴーゾ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-036",
     "number": "UA29BT/KMR-1-036",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ シャウタ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-037",
     "number": "UA29BT/KMR-1-037",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タカキリバ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-038",
     "number": "UA29BT/KMR-1-038",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タカトラーター",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-039_p1",
     "number": "UA29BT/KMR-1-039",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タジャドル コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-039",
     "number": "UA29BT/KMR-1-039",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タジャドル コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-040",
     "number": "UA29BT/KMR-1-040",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タトバ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-041_p1",
     "number": "UA29BT/KMR-1-041",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ プトティラ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-041",
     "number": "UA29BT/KMR-1-041",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ プトティラ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-042",
     "number": "UA29BT/KMR-1-042",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ ラトラーター コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-043",
     "number": "UA29BT/KMR-1-043",
-    "name": "资料待补",
+    "name": "仮面ライダーゲンム アクションゲーマー レベル2",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-044_p1",
     "number": "UA29BT/KMR-1-044",
-    "name": "资料待补",
+    "name": "仮面ライダーゲンム ゾンビゲーマー レベルX",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-044",
     "number": "UA29BT/KMR-1-044",
-    "name": "资料待补",
+    "name": "仮面ライダーゲンム ゾンビゲーマー レベルX",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-045",
     "number": "UA29BT/KMR-1-045",
-    "name": "资料待补",
+    "name": "仮面ライダーバース",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-046",
     "number": "UA29BT/KMR-1-046",
-    "name": "资料待补",
+    "name": "仮面ライダーバース",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-047_p1",
     "number": "UA29BT/KMR-1-047",
-    "name": "资料待补",
+    "name": "バース・デイ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-047",
     "number": "UA29BT/KMR-1-047",
-    "name": "资料待补",
+    "name": "バース・デイ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-048",
     "number": "UA29BT/KMR-1-048",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド アクションゲーマー レベル2",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-049",
     "number": "UA29BT/KMR-1-049",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド アクションゲーマー レベル1",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-050",
     "number": "UA29BT/KMR-1-050",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド ダブルアクションゲーマー レベルXX",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-051_p1",
     "number": "UA29BT/KMR-1-051",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド マキシマムゲーマー レベル99",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-051",
     "number": "UA29BT/KMR-1-051",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド マキシマムゲーマー レベル99",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-052_p1",
     "number": "UA29BT/KMR-1-052",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド ムテキゲーマー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-052",
     "number": "UA29BT/KMR-1-052",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド ムテキゲーマー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-053_p1",
     "number": "UA29BT/KMR-1-053",
-    "name": "资料待补",
+    "name": "仮面ライダースナイプ シミュレーションゲーマー レベル50",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-053",
     "number": "UA29BT/KMR-1-053",
-    "name": "资料待补",
+    "name": "仮面ライダースナイプ シミュレーションゲーマー レベル50",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-054",
     "number": "UA29BT/KMR-1-054",
-    "name": "资料待补",
+    "name": "仮面ライダースナイプ シューティングゲーマー レベル2",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-055",
     "number": "UA29BT/KMR-1-055",
-    "name": "资料待补",
+    "name": "仮面ライダースナイプ シューティングゲーマー レベル1",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-056",
     "number": "UA29BT/KMR-1-056",
-    "name": "资料待补",
+    "name": "仮面ライダーブレイブ クエストゲーマー レベル2",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-057",
     "number": "UA29BT/KMR-1-057",
-    "name": "资料待补",
+    "name": "仮面ライダーブレイブ クエストゲーマー レベル1",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-058",
     "number": "UA29BT/KMR-1-058",
-    "name": "资料待补",
+    "name": "仮面ライダーブレイブ ファンタジーゲーマー レベル50",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-059",
     "number": "UA29BT/KMR-1-059",
-    "name": "资料待补",
+    "name": "仮面ライダーレーザー バイクゲーマー レベル2",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-060",
     "number": "UA29BT/KMR-1-060",
-    "name": "资料待补",
+    "name": "仮面ライダーパラドクス パズルゲーマー レベル50",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-061",
     "number": "UA29BT/KMR-1-061",
-    "name": "资料待补",
+    "name": "仮面ライダーパラドクス ファイターゲーマー レベル50",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-062_p1",
     "number": "UA29BT/KMR-1-062",
-    "name": "资料待补",
+    "name": "アンク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-062",
     "number": "UA29BT/KMR-1-062",
-    "name": "资料待补",
+    "name": "アンク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-063",
     "number": "UA29BT/KMR-1-063",
-    "name": "资料待补",
+    "name": "コアメダル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-064",
     "number": "UA29BT/KMR-1-064",
-    "name": "资料待补",
+    "name": "スキャニングチャージ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-065",
     "number": "UA29BT/KMR-1-065",
-    "name": "资料待补",
+    "name": "セルメダル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-066",
     "number": "UA29BT/KMR-1-066",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-067",
     "number": "UA29BT/KMR-1-067",
-    "name": "资料待补",
+    "name": "マイティクリティカルストライク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-068",
     "number": "UA29BT/KMR-1-068",
-    "name": "资料待补",
+    "name": "オートバジン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-069",
     "number": "UA29BT/KMR-1-069",
-    "name": "资料待补",
+    "name": "仮面ライダーカイザ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-070_p1",
     "number": "UA29BT/KMR-1-070",
-    "name": "资料待补",
+    "name": "仮面ライダーカイザ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-070",
     "number": "UA29BT/KMR-1-070",
-    "name": "资料待补",
+    "name": "仮面ライダーカイザ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-071_p1",
     "number": "UA29BT/KMR-1-071",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロノス アルタイルフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-071",
     "number": "UA29BT/KMR-1-071",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロノス アルタイルフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-072",
     "number": "UA29BT/KMR-1-072",
-    "name": "资料待补",
+    "name": "仮面ライダーデルタ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-073",
     "number": "UA29BT/KMR-1-073",
-    "name": "资料待补",
+    "name": "仮面ライダーデルタ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-074",
     "number": "UA29BT/KMR-1-074",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 アックスフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-075",
     "number": "UA29BT/KMR-1-075",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ガンフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-076_p1",
     "number": "UA29BT/KMR-1-076",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 クライマックスフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-076",
     "number": "UA29BT/KMR-1-076",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 クライマックスフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-077",
     "number": "UA29BT/KMR-1-077",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ソードフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-078",
     "number": "UA29BT/KMR-1-078",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 プラットフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-079_p1",
     "number": "UA29BT/KMR-1-079",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ライナーフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-079",
     "number": "UA29BT/KMR-1-079",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ライナーフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-080",
     "number": "UA29BT/KMR-1-080",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ロッドフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-081_p1",
     "number": "UA29BT/KMR-1-081",
-    "name": "资料待补",
+    "name": "仮面ライダーネクストファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-081",
     "number": "UA29BT/KMR-1-081",
-    "name": "资料待补",
+    "name": "仮面ライダーネクストファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-082",
     "number": "UA29BT/KMR-1-082",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-083",
     "number": "UA29BT/KMR-1-083",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-084",
     "number": "UA29BT/KMR-1-084",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-085_p1",
     "number": "UA29BT/KMR-1-085",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ アクセルフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-085",
     "number": "UA29BT/KMR-1-085",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ アクセルフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-086_p1",
     "number": "UA29BT/KMR-1-086",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ ブラスターフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-086",
     "number": "UA29BT/KMR-1-086",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ ブラスターフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-087",
     "number": "UA29BT/KMR-1-087",
-    "name": "资料待补",
+    "name": "スネークオルフェノク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-088",
     "number": "UA29BT/KMR-1-088",
-    "name": "资料待补",
+    "name": "ホースオルフェノク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-089_p1",
     "number": "UA29BT/KMR-1-089",
-    "name": "资料待补",
+    "name": "ウラタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-089",
     "number": "UA29BT/KMR-1-089",
-    "name": "资料待补",
+    "name": "ウラタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-090_p1",
     "number": "UA29BT/KMR-1-090",
-    "name": "资料待补",
+    "name": "キンタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-090",
     "number": "UA29BT/KMR-1-090",
-    "name": "资料待补",
+    "name": "キンタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-091",
     "number": "UA29BT/KMR-1-091",
-    "name": "资料待补",
+    "name": "デネブイマジン",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-092_p1",
     "number": "UA29BT/KMR-1-092",
-    "name": "资料待补",
+    "name": "モモタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-092",
     "number": "UA29BT/KMR-1-092",
-    "name": "资料待补",
+    "name": "モモタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-093_p1",
     "number": "UA29BT/KMR-1-093",
-    "name": "资料待补",
+    "name": "リュウタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-093",
     "number": "UA29BT/KMR-1-093",
-    "name": "资料待补",
+    "name": "リュウタロス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-094",
     "number": "UA29BT/KMR-1-094",
-    "name": "资料待补",
+    "name": "デンライナー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-095",
     "number": "UA29BT/KMR-1-095",
-    "name": "资料待补",
+    "name": "俺、参上！",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-096",
     "number": "UA29BT/KMR-1-096",
-    "name": "资料待补",
+    "name": "俺の必殺技！",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-097",
     "number": "UA29BT/KMR-1-097",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-098",
     "number": "UA29BT/KMR-1-098",
-    "name": "资料待补",
+    "name": "グランインパクト",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-099",
     "number": "UA29BT/KMR-1-099",
-    "name": "资料待补",
+    "name": "クリムゾンスマッシュ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-100",
     "number": "UA29BT/KMR-1-100",
-    "name": "资料待补",
+    "name": "スパークルカット",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-ap01",
     "number": "UA29BT/KMR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-ap02",
     "number": "UA29BT/KMR-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-ap03",
     "number": "UA29BT/KMR-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-ap04",
     "number": "UA29BT/KMR-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-ap05",
     "number": "UA29BT/KMR-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-2-ua29bt_kmr-1-ap06",
     "number": "UA29BT/KMR-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-001",
     "number": "EX12BT/KMR-2-001",
-    "name": "资料待补",
+    "name": "仮面ライダーヴァレン チョコドンフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-002_p1",
     "number": "EX12BT/KMR-2-002",
-    "name": "资料待补",
+    "name": "仮面ライダーヴァレン フラッペカスタム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-002",
     "number": "EX12BT/KMR-2-002",
-    "name": "资料待补",
+    "name": "仮面ライダーヴァレン フラッペカスタム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-003_p1",
     "number": "EX12BT/KMR-2-003",
-    "name": "资料待补",
+    "name": "仮面ライダーヴラム アラモードモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-003",
     "number": "EX12BT/KMR-2-003",
-    "name": "资料待补",
+    "name": "仮面ライダーヴラム アラモードモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-004",
     "number": "EX12BT/KMR-2-004",
-    "name": "资料待补",
+    "name": "仮面ライダーヴラム プリンカスタム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-005_p1",
     "number": "EX12BT/KMR-2-005",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ オーバーモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-005",
     "number": "EX12BT/KMR-2-005",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ オーバーモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-006_p1",
     "number": "EX12BT/KMR-2-006",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ケーキングフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-006",
     "number": "EX12BT/KMR-2-006",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ケーキングフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-007",
     "number": "EX12BT/KMR-2-007",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ザクザクチップスフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-008",
     "number": "EX12BT/KMR-2-008",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ブリザードソルベフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-009",
     "number": "EX12BT/KMR-2-009",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ふわマロフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-010",
     "number": "EX12BT/KMR-2-010",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ポッピングミフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-011",
     "number": "EX12BT/KMR-2-011",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ ポッピングミフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-012_p1",
     "number": "EX12BT/KMR-2-012",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ マスターモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-012_p2",
     "number": "EX12BT/KMR-2-012",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ マスターモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-012",
     "number": "EX12BT/KMR-2-012",
-    "name": "资料待补",
+    "name": "仮面ライダーガヴ マスターモード",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-013_p1",
     "number": "EX12BT/KMR-2-013",
-    "name": "资料待补",
+    "name": "ゴチゾウ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-013",
     "number": "EX12BT/KMR-2-013",
-    "name": "资料待补",
+    "name": "ゴチゾウ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-014",
     "number": "EX12BT/KMR-2-014",
-    "name": "资料待补",
+    "name": "はぴぱれ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-015",
     "number": "EX12BT/KMR-2-015",
-    "name": "资料待补",
+    "name": "二度と闇菓子に関わらないか……この場でオレに倒されるか！",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-016",
     "number": "EX12BT/KMR-2-016",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-017",
     "number": "EX12BT/KMR-2-017",
-    "name": "资料待补",
+    "name": "仮面ライダーウォズ フューチャーリングシノビ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-018",
     "number": "EX12BT/KMR-2-018",
-    "name": "资料待补",
+    "name": "仮面ライダーゲイツ ウィザードアーマー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-019_p1",
     "number": "EX12BT/KMR-2-019",
-    "name": "资料待补",
+    "name": "仮面ライダージオウ オーマフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-019",
     "number": "EX12BT/KMR-2-019",
-    "name": "资料待补",
+    "name": "仮面ライダージオウ オーマフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-020",
     "number": "EX12BT/KMR-2-020",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン ブレイキングマンモス",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-021_p1",
     "number": "EX12BT/KMR-2-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン ヘルライジングホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-021",
     "number": "EX12BT/KMR-2-021",
-    "name": "资料待补",
+    "name": "仮面ライダーゼロワン ヘルライジングホッパー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-022_p1",
     "number": "EX12BT/KMR-2-022",
-    "name": "资料待补",
+    "name": "仮面ライダーパラドクス パーフェクトノックアウトゲーマー レベル99",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-022",
     "number": "EX12BT/KMR-2-022",
-    "name": "资料待补",
+    "name": "仮面ライダーパラドクス パーフェクトノックアウトゲーマー レベル99",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-023",
     "number": "EX12BT/KMR-2-023",
-    "name": "资料待补",
+    "name": "仮面ライダーエグゼイド ハンターアクションゲーマー レベル5",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-024_p1",
     "number": "EX12BT/KMR-2-024",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タジャドルコンボエタニティ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-024",
     "number": "EX12BT/KMR-2-024",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ タジャドルコンボエタニティ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-025",
     "number": "EX12BT/KMR-2-025",
-    "name": "资料待补",
+    "name": "仮面ライダーオーズ ブラカワニ コンボ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-026",
     "number": "EX12BT/KMR-2-026",
-    "name": "资料待补",
+    "name": "タカメダル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-027",
     "number": "EX12BT/KMR-2-027",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-028",
     "number": "EX12BT/KMR-2-028",
-    "name": "资料待补",
+    "name": "仮面ライダーなでしこ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-029",
     "number": "EX12BT/KMR-2-029",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ エレキステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-030_p1",
     "number": "EX12BT/KMR-2-030",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ コズミックステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-030",
     "number": "EX12BT/KMR-2-030",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ コズミックステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-031",
     "number": "EX12BT/KMR-2-031",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ ファイヤーステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-032",
     "number": "EX12BT/KMR-2-032",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ ベースステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-033",
     "number": "EX12BT/KMR-2-033",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ ベースステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-034_p1",
     "number": "EX12BT/KMR-2-034",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ マグネットステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-034",
     "number": "EX12BT/KMR-2-034",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ マグネットステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-035_p1",
     "number": "EX12BT/KMR-2-035",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ ロケットステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-035",
     "number": "EX12BT/KMR-2-035",
-    "name": "资料待补",
+    "name": "仮面ライダーフォーゼ ロケットステイツ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-036",
     "number": "EX12BT/KMR-2-036",
-    "name": "资料待补",
+    "name": "仮面ライダーメテオ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-037",
     "number": "EX12BT/KMR-2-037",
-    "name": "资料待补",
+    "name": "仮面ライダーメテオ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-038",
     "number": "EX12BT/KMR-2-038",
-    "name": "资料待补",
+    "name": "仮面ライダーメテオ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-039_p1",
     "number": "EX12BT/KMR-2-039",
-    "name": "资料待补",
+    "name": "仮面ライダーメテオストーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-039",
     "number": "EX12BT/KMR-2-039",
-    "name": "资料待补",
+    "name": "仮面ライダーメテオストーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-040",
     "number": "EX12BT/KMR-2-040",
-    "name": "资料待补",
+    "name": "パワーダイザー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-041",
     "number": "EX12BT/KMR-2-041",
-    "name": "资料待补",
+    "name": "天ノ川学園高校",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-042",
     "number": "EX12BT/KMR-2-042",
-    "name": "资料待补",
+    "name": "宇宙キターッ！",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-043",
     "number": "EX12BT/KMR-2-043",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-044",
     "number": "EX12BT/KMR-2-044",
-    "name": "资料待补",
+    "name": "ライダーロケットドリルキック",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-045",
     "number": "EX12BT/KMR-2-045",
-    "name": "资料待补",
+    "name": "仮面ライダーアクセル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-046_p1",
     "number": "EX12BT/KMR-2-046",
-    "name": "资料待补",
+    "name": "仮面ライダーアクセルトライアル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-046",
     "number": "EX12BT/KMR-2-046",
-    "name": "资料待补",
+    "name": "仮面ライダーアクセルトライアル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-047",
     "number": "EX12BT/KMR-2-047",
-    "name": "资料待补",
+    "name": "仮面ライダースカル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-048_p1",
     "number": "EX12BT/KMR-2-048",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ サイクロンジョーカー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-048",
     "number": "EX12BT/KMR-2-048",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ サイクロンジョーカー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-049_p1",
     "number": "EX12BT/KMR-2-049",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ サイクロンジョーカーエクストリーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-049",
     "number": "EX12BT/KMR-2-049",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ サイクロンジョーカーエクストリーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-050",
     "number": "EX12BT/KMR-2-050",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ サイクロントリガー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-051",
     "number": "EX12BT/KMR-2-051",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ サイクロンメタル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-052",
     "number": "EX12BT/KMR-2-052",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ヒートジョーカー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-053",
     "number": "EX12BT/KMR-2-053",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ヒートトリガー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-054",
     "number": "EX12BT/KMR-2-054",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ヒートメタル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-055_p1",
     "number": "EX12BT/KMR-2-055",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ファングジョーカー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-055",
     "number": "EX12BT/KMR-2-055",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ファングジョーカー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-056",
     "number": "EX12BT/KMR-2-056",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ルナジョーカー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-057",
     "number": "EX12BT/KMR-2-057",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ルナトリガー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-058",
     "number": "EX12BT/KMR-2-058",
-    "name": "资料待补",
+    "name": "仮面ライダーＷ ルナメタル",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-059",
     "number": "EX12BT/KMR-2-059",
-    "name": "资料待补",
+    "name": "メモリチェンジ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-060",
     "number": "EX12BT/KMR-2-060",
-    "name": "资料待补",
+    "name": "俺に質問するな",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-061",
     "number": "EX12BT/KMR-2-061",
-    "name": "资料待补",
+    "name": "さあ、おまえの罪を数えろ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-062",
     "number": "EX12BT/KMR-2-062",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-063",
     "number": "EX12BT/KMR-2-063",
-    "name": "资料待补",
+    "name": "仮面ライダーディエンド",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-064",
     "number": "EX12BT/KMR-2-064",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-065",
     "number": "EX12BT/KMR-2-065",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-066",
     "number": "EX12BT/KMR-2-066",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-067",
     "number": "EX12BT/KMR-2-067",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-068_p1",
     "number": "EX12BT/KMR-2-068",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド 激情態",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-068",
     "number": "EX12BT/KMR-2-068",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド 激情態",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-069_p1",
     "number": "EX12BT/KMR-2-069",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド コンプリートフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-069",
     "number": "EX12BT/KMR-2-069",
-    "name": "资料待补",
+    "name": "仮面ライダーディケイド コンプリートフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-070",
     "number": "EX12BT/KMR-2-070",
-    "name": "资料待补",
+    "name": "仮面ライダーアギト(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-071",
     "number": "EX12BT/KMR-2-071",
-    "name": "资料待补",
+    "name": "仮面ライダーカブト(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-072",
     "number": "EX12BT/KMR-2-072",
-    "name": "资料待补",
+    "name": "仮面ライダーキバ(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-073_p1",
     "number": "EX12BT/KMR-2-073",
-    "name": "资料待补",
+    "name": "仮面ライダークウガ(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-073",
     "number": "EX12BT/KMR-2-073",
-    "name": "资料待补",
+    "name": "仮面ライダークウガ(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-074",
     "number": "EX12BT/KMR-2-074",
-    "name": "资料待补",
+    "name": "仮面ライダー響鬼(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-075",
     "number": "EX12BT/KMR-2-075",
-    "name": "资料待补",
+    "name": "仮面ライダーブレイド(DCD)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-076",
     "number": "EX12BT/KMR-2-076",
-    "name": "资料待补",
+    "name": "通りすがりの仮面ライダーだ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5746,7 +5746,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-077",
     "number": "EX12BT/KMR-2-077",
-    "name": "资料待补",
+    "name": "ファイナルアタックライド ディケイド",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5768,7 +5768,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-078",
     "number": "EX12BT/KMR-2-078",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5790,7 +5790,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-079_p1",
     "number": "EX12BT/KMR-2-079",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ウイングフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5812,7 +5812,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-079",
     "number": "EX12BT/KMR-2-079",
-    "name": "资料待补",
+    "name": "仮面ライダー電王 ウイングフォーム",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5834,7 +5834,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-080",
     "number": "EX12BT/KMR-2-080",
-    "name": "资料待补",
+    "name": "ジーク",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5856,7 +5856,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-081",
     "number": "EX12BT/KMR-2-081",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5878,7 +5878,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-082",
     "number": "EX12BT/KMR-2-082",
-    "name": "资料待补",
+    "name": "仮面ライダーカイザ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5900,7 +5900,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-083_p1",
     "number": "EX12BT/KMR-2-083",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5922,7 +5922,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-083",
     "number": "EX12BT/KMR-2-083",
-    "name": "资料待补",
+    "name": "仮面ライダーファイズ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5944,7 +5944,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-084_p1",
     "number": "EX12BT/KMR-2-084",
-    "name": "资料待补",
+    "name": "仮面ライダー王蛇",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5966,7 +5966,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-084",
     "number": "EX12BT/KMR-2-084",
-    "name": "资料待补",
+    "name": "仮面ライダー王蛇",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -5988,7 +5988,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-085",
     "number": "EX12BT/KMR-2-085",
-    "name": "资料待补",
+    "name": "仮面ライダーゾルダ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6010,7 +6010,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-086",
     "number": "EX12BT/KMR-2-086",
-    "name": "资料待补",
+    "name": "仮面ライダーナイト",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6032,7 +6032,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-087",
     "number": "EX12BT/KMR-2-087",
-    "name": "资料待补",
+    "name": "仮面ライダーナイト",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6054,7 +6054,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-088",
     "number": "EX12BT/KMR-2-088",
-    "name": "资料待补",
+    "name": "仮面ライダーナイト",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6076,7 +6076,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-089_p1",
     "number": "EX12BT/KMR-2-089",
-    "name": "资料待补",
+    "name": "仮面ライダーナイトサバイブ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6098,7 +6098,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-089",
     "number": "EX12BT/KMR-2-089",
-    "name": "资料待补",
+    "name": "仮面ライダーナイトサバイブ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6120,7 +6120,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-090",
     "number": "EX12BT/KMR-2-090",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6142,7 +6142,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-091",
     "number": "EX12BT/KMR-2-091",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6164,7 +6164,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-092",
     "number": "EX12BT/KMR-2-092",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6186,7 +6186,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-093_p1",
     "number": "EX12BT/KMR-2-093",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6208,7 +6208,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-093",
     "number": "EX12BT/KMR-2-093",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6230,7 +6230,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-094_p1",
     "number": "EX12BT/KMR-2-094",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎サバイブ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6252,7 +6252,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-094",
     "number": "EX12BT/KMR-2-094",
-    "name": "资料待补",
+    "name": "仮面ライダー龍騎サバイブ",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6274,7 +6274,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-095",
     "number": "EX12BT/KMR-2-095",
-    "name": "资料待补",
+    "name": "ダークウイング",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6296,7 +6296,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-096",
     "number": "EX12BT/KMR-2-096",
-    "name": "资料待补",
+    "name": "ドラグレッダー",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6318,7 +6318,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-097",
     "number": "EX12BT/KMR-2-097",
-    "name": "资料待补",
+    "name": "ソードベント",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6340,7 +6340,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-098",
     "number": "EX12BT/KMR-2-098",
-    "name": "资料待补",
+    "name": "変身",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6362,7 +6362,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-099",
     "number": "EX12BT/KMR-2-099",
-    "name": "资料待补",
+    "name": "アドベント",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6384,7 +6384,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-100",
     "number": "EX12BT/KMR-2-100",
-    "name": "资料待补",
+    "name": "ファイナルベント",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6405,8 +6405,8 @@ export const kamenRiderCards: Card[] = [
   },
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap01_p1",
-    "number": "EX12BT/KMR-2-AP01/p1",
-    "name": "资料待补",
+    "number": "EX12BT/KMR-2-AP01",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6428,7 +6428,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap01",
     "number": "EX12BT/KMR-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6450,7 +6450,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap02",
     "number": "EX12BT/KMR-2-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6472,7 +6472,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap03",
     "number": "EX12BT/KMR-2-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6494,7 +6494,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap04",
     "number": "EX12BT/KMR-2-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6516,7 +6516,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap05",
     "number": "EX12BT/KMR-2-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",
@@ -6538,7 +6538,7 @@ export const kamenRiderCards: Card[] = [
   {
     "id": "kamen-rider-3-ex12bt_kmr-2-ap06",
     "number": "EX12BT/KMR-2-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(仮面ライダー)",
     "nameZh": "",
     "series": "假面骑士",
     "color": "资料待补",

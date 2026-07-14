@@ -4,7 +4,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-035",
     "number": "UA12ST/BLK-1-035",
-    "name": "资料待补",
+    "name": "絵心 甚八",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-036",
     "number": "UA12ST/BLK-1-036",
-    "name": "资料待补",
+    "name": "帝襟 アンリ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-043",
     "number": "UA12ST/BLK-1-043",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-047",
     "number": "UA12ST/BLK-1-047",
-    "name": "资料待补",
+    "name": "我牙丸 吟",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-048",
     "number": "UA12ST/BLK-1-048",
-    "name": "资料待补",
+    "name": "久遠 渉",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-052",
     "number": "UA12ST/BLK-1-052",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-056",
     "number": "UA12ST/BLK-1-056",
-    "name": "资料待补",
+    "name": "成早 朝日",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-064",
     "number": "UA12ST/BLK-1-064",
-    "name": "资料待补",
+    "name": "サーロインステーキ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-065",
     "number": "UA12ST/BLK-1-065",
-    "name": "资料待补",
+    "name": "直撃蹴弾",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-101",
     "number": "UA12ST/BLK-1-101",
-    "name": "资料待补",
+    "name": "伊右衛門 送人",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-102",
     "number": "UA12ST/BLK-1-102",
-    "name": "资料待补",
+    "name": "五十嵐 栗夢",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-103",
     "number": "UA12ST/BLK-1-103",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-104",
     "number": "UA12ST/BLK-1-104",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-105",
     "number": "UA12ST/BLK-1-105",
-    "name": "资料待补",
+    "name": "今村 遊大",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-106",
     "number": "UA12ST/BLK-1-106",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-107",
     "number": "UA12ST/BLK-1-107",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-108",
     "number": "UA12ST/BLK-1-108",
-    "name": "资料待补",
+    "name": "雷市 陣吾",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-109",
     "number": "UA12ST/BLK-1-109",
-    "name": "资料待补",
+    "name": "キックオフ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-ap01",
     "number": "UA12ST/BLK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-ua12st_blk-1-ap02",
     "number": "UA12ST/BLK-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-001",
     "number": "UA12BT/BLK-1-001",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-002",
     "number": "UA12BT/BLK-1-002",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-003_p1",
     "number": "UA12BT/BLK-1-003",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-003",
     "number": "UA12BT/BLK-1-003",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-004_p1",
     "number": "UA12BT/BLK-1-004",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-004",
     "number": "UA12BT/BLK-1-004",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-005",
     "number": "UA12BT/BLK-1-005",
-    "name": "资料待补",
+    "name": "絵心 甚八",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-006",
     "number": "UA12BT/BLK-1-006",
-    "name": "资料待补",
+    "name": "大川 響鬼",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-007",
     "number": "UA12BT/BLK-1-007",
-    "name": "资料待补",
+    "name": "剣城 斬鉄",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-008",
     "number": "UA12BT/BLK-1-008",
-    "name": "资料待补",
+    "name": "剣城 斬鉄",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-009_p1",
     "number": "UA12BT/BLK-1-009",
-    "name": "资料待补",
+    "name": "剣城 斬鉄",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-009",
     "number": "UA12BT/BLK-1-009",
-    "name": "资料待补",
+    "name": "剣城 斬鉄",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-010",
     "number": "UA12BT/BLK-1-010",
-    "name": "资料待补",
+    "name": "帝襟 アンリ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-011",
     "number": "UA12BT/BLK-1-011",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-012",
     "number": "UA12BT/BLK-1-012",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-013",
     "number": "UA12BT/BLK-1-013",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-014_p1",
     "number": "UA12BT/BLK-1-014",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-014",
     "number": "UA12BT/BLK-1-014",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-015_p1",
     "number": "UA12BT/BLK-1-015",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-015",
     "number": "UA12BT/BLK-1-015",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-016",
     "number": "UA12BT/BLK-1-016",
-    "name": "资料待补",
+    "name": "成早 朝日",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-017",
     "number": "UA12BT/BLK-1-017",
-    "name": "资料待补",
+    "name": "成早 朝日",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-018_p1",
     "number": "UA12BT/BLK-1-018",
-    "name": "资料待补",
+    "name": "二子 一揮",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-018",
     "number": "UA12BT/BLK-1-018",
-    "name": "资料待补",
+    "name": "二子 一揮",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-019",
     "number": "UA12BT/BLK-1-019",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-020",
     "number": "UA12BT/BLK-1-020",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-021",
     "number": "UA12BT/BLK-1-021",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-022_p1",
     "number": "UA12BT/BLK-1-022",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-022",
     "number": "UA12BT/BLK-1-022",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-023",
     "number": "UA12BT/BLK-1-023",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-024",
     "number": "UA12BT/BLK-1-024",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-025_p1",
     "number": "UA12BT/BLK-1-025",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-025",
     "number": "UA12BT/BLK-1-025",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-026_p1",
     "number": "UA12BT/BLK-1-026",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-026",
     "number": "UA12BT/BLK-1-026",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-027",
     "number": "UA12BT/BLK-1-027",
-    "name": "资料待补",
+    "name": "鰐間兄弟",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-028",
     "number": "UA12BT/BLK-1-028",
-    "name": "资料待补",
+    "name": "食堂",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-030",
     "number": "UA12BT/BLK-1-030",
-    "name": "资料待补",
+    "name": "悪役王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-032",
     "number": "UA12BT/BLK-1-032",
-    "name": "资料待补",
+    "name": "これが俺の",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-033",
     "number": "UA12BT/BLK-1-033",
-    "name": "资料待补",
+    "name": "サーロインステーキ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-034",
     "number": "UA12BT/BLK-1-034",
-    "name": "资料待补",
+    "name": "天才との出会い",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-035",
     "number": "UA12BT/BLK-1-035",
-    "name": "资料待补",
+    "name": "絵心 甚八",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-036",
     "number": "UA12BT/BLK-1-036",
-    "name": "资料待补",
+    "name": "帝襟 アンリ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-037",
     "number": "UA12BT/BLK-1-037",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-038",
     "number": "UA12BT/BLK-1-038",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-039_p1",
     "number": "UA12BT/BLK-1-039",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-039",
     "number": "UA12BT/BLK-1-039",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-040",
     "number": "UA12BT/BLK-1-040",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-041",
     "number": "UA12BT/BLK-1-041",
-    "name": "资料待补",
+    "name": "馬狼 照英",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-042",
     "number": "UA12BT/BLK-1-042",
-    "name": "资料待补",
+    "name": "伊右衛門 送人",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-043",
     "number": "UA12BT/BLK-1-043",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-044",
     "number": "UA12BT/BLK-1-044",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-045_p1",
     "number": "UA12BT/BLK-1-045",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-045",
     "number": "UA12BT/BLK-1-045",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-046_p1",
     "number": "UA12BT/BLK-1-046",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-046_p2",
     "number": "UA12BT/BLK-1-046",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-046",
     "number": "UA12BT/BLK-1-046",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-047",
     "number": "UA12BT/BLK-1-047",
-    "name": "资料待补",
+    "name": "我牙丸 吟",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-048",
     "number": "UA12BT/BLK-1-048",
-    "name": "资料待补",
+    "name": "久遠 渉",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-049",
     "number": "UA12BT/BLK-1-049",
-    "name": "资料待补",
+    "name": "久遠 渉",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-050",
     "number": "UA12BT/BLK-1-050",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-051_p1",
     "number": "UA12BT/BLK-1-051",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-051",
     "number": "UA12BT/BLK-1-051",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-052",
     "number": "UA12BT/BLK-1-052",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-053",
     "number": "UA12BT/BLK-1-053",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-054_p1",
     "number": "UA12BT/BLK-1-054",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-054",
     "number": "UA12BT/BLK-1-054",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-055_p1",
     "number": "UA12BT/BLK-1-055",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-055",
     "number": "UA12BT/BLK-1-055",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-056",
     "number": "UA12BT/BLK-1-056",
-    "name": "资料待补",
+    "name": "成早 朝日",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-057",
     "number": "UA12BT/BLK-1-057",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-058",
     "number": "UA12BT/BLK-1-058",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-059_p1",
     "number": "UA12BT/BLK-1-059",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-059",
     "number": "UA12BT/BLK-1-059",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-060",
     "number": "UA12BT/BLK-1-060",
-    "name": "资料待补",
+    "name": "雷市 陣吾",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-061",
     "number": "UA12BT/BLK-1-061",
-    "name": "资料待补",
+    "name": "青い監獄",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-062",
     "number": "UA12BT/BLK-1-062",
-    "name": "资料待补",
+    "name": "ゴールの匂い",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-063",
     "number": "UA12BT/BLK-1-063",
-    "name": "资料待补",
+    "name": "成功の方程式",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-064",
     "number": "UA12BT/BLK-1-064",
-    "name": "资料待补",
+    "name": "サーロインステーキ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-065_p1",
     "number": "UA12BT/BLK-1-065",
-    "name": "资料待补",
+    "name": "直撃蹴弾",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-065",
     "number": "UA12BT/BLK-1-065",
-    "name": "资料待补",
+    "name": "直撃蹴弾",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-066",
     "number": "UA12BT/BLK-1-066",
-    "name": "资料待补",
+    "name": "楽しくなってきた♪",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-067",
     "number": "UA12BT/BLK-1-067",
-    "name": "资料待补",
+    "name": "次俺9作戦",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-068",
     "number": "UA12BT/BLK-1-068",
-    "name": "资料待补",
+    "name": "蟻生 十兵衛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-069",
     "number": "UA12BT/BLK-1-069",
-    "name": "资料待补",
+    "name": "蟻生 十兵衛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-070_p1",
     "number": "UA12BT/BLK-1-070",
-    "name": "资料待补",
+    "name": "蟻生 十兵衛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-070",
     "number": "UA12BT/BLK-1-070",
-    "name": "资料待补",
+    "name": "蟻生 十兵衛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-071_p1",
     "number": "UA12BT/BLK-1-071",
-    "name": "资料待补",
+    "name": "糸師 冴",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-071",
     "number": "UA12BT/BLK-1-071",
-    "name": "资料待补",
+    "name": "糸師 冴",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-072",
     "number": "UA12BT/BLK-1-072",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-073_p1",
     "number": "UA12BT/BLK-1-073",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-073",
     "number": "UA12BT/BLK-1-073",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-074_p1",
     "number": "UA12BT/BLK-1-074",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-074",
     "number": "UA12BT/BLK-1-074",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-075_p1",
     "number": "UA12BT/BLK-1-075",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-075",
     "number": "UA12BT/BLK-1-075",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-076",
     "number": "UA12BT/BLK-1-076",
-    "name": "资料待补",
+    "name": "絵心 甚八",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-077",
     "number": "UA12BT/BLK-1-077",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-078",
     "number": "UA12BT/BLK-1-078",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-079_p1",
     "number": "UA12BT/BLK-1-079",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-079",
     "number": "UA12BT/BLK-1-079",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-080",
     "number": "UA12BT/BLK-1-080",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-081",
     "number": "UA12BT/BLK-1-081",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-082",
     "number": "UA12BT/BLK-1-082",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-083_p1",
     "number": "UA12BT/BLK-1-083",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-083",
     "number": "UA12BT/BLK-1-083",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-084",
     "number": "UA12BT/BLK-1-084",
-    "name": "资料待补",
+    "name": "帝襟 アンリ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-085",
     "number": "UA12BT/BLK-1-085",
-    "name": "资料待补",
+    "name": "時光 青志",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-086",
     "number": "UA12BT/BLK-1-086",
-    "name": "资料待补",
+    "name": "時光 青志",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-087",
     "number": "UA12BT/BLK-1-087",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-088",
     "number": "UA12BT/BLK-1-088",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-089",
     "number": "UA12BT/BLK-1-089",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-090_p1",
     "number": "UA12BT/BLK-1-090",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-090",
     "number": "UA12BT/BLK-1-090",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-091",
     "number": "UA12BT/BLK-1-091",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-092",
     "number": "UA12BT/BLK-1-092",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-093",
     "number": "UA12BT/BLK-1-093",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-094",
     "number": "UA12BT/BLK-1-094",
-    "name": "资料待补",
+    "name": "戦場",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-095",
     "number": "UA12BT/BLK-1-095",
-    "name": "资料待补",
+    "name": "三者融合",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-096",
     "number": "UA12BT/BLK-1-096",
-    "name": "资料待补",
+    "name": "オシャポーズ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-097",
     "number": "UA12BT/BLK-1-097",
-    "name": "资料待补",
+    "name": "組もうぜ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-098",
     "number": "UA12BT/BLK-1-098",
-    "name": "资料待补",
+    "name": "サーロインステーキ",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-099",
     "number": "UA12BT/BLK-1-099",
-    "name": "资料待补",
+    "name": "無減速ドリブル!!!",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-100_p1",
     "number": "UA12BT/BLK-1-100",
-    "name": "资料待补",
+    "name": "縦直下回転直接弾!!!",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-100",
     "number": "UA12BT/BLK-1-100",
-    "name": "资料待补",
+    "name": "縦直下回転直接弾!!!",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-ap01",
     "number": "UA12BT/BLK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-ap02",
     "number": "UA12BT/BLK-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-ap03",
     "number": "UA12BT/BLK-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-ap04",
     "number": "UA12BT/BLK-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-ap05",
     "number": "UA12BT/BLK-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-2-ua12bt_blk-1-ap06",
     "number": "UA12BT/BLK-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-001",
     "number": "UA03NC/BLK-2-001",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-002",
     "number": "UA03NC/BLK-2-002",
-    "name": "资料待补",
+    "name": "剣城 斬鉄",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-003",
     "number": "UA03NC/BLK-2-003",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-004",
     "number": "UA03NC/BLK-2-004",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-005",
     "number": "UA03NC/BLK-2-005",
-    "name": "资料待补",
+    "name": "凪 誠士郎",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-006",
     "number": "UA03NC/BLK-2-006",
-    "name": "资料待补",
+    "name": "潔 世一",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-007",
     "number": "UA03NC/BLK-2-007",
-    "name": "资料待补",
+    "name": "蜂楽 廻",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-008",
     "number": "UA03NC/BLK-2-008",
-    "name": "资料待补",
+    "name": "糸師 凛",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-009",
     "number": "UA03NC/BLK-2-009",
-    "name": "资料待补",
+    "name": "國神 錬介",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-010",
     "number": "UA03NC/BLK-2-010",
-    "name": "资料待补",
+    "name": "千切 豹馬",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-011",
     "number": "UA03NC/BLK-2-011",
-    "name": "资料待补",
+    "name": "御影 玲王",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const blueLockCards: Card[] = [
   {
     "id": "blue-lock-3-ua03nc_blk-2-ap01",
     "number": "UA03NC/BLK-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(ブルーロック)",
     "nameZh": "",
     "series": "蓝色监狱",
     "color": "资料待补",

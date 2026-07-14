@@ -4,7 +4,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-068",
     "number": "UA41ST/RNK-1-068",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-070",
     "number": "UA41ST/RNK-1-070",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-074",
     "number": "UA41ST/RNK-1-074",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-078",
     "number": "UA41ST/RNK-1-078",
-    "name": "资料待补",
+    "name": "三条 燕",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-080",
     "number": "UA41ST/RNK-1-080",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-081",
     "number": "UA41ST/RNK-1-081",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-085",
     "number": "UA41ST/RNK-1-085",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-096",
     "number": "UA41ST/RNK-1-096",
-    "name": "资料待补",
+    "name": "不殺の誓い",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-100",
     "number": "UA41ST/RNK-1-100",
-    "name": "资料待补",
+    "name": "龍槌閃",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-101",
     "number": "UA41ST/RNK-1-101",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-102",
     "number": "UA41ST/RNK-1-102",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-103",
     "number": "UA41ST/RNK-1-103",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-104",
     "number": "UA41ST/RNK-1-104",
-    "name": "资料待补",
+    "name": "関原 妙＆三条 燕",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-105",
     "number": "UA41ST/RNK-1-105",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-106",
     "number": "UA41ST/RNK-1-106",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-107",
     "number": "UA41ST/RNK-1-107",
-    "name": "资料待补",
+    "name": "明神 弥彦",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-108",
     "number": "UA41ST/RNK-1-108",
-    "name": "资料待补",
+    "name": "神谷道場",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-109",
     "number": "UA41ST/RNK-1-109",
-    "name": "资料待补",
+    "name": "逆刃刀",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-110_p1",
     "number": "UA41ST/RNK-1-110",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-110",
     "number": "UA41ST/RNK-1-110",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-111_p1",
     "number": "UA41ST/RNK-1-111",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-111",
     "number": "UA41ST/RNK-1-111",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-112_p1",
     "number": "UA41ST/RNK-1-112",
-    "name": "资料待补",
+    "name": "志々雄 真実",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-112",
     "number": "UA41ST/RNK-1-112",
-    "name": "资料待补",
+    "name": "志々雄 真実",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-113_p1",
     "number": "UA41ST/RNK-1-113",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-113",
     "number": "UA41ST/RNK-1-113",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-ua41st_rnk-1-ap01",
     "number": "UA41ST/RNK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-001",
     "number": "UA41BT/RNK-1-001",
-    "name": "资料待补",
+    "name": "新井 青空",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-002",
     "number": "UA41BT/RNK-1-002",
-    "name": "资料待补",
+    "name": "心太",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-003",
     "number": "UA41BT/RNK-1-003",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-004",
     "number": "UA41BT/RNK-1-004",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-005",
     "number": "UA41BT/RNK-1-005",
-    "name": "资料待补",
+    "name": "武田 観柳",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-006",
     "number": "UA41BT/RNK-1-006",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-007_p1",
     "number": "UA41BT/RNK-1-007",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-007",
     "number": "UA41BT/RNK-1-007",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-008_p1",
     "number": "UA41BT/RNK-1-008",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-008",
     "number": "UA41BT/RNK-1-008",
-    "name": "资料待补",
+    "name": "比古 清十郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-009",
     "number": "UA41BT/RNK-1-009",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-010_p1",
     "number": "UA41BT/RNK-1-010",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-010",
     "number": "UA41BT/RNK-1-010",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-011_p1",
     "number": "UA41BT/RNK-1-011",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-011",
     "number": "UA41BT/RNK-1-011",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-012",
     "number": "UA41BT/RNK-1-012",
-    "name": "资料待补",
+    "name": "柏崎 念至",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-013",
     "number": "UA41BT/RNK-1-013",
-    "name": "资料待补",
+    "name": "式尉",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-014",
     "number": "UA41BT/RNK-1-014",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-015",
     "number": "UA41BT/RNK-1-015",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-016",
     "number": "UA41BT/RNK-1-016",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-017_p1",
     "number": "UA41BT/RNK-1-017",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-017",
     "number": "UA41BT/RNK-1-017",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-018_p1",
     "number": "UA41BT/RNK-1-018",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-018",
     "number": "UA41BT/RNK-1-018",
-    "name": "资料待补",
+    "name": "四乃森 蒼紫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-019",
     "number": "UA41BT/RNK-1-019",
-    "name": "资料待补",
+    "name": "般若",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-020",
     "number": "UA41BT/RNK-1-020",
-    "name": "资料待补",
+    "name": "火男",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-021",
     "number": "UA41BT/RNK-1-021",
-    "name": "资料待补",
+    "name": "癋見",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-022",
     "number": "UA41BT/RNK-1-022",
-    "name": "资料待补",
+    "name": "巻町 操",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-023",
     "number": "UA41BT/RNK-1-023",
-    "name": "资料待补",
+    "name": "巻町 操",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-024_p1",
     "number": "UA41BT/RNK-1-024",
-    "name": "资料待补",
+    "name": "巻町 操",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-024",
     "number": "UA41BT/RNK-1-024",
-    "name": "资料待补",
+    "name": "巻町 操",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-025_p1",
     "number": "UA41BT/RNK-1-025",
-    "name": "资料待补",
+    "name": "巻町 操",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-025",
     "number": "UA41BT/RNK-1-025",
-    "name": "资料待补",
+    "name": "巻町 操",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-026",
     "number": "UA41BT/RNK-1-026",
-    "name": "资料待补",
+    "name": "修行",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-027",
     "number": "UA41BT/RNK-1-027",
-    "name": "资料待补",
+    "name": "生きようとする意志",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-028",
     "number": "UA41BT/RNK-1-028",
-    "name": "资料待补",
+    "name": "回天剣舞",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-029",
     "number": "UA41BT/RNK-1-029",
-    "name": "资料待补",
+    "name": "回天剣舞六連",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-030",
     "number": "UA41BT/RNK-1-030",
-    "name": "资料待补",
+    "name": "九頭龍閃",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-031",
     "number": "UA41BT/RNK-1-031",
-    "name": "资料待补",
+    "name": "最強の証",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-032",
     "number": "UA41BT/RNK-1-032",
-    "name": "资料待补",
+    "name": "逆刃刀・真打",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-033",
     "number": "UA41BT/RNK-1-033",
-    "name": "资料待补",
+    "name": "流水の動き",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-034_p1",
     "number": "UA41BT/RNK-1-034",
-    "name": "资料待补",
+    "name": "駒形 由美",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-034",
     "number": "UA41BT/RNK-1-034",
-    "name": "资料待补",
+    "name": "駒形 由美",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-035",
     "number": "UA41BT/RNK-1-035",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-036",
     "number": "UA41BT/RNK-1-036",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-037_p1",
     "number": "UA41BT/RNK-1-037",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-037",
     "number": "UA41BT/RNK-1-037",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-038_p1",
     "number": "UA41BT/RNK-1-038",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-038",
     "number": "UA41BT/RNK-1-038",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-039_p1",
     "number": "UA41BT/RNK-1-039",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-039",
     "number": "UA41BT/RNK-1-039",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-040_p1",
     "number": "UA41BT/RNK-1-040",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-040",
     "number": "UA41BT/RNK-1-040",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-041",
     "number": "UA41BT/RNK-1-041",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-042",
     "number": "UA41BT/RNK-1-042",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-043_p1",
     "number": "UA41BT/RNK-1-043",
-    "name": "资料待补",
+    "name": "志々雄 真実",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-043",
     "number": "UA41BT/RNK-1-043",
-    "name": "资料待补",
+    "name": "志々雄 真実",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-044_p1",
     "number": "UA41BT/RNK-1-044",
-    "name": "资料待补",
+    "name": "志々雄 真実",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-044",
     "number": "UA41BT/RNK-1-044",
-    "name": "资料待补",
+    "name": "志々雄 真実",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-045",
     "number": "UA41BT/RNK-1-045",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-046",
     "number": "UA41BT/RNK-1-046",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-047",
     "number": "UA41BT/RNK-1-047",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-048",
     "number": "UA41BT/RNK-1-048",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-049",
     "number": "UA41BT/RNK-1-049",
-    "name": "资料待补",
+    "name": "三島 栄次",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-050",
     "number": "UA41BT/RNK-1-050",
-    "name": "资料待补",
+    "name": "魚沼 宇水",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-051",
     "number": "UA41BT/RNK-1-051",
-    "name": "资料待补",
+    "name": "刈羽 蝙也",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-052",
     "number": "UA41BT/RNK-1-052",
-    "name": "资料待补",
+    "name": "佐渡島 方治",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-053",
     "number": "UA41BT/RNK-1-053",
-    "name": "资料待补",
+    "name": "沢下条 張",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-054",
     "number": "UA41BT/RNK-1-054",
-    "name": "资料待补",
+    "name": "沢下条 張",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-055",
     "number": "UA41BT/RNK-1-055",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-056",
     "number": "UA41BT/RNK-1-056",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-057",
     "number": "UA41BT/RNK-1-057",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-058_p1",
     "number": "UA41BT/RNK-1-058",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-058",
     "number": "UA41BT/RNK-1-058",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-059_p1",
     "number": "UA41BT/RNK-1-059",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-059",
     "number": "UA41BT/RNK-1-059",
-    "name": "资料待补",
+    "name": "瀬田 宗次郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-060_p1",
     "number": "UA41BT/RNK-1-060",
-    "name": "资料待补",
+    "name": "本条 鎌足",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-060",
     "number": "UA41BT/RNK-1-060",
-    "name": "资料待补",
+    "name": "本条 鎌足",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-061",
     "number": "UA41BT/RNK-1-061",
-    "name": "资料待补",
+    "name": "悠久山 安慈",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-062",
     "number": "UA41BT/RNK-1-062",
-    "name": "资料待补",
+    "name": "大型甲鉄艦 煉獄",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-063",
     "number": "UA41BT/RNK-1-063",
-    "name": "资料待补",
+    "name": "悪・即・斬",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-064",
     "number": "UA41BT/RNK-1-064",
-    "name": "资料待补",
+    "name": "牙突",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-065",
     "number": "UA41BT/RNK-1-065",
-    "name": "资料待补",
+    "name": "国盗り開始だ",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-066",
     "number": "UA41BT/RNK-1-066",
-    "name": "资料待补",
+    "name": "十本刀集結",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-067",
     "number": "UA41BT/RNK-1-067",
-    "name": "资料待补",
+    "name": "幕末の亡霊",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-068",
     "number": "UA41BT/RNK-1-068",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-069",
     "number": "UA41BT/RNK-1-069",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-070_p1",
     "number": "UA41BT/RNK-1-070",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-070",
     "number": "UA41BT/RNK-1-070",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-071_p1",
     "number": "UA41BT/RNK-1-071",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-071",
     "number": "UA41BT/RNK-1-071",
-    "name": "资料待补",
+    "name": "神谷 薫",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-072",
     "number": "UA41BT/RNK-1-072",
-    "name": "资料待补",
+    "name": "斎藤 一",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-073_p1",
     "number": "UA41BT/RNK-1-073",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-073",
     "number": "UA41BT/RNK-1-073",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-074",
     "number": "UA41BT/RNK-1-074",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-075",
     "number": "UA41BT/RNK-1-075",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-076_p1",
     "number": "UA41BT/RNK-1-076",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-076",
     "number": "UA41BT/RNK-1-076",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-077_p1",
     "number": "UA41BT/RNK-1-077",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-077",
     "number": "UA41BT/RNK-1-077",
-    "name": "资料待补",
+    "name": "相楽 左之助",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-078",
     "number": "UA41BT/RNK-1-078",
-    "name": "资料待补",
+    "name": "三条 燕",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-079",
     "number": "UA41BT/RNK-1-079",
-    "name": "资料待补",
+    "name": "関原 妙",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-080",
     "number": "UA41BT/RNK-1-080",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-081",
     "number": "UA41BT/RNK-1-081",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-082_p1",
     "number": "UA41BT/RNK-1-082",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-082",
     "number": "UA41BT/RNK-1-082",
-    "name": "资料待补",
+    "name": "高荷 恵",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-083",
     "number": "UA41BT/RNK-1-083",
-    "name": "资料待补",
+    "name": "塚山 由太郎",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-084",
     "number": "UA41BT/RNK-1-084",
-    "name": "资料待补",
+    "name": "月岡 津南",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-085",
     "number": "UA41BT/RNK-1-085",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-086",
     "number": "UA41BT/RNK-1-086",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-087_p1",
     "number": "UA41BT/RNK-1-087",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-087",
     "number": "UA41BT/RNK-1-087",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-088_p1",
     "number": "UA41BT/RNK-1-088",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-088",
     "number": "UA41BT/RNK-1-088",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-089",
     "number": "UA41BT/RNK-1-089",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-090_p1",
     "number": "UA41BT/RNK-1-090",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-090_p2",
     "number": "UA41BT/RNK-1-090",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-090",
     "number": "UA41BT/RNK-1-090",
-    "name": "资料待补",
+    "name": "緋村 剣心",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-091",
     "number": "UA41BT/RNK-1-091",
-    "name": "资料待补",
+    "name": "明神 弥彦",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-092_p1",
     "number": "UA41BT/RNK-1-092",
-    "name": "资料待补",
+    "name": "明神 弥彦",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-092",
     "number": "UA41BT/RNK-1-092",
-    "name": "资料待补",
+    "name": "明神 弥彦",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-093_p1",
     "number": "UA41BT/RNK-1-093",
-    "name": "资料待补",
+    "name": "明神 弥彦",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-093",
     "number": "UA41BT/RNK-1-093",
-    "name": "资料待补",
+    "name": "明神 弥彦",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-094",
     "number": "UA41BT/RNK-1-094",
-    "name": "资料待补",
+    "name": "赤べこ",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-095",
     "number": "UA41BT/RNK-1-095",
-    "name": "资料待补",
+    "name": "悪一文字",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-096",
     "number": "UA41BT/RNK-1-096",
-    "name": "资料待补",
+    "name": "不殺の誓い",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-097",
     "number": "UA41BT/RNK-1-097",
-    "name": "资料待补",
+    "name": "絶対に負けられねェ！！！",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-098",
     "number": "UA41BT/RNK-1-098",
-    "name": "资料待补",
+    "name": "飛天御剣流",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-099",
     "number": "UA41BT/RNK-1-099",
-    "name": "资料待补",
+    "name": "二重の極み",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-100",
     "number": "UA41BT/RNK-1-100",
-    "name": "资料待补",
+    "name": "龍槌閃",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3457,8 +3457,8 @@ export const rurouniKenshinCards: Card[] = [
   },
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap01_p1",
-    "number": "UA41BT/RNK-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UA41BT/RNK-1-AP01",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap01",
     "number": "UA41BT/RNK-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap02",
     "number": "UA41BT/RNK-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap03",
     "number": "UA41BT/RNK-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap04",
     "number": "UA41BT/RNK-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap05",
     "number": "UA41BT/RNK-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const rurouniKenshinCards: Card[] = [
   {
     "id": "rurouni-kenshin-2-ua41bt_rnk-1-ap06",
     "number": "UA41BT/RNK-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
     "nameZh": "",
     "series": "浪客剑心",
     "color": "资料待补",

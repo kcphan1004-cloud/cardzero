@@ -4,7 +4,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-053",
     "number": "UA36ST/MCR-1-053",
-    "name": "资料待补",
+    "name": "キャサリン・グラス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-055",
     "number": "UA36ST/MCR-1-055",
-    "name": "资料待补",
+    "name": "オズマ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-056",
     "number": "UA36ST/MCR-1-056",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-057",
     "number": "UA36ST/MCR-1-057",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-058",
     "number": "UA36ST/MCR-1-058",
-    "name": "资料待补",
+    "name": "ミハエル・ブラン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-059",
     "number": "UA36ST/MCR-1-059",
-    "name": "资料待补",
+    "name": "ルカ・アンジェローニ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-061",
     "number": "UA36ST/MCR-1-061",
-    "name": "资料待补",
+    "name": "クラン・クラン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-065",
     "number": "UA36ST/MCR-1-065",
-    "name": "资料待补",
+    "name": "トライアングラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-066",
     "number": "UA36ST/MCR-1-066",
-    "name": "资料待补",
+    "name": "ライオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-101",
     "number": "UA36ST/MCR-1-101",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-102",
     "number": "UA36ST/MCR-1-102",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-103",
     "number": "UA36ST/MCR-1-103",
-    "name": "资料待补",
+    "name": "ボビー・マルゴ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-104",
     "number": "UA36ST/MCR-1-104",
-    "name": "资料待补",
+    "name": "オズマ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-105",
     "number": "UA36ST/MCR-1-105",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-106",
     "number": "UA36ST/MCR-1-106",
-    "name": "资料待补",
+    "name": "クラン・クラン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-107",
     "number": "UA36ST/MCR-1-107",
-    "name": "资料待补",
+    "name": "VF-25F メサイア（早乙女 アルト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-108",
     "number": "UA36ST/MCR-1-108",
-    "name": "资料待补",
+    "name": "VF-25G メサイア（ミハエル・ブラン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-109",
     "number": "UA36ST/MCR-1-109",
-    "name": "资料待补",
+    "name": "スナイパーライフル",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-110_p1",
     "number": "UA36ST/MCR-1-110",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-110",
     "number": "UA36ST/MCR-1-110",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-111_p1",
     "number": "UA36ST/MCR-1-111",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-111",
     "number": "UA36ST/MCR-1-111",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-112_p1",
     "number": "UA36ST/MCR-1-112",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-112",
     "number": "UA36ST/MCR-1-112",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-113_p1",
     "number": "UA36ST/MCR-1-113",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-113",
     "number": "UA36ST/MCR-1-113",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-ua36st_mcr-1-ap01",
     "number": "UA36ST/MCR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-001",
     "number": "UA36BT/MCR-1-001",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-002",
     "number": "UA36BT/MCR-1-002",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-003",
     "number": "UA36BT/MCR-1-003",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-004",
     "number": "UA36BT/MCR-1-004",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-005",
     "number": "UA36BT/MCR-1-005",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-006",
     "number": "UA36BT/MCR-1-006",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-007",
     "number": "UA36BT/MCR-1-007",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-008_p1",
     "number": "UA36BT/MCR-1-008",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-008",
     "number": "UA36BT/MCR-1-008",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-009_p1",
     "number": "UA36BT/MCR-1-009",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-009",
     "number": "UA36BT/MCR-1-009",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-010_p1",
     "number": "UA36BT/MCR-1-010",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-010",
     "number": "UA36BT/MCR-1-010",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-011_p1",
     "number": "UA36BT/MCR-1-011",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-011",
     "number": "UA36BT/MCR-1-011",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-012_p1",
     "number": "UA36BT/MCR-1-012",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-012_p2",
     "number": "UA36BT/MCR-1-012",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-012",
     "number": "UA36BT/MCR-1-012",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-013",
     "number": "UA36BT/MCR-1-013",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-014",
     "number": "UA36BT/MCR-1-014",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-015",
     "number": "UA36BT/MCR-1-015",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-016",
     "number": "UA36BT/MCR-1-016",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-017",
     "number": "UA36BT/MCR-1-017",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-018",
     "number": "UA36BT/MCR-1-018",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-019_p1",
     "number": "UA36BT/MCR-1-019",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-019",
     "number": "UA36BT/MCR-1-019",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-020_p1",
     "number": "UA36BT/MCR-1-020",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-020",
     "number": "UA36BT/MCR-1-020",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-021_p1",
     "number": "UA36BT/MCR-1-021",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-021",
     "number": "UA36BT/MCR-1-021",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-022_p1",
     "number": "UA36BT/MCR-1-022",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-022",
     "number": "UA36BT/MCR-1-022",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-023_p1",
     "number": "UA36BT/MCR-1-023",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-023_p2",
     "number": "UA36BT/MCR-1-023",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-023",
     "number": "UA36BT/MCR-1-023",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-024",
     "number": "UA36BT/MCR-1-024",
-    "name": "资料待补",
+    "name": "超時空飯店 娘々",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-025",
     "number": "UA36BT/MCR-1-025",
-    "name": "资料待补",
+    "name": "みんな抱きしめて！銀河の果てまで！",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-026",
     "number": "UA36BT/MCR-1-026",
-    "name": "资料待补",
+    "name": "私の歌を聴けー！",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-027",
     "number": "UA36BT/MCR-1-027",
-    "name": "资料待补",
+    "name": "射手座☆午後九時Don",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-028",
     "number": "UA36BT/MCR-1-028",
-    "name": "资料待补",
+    "name": "ダイアモンド クレバス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-029",
     "number": "UA36BT/MCR-1-029",
-    "name": "资料待补",
+    "name": "ノーザンクロス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-030",
     "number": "UA36BT/MCR-1-030",
-    "name": "资料待补",
+    "name": "アイモ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-031",
     "number": "UA36BT/MCR-1-031",
-    "name": "资料待补",
+    "name": "星間飛行",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-032",
     "number": "UA36BT/MCR-1-032",
-    "name": "资料待补",
+    "name": "私の彼はパイロット",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-033",
     "number": "UA36BT/MCR-1-033",
-    "name": "资料待补",
+    "name": "What",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-034",
     "number": "UA36BT/MCR-1-034",
-    "name": "资料待补",
+    "name": "ガルド・ゴア・ボーマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-035",
     "number": "UA36BT/MCR-1-035",
-    "name": "资料待补",
+    "name": "ガルド・ゴア・ボーマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-036",
     "number": "UA36BT/MCR-1-036",
-    "name": "资料待补",
+    "name": "ガルド・ゴア・ボーマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-037_p1",
     "number": "UA36BT/MCR-1-037",
-    "name": "资料待补",
+    "name": "ミュン・ファン・ローン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-037",
     "number": "UA36BT/MCR-1-037",
-    "name": "资料待补",
+    "name": "ミュン・ファン・ローン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-038",
     "number": "UA36BT/MCR-1-038",
-    "name": "资料待补",
+    "name": "ヤン・ノイマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-039",
     "number": "UA36BT/MCR-1-039",
-    "name": "资料待补",
+    "name": "イサム・ダイソン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-040",
     "number": "UA36BT/MCR-1-040",
-    "name": "资料待补",
+    "name": "イサム・ダイソン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-041",
     "number": "UA36BT/MCR-1-041",
-    "name": "资料待补",
+    "name": "イサム・ダイソン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-042",
     "number": "UA36BT/MCR-1-042",
-    "name": "资料待补",
+    "name": "ルーシー・マクミラン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-043",
     "number": "UA36BT/MCR-1-043",
-    "name": "资料待补",
+    "name": "YF-21（ガルド・ゴア・ボーマン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-044_p1",
     "number": "UA36BT/MCR-1-044",
-    "name": "资料待补",
+    "name": "YF-21（ガルド・ゴア・ボーマン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-044",
     "number": "UA36BT/MCR-1-044",
-    "name": "资料待补",
+    "name": "YF-21（ガルド・ゴア・ボーマン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-045_p1",
     "number": "UA36BT/MCR-1-045",
-    "name": "资料待补",
+    "name": "YF-19（イサム・ダイソン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-045",
     "number": "UA36BT/MCR-1-045",
-    "name": "资料待补",
+    "name": "YF-19（イサム・ダイソン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-046",
     "number": "UA36BT/MCR-1-046",
-    "name": "资料待补",
+    "name": "YF-19（イサム・ダイソン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-047",
     "number": "UA36BT/MCR-1-047",
-    "name": "资料待补",
+    "name": "ニューエドワーズ基地",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-048",
     "number": "UA36BT/MCR-1-048",
-    "name": "资料待补",
+    "name": "「スーパー・ノヴァ」計画",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-049",
     "number": "UA36BT/MCR-1-049",
-    "name": "资料待补",
+    "name": "ドッグファイト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-050",
     "number": "UA36BT/MCR-1-050",
-    "name": "资料待补",
+    "name": "必殺・竜鳥飛び",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-051_p1",
     "number": "UA36BT/MCR-1-051",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-051",
     "number": "UA36BT/MCR-1-051",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-052_p1",
     "number": "UA36BT/MCR-1-052",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-052",
     "number": "UA36BT/MCR-1-052",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-053",
     "number": "UA36BT/MCR-1-053",
-    "name": "资料待补",
+    "name": "キャサリン・グラス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-054_p1",
     "number": "UA36BT/MCR-1-054",
-    "name": "资料待补",
+    "name": "VF-27 ルシファー（ブレラ・スターン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-054",
     "number": "UA36BT/MCR-1-054",
-    "name": "资料待补",
+    "name": "VF-27 ルシファー（ブレラ・スターン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-055",
     "number": "UA36BT/MCR-1-055",
-    "name": "资料待补",
+    "name": "オズマ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-056",
     "number": "UA36BT/MCR-1-056",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-057",
     "number": "UA36BT/MCR-1-057",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-058",
     "number": "UA36BT/MCR-1-058",
-    "name": "资料待补",
+    "name": "ミハエル・ブラン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-059",
     "number": "UA36BT/MCR-1-059",
-    "name": "资料待补",
+    "name": "ルカ・アンジェローニ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-060_p1",
     "number": "UA36BT/MCR-1-060",
-    "name": "资料待补",
+    "name": "クァドラン・レア（クラン・クラン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-060",
     "number": "UA36BT/MCR-1-060",
-    "name": "资料待补",
+    "name": "クァドラン・レア（クラン・クラン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-061",
     "number": "UA36BT/MCR-1-061",
-    "name": "资料待补",
+    "name": "クラン・クラン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-062_p1",
     "number": "UA36BT/MCR-1-062",
-    "name": "资料待补",
+    "name": "VF-25S メサイア（オズマ・リー）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-062",
     "number": "UA36BT/MCR-1-062",
-    "name": "资料待补",
+    "name": "VF-25S メサイア（オズマ・リー）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-063_p1",
     "number": "UA36BT/MCR-1-063",
-    "name": "资料待补",
+    "name": "VF-25F メサイア（早乙女 アルト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-063",
     "number": "UA36BT/MCR-1-063",
-    "name": "资料待补",
+    "name": "VF-25F メサイア（早乙女 アルト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-064",
     "number": "UA36BT/MCR-1-064",
-    "name": "资料待补",
+    "name": "マクロス・クォーター",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-065",
     "number": "UA36BT/MCR-1-065",
-    "name": "资料待补",
+    "name": "トライアングラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-066",
     "number": "UA36BT/MCR-1-066",
-    "name": "资料待补",
+    "name": "ライオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-067_p1",
     "number": "UA36BT/MCR-1-067",
-    "name": "资料待补",
+    "name": "リン・ミンメイ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-067_p2",
     "number": "UA36BT/MCR-1-067",
-    "name": "资料待补",
+    "name": "リン・ミンメイ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-067",
     "number": "UA36BT/MCR-1-067",
-    "name": "资料待补",
+    "name": "リン・ミンメイ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-068",
     "number": "UA36BT/MCR-1-068",
-    "name": "资料待补",
+    "name": "一条 輝",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-069",
     "number": "UA36BT/MCR-1-069",
-    "name": "资料待补",
+    "name": "早瀬 未沙",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-070",
     "number": "UA36BT/MCR-1-070",
-    "name": "资料待补",
+    "name": "グババ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-071",
     "number": "UA36BT/MCR-1-071",
-    "name": "资料待补",
+    "name": "花束の少女",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-072",
     "number": "UA36BT/MCR-1-072",
-    "name": "资料待补",
+    "name": "ミリア・ファリーナ・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-073",
     "number": "UA36BT/MCR-1-073",
-    "name": "资料待补",
+    "name": "ミリア・ファリーナ・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-074",
     "number": "UA36BT/MCR-1-074",
-    "name": "资料待补",
+    "name": "エキセドル・フォルモ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-075",
     "number": "UA36BT/MCR-1-075",
-    "name": "资料待补",
+    "name": "サリー・セイント・フォード",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-076",
     "number": "UA36BT/MCR-1-076",
-    "name": "资料待补",
+    "name": "マクシミリアン・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-077",
     "number": "UA36BT/MCR-1-077",
-    "name": "资料待补",
+    "name": "マクシミリアン・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-078",
     "number": "UA36BT/MCR-1-078",
-    "name": "资料待补",
+    "name": "美保 美穂",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-079_p1",
     "number": "UA36BT/MCR-1-079",
-    "name": "资料待补",
+    "name": "VF-22S（ミリア・ファリーナ・ジーナス）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-079",
     "number": "UA36BT/MCR-1-079",
-    "name": "资料待补",
+    "name": "VF-22S（ミリア・ファリーナ・ジーナス）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-080",
     "number": "UA36BT/MCR-1-080",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-081_p1",
     "number": "UA36BT/MCR-1-081",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-081",
     "number": "UA36BT/MCR-1-081",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-082_p1",
     "number": "UA36BT/MCR-1-082",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-082",
     "number": "UA36BT/MCR-1-082",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-083",
     "number": "UA36BT/MCR-1-083",
-    "name": "资料待补",
+    "name": "ビヒーダ・フィーズ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-084",
     "number": "UA36BT/MCR-1-084",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-085",
     "number": "UA36BT/MCR-1-085",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-086_p1",
     "number": "UA36BT/MCR-1-086",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-086",
     "number": "UA36BT/MCR-1-086",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-087",
     "number": "UA36BT/MCR-1-087",
-    "name": "资料待补",
+    "name": "レイ・ラブロック",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-088",
     "number": "UA36BT/MCR-1-088",
-    "name": "资料待补",
+    "name": "シビル",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-089",
     "number": "UA36BT/MCR-1-089",
-    "name": "资料待补",
+    "name": "ガムリン木崎",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-090",
     "number": "UA36BT/MCR-1-090",
-    "name": "资料待补",
+    "name": "ガムリン木崎",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-091_p1",
     "number": "UA36BT/MCR-1-091",
-    "name": "资料待补",
+    "name": "VF-22S（マクシミリアン・ジーナス）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-091",
     "number": "UA36BT/MCR-1-091",
-    "name": "资料待补",
+    "name": "VF-22S（マクシミリアン・ジーナス）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-092_p1",
     "number": "UA36BT/MCR-1-092",
-    "name": "资料待补",
+    "name": "VF-11MAXL改 ミレーヌバルキリー(ミレーヌ・フレア・ジーナス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-092",
     "number": "UA36BT/MCR-1-092",
-    "name": "资料待补",
+    "name": "VF-11MAXL改 ミレーヌバルキリー(ミレーヌ・フレア・ジーナス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-093_p1",
     "number": "UA36BT/MCR-1-093",
-    "name": "资料待补",
+    "name": "VF-19改 ファイヤーバルキリー（熱気 バサラ）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-093",
     "number": "UA36BT/MCR-1-093",
-    "name": "资料待补",
+    "name": "VF-19改 ファイヤーバルキリー（熱気 バサラ）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-094",
     "number": "UA36BT/MCR-1-094",
-    "name": "资料待补",
+    "name": "ギギル",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-095_p1",
     "number": "UA36BT/MCR-1-095",
-    "name": "资料待补",
+    "name": "VF-17 ナイトメア(ガムリン木崎）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-095",
     "number": "UA36BT/MCR-1-095",
-    "name": "资料待补",
+    "name": "VF-17 ナイトメア(ガムリン木崎）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-096",
     "number": "UA36BT/MCR-1-096",
-    "name": "资料待补",
+    "name": "バトル7",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-097",
     "number": "UA36BT/MCR-1-097",
-    "name": "资料待补",
+    "name": "俺の歌を聞けぇ！",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-098",
     "number": "UA36BT/MCR-1-098",
-    "name": "资料待补",
+    "name": "マイクロミサイル",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-099",
     "number": "UA36BT/MCR-1-099",
-    "name": "资料待补",
+    "name": "突撃ラブハート",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-100",
     "number": "UA36BT/MCR-1-100",
-    "name": "资料待补",
+    "name": "TRY AGAIN",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3479,8 +3479,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-2-ua36bt_mcr-1-ap01_p1",
-    "number": "UA36BT/MCR-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UA36BT/MCR-1-AP01",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-ap01",
     "number": "UA36BT/MCR-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3523,8 +3523,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-2-ua36bt_mcr-1-ap02_p1",
-    "number": "UA36BT/MCR-1-AP02/p1",
-    "name": "资料待补",
+    "number": "UA36BT/MCR-1-AP02",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3546,7 +3546,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-ap02",
     "number": "UA36BT/MCR-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-ap03",
     "number": "UA36BT/MCR-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3590,7 +3590,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-ap04",
     "number": "UA36BT/MCR-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-ap05",
     "number": "UA36BT/MCR-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-2-ua36bt_mcr-1-ap06",
     "number": "UA36BT/MCR-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-001",
     "number": "EX14BT/MCR-2-001",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-002",
     "number": "EX14BT/MCR-2-002",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-003",
     "number": "EX14BT/MCR-2-003",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3722,7 +3722,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-004_p1",
     "number": "EX14BT/MCR-2-004",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3744,7 +3744,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-004",
     "number": "EX14BT/MCR-2-004",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3766,7 +3766,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-005",
     "number": "EX14BT/MCR-2-005",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3788,7 +3788,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-006",
     "number": "EX14BT/MCR-2-006",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3810,7 +3810,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-007",
     "number": "EX14BT/MCR-2-007",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3832,7 +3832,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-008_p1",
     "number": "EX14BT/MCR-2-008",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3854,7 +3854,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-008",
     "number": "EX14BT/MCR-2-008",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3876,7 +3876,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-009",
     "number": "EX14BT/MCR-2-009",
-    "name": "资料待补",
+    "name": "オベリスク",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3898,7 +3898,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-010",
     "number": "EX14BT/MCR-2-010",
-    "name": "资料待补",
+    "name": "放課後オーバーフロウ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3920,7 +3920,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-011_p1",
     "number": "EX14BT/MCR-2-011",
-    "name": "资料待补",
+    "name": "VF-19EF/A イサム・スペシャル",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3942,7 +3942,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-011",
     "number": "EX14BT/MCR-2-011",
-    "name": "资料待补",
+    "name": "VF-19EF/A イサム・スペシャル",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3964,7 +3964,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-012_p1",
     "number": "EX14BT/MCR-2-012",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -3986,7 +3986,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-012",
     "number": "EX14BT/MCR-2-012",
-    "name": "资料待补",
+    "name": "シェリル・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4008,7 +4008,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-013_p1",
     "number": "EX14BT/MCR-2-013",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4030,7 +4030,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-013",
     "number": "EX14BT/MCR-2-013",
-    "name": "资料待补",
+    "name": "ランカ・リー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4052,7 +4052,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-014",
     "number": "EX14BT/MCR-2-014",
-    "name": "资料待补",
+    "name": "VF-27γSP スーパールシファーバルキリー（ブレラ・スターン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4074,7 +4074,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-015",
     "number": "EX14BT/MCR-2-015",
-    "name": "资料待补",
+    "name": "早乙女 アルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4096,7 +4096,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-016_p1",
     "number": "EX14BT/MCR-2-016",
-    "name": "资料待补",
+    "name": "YF-29 デュランダルバルキリー（早乙女 アルト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4118,7 +4118,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-016",
     "number": "EX14BT/MCR-2-016",
-    "name": "资料待补",
+    "name": "YF-29 デュランダルバルキリー（早乙女 アルト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4140,7 +4140,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-017",
     "number": "EX14BT/MCR-2-017",
-    "name": "资料待补",
+    "name": "VF-25G トルネードメサイアバルキリー（ミハエル・ブラン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4162,7 +4162,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-018",
     "number": "EX14BT/MCR-2-018",
-    "name": "资料待补",
+    "name": "サヨナラノツバサ ～ the end of triangle",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4184,7 +4184,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-019",
     "number": "EX14BT/MCR-2-019",
-    "name": "资料待补",
+    "name": "ハインツ・ネーリッヒ・ウィンダミア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4206,7 +4206,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-020",
     "number": "EX14BT/MCR-2-020",
-    "name": "资料待补",
+    "name": "ハヤテ・インメルマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4228,7 +4228,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-021",
     "number": "EX14BT/MCR-2-021",
-    "name": "资料待补",
+    "name": "ハヤテ・インメルマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4250,7 +4250,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-022",
     "number": "EX14BT/MCR-2-022",
-    "name": "资料待补",
+    "name": "ハヤテ・インメルマン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4272,7 +4272,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-023",
     "number": "EX14BT/MCR-2-023",
-    "name": "资料待补",
+    "name": "ミラージュ・ファリーナ・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4294,7 +4294,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-024",
     "number": "EX14BT/MCR-2-024",
-    "name": "资料待补",
+    "name": "ミラージュ・ファリーナ・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4316,7 +4316,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-025",
     "number": "EX14BT/MCR-2-025",
-    "name": "资料待补",
+    "name": "ミラージュ・ファリーナ・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4338,7 +4338,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-026",
     "number": "EX14BT/MCR-2-026",
-    "name": "资料待补",
+    "name": "メッサー・イーレフェルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4360,7 +4360,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-027",
     "number": "EX14BT/MCR-2-027",
-    "name": "资料待补",
+    "name": "メッサー・イーレフェルト",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4382,7 +4382,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-028_p1",
     "number": "EX14BT/MCR-2-028",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4404,7 +4404,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-028",
     "number": "EX14BT/MCR-2-028",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4426,7 +4426,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-029_p1",
     "number": "EX14BT/MCR-2-029",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4448,7 +4448,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-029",
     "number": "EX14BT/MCR-2-029",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4470,7 +4470,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-030_p1",
     "number": "EX14BT/MCR-2-030",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4492,7 +4492,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-030",
     "number": "EX14BT/MCR-2-030",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4514,7 +4514,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-031_p1",
     "number": "EX14BT/MCR-2-031",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4536,7 +4536,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-031",
     "number": "EX14BT/MCR-2-031",
-    "name": "资料待补",
+    "name": "カナメ・バッカニア",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4558,7 +4558,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-032_p1",
     "number": "EX14BT/MCR-2-032",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4580,7 +4580,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-032",
     "number": "EX14BT/MCR-2-032",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4602,7 +4602,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-033_p1",
     "number": "EX14BT/MCR-2-033",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4624,7 +4624,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-033",
     "number": "EX14BT/MCR-2-033",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4646,7 +4646,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-034_p1",
     "number": "EX14BT/MCR-2-034",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4668,7 +4668,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-034",
     "number": "EX14BT/MCR-2-034",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4690,7 +4690,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-035",
     "number": "EX14BT/MCR-2-035",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4712,7 +4712,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-036_p1",
     "number": "EX14BT/MCR-2-036",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4734,7 +4734,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-036_p2",
     "number": "EX14BT/MCR-2-036",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4756,7 +4756,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-036",
     "number": "EX14BT/MCR-2-036",
-    "name": "资料待补",
+    "name": "フレイア・ヴィオン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4778,7 +4778,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-037_p1",
     "number": "EX14BT/MCR-2-037",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4800,7 +4800,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-037",
     "number": "EX14BT/MCR-2-037",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4822,7 +4822,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-038_p1",
     "number": "EX14BT/MCR-2-038",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4844,7 +4844,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-038",
     "number": "EX14BT/MCR-2-038",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4866,7 +4866,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-039_p1",
     "number": "EX14BT/MCR-2-039",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4888,7 +4888,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-039",
     "number": "EX14BT/MCR-2-039",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4910,7 +4910,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-040_p1",
     "number": "EX14BT/MCR-2-040",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4932,7 +4932,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-040",
     "number": "EX14BT/MCR-2-040",
-    "name": "资料待补",
+    "name": "マキナ・中島",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4954,7 +4954,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-041_p1",
     "number": "EX14BT/MCR-2-041",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4976,7 +4976,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-041",
     "number": "EX14BT/MCR-2-041",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -4998,7 +4998,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-042",
     "number": "EX14BT/MCR-2-042",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5020,7 +5020,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-043_p1",
     "number": "EX14BT/MCR-2-043",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5042,7 +5042,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-043",
     "number": "EX14BT/MCR-2-043",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5064,7 +5064,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-044_p1",
     "number": "EX14BT/MCR-2-044",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5086,7 +5086,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-044",
     "number": "EX14BT/MCR-2-044",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5108,7 +5108,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-045_p1",
     "number": "EX14BT/MCR-2-045",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5130,7 +5130,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-045_p2",
     "number": "EX14BT/MCR-2-045",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5152,7 +5152,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-045",
     "number": "EX14BT/MCR-2-045",
-    "name": "资料待补",
+    "name": "美雲・ギンヌメール",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5174,7 +5174,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-046_p1",
     "number": "EX14BT/MCR-2-046",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5196,7 +5196,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-046",
     "number": "EX14BT/MCR-2-046",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5218,7 +5218,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-047_p1",
     "number": "EX14BT/MCR-2-047",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5240,7 +5240,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-047",
     "number": "EX14BT/MCR-2-047",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5262,7 +5262,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-048_p1",
     "number": "EX14BT/MCR-2-048",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5284,7 +5284,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-048",
     "number": "EX14BT/MCR-2-048",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5306,7 +5306,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-049_p1",
     "number": "EX14BT/MCR-2-049",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5328,7 +5328,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-049",
     "number": "EX14BT/MCR-2-049",
-    "name": "资料待补",
+    "name": "レイナ・プラウラー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5350,7 +5350,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-050",
     "number": "EX14BT/MCR-2-050",
-    "name": "资料待补",
+    "name": "Sv-262Ba ドラケンIII（ボーグ・コンファールト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5372,7 +5372,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-051",
     "number": "EX14BT/MCR-2-051",
-    "name": "资料待补",
+    "name": "Sv-262Hs ドラケンIII（キース・エアロ・ウィンダミア）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5394,7 +5394,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-052",
     "number": "EX14BT/MCR-2-052",
-    "name": "资料待补",
+    "name": "VF-31F ジークフリード（メッサー・イーレフェルト）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5416,7 +5416,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-053_p1",
     "number": "EX14BT/MCR-2-053",
-    "name": "资料待补",
+    "name": "VF-31C ジークフリード（ミラージュ・ファリーナ・ジーナス）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5438,7 +5438,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-053",
     "number": "EX14BT/MCR-2-053",
-    "name": "资料待补",
+    "name": "VF-31C ジークフリード（ミラージュ・ファリーナ・ジーナス）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5460,7 +5460,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-054_p1",
     "number": "EX14BT/MCR-2-054",
-    "name": "资料待补",
+    "name": "VF-31J ジークフリード（ハヤテ・インメルマン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5482,7 +5482,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-054",
     "number": "EX14BT/MCR-2-054",
-    "name": "资料待补",
+    "name": "VF-31J ジークフリード（ハヤテ・インメルマン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5504,7 +5504,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-055",
     "number": "EX14BT/MCR-2-055",
-    "name": "资料待补",
+    "name": "裸喰娘娘",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5526,7 +5526,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-056_p1",
     "number": "EX14BT/MCR-2-056",
-    "name": "资料待补",
+    "name": "覚悟するんよ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5548,7 +5548,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-056",
     "number": "EX14BT/MCR-2-056",
-    "name": "资料待补",
+    "name": "覚悟するんよ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5570,7 +5570,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-057",
     "number": "EX14BT/MCR-2-057",
-    "name": "资料待补",
+    "name": "守ることが俺の仕事だ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5592,7 +5592,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-058",
     "number": "EX14BT/MCR-2-058",
-    "name": "资料待补",
+    "name": "AXIA～ダイスキでダイキライ～",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5614,7 +5614,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-059",
     "number": "EX14BT/MCR-2-059",
-    "name": "资料待补",
+    "name": "いけないボーダーライン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5636,7 +5636,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-060",
     "number": "EX14BT/MCR-2-060",
-    "name": "资料待补",
+    "name": "一度だけの恋なら",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5658,7 +5658,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-061",
     "number": "EX14BT/MCR-2-061",
-    "name": "资料待补",
+    "name": "GIRAFFE BLUES",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5680,7 +5680,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-062",
     "number": "EX14BT/MCR-2-062",
-    "name": "资料待补",
+    "name": "アリエス・ターナー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5702,7 +5702,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-063",
     "number": "EX14BT/MCR-2-063",
-    "name": "资料待补",
+    "name": "工藤 シン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5724,7 +5724,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-064",
     "number": "EX14BT/MCR-2-064",
-    "name": "资料待补",
+    "name": "工藤 シン",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5746,7 +5746,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-065",
     "number": "EX14BT/MCR-2-065",
-    "name": "资料待补",
+    "name": "サラ・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5768,7 +5768,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-066",
     "number": "EX14BT/MCR-2-066",
-    "name": "资料待补",
+    "name": "マオ・ノーム",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5790,7 +5790,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-067",
     "number": "EX14BT/MCR-2-067",
-    "name": "资料待补",
+    "name": "ロイ・フォッカー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5812,7 +5812,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-068_p1",
     "number": "EX14BT/MCR-2-068",
-    "name": "资料待补",
+    "name": "VF-0S フェニックス（ロイ・フォッカー）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5834,7 +5834,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-068",
     "number": "EX14BT/MCR-2-068",
-    "name": "资料待补",
+    "name": "VF-0S フェニックス（ロイ・フォッカー）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5856,7 +5856,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-069_p1",
     "number": "EX14BT/MCR-2-069",
-    "name": "资料待补",
+    "name": "VF-0D フェニックス（工藤 シン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5878,7 +5878,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-069",
     "number": "EX14BT/MCR-2-069",
-    "name": "资料待补",
+    "name": "VF-0D フェニックス（工藤 シン）",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5900,7 +5900,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-070",
     "number": "EX14BT/MCR-2-070",
-    "name": "资料待补",
+    "name": "ARKAN",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5922,7 +5922,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-071",
     "number": "EX14BT/MCR-2-071",
-    "name": "资料待补",
+    "name": "鳥の人",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5944,7 +5944,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-072",
     "number": "EX14BT/MCR-2-072",
-    "name": "资料待补",
+    "name": "エルマ・ホイリー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5966,7 +5966,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-073",
     "number": "EX14BT/MCR-2-073",
-    "name": "资料待补",
+    "name": "ライザ・ホイリー",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -5988,7 +5988,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-074",
     "number": "EX14BT/MCR-2-074",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6010,7 +6010,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-075_p1",
     "number": "EX14BT/MCR-2-075",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6032,7 +6032,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-075",
     "number": "EX14BT/MCR-2-075",
-    "name": "资料待补",
+    "name": "熱気 バサラ",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6054,7 +6054,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-076",
     "number": "EX14BT/MCR-2-076",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6076,7 +6076,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-077",
     "number": "EX14BT/MCR-2-077",
-    "name": "资料待补",
+    "name": "ミレーヌ・フレア・ジーナス",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6097,8 +6097,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-3-ex14bt_mcr-2-ap01_p1",
-    "number": "EX14BT/MCR-2-AP01/p1",
-    "name": "资料待补",
+    "number": "EX14BT/MCR-2-AP01",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6120,7 +6120,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap01",
     "number": "EX14BT/MCR-2-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6141,8 +6141,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-3-ex14bt_mcr-2-ap02_p1",
-    "number": "EX14BT/MCR-2-AP02/p1",
-    "name": "资料待补",
+    "number": "EX14BT/MCR-2-AP02",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6164,7 +6164,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap02",
     "number": "EX14BT/MCR-2-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6185,8 +6185,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-3-ex14bt_mcr-2-ap03_p1",
-    "number": "EX14BT/MCR-2-AP03/p1",
-    "name": "资料待补",
+    "number": "EX14BT/MCR-2-AP03",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6208,7 +6208,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap03",
     "number": "EX14BT/MCR-2-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6229,8 +6229,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-3-ex14bt_mcr-2-ap04_p1",
-    "number": "EX14BT/MCR-2-AP04/p1",
-    "name": "资料待补",
+    "number": "EX14BT/MCR-2-AP04",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6252,7 +6252,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap04",
     "number": "EX14BT/MCR-2-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6273,8 +6273,8 @@ export const macrossCards: Card[] = [
   },
   {
     "id": "macross-3-ex14bt_mcr-2-ap05_p1",
-    "number": "EX14BT/MCR-2-AP05/p1",
-    "name": "资料待补",
+    "number": "EX14BT/MCR-2-AP05",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6296,7 +6296,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap05",
     "number": "EX14BT/MCR-2-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6318,7 +6318,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap06",
     "number": "EX14BT/MCR-2-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",
@@ -6340,7 +6340,7 @@ export const macrossCards: Card[] = [
   {
     "id": "macross-3-ex14bt_mcr-2-ap07",
     "number": "EX14BT/MCR-2-AP07",
-    "name": "资料待补",
+    "name": "アクションポイントカード(マクロス)",
     "nameZh": "",
     "series": "超时空要塞",
     "color": "资料待补",

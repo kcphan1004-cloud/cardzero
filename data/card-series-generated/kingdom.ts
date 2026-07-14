@@ -4,7 +4,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-034",
     "number": "UA48ST/KGD-1-034",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -26,7 +26,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-036",
     "number": "UA48ST/KGD-1-036",
-    "name": "资料待补",
+    "name": "漂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -48,7 +48,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-045",
     "number": "UA48ST/KGD-1-045",
-    "name": "资料待补",
+    "name": "河了貂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -70,7 +70,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-049",
     "number": "UA48ST/KGD-1-049",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -92,7 +92,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-051",
     "number": "UA48ST/KGD-1-051",
-    "name": "资料待补",
+    "name": "松左",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -114,7 +114,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-052",
     "number": "UA48ST/KGD-1-052",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -136,7 +136,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-059",
     "number": "UA48ST/KGD-1-059",
-    "name": "资料待补",
+    "name": "尾平",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -158,7 +158,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-063",
     "number": "UA48ST/KGD-1-063",
-    "name": "资料待补",
+    "name": "続け飛信隊っ!!",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -180,7 +180,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-067",
     "number": "UA48ST/KGD-1-067",
-    "name": "资料待补",
+    "name": "ルアア!!",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -202,7 +202,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-101",
     "number": "UA48ST/KGD-1-101",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -224,7 +224,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-102",
     "number": "UA48ST/KGD-1-102",
-    "name": "资料待补",
+    "name": "王騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -246,7 +246,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-103",
     "number": "UA48ST/KGD-1-103",
-    "name": "资料待补",
+    "name": "壁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -268,7 +268,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-104",
     "number": "UA48ST/KGD-1-104",
-    "name": "资料待补",
+    "name": "河了貂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -290,7 +290,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-105",
     "number": "UA48ST/KGD-1-105",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -312,7 +312,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-106",
     "number": "UA48ST/KGD-1-106",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -334,7 +334,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-107",
     "number": "UA48ST/KGD-1-107",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -356,7 +356,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-108",
     "number": "UA48ST/KGD-1-108",
-    "name": "资料待补",
+    "name": "飛信隊",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -378,7 +378,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-109",
     "number": "UA48ST/KGD-1-109",
-    "name": "资料待补",
+    "name": "そこに道を切り開くのが飛信隊の軍師だ!!",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -400,7 +400,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-110_p1",
     "number": "UA48ST/KGD-1-110",
-    "name": "资料待补",
+    "name": "媧燐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -422,7 +422,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-110",
     "number": "UA48ST/KGD-1-110",
-    "name": "资料待补",
+    "name": "媧燐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -444,7 +444,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-111_p1",
     "number": "UA48ST/KGD-1-111",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -466,7 +466,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-111",
     "number": "UA48ST/KGD-1-111",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -488,7 +488,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-112_p1",
     "number": "UA48ST/KGD-1-112",
-    "name": "资料待补",
+    "name": "王翦",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -510,7 +510,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-112",
     "number": "UA48ST/KGD-1-112",
-    "name": "资料待补",
+    "name": "王翦",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -532,7 +532,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-113_p1",
     "number": "UA48ST/KGD-1-113",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -554,7 +554,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-113",
     "number": "UA48ST/KGD-1-113",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -576,7 +576,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-ua48st_kgd-1-ap01",
     "number": "UA48ST/KGD-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -598,7 +598,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-001",
     "number": "UA48BT/KGD-1-001",
-    "name": "资料待补",
+    "name": "オルド",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -620,7 +620,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-002",
     "number": "UA48BT/KGD-1-002",
-    "name": "资料待补",
+    "name": "オルド",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -642,7 +642,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-003",
     "number": "UA48BT/KGD-1-003",
-    "name": "资料待补",
+    "name": "成恢",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -664,7 +664,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-004",
     "number": "UA48BT/KGD-1-004",
-    "name": "资料待补",
+    "name": "呉鳳明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -686,7 +686,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-005",
     "number": "UA48BT/KGD-1-005",
-    "name": "资料待补",
+    "name": "呉鳳明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -708,7 +708,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-006_p1",
     "number": "UA48BT/KGD-1-006",
-    "name": "资料待补",
+    "name": "呉鳳明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -730,7 +730,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-006",
     "number": "UA48BT/KGD-1-006",
-    "name": "资料待补",
+    "name": "呉鳳明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -752,7 +752,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-007",
     "number": "UA48BT/KGD-1-007",
-    "name": "资料待补",
+    "name": "媧燐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -774,7 +774,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-008",
     "number": "UA48BT/KGD-1-008",
-    "name": "资料待补",
+    "name": "媧燐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -796,7 +796,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-009_p1",
     "number": "UA48BT/KGD-1-009",
-    "name": "资料待补",
+    "name": "媧燐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -818,7 +818,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-009",
     "number": "UA48BT/KGD-1-009",
-    "name": "资料待补",
+    "name": "媧燐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -840,7 +840,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-010",
     "number": "UA48BT/KGD-1-010",
-    "name": "资料待补",
+    "name": "汗明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -862,7 +862,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-011",
     "number": "UA48BT/KGD-1-011",
-    "name": "资料待补",
+    "name": "汗明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -884,7 +884,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-012_p1",
     "number": "UA48BT/KGD-1-012",
-    "name": "资料待补",
+    "name": "汗明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -906,7 +906,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-012",
     "number": "UA48BT/KGD-1-012",
-    "name": "资料待补",
+    "name": "汗明",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -928,7 +928,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-013",
     "number": "UA48BT/KGD-1-013",
-    "name": "资料待补",
+    "name": "項翼",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -950,7 +950,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-014",
     "number": "UA48BT/KGD-1-014",
-    "name": "资料待补",
+    "name": "春申君",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -972,7 +972,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-015",
     "number": "UA48BT/KGD-1-015",
-    "name": "资料待补",
+    "name": "白麗",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -994,7 +994,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-016",
     "number": "UA48BT/KGD-1-016",
-    "name": "资料待补",
+    "name": "バミュウ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1016,7 +1016,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-017",
     "number": "UA48BT/KGD-1-017",
-    "name": "资料待补",
+    "name": "臨武君",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1038,7 +1038,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-018",
     "number": "UA48BT/KGD-1-018",
-    "name": "资料待补",
+    "name": "カイネ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1060,7 +1060,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-019_p1",
     "number": "UA48BT/KGD-1-019",
-    "name": "资料待补",
+    "name": "カイネ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1082,7 +1082,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-019",
     "number": "UA48BT/KGD-1-019",
-    "name": "资料待补",
+    "name": "カイネ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1104,7 +1104,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-020_p1",
     "number": "UA48BT/KGD-1-020",
-    "name": "资料待补",
+    "name": "慶舎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1126,7 +1126,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-020",
     "number": "UA48BT/KGD-1-020",
-    "name": "资料待补",
+    "name": "慶舎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1148,7 +1148,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-021",
     "number": "UA48BT/KGD-1-021",
-    "name": "资料待补",
+    "name": "傅抵",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1170,7 +1170,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-022_p1",
     "number": "UA48BT/KGD-1-022",
-    "name": "资料待补",
+    "name": "龐煖",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1192,7 +1192,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-022",
     "number": "UA48BT/KGD-1-022",
-    "name": "资料待补",
+    "name": "龐煖",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1214,7 +1214,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-023",
     "number": "UA48BT/KGD-1-023",
-    "name": "资料待补",
+    "name": "万極",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1236,7 +1236,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-024",
     "number": "UA48BT/KGD-1-024",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1258,7 +1258,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-025_p1",
     "number": "UA48BT/KGD-1-025",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1280,7 +1280,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-025",
     "number": "UA48BT/KGD-1-025",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1302,7 +1302,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-026_p1",
     "number": "UA48BT/KGD-1-026",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1324,7 +1324,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-026",
     "number": "UA48BT/KGD-1-026",
-    "name": "资料待补",
+    "name": "李牧",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1346,7 +1346,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-027",
     "number": "UA48BT/KGD-1-027",
-    "name": "资料待补",
+    "name": "井闌車",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1368,7 +1368,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-028",
     "number": "UA48BT/KGD-1-028",
-    "name": "资料待补",
+    "name": "合従軍集結",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1390,7 +1390,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-029",
     "number": "UA48BT/KGD-1-029",
-    "name": "资料待补",
+    "name": "全軍前進です",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1412,7 +1412,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-030",
     "number": "UA48BT/KGD-1-030",
-    "name": "资料待补",
+    "name": "誰が至強か!?",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1434,7 +1434,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-031",
     "number": "UA48BT/KGD-1-031",
-    "name": "资料待补",
+    "name": "ドドンド ドンドン 汗明!!",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1456,7 +1456,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-032",
     "number": "UA48BT/KGD-1-032",
-    "name": "资料待补",
+    "name": "万に一つも勝ち目はない",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1478,7 +1478,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-033",
     "number": "UA48BT/KGD-1-033",
-    "name": "资料待补",
+    "name": "我 武神 龐煖也",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1500,7 +1500,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-034_p1",
     "number": "UA48BT/KGD-1-034",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1522,7 +1522,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-034",
     "number": "UA48BT/KGD-1-034",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1544,7 +1544,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-035_p1",
     "number": "UA48BT/KGD-1-035",
-    "name": "资料待补",
+    "name": "王騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1566,7 +1566,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-035_p2",
     "number": "UA48BT/KGD-1-035",
-    "name": "资料待补",
+    "name": "王騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1588,7 +1588,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-035",
     "number": "UA48BT/KGD-1-035",
-    "name": "资料待补",
+    "name": "王騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1610,7 +1610,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-036_p1",
     "number": "UA48BT/KGD-1-036",
-    "name": "资料待补",
+    "name": "漂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1632,7 +1632,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-036",
     "number": "UA48BT/KGD-1-036",
-    "name": "资料待补",
+    "name": "漂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1654,7 +1654,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-037",
     "number": "UA48BT/KGD-1-037",
-    "name": "资料待补",
+    "name": "蒙恬",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1676,7 +1676,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-038",
     "number": "UA48BT/KGD-1-038",
-    "name": "资料待补",
+    "name": "蒙恬",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1698,7 +1698,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-039_p1",
     "number": "UA48BT/KGD-1-039",
-    "name": "资料待补",
+    "name": "蒙恬",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1720,7 +1720,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-039",
     "number": "UA48BT/KGD-1-039",
-    "name": "资料待补",
+    "name": "蒙恬",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1742,7 +1742,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-040_p1",
     "number": "UA48BT/KGD-1-040",
-    "name": "资料待补",
+    "name": "蒙恬",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1764,7 +1764,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-040",
     "number": "UA48BT/KGD-1-040",
-    "name": "资料待补",
+    "name": "蒙恬",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1786,7 +1786,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-041",
     "number": "UA48BT/KGD-1-041",
-    "name": "资料待补",
+    "name": "王賁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1808,7 +1808,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-042",
     "number": "UA48BT/KGD-1-042",
-    "name": "资料待补",
+    "name": "王賁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1830,7 +1830,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-043_p1",
     "number": "UA48BT/KGD-1-043",
-    "name": "资料待补",
+    "name": "王賁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1852,7 +1852,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-043",
     "number": "UA48BT/KGD-1-043",
-    "name": "资料待补",
+    "name": "王賁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1874,7 +1874,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-044_p1",
     "number": "UA48BT/KGD-1-044",
-    "name": "资料待补",
+    "name": "王賁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1896,7 +1896,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-044",
     "number": "UA48BT/KGD-1-044",
-    "name": "资料待补",
+    "name": "王賁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1918,7 +1918,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-045_p1",
     "number": "UA48BT/KGD-1-045",
-    "name": "资料待补",
+    "name": "河了貂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1940,7 +1940,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-045",
     "number": "UA48BT/KGD-1-045",
-    "name": "资料待补",
+    "name": "河了貂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1962,7 +1962,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-046_p1",
     "number": "UA48BT/KGD-1-046",
-    "name": "资料待补",
+    "name": "河了貂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -1984,7 +1984,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-046",
     "number": "UA48BT/KGD-1-046",
-    "name": "资料待补",
+    "name": "河了貂",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2006,7 +2006,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-047",
     "number": "UA48BT/KGD-1-047",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2028,7 +2028,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-048",
     "number": "UA48BT/KGD-1-048",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2050,7 +2050,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-049_p1",
     "number": "UA48BT/KGD-1-049",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2072,7 +2072,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-049",
     "number": "UA48BT/KGD-1-049",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2094,7 +2094,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-050_p1",
     "number": "UA48BT/KGD-1-050",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2116,7 +2116,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-050",
     "number": "UA48BT/KGD-1-050",
-    "name": "资料待补",
+    "name": "羌瘣",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2138,7 +2138,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-051",
     "number": "UA48BT/KGD-1-051",
-    "name": "资料待补",
+    "name": "松左",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2160,7 +2160,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-052",
     "number": "UA48BT/KGD-1-052",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2182,7 +2182,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-053",
     "number": "UA48BT/KGD-1-053",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2204,7 +2204,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-054_p1",
     "number": "UA48BT/KGD-1-054",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2226,7 +2226,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-054",
     "number": "UA48BT/KGD-1-054",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2248,7 +2248,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-055_p1",
     "number": "UA48BT/KGD-1-055",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2270,7 +2270,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-055",
     "number": "UA48BT/KGD-1-055",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2292,7 +2292,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-056",
     "number": "UA48BT/KGD-1-056",
-    "name": "资料待补",
+    "name": "楚水",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2314,7 +2314,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-057",
     "number": "UA48BT/KGD-1-057",
-    "name": "资料待补",
+    "name": "澤圭",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2336,7 +2336,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-058",
     "number": "UA48BT/KGD-1-058",
-    "name": "资料待补",
+    "name": "田有",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2358,7 +2358,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-059",
     "number": "UA48BT/KGD-1-059",
-    "name": "资料待补",
+    "name": "尾平",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2380,7 +2380,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-060",
     "number": "UA48BT/KGD-1-060",
-    "name": "资料待补",
+    "name": "竜川",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2402,7 +2402,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-061",
     "number": "UA48BT/KGD-1-061",
-    "name": "资料待补",
+    "name": "論功行賞",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2424,7 +2424,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-062",
     "number": "UA48BT/KGD-1-062",
-    "name": "资料待补",
+    "name": "切磋琢磨",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2446,7 +2446,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-063",
     "number": "UA48BT/KGD-1-063",
-    "name": "资料待补",
+    "name": "続け飛信隊っ!!",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2468,7 +2468,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-064",
     "number": "UA48BT/KGD-1-064",
-    "name": "资料待补",
+    "name": "トーンタンタン",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2490,7 +2490,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-065",
     "number": "UA48BT/KGD-1-065",
-    "name": "资料待补",
+    "name": "戦友の形",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2512,7 +2512,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-066",
     "number": "UA48BT/KGD-1-066",
-    "name": "资料待补",
+    "name": "龍指",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2534,7 +2534,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-067",
     "number": "UA48BT/KGD-1-067",
-    "name": "资料待补",
+    "name": "ルアア!!",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2556,7 +2556,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-068",
     "number": "UA48BT/KGD-1-068",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2578,7 +2578,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-069_p1",
     "number": "UA48BT/KGD-1-069",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2600,7 +2600,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-069",
     "number": "UA48BT/KGD-1-069",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2622,7 +2622,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-070_p1",
     "number": "UA48BT/KGD-1-070",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2644,7 +2644,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-070_p2",
     "number": "UA48BT/KGD-1-070",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2666,7 +2666,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-070",
     "number": "UA48BT/KGD-1-070",
-    "name": "资料待补",
+    "name": "嬴政",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2688,7 +2688,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-071",
     "number": "UA48BT/KGD-1-071",
-    "name": "资料待补",
+    "name": "蕞の住民",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2710,7 +2710,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-072",
     "number": "UA48BT/KGD-1-072",
-    "name": "资料待补",
+    "name": "昌文君",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2732,7 +2732,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-073_p1",
     "number": "UA48BT/KGD-1-073",
-    "name": "资料待补",
+    "name": "昌平君",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2754,7 +2754,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-073",
     "number": "UA48BT/KGD-1-073",
-    "name": "资料待补",
+    "name": "昌平君",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2776,7 +2776,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-074",
     "number": "UA48BT/KGD-1-074",
-    "name": "资料待补",
+    "name": "張唐",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2798,7 +2798,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-075_p1",
     "number": "UA48BT/KGD-1-075",
-    "name": "资料待补",
+    "name": "騰",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2820,7 +2820,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-075",
     "number": "UA48BT/KGD-1-075",
-    "name": "资料待补",
+    "name": "騰",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2842,7 +2842,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-076_p1",
     "number": "UA48BT/KGD-1-076",
-    "name": "资料待补",
+    "name": "麃公",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2864,7 +2864,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-076",
     "number": "UA48BT/KGD-1-076",
-    "name": "资料待补",
+    "name": "麃公",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2886,7 +2886,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-077",
     "number": "UA48BT/KGD-1-077",
-    "name": "资料待补",
+    "name": "蒙驁",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2908,7 +2908,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-078",
     "number": "UA48BT/KGD-1-078",
-    "name": "资料待补",
+    "name": "蒙武",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2930,7 +2930,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-079",
     "number": "UA48BT/KGD-1-079",
-    "name": "资料待补",
+    "name": "呂不韋",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2952,7 +2952,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-080_p1",
     "number": "UA48BT/KGD-1-080",
-    "name": "资料待补",
+    "name": "バジオウ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2974,7 +2974,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-080",
     "number": "UA48BT/KGD-1-080",
-    "name": "资料待补",
+    "name": "バジオウ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -2996,7 +2996,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-081_p1",
     "number": "UA48BT/KGD-1-081",
-    "name": "资料待补",
+    "name": "楊端和",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3018,7 +3018,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-081_p2",
     "number": "UA48BT/KGD-1-081",
-    "name": "资料待补",
+    "name": "楊端和",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3040,7 +3040,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-081",
     "number": "UA48BT/KGD-1-081",
-    "name": "资料待补",
+    "name": "楊端和",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3062,7 +3062,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-082",
     "number": "UA48BT/KGD-1-082",
-    "name": "资料待补",
+    "name": "オギコ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3084,7 +3084,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-083",
     "number": "UA48BT/KGD-1-083",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3106,7 +3106,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-084",
     "number": "UA48BT/KGD-1-084",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3128,7 +3128,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-085_p1",
     "number": "UA48BT/KGD-1-085",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3150,7 +3150,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-085",
     "number": "UA48BT/KGD-1-085",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3172,7 +3172,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-086_p1",
     "number": "UA48BT/KGD-1-086",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3194,7 +3194,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-086",
     "number": "UA48BT/KGD-1-086",
-    "name": "资料待补",
+    "name": "桓騎",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3216,7 +3216,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-087",
     "number": "UA48BT/KGD-1-087",
-    "name": "资料待补",
+    "name": "黒桜",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3238,7 +3238,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-088",
     "number": "UA48BT/KGD-1-088",
-    "name": "资料待补",
+    "name": "ゼノウ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3260,7 +3260,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-089",
     "number": "UA48BT/KGD-1-089",
-    "name": "资料待补",
+    "name": "那貴",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3282,7 +3282,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-090",
     "number": "UA48BT/KGD-1-090",
-    "name": "资料待补",
+    "name": "摩論",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3304,7 +3304,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-091",
     "number": "UA48BT/KGD-1-091",
-    "name": "资料待补",
+    "name": "雷土",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3326,7 +3326,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-092",
     "number": "UA48BT/KGD-1-092",
-    "name": "资料待补",
+    "name": "リン玉",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3348,7 +3348,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-093_p1",
     "number": "UA48BT/KGD-1-093",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3370,7 +3370,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-093",
     "number": "UA48BT/KGD-1-093",
-    "name": "资料待补",
+    "name": "信",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3392,7 +3392,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-094",
     "number": "UA48BT/KGD-1-094",
-    "name": "资料待补",
+    "name": "函谷関",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3414,7 +3414,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-095",
     "number": "UA48BT/KGD-1-095",
-    "name": "资料待补",
+    "name": "ご武運を",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3436,7 +3436,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-096",
     "number": "UA48BT/KGD-1-096",
-    "name": "资料待补",
+    "name": "全部上手くいく",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3458,7 +3458,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-097",
     "number": "UA48BT/KGD-1-097",
-    "name": "资料待补",
+    "name": "はしゃぎすぎなんだよ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3480,7 +3480,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-098",
     "number": "UA48BT/KGD-1-098",
-    "name": "资料待补",
+    "name": "人の持つ本質は―――光だ",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3502,7 +3502,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-099",
     "number": "UA48BT/KGD-1-099",
-    "name": "资料待补",
+    "name": "本能型の武将",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3524,7 +3524,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-100",
     "number": "UA48BT/KGD-1-100",
-    "name": "资料待补",
+    "name": "我らの国を絶対に守りきるぞ！！",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3545,8 +3545,8 @@ export const kingdomCards: Card[] = [
   },
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap01_p1",
-    "number": "UA48BT/KGD-1-AP01/p1",
-    "name": "资料待补",
+    "number": "UA48BT/KGD-1-AP01",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3568,7 +3568,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap01",
     "number": "UA48BT/KGD-1-AP01",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3589,8 +3589,8 @@ export const kingdomCards: Card[] = [
   },
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap02_p1",
-    "number": "UA48BT/KGD-1-AP02/p1",
-    "name": "资料待补",
+    "number": "UA48BT/KGD-1-AP02",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3612,7 +3612,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap02",
     "number": "UA48BT/KGD-1-AP02",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3634,7 +3634,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap03",
     "number": "UA48BT/KGD-1-AP03",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3656,7 +3656,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap04",
     "number": "UA48BT/KGD-1-AP04",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3678,7 +3678,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap05",
     "number": "UA48BT/KGD-1-AP05",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
@@ -3700,7 +3700,7 @@ export const kingdomCards: Card[] = [
   {
     "id": "kingdom-2-ua48bt_kgd-1-ap06",
     "number": "UA48BT/KGD-1-AP06",
-    "name": "资料待补",
+    "name": "アクションポイントカード(キングダム)",
     "nameZh": "",
     "series": "王者天下",
     "color": "资料待补",
