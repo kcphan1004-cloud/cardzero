@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-07-13T19:20:29.200Z",
+  "series": {
+    "seriesId": "570801",
+    "title": "限定商品収録カード",
+    "slug": "series-570801"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570801",
+  "totalFound": 12,
+  "downloaded": 12,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UA01PB/CGH-1-016 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01PB_CGH-1-016.png?v8",
+      "localPath": "/cards/series-570801/UA01PB_CGH-1-016.png",
+      "sizeBytes": 146363
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UA02PB/JJK-1-039 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02PB_JJK-1-039.png?v8",
+      "localPath": "/cards/series-570801/UA02PB_JJK-1-039.png",
+      "sizeBytes": 157908
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UA03PB/HTR-1-077 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03PB_HTR-1-077.png?v8",
+      "localPath": "/cards/series-570801/UA03PB_HTR-1-077.png",
+      "sizeBytes": 165628
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/CGH-AP01 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_CGH-AP01.png?v8",
+      "localPath": "/cards/series-570801/UAPB_CGH-AP01.png",
+      "sizeBytes": 174057
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/CGH-AP02 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_CGH-AP02.png?v8",
+      "localPath": "/cards/series-570801/UAPB_CGH-AP02.png",
+      "sizeBytes": 174308
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/CGH-AP03 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_CGH-AP03.png?v8",
+      "localPath": "/cards/series-570801/UAPB_CGH-AP03.png",
+      "sizeBytes": 164348
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/HTR-AP01 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_HTR-AP01.png?v8",
+      "localPath": "/cards/series-570801/UAPB_HTR-AP01.png",
+      "sizeBytes": 185905
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/HTR-AP02 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_HTR-AP02.png?v8",
+      "localPath": "/cards/series-570801/UAPB_HTR-AP02.png",
+      "sizeBytes": 179269
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/HTR-AP03 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_HTR-AP03.png?v8",
+      "localPath": "/cards/series-570801/UAPB_HTR-AP03.png",
+      "sizeBytes": 163613
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/JJK-AP01 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_JJK-AP01.png?v8",
+      "localPath": "/cards/series-570801/UAPB_JJK-AP01.png",
+      "sizeBytes": 153145
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/JJK-AP02 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_JJK-AP02.png?v8",
+      "localPath": "/cards/series-570801/UAPB_JJK-AP02.png",
+      "sizeBytes": 152907
+    },
+    {
+      "series": "限定商品収録カード",
+      "seriesId": "570801",
+      "alt": "UAPB/JJK-AP03 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_JJK-AP03.png?v8",
+      "localPath": "/cards/series-570801/UAPB_JJK-AP03.png",
+      "sizeBytes": 158656
+    }
+  ],
+  "failures": []
+}

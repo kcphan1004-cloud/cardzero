@@ -7,7 +7,7 @@ import {
   useState,
 } from "react";
 
-import type { Card } from "../data/card-series";
+import type { Card } from "../data/card-series-generated";
 
 type CardCatalogProps = {
   cards: Card[];

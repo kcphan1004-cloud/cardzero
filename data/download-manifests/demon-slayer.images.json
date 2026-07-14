@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T18:01:56.781Z",
+  "series": {
+    "seriesId": "570005",
+    "title": "鬼滅の刃",
+    "slug": "demon-slayer"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570005",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-001 我妻 善逸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-001.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-001.png",
+      "sizeBytes": 167701
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-003 鱗滝 左近次",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-003.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-003.png",
+      "sizeBytes": 146963
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-004 鎹鴉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-004.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-004.png",
+      "sizeBytes": 148768
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-005 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-005.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-005.png",
+      "sizeBytes": 155645
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-009 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-009.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-009.png",
+      "sizeBytes": 155539
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-014 栗花落 カナヲ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-014.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-014.png",
+      "sizeBytes": 153817
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-015 嘴平 伊之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-015.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-015.png",
+      "sizeBytes": 162829
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-029 全集中の呼吸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-029.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-029.png",
+      "sizeBytes": 146564
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-033 水の呼吸 拾ノ型 生生流転",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-033.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-033.png",
+      "sizeBytes": 182777
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-101 我妻 善逸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-101.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-101.png",
+      "sizeBytes": 161259
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-102 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-102.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-102.png",
+      "sizeBytes": 158171
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-103 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-103.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-103.png",
+      "sizeBytes": 212259
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-104 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-104.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-104.png",
+      "sizeBytes": 147705
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-105 錆兎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-105.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-105.png",
+      "sizeBytes": 156573
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-106 嘴平 伊之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-106.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-106.png",
+      "sizeBytes": 157957
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-107 冨岡 義勇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-107.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-107.png",
+      "sizeBytes": 174137
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-108 丸い岩",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-108.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-108.png",
+      "sizeBytes": 169718
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-109 仲間",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-109.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-109.png",
+      "sizeBytes": 176169
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-AP01 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-AP01.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-AP01.png",
+      "sizeBytes": 21064
+    },
+    {
+      "series": "鬼滅の刃",
+      "seriesId": "570005",
+      "alt": "UA05ST/KMY-1-AP02 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA05ST_KMY-1-AP02.png?v8",
+      "localPath": "/cards/demon-slayer/UA05ST_KMY-1-AP02.png",
+      "sizeBytes": 167833
+    }
+  ],
+  "failures": []
+}

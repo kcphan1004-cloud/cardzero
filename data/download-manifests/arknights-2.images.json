@@ -1,0 +1,1112 @@
+{
+  "generatedAt": "2026-07-13T18:43:30.934Z",
+  "series": {
+    "seriesId": "570130",
+    "title": "アークナイツ",
+    "slug": "arknights-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570130",
+  "totalFound": 137,
+  "downloaded": 137,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-001 ミーシャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-001.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-001.png",
+      "sizeBytes": 168489
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-002 ミーシャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-002.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-002.png",
+      "sizeBytes": 192560
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-003 アレックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-003.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-003.png",
+      "sizeBytes": 216732
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-004 クラウンスレイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-004.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-004.png",
+      "sizeBytes": 162447
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-005 クラウンスレイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-005.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-005.png",
+      "sizeBytes": 212499
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-006 クラウンスレイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-006.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-006.png",
+      "sizeBytes": 199688
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-006 クラウンスレイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-006_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-006_p1.png",
+      "sizeBytes": 212317
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-007 スカルシュレッダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-007.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-007.png",
+      "sizeBytes": 167558
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-008 スカルシュレッダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-008.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-008.png",
+      "sizeBytes": 176076
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-008 スカルシュレッダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-008_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-008_p1.png",
+      "sizeBytes": 202356
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-009 W",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-009.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-009.png",
+      "sizeBytes": 185821
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-010 W",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-010.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-010.png",
+      "sizeBytes": 168791
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-011 W",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-011.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-011.png",
+      "sizeBytes": 197169
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-011 W",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-011_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-011_p1.png",
+      "sizeBytes": 212234
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-012 W",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-012.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-012.png",
+      "sizeBytes": 270615
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-012 W",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-012_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-012_p1.png",
+      "sizeBytes": 265759
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-013 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-013.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-013.png",
+      "sizeBytes": 186358
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-014 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-014.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-014.png",
+      "sizeBytes": 195728
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-015 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-015.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-015.png",
+      "sizeBytes": 237332
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-015 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-015_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-015_p1.png",
+      "sizeBytes": 236629
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-016 パトリオット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-016.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-016.png",
+      "sizeBytes": 144491
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-017 パトリオット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-017.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-017.png",
+      "sizeBytes": 213281
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-018 ファウスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-018.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-018.png",
+      "sizeBytes": 209919
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-019 ファウスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-019.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-019.png",
+      "sizeBytes": 182953
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-019 ファウスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-019_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-019_p1.png",
+      "sizeBytes": 207196
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-020 メフィスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-020.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-020.png",
+      "sizeBytes": 189559
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-021 メフィスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-021.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-021.png",
+      "sizeBytes": 263098
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-021 メフィスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-021_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-021_p1.png",
+      "sizeBytes": 250129
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-022 レユニオン兵士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-022.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-022.png",
+      "sizeBytes": 176923
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-023 スノーデビル小隊",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-023.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-023.png",
+      "sizeBytes": 178608
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-024 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-024.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-024.png",
+      "sizeBytes": 201274
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-025 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-025.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-025.png",
+      "sizeBytes": 207689
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-026 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-026.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-026.png",
+      "sizeBytes": 192612
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-026 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-026_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-026_p1.png",
+      "sizeBytes": 226766
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-027 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-027.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-027.png",
+      "sizeBytes": 256844
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-027 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-027_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-027_p1.png",
+      "sizeBytes": 254995
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-027 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-027_p2.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-027_p2.png",
+      "sizeBytes": 283169
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-028 廃都市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-028.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-028.png",
+      "sizeBytes": 175921
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-029 源石の欠片",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-029.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-029.png",
+      "sizeBytes": 153716
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-030 灼熱の息吹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-030.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-030.png",
+      "sizeBytes": 191569
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-031 Lullabye",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-031.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-031.png",
+      "sizeBytes": 158831
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-032 レユニオン・ムーブメント",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-032.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-032.png",
+      "sizeBytes": 179519
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-033 スパイシーキャンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-033.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-033.png",
+      "sizeBytes": 170092
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-034 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-034.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-034.png",
+      "sizeBytes": 176507
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-035 フランカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-035.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-035.png",
+      "sizeBytes": 176127
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-036 リスカム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-036.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-036.png",
+      "sizeBytes": 149281
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-037 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-037.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-037.png",
+      "sizeBytes": 194581
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-038 テキサス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-038.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-038.png",
+      "sizeBytes": 191781
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-039 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-039.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-039.png",
+      "sizeBytes": 193043
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-040 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-040.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-040.png",
+      "sizeBytes": 184477
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-041 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-041.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-041.png",
+      "sizeBytes": 189847
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-041 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-041_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-041_p1.png",
+      "sizeBytes": 192949
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-042 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-042.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-042.png",
+      "sizeBytes": 225984
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-042 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-042_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-042_p1.png",
+      "sizeBytes": 231425
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-042 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-042_p2.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-042_p2.png",
+      "sizeBytes": 256071
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-043 グレースロート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-043.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-043.png",
+      "sizeBytes": 180178
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-044 グレースロート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-044.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-044.png",
+      "sizeBytes": 191526
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-044 グレースロート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-044_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-044_p1.png",
+      "sizeBytes": 226814
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-045 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-045.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-045.png",
+      "sizeBytes": 163408
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-046 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-046.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-046.png",
+      "sizeBytes": 198017
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-047 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-047.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-047.png",
+      "sizeBytes": 195394
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-047 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-047_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-047_p1.png",
+      "sizeBytes": 225866
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-048 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-048.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-048.png",
+      "sizeBytes": 218689
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-048 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-048_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-048_p1.png",
+      "sizeBytes": 227492
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-049 ドーベルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-049.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-049.png",
+      "sizeBytes": 189869
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-050 ドーベルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-050.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-050.png",
+      "sizeBytes": 182346
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-051 ドクター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-051.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-051.png",
+      "sizeBytes": 165813
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-052 ドクター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-052.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-052.png",
+      "sizeBytes": 210167
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-053 ニアール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-053.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-053.png",
+      "sizeBytes": 203194
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-053 ニアール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-053_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-053_p1.png",
+      "sizeBytes": 237197
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-054 Mon3tr",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-054.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-054.png",
+      "sizeBytes": 181876
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-055 レッド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-055.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-055.png",
+      "sizeBytes": 187743
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-055 レッド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-055_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-055_p1.png",
+      "sizeBytes": 196505
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-056 Scout",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-056.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-056.png",
+      "sizeBytes": 188321
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-057 ブレイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-057.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-057.png",
+      "sizeBytes": 196483
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-058 ブレイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-058.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-058.png",
+      "sizeBytes": 201241
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-058 ブレイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-058_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-058_p1.png",
+      "sizeBytes": 246842
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-059 ブレイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-059.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-059.png",
+      "sizeBytes": 255074
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-059 ブレイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-059_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-059_p1.png",
+      "sizeBytes": 251678
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-060 ロスモンティス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-060.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-060.png",
+      "sizeBytes": 239398
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-060 ロスモンティス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-060_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-060_p1.png",
+      "sizeBytes": 253308
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-061 PRTS",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-061.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-061.png",
+      "sizeBytes": 157888
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-062 初級理性回復剤",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-062.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-062.png",
+      "sizeBytes": 163102
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-063 指令：メルトダウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-063.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-063.png",
+      "sizeBytes": 187626
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-064 ソウルブースト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-064.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-064.png",
+      "sizeBytes": 201194
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-065 未知なる技術",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-065.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-065.png",
+      "sizeBytes": 177505
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-066 私の手を握って！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-066.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-066.png",
+      "sizeBytes": 168479
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-067 ジェシカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-067.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-067.png",
+      "sizeBytes": 191686
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-067 ジェシカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-067_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-067_p1.png",
+      "sizeBytes": 206280
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-068 フランカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-068.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-068.png",
+      "sizeBytes": 205296
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-069 リスカム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-069.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-069.png",
+      "sizeBytes": 200901
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-070 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-070.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-070.png",
+      "sizeBytes": 185323
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-071 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-071.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-071.png",
+      "sizeBytes": 180947
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-072 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-072.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-072.png",
+      "sizeBytes": 234181
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-072 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-072_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-072_p1.png",
+      "sizeBytes": 223288
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-073 テキサス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-073.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-073.png",
+      "sizeBytes": 168740
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-074 テキサス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-074.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-074.png",
+      "sizeBytes": 194495
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-075 テキサス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-075.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-075.png",
+      "sizeBytes": 216144
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-076 テキサス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-076.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-076.png",
+      "sizeBytes": 250475
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-076 テキサス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-076_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-076_p1.png",
+      "sizeBytes": 259414
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-077 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-077.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-077.png",
+      "sizeBytes": 209802
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-078 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-078.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-078.png",
+      "sizeBytes": 206880
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-079 フロストリーフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-079.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-079.png",
+      "sizeBytes": 210169
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-079 フロストリーフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-079_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-079_p1.png",
+      "sizeBytes": 232426
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-080 メテオリーテ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-080.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-080.png",
+      "sizeBytes": 206090
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-081 ウェイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-081.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-081.png",
+      "sizeBytes": 194385
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-082 スワイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-082.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-082.png",
+      "sizeBytes": 203652
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-083 スワイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-083.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-083.png",
+      "sizeBytes": 192281
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-083 スワイヤー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-083_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-083_p1.png",
+      "sizeBytes": 219296
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-084 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-084.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-084.png",
+      "sizeBytes": 174290
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-085 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-085.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-085.png",
+      "sizeBytes": 223025
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-086 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-086.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-086.png",
+      "sizeBytes": 196614
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-086 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-086_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-086_p1.png",
+      "sizeBytes": 204798
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-087 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-087.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-087.png",
+      "sizeBytes": 256527
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-087 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-087_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-087_p1.png",
+      "sizeBytes": 239455
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-088 ナイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-088.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-088.png",
+      "sizeBytes": 197533
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-089 フミヅキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-089.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-089.png",
+      "sizeBytes": 196077
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-090 ホシグマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-090.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-090.png",
+      "sizeBytes": 203032
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-091 ホシグマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-091.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-091.png",
+      "sizeBytes": 207491
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-092 ホシグマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-092.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-092.png",
+      "sizeBytes": 256058
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-092 ホシグマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-092_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-092_p1.png",
+      "sizeBytes": 246979
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-093 ミーシャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-093.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-093.png",
+      "sizeBytes": 215641
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-094 リン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-094.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-094.png",
+      "sizeBytes": 198047
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-094 リン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-094_p1.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-094_p1.png",
+      "sizeBytes": 196556
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-095 龍門",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-095.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-095.png",
+      "sizeBytes": 167220
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-096 赤霄・抜刀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-096.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-096.png",
+      "sizeBytes": 192397
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-097 バラージュ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-097.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-097.png",
+      "sizeBytes": 170460
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-098 ペンギン急便",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-098.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-098.png",
+      "sizeBytes": 181189
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-099 龍門近衛局",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-099.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-099.png",
+      "sizeBytes": 175006
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-100 龍門幣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-100.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-100.png",
+      "sizeBytes": 167246
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP01 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP01.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP01.png",
+      "sizeBytes": 213649
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP01★ アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP01_s.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP01_s.png",
+      "sizeBytes": 201952
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP02 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP02.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP02.png",
+      "sizeBytes": 273900
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP03 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP03.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP03.png",
+      "sizeBytes": 241940
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP04 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP04.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP04.png",
+      "sizeBytes": 235779
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP05 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP05.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP05.png",
+      "sizeBytes": 242336
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570130",
+      "alt": "UA30BT/ARK-1-AP06 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30BT_ARK-1-AP06.png?v8",
+      "localPath": "/cards/arknights-2/UA30BT_ARK-1-AP06.png",
+      "sizeBytes": 242163
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,1016 @@
+{
+  "generatedAt": "2026-07-13T19:05:35.326Z",
+  "series": {
+    "seriesId": "570146",
+    "title": "カグラバチ",
+    "slug": "kagurabachi"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570146",
+  "totalFound": 125,
+  "downloaded": 125,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-001 漣 京羅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-001.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-001.png",
+      "sizeBytes": 284373
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-001 漣 京羅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-001_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-001_p1.png",
+      "sizeBytes": 288586
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-002 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-002.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-002.png",
+      "sizeBytes": 217577
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-003 座村 イヲリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-003.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-003.png",
+      "sizeBytes": 245823
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-004 座村 イヲリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-004.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-004.png",
+      "sizeBytes": 213028
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-005 座村 イヲリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-005.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-005.png",
+      "sizeBytes": 236962
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-005 座村 イヲリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-005_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-005_p1.png",
+      "sizeBytes": 208343
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-006 座村 イヲリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-006.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-006.png",
+      "sizeBytes": 271391
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-006 座村 イヲリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-006_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-006_p1.png",
+      "sizeBytes": 266085
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-007 柴 登吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-007.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-007.png",
+      "sizeBytes": 214475
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-008 双城 厳一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-008.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-008.png",
+      "sizeBytes": 214269
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-009 双城 厳一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-009.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-009.png",
+      "sizeBytes": 270504
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-010 双城 厳一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-010.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-010.png",
+      "sizeBytes": 261940
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-011 双城 厳一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-011.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-011.png",
+      "sizeBytes": 268620
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-011 双城 厳一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-011_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-011_p1.png",
+      "sizeBytes": 306154
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-012 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-012.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-012.png",
+      "sizeBytes": 212637
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-013 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-013.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-013.png",
+      "sizeBytes": 221795
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-014 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-014.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-014.png",
+      "sizeBytes": 261060
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-014 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-014_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-014_p1.png",
+      "sizeBytes": 242170
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-015 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-015.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-015.png",
+      "sizeBytes": 249200
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-015 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-015_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-015_p1.png",
+      "sizeBytes": 238141
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-015 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-015_p2.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-015_p2.png",
+      "sizeBytes": 263794
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-016 漆羽 洋児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-016.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-016.png",
+      "sizeBytes": 210950
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-017 漆羽 洋児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-017.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-017.png",
+      "sizeBytes": 208100
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-017 漆羽 洋児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-017_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-017_p1.png",
+      "sizeBytes": 167511
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-018 漆羽 洋児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-018.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-018.png",
+      "sizeBytes": 243761
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-018 漆羽 洋児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-018_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-018_p1.png",
+      "sizeBytes": 269687
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-018 漆羽 洋児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-018_p2.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-018_p2.png",
+      "sizeBytes": 282241
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-019 座村 清市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-019.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-019.png",
+      "sizeBytes": 235597
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-020 座村 清市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-020.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-020.png",
+      "sizeBytes": 258369
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-020 座村 清市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-020_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-020_p1.png",
+      "sizeBytes": 193726
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-021 座村 清市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-021.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-021.png",
+      "sizeBytes": 275544
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-021 座村 清市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-021_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-021_p1.png",
+      "sizeBytes": 253698
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-022 漣 円慈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-022.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-022.png",
+      "sizeBytes": 230424
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-023 漣 宗也",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-023.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-023.png",
+      "sizeBytes": 244735
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-024 漣 珠紀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-024.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-024.png",
+      "sizeBytes": 248479
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-025 漣 天理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-025.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-025.png",
+      "sizeBytes": 282145
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-026 久々李",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-026.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-026.png",
+      "sizeBytes": 227901
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-027 斗斗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-027.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-027.png",
+      "sizeBytes": 217632
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-028 昼彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-028.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-028.png",
+      "sizeBytes": 232218
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-029 昼彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-029.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-029.png",
+      "sizeBytes": 254734
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-029 昼彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-029_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-029_p1.png",
+      "sizeBytes": 211294
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-030 幽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-030.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-030.png",
+      "sizeBytes": 247252
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-031 炭",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-031.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-031.png",
+      "sizeBytes": 232619
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-032 杢",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-032.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-032.png",
+      "sizeBytes": 217809
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-033 郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-033.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-033.png",
+      "sizeBytes": 218702
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-034 楽座市",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-034.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-034.png",
+      "sizeBytes": 256096
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-035 雫天石",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-035.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-035.png",
+      "sizeBytes": 239561
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-036 血鶴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-036.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-036.png",
+      "sizeBytes": 229628
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-037 毘灼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-037.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-037.png",
+      "sizeBytes": 225893
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-038 学校生活を守りたい",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-038.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-038.png",
+      "sizeBytes": 227111
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-039 居合白禊流",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-039.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-039.png",
+      "sizeBytes": 263598
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-039 居合白禊流",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-039_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-039_p1.png",
+      "sizeBytes": 183566
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-040 刳雲 鳴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-040.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-040.png",
+      "sizeBytes": 267867
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-041 勾罪 蜈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-041.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-041.png",
+      "sizeBytes": 243075
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-042 鏡凪 シャル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-042.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-042.png",
+      "sizeBytes": 282966
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-043 鏡凪 シャル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-043.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-043.png",
+      "sizeBytes": 236748
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-043 鏡凪 シャル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-043_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-043_p1.png",
+      "sizeBytes": 199004
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-044 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-044.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-044.png",
+      "sizeBytes": 217803
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-045 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-045.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-045.png",
+      "sizeBytes": 207814
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-046 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-046.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-046.png",
+      "sizeBytes": 252086
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-046 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-046_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-046_p1.png",
+      "sizeBytes": 266839
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-047 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-047.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-047.png",
+      "sizeBytes": 270234
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-047 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-047_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-047_p1.png",
+      "sizeBytes": 239675
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-047 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-047_p2.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-047_p2.png",
+      "sizeBytes": 259371
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-048 柴 登吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-048.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-048.png",
+      "sizeBytes": 224151
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-049 柴 登吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-049.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-049.png",
+      "sizeBytes": 236619
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-049 柴 登吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-049_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-049_p1.png",
+      "sizeBytes": 188038
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-050 柴 登吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-050.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-050.png",
+      "sizeBytes": 231192
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-050 柴 登吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-050_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-050_p1.png",
+      "sizeBytes": 252481
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-051 ヒナオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-051.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-051.png",
+      "sizeBytes": 233537
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-052 ヒナオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-052.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-052.png",
+      "sizeBytes": 250958
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-053 Mr.イナズマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-053.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-053.png",
+      "sizeBytes": 216893
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-054 六平 国重",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-054.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-054.png",
+      "sizeBytes": 244318
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-055 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-055.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-055.png",
+      "sizeBytes": 229702
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-056 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-056.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-056.png",
+      "sizeBytes": 243544
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-057 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-057.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-057.png",
+      "sizeBytes": 247862
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-057 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-057_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-057_p1.png",
+      "sizeBytes": 245061
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-058 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-058.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-058.png",
+      "sizeBytes": 254597
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-058 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-058_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-058_p1.png",
+      "sizeBytes": 258522
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-059 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-059.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-059.png",
+      "sizeBytes": 281492
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-059 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-059_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-059_p1.png",
+      "sizeBytes": 267396
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-060 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-060.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-060.png",
+      "sizeBytes": 252190
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-060 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-060_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-060_p1.png",
+      "sizeBytes": 270568
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-060 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-060_p2.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-060_p2.png",
+      "sizeBytes": 238455
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-061 薊 奏士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-061.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-061.png",
+      "sizeBytes": 221217
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-062 薊 奏士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-062.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-062.png",
+      "sizeBytes": 237069
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-062 薊 奏士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-062_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-062_p1.png",
+      "sizeBytes": 176043
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-063 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-063.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-063.png",
+      "sizeBytes": 243210
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-064 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-064.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-064.png",
+      "sizeBytes": 232338
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-065 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-065.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-065.png",
+      "sizeBytes": 221104
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-066 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-066.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-066.png",
+      "sizeBytes": 268910
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-066 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-066_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-066_p1.png",
+      "sizeBytes": 242690
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-067 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-067.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-067.png",
+      "sizeBytes": 254747
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-067 香刈 緋雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-067_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-067_p1.png",
+      "sizeBytes": 275352
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-068 美原 多福",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-068.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-068.png",
+      "sizeBytes": 233248
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-069 美原 多福",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-069.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-069.png",
+      "sizeBytes": 262334
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-070 卯月 清彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-070.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-070.png",
+      "sizeBytes": 217569
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-071 笠原 誠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-071.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-071.png",
+      "sizeBytes": 218857
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-072 具柄 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-072.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-072.png",
+      "sizeBytes": 254390
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-073 萩原 幾兎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-073.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-073.png",
+      "sizeBytes": 230108
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-074 張間 梓弓",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-074.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-074.png",
+      "sizeBytes": 244892
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-075 真智 カザネ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-075.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-075.png",
+      "sizeBytes": 225155
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-076 神奈備本部",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-076.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-076.png",
+      "sizeBytes": 227842
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-077 “あの日”は俺の原動力だ より鮮明になった",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-077.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-077.png",
+      "sizeBytes": 249138
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-078 威葬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-078.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-078.png",
+      "sizeBytes": 236200
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-079 炎骨 陸郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-079.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-079.png",
+      "sizeBytes": 276115
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-080 俺は奴らを斬らなきゃならない",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-080.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-080.png",
+      "sizeBytes": 253687
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-081 もう生微温いのはナシだ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-081.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-081.png",
+      "sizeBytes": 221938
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-082 淵天 涅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-082.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-082.png",
+      "sizeBytes": 239757
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-082 淵天 涅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-082_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-082_p1.png",
+      "sizeBytes": 183428
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP01 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP01.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP01.png",
+      "sizeBytes": 196877
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP01 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP01_p1.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP01_p1.png",
+      "sizeBytes": 140893
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP02 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP02.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP02.png",
+      "sizeBytes": 329728
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP03 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP03.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP03.png",
+      "sizeBytes": 275722
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP04 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP04.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP04.png",
+      "sizeBytes": 286199
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP05 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP05.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP05.png",
+      "sizeBytes": 287859
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP06 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP06.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP06.png",
+      "sizeBytes": 287190
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP07 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP07.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP07.png",
+      "sizeBytes": 266308
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP08 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP08.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP08.png",
+      "sizeBytes": 217789
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP09 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP09.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP09.png",
+      "sizeBytes": 243471
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP10 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP10.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP10.png",
+      "sizeBytes": 215572
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP11 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP11.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP11.png",
+      "sizeBytes": 292556
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP12 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP12.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP12.png",
+      "sizeBytes": 182146
+    },
+    {
+      "series": "カグラバチ",
+      "seriesId": "570146",
+      "alt": "UA46BT/KGR-1-AP13 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA46BT_KGR-1-AP13.png?v8",
+      "localPath": "/cards/kagurabachi/UA46BT_KGR-1-AP13.png",
+      "sizeBytes": 286040
+    }
+  ],
+  "failures": []
+}

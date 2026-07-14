@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:31:04.653Z",
+  "series": {
+    "seriesId": "570023",
+    "title": "進撃の巨人",
+    "slug": "attack-on-titan"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570023",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-068 カルラ・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-068.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-068.png",
+      "sizeBytes": 196581
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-070 ハンネス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-070.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-070.png",
+      "sizeBytes": 178812
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-075 アルミン・アルレルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-075.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-075.png",
+      "sizeBytes": 193507
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-084 ジャン・キルシュタイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-084.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-084.png",
+      "sizeBytes": 183479
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-085 ミカサ・アッカーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-085.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-085.png",
+      "sizeBytes": 182085
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-087 ミカサ・アッカーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-087.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-087.png",
+      "sizeBytes": 219157
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-090 エレン・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-090.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-090.png",
+      "sizeBytes": 198561
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-091 エレン・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-091.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-091.png",
+      "sizeBytes": 190101
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-097 心臓を捧げよ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-097.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-097.png",
+      "sizeBytes": 184124
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-101 アニ・レオンハート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-101.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-101.png",
+      "sizeBytes": 192188
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-102 ベルトルト・フーバー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-102.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-102.png",
+      "sizeBytes": 198710
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-103 ライナー・ブラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-103.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-103.png",
+      "sizeBytes": 188874
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-104 アルミン・アルレルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-104.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-104.png",
+      "sizeBytes": 201689
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-105 ミカサ・アッカーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-105.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-105.png",
+      "sizeBytes": 196860
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-106 エレン・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-106.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-106.png",
+      "sizeBytes": 208894
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-107 エレン・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-107.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-107.png",
+      "sizeBytes": 197574
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-108 訓練兵団訓練所",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-108.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-108.png",
+      "sizeBytes": 217063
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-109 104期訓練兵団",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-109.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-109.png",
+      "sizeBytes": 218966
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-110 リヴァイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-110.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-110.png",
+      "sizeBytes": 207991
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-110 リヴァイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-110_p1.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-110_p1.png",
+      "sizeBytes": 230283
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-111 エルヴィン・スミス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-111.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-111.png",
+      "sizeBytes": 184514
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-111 エルヴィン・スミス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-111_p1.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-111_p1.png",
+      "sizeBytes": 217531
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-112 鎧の巨人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-112.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-112.png",
+      "sizeBytes": 193099
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-112 鎧の巨人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-112_p1.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-112_p1.png",
+      "sizeBytes": 258133
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-113 超大型巨人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-113.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-113.png",
+      "sizeBytes": 187684
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-113 超大型巨人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-113_p1.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-113_p1.png",
+      "sizeBytes": 248975
+    },
+    {
+      "series": "進撃の巨人",
+      "seriesId": "570023",
+      "alt": "UA23ST/AOT-1-AP01 アクションポイントカード(進撃の巨人)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA23ST_AOT-1-AP01.png?v8",
+      "localPath": "/cards/attack-on-titan/UA23ST_AOT-1-AP01.png",
+      "sizeBytes": 189426
+    }
+  ],
+  "failures": []
+}

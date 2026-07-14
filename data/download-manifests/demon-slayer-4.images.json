@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-07-13T18:03:58.177Z",
+  "series": {
+    "seriesId": "570701",
+    "title": "NEW CARD SELECTION 鬼滅の刃",
+    "slug": "demon-slayer-4"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570701",
+  "totalFound": 12,
+  "downloaded": 12,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-001 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-001.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-001.png",
+      "sizeBytes": 184727
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-002 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-002.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-002.png",
+      "sizeBytes": 192408
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-003 伊黒 小芭内",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-003.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-003.png",
+      "sizeBytes": 231982
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-004 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-004.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-004.png",
+      "sizeBytes": 250668
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-005 胡蝶 しのぶ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-005.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-005.png",
+      "sizeBytes": 231558
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-006 不死川 実弥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-006.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-006.png",
+      "sizeBytes": 241808
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-007 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-007.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-007.png",
+      "sizeBytes": 227622
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-008 冨岡 義勇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-008.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-008.png",
+      "sizeBytes": 219845
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-009 悲鳴嶼 行冥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-009.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-009.png",
+      "sizeBytes": 223378
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-010 宇髄 天元",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-010.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-010.png",
+      "sizeBytes": 235051
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-011 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-011.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-011.png",
+      "sizeBytes": 215691
+    },
+    {
+      "series": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "alt": "UA01NC/KMY-2-AP01 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01NC_KMY-2-AP01.png?v8",
+      "localPath": "/cards/demon-slayer-4/UA01NC_KMY-2-AP01.png",
+      "sizeBytes": 214223
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,562 @@
+{
+  "generatedAt": "2026-07-13T17:51:53.601Z",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true",
+  "total": 111,
+  "series": [
+    {
+      "seriesId": "570001",
+      "title": "コードギアス 反逆のルルーシュ",
+      "slug": "code-geass"
+    },
+    {
+      "seriesId": "570101",
+      "title": "コードギアス 反逆のルルーシュ",
+      "slug": "code-geass-2"
+    },
+    {
+      "seriesId": "570202",
+      "title": "コードギアス 反逆のルルーシュ Vol.2",
+      "slug": "code-geass-3"
+    },
+    {
+      "seriesId": "570002",
+      "title": "呪術廻戦",
+      "slug": "jujutsu-kaisen"
+    },
+    {
+      "seriesId": "570102",
+      "title": "呪術廻戦",
+      "slug": "jujutsu-kaisen-2"
+    },
+    {
+      "seriesId": "570204",
+      "title": "呪術廻戦 Vol.2",
+      "slug": "jujutsu-kaisen-3"
+    },
+    {
+      "seriesId": "570702",
+      "title": "NEW CARD SELECTION 呪術廻戦",
+      "slug": "jujutsu-kaisen-4"
+    },
+    {
+      "seriesId": "570003",
+      "title": "HUNTER×HUNTER",
+      "slug": "hunter-x-hunter"
+    },
+    {
+      "seriesId": "570103",
+      "title": "HUNTER×HUNTER",
+      "slug": "hunter-x-hunter-2"
+    },
+    {
+      "seriesId": "570201",
+      "title": "HUNTER×HUNTER Vol.2",
+      "slug": "hunter-x-hunter-3"
+    },
+    {
+      "seriesId": "570004",
+      "title": "アイドルマスター シャイニーカラーズ",
+      "slug": "idolmaster-shiny-colors"
+    },
+    {
+      "seriesId": "570104",
+      "title": "アイドルマスター シャイニーカラーズ",
+      "slug": "idolmaster-shiny-colors-2"
+    },
+    {
+      "seriesId": "570203",
+      "title": "アイドルマスター シャイニーカラーズ Vol.2",
+      "slug": "idolmaster-shiny-colors-3"
+    },
+    {
+      "seriesId": "570301",
+      "title": "アイドルマスター シャイニーカラーズ",
+      "slug": "idolmaster-shiny-colors-4"
+    },
+    {
+      "seriesId": "570005",
+      "title": "鬼滅の刃",
+      "slug": "demon-slayer"
+    },
+    {
+      "seriesId": "570105",
+      "title": "鬼滅の刃",
+      "slug": "demon-slayer-2"
+    },
+    {
+      "seriesId": "570205",
+      "title": "鬼滅の刃 Vol.2",
+      "slug": "demon-slayer-3"
+    },
+    {
+      "seriesId": "570701",
+      "title": "NEW CARD SELECTION 鬼滅の刃",
+      "slug": "demon-slayer-4"
+    },
+    {
+      "seriesId": "570006",
+      "title": "Tales of ARISE",
+      "slug": "tales-of-arise"
+    },
+    {
+      "seriesId": "570106",
+      "title": "Tales of ARISE",
+      "slug": "tales-of-arise-2"
+    },
+    {
+      "seriesId": "570007",
+      "title": "転生したらスライムだった件",
+      "slug": "tensura"
+    },
+    {
+      "seriesId": "570107",
+      "title": "転生したらスライムだった件",
+      "slug": "tensura-2"
+    },
+    {
+      "seriesId": "570209",
+      "title": "転生したらスライムだった件 Vol.2",
+      "slug": "tensura-3"
+    },
+    {
+      "seriesId": "570008",
+      "title": "BLEACH 千年血戦篇",
+      "slug": "bleach-thousand-year-blood-war"
+    },
+    {
+      "seriesId": "570108",
+      "title": "BLEACH 千年血戦篇",
+      "slug": "bleach-thousand-year-blood-war-2"
+    },
+    {
+      "seriesId": "570207",
+      "title": "BLEACH 千年血戦篇 Vol.2",
+      "slug": "bleach-thousand-year-blood-war-3"
+    },
+    {
+      "seriesId": "570704",
+      "title": "NEW CARD SELECTION BLEACH 千年血戦篇",
+      "slug": "bleach-thousand-year-blood-war-4"
+    },
+    {
+      "seriesId": "570009",
+      "title": "僕とロボコ",
+      "slug": "me-and-roboco"
+    },
+    {
+      "seriesId": "570109",
+      "title": "僕とロボコ",
+      "slug": "me-and-roboco-2"
+    },
+    {
+      "seriesId": "570010",
+      "title": "僕のヒーローアカデミア",
+      "slug": "my-hero-academia"
+    },
+    {
+      "seriesId": "570110",
+      "title": "僕のヒーローアカデミア",
+      "slug": "my-hero-academia-2"
+    },
+    {
+      "seriesId": "570206",
+      "title": "僕のヒーローアカデミア Vol.2",
+      "slug": "my-hero-academia-3"
+    },
+    {
+      "seriesId": "570011",
+      "title": "銀魂",
+      "slug": "gintama"
+    },
+    {
+      "seriesId": "570111",
+      "title": "銀魂",
+      "slug": "gintama-2"
+    },
+    {
+      "seriesId": "570012",
+      "title": "ブルーロック",
+      "slug": "blue-lock"
+    },
+    {
+      "seriesId": "570112",
+      "title": "ブルーロック",
+      "slug": "blue-lock-2"
+    },
+    {
+      "seriesId": "570703",
+      "title": "NEW CARD SELECTION ブルーロック",
+      "slug": "blue-lock-3"
+    },
+    {
+      "seriesId": "570013",
+      "title": "鉄拳7",
+      "slug": "tekken-7"
+    },
+    {
+      "seriesId": "570113",
+      "title": "鉄拳7",
+      "slug": "tekken-7-2"
+    },
+    {
+      "seriesId": "570014",
+      "title": "Dr.STONE",
+      "slug": "dr-stone"
+    },
+    {
+      "seriesId": "570114",
+      "title": "Dr.STONE",
+      "slug": "dr-stone-2"
+    },
+    {
+      "seriesId": "570015",
+      "title": "ソードアート・オンライン",
+      "slug": "sword-art-online"
+    },
+    {
+      "seriesId": "570115",
+      "title": "ソードアート・オンライン",
+      "slug": "sword-art-online-2"
+    },
+    {
+      "seriesId": "570208",
+      "title": "ソードアート・オンライン Vol.2",
+      "slug": "sword-art-online-3"
+    },
+    {
+      "seriesId": "570016",
+      "title": "SYNDUALITY Noir",
+      "slug": "synduality-noir"
+    },
+    {
+      "seriesId": "570116",
+      "title": "SYNDUALITY Noir",
+      "slug": "synduality-noir-2"
+    },
+    {
+      "seriesId": "570017",
+      "title": "トリコ",
+      "slug": "toriko"
+    },
+    {
+      "seriesId": "570117",
+      "title": "トリコ",
+      "slug": "toriko-2"
+    },
+    {
+      "seriesId": "570018",
+      "title": "勝利の女神：NIKKE",
+      "slug": "nikke"
+    },
+    {
+      "seriesId": "570118",
+      "title": "勝利の女神：NIKKE",
+      "slug": "nikke-2"
+    },
+    {
+      "seriesId": "570302",
+      "title": "勝利の女神：NIKKE",
+      "slug": "nikke-3"
+    },
+    {
+      "seriesId": "570019",
+      "title": "ハイキュー‼",
+      "slug": "haikyu"
+    },
+    {
+      "seriesId": "570119",
+      "title": "ハイキュー‼",
+      "slug": "haikyu-2"
+    },
+    {
+      "seriesId": "570020",
+      "title": "ブラッククローバー",
+      "slug": "black-clover"
+    },
+    {
+      "seriesId": "570120",
+      "title": "ブラッククローバー",
+      "slug": "black-clover-2"
+    },
+    {
+      "seriesId": "570021",
+      "title": "幽☆遊☆白書",
+      "slug": "yu-yu-hakusho"
+    },
+    {
+      "seriesId": "570121",
+      "title": "幽☆遊☆白書",
+      "slug": "yu-yu-hakusho-2"
+    },
+    {
+      "seriesId": "570122",
+      "title": "GAMERA -Rebirth-",
+      "slug": "gamera-rebirth"
+    },
+    {
+      "seriesId": "570023",
+      "title": "進撃の巨人",
+      "slug": "attack-on-titan"
+    },
+    {
+      "seriesId": "570123",
+      "title": "進撃の巨人",
+      "slug": "attack-on-titan-2"
+    },
+    {
+      "seriesId": "570210",
+      "title": "進撃の巨人 Vol.2",
+      "slug": "attack-on-titan-3"
+    },
+    {
+      "seriesId": "570124",
+      "title": "SHY",
+      "slug": "shy"
+    },
+    {
+      "seriesId": "570125",
+      "title": "アンデッドアンラック",
+      "slug": "undead-unluck"
+    },
+    {
+      "seriesId": "570126",
+      "title": "君のことが大大大大大好きな100人の彼女",
+      "slug": "100-girlfriends"
+    },
+    {
+      "seriesId": "570127",
+      "title": "学園アイドルマスター",
+      "slug": "gakuen-idolmaster"
+    },
+    {
+      "seriesId": "570213",
+      "title": "学園アイドルマスター Vol.2",
+      "slug": "gakuen-idolmaster-2"
+    },
+    {
+      "seriesId": "570128",
+      "title": "怪獣８号",
+      "slug": "kaiju-no-8"
+    },
+    {
+      "seriesId": "570029",
+      "title": "仮面ライダー",
+      "slug": "kamen-rider"
+    },
+    {
+      "seriesId": "570129",
+      "title": "仮面ライダー",
+      "slug": "kamen-rider-2"
+    },
+    {
+      "seriesId": "570212",
+      "title": "仮面ライダー Vol.2",
+      "slug": "kamen-rider-3"
+    },
+    {
+      "seriesId": "570030",
+      "title": "アークナイツ",
+      "slug": "arknights"
+    },
+    {
+      "seriesId": "570130",
+      "title": "アークナイツ",
+      "slug": "arknights-2"
+    },
+    {
+      "seriesId": "570211",
+      "title": "アークナイツ Vol.2",
+      "slug": "arknights-3"
+    },
+    {
+      "seriesId": "570031",
+      "title": "魔法少女まどか☆マギカ",
+      "slug": "madoka-magica"
+    },
+    {
+      "seriesId": "570131",
+      "title": "魔法少女まどか☆マギカ",
+      "slug": "madoka-magica-2"
+    },
+    {
+      "seriesId": "570132",
+      "title": "シャングリラ・フロンティア",
+      "slug": "shangri-la-frontier"
+    },
+    {
+      "seriesId": "570133",
+      "title": "2.5次元の誘惑",
+      "slug": "2-5-dimensional-seduction"
+    },
+    {
+      "seriesId": "570134",
+      "title": "コードギアス 奪還のロゼ",
+      "slug": "code-geass-roze"
+    },
+    {
+      "seriesId": "570035",
+      "title": "ワンパンマン",
+      "slug": "one-punch-man"
+    },
+    {
+      "seriesId": "570135",
+      "title": "ワンパンマン",
+      "slug": "one-punch-man-2"
+    },
+    {
+      "seriesId": "570036",
+      "title": "「マクロス」シリーズ",
+      "slug": "macross"
+    },
+    {
+      "seriesId": "570136",
+      "title": "「マクロス」シリーズ",
+      "slug": "macross-2"
+    },
+    {
+      "seriesId": "570214",
+      "title": "｢マクロス｣シリーズ Vol.2",
+      "slug": "macross-3"
+    },
+    {
+      "seriesId": "570037",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "slug": "fullmetal-alchemist"
+    },
+    {
+      "seriesId": "570137",
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "slug": "fullmetal-alchemist-2"
+    },
+    {
+      "seriesId": "570138",
+      "title": "WIND BREAKER",
+      "slug": "wind-breaker"
+    },
+    {
+      "seriesId": "570501",
+      "title": "PREMIUM CARD SET WIND BREAKER",
+      "slug": "wind-breaker-2"
+    },
+    {
+      "seriesId": "570139",
+      "title": "『キン肉マン』完璧超人始祖編",
+      "slug": "kinnikuman"
+    },
+    {
+      "seriesId": "570040",
+      "title": "Re:ゼロから始める異世界生活",
+      "slug": "re-zero"
+    },
+    {
+      "seriesId": "570140",
+      "title": "Re:ゼロから始める異世界生活",
+      "slug": "re-zero-2"
+    },
+    {
+      "seriesId": "570041",
+      "title": "るろうに剣心 －明治剣客浪漫譚－",
+      "slug": "rurouni-kenshin"
+    },
+    {
+      "seriesId": "570141",
+      "title": "るろうに剣心 －明治剣客浪漫譚－",
+      "slug": "rurouni-kenshin-2"
+    },
+    {
+      "seriesId": "570042",
+      "title": "〈物語〉シリーズ",
+      "slug": "monogatari-series"
+    },
+    {
+      "seriesId": "570142",
+      "title": "〈物語〉シリーズ",
+      "slug": "monogatari-series-2"
+    },
+    {
+      "seriesId": "570143",
+      "title": "SAKAMOTO DAYS",
+      "slug": "sakamoto-days"
+    },
+    {
+      "seriesId": "570044",
+      "title": "ヱヴァンゲリヲン新劇場版",
+      "slug": "evangelion"
+    },
+    {
+      "seriesId": "570144",
+      "title": "ヱヴァンゲリヲン新劇場版",
+      "slug": "evangelion-2"
+    },
+    {
+      "seriesId": "570145",
+      "title": "To LOVEる-とらぶる- Memory of Heroines",
+      "slug": "to-love-ru"
+    },
+    {
+      "seriesId": "570146",
+      "title": "カグラバチ",
+      "slug": "kagurabachi"
+    },
+    {
+      "seriesId": "570047",
+      "title": "東京喰種トーキョーグール",
+      "slug": "tokyo-ghoul"
+    },
+    {
+      "seriesId": "570147",
+      "title": "「東京喰種トーキョーグール」シリーズ",
+      "slug": "tokyo-ghoul-2"
+    },
+    {
+      "seriesId": "570048",
+      "title": "キングダム",
+      "slug": "kingdom"
+    },
+    {
+      "seriesId": "570148",
+      "title": "キングダム",
+      "slug": "kingdom-2"
+    },
+    {
+      "seriesId": "570149",
+      "title": "魔都精兵のスレイブ",
+      "slug": "chained-soldier"
+    },
+    {
+      "seriesId": "570150",
+      "title": "犬夜叉",
+      "slug": "inuyasha"
+    },
+    {
+      "seriesId": "570151",
+      "title": "俺だけレベルアップな件",
+      "slug": "solo-leveling"
+    },
+    {
+      "seriesId": "570152",
+      "title": "陰の実力者になりたくて！",
+      "slug": "eminence-in-shadow"
+    },
+    {
+      "seriesId": "570153",
+      "title": "チェンソーマン",
+      "slug": "chainsaw-man"
+    },
+    {
+      "seriesId": "570154",
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "slug": "mushoku-tensei"
+    },
+    {
+      "seriesId": "570901",
+      "title": "プロモーションカード",
+      "slug": "series-570901"
+    },
+    {
+      "seriesId": "570801",
+      "title": "限定商品収録カード",
+      "slug": "series-570801"
+    }
+  ]
+}

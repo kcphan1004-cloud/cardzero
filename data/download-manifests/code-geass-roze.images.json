@@ -1,0 +1,928 @@
+{
+  "generatedAt": "2026-07-13T18:48:52.912Z",
+  "series": {
+    "seriesId": "570134",
+    "title": "コードギアス 奪還のロゼ",
+    "slug": "code-geass-roze"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570134",
+  "totalFound": 114,
+  "downloaded": 114,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-001 皇 重護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-001.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-001.png",
+      "sizeBytes": 161176
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-002 ニーナ・アインシュタイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-002.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-002.png",
+      "sizeBytes": 181307
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-003 春柳宮 サクラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-003.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-003.png",
+      "sizeBytes": 178743
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-004 新城 陽子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-004.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-004.png",
+      "sizeBytes": 176129
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-005 小田 友臣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-005.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-005.png",
+      "sizeBytes": 160118
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-006 黒戸 剣成",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-006.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-006.png",
+      "sizeBytes": 166670
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-007 佐野 悠里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-007.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-007.png",
+      "sizeBytes": 177268
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-008 宗森 葵太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-008.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-008.png",
+      "sizeBytes": 151475
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-009 物部 勲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-009.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-009.png",
+      "sizeBytes": 169268
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-010 琉高 ハルカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-010.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-010.png",
+      "sizeBytes": 163358
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-011 琉高 ハルカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-011.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-011.png",
+      "sizeBytes": 170211
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-012 琉高 ハルカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-012.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-012.png",
+      "sizeBytes": 176213
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-012 琉高 ハルカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-012_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-012_p1.png",
+      "sizeBytes": 181999
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-013 ヴァレン・スターク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-013.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-013.png",
+      "sizeBytes": 157040
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-014 江間 メイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-014.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-014.png",
+      "sizeBytes": 170726
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-015 江間 メイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-015.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-015.png",
+      "sizeBytes": 166860
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-016 江間 メイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-016.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-016.png",
+      "sizeBytes": 181546
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-016 江間 メイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-016_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-016_p1.png",
+      "sizeBytes": 185457
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-017 皇 サクヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-017.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-017.png",
+      "sizeBytes": 160187
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-017 皇 サクヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-017_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-017_p1.png",
+      "sizeBytes": 176868
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-018 皇 サクヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-018.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-018.png",
+      "sizeBytes": 188468
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-018 皇 サクヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-018_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-018_p1.png",
+      "sizeBytes": 207005
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-019 ナタリア・ルクセンブルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-019.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-019.png",
+      "sizeBytes": 177603
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-020 ナタリア・ルクセンブルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-020.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-020.png",
+      "sizeBytes": 183843
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-021 ラズベリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-021.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-021.png",
+      "sizeBytes": 193316
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-021 ラズベリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-021_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-021_p1.png",
+      "sizeBytes": 179717
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-022 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-022.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-022.png",
+      "sizeBytes": 162942
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-023 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-023.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-023.png",
+      "sizeBytes": 164552
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-024 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-024.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-024.png",
+      "sizeBytes": 168673
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-024 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-024_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-024_p1.png",
+      "sizeBytes": 205841
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-025 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-025.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-025.png",
+      "sizeBytes": 190015
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-025 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-025_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-025_p1.png",
+      "sizeBytes": 243345
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-026 ロゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-026.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-026.png",
+      "sizeBytes": 176619
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-026 ロゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-026_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-026_p1.png",
+      "sizeBytes": 225312
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-027 ロゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-027.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-027.png",
+      "sizeBytes": 199904
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-027 ロゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-027_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-027_p1.png",
+      "sizeBytes": 242892
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-028 暁改",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-028.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-028.png",
+      "sizeBytes": 162682
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-029 蛍雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-029.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-029.png",
+      "sizeBytes": 200457
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-029 蛍雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-029_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-029_p1.png",
+      "sizeBytes": 230367
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-030 雪花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-030.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-030.png",
+      "sizeBytes": 179603
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-031 Zi-アポロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-031.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-031.png",
+      "sizeBytes": 238192
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-031 Zi-アポロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-031_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-031_p1.png",
+      "sizeBytes": 233851
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-032 Zi-アルテミス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-032.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-032.png",
+      "sizeBytes": 204121
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-032 Zi-アルテミス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-032_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-032_p1.png",
+      "sizeBytes": 241199
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-033 Zi-オルテギア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-033.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-033.png",
+      "sizeBytes": 254883
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-033 Zi-オルテギア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-033_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-033_p1.png",
+      "sizeBytes": 243302
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-033 Zi-オルテギア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-033_p2.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-033_p2.png",
+      "sizeBytes": 201476
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-034 喫茶シュマリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-034.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-034.png",
+      "sizeBytes": 185121
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-035 おかわりはいかがです？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-035.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-035.png",
+      "sizeBytes": 193750
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-036 俺達は”ナナシの傭兵”だ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-036.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-036.png",
+      "sizeBytes": 178423
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-037 機体提供",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-037.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-037.png",
+      "sizeBytes": 187807
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-038 コーヒーブレイク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-038.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-038.png",
+      "sizeBytes": 169155
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-039 七煌星団のエース",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-039.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-039.png",
+      "sizeBytes": 202946
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-040 絶対遵守のギアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-040.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-040.png",
+      "sizeBytes": 159173
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-041 ロキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-041.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-041.png",
+      "sizeBytes": 157543
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-042 カリス・アル・ブリタニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-042.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-042.png",
+      "sizeBytes": 171415
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-043 春柳宮 サクラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-043.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-043.png",
+      "sizeBytes": 169349
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-044 春柳宮 サクラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-044.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-044.png",
+      "sizeBytes": 197929
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-044 春柳宮 サクラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-044_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-044_p1.png",
+      "sizeBytes": 213993
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-045 アーノルド・レンク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-045.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-045.png",
+      "sizeBytes": 164116
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-046 アーノルド・レンク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-046.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-046.png",
+      "sizeBytes": 162156
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-047 アーノルド・レンク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-047.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-047.png",
+      "sizeBytes": 165685
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-048 ヴァルター・リントシュテット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-048.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-048.png",
+      "sizeBytes": 173037
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-049 キャサリン・サバスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-049.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-049.png",
+      "sizeBytes": 171440
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-050 キャサリン・サバスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-050.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-050.png",
+      "sizeBytes": 173003
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-051 キャサリン・サバスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-051.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-051.png",
+      "sizeBytes": 181054
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-051 キャサリン・サバスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-051_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-051_p1.png",
+      "sizeBytes": 216428
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-052 グラン・カークウェイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-052.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-052.png",
+      "sizeBytes": 152660
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-053 グリード・カークウェイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-053.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-053.png",
+      "sizeBytes": 158600
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-054 クリストフ・シザーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-054.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-054.png",
+      "sizeBytes": 161517
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-055 クリストフ・シザーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-055.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-055.png",
+      "sizeBytes": 174878
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-056 スタンリー・フォンブラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-056.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-056.png",
+      "sizeBytes": 151391
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-057 ディボック・メルテ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-057.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-057.png",
+      "sizeBytes": 169075
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-058 ナタリア・ルクセンブルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-058.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-058.png",
+      "sizeBytes": 164026
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-059 ナラ・ヴォーン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-059.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-059.png",
+      "sizeBytes": 180824
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-060 ナラ・ヴォーン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-060.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-060.png",
+      "sizeBytes": 176010
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-061 ナラ・ヴォーン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-061.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-061.png",
+      "sizeBytes": 164660
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-062 ノーランド・フォン・リューネベルク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-062.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-062.png",
+      "sizeBytes": 172066
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-063 ノーランド・フォン・リューネベルク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-063.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-063.png",
+      "sizeBytes": 164515
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-063 ノーランド・フォン・リューネベルク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-063_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-063_p1.png",
+      "sizeBytes": 218178
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-064 ノーランド・フォン・リューネベルク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-064.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-064.png",
+      "sizeBytes": 192087
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-065 ノーランド・フォン・リューネベルク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-065.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-065.png",
+      "sizeBytes": 201689
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-066 ヴァルプニル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-066.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-066.png",
+      "sizeBytes": 178066
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-067 エルグリプス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-067.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-067.png",
+      "sizeBytes": 178303
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-068 クインアスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-068.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-068.png",
+      "sizeBytes": 230024
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-068 クインアスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-068_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-068_p1.png",
+      "sizeBytes": 233810
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-069 クインクラカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-069.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-069.png",
+      "sizeBytes": 237793
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-069 クインクラカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-069_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-069_p1.png",
+      "sizeBytes": 254679
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-070 ファウルバウト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-070.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-070.png",
+      "sizeBytes": 175429
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-070 ファウルバウト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-070_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-070_p1.png",
+      "sizeBytes": 243730
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-071 ファウルバウト・タイタンモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-071.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-071.png",
+      "sizeBytes": 238058
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-071 ファウルバウト・タイタンモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-071_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-071_p1.png",
+      "sizeBytes": 248996
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-072 ローエングリン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-072.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-072.png",
+      "sizeBytes": 194632
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-073 天空要塞ダモクレス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-073.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-073.png",
+      "sizeBytes": 184312
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-074 アインベルク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-074.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-074.png",
+      "sizeBytes": 162494
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-075 いいだろう。好きにやってみろ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-075.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-075.png",
+      "sizeBytes": 154282
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-076 ここから消えるが良い",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-076.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-076.png",
+      "sizeBytes": 182701
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-077 ザコはゆっくりおやすみなさい♪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-077.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-077.png",
+      "sizeBytes": 181484
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-078 シトゥンぺの壁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-078.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-078.png",
+      "sizeBytes": 186961
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-079 ナラの交渉術",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-079.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-079.png",
+      "sizeBytes": 162839
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-080 ノーランドの思惑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-080.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-080.png",
+      "sizeBytes": 161286
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP01 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP01.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP01.png",
+      "sizeBytes": 195864
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP01 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP01_p1.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP01_p1.png",
+      "sizeBytes": 174437
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP02 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP02.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP02.png",
+      "sizeBytes": 186674
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP03 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP03.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP03.png",
+      "sizeBytes": 181506
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP04 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP04.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP04.png",
+      "sizeBytes": 169394
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP05 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP05.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP05.png",
+      "sizeBytes": 178334
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP06 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP06.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP06.png",
+      "sizeBytes": 176922
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP07 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP07.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP07.png",
+      "sizeBytes": 201502
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP08 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP08.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP08.png",
+      "sizeBytes": 227299
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP09 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP09.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP09.png",
+      "sizeBytes": 221004
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP10 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP10.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP10.png",
+      "sizeBytes": 220499
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP11 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP11.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP11.png",
+      "sizeBytes": 235918
+    },
+    {
+      "series": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "alt": "UA34BT/CGD-1-AP12 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA34BT_CGD-1-AP12.png?v8",
+      "localPath": "/cards/code-geass-roze/UA34BT_CGD-1-AP12.png",
+      "sizeBytes": 249197
+    }
+  ],
+  "failures": []
+}

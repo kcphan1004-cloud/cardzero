@@ -1,0 +1,824 @@
+{
+  "generatedAt": "2026-07-13T18:07:20.591Z",
+  "series": {
+    "seriesId": "570209",
+    "title": "転生したらスライムだった件 Vol.2",
+    "slug": "tensura-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570209",
+  "totalFound": 101,
+  "downloaded": 101,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-001 ディアブロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-001.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-001.png",
+      "sizeBytes": 171728
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-002 ディアブロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-002.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-002.png",
+      "sizeBytes": 160876
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-003 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-003.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-003.png",
+      "sizeBytes": 169746
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-004 クロベエ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-004.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-004.png",
+      "sizeBytes": 157613
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-005 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-005.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-005.png",
+      "sizeBytes": 150967
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-006 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-006.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-006.png",
+      "sizeBytes": 164032
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-006 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-006_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-006_p1.png",
+      "sizeBytes": 163888
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-007 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-007.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-007.png",
+      "sizeBytes": 187455
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-007 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-007_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-007_p1.png",
+      "sizeBytes": 194103
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-008 ソウエイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-008.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-008.png",
+      "sizeBytes": 163897
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-009 ハクロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-009.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-009.png",
+      "sizeBytes": 152504
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-010 ベニマル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-010.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-010.png",
+      "sizeBytes": 149376
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-011 ベニマル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-011.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-011.png",
+      "sizeBytes": 158033
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-011 ベニマル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-011_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-011_p1.png",
+      "sizeBytes": 181192
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-012 名付け",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-012.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-012.png",
+      "sizeBytes": 169562
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-013 ガビル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-013.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-013.png",
+      "sizeBytes": 157581
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-014 ゲルド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-014.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-014.png",
+      "sizeBytes": 150181
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-015 シズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-015.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-015.png",
+      "sizeBytes": 161604
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-015 シズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-015_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-015_p1.png",
+      "sizeBytes": 192007
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-016 ランガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-016.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-016.png",
+      "sizeBytes": 148644
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-017 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-017.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-017.png",
+      "sizeBytes": 147765
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-018 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-018.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-018.png",
+      "sizeBytes": 182083
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-018 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-018_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-018_p1.png",
+      "sizeBytes": 178445
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-019 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-019.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-019.png",
+      "sizeBytes": 156600
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-019 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-019_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-019_p1.png",
+      "sizeBytes": 205550
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-020 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-020.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-020.png",
+      "sizeBytes": 167777
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-020 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-020_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-020_p1.png",
+      "sizeBytes": 209491
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-021 ソウエイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-021.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-021.png",
+      "sizeBytes": 177511
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-022 ベニマル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-022.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-022.png",
+      "sizeBytes": 144860
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-023 隠密者",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-023.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-023.png",
+      "sizeBytes": 168089
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-024 報告",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-024.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-024.png",
+      "sizeBytes": 163501
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-025 ヴェルドラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-025.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-025.png",
+      "sizeBytes": 164571
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-025 ヴェルドラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-025_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-025_p1.png",
+      "sizeBytes": 153936
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-026 ゴブタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-026.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-026.png",
+      "sizeBytes": 159800
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-027 ゴブタ（魔狼合一）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-027.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-027.png",
+      "sizeBytes": 167456
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-028 七曜の老師",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-028.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-028.png",
+      "sizeBytes": 181436
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-029 ソーカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-029.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-029.png",
+      "sizeBytes": 162426
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-030 ディアブロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-030.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-030.png",
+      "sizeBytes": 215502
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-030 ディアブロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-030_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-030_p1.png",
+      "sizeBytes": 167800
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-031 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-031.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-031.png",
+      "sizeBytes": 147381
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-032 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-032.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-032.png",
+      "sizeBytes": 179981
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-033 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-033.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-033.png",
+      "sizeBytes": 171780
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-033 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-033_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-033_p1.png",
+      "sizeBytes": 181096
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-034 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-034.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-034.png",
+      "sizeBytes": 189919
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-034 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-034_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-034_p1.png",
+      "sizeBytes": 191531
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-035 マサユキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-035.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-035.png",
+      "sizeBytes": 171019
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-036 ミョルマイル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-036.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-036.png",
+      "sizeBytes": 166354
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-037 モミジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-037.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-037.png",
+      "sizeBytes": 155085
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-038 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-038.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-038.png",
+      "sizeBytes": 155559
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-039 ランガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-039.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-039.png",
+      "sizeBytes": 178702
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-040 ルイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-040.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-040.png",
+      "sizeBytes": 151299
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-041 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-041.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-041.png",
+      "sizeBytes": 143575
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-042 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-042.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-042.png",
+      "sizeBytes": 156800
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-043 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-043.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-043.png",
+      "sizeBytes": 160649
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-043 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-043_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-043_p1.png",
+      "sizeBytes": 173493
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-044 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-044.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-044.png",
+      "sizeBytes": 210551
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-044 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-044_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-044_p1.png",
+      "sizeBytes": 200482
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-044 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-044_p2.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-044_p2.png",
+      "sizeBytes": 249855
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-045 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-045.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-045.png",
+      "sizeBytes": 160191
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-046 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-046.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-046.png",
+      "sizeBytes": 172885
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-047 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-047.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-047.png",
+      "sizeBytes": 186965
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-047 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-047_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-047_p1.png",
+      "sizeBytes": 195825
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-048 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-048.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-048.png",
+      "sizeBytes": 201735
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-048 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-048_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-048_p1.png",
+      "sizeBytes": 191375
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-049 ゴブゾウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-049.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-049.png",
+      "sizeBytes": 161103
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-050 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-050.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-050.png",
+      "sizeBytes": 156565
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-051 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-051.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-051.png",
+      "sizeBytes": 175380
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-052 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-052.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-052.png",
+      "sizeBytes": 162438
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-052 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-052_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-052_p1.png",
+      "sizeBytes": 169409
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-053 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-053.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-053.png",
+      "sizeBytes": 197731
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-053 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-053_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-053_p1.png",
+      "sizeBytes": 188076
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-054 紫克衆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-054.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-054.png",
+      "sizeBytes": 168146
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-055 開国祭",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-055.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-055.png",
+      "sizeBytes": 205342
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-056 宴会",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-056.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-056.png",
+      "sizeBytes": 174899
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-057 『解』",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-057.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-057.png",
+      "sizeBytes": 217201
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-058 料理人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-058.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-058.png",
+      "sizeBytes": 163648
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-059 崩魔霊子斬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-059.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-059.png",
+      "sizeBytes": 164012
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-060 ラーメン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-060.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-060.png",
+      "sizeBytes": 162139
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-061 リザレクション",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-061.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-061.png",
+      "sizeBytes": 157639
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-062 ヴェルドラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-062.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-062.png",
+      "sizeBytes": 184233
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-063 カリオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-063.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-063.png",
+      "sizeBytes": 136991
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-064 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-064.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-064.png",
+      "sizeBytes": 164461
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-065 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-065.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-065.png",
+      "sizeBytes": 152192
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-065 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-065_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-065_p1.png",
+      "sizeBytes": 212607
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-066 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-066.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-066.png",
+      "sizeBytes": 194310
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-066 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-066_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-066_p1.png",
+      "sizeBytes": 193603
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-067 ラミリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-067.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-067.png",
+      "sizeBytes": 170600
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-068 ラミリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-068.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-068.png",
+      "sizeBytes": 166494
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-069 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-069.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-069.png",
+      "sizeBytes": 156850
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-070 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-070.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-070.png",
+      "sizeBytes": 171993
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-070 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-070_p1.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-070_p1.png",
+      "sizeBytes": 213310
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-071 ルミナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-071.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-071.png",
+      "sizeBytes": 187622
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-072 会議",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-072.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-072.png",
+      "sizeBytes": 182471
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-073 おいしいのだ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-073.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-073.png",
+      "sizeBytes": 179241
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP01 アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP01.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP01.png",
+      "sizeBytes": 135954
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP01★ アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP01_s.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP01_s.png",
+      "sizeBytes": 168571
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP02 アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP02.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP02.png",
+      "sizeBytes": 137199
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP03 アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP03.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP03.png",
+      "sizeBytes": 149259
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP04 アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP04.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP04.png",
+      "sizeBytes": 127621
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP05 アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP05.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP05.png",
+      "sizeBytes": 149752
+    },
+    {
+      "series": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "alt": "EX09BT/TSK-2-AP06 アクションポイントカード(転生したらスライムだった件",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX09BT_TSK-2-AP06.png?v8",
+      "localPath": "/cards/tensura-3/EX09BT_TSK-2-AP06.png",
+      "sizeBytes": 132788
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,1120 @@
+{
+  "generatedAt": "2026-07-13T18:54:18.089Z",
+  "series": {
+    "seriesId": "570137",
+    "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "slug": "fullmetal-alchemist-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570137",
+  "totalFound": 138,
+  "downloaded": 138,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-001 アルフォンス・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-001.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-001.png",
+      "sizeBytes": 186907
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-002 アルフォンス・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-002.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-002.png",
+      "sizeBytes": 195116
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-003 アルフォンス・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-003.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-003.png",
+      "sizeBytes": 204364
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-004 アルフォンス・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-004.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-004.png",
+      "sizeBytes": 199106
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-004 アルフォンス・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-004_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-004_p1.png",
+      "sizeBytes": 198687
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-004 アルフォンス・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-004_p2.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-004_p2.png",
+      "sizeBytes": 248741
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-005 イズミ・カーティス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-005.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-005.png",
+      "sizeBytes": 200886
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-006 ヴァン・ホーエンハイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-006.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-006.png",
+      "sizeBytes": 174776
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-007 ウィンリィ・ロックベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-007.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-007.png",
+      "sizeBytes": 178581
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-008 ウィンリィ・ロックベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-008.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-008.png",
+      "sizeBytes": 191745
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-008 ウィンリィ・ロックベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-008_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-008_p1.png",
+      "sizeBytes": 190499
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-009 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-009.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-009.png",
+      "sizeBytes": 166978
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-010 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-010.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-010.png",
+      "sizeBytes": 206963
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-011 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-011.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-011.png",
+      "sizeBytes": 191025
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-011 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-011_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-011_p1.png",
+      "sizeBytes": 185304
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-012 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-012.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-012.png",
+      "sizeBytes": 219424
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-012 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-012_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-012_p1.png",
+      "sizeBytes": 228711
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-012 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-012_p2.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-012_p2.png",
+      "sizeBytes": 255931
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-013 傷の男(スカー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-013.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-013.png",
+      "sizeBytes": 208325
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-013 傷の男(スカー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-013_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-013_p1.png",
+      "sizeBytes": 197138
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-014 ティム・マルコー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-014.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-014.png",
+      "sizeBytes": 199512
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-015 トリシャ・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-015.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-015.png",
+      "sizeBytes": 181187
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-016 ヨキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-016.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-016.png",
+      "sizeBytes": 201298
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-017 シャオメイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-017.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-017.png",
+      "sizeBytes": 184186
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-018 フー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-018.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-018.png",
+      "sizeBytes": 189721
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-019 メイ・チャン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-019.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-019.png",
+      "sizeBytes": 178986
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-020 メイ・チャン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-020.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-020.png",
+      "sizeBytes": 201807
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-021 メイ・チャン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-021.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-021.png",
+      "sizeBytes": 191760
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-021 メイ・チャン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-021_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-021_p1.png",
+      "sizeBytes": 193425
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-022 ランファン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-022.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-022.png",
+      "sizeBytes": 191407
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-023 ランファン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-023.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-023.png",
+      "sizeBytes": 203969
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-023 ランファン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-023_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-023_p1.png",
+      "sizeBytes": 209301
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-024 リン・ヤオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-024.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-024.png",
+      "sizeBytes": 186597
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-025 リン・ヤオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-025.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-025.png",
+      "sizeBytes": 184198
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-026 リン・ヤオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-026.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-026.png",
+      "sizeBytes": 180592
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-026 リン・ヤオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-026_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-026_p1.png",
+      "sizeBytes": 187642
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-027 グリード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-027.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-027.png",
+      "sizeBytes": 203639
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-027 グリード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-027_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-027_p1.png",
+      "sizeBytes": 219117
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-028 真理の扉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-028.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-028.png",
+      "sizeBytes": 199756
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-029 機械鎧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-029.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-029.png",
+      "sizeBytes": 185274
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-030 シン国からの旅人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-030.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-030.png",
+      "sizeBytes": 191046
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-031 等価交換",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-031.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-031.png",
+      "sizeBytes": 189344
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-032 なんで二択なの？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-032.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-032.png",
+      "sizeBytes": 195804
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-033 鋼の錬金術師",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-033.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-033.png",
+      "sizeBytes": 194906
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-034 アレックス・ルイ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-034.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-034.png",
+      "sizeBytes": 181173
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-035 アレックス・ルイ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-035.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-035.png",
+      "sizeBytes": 172974
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-036 アレックス・ルイ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-036.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-036.png",
+      "sizeBytes": 173104
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-037 アレックス・ルイ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-037.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-037.png",
+      "sizeBytes": 186818
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-037 アレックス・ルイ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-037_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-037_p1.png",
+      "sizeBytes": 195296
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-038 イズミ・カーティス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-038.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-038.png",
+      "sizeBytes": 174267
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-039 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-039.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-039.png",
+      "sizeBytes": 202200
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-040 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-040.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-040.png",
+      "sizeBytes": 192166
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-040 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-040_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-040_p1.png",
+      "sizeBytes": 190042
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-041 ケイン・フュリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-041.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-041.png",
+      "sizeBytes": 186607
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-042 ジャン・ハボック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-042.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-042.png",
+      "sizeBytes": 181596
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-043 ハイマンス・ブレダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-043.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-043.png",
+      "sizeBytes": 195153
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-044 ブラックハヤテ号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-044.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-044.png",
+      "sizeBytes": 181970
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-045 マース・ヒューズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-045.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-045.png",
+      "sizeBytes": 188766
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-046 マース・ヒューズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-046.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-046.png",
+      "sizeBytes": 186171
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-046 マース・ヒューズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-046_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-046_p1.png",
+      "sizeBytes": 187980
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-047 マリア・ロス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-047.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-047.png",
+      "sizeBytes": 171072
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-048 リザ・ホークアイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-048.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-048.png",
+      "sizeBytes": 178096
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-049 リザ・ホークアイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-049.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-049.png",
+      "sizeBytes": 184271
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-050 リザ・ホークアイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-050.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-050.png",
+      "sizeBytes": 176306
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-051 リザ・ホークアイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-051.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-051.png",
+      "sizeBytes": 197436
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-051 リザ・ホークアイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-051_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-051_p1.png",
+      "sizeBytes": 223306
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-052 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-052.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-052.png",
+      "sizeBytes": 180019
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-053 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-053.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-053.png",
+      "sizeBytes": 190804
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-053 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-053_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-053_p1.png",
+      "sizeBytes": 195876
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-054 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-054.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-054.png",
+      "sizeBytes": 194902
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-054 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-054_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-054_p1.png",
+      "sizeBytes": 189064
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-055 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-055.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-055.png",
+      "sizeBytes": 205254
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-055 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-055_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-055_p1.png",
+      "sizeBytes": 230303
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-055 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-055_p2.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-055_p2.png",
+      "sizeBytes": 245344
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-056 ヴァトー・ファルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-056.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-056.png",
+      "sizeBytes": 193032
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-057 オリヴィエ・ミラ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-057.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-057.png",
+      "sizeBytes": 195401
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-058 オリヴィエ・ミラ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-058.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-058.png",
+      "sizeBytes": 214953
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-059 オリヴィエ・ミラ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-059.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-059.png",
+      "sizeBytes": 199174
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-060 オリヴィエ・ミラ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-060.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-060.png",
+      "sizeBytes": 205360
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-060 オリヴィエ・ミラ・アームストロング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-060_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-060_p1.png",
+      "sizeBytes": 219279
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-061 バッカニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-061.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-061.png",
+      "sizeBytes": 207007
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-061 バッカニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-061_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-061_p1.png",
+      "sizeBytes": 193835
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-062 マイルズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-062.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-062.png",
+      "sizeBytes": 205731
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-063 ブリッグズ要塞",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-063.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-063.png",
+      "sizeBytes": 212256
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-064 軍がやべえ！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-064.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-064.png",
+      "sizeBytes": 183233
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-065 国家錬金術師",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-065.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-065.png",
+      "sizeBytes": 191260
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-066 ブリッグズの北壁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-066.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-066.png",
+      "sizeBytes": 200610
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-067 焰の錬金術師",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-067.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-067.png",
+      "sizeBytes": 185861
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-068 ニーナ＆アレキサンダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-068.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-068.png",
+      "sizeBytes": 180918
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-069 ショウ・タッカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-069.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-069.png",
+      "sizeBytes": 199038
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-070 ゾルフ・J・キンブリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-070.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-070.png",
+      "sizeBytes": 189372
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-071 ゾルフ・J・キンブリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-071.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-071.png",
+      "sizeBytes": 180165
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-072 ゾルフ・J・キンブリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-072.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-072.png",
+      "sizeBytes": 185422
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-073 ゾルフ・J・キンブリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-073.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-073.png",
+      "sizeBytes": 200062
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-073 ゾルフ・J・キンブリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-073_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-073_p1.png",
+      "sizeBytes": 180000
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-074 ニーナ＆アレキサンダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-074.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-074.png",
+      "sizeBytes": 185434
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-075 エンヴィー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-075.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-075.png",
+      "sizeBytes": 184299
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-076 エンヴィー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-076.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-076.png",
+      "sizeBytes": 177248
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-077 エンヴィー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-077.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-077.png",
+      "sizeBytes": 194978
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-077 エンヴィー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-077_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-077_p1.png",
+      "sizeBytes": 195547
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-077 エンヴィー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-077_p2.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-077_p2.png",
+      "sizeBytes": 212779
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-078 お父様",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-078.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-078.png",
+      "sizeBytes": 219307
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-079 お父様",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-079.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-079.png",
+      "sizeBytes": 208880
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-079 お父様",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-079_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-079_p1.png",
+      "sizeBytes": 215191
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-080 グラトニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-080.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-080.png",
+      "sizeBytes": 190168
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-081 グラトニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-081.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-081.png",
+      "sizeBytes": 177197
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-081 グラトニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-081_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-081_p1.png",
+      "sizeBytes": 156491
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-082 グリード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-082.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-082.png",
+      "sizeBytes": 178983
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-082 グリード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-082_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-082_p1.png",
+      "sizeBytes": 182170
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-083 スロウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-083.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-083.png",
+      "sizeBytes": 188844
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-084 セリム・ブラッドレイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-084.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-084.png",
+      "sizeBytes": 182744
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-085 プライド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-085.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-085.png",
+      "sizeBytes": 176882
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-086 プライド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-086.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-086.png",
+      "sizeBytes": 192374
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-086 プライド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-086_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-086_p1.png",
+      "sizeBytes": 186462
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-087 フラスコの中の小人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-087.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-087.png",
+      "sizeBytes": 187098
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-088 ラスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-088.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-088.png",
+      "sizeBytes": 184856
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-089 ラスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-089.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-089.png",
+      "sizeBytes": 173723
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-090 ラスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-090.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-090.png",
+      "sizeBytes": 188978
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-090 ラスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-090_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-090_p1.png",
+      "sizeBytes": 183519
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-090 ラスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-090_p2.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-090_p2.png",
+      "sizeBytes": 223816
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-091 キング・ブラッドレイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-091.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-091.png",
+      "sizeBytes": 176769
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-092 キング・ブラッドレイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-092.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-092.png",
+      "sizeBytes": 182739
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-093 キング・ブラッドレイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-093.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-093.png",
+      "sizeBytes": 188288
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-093 キング・ブラッドレイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-093_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-093_p1.png",
+      "sizeBytes": 188092
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-094 ラース",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-094.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-094.png",
+      "sizeBytes": 195846
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-095 国土錬成陣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-095.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-095.png",
+      "sizeBytes": 189147
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-096 君のような勘のいいガキは嫌いだよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-096.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-096.png",
+      "sizeBytes": 183018
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-097 賢者の石",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-097.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-097.png",
+      "sizeBytes": 208373
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-098 最強の眼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-098.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-098.png",
+      "sizeBytes": 219730
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-099 ホムンクルス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-099.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-099.png",
+      "sizeBytes": 185601
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-100 もらいうける！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-100.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-100.png",
+      "sizeBytes": 191171
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP01 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP01.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP01.png",
+      "sizeBytes": 208197
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP01 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP01_p1.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP01_p1.png",
+      "sizeBytes": 187302
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP02 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP02.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP02.png",
+      "sizeBytes": 178183
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP03 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP03.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP03.png",
+      "sizeBytes": 161380
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP04 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP04.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP04.png",
+      "sizeBytes": 186262
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP05 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP05.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP05.png",
+      "sizeBytes": 147757
+    },
+    {
+      "series": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "alt": "UA37BT/FMA-1-AP06 アクションポイントカード(鋼の錬金術師)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA37BT_FMA-1-AP06.png?v8",
+      "localPath": "/cards/fullmetal-alchemist-2/UA37BT_FMA-1-AP06.png",
+      "sizeBytes": 143043
+    }
+  ],
+  "failures": []
+}

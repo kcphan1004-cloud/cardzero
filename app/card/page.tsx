@@ -1,7 +1,5 @@
 import CardCatalog from "../../components/CardCatalog";
-import {
-  cards,
-} from "../../data/card-series";
+import { cards } from "../../data/card-series-generated";
 
 export default function CardPage() {
   return (

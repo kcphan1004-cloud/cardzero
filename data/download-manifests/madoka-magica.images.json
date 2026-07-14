@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:44:41.920Z",
+  "series": {
+    "seriesId": "570031",
+    "title": "魔法少女まどか☆マギカ",
+    "slug": "madoka-magica"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570031",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-069 キュゥべえ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-069.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-069.png",
+      "sizeBytes": 131792
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-070 志筑 仁美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-070.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-070.png",
+      "sizeBytes": 149733
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-076 鹿目 まどか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-076.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-076.png",
+      "sizeBytes": 145850
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-080 佐倉 杏子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-080.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-080.png",
+      "sizeBytes": 150983
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-081 佐倉 杏子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-081.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-081.png",
+      "sizeBytes": 139486
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-085 巴 マミ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-085.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-085.png",
+      "sizeBytes": 142767
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-088 美樹 さやか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-088.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-088.png",
+      "sizeBytes": 144758
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-094 クラスのみんなには、内緒だよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-094.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-094.png",
+      "sizeBytes": 155753
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-095 ソウルジェム（鹿目 まどか）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-095.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-095.png",
+      "sizeBytes": 162004
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-101 暁美 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-101.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-101.png",
+      "sizeBytes": 141887
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-102 暁美 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-102.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-102.png",
+      "sizeBytes": 196816
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-103 鹿目 まどか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-103.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-103.png",
+      "sizeBytes": 162256
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-104 鹿目 まどか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-104.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-104.png",
+      "sizeBytes": 209961
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-105 佐倉 杏子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-105.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-105.png",
+      "sizeBytes": 143356
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-106 巴 マミ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-106.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-106.png",
+      "sizeBytes": 152054
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-107 美樹 さやか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-107.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-107.png",
+      "sizeBytes": 161190
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-108 見滝原中学校",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-108.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-108.png",
+      "sizeBytes": 171515
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-109 僕と契約して、魔法少女になってよ!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-109.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-109.png",
+      "sizeBytes": 144851
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-110 巴 マミ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-110.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-110.png",
+      "sizeBytes": 165513
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-110 巴 マミ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-110_p1.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-110_p1.png",
+      "sizeBytes": 164892
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-111 美樹 さやか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-111.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-111.png",
+      "sizeBytes": 157050
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-111 美樹 さやか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-111_p1.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-111_p1.png",
+      "sizeBytes": 168645
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-112 暁美 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-112.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-112.png",
+      "sizeBytes": 136662
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-112 暁美 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-112_p1.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-112_p1.png",
+      "sizeBytes": 155658
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-113 佐倉 杏子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-113.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-113.png",
+      "sizeBytes": 130939
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-113 佐倉 杏子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-113_p1.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-113_p1.png",
+      "sizeBytes": 172190
+    },
+    {
+      "series": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "alt": "UA31ST/MMM-1-AP01 アクションポイントカード(魔法少女まどか☆マギカ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA31ST_MMM-1-AP01.png?v8",
+      "localPath": "/cards/madoka-magica/UA31ST_MMM-1-AP01.png",
+      "sizeBytes": 174475
+    }
+  ],
+  "failures": []
+}

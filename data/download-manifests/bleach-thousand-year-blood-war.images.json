@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T18:07:32.184Z",
+  "series": {
+    "seriesId": "570008",
+    "title": "BLEACH 千年血戦篇",
+    "slug": "bleach-thousand-year-blood-war"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570008",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-034 石田 雨竜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-034.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-034.png",
+      "sizeBytes": 207384
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-035 井上 織姫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-035.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-035.png",
+      "sizeBytes": 208967
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-037 浦原 喜助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-037.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-037.png",
+      "sizeBytes": 198239
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-039 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-039.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-039.png",
+      "sizeBytes": 212320
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-042 茶渡 泰虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-042.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-042.png",
+      "sizeBytes": 219096
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-046 阿散井 恋次",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-046.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-046.png",
+      "sizeBytes": 213721
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-062 おいしいパン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-062.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-062.png",
+      "sizeBytes": 196548
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-064 月牙天衝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-064.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-064.png",
+      "sizeBytes": 202927
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-066 卍解",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-066.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-066.png",
+      "sizeBytes": 205712
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-101 井上 織姫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-101.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-101.png",
+      "sizeBytes": 207289
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-102 浦原 喜助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-102.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-102.png",
+      "sizeBytes": 190244
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-103 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-103.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-103.png",
+      "sizeBytes": 204644
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-104 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-104.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-104.png",
+      "sizeBytes": 167271
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-105 阿散井 恋次",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-105.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-105.png",
+      "sizeBytes": 159159
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-106 朽木 ルキア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-106.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-106.png",
+      "sizeBytes": 194019
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-107 斑目 志乃＆行木 竜ノ介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-107.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-107.png",
+      "sizeBytes": 206731
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-108 一護の部屋",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-108.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-108.png",
+      "sizeBytes": 233818
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-109 空座町の死神代行",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-109.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-109.png",
+      "sizeBytes": 215215
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-AP01 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-AP01.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-AP01.png",
+      "sizeBytes": 176651
+    },
+    {
+      "series": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "alt": "UA08ST/BLC-1-AP02 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA08ST_BLC-1-AP02.png?v8",
+      "localPath": "/cards/bleach-thousand-year-blood-war/UA08ST_BLC-1-AP02.png",
+      "sizeBytes": 144923
+    }
+  ],
+  "failures": []
+}

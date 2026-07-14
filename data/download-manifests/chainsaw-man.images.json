@@ -1,0 +1,992 @@
+{
+  "generatedAt": "2026-07-13T19:14:07.634Z",
+  "series": {
+    "seriesId": "570153",
+    "title": "チェンソーマン",
+    "slug": "chainsaw-man"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570153",
+  "totalFound": 122,
+  "downloaded": 0,
+  "skipped": 122,
+  "failed": 0,
+  "images": [
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-001 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-001.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-001.png",
+      "sizeBytes": 190140
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-002 台風の悪魔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-002.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-002.png",
+      "sizeBytes": 205631
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-003 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-003.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-003.png",
+      "sizeBytes": 206883
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-004 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-004.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-004.png",
+      "sizeBytes": 188644
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-005 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-005.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-005.png",
+      "sizeBytes": 196887
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-006 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-006.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-006.png",
+      "sizeBytes": 224382
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-007 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-007.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-007.png",
+      "sizeBytes": 217074
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-008 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-008.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-008.png",
+      "sizeBytes": 187474
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-008 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-008_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-008_p1.png",
+      "sizeBytes": 239747
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-009 天使の悪魔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-009.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-009.png",
+      "sizeBytes": 201546
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-010 天使の悪魔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-010.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-010.png",
+      "sizeBytes": 199272
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-010 天使の悪魔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-010_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-010_p1.png",
+      "sizeBytes": 231579
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-011 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-011.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-011.png",
+      "sizeBytes": 192704
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-012 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-012.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-012.png",
+      "sizeBytes": 199965
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-013 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-013.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-013.png",
+      "sizeBytes": 191646
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-014 ビーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-014.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-014.png",
+      "sizeBytes": 191466
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-015 暴力の魔人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-015.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-015.png",
+      "sizeBytes": 195049
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-016 ボム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-016.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-016.png",
+      "sizeBytes": 198150
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-017 ボム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-017.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-017.png",
+      "sizeBytes": 220325
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-017 ボム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-017_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-017_p1.png",
+      "sizeBytes": 268729
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-018 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-018.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-018.png",
+      "sizeBytes": 202621
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-019 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-019.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-019.png",
+      "sizeBytes": 194753
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-020 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-020.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-020.png",
+      "sizeBytes": 211877
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-021 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-021.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-021.png",
+      "sizeBytes": 195215
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-022 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-022.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-022.png",
+      "sizeBytes": 207942
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-022 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-022_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-022_p1.png",
+      "sizeBytes": 210526
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-023 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-023.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-023.png",
+      "sizeBytes": 189318
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-023 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-023_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-023_p1.png",
+      "sizeBytes": 184737
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-024 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-024.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-024.png",
+      "sizeBytes": 192254
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-024 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-024_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-024_p1.png",
+      "sizeBytes": 285149
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-024 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-024_p2.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-024_p2.png",
+      "sizeBytes": 242398
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-025 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-025.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-025.png",
+      "sizeBytes": 210691
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-026 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-026.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-026.png",
+      "sizeBytes": 202499
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-027 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-027.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-027.png",
+      "sizeBytes": 190095
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-028 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-028.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-028.png",
+      "sizeBytes": 202228
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-028 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-028_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-028_p1.png",
+      "sizeBytes": 202210
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-029 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-029.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-029.png",
+      "sizeBytes": 191281
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-030 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-030.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-030.png",
+      "sizeBytes": 203665
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-030 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-030_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-030_p1.png",
+      "sizeBytes": 187151
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-031 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-031.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-031.png",
+      "sizeBytes": 193541
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-031 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-031_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-031_p1.png",
+      "sizeBytes": 273176
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-031 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-031_p2.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-031_p2.png",
+      "sizeBytes": 242657
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-032 映画館",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-032.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-032.png",
+      "sizeBytes": 236558
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-033 カフェ「二道」",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-033.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-033.png",
+      "sizeBytes": 214253
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-034 あったよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-034.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-034.png",
+      "sizeBytes": 196295
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-035 絶対に他の人を好きになったりはしねえ！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-035.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-035.png",
+      "sizeBytes": 227734
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-036 だって私デンジくんが好きだから",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-036.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-036.png",
+      "sizeBytes": 191132
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-037 デート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-037.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-037.png",
+      "sizeBytes": 230092
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-038 デンジ君の心臓貰うね・・・",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-038.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-038.png",
+      "sizeBytes": 203233
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-039 ボンっ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-039.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-039.png",
+      "sizeBytes": 209103
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-040 私も田舎のネズミが好き",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-040.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-040.png",
+      "sizeBytes": 214248
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-041 荒井",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-041.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-041.png",
+      "sizeBytes": 182606
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-042 岸辺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-042.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-042.png",
+      "sizeBytes": 197058
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-043 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-043.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-043.png",
+      "sizeBytes": 184096
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-043 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-043_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-043_p1.png",
+      "sizeBytes": 306620
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-044 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-044.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-044.png",
+      "sizeBytes": 189153
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-045 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-045.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-045.png",
+      "sizeBytes": 186064
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-046 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-046.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-046.png",
+      "sizeBytes": 202248
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-046 コベニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-046_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-046_p1.png",
+      "sizeBytes": 179724
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-047 チェンソーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-047.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-047.png",
+      "sizeBytes": 234965
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-047 チェンソーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-047_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-047_p1.png",
+      "sizeBytes": 253390
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-048 チェンソーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-048.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-048.png",
+      "sizeBytes": 200281
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-048 チェンソーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-048_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-048_p1.png",
+      "sizeBytes": 225962
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-049 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-049.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-049.png",
+      "sizeBytes": 197796
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-050 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-050.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-050.png",
+      "sizeBytes": 192032
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-050 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-050_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-050_p1.png",
+      "sizeBytes": 229217
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-051 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-051.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-051.png",
+      "sizeBytes": 209399
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-051 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-051_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-051_p1.png",
+      "sizeBytes": 194032
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-052 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-052.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-052.png",
+      "sizeBytes": 199793
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-053 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-053.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-053.png",
+      "sizeBytes": 200052
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-053 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-053_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-053_p1.png",
+      "sizeBytes": 222391
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-054 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-054.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-054.png",
+      "sizeBytes": 193771
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-055 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-055.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-055.png",
+      "sizeBytes": 207278
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-055 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-055_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-055_p1.png",
+      "sizeBytes": 245567
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-056 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-056.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-056.png",
+      "sizeBytes": 205992
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-056 早川 アキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-056_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-056_p1.png",
+      "sizeBytes": 201242
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-057 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-057.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-057.png",
+      "sizeBytes": 207152
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-057 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-057_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-057_p1.png",
+      "sizeBytes": 286461
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-058 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-058.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-058.png",
+      "sizeBytes": 188631
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-059 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-059.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-059.png",
+      "sizeBytes": 203631
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-060 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-060.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-060.png",
+      "sizeBytes": 196571
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-060 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-060_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-060_p1.png",
+      "sizeBytes": 197639
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-061 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-061.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-061.png",
+      "sizeBytes": 197000
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-061 パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-061_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-061_p1.png",
+      "sizeBytes": 206117
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-062 ビーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-062.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-062.png",
+      "sizeBytes": 182874
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-063 姫野",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-063.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-063.png",
+      "sizeBytes": 187785
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-064 姫野",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-064.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-064.png",
+      "sizeBytes": 190915
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-065 姫野",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-065.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-065.png",
+      "sizeBytes": 176842
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-065 姫野",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-065_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-065_p1.png",
+      "sizeBytes": 266913
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-066 姫野",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-066.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-066.png",
+      "sizeBytes": 200992
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-066 姫野",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-066_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-066_p1.png",
+      "sizeBytes": 203632
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-067 ポチタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-067.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-067.png",
+      "sizeBytes": 182060
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-067 ポチタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-067_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-067_p1.png",
+      "sizeBytes": 271988
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-068 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-068.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-068.png",
+      "sizeBytes": 181851
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-069 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-069.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-069.png",
+      "sizeBytes": 187895
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-070 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-070.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-070.png",
+      "sizeBytes": 185205
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-070 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-070_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-070_p1.png",
+      "sizeBytes": 265582
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-071 未来の悪魔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-071.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-071.png",
+      "sizeBytes": 211425
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-072 幽霊の悪魔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-072.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-072.png",
+      "sizeBytes": 202824
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-073 早川家",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-073.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-073.png",
+      "sizeBytes": 227301
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-074 Easy revenge！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-074.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-074.png",
+      "sizeBytes": 193113
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-075 打て！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-075.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-075.png",
+      "sizeBytes": 213405
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-076 かわりに・・・デンジの夢を私に見せてくれ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-076.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-076.png",
+      "sizeBytes": 219413
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-077 ・・・コン。",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-077.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-077.png",
+      "sizeBytes": 207559
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-078 最強のパン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-078.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-078.png",
+      "sizeBytes": 202569
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-079 約束だったじゃろ。",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-079.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-079.png",
+      "sizeBytes": 199367
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-080 悪いヤツぁ好きだぜ～？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-080.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-080.png",
+      "sizeBytes": 229833
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP01 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP01.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP01.png",
+      "sizeBytes": 240285
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP01 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP01_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP01_p1.png",
+      "sizeBytes": 206569
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP02 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP02.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP02.png",
+      "sizeBytes": 328390
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP02 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP02_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP02_p1.png",
+      "sizeBytes": 204370
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP03 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP03.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP03.png",
+      "sizeBytes": 167797
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP03 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP03_p1.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP03_p1.png",
+      "sizeBytes": 195950
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP04 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP04.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP04.png",
+      "sizeBytes": 202950
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP05 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP05.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP05.png",
+      "sizeBytes": 240803
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP06 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP06.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP06.png",
+      "sizeBytes": 147593
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP07 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP07.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP07.png",
+      "sizeBytes": 110560
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP08 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP08.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP08.png",
+      "sizeBytes": 216233
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP09 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP09.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP09.png",
+      "sizeBytes": 207883
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP10 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP10.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP10.png",
+      "sizeBytes": 188921
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP11 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP11.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP11.png",
+      "sizeBytes": 196914
+    },
+    {
+      "series": "チェンソーマン",
+      "seriesId": "570153",
+      "alt": "UA53BT/CSM-1-AP12 アクションポイントカード(チェンソーマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA53BT_CSM-1-AP12.png?v8",
+      "localPath": "/cards/chainsaw-man/UA53BT_CSM-1-AP12.png",
+      "sizeBytes": 163892
+    }
+  ],
+  "failures": []
+}

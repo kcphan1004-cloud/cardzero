@@ -1,0 +1,808 @@
+{
+  "generatedAt": "2026-07-13T17:56:13.380Z",
+  "series": {
+    "seriesId": "570204",
+    "title": "呪術廻戦 Vol.2",
+    "slug": "jujutsu-kaisen-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570204",
+  "totalFound": 99,
+  "downloaded": 99,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-1-040 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-1-040_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-1-040_p1.png",
+      "sizeBytes": 200678
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-001 天内 理子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-001.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-001.png",
+      "sizeBytes": 184657
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-002 家入 硝子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-002.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-002.png",
+      "sizeBytes": 166970
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-003 庵 歌姫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-003.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-003.png",
+      "sizeBytes": 171898
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-004 黒井 美里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-004.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-004.png",
+      "sizeBytes": 169692
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-005 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-005.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-005.png",
+      "sizeBytes": 162575
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-005 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-005_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-005_p1.png",
+      "sizeBytes": 218944
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-006 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-006.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-006.png",
+      "sizeBytes": 171827
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-006 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-006_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-006_p1.png",
+      "sizeBytes": 232907
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-007 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-007.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-007.png",
+      "sizeBytes": 180871
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-007 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-007_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-007_p1.png",
+      "sizeBytes": 219203
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-008 脱兎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-008.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-008.png",
+      "sizeBytes": 172206
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-009 満象",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-009.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-009.png",
+      "sizeBytes": 190230
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-010 虹龍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-010.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-010.png",
+      "sizeBytes": 185339
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-011 沖縄旅行",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-011.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-011.png",
+      "sizeBytes": 179014
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-012 術式順転「蒼」",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-012.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-012.png",
+      "sizeBytes": 183901
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-013 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-013.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-013.png",
+      "sizeBytes": 178149
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-014 狗巻 棘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-014.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-014.png",
+      "sizeBytes": 185778
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-015 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-015.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-015.png",
+      "sizeBytes": 182722
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-015 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-015_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-015_p1.png",
+      "sizeBytes": 208526
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-015 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-015_p2.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-015_p2.png",
+      "sizeBytes": 228941
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-016 禪院 直毘人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-016.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-016.png",
+      "sizeBytes": 176966
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-017 禪院 真希",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-017.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-017.png",
+      "sizeBytes": 197192
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-017 禪院 真希",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-017_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-017_p1.png",
+      "sizeBytes": 195260
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-018 七海 建人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-018.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-018.png",
+      "sizeBytes": 170188
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-019 七海 建人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-019.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-019.png",
+      "sizeBytes": 204302
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-019 七海 建人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-019_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-019_p1.png",
+      "sizeBytes": 216014
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-020 新田 明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-020.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-020.png",
+      "sizeBytes": 151576
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-021 灰原 雄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-021.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-021.png",
+      "sizeBytes": 160344
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-022 灰原 雄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-022.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-022.png",
+      "sizeBytes": 172352
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-023 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-023.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-023.png",
+      "sizeBytes": 168648
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-024 誇れ オマエは強い",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-024.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-024.png",
+      "sizeBytes": 150147
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-025 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-025.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-025.png",
+      "sizeBytes": 177837
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-026 伏黒 甚爾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-026.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-026.png",
+      "sizeBytes": 170754
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-026 伏黒 甚爾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-026_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-026_p1.png",
+      "sizeBytes": 220708
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-027 究極 メカ丸 絶対形態",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-027.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-027.png",
+      "sizeBytes": 195780
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-028 三輪 霞",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-028.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-028.png",
+      "sizeBytes": 156509
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-029 与 幸吉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-029.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-029.png",
+      "sizeBytes": 159452
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-030 与 幸吉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-030.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-030.png",
+      "sizeBytes": 186742
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-031 漏瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-031.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-031.png",
+      "sizeBytes": 163368
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-032 陀艮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-032.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-032.png",
+      "sizeBytes": 168500
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-033 陀艮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-033.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-033.png",
+      "sizeBytes": 173362
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-034 花御",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-034.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-034.png",
+      "sizeBytes": 167359
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-035 真人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-035.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-035.png",
+      "sizeBytes": 179000
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-035 真人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-035_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-035_p1.png",
+      "sizeBytes": 201941
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-036 大祓砲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-036.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-036.png",
+      "sizeBytes": 194251
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-037 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-037.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-037.png",
+      "sizeBytes": 174885
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-038 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-038.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-038.png",
+      "sizeBytes": 173882
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-039 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-039.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-039.png",
+      "sizeBytes": 195638
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-039 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-039_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-039_p1.png",
+      "sizeBytes": 219539
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-040 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-040.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-040.png",
+      "sizeBytes": 157090
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-041 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-041.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-041.png",
+      "sizeBytes": 169042
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-042 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-042.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-042.png",
+      "sizeBytes": 178246
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-042 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-042_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-042_p1.png",
+      "sizeBytes": 190486
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-043 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-043.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-043.png",
+      "sizeBytes": 202439
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-043 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-043_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-043_p1.png",
+      "sizeBytes": 213422
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-044 狗巻 棘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-044.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-044.png",
+      "sizeBytes": 175641
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-045 猪野 琢真",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-045.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-045.png",
+      "sizeBytes": 151117
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-046 憂憂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-046.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-046.png",
+      "sizeBytes": 171481
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-047 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-047.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-047.png",
+      "sizeBytes": 172851
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-048 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-048.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-048.png",
+      "sizeBytes": 170241
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-048 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-048_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-048_p1.png",
+      "sizeBytes": 209149
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-049 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-049.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-049.png",
+      "sizeBytes": 214794
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-049 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-049_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-049_p1.png",
+      "sizeBytes": 213782
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-050 日下部 篤也",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-050.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-050.png",
+      "sizeBytes": 167265
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-051 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-051.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-051.png",
+      "sizeBytes": 169740
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-051 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-051_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-051_p1.png",
+      "sizeBytes": 186341
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-052 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-052.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-052.png",
+      "sizeBytes": 201888
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-052 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-052_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-052_p1.png",
+      "sizeBytes": 224654
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-053 七海 建人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-053.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-053.png",
+      "sizeBytes": 168859
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-054 パンダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-054.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-054.png",
+      "sizeBytes": 164266
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-055 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-055.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-055.png",
+      "sizeBytes": 156958
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-056 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-056.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-056.png",
+      "sizeBytes": 168259
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-056 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-056_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-056_p1.png",
+      "sizeBytes": 185509
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-057 冥冥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-057.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-057.png",
+      "sizeBytes": 170176
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-057 冥冥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-057_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-057_p1.png",
+      "sizeBytes": 166379
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-058 壊相",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-058.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-058.png",
+      "sizeBytes": 186142
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-059 血塗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-059.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-059.png",
+      "sizeBytes": 182591
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-060 脹相",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-060.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-060.png",
+      "sizeBytes": 173535
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-061 脹相",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-061.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-061.png",
+      "sizeBytes": 175721
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-062 脹相",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-062.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-062.png",
+      "sizeBytes": 168471
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-062 脹相",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-062_p1.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-062_p1.png",
+      "sizeBytes": 187223
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-063 蝗GUY",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-063.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-063.png",
+      "sizeBytes": 171260
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-064 漏瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-064.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-064.png",
+      "sizeBytes": 167629
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-065 陀艮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-065.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-065.png",
+      "sizeBytes": 167533
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-066 花御",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-066.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-066.png",
+      "sizeBytes": 167210
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-067 真人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-067.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-067.png",
+      "sizeBytes": 180026
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-068 地下鉄のホーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-068.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-068.png",
+      "sizeBytes": 172785
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-069 黒閃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-069.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-069.png",
+      "sizeBytes": 174656
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-070 獄門疆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-070.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-070.png",
+      "sizeBytes": 187789
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-071 存在しない記憶",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-071.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-071.png",
+      "sizeBytes": 203462
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-072 ミニメカ丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-072.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-072.png",
+      "sizeBytes": 170497
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-073 領域展開",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-073.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-073.png",
+      "sizeBytes": 166790
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-AP01 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-AP01.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP01.png",
+      "sizeBytes": 164564
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-AP01★ アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-AP01_s.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP01_s.png",
+      "sizeBytes": 140636
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-AP02 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-AP02.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP02.png",
+      "sizeBytes": 197272
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-AP03 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-AP03.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP03.png",
+      "sizeBytes": 198695
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-AP04 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-AP04.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP04.png",
+      "sizeBytes": 187169
+    },
+    {
+      "series": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "alt": "EX04BT/JJK-3-AP05 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX04BT_JJK-3-AP05.png?v8",
+      "localPath": "/cards/jujutsu-kaisen-3/EX04BT_JJK-3-AP05.png",
+      "sizeBytes": 172496
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T17:58:35.996Z",
+  "series": {
+    "seriesId": "570004",
+    "title": "アイドルマスター シャイニーカラーズ",
+    "slug": "idolmaster-shiny-colors"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570004",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-001 七草 はづき",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-001.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-001.png",
+      "sizeBytes": 164233
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-011 風野 灯織",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-011.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-011.png",
+      "sizeBytes": 204087
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-012 風野 灯織",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-012.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-012.png",
+      "sizeBytes": 200242
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-014 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-014.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-014.png",
+      "sizeBytes": 217290
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-015 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-015.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-015.png",
+      "sizeBytes": 205298
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-017 八宮 めぐる",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-017.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-017.png",
+      "sizeBytes": 194487
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-018 八宮 めぐる",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-018.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-018.png",
+      "sizeBytes": 199251
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-028 お揃いスナップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-028.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-028.png",
+      "sizeBytes": 209216
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-030 七草 はづき アシスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-030.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-030.png",
+      "sizeBytes": 162947
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-101 大崎 甘奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-101.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-101.png",
+      "sizeBytes": 199925
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-102 大崎 甜花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-102.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-102.png",
+      "sizeBytes": 208145
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-103 桑山 千雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-103.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-103.png",
+      "sizeBytes": 181961
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-104 風野 灯織",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-104.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-104.png",
+      "sizeBytes": 220181
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-105 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-105.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-105.png",
+      "sizeBytes": 216400
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-106 八宮 めぐる",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-106.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-106.png",
+      "sizeBytes": 228370
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-107 緋田 美琴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-107.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-107.png",
+      "sizeBytes": 209333
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-108 七草 にちか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-108.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-108.png",
+      "sizeBytes": 191009
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-109 283プロダクション",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-109.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-109.png",
+      "sizeBytes": 196959
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-AP01 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-AP01.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-AP01.png",
+      "sizeBytes": 253804
+    },
+    {
+      "series": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "alt": "UA04ST/IMS-1-AP02 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA04ST_IMS-1-AP02.png?v8",
+      "localPath": "/cards/idolmaster-shiny-colors/UA04ST_IMS-1-AP02.png",
+      "sizeBytes": 248102
+    }
+  ],
+  "failures": []
+}

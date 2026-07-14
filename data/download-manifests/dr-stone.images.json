@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T18:16:59.176Z",
+  "series": {
+    "seriesId": "570014",
+    "title": "Dr.STONE",
+    "slug": "dr-stone"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570014",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-069 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-069.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-069.png",
+      "sizeBytes": 178883
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-072 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-072.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-072.png",
+      "sizeBytes": 169633
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-075 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-075.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-075.png",
+      "sizeBytes": 176162
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-076 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-076.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-076.png",
+      "sizeBytes": 186973
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-088 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-088.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-088.png",
+      "sizeBytes": 184073
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-090 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-090.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-090.png",
+      "sizeBytes": 192857
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-096 科学で勝ってやんぞ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-096.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-096.png",
+      "sizeBytes": 181302
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-097 唆るぜ これは！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-097.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-097.png",
+      "sizeBytes": 185688
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-099 復活液",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-099.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-099.png",
+      "sizeBytes": 199049
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-101 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-101.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-101.png",
+      "sizeBytes": 169193
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-102 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-102.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-102.png",
+      "sizeBytes": 179132
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-103 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-103.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-103.png",
+      "sizeBytes": 178178
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-104 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-104.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-104.png",
+      "sizeBytes": 174804
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-105 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-105.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-105.png",
+      "sizeBytes": 234804
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-106 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-106.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-106.png",
+      "sizeBytes": 189546
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-107 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-107.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-107.png",
+      "sizeBytes": 254126
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-108 奇跡の洞窟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-108.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-108.png",
+      "sizeBytes": 172850
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-109 科学部",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-109.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-109.png",
+      "sizeBytes": 197075
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-AP01 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-AP01.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-AP01.png",
+      "sizeBytes": 186214
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570014",
+      "alt": "UA14ST/DST-1-AP02 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14ST_DST-1-AP02.png?v8",
+      "localPath": "/cards/dr-stone/UA14ST_DST-1-AP02.png",
+      "sizeBytes": 261958
+    }
+  ],
+  "failures": []
+}

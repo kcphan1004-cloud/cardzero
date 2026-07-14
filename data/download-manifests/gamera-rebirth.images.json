@@ -1,0 +1,920 @@
+{
+  "generatedAt": "2026-07-13T18:30:49.308Z",
+  "series": {
+    "seriesId": "570122",
+    "title": "GAMERA -Rebirth-",
+    "slug": "gamera-rebirth"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570122",
+  "totalFound": 113,
+  "downloaded": 113,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-001 エミコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-001.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-001.png",
+      "sizeBytes": 133731
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-002 エミコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-002.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-002.png",
+      "sizeBytes": 130970
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-003 タザキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-003.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-003.png",
+      "sizeBytes": 135092
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-004 ノーラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-004.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-004.png",
+      "sizeBytes": 132119
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-005 評議会",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-005.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-005.png",
+      "sizeBytes": 134349
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-006 ユースタス財団研究員",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-006.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-006.png",
+      "sizeBytes": 140882
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-007 エスギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-007.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-007.png",
+      "sizeBytes": 153625
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-007 エスギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-007_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-007_p1.png",
+      "sizeBytes": 254116
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-008 エスギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-008.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-008.png",
+      "sizeBytes": 145718
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-008 エスギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-008_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-008_p1.png",
+      "sizeBytes": 291387
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-009 ギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-009.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-009.png",
+      "sizeBytes": 144757
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-010 ギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-010.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-010.png",
+      "sizeBytes": 146390
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-011 ギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-011.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-011.png",
+      "sizeBytes": 140317
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-011 ギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-011_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-011_p1.png",
+      "sizeBytes": 239608
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-012 ギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-012.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-012.png",
+      "sizeBytes": 193868
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-012 ギャオス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-012_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-012_p1.png",
+      "sizeBytes": 232377
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-013 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-013.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-013.png",
+      "sizeBytes": 139479
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-014 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-014.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-014.png",
+      "sizeBytes": 161820
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-015 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-015.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-015.png",
+      "sizeBytes": 159099
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-016 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-016.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-016.png",
+      "sizeBytes": 163529
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-016 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-016_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-016_p1.png",
+      "sizeBytes": 245484
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-017 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-017.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-017.png",
+      "sizeBytes": 200090
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-017 ギロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-017_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-017_p1.png",
+      "sizeBytes": 231131
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-018 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-018.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-018.png",
+      "sizeBytes": 131381
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-019 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-019.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-019.png",
+      "sizeBytes": 170545
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-020 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-020.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-020.png",
+      "sizeBytes": 168417
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-021 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-021.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-021.png",
+      "sizeBytes": 136744
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-021 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-021_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-021_p1.png",
+      "sizeBytes": 189019
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-022 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-022.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-022.png",
+      "sizeBytes": 222489
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-022 ジグラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-022_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-022_p1.png",
+      "sizeBytes": 266773
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-023 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-023.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-023.png",
+      "sizeBytes": 155076
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-024 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-024.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-024.png",
+      "sizeBytes": 150341
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-025 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-025.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-025.png",
+      "sizeBytes": 150053
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-026 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-026.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-026.png",
+      "sizeBytes": 154502
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-026 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-026_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-026_p1.png",
+      "sizeBytes": 271331
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-027 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-027.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-027.png",
+      "sizeBytes": 193291
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-027 ジャイガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-027_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-027_p1.png",
+      "sizeBytes": 243854
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-028 バイラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-028.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-028.png",
+      "sizeBytes": 140384
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-029 バイラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-029.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-029.png",
+      "sizeBytes": 151500
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-029 バイラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-029_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-029_p1.png",
+      "sizeBytes": 255967
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-030 バイラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-030.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-030.png",
+      "sizeBytes": 233343
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-030 バイラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-030_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-030_p1.png",
+      "sizeBytes": 251295
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-031 月面基地",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-031.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-031.png",
+      "sizeBytes": 142093
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-032 バイラスの死骸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-032.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-032.png",
+      "sizeBytes": 160327
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-033 液状弾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-033.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-033.png",
+      "sizeBytes": 143313
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-034 オリリウム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-034.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-034.png",
+      "sizeBytes": 152140
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-035 荷電重粒子ビーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-035.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-035.png",
+      "sizeBytes": 150901
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-036 超音波メス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-036.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-036.png",
+      "sizeBytes": 154609
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-037 超振動ブレード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-037.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-037.png",
+      "sizeBytes": 160609
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-038 尾棘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-038.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-038.png",
+      "sizeBytes": 158563
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-039 非対称性透過シールド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-039.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-039.png",
+      "sizeBytes": 151807
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-040 ユースタス財団の研究",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-040.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-040.png",
+      "sizeBytes": 148455
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-041 エミコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-041.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-041.png",
+      "sizeBytes": 139603
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-042 学者",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-042.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-042.png",
+      "sizeBytes": 170193
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-043 佐々木 宗篤",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-043.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-043.png",
+      "sizeBytes": 139377
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-044 タザキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-044.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-044.png",
+      "sizeBytes": 132892
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-045 タザキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-045.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-045.png",
+      "sizeBytes": 128841
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-046 レイモンド・オズボーン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-046.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-046.png",
+      "sizeBytes": 158381
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-047 軍艦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-047.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-047.png",
+      "sizeBytes": 153770
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-048 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-048.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-048.png",
+      "sizeBytes": 159157
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-048 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-048_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-048_p1.png",
+      "sizeBytes": 235063
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-049 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-049.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-049.png",
+      "sizeBytes": 150024
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-049 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-049_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-049_p1.png",
+      "sizeBytes": 274767
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-050 ジュンイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-050.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-050.png",
+      "sizeBytes": 135243
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-051 ジュンイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-051.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-051.png",
+      "sizeBytes": 140961
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-052 ジョー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-052.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-052.png",
+      "sizeBytes": 130193
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-053 ジョー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-053.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-053.png",
+      "sizeBytes": 156399
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-054 ブロディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-054.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-054.png",
+      "sizeBytes": 144986
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-055 ブロディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-055.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-055.png",
+      "sizeBytes": 143231
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-056 ボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-056.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-056.png",
+      "sizeBytes": 137738
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-057 ボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-057.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-057.png",
+      "sizeBytes": 143006
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-058 ボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-058.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-058.png",
+      "sizeBytes": 170014
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-059 戦闘機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-059.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-059.png",
+      "sizeBytes": 147524
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-060 戦車",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-060.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-060.png",
+      "sizeBytes": 144805
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-061 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-061.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-061.png",
+      "sizeBytes": 150924
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-062 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-062.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-062.png",
+      "sizeBytes": 160132
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-063 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-063.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-063.png",
+      "sizeBytes": 177914
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-064 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-064.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-064.png",
+      "sizeBytes": 208671
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-064 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-064_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-064_p1.png",
+      "sizeBytes": 242384
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-065 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-065.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-065.png",
+      "sizeBytes": 163198
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-066 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-066.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-066.png",
+      "sizeBytes": 136177
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-067 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-067.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-067.png",
+      "sizeBytes": 150759
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-068 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-068.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-068.png",
+      "sizeBytes": 211609
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-068 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-068_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-068_p1.png",
+      "sizeBytes": 243534
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-069 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-069.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-069.png",
+      "sizeBytes": 181420
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-070 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-070.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-070.png",
+      "sizeBytes": 145746
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-070 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-070_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-070_p1.png",
+      "sizeBytes": 242921
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-071 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-071.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-071.png",
+      "sizeBytes": 171789
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-071 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-071_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-071_p1.png",
+      "sizeBytes": 235603
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-072 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-072.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-072.png",
+      "sizeBytes": 237888
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-072 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-072_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-072_p1.png",
+      "sizeBytes": 260955
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-072 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-072_p2.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-072_p2.png",
+      "sizeBytes": 246631
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-073 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-073.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-073.png",
+      "sizeBytes": 221748
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-073 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-073_p1.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-073_p1.png",
+      "sizeBytes": 239900
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-074 セルケト号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-074.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-074.png",
+      "sizeBytes": 153902
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-075 オリリウム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-075.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-075.png",
+      "sizeBytes": 138795
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-076 火焔旋撃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-076.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-076.png",
+      "sizeBytes": 160100
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-077 火焔弾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-077.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-077.png",
+      "sizeBytes": 169280
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-078 ガメラとの絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-078.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-078.png",
+      "sizeBytes": 172545
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-079 コミュニケーター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-079.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-079.png",
+      "sizeBytes": 132616
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-080 燼滅手",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-080.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-080.png",
+      "sizeBytes": 170560
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP01 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP01.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP01.png",
+      "sizeBytes": 237171
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP01★ アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP01_s.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP01_s.png",
+      "sizeBytes": 182736
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP02 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP02.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP02.png",
+      "sizeBytes": 248496
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP02★ アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP02_s.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP02_s.png",
+      "sizeBytes": 186632
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP03 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP03.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP03.png",
+      "sizeBytes": 233520
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP04 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP04.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP04.png",
+      "sizeBytes": 211496
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP05 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP05.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP05.png",
+      "sizeBytes": 238221
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP06 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP06.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP06.png",
+      "sizeBytes": 231702
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP07 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP07.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP07.png",
+      "sizeBytes": 202106
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP08 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP08.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP08.png",
+      "sizeBytes": 174551
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP09 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP09.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP09.png",
+      "sizeBytes": 211066
+    },
+    {
+      "series": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "alt": "UA22BT/GMR-1-AP10 アクションポイントカード(GAMERA -Rebirth-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA22BT_GMR-1-AP10.png?v8",
+      "localPath": "/cards/gamera-rebirth/UA22BT_GMR-1-AP10.png",
+      "sizeBytes": 107740
+    }
+  ],
+  "failures": []
+}

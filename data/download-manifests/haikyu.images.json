@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:25:52.338Z",
+  "series": {
+    "seriesId": "570019",
+    "title": "ハイキュー‼",
+    "slug": "haikyu"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570019",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-068 東峰 旭",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-068.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-068.png",
+      "sizeBytes": 154227
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-073 田中 龍之介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-073.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-073.png",
+      "sizeBytes": 166345
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-078 菅原 孝支",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-078.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-078.png",
+      "sizeBytes": 161783
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-083 月島 蛍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-083.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-083.png",
+      "sizeBytes": 172118
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-085 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-085.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-085.png",
+      "sizeBytes": 158036
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-092 西谷 夕",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-092.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-092.png",
+      "sizeBytes": 167956
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-095 烏養 繋心＆武田 一鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-095.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-095.png",
+      "sizeBytes": 162292
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-099 飛べ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-099.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-099.png",
+      "sizeBytes": 154946
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-100 ドンピシャ!!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-100.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-100.png",
+      "sizeBytes": 187481
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-101 東峰 旭",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-101.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-101.png",
+      "sizeBytes": 185145
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-102 澤村 大地",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-102.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-102.png",
+      "sizeBytes": 157553
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-103 影山 飛雄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-103.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-103.png",
+      "sizeBytes": 178111
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-104 影山 飛雄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-104.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-104.png",
+      "sizeBytes": 169108
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-105 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-105.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-105.png",
+      "sizeBytes": 166384
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-106 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-106.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-106.png",
+      "sizeBytes": 176403
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-107 山口 忠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-107.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-107.png",
+      "sizeBytes": 167676
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-108 清水 潔子＆谷地 仁花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-108.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-108.png",
+      "sizeBytes": 171282
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-109 烏野高校排球部",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-109.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-109.png",
+      "sizeBytes": 198276
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-110 孤爪 研磨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-110.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-110.png",
+      "sizeBytes": 162363
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-110 孤爪 研磨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-110_p1.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-110_p1.png",
+      "sizeBytes": 138253
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-111 黒尾 鉄朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-111.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-111.png",
+      "sizeBytes": 172668
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-111 黒尾 鉄朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-111_p1.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-111_p1.png",
+      "sizeBytes": 134350
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-112 及川 徹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-112.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-112.png",
+      "sizeBytes": 141042
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-112 及川 徹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-112_p1.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-112_p1.png",
+      "sizeBytes": 137306
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-113 牛島 若利",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-113.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-113.png",
+      "sizeBytes": 159759
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-113 牛島 若利",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-113_p1.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-113_p1.png",
+      "sizeBytes": 138379
+    },
+    {
+      "series": "ハイキュー‼",
+      "seriesId": "570019",
+      "alt": "UA19ST/HIQ-1-AP01 アクションポイントカードハイキュー‼)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA19ST_HIQ-1-AP01.png?v8",
+      "localPath": "/cards/haikyu/UA19ST_HIQ-1-AP01.png",
+      "sizeBytes": 101682
+    }
+  ],
+  "failures": []
+}

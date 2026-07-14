@@ -1,0 +1,1096 @@
+{
+  "generatedAt": "2026-07-13T18:42:03.567Z",
+  "series": {
+    "seriesId": "570212",
+    "title": "仮面ライダー Vol.2",
+    "slug": "kamen-rider-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570212",
+  "totalFound": 135,
+  "downloaded": 135,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-001 仮面ライダーヴァレン チョコドンフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-001.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-001.png",
+      "sizeBytes": 202181
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-002 仮面ライダーヴァレン フラッペカスタム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-002.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-002.png",
+      "sizeBytes": 209614
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-002 仮面ライダーヴァレン フラッペカスタム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-002_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-002_p1.png",
+      "sizeBytes": 211624
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-003 仮面ライダーヴラム アラモードモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-003.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-003.png",
+      "sizeBytes": 219928
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-003 仮面ライダーヴラム アラモードモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-003_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-003_p1.png",
+      "sizeBytes": 220392
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-004 仮面ライダーヴラム プリンカスタム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-004.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-004.png",
+      "sizeBytes": 234325
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-005 仮面ライダーガヴ オーバーモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-005.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-005.png",
+      "sizeBytes": 237730
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-005 仮面ライダーガヴ オーバーモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-005_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-005_p1.png",
+      "sizeBytes": 276145
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-006 仮面ライダーガヴ ケーキングフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-006.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-006.png",
+      "sizeBytes": 218930
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-006 仮面ライダーガヴ ケーキングフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-006_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-006_p1.png",
+      "sizeBytes": 206709
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-007 仮面ライダーガヴ ザクザクチップスフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-007.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-007.png",
+      "sizeBytes": 207419
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-008 仮面ライダーガヴ ブリザードソルベフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-008.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-008.png",
+      "sizeBytes": 205076
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-009 仮面ライダーガヴ ふわマロフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-009.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-009.png",
+      "sizeBytes": 220465
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-010 仮面ライダーガヴ ポッピングミフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-010.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-010.png",
+      "sizeBytes": 185676
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-011 仮面ライダーガヴ ポッピングミフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-011.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-011.png",
+      "sizeBytes": 217594
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-012 仮面ライダーガヴ マスターモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-012.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-012.png",
+      "sizeBytes": 230857
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-012 仮面ライダーガヴ マスターモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-012_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-012_p1.png",
+      "sizeBytes": 256975
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-012 仮面ライダーガヴ マスターモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-012_p2.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-012_p2.png",
+      "sizeBytes": 238415
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-013 ゴチゾウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-013.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-013.png",
+      "sizeBytes": 168786
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-013 ゴチゾウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-013_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-013_p1.png",
+      "sizeBytes": 184354
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-014 はぴぱれ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-014.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-014.png",
+      "sizeBytes": 200811
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-015 二度と闇菓子に関わらないか……この場でオレに倒されるか！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-015.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-015.png",
+      "sizeBytes": 217725
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-016 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-016.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-016.png",
+      "sizeBytes": 197783
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-017 仮面ライダーウォズ フューチャーリングシノビ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-017.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-017.png",
+      "sizeBytes": 234488
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-018 仮面ライダーゲイツ ウィザードアーマー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-018.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-018.png",
+      "sizeBytes": 218368
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-019 仮面ライダージオウ オーマフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-019.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-019.png",
+      "sizeBytes": 250833
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-019 仮面ライダージオウ オーマフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-019_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-019_p1.png",
+      "sizeBytes": 241243
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-020 仮面ライダーゼロワン ブレイキングマンモス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-020.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-020.png",
+      "sizeBytes": 216825
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-021 仮面ライダーゼロワン ヘルライジングホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-021.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-021.png",
+      "sizeBytes": 203202
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-021 仮面ライダーゼロワン ヘルライジングホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-021_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-021_p1.png",
+      "sizeBytes": 219883
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-022 仮面ライダーパラドクス パーフェクトノックアウトゲーマー レベル99",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-022.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-022.png",
+      "sizeBytes": 232400
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-022 仮面ライダーパラドクス パーフェクトノックアウトゲーマー レベル99",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-022_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-022_p1.png",
+      "sizeBytes": 267559
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-023 仮面ライダーエグゼイド ハンターアクションゲーマー レベル5",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-023.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-023.png",
+      "sizeBytes": 210002
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-024 仮面ライダーオーズ タジャドルコンボエタニティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-024.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-024.png",
+      "sizeBytes": 235263
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-024 仮面ライダーオーズ タジャドルコンボエタニティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-024_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-024_p1.png",
+      "sizeBytes": 252491
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-025 仮面ライダーオーズ ブラカワニ コンボ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-025.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-025.png",
+      "sizeBytes": 197486
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-026 タカメダル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-026.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-026.png",
+      "sizeBytes": 234567
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-027 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-027.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-027.png",
+      "sizeBytes": 208840
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-028 仮面ライダーなでしこ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-028.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-028.png",
+      "sizeBytes": 222145
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-029 仮面ライダーフォーゼ エレキステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-029.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-029.png",
+      "sizeBytes": 206893
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-030 仮面ライダーフォーゼ コズミックステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-030.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-030.png",
+      "sizeBytes": 230365
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-030 仮面ライダーフォーゼ コズミックステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-030_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-030_p1.png",
+      "sizeBytes": 264297
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-031 仮面ライダーフォーゼ ファイヤーステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-031.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-031.png",
+      "sizeBytes": 197281
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-032 仮面ライダーフォーゼ ベースステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-032.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-032.png",
+      "sizeBytes": 217641
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-033 仮面ライダーフォーゼ ベースステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-033.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-033.png",
+      "sizeBytes": 186473
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-034 仮面ライダーフォーゼ マグネットステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-034.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-034.png",
+      "sizeBytes": 221692
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-034 仮面ライダーフォーゼ マグネットステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-034_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-034_p1.png",
+      "sizeBytes": 261961
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-035 仮面ライダーフォーゼ ロケットステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-035.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-035.png",
+      "sizeBytes": 217770
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-035 仮面ライダーフォーゼ ロケットステイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-035_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-035_p1.png",
+      "sizeBytes": 260669
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-036 仮面ライダーメテオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-036.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-036.png",
+      "sizeBytes": 194739
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-037 仮面ライダーメテオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-037.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-037.png",
+      "sizeBytes": 205664
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-038 仮面ライダーメテオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-038.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-038.png",
+      "sizeBytes": 199484
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-039 仮面ライダーメテオストーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-039.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-039.png",
+      "sizeBytes": 229037
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-039 仮面ライダーメテオストーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-039_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-039_p1.png",
+      "sizeBytes": 232481
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-040 パワーダイザー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-040.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-040.png",
+      "sizeBytes": 214943
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-041 天ノ川学園高校",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-041.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-041.png",
+      "sizeBytes": 198307
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-042 宇宙キターッ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-042.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-042.png",
+      "sizeBytes": 193101
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-043 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-043.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-043.png",
+      "sizeBytes": 179093
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-044 ライダーロケットドリルキック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-044.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-044.png",
+      "sizeBytes": 198267
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-045 仮面ライダーアクセル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-045.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-045.png",
+      "sizeBytes": 197438
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-046 仮面ライダーアクセルトライアル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-046.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-046.png",
+      "sizeBytes": 188200
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-046 仮面ライダーアクセルトライアル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-046_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-046_p1.png",
+      "sizeBytes": 258479
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-047 仮面ライダースカル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-047.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-047.png",
+      "sizeBytes": 200328
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-048 仮面ライダーＷ サイクロンジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-048.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-048.png",
+      "sizeBytes": 206247
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-048 仮面ライダーＷ サイクロンジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-048_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-048_p1.png",
+      "sizeBytes": 248580
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-049 仮面ライダーＷ サイクロンジョーカーエクストリーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-049.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-049.png",
+      "sizeBytes": 252625
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-049 仮面ライダーＷ サイクロンジョーカーエクストリーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-049_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-049_p1.png",
+      "sizeBytes": 259798
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-050 仮面ライダーＷ サイクロントリガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-050.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-050.png",
+      "sizeBytes": 206959
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-051 仮面ライダーＷ サイクロンメタル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-051.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-051.png",
+      "sizeBytes": 199143
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-052 仮面ライダーＷ ヒートジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-052.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-052.png",
+      "sizeBytes": 217880
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-053 仮面ライダーＷ ヒートトリガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-053.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-053.png",
+      "sizeBytes": 218374
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-054 仮面ライダーＷ ヒートメタル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-054.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-054.png",
+      "sizeBytes": 206255
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-055 仮面ライダーＷ ファングジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-055.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-055.png",
+      "sizeBytes": 243399
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-055 仮面ライダーＷ ファングジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-055_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-055_p1.png",
+      "sizeBytes": 227160
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-056 仮面ライダーＷ ルナジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-056.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-056.png",
+      "sizeBytes": 196952
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-057 仮面ライダーＷ ルナトリガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-057.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-057.png",
+      "sizeBytes": 202894
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-058 仮面ライダーＷ ルナメタル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-058.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-058.png",
+      "sizeBytes": 207409
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-059 メモリチェンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-059.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-059.png",
+      "sizeBytes": 217064
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-060 俺に質問するな",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-060.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-060.png",
+      "sizeBytes": 191489
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-061 さあ、おまえの罪を数えろ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-061.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-061.png",
+      "sizeBytes": 161385
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-062 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-062.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-062.png",
+      "sizeBytes": 190408
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-063 仮面ライダーディエンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-063.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-063.png",
+      "sizeBytes": 215361
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-064 仮面ライダーディケイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-064.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-064.png",
+      "sizeBytes": 214999
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-065 仮面ライダーディケイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-065.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-065.png",
+      "sizeBytes": 209222
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-066 仮面ライダーディケイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-066.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-066.png",
+      "sizeBytes": 207455
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-067 仮面ライダーディケイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-067.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-067.png",
+      "sizeBytes": 197970
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-068 仮面ライダーディケイド 激情態",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-068.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-068.png",
+      "sizeBytes": 227014
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-068 仮面ライダーディケイド 激情態",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-068_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-068_p1.png",
+      "sizeBytes": 228775
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-069 仮面ライダーディケイド コンプリートフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-069.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-069.png",
+      "sizeBytes": 231887
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-069 仮面ライダーディケイド コンプリートフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-069_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-069_p1.png",
+      "sizeBytes": 262374
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-070 仮面ライダーアギト(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-070.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-070.png",
+      "sizeBytes": 201061
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-071 仮面ライダーカブト(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-071.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-071.png",
+      "sizeBytes": 197389
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-072 仮面ライダーキバ(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-072.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-072.png",
+      "sizeBytes": 229869
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-073 仮面ライダークウガ(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-073.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-073.png",
+      "sizeBytes": 220909
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-073 仮面ライダークウガ(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-073_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-073_p1.png",
+      "sizeBytes": 249122
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-074 仮面ライダー響鬼(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-074.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-074.png",
+      "sizeBytes": 234490
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-075 仮面ライダーブレイド(DCD)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-075.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-075.png",
+      "sizeBytes": 204469
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-076 通りすがりの仮面ライダーだ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-076.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-076.png",
+      "sizeBytes": 163685
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-077 ファイナルアタックライド ディケイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-077.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-077.png",
+      "sizeBytes": 202197
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-078 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-078.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-078.png",
+      "sizeBytes": 220020
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-079 仮面ライダー電王 ウイングフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-079.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-079.png",
+      "sizeBytes": 223287
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-079 仮面ライダー電王 ウイングフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-079_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-079_p1.png",
+      "sizeBytes": 239980
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-080 ジーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-080.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-080.png",
+      "sizeBytes": 204300
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-081 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-081.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-081.png",
+      "sizeBytes": 193751
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-082 仮面ライダーカイザ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-082.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-082.png",
+      "sizeBytes": 225205
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-083 仮面ライダーファイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-083.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-083.png",
+      "sizeBytes": 207401
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-083 仮面ライダーファイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-083_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-083_p1.png",
+      "sizeBytes": 248887
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-084 仮面ライダー王蛇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-084.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-084.png",
+      "sizeBytes": 215196
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-084 仮面ライダー王蛇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-084_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-084_p1.png",
+      "sizeBytes": 249932
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-085 仮面ライダーゾルダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-085.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-085.png",
+      "sizeBytes": 205250
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-086 仮面ライダーナイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-086.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-086.png",
+      "sizeBytes": 191812
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-087 仮面ライダーナイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-087.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-087.png",
+      "sizeBytes": 217707
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-088 仮面ライダーナイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-088.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-088.png",
+      "sizeBytes": 214007
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-089 仮面ライダーナイトサバイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-089.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-089.png",
+      "sizeBytes": 225270
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-089 仮面ライダーナイトサバイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-089_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-089_p1.png",
+      "sizeBytes": 247091
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-090 仮面ライダー龍騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-090.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-090.png",
+      "sizeBytes": 181476
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-091 仮面ライダー龍騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-091.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-091.png",
+      "sizeBytes": 212956
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-092 仮面ライダー龍騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-092.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-092.png",
+      "sizeBytes": 203718
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-093 仮面ライダー龍騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-093.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-093.png",
+      "sizeBytes": 195924
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-093 仮面ライダー龍騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-093_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-093_p1.png",
+      "sizeBytes": 254464
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-094 仮面ライダー龍騎サバイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-094.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-094.png",
+      "sizeBytes": 246267
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-094 仮面ライダー龍騎サバイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-094_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-094_p1.png",
+      "sizeBytes": 251357
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-095 ダークウイング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-095.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-095.png",
+      "sizeBytes": 199090
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-096 ドラグレッダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-096.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-096.png",
+      "sizeBytes": 219832
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-097 ソードベント",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-097.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-097.png",
+      "sizeBytes": 162553
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-098 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-098.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-098.png",
+      "sizeBytes": 173690
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-099 アドベント",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-099.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-099.png",
+      "sizeBytes": 189310
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-100 ファイナルベント",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-100.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-100.png",
+      "sizeBytes": 170027
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP01 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP01.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP01.png",
+      "sizeBytes": 188548
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP01 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP01_p1.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP01_p1.png",
+      "sizeBytes": 223293
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP02 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP02.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP02.png",
+      "sizeBytes": 165533
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP03 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP03.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP03.png",
+      "sizeBytes": 169634
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP04 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP04.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP04.png",
+      "sizeBytes": 177928
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP05 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP05.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP05.png",
+      "sizeBytes": 152788
+    },
+    {
+      "series": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "alt": "EX12BT/KMR-2-AP06 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX12BT_KMR-2-AP06.png?v8",
+      "localPath": "/cards/kamen-rider-3/EX12BT_KMR-2-AP06.png",
+      "sizeBytes": 228976
+    }
+  ],
+  "failures": []
+}

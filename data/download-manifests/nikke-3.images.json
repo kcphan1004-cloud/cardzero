@@ -1,0 +1,720 @@
+{
+  "generatedAt": "2026-07-13T18:25:37.968Z",
+  "series": {
+    "seriesId": "570302",
+    "title": "勝利の女神：NIKKE",
+    "slug": "nikke-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570302",
+  "totalFound": 88,
+  "downloaded": 88,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-001 エイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-001.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-001.png",
+      "sizeBytes": 213590
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-002 ネオン：ブルーオーシャン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-002.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-002.png",
+      "sizeBytes": 218249
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-003 マリアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-003.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-003.png",
+      "sizeBytes": 231551
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-003 マリアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-003_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-003_p1.png",
+      "sizeBytes": 265005
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-004 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-004.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-004.png",
+      "sizeBytes": 208984
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-004 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-004_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-004_p1.png",
+      "sizeBytes": 254814
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-005 ラピ：レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-005.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-005.png",
+      "sizeBytes": 236410
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-005 ラピ：レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-005_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-005_p1.png",
+      "sizeBytes": 246397
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-006 バイパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-006.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-006.png",
+      "sizeBytes": 221339
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-006 バイパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-006_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-006_p1.png",
+      "sizeBytes": 242169
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-007 アニス：スパークリングサマー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-007.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-007.png",
+      "sizeBytes": 197990
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-008 アニス：スパークリングサマー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-008.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-008.png",
+      "sizeBytes": 220094
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-008 アニス：スパークリングサマー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-008_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-008_p1.png",
+      "sizeBytes": 245961
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-009 グレイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-009.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-009.png",
+      "sizeBytes": 207286
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-010 グレイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-010.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-010.png",
+      "sizeBytes": 215254
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-011 グレイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-011.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-011.png",
+      "sizeBytes": 225724
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-011 グレイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-011_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-011_p1.png",
+      "sizeBytes": 256951
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-012 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-012.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-012.png",
+      "sizeBytes": 214412
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-013 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-013.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-013.png",
+      "sizeBytes": 214382
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-014 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-014.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-014.png",
+      "sizeBytes": 216194
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-014 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-014_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-014_p1.png",
+      "sizeBytes": 261229
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-015 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-015.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-015.png",
+      "sizeBytes": 247767
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-015 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-015_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-015_p1.png",
+      "sizeBytes": 273740
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-015 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-015_p2.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-015_p2.png",
+      "sizeBytes": 303030
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-016 リトルマーメイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-016.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-016.png",
+      "sizeBytes": 212110
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-017 リトルマーメイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-017.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-017.png",
+      "sizeBytes": 252271
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-017 リトルマーメイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-017_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-017_p1.png",
+      "sizeBytes": 279170
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-018 継承",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-018.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-018.png",
+      "sizeBytes": 215656
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-019 ドロシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-019.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-019.png",
+      "sizeBytes": 238902
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-019 ドロシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-019_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-019_p1.png",
+      "sizeBytes": 247311
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-020 クラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-020.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-020.png",
+      "sizeBytes": 215502
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-021 クラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-021.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-021.png",
+      "sizeBytes": 235375
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-022 クラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-022.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-022.png",
+      "sizeBytes": 229870
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-022 クラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-022_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-022_p1.png",
+      "sizeBytes": 271556
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-023 トロンベ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-023.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-023.png",
+      "sizeBytes": 200965
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-024 紅蓮：ブラックシャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-024.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-024.png",
+      "sizeBytes": 198584
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-025 紅蓮：ブラックシャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-025.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-025.png",
+      "sizeBytes": 231526
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-025 紅蓮：ブラックシャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-025_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-025_p1.png",
+      "sizeBytes": 251941
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-026 スノーホワイト：イノセントデイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-026.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-026.png",
+      "sizeBytes": 206958
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-027 スノーホワイト：イノセントデイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-027.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-027.png",
+      "sizeBytes": 225756
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-028 スノーホワイト：イノセントデイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-028.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-028.png",
+      "sizeBytes": 225796
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-028 スノーホワイト：イノセントデイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-028_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-028_p1.png",
+      "sizeBytes": 255427
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-029 ドロシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-029.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-029.png",
+      "sizeBytes": 200102
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-029 ドロシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-029_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-029_p1.png",
+      "sizeBytes": 223441
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-030 ラプンツェル：ピュアグレイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-030.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-030.png",
+      "sizeBytes": 215842
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-031 ラプンツェル：ピュアグレイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-031.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-031.png",
+      "sizeBytes": 214728
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-031 ラプンツェル：ピュアグレイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-031_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-031_p1.png",
+      "sizeBytes": 279446
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-032 リリーバイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-032.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-032.png",
+      "sizeBytes": 205439
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-032 リリーバイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-032_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-032_p1.png",
+      "sizeBytes": 234889
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-033 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-033.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-033.png",
+      "sizeBytes": 200757
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-034 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-034.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-034.png",
+      "sizeBytes": 218482
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-035 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-035.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-035.png",
+      "sizeBytes": 228639
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-035 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-035_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-035_p1.png",
+      "sizeBytes": 289035
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-036 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-036.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-036.png",
+      "sizeBytes": 240533
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-036 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-036_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-036_p1.png",
+      "sizeBytes": 253923
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-036 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-036_p2.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-036_p2.png",
+      "sizeBytes": 238825
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-037 紅蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-037.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-037.png",
+      "sizeBytes": 229266
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-037 紅蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-037_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-037_p1.png",
+      "sizeBytes": 267475
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-038 勝利の女神ゴッデス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-038.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-038.png",
+      "sizeBytes": 223917
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-039 雪と狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-039.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-039.png",
+      "sizeBytes": 205494
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-040 アリス：ワンダーランドバニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-040.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-040.png",
+      "sizeBytes": 212491
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-040 アリス：ワンダーランドバニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-040_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-040_p1.png",
+      "sizeBytes": 229294
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-041 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-041.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-041.png",
+      "sizeBytes": 197770
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-042 ブラン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-042.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-042.png",
+      "sizeBytes": 208268
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-043 ルージュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-043.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-043.png",
+      "sizeBytes": 208456
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-043 ルージュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-043_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-043_p1.png",
+      "sizeBytes": 232068
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-044 ソーダ：トゥインクルバニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-044.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-044.png",
+      "sizeBytes": 220182
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-044 ソーダ：トゥインクルバニー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-044_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-044_p1.png",
+      "sizeBytes": 246453
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-045 エレグ：ブーム・アンド・ショック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-045.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-045.png",
+      "sizeBytes": 220958
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-045 エレグ：ブーム・アンド・ショック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-045_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-045_p1.png",
+      "sizeBytes": 240758
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-046 ティア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-046.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-046.png",
+      "sizeBytes": 201816
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-047 ナガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-047.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-047.png",
+      "sizeBytes": 204882
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-048 ドレイク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-048.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-048.png",
+      "sizeBytes": 214359
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-048 ドレイク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-048_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-048_p1.png",
+      "sizeBytes": 249498
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-049 ラプラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-049.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-049.png",
+      "sizeBytes": 211727
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-050 ラプラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-050.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-050.png",
+      "sizeBytes": 228422
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-050 ラプラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-050_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-050_p1.png",
+      "sizeBytes": 280349
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-2-051 GOLDEN COIN RUSH",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-2-051.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-2-051.png",
+      "sizeBytes": 219820
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP01.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP01.png",
+      "sizeBytes": 233001
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP01_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP01_p1.png",
+      "sizeBytes": 222572
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP02 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP02.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP02.png",
+      "sizeBytes": 220143
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP02 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP02_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP02_p1.png",
+      "sizeBytes": 204390
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP03 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP03.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP03.png",
+      "sizeBytes": 234235
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP03 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP03_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP03_p1.png",
+      "sizeBytes": 219044
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP04 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP04.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP04.png",
+      "sizeBytes": 234092
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP04 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP04_p1.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP04_p1.png",
+      "sizeBytes": 236561
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP05 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP05.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP05.png",
+      "sizeBytes": 239573
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "alt": "PC02BT/NIK-AP06 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PC02BT_NIK-AP06.png?v8",
+      "localPath": "/cards/nikke-3/PC02BT_NIK-AP06.png",
+      "sizeBytes": 186143
+    }
+  ],
+  "failures": []
+}

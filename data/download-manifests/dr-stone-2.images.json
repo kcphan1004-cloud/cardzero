@@ -1,0 +1,1088 @@
+{
+  "generatedAt": "2026-07-13T18:18:11.367Z",
+  "series": {
+    "seriesId": "570114",
+    "title": "Dr.STONE",
+    "slug": "dr-stone-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570114",
+  "totalFound": 134,
+  "downloaded": 134,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-001 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-001.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-001.png",
+      "sizeBytes": 177850
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-002 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-002.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-002.png",
+      "sizeBytes": 177542
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-003 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-003.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-003.png",
+      "sizeBytes": 198860
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-003 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-003_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-003_p1.png",
+      "sizeBytes": 245328
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-004 西園寺 羽京",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-004.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-004.png",
+      "sizeBytes": 175849
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-004 西園寺 羽京",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-004_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-004_p1.png",
+      "sizeBytes": 220807
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-005 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-005.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-005.png",
+      "sizeBytes": 175447
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-006 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-006.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-006.png",
+      "sizeBytes": 184822
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-007 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-007.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-007.png",
+      "sizeBytes": 188634
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-007 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-007_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-007_p1.png",
+      "sizeBytes": 222635
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-008 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-008.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-008.png",
+      "sizeBytes": 217330
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-008 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-008_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-008_p1.png",
+      "sizeBytes": 245655
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-009 フランソワ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-009.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-009.png",
+      "sizeBytes": 166733
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-010 フランソワ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-010.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-010.png",
+      "sizeBytes": 193461
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-011 フランソワ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-011.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-011.png",
+      "sizeBytes": 212438
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-011 フランソワ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-011_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-011_p1.png",
+      "sizeBytes": 229421
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-012 カセキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-012.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-012.png",
+      "sizeBytes": 195895
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-013 金狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-013.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-013.png",
+      "sizeBytes": 184139
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-013 金狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-013_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-013_p1.png",
+      "sizeBytes": 224509
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-014 銀狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-014.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-014.png",
+      "sizeBytes": 169714
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-015 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-015.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-015.png",
+      "sizeBytes": 175842
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-016 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-016.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-016.png",
+      "sizeBytes": 192044
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-017 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-017.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-017.png",
+      "sizeBytes": 190088
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-018 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-018.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-018.png",
+      "sizeBytes": 202151
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-019 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-019.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-019.png",
+      "sizeBytes": 202557
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-019 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-019_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-019_p1.png",
+      "sizeBytes": 226042
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-020 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-020.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-020.png",
+      "sizeBytes": 221509
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-020 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-020_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-020_p1.png",
+      "sizeBytes": 235591
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-021 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-021.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-021.png",
+      "sizeBytes": 215138
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-022 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-022.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-022.png",
+      "sizeBytes": 217808
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-022 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-022_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-022_p1.png",
+      "sizeBytes": 214750
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-023 チョーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-023.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-023.png",
+      "sizeBytes": 210471
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-024 マグマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-024.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-024.png",
+      "sizeBytes": 202935
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-025 ルリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-025.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-025.png",
+      "sizeBytes": 192448
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-026 ルリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-026.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-026.png",
+      "sizeBytes": 193772
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-027 科学船ペルセウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-027.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-027.png",
+      "sizeBytes": 200702
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-028 当たるぜ 船乗りのカンは？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-028.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-028.png",
+      "sizeBytes": 192475
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-029 STONE WARS",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-029.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-029.png",
+      "sizeBytes": 220654
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-030 石油",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-030.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-030.png",
+      "sizeBytes": 202134
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-031 パン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-031.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-031.png",
+      "sizeBytes": 216404
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-032 百物語",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-032.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-032.png",
+      "sizeBytes": 179247
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-033 ラーメン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-033.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-033.png",
+      "sizeBytes": 216070
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-034 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-034.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-034.png",
+      "sizeBytes": 174042
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-035 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-035.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-035.png",
+      "sizeBytes": 185948
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-036 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-036.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-036.png",
+      "sizeBytes": 170615
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-036 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-036_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-036_p1.png",
+      "sizeBytes": 236046
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-037 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-037.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-037.png",
+      "sizeBytes": 219715
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-037 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-037_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-037_p1.png",
+      "sizeBytes": 248212
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-038 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-038.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-038.png",
+      "sizeBytes": 179300
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-039 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-039.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-039.png",
+      "sizeBytes": 193022
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-040 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-040.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-040.png",
+      "sizeBytes": 192324
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-041 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-041.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-041.png",
+      "sizeBytes": 192987
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-042 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-042.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-042.png",
+      "sizeBytes": 169747
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-043 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-043.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-043.png",
+      "sizeBytes": 187008
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-044 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-044.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-044.png",
+      "sizeBytes": 198238
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-045 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-045.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-045.png",
+      "sizeBytes": 188097
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-046 マグマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-046.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-046.png",
+      "sizeBytes": 182423
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-047 リリアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-047.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-047.png",
+      "sizeBytes": 189259
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-048 上井 陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-048.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-048.png",
+      "sizeBytes": 188886
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-049 西園寺 羽京",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-049.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-049.png",
+      "sizeBytes": 172923
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-049 西園寺 羽京",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-049_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-049_p1.png",
+      "sizeBytes": 242902
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-050 西園寺 羽京",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-050.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-050.png",
+      "sizeBytes": 236255
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-050 西園寺 羽京",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-050_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-050_p1.png",
+      "sizeBytes": 247882
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-051 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-051.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-051.png",
+      "sizeBytes": 176848
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-052 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-052.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-052.png",
+      "sizeBytes": 196025
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-053 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-053.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-053.png",
+      "sizeBytes": 192652
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-053 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-053_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-053_p1.png",
+      "sizeBytes": 210398
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-054 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-054.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-054.png",
+      "sizeBytes": 211842
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-054 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-054_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-054_p1.png",
+      "sizeBytes": 221980
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-055 ニッキー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-055.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-055.png",
+      "sizeBytes": 205355
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-056 氷月",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-056.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-056.png",
+      "sizeBytes": 169148
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-057 氷月",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-057.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-057.png",
+      "sizeBytes": 175977
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-058 氷月",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-058.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-058.png",
+      "sizeBytes": 209097
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-058 氷月",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-058_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-058_p1.png",
+      "sizeBytes": 219072
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-059 北東西 南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-059.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-059.png",
+      "sizeBytes": 180271
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-060 紅葉 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-060.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-060.png",
+      "sizeBytes": 193865
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-060 紅葉 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-060_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-060_p1.png",
+      "sizeBytes": 225565
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-061 ケータイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-061.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-061.png",
+      "sizeBytes": 212920
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-062 司帝国",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-062.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-062.png",
+      "sizeBytes": 213088
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-063 尾張貫流槍術",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-063.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-063.png",
+      "sizeBytes": 196540
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-064 コーラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-064.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-064.png",
+      "sizeBytes": 192947
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-065 マジックショー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-065.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-065.png",
+      "sizeBytes": 204853
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-066 リューさん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-066.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-066.png",
+      "sizeBytes": 199510
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-066 リューさん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-066_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-066_p1.png",
+      "sizeBytes": 226722
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-067 霊長類最強の男",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-067.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-067.png",
+      "sizeBytes": 189477
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-068 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-068.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-068.png",
+      "sizeBytes": 173494
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-069 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-069.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-069.png",
+      "sizeBytes": 178924
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-070 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-070.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-070.png",
+      "sizeBytes": 203871
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-070 大木 大樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-070_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-070_p1.png",
+      "sizeBytes": 219861
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-071 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-071.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-071.png",
+      "sizeBytes": 167429
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-072 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-072.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-072.png",
+      "sizeBytes": 204951
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-073 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-073.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-073.png",
+      "sizeBytes": 221146
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-073 小川 杠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-073_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-073_p1.png",
+      "sizeBytes": 236293
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-074 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-074.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-074.png",
+      "sizeBytes": 181809
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-075 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-075.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-075.png",
+      "sizeBytes": 190333
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-075 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-075_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-075_p1.png",
+      "sizeBytes": 216474
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-076 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-076.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-076.png",
+      "sizeBytes": 185516
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-077 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-077.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-077.png",
+      "sizeBytes": 181663
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-077 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-077_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-077_p1.png",
+      "sizeBytes": 232941
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-078 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-078.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-078.png",
+      "sizeBytes": 235722
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-078 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-078_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-078_p1.png",
+      "sizeBytes": 265185
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-078 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-078_p2.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-078_p2.png",
+      "sizeBytes": 261419
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-079 スチームゴリラ号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-079.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-079.png",
+      "sizeBytes": 192362
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-080 スチームゴリラ号：戦車",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-080.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-080.png",
+      "sizeBytes": 210908
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-081 カセキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-081.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-081.png",
+      "sizeBytes": 180717
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-082 金狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-082.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-082.png",
+      "sizeBytes": 173423
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-083 銀狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-083.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-083.png",
+      "sizeBytes": 183557
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-084 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-084.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-084.png",
+      "sizeBytes": 196798
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-085 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-085.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-085.png",
+      "sizeBytes": 191437
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-086 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-086.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-086.png",
+      "sizeBytes": 183395
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-086 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-086_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-086_p1.png",
+      "sizeBytes": 220669
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-087 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-087.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-087.png",
+      "sizeBytes": 206560
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-087 クロム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-087_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-087_p1.png",
+      "sizeBytes": 230675
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-088 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-088.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-088.png",
+      "sizeBytes": 195871
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-089 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-089.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-089.png",
+      "sizeBytes": 194543
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-089 コハク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-089_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-089_p1.png",
+      "sizeBytes": 224361
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-090 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-090.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-090.png",
+      "sizeBytes": 173041
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-091 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-091.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-091.png",
+      "sizeBytes": 181233
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-091 スイカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-091_p1.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-091_p1.png",
+      "sizeBytes": 228518
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-092 クロスボウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-092.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-092.png",
+      "sizeBytes": 192305
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-093 水力発電所",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-093.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-093.png",
+      "sizeBytes": 203724
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-094 製鉄所",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-094.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-094.png",
+      "sizeBytes": 215304
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-095 科学王国",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-095.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-095.png",
+      "sizeBytes": 197505
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-096 科学で勝ってやんぞ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-096.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-096.png",
+      "sizeBytes": 196772
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-097 唆るぜ これは！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-097.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-097.png",
+      "sizeBytes": 182491
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-098 ダイナマイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-098.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-098.png",
+      "sizeBytes": 183459
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-099 復活液",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-099.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-099.png",
+      "sizeBytes": 192554
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-100 ロードマップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-100.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-100.png",
+      "sizeBytes": 190784
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-AP01 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-AP01.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-AP01.png",
+      "sizeBytes": 220069
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-AP02 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-AP02.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-AP02.png",
+      "sizeBytes": 218286
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-AP03 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-AP03.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-AP03.png",
+      "sizeBytes": 198001
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-AP04 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-AP04.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-AP04.png",
+      "sizeBytes": 207810
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-AP05 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-AP05.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-AP05.png",
+      "sizeBytes": 221686
+    },
+    {
+      "series": "Dr.STONE",
+      "seriesId": "570114",
+      "alt": "UA14BT/DST-1-AP06 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA14BT_DST-1-AP06.png?v8",
+      "localPath": "/cards/dr-stone-2/UA14BT_DST-1-AP06.png",
+      "sizeBytes": 226187
+    }
+  ],
+  "failures": []
+}

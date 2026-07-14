@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:56:41.446Z",
+  "series": {
+    "seriesId": "570040",
+    "title": "Re:ゼロから始める異世界生活",
+    "slug": "re-zero"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570040",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-001 パック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-001.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-001.png",
+      "sizeBytes": 119843
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-007 ラム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-007.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-007.png",
+      "sizeBytes": 124795
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-010 ラム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-010.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-010.png",
+      "sizeBytes": 128061
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-016 レム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-016.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-016.png",
+      "sizeBytes": 144909
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-022 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-022.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-022.png",
+      "sizeBytes": 146951
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-024 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-024.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-024.png",
+      "sizeBytes": 153050
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-028 フェルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-028.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-028.png",
+      "sizeBytes": 138324
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-029 E・M・T",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-029.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-029.png",
+      "sizeBytes": 133250
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-033 精霊術師",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-033.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-033.png",
+      "sizeBytes": 163132
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-101 ナツキ・スバル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-101.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-101.png",
+      "sizeBytes": 134505
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-102 ラインハルト・ヴァン・アストレア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-102.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-102.png",
+      "sizeBytes": 129875
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-103 レム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-103.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-103.png",
+      "sizeBytes": 143059
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-104 レム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-104.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-104.png",
+      "sizeBytes": 136230
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-105 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-105.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-105.png",
+      "sizeBytes": 145317
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-106 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-106.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-106.png",
+      "sizeBytes": 186807
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-107 フェルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-107.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-107.png",
+      "sizeBytes": 185771
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-108 ロズワール邸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-108.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-108.png",
+      "sizeBytes": 164894
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-109 徽章",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-109.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-109.png",
+      "sizeBytes": 140782
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-110 レム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-110.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-110.png",
+      "sizeBytes": 148193
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-110 レム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-110_p1.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-110_p1.png",
+      "sizeBytes": 162669
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-111 クルシュ＆フェリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-111.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-111.png",
+      "sizeBytes": 155326
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-111 クルシュ＆フェリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-111_p1.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-111_p1.png",
+      "sizeBytes": 226926
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-112 ベアトリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-112.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-112.png",
+      "sizeBytes": 150874
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-112 ベアトリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-112_p1.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-112_p1.png",
+      "sizeBytes": 195206
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-113 エキドナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-113.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-113.png",
+      "sizeBytes": 136325
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-113 エキドナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-113_p1.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-113_p1.png",
+      "sizeBytes": 172445
+    },
+    {
+      "series": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "alt": "UA40ST/REZ-1-AP01 アクションポイントカード(Re:ゼロから始める異世界生活)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA40ST_REZ-1-AP01.png?v8",
+      "localPath": "/cards/re-zero/UA40ST_REZ-1-AP01.png",
+      "sizeBytes": 184868
+    }
+  ],
+  "failures": []
+}

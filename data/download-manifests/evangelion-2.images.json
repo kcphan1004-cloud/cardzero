@@ -1,0 +1,1104 @@
+{
+  "generatedAt": "2026-07-13T19:03:16.813Z",
+  "series": {
+    "seriesId": "570144",
+    "title": "ヱヴァンゲリヲン新劇場版",
+    "slug": "evangelion-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570144",
+  "totalFound": 136,
+  "downloaded": 136,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-001 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-001.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-001.png",
+      "sizeBytes": 153096
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-002 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-002.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-002.png",
+      "sizeBytes": 160241
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-002 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-002_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-002_p1.png",
+      "sizeBytes": 248321
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-003 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-003.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-003.png",
+      "sizeBytes": 149291
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-003 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-003_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-003_p1.png",
+      "sizeBytes": 234095
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-004 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-004.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-004.png",
+      "sizeBytes": 137072
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-004 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-004_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-004_p1.png",
+      "sizeBytes": 269717
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-005 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-005.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-005.png",
+      "sizeBytes": 199200
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-005 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-005_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-005_p1.png",
+      "sizeBytes": 279504
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-006 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-006.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-006.png",
+      "sizeBytes": 130534
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-007 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-007.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-007.png",
+      "sizeBytes": 142950
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-008 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-008.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-008.png",
+      "sizeBytes": 165461
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-008 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-008_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-008_p1.png",
+      "sizeBytes": 247555
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-009 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-009.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-009.png",
+      "sizeBytes": 136943
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-009 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-009_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-009_p1.png",
+      "sizeBytes": 229131
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-010 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-010.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-010.png",
+      "sizeBytes": 147431
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-011 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-011.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-011.png",
+      "sizeBytes": 149622
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-012 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-012.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-012.png",
+      "sizeBytes": 164106
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-012 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-012_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-012_p1.png",
+      "sizeBytes": 231470
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-013 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-013.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-013.png",
+      "sizeBytes": 203304
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-013 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-013_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-013_p1.png",
+      "sizeBytes": 324534
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-014 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-014.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-014.png",
+      "sizeBytes": 145782
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-014 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-014_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-014_p1.png",
+      "sizeBytes": 245128
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-015 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-015.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-015.png",
+      "sizeBytes": 148320
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-016 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-016.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-016.png",
+      "sizeBytes": 155895
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-017 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-017.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-017.png",
+      "sizeBytes": 167100
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-017 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-017_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-017_p1.png",
+      "sizeBytes": 242490
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-018 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-018.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-018.png",
+      "sizeBytes": 195519
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-018 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-018_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-018_p1.png",
+      "sizeBytes": 188388
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-019 第3新東京市立第壱中学校",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-019.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-019.png",
+      "sizeBytes": 146864
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-020 あんたバカぁ？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-020.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-020.png",
+      "sizeBytes": 154730
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-021 碇君と一緒にいるとポカポカする",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-021.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-021.png",
+      "sizeBytes": 140081
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-022 君、面白いね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-022.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-022.png",
+      "sizeBytes": 141303
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-023 風呂は命の洗濯よ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-023.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-023.png",
+      "sizeBytes": 134049
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-024 アヤナミレイ（仮称）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-024.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-024.png",
+      "sizeBytes": 147483
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-025 アヤナミレイ（仮称）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-025.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-025.png",
+      "sizeBytes": 150602
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-026 アヤナミレイ（仮称）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-026.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-026.png",
+      "sizeBytes": 155903
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-026 アヤナミレイ（仮称）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-026_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-026_p1.png",
+      "sizeBytes": 274881
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-027 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-027.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-027.png",
+      "sizeBytes": 128265
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-028 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-028.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-028.png",
+      "sizeBytes": 149818
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-029 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-029.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-029.png",
+      "sizeBytes": 150933
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-030 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-030.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-030.png",
+      "sizeBytes": 121672
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-031 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-031.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-031.png",
+      "sizeBytes": 151138
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-032 碇 ゲンドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-032.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-032.png",
+      "sizeBytes": 148704
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-033 エヴァンゲリオン初号機（ガイウスの槍）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-033.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-033.png",
+      "sizeBytes": 204072
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-033 エヴァンゲリオン初号機（ガイウスの槍）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-033_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-033_p1.png",
+      "sizeBytes": 229603
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-034 エヴァンゲリオン第13号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-034.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-034.png",
+      "sizeBytes": 188262
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-034 エヴァンゲリオン第13号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-034_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-034_p1.png",
+      "sizeBytes": 262275
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-035 EVANGELION Mark.06",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-035.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-035.png",
+      "sizeBytes": 150546
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-036 EVANGELION Mark.09",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-036.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-036.png",
+      "sizeBytes": 158308
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-037 渚 カヲル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-037.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-037.png",
+      "sizeBytes": 153908
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-038 渚 カヲル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-038.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-038.png",
+      "sizeBytes": 156929
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-039 渚 カヲル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-039.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-039.png",
+      "sizeBytes": 210881
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-039 渚 カヲル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-039_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-039_p1.png",
+      "sizeBytes": 240326
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-039 渚 カヲル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-039_p2.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-039_p2.png",
+      "sizeBytes": 271356
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-040 赤木 リツコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-040.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-040.png",
+      "sizeBytes": 142089
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-041 エヴァンゲリオン改2号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-041.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-041.png",
+      "sizeBytes": 156827
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-042 エヴァンゲリオン改8号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-042.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-042.png",
+      "sizeBytes": 212056
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-042 エヴァンゲリオン改8号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-042_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-042_p1.png",
+      "sizeBytes": 235301
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-043 エヴァンゲリオン新2号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-043.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-043.png",
+      "sizeBytes": 205203
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-043 エヴァンゲリオン新2号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-043_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-043_p1.png",
+      "sizeBytes": 253689
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-044 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-044.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-044.png",
+      "sizeBytes": 140599
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-045 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-045.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-045.png",
+      "sizeBytes": 152160
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-046 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-046.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-046.png",
+      "sizeBytes": 132608
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-046 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-046_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-046_p1.png",
+      "sizeBytes": 213834
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-047 北上 ミドリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-047.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-047.png",
+      "sizeBytes": 155545
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-048 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-048.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-048.png",
+      "sizeBytes": 151915
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-049 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-049.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-049.png",
+      "sizeBytes": 143201
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-050 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-050.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-050.png",
+      "sizeBytes": 142452
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-051 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-051.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-051.png",
+      "sizeBytes": 131648
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-052 鈴原 サクラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-052.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-052.png",
+      "sizeBytes": 146023
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-053 AAAヴンダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-053.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-053.png",
+      "sizeBytes": 148932
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-053 AAAヴンダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-053_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-053_p1.png",
+      "sizeBytes": 235125
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-054 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-054.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-054.png",
+      "sizeBytes": 147877
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-055 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-055.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-055.png",
+      "sizeBytes": 159957
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-056 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-056.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-056.png",
+      "sizeBytes": 157919
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-057 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-057.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-057.png",
+      "sizeBytes": 145528
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-058 リリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-058.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-058.png",
+      "sizeBytes": 173968
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-059 いいよ、キミとの音…",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-059.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-059.png",
+      "sizeBytes": 133181
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-060 エヴァにだけは乗らんでくださいよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-060.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-060.png",
+      "sizeBytes": 112340
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-061 仰せのとおりに――お姫様！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-061.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-061.png",
+      "sizeBytes": 137159
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-062 おかえり、碇シンジ君。待っていたよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-062.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-062.png",
+      "sizeBytes": 101841
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-063 ガイウスの槍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-063.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-063.png",
+      "sizeBytes": 155434
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-064 合点承知",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-064.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-064.png",
+      "sizeBytes": 133254
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-065 絶望の槍ロンギヌス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-065.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-065.png",
+      "sizeBytes": 149943
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-066 ふん。あれじゃ――バカじゃなく…ガキね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-066.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-066.png",
+      "sizeBytes": 140008
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-067 無茶は承知",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-067.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-067.png",
+      "sizeBytes": 99250
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-068 赤木 リツコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-068.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-068.png",
+      "sizeBytes": 145675
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-069 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-069.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-069.png",
+      "sizeBytes": 160526
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-070 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-070.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-070.png",
+      "sizeBytes": 159665
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-071 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-071.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-071.png",
+      "sizeBytes": 160117
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-072 碇 ゲンドウ＆冬月 コウゾウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-072.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-072.png",
+      "sizeBytes": 153205
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-073 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-073.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-073.png",
+      "sizeBytes": 160589
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-074 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-074.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-074.png",
+      "sizeBytes": 147741
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-075 碇 シンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-075.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-075.png",
+      "sizeBytes": 144326
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-076 伊吹 マヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-076.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-076.png",
+      "sizeBytes": 152001
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-077 エヴァンゲリオン仮設5号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-077.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-077.png",
+      "sizeBytes": 154166
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-078 エヴァンゲリオン3号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-078.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-078.png",
+      "sizeBytes": 151817
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-079 エヴァンゲリオン初号機 疑似シン化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-079.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-079.png",
+      "sizeBytes": 204116
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-079 エヴァンゲリオン初号機 疑似シン化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-079_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-079_p1.png",
+      "sizeBytes": 205628
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-079 エヴァンゲリオン初号機 疑似シン化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-079_p2.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-079_p2.png",
+      "sizeBytes": 1211810
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-079 エヴァンゲリオン初号機 疑似シン化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-079_p3.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-079_p3.png",
+      "sizeBytes": 273849
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-080 エヴァンゲリオン零号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-080.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-080.png",
+      "sizeBytes": 179839
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-080 エヴァンゲリオン零号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-080_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-080_p1.png",
+      "sizeBytes": 237436
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-080 エヴァンゲリオン零号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-080_p2.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-080_p2.png",
+      "sizeBytes": 259002
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-081 エヴァンゲリオン2号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-081.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-081.png",
+      "sizeBytes": 192419
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-081 エヴァンゲリオン2号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-081_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-081_p1.png",
+      "sizeBytes": 222660
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-082 エヴァンゲリオン2号機 獣化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-082.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-082.png",
+      "sizeBytes": 205739
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-082 エヴァンゲリオン2号機 獣化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-082_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-082_p1.png",
+      "sizeBytes": 225321
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-083 加持 リョウジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-083.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-083.png",
+      "sizeBytes": 153547
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-084 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-084.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-084.png",
+      "sizeBytes": 137692
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-085 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-085.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-085.png",
+      "sizeBytes": 154021
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-085 葛󠄀城 ミサト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-085_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-085_p1.png",
+      "sizeBytes": 255989
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-086 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-086.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-086.png",
+      "sizeBytes": 115845
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-087 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-087.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-087.png",
+      "sizeBytes": 162726
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-088 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-088.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-088.png",
+      "sizeBytes": 157086
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-089 ペンペン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-089.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-089.png",
+      "sizeBytes": 143305
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-090 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-090.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-090.png",
+      "sizeBytes": 156963
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-091 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-091.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-091.png",
+      "sizeBytes": 156447
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-092 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-092.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-092.png",
+      "sizeBytes": 172242
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-093 作戦室（ヤシマ作戦）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-093.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-093.png",
+      "sizeBytes": 172464
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-094 綾波！手を・・・　来い！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-094.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-094.png",
+      "sizeBytes": 145429
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-095 大出力型第2次試作自走460mm陽電子砲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-095.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-095.png",
+      "sizeBytes": 155418
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-096 ダミーシステム起動",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-096.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-096.png",
+      "sizeBytes": 133579
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-097 誰かと話すって心地いいのね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-097.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-097.png",
+      "sizeBytes": 148068
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-098 超電磁洋弓銃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-098.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-098.png",
+      "sizeBytes": 157015
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-099 身…を…捨てて…こそ…浮かぶ…瀬も…あれっ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-099.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-099.png",
+      "sizeBytes": 121367
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-100 笑えばいいと思うよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-100.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-100.png",
+      "sizeBytes": 118580
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP01 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP01.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP01.png",
+      "sizeBytes": 180175
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP01 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP01_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP01_p1.png",
+      "sizeBytes": 190505
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP02 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP02.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP02.png",
+      "sizeBytes": 213960
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP02 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP02_p1.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP02_p1.png",
+      "sizeBytes": 183323
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP03 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP03.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP03.png",
+      "sizeBytes": 144954
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP04 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP04.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP04.png",
+      "sizeBytes": 178002
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP05 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP05.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP05.png",
+      "sizeBytes": 238153
+    },
+    {
+      "series": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "alt": "UA44BT/EVA-1-AP06 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA44BT_EVA-1-AP06.png?v8",
+      "localPath": "/cards/evangelion-2/UA44BT_EVA-1-AP06.png",
+      "sizeBytes": 115521
+    }
+  ],
+  "failures": []
+}

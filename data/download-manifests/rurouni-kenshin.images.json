@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:58:09.832Z",
+  "series": {
+    "seriesId": "570041",
+    "title": "るろうに剣心 －明治剣客浪漫譚－",
+    "slug": "rurouni-kenshin"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570041",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-068 神谷 薫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-068.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-068.png",
+      "sizeBytes": 193720
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-070 神谷 薫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-070.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-070.png",
+      "sizeBytes": 187866
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-074 相楽 左之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-074.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-074.png",
+      "sizeBytes": 181952
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-078 三条 燕",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-078.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-078.png",
+      "sizeBytes": 197710
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-080 高荷 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-080.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-080.png",
+      "sizeBytes": 178336
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-081 高荷 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-081.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-081.png",
+      "sizeBytes": 181687
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-085 緋村 剣心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-085.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-085.png",
+      "sizeBytes": 197039
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-096 不殺の誓い",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-096.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-096.png",
+      "sizeBytes": 190952
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-100 龍槌閃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-100.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-100.png",
+      "sizeBytes": 194243
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-101 神谷 薫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-101.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-101.png",
+      "sizeBytes": 255876
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-102 斎藤 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-102.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-102.png",
+      "sizeBytes": 180726
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-103 相楽 左之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-103.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-103.png",
+      "sizeBytes": 200394
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-104 関原 妙＆三条 燕",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-104.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-104.png",
+      "sizeBytes": 201083
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-105 緋村 剣心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-105.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-105.png",
+      "sizeBytes": 187806
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-106 緋村 剣心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-106.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-106.png",
+      "sizeBytes": 252057
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-107 明神 弥彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-107.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-107.png",
+      "sizeBytes": 194466
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-108 神谷道場",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-108.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-108.png",
+      "sizeBytes": 188780
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-109 逆刃刀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-109.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-109.png",
+      "sizeBytes": 191305
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-110 四乃森 蒼紫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-110.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-110.png",
+      "sizeBytes": 183763
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-110 四乃森 蒼紫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-110_p1.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-110_p1.png",
+      "sizeBytes": 218735
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-111 比古 清十郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-111.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-111.png",
+      "sizeBytes": 191482
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-111 比古 清十郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-111_p1.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-111_p1.png",
+      "sizeBytes": 202954
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-112 志々雄 真実",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-112.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-112.png",
+      "sizeBytes": 190452
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-112 志々雄 真実",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-112_p1.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-112_p1.png",
+      "sizeBytes": 196353
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-113 斎藤 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-113.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-113.png",
+      "sizeBytes": 174384
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-113 斎藤 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-113_p1.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-113_p1.png",
+      "sizeBytes": 180079
+    },
+    {
+      "series": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "alt": "UA41ST/RNK-1-AP01 アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA41ST_RNK-1-AP01.png?v8",
+      "localPath": "/cards/rurouni-kenshin/UA41ST_RNK-1-AP01.png",
+      "sizeBytes": 197268
+    }
+  ],
+  "failures": []
+}

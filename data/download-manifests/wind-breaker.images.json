@@ -1,0 +1,944 @@
+{
+  "generatedAt": "2026-07-13T18:55:19.126Z",
+  "series": {
+    "seriesId": "570138",
+    "title": "WIND BREAKER",
+    "slug": "wind-breaker"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570138",
+  "totalFound": 116,
+  "downloaded": 116,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-001 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-001.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-001.png",
+      "sizeBytes": 186118
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-002 橘 ことは",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-002.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-002.png",
+      "sizeBytes": 184090
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-003 有馬 雪成",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-003.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-003.png",
+      "sizeBytes": 180409
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-004 鹿沼 稔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-004.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-004.png",
+      "sizeBytes": 176616
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-005 佐狐 浩太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-005.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-005.png",
+      "sizeBytes": 170970
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-006 佐狐 浩太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-006.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-006.png",
+      "sizeBytes": 175039
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-007 佐狐 浩太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-007.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-007.png",
+      "sizeBytes": 178955
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-008 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-008.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-008.png",
+      "sizeBytes": 177978
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-009 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-009.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-009.png",
+      "sizeBytes": 190695
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-010 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-010.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-010.png",
+      "sizeBytes": 179434
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-011 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-011.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-011.png",
+      "sizeBytes": 180640
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-011 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-011_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-011_p1.png",
+      "sizeBytes": 204637
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-012 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-012.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-012.png",
+      "sizeBytes": 218895
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-012 十亀 条",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-012_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-012_p1.png",
+      "sizeBytes": 212991
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-013 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-013.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-013.png",
+      "sizeBytes": 171975
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-014 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-014.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-014.png",
+      "sizeBytes": 176861
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-015 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-015.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-015.png",
+      "sizeBytes": 185868
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-016 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-016.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-016.png",
+      "sizeBytes": 180762
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-016 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-016_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-016_p1.png",
+      "sizeBytes": 209854
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-017 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-017.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-017.png",
+      "sizeBytes": 227384
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-017 兎耳山 丁子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-017_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-017_p1.png",
+      "sizeBytes": 225137
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-018 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-018.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-018.png",
+      "sizeBytes": 181121
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-019 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-019.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-019.png",
+      "sizeBytes": 180988
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-020 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-020.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-020.png",
+      "sizeBytes": 159503
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-020 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-020_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-020_p1.png",
+      "sizeBytes": 198223
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-021 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-021.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-021.png",
+      "sizeBytes": 211070
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-021 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-021_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-021_p1.png",
+      "sizeBytes": 205624
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-022 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-022.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-022.png",
+      "sizeBytes": 184149
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-023 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-023.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-023.png",
+      "sizeBytes": 184848
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-024 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-024.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-024.png",
+      "sizeBytes": 226041
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-024 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-024_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-024_p1.png",
+      "sizeBytes": 222984
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-025 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-025.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-025.png",
+      "sizeBytes": 165726
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-026 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-026.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-026.png",
+      "sizeBytes": 192235
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-026 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-026_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-026_p1.png",
+      "sizeBytes": 214851
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-027 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-027.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-027.png",
+      "sizeBytes": 163773
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-028 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-028.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-028.png",
+      "sizeBytes": 179592
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-029 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-029.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-029.png",
+      "sizeBytes": 219463
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-029 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-029_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-029_p1.png",
+      "sizeBytes": 217230
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-030 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-030.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-030.png",
+      "sizeBytes": 181052
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-030 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-030_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-030_p1.png",
+      "sizeBytes": 218169
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-031 柊 登馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-031.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-031.png",
+      "sizeBytes": 176300
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-032 柊 登馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-032.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-032.png",
+      "sizeBytes": 175532
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-033 オリオン座",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-033.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-033.png",
+      "sizeBytes": 192724
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-034 喫茶ポトス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-034.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-034.png",
+      "sizeBytes": 172928
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-035 オレは100％負けない",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-035.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-035.png",
+      "sizeBytes": 179462
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-036 クズがいていい場所じゃない",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-036.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-036.png",
+      "sizeBytes": 189764
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-037 ケンカは",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-037.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-037.png",
+      "sizeBytes": 173024
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-038 今度は一緒に答えを探そう",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-038.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-038.png",
+      "sizeBytes": 178040
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-039 自分を曲げたりしねぇ！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-039.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-039.png",
+      "sizeBytes": 161903
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-040 全部いらない",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-040.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-040.png",
+      "sizeBytes": 190665
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-041 力の絶対信仰",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-041.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-041.png",
+      "sizeBytes": 217046
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-042 橘 ことは",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-042.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-042.png",
+      "sizeBytes": 169744
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-043 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-043.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-043.png",
+      "sizeBytes": 180009
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-044 梅宮 一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-044.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-044.png",
+      "sizeBytes": 189891
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-045 杏西 雅紀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-045.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-045.png",
+      "sizeBytes": 180834
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-046 榎本 健史",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-046.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-046.png",
+      "sizeBytes": 175284
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-047 梶 蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-047.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-047.png",
+      "sizeBytes": 190966
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-048 梶 蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-048.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-048.png",
+      "sizeBytes": 233171
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-048 梶 蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-048_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-048_p1.png",
+      "sizeBytes": 225443
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-049 桐生 三輝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-049.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-049.png",
+      "sizeBytes": 176550
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-050 桐生 三輝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-050.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-050.png",
+      "sizeBytes": 177599
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-050 桐生 三輝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-050_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-050_p1.png",
+      "sizeBytes": 213787
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-051 楠見 結斗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-051.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-051.png",
+      "sizeBytes": 184985
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-052 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-052.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-052.png",
+      "sizeBytes": 174296
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-053 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-053.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-053.png",
+      "sizeBytes": 179490
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-053 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-053_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-053_p1.png",
+      "sizeBytes": 206252
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-054 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-054.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-054.png",
+      "sizeBytes": 186384
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-055 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-055.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-055.png",
+      "sizeBytes": 210143
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-055 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-055_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-055_p1.png",
+      "sizeBytes": 213292
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-055 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-055_p2.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-055_p2.png",
+      "sizeBytes": 236299
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-056 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-056.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-056.png",
+      "sizeBytes": 172254
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-057 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-057.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-057.png",
+      "sizeBytes": 191618
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-058 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-058.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-058.png",
+      "sizeBytes": 195350
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-059 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-059.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-059.png",
+      "sizeBytes": 180037
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-059 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-059_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-059_p1.png",
+      "sizeBytes": 206778
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-060 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-060.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-060.png",
+      "sizeBytes": 218949
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-060 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-060_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-060_p1.png",
+      "sizeBytes": 226182
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-061 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-061.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-061.png",
+      "sizeBytes": 228603
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-061 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-061_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-061_p1.png",
+      "sizeBytes": 227054
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-062 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-062.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-062.png",
+      "sizeBytes": 175612
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-063 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-063.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-063.png",
+      "sizeBytes": 170702
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-064 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-064.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-064.png",
+      "sizeBytes": 176441
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-065 杉下 京太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-065.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-065.png",
+      "sizeBytes": 178618
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-066 柘浦 大河",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-066.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-066.png",
+      "sizeBytes": 164267
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-067 柘浦 大河",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-067.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-067.png",
+      "sizeBytes": 172315
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-067 柘浦 大河",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-067_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-067_p1.png",
+      "sizeBytes": 189077
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-068 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-068.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-068.png",
+      "sizeBytes": 175023
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-069 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-069.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-069.png",
+      "sizeBytes": 178339
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-070 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-070.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-070.png",
+      "sizeBytes": 167072
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-070 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-070_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-070_p1.png",
+      "sizeBytes": 222908
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-071 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-071.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-071.png",
+      "sizeBytes": 229327
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-071 楡井 秋彦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-071_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-071_p1.png",
+      "sizeBytes": 224488
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-072 柊 登馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-072.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-072.png",
+      "sizeBytes": 157195
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-073 柊 登馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-073.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-073.png",
+      "sizeBytes": 168676
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-074 風鈴高校",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-074.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-074.png",
+      "sizeBytes": 206022
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-075 大人の階段上ろうか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-075.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-075.png",
+      "sizeBytes": 179802
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-076 ケンカでてっぺん獲りに来たんだぜ？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-076.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-076.png",
+      "sizeBytes": 186966
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-077 つらかったでちゅねぇ…ボクちゃん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-077.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-077.png",
+      "sizeBytes": 179337
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-078 ボウフウリンが粛清する！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-078.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-078.png",
+      "sizeBytes": 185109
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-079 街の見回り",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-079.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-079.png",
+      "sizeBytes": 194450
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-080 めちゃくちゃかっこいいじゃねぇかあ！！！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-080.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-080.png",
+      "sizeBytes": 193845
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP01 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP01.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP01.png",
+      "sizeBytes": 122337
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP01 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP01_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP01_p1.png",
+      "sizeBytes": 165483
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP02 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP02.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP02.png",
+      "sizeBytes": 140234
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP02 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP02_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP02_p1.png",
+      "sizeBytes": 179313
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP03 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP03.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP03.png",
+      "sizeBytes": 109652
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP03 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP03_p1.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP03_p1.png",
+      "sizeBytes": 172090
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP04 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP04.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP04.png",
+      "sizeBytes": 137890
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP05 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP05.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP05.png",
+      "sizeBytes": 126402
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP06 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP06.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP06.png",
+      "sizeBytes": 146500
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP07 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP07.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP07.png",
+      "sizeBytes": 181332
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP08 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP08.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP08.png",
+      "sizeBytes": 168770
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP09 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP09.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP09.png",
+      "sizeBytes": 170428
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP10 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP10.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP10.png",
+      "sizeBytes": 199719
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP11 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP11.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP11.png",
+      "sizeBytes": 191374
+    },
+    {
+      "series": "WIND BREAKER",
+      "seriesId": "570138",
+      "alt": "UA38BT/WBK-1-AP12 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA38BT_WBK-1-AP12.png?v8",
+      "localPath": "/cards/wind-breaker/UA38BT_WBK-1-AP12.png",
+      "sizeBytes": 139432
+    }
+  ],
+  "failures": []
+}

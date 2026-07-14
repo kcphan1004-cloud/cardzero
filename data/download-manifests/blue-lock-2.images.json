@@ -1,0 +1,1088 @@
+{
+  "generatedAt": "2026-07-13T18:15:23.390Z",
+  "series": {
+    "seriesId": "570112",
+    "title": "ブルーロック",
+    "slug": "blue-lock-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570112",
+  "totalFound": 134,
+  "downloaded": 134,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-001 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-001.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-001.png",
+      "sizeBytes": 202881
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-002 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-002.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-002.png",
+      "sizeBytes": 193986
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-003 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-003.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-003.png",
+      "sizeBytes": 207830
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-003 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-003_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-003_p1.png",
+      "sizeBytes": 220635
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-004 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-004.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-004.png",
+      "sizeBytes": 197283
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-004 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-004_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-004_p1.png",
+      "sizeBytes": 214665
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-005 絵心 甚八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-005.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-005.png",
+      "sizeBytes": 200025
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-006 大川 響鬼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-006.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-006.png",
+      "sizeBytes": 194389
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-007 剣城 斬鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-007.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-007.png",
+      "sizeBytes": 195893
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-008 剣城 斬鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-008.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-008.png",
+      "sizeBytes": 194318
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-009 剣城 斬鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-009.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-009.png",
+      "sizeBytes": 204321
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-009 剣城 斬鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-009_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-009_p1.png",
+      "sizeBytes": 229825
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-010 帝襟 アンリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-010.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-010.png",
+      "sizeBytes": 193774
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-011 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-011.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-011.png",
+      "sizeBytes": 194868
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-012 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-012.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-012.png",
+      "sizeBytes": 214568
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-013 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-013.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-013.png",
+      "sizeBytes": 206005
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-014 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-014.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-014.png",
+      "sizeBytes": 217148
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-014 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-014_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-014_p1.png",
+      "sizeBytes": 216331
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-015 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-015.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-015.png",
+      "sizeBytes": 211224
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-015 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-015_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-015_p1.png",
+      "sizeBytes": 212913
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-016 成早 朝日",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-016.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-016.png",
+      "sizeBytes": 206913
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-017 成早 朝日",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-017.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-017.png",
+      "sizeBytes": 197080
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-018 二子 一揮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-018.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-018.png",
+      "sizeBytes": 184911
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-018 二子 一揮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-018_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-018_p1.png",
+      "sizeBytes": 209546
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-019 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-019.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-019.png",
+      "sizeBytes": 197295
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-020 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-020.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-020.png",
+      "sizeBytes": 196836
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-021 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-021.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-021.png",
+      "sizeBytes": 207263
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-022 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-022.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-022.png",
+      "sizeBytes": 205564
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-022 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-022_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-022_p1.png",
+      "sizeBytes": 222252
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-023 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-023.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-023.png",
+      "sizeBytes": 193950
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-024 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-024.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-024.png",
+      "sizeBytes": 197855
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-025 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-025.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-025.png",
+      "sizeBytes": 190227
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-025 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-025_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-025_p1.png",
+      "sizeBytes": 225640
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-026 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-026.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-026.png",
+      "sizeBytes": 197158
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-026 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-026_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-026_p1.png",
+      "sizeBytes": 216829
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-027 鰐間兄弟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-027.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-027.png",
+      "sizeBytes": 197856
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-028 食堂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-028.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-028.png",
+      "sizeBytes": 190940
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-029",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-029.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-029.png",
+      "sizeBytes": 188378
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-030 悪役王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-030.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-030.png",
+      "sizeBytes": 206973
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-031",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-031.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-031.png",
+      "sizeBytes": 203648
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-031",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-031_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-031_p1.png",
+      "sizeBytes": 206942
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-032 これが俺の",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-032.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-032.png",
+      "sizeBytes": 195935
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-033 サーロインステーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-033.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-033.png",
+      "sizeBytes": 184037
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-034 天才との出会い",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-034.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-034.png",
+      "sizeBytes": 175556
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-035 絵心 甚八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-035.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-035.png",
+      "sizeBytes": 197061
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-036 帝襟 アンリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-036.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-036.png",
+      "sizeBytes": 213909
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-037 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-037.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-037.png",
+      "sizeBytes": 188900
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-038 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-038.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-038.png",
+      "sizeBytes": 201880
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-039 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-039.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-039.png",
+      "sizeBytes": 184508
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-039 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-039_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-039_p1.png",
+      "sizeBytes": 182995
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-040 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-040.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-040.png",
+      "sizeBytes": 180011
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-041 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-041.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-041.png",
+      "sizeBytes": 212902
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-042 伊右衛門 送人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-042.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-042.png",
+      "sizeBytes": 190120
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-043 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-043.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-043.png",
+      "sizeBytes": 190845
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-044 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-044.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-044.png",
+      "sizeBytes": 182159
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-045 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-045.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-045.png",
+      "sizeBytes": 203758
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-045 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-045_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-045_p1.png",
+      "sizeBytes": 223020
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-046 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-046.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-046.png",
+      "sizeBytes": 178372
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-046 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-046_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-046_p1.png",
+      "sizeBytes": 204975
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-046 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-046_p2.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-046_p2.png",
+      "sizeBytes": 187150
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-047 我牙丸 吟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-047.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-047.png",
+      "sizeBytes": 190760
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-048 久遠 渉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-048.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-048.png",
+      "sizeBytes": 178984
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-049 久遠 渉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-049.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-049.png",
+      "sizeBytes": 182099
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-050 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-050.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-050.png",
+      "sizeBytes": 176584
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-051 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-051.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-051.png",
+      "sizeBytes": 178804
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-051 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-051_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-051_p1.png",
+      "sizeBytes": 236871
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-052 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-052.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-052.png",
+      "sizeBytes": 198336
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-053 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-053.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-053.png",
+      "sizeBytes": 186202
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-054 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-054.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-054.png",
+      "sizeBytes": 217429
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-054 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-054_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-054_p1.png",
+      "sizeBytes": 240665
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-055 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-055.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-055.png",
+      "sizeBytes": 204798
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-055 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-055_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-055_p1.png",
+      "sizeBytes": 212556
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-056 成早 朝日",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-056.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-056.png",
+      "sizeBytes": 188039
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-057 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-057.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-057.png",
+      "sizeBytes": 182058
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-058 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-058.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-058.png",
+      "sizeBytes": 204930
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-059 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-059.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-059.png",
+      "sizeBytes": 173937
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-059 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-059_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-059_p1.png",
+      "sizeBytes": 185831
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-060 雷市 陣吾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-060.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-060.png",
+      "sizeBytes": 200944
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-061 青い監獄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-061.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-061.png",
+      "sizeBytes": 182113
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-062 ゴールの匂い",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-062.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-062.png",
+      "sizeBytes": 186928
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-063 成功の方程式",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-063.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-063.png",
+      "sizeBytes": 188888
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-064 サーロインステーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-064.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-064.png",
+      "sizeBytes": 171477
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-065 直撃蹴弾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-065.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-065.png",
+      "sizeBytes": 189342
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-065 直撃蹴弾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-065_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-065_p1.png",
+      "sizeBytes": 190309
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-066 楽しくなってきた♪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-066.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-066.png",
+      "sizeBytes": 199452
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-067 次俺9作戦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-067.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-067.png",
+      "sizeBytes": 175233
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-068 蟻生 十兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-068.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-068.png",
+      "sizeBytes": 193538
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-069 蟻生 十兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-069.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-069.png",
+      "sizeBytes": 202564
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-070 蟻生 十兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-070.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-070.png",
+      "sizeBytes": 192668
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-070 蟻生 十兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-070_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-070_p1.png",
+      "sizeBytes": 229367
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-071 糸師 冴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-071.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-071.png",
+      "sizeBytes": 202186
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-071 糸師 冴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-071_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-071_p1.png",
+      "sizeBytes": 221617
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-072 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-072.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-072.png",
+      "sizeBytes": 201807
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-073 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-073.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-073.png",
+      "sizeBytes": 187662
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-073 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-073_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-073_p1.png",
+      "sizeBytes": 214771
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-074 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-074.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-074.png",
+      "sizeBytes": 210503
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-074 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-074_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-074_p1.png",
+      "sizeBytes": 205230
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-075 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-075.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-075.png",
+      "sizeBytes": 177849
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-075 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-075_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-075_p1.png",
+      "sizeBytes": 196133
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-076 絵心 甚八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-076.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-076.png",
+      "sizeBytes": 192144
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-077 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-077.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-077.png",
+      "sizeBytes": 177023
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-078 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-078.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-078.png",
+      "sizeBytes": 184371
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-079 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-079.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-079.png",
+      "sizeBytes": 174479
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-079 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-079_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-079_p1.png",
+      "sizeBytes": 189107
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-080 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-080.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-080.png",
+      "sizeBytes": 198549
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-081 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-081.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-081.png",
+      "sizeBytes": 184452
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-082 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-082.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-082.png",
+      "sizeBytes": 180049
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-083 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-083.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-083.png",
+      "sizeBytes": 185041
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-083 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-083_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-083_p1.png",
+      "sizeBytes": 202182
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-084 帝襟 アンリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-084.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-084.png",
+      "sizeBytes": 194327
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-085 時光 青志",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-085.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-085.png",
+      "sizeBytes": 191702
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-086 時光 青志",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-086.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-086.png",
+      "sizeBytes": 189668
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-087 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-087.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-087.png",
+      "sizeBytes": 188647
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-088 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-088.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-088.png",
+      "sizeBytes": 197851
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-089 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-089.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-089.png",
+      "sizeBytes": 196181
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-090 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-090.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-090.png",
+      "sizeBytes": 215572
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-090 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-090_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-090_p1.png",
+      "sizeBytes": 214572
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-091 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-091.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-091.png",
+      "sizeBytes": 196609
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-092 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-092.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-092.png",
+      "sizeBytes": 198158
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-093 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-093.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-093.png",
+      "sizeBytes": 185197
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-094 戦場",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-094.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-094.png",
+      "sizeBytes": 198427
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-095 三者融合",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-095.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-095.png",
+      "sizeBytes": 199285
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-096 オシャポーズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-096.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-096.png",
+      "sizeBytes": 183481
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-097 組もうぜ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-097.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-097.png",
+      "sizeBytes": 182734
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-098 サーロインステーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-098.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-098.png",
+      "sizeBytes": 168827
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-099 無減速ドリブル!!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-099.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-099.png",
+      "sizeBytes": 181313
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-100 縦直下回転直接弾!!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-100.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-100.png",
+      "sizeBytes": 193332
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-100 縦直下回転直接弾!!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-100_p1.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-100_p1.png",
+      "sizeBytes": 193114
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-AP01 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-AP01.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-AP01.png",
+      "sizeBytes": 144262
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-AP02 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-AP02.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-AP02.png",
+      "sizeBytes": 143609
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-AP03 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-AP03.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-AP03.png",
+      "sizeBytes": 124123
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-AP04 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-AP04.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-AP04.png",
+      "sizeBytes": 154671
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-AP05 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-AP05.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-AP05.png",
+      "sizeBytes": 158026
+    },
+    {
+      "series": "ブルーロック",
+      "seriesId": "570112",
+      "alt": "UA12BT/BLK-1-AP06 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA12BT_BLK-1-AP06.png?v8",
+      "localPath": "/cards/blue-lock-2/UA12BT_BLK-1-AP06.png",
+      "sizeBytes": 149260
+    }
+  ],
+  "failures": []
+}

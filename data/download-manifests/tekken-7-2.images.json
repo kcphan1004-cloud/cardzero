@@ -1,0 +1,1088 @@
+{
+  "generatedAt": "2026-07-13T18:16:47.746Z",
+  "series": {
+    "seriesId": "570113",
+    "title": "鉄拳7",
+    "slug": "tekken-7-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570113",
+  "totalFound": 134,
+  "downloaded": 134,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-001 アーマーキング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-001.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-001.png",
+      "sizeBytes": 193106
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-001 アーマーキング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-001_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-001_p1.png",
+      "sizeBytes": 262167
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-002 エディ・ゴルド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-002.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-002.png",
+      "sizeBytes": 185883
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-003 巌竜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-003.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-003.png",
+      "sizeBytes": 197155
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-004 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-004.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-004.png",
+      "sizeBytes": 177385
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-005 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-005.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-005.png",
+      "sizeBytes": 194708
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-006 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-006.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-006.png",
+      "sizeBytes": 177731
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-006 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-006_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-006_p1.png",
+      "sizeBytes": 204528
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-007 クレイグ・マードック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-007.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-007.png",
+      "sizeBytes": 204445
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-008 シャヒーン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-008.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-008.png",
+      "sizeBytes": 179005
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-009 セルゲイ・ドラグノフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-009.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-009.png",
+      "sizeBytes": 184663
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-010 ポール・フェニックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-010.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-010.png",
+      "sizeBytes": 179898
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-010 ポール・フェニックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-010_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-010_p1.png",
+      "sizeBytes": 237560
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-011 ボブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-011.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-011.png",
+      "sizeBytes": 189818
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-012 マーシャル・ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-012.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-012.png",
+      "sizeBytes": 168448
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-013 ミゲル・カバジェロ・ロホ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-013.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-013.png",
+      "sizeBytes": 183562
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-014 吉光",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-014.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-014.png",
+      "sizeBytes": 207336
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-015 リロイ・スミス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-015.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-015.png",
+      "sizeBytes": 201364
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-016 レイ・ウーロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-016.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-016.png",
+      "sizeBytes": 186738
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-017 レオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-017.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-017.png",
+      "sizeBytes": 187374
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-018 レオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-018.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-018.png",
+      "sizeBytes": 195323
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-019 レオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-019.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-019.png",
+      "sizeBytes": 240613
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-019 レオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-019_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-019_p1.png",
+      "sizeBytes": 236808
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-020 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-020.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-020.png",
+      "sizeBytes": 197128
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-021 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-021.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-021.png",
+      "sizeBytes": 182960
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-022 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-022.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-022.png",
+      "sizeBytes": 193141
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-022 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-022_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-022_p1.png",
+      "sizeBytes": 253411
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-023 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-023.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-023.png",
+      "sizeBytes": 245007
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-023 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-023_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-023_p1.png",
+      "sizeBytes": 266273
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-024 風間 仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-024.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-024.png",
+      "sizeBytes": 174470
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-024 風間 仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-024_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-024_p1.png",
+      "sizeBytes": 180321
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-025 ラース・アレクサンダーソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-025.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-025.png",
+      "sizeBytes": 195613
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-026 ラース・アレクサンダーソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-026.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-026.png",
+      "sizeBytes": 197006
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-027 ラース・アレクサンダーソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-027.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-027.png",
+      "sizeBytes": 230999
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-027 ラース・アレクサンダーソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-027_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-027_p1.png",
+      "sizeBytes": 240780
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-028 李 超狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-028.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-028.png",
+      "sizeBytes": 198154
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-029 李 超狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-029.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-029.png",
+      "sizeBytes": 200635
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-029 李 超狼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-029_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-029_p1.png",
+      "sizeBytes": 228304
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-030 ヴァイオレット・システムズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-030.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-030.png",
+      "sizeBytes": 181316
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-031 エクセレント！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-031.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-031.png",
+      "sizeBytes": 192146
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-032 排除します！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-032.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-032.png",
+      "sizeBytes": 197190
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-033 （プロレス最強！）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-033.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-033.png",
+      "sizeBytes": 199855
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-034 目指せ賞金！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-034.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-034.png",
+      "sizeBytes": 191584
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-035 エリザ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-035.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-035.png",
+      "sizeBytes": 180570
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-035 エリザ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-035_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-035_p1.png",
+      "sizeBytes": 234393
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-036 風間 飛鳥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-036.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-036.png",
+      "sizeBytes": 177893
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-037 風間 飛鳥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-037.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-037.png",
+      "sizeBytes": 163759
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-038 風間 飛鳥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-038.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-038.png",
+      "sizeBytes": 185900
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-038 風間 飛鳥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-038_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-038_p1.png",
+      "sizeBytes": 219575
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-039 風間 飛鳥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-039.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-039.png",
+      "sizeBytes": 226945
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-039 風間 飛鳥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-039_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-039_p1.png",
+      "sizeBytes": 267232
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-040 州光",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-040.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-040.png",
+      "sizeBytes": 208034
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-041 ザフィーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-041.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-041.png",
+      "sizeBytes": 212850
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-042 ジュリア・チャン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-042.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-042.png",
+      "sizeBytes": 200277
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-043 ジョシー・リサール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-043.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-043.png",
+      "sizeBytes": 188438
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-044 スティーブ・フォックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-044.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-044.png",
+      "sizeBytes": 194855
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-045 ニーナ・ウィリアムズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-045.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-045.png",
+      "sizeBytes": 211426
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-045 ニーナ・ウィリアムズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-045_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-045_p1.png",
+      "sizeBytes": 241027
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-046 フェン・ウェイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-046.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-046.png",
+      "sizeBytes": 182903
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-047 ブライアン・フューリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-047.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-047.png",
+      "sizeBytes": 181357
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-048 マスターレイヴン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-048.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-048.png",
+      "sizeBytes": 212169
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-049 リディア・ソビエスカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-049.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-049.png",
+      "sizeBytes": 180434
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-050 リリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-050.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-050.png",
+      "sizeBytes": 181201
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-051 リリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-051.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-051.png",
+      "sizeBytes": 191561
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-052 リリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-052.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-052.png",
+      "sizeBytes": 179988
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-052 リリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-052_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-052_p1.png",
+      "sizeBytes": 243455
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-053 リリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-053.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-053.png",
+      "sizeBytes": 207700
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-053 リリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-053_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-053_p1.png",
+      "sizeBytes": 241822
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-054 クマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-054.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-054.png",
+      "sizeBytes": 168707
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-055 クマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-055.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-055.png",
+      "sizeBytes": 184437
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-056 クラウディオ・セラフィーノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-056.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-056.png",
+      "sizeBytes": 198697
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-056 クラウディオ・セラフィーノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-056_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-056_p1.png",
+      "sizeBytes": 254171
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-057 ニーナ・ウィリアムズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-057.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-057.png",
+      "sizeBytes": 179066
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-058 ニーナ・ウィリアムズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-058.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-058.png",
+      "sizeBytes": 194419
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-059 三島 一美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-059.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-059.png",
+      "sizeBytes": 183954
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-060 三島 平八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-060.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-060.png",
+      "sizeBytes": 174094
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-061 三島 平八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-061.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-061.png",
+      "sizeBytes": 191890
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-061 三島 平八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-061_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-061_p1.png",
+      "sizeBytes": 220968
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-062 三島 平八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-062.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-062.png",
+      "sizeBytes": 200079
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-062 三島 平八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-062_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-062_p1.png",
+      "sizeBytes": 235218
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-063 三島財閥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-063.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-063.png",
+      "sizeBytes": 199117
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-064 ウチにも一発殴らせろ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-064.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-064.png",
+      "sizeBytes": 187270
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-065 過去との決別",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-065.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-065.png",
+      "sizeBytes": 173219
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-066 これで終わりじゃ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-066.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-066.png",
+      "sizeBytes": 210972
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-067 まだまだ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-067.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-067.png",
+      "sizeBytes": 178331
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-068 アリサ・ボスコノビッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-068.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-068.png",
+      "sizeBytes": 212477
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-069 風間 仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-069.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-069.png",
+      "sizeBytes": 181061
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-070 風間 仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-070.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-070.png",
+      "sizeBytes": 200549
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-071 カタリーナ・アウヴェス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-071.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-071.png",
+      "sizeBytes": 213645
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-072 デビル仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-072.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-072.png",
+      "sizeBytes": 175647
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-072 デビル仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-072_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-072_p1.png",
+      "sizeBytes": 210981
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-073 デビル仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-073.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-073.png",
+      "sizeBytes": 244550
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-073 デビル仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-073_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-073_p1.png",
+      "sizeBytes": 273948
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-074 パンダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-074.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-074.png",
+      "sizeBytes": 197068
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-075 パンダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-075.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-075.png",
+      "sizeBytes": 195448
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-076 ファーカムラム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-076.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-076.png",
+      "sizeBytes": 198776
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-077 ファラン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-077.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-077.png",
+      "sizeBytes": 189896
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-078 ポール・フェニックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-078.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-078.png",
+      "sizeBytes": 204804
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-079 三島 一美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-079.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-079.png",
+      "sizeBytes": 179704
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-080 三島 一美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-080.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-080.png",
+      "sizeBytes": 177782
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-080 三島 一美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-080_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-080_p1.png",
+      "sizeBytes": 222951
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-081 三島 一美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-081.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-081.png",
+      "sizeBytes": 224108
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-081 三島 一美",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-081_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-081_p1.png",
+      "sizeBytes": 270006
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-082 リン・シャオユウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-082.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-082.png",
+      "sizeBytes": 183130
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-083 リン・シャオユウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-083.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-083.png",
+      "sizeBytes": 192106
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-083 リン・シャオユウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-083_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-083_p1.png",
+      "sizeBytes": 239876
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-084 リン・シャオユウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-084.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-084.png",
+      "sizeBytes": 243267
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-084 リン・シャオユウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-084_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-084_p1.png",
+      "sizeBytes": 280238
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-085 アンナ・ウィリアムズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-085.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-085.png",
+      "sizeBytes": 207423
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-086 ギガース",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-086.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-086.png",
+      "sizeBytes": 192371
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-087 ジャック7",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-087.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-087.png",
+      "sizeBytes": 207091
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-088 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-088.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-088.png",
+      "sizeBytes": 180746
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-089 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-089.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-089.png",
+      "sizeBytes": 166682
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-090 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-090.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-090.png",
+      "sizeBytes": 178176
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-091 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-091.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-091.png",
+      "sizeBytes": 233276
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-091 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-091_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-091_p1.png",
+      "sizeBytes": 247496
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-091 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-091_p2.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-091_p2.png",
+      "sizeBytes": 223210
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-092 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-092.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-092.png",
+      "sizeBytes": 219087
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-092 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-092_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-092_p1.png",
+      "sizeBytes": 219736
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-093 ラッキークロエ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-093.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-093.png",
+      "sizeBytes": 184561
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-094 ラッキークロエ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-094.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-094.png",
+      "sizeBytes": 194922
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-095 ラッキークロエ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-095.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-095.png",
+      "sizeBytes": 205771
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-095 ラッキークロエ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-095_p1.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-095_p1.png",
+      "sizeBytes": 245490
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-096 G社",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-096.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-096.png",
+      "sizeBytes": 172292
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-097 地獄へ送ってやろう！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-097.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-097.png",
+      "sizeBytes": 209024
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-098 襲撃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-098.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-098.png",
+      "sizeBytes": 185445
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-099 デビル因子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-099.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-099.png",
+      "sizeBytes": 167977
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-100 デビル覚醒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-100.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-100.png",
+      "sizeBytes": 197627
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-AP01 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-AP01.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-AP01.png",
+      "sizeBytes": 212079
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-AP02 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-AP02.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-AP02.png",
+      "sizeBytes": 161464
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-AP03 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-AP03.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-AP03.png",
+      "sizeBytes": 216476
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-AP04 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-AP04.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-AP04.png",
+      "sizeBytes": 185113
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-AP05 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-AP05.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-AP05.png",
+      "sizeBytes": 225521
+    },
+    {
+      "series": "鉄拳7",
+      "seriesId": "570113",
+      "alt": "UA13BT/TKN-1-AP06 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA13BT_TKN-1-AP06.png?v8",
+      "localPath": "/cards/tekken-7-2/UA13BT_TKN-1-AP06.png",
+      "sizeBytes": 193886
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T17:56:32.572Z",
+  "series": {
+    "seriesId": "570003",
+    "title": "HUNTER×HUNTER",
+    "slug": "hunter-x-hunter"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570003",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-070 凶狸狐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-070.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-070.png",
+      "sizeBytes": 173557
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-072 クラピカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-072.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-072.png",
+      "sizeBytes": 173988
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-075 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-075.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-075.png",
+      "sizeBytes": 164879
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-079 サトツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-079.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-079.png",
+      "sizeBytes": 178872
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-083 トンパ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-083.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-083.png",
+      "sizeBytes": 180170
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-085 ネテロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-085.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-085.png",
+      "sizeBytes": 177793
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-090 レオリオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-090.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-090.png",
+      "sizeBytes": 181433
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-097 釣り竿",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-097.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-097.png",
+      "sizeBytes": 192352
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-099 ハンターライセンス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-099.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-099.png",
+      "sizeBytes": 164850
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-101 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-101.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-101.png",
+      "sizeBytes": 153617
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-102 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-102.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-102.png",
+      "sizeBytes": 163269
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-103 船長",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-103.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-103.png",
+      "sizeBytes": 177364
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-104 ミト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-104.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-104.png",
+      "sizeBytes": 159096
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-105 レオリオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-105.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-105.png",
+      "sizeBytes": 168979
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-106 キルア＝ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-106.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-106.png",
+      "sizeBytes": 176957
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-107 ヒソカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-107.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-107.png",
+      "sizeBytes": 176065
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-108 くじら島",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-108.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-108.png",
+      "sizeBytes": 192456
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-109 ジンの写真",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-109.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-109.png",
+      "sizeBytes": 175539
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-AP01 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-AP01.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-AP01.png",
+      "sizeBytes": 35446
+    },
+    {
+      "series": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "alt": "UA03ST/HTR-1-AP02 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03ST_HTR-1-AP02.png?v8",
+      "localPath": "/cards/hunter-x-hunter/UA03ST_HTR-1-AP02.png",
+      "sizeBytes": 168658
+    }
+  ],
+  "failures": []
+}

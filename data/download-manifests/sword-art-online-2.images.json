@@ -1,0 +1,1144 @@
+{
+  "generatedAt": "2026-07-13T18:19:37.112Z",
+  "series": {
+    "seriesId": "570115",
+    "title": "ソードアート・オンライン",
+    "slug": "sword-art-online-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570115",
+  "totalFound": 141,
+  "downloaded": 141,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-001 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-001.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-001.png",
+      "sizeBytes": 155249
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-002 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-002.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-002.png",
+      "sizeBytes": 186698
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-003 ティーゼ・シュトリーネン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-003.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-003.png",
+      "sizeBytes": 161137
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-003 ティーゼ・シュトリーネン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-003_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-003_p1.png",
+      "sizeBytes": 231908
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-004 ユージオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-004.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-004.png",
+      "sizeBytes": 181258
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-005 ユージオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-005.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-005.png",
+      "sizeBytes": 168269
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-006 ロニエ・アラベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-006.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-006.png",
+      "sizeBytes": 152693
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-006 ロニエ・アラベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-006_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-006_p1.png",
+      "sizeBytes": 220169
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-007 シリカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-007.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-007.png",
+      "sizeBytes": 158142
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-008 ユイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-008.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-008.png",
+      "sizeBytes": 178037
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-009 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-009.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-009.png",
+      "sizeBytes": 165632
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-009 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-009_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-009_p1.png",
+      "sizeBytes": 209023
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-010 アリス・シンセシス・サーティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-010.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-010.png",
+      "sizeBytes": 154329
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-011 アリス・シンセシス・サーティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-011.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-011.png",
+      "sizeBytes": 166884
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-012 アリス・シンセシス・サーティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-012.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-012.png",
+      "sizeBytes": 199064
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-012 アリス・シンセシス・サーティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-012_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-012_p1.png",
+      "sizeBytes": 227092
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-013 アリス・シンセシス・サーティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-013.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-013.png",
+      "sizeBytes": 221686
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-013 アリス・シンセシス・サーティ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-013_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-013_p1.png",
+      "sizeBytes": 199165
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-014 エルドリエ・シンセシス・サーティワン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-014.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-014.png",
+      "sizeBytes": 163372
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-015 デュソルバート・シンセシス・セブン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-015.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-015.png",
+      "sizeBytes": 165802
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-016 ファナティオ・シンセシス・ツー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-016.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-016.png",
+      "sizeBytes": 168741
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-017 ベルクーリ・シンセシス・ワン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-017.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-017.png",
+      "sizeBytes": 168114
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-018 ユージオ・シンセシス・サーティツー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-018.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-018.png",
+      "sizeBytes": 199285
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-018 ユージオ・シンセシス・サーティツー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-018_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-018_p1.png",
+      "sizeBytes": 198901
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-019 アスナ（創世神ステイシア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-019.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-019.png",
+      "sizeBytes": 149609
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-020 アスナ（創世神ステイシア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-020.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-020.png",
+      "sizeBytes": 179366
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-021 アスナ（創世神ステイシア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-021.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-021.png",
+      "sizeBytes": 159442
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-022 アスナ（創世神ステイシア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-022.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-022.png",
+      "sizeBytes": 229700
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-022 アスナ（創世神ステイシア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-022_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-022_p1.png",
+      "sizeBytes": 238039
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-023 シノン（太陽神ソルス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-023.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-023.png",
+      "sizeBytes": 165010
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-024 シノン（太陽神ソルス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-024.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-024.png",
+      "sizeBytes": 187010
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-025 シノン（太陽神ソルス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-025.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-025.png",
+      "sizeBytes": 230110
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-025 シノン（太陽神ソルス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-025_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-025_p1.png",
+      "sizeBytes": 223728
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-026 リーファ（地神テラリア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-026.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-026.png",
+      "sizeBytes": 166522
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-027 リーファ（地神テラリア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-027.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-027.png",
+      "sizeBytes": 169642
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-028 リーファ（地神テラリア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-028.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-028.png",
+      "sizeBytes": 195109
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-028 リーファ（地神テラリア）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-028_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-028_p1.png",
+      "sizeBytes": 230519
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-029 ギガスシダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-029.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-029.png",
+      "sizeBytes": 178029
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-030 金木犀の剣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-030.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-030.png",
+      "sizeBytes": 170964
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-031 三人の思い出",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-031.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-031.png",
+      "sizeBytes": 164914
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-032 手作りのパイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-032.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-032.png",
+      "sizeBytes": 159856
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-033 無制限地形操作",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-033.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-033.png",
+      "sizeBytes": 156897
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-034 ラディアント・ライト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-034.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-034.png",
+      "sizeBytes": 172455
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-035 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-035.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-035.png",
+      "sizeBytes": 163512
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-036 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-036.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-036.png",
+      "sizeBytes": 169651
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-036 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-036_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-036_p1.png",
+      "sizeBytes": 226790
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-037 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-037.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-037.png",
+      "sizeBytes": 214342
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-037 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-037_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-037_p1.png",
+      "sizeBytes": 196745
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-037 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-037_p2.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-037_p2.png",
+      "sizeBytes": 199566
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-038 エギル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-038.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-038.png",
+      "sizeBytes": 146768
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-039 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-039.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-039.png",
+      "sizeBytes": 150499
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-040 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-040.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-040.png",
+      "sizeBytes": 164401
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-041 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-041.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-041.png",
+      "sizeBytes": 201637
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-041 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-041_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-041_p1.png",
+      "sizeBytes": 192365
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-041 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-041_p2.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-041_p2.png",
+      "sizeBytes": 219078
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-042 クライン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-042.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-042.png",
+      "sizeBytes": 151954
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-043 シリカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-043.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-043.png",
+      "sizeBytes": 152960
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-043 シリカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-043_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-043_p1.png",
+      "sizeBytes": 196329
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-044 ヒースクリフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-044.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-044.png",
+      "sizeBytes": 159212
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-045 ピナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-045.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-045.png",
+      "sizeBytes": 175309
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-046 ユイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-046.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-046.png",
+      "sizeBytes": 157139
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-047 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-047.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-047.png",
+      "sizeBytes": 161952
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-048 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-048.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-048.png",
+      "sizeBytes": 165997
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-048 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-048_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-048_p1.png",
+      "sizeBytes": 186505
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-049 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-049.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-049.png",
+      "sizeBytes": 181671
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-049 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-049_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-049_p1.png",
+      "sizeBytes": 207574
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-050 アリシャ・ルー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-050.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-050.png",
+      "sizeBytes": 182601
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-051 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-051.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-051.png",
+      "sizeBytes": 168353
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-052 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-052.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-052.png",
+      "sizeBytes": 160615
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-053 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-053.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-053.png",
+      "sizeBytes": 159463
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-053 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-053_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-053_p1.png",
+      "sizeBytes": 196308
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-054 サクヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-054.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-054.png",
+      "sizeBytes": 160325
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-055 ユイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-055.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-055.png",
+      "sizeBytes": 170288
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-056 ユイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-056.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-056.png",
+      "sizeBytes": 182520
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-056 ユイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-056_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-056_p1.png",
+      "sizeBytes": 192978
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-057 ユージーン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-057.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-057.png",
+      "sizeBytes": 158991
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-058 リーファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-058.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-058.png",
+      "sizeBytes": 156082
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-059 リーファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-059.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-059.png",
+      "sizeBytes": 158250
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-059 リーファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-059_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-059_p1.png",
+      "sizeBytes": 215152
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-060 リーファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-060.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-060.png",
+      "sizeBytes": 210026
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-060 リーファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-060_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-060_p1.png",
+      "sizeBytes": 199021
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-061 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-061.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-061.png",
+      "sizeBytes": 162441
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-062 世界樹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-062.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-062.png",
+      "sizeBytes": 176144
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-063 アスナのサンドイッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-063.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-063.png",
+      "sizeBytes": 156127
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-064 空中戦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-064.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-064.png",
+      "sizeBytes": 160189
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-065 スターバースト・ストリーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-065.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-065.png",
+      "sizeBytes": 152360
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-066 妖精たちの国",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-066.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-066.png",
+      "sizeBytes": 169259
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-067 ラグー・ラビットのシチュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-067.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-067.png",
+      "sizeBytes": 153949
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-068 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-068.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-068.png",
+      "sizeBytes": 161061
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-069 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-069.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-069.png",
+      "sizeBytes": 162587
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-070 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-070.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-070.png",
+      "sizeBytes": 155980
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-071 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-071.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-071.png",
+      "sizeBytes": 210698
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-071 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-071_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-071_p1.png",
+      "sizeBytes": 212814
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-072 クライン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-072.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-072.png",
+      "sizeBytes": 153873
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-073 シウネー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-073.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-073.png",
+      "sizeBytes": 156235
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-074 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-074.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-074.png",
+      "sizeBytes": 154120
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-074 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-074_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-074_p1.png",
+      "sizeBytes": 217666
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-075 シリカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-075.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-075.png",
+      "sizeBytes": 171807
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-075 シリカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-075_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-075_p1.png",
+      "sizeBytes": 191676
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-076 スリーピング・ナイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-076.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-076.png",
+      "sizeBytes": 184481
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-077 ユイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-077.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-077.png",
+      "sizeBytes": 161391
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-078 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-078.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-078.png",
+      "sizeBytes": 153043
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-079 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-079.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-079.png",
+      "sizeBytes": 143053
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-080 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-080.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-080.png",
+      "sizeBytes": 153544
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-080 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-080_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-080_p1.png",
+      "sizeBytes": 197539
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-081 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-081.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-081.png",
+      "sizeBytes": 199933
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-081 ユウキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-081_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-081_p1.png",
+      "sizeBytes": 196174
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-082 リーファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-082.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-082.png",
+      "sizeBytes": 160050
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-083 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-083.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-083.png",
+      "sizeBytes": 188013
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-083 リズベット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-083_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-083_p1.png",
+      "sizeBytes": 197751
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-084 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-084.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-084.png",
+      "sizeBytes": 154876
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-085 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-085.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-085.png",
+      "sizeBytes": 155859
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-086 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-086.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-086.png",
+      "sizeBytes": 167212
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-087 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-087.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-087.png",
+      "sizeBytes": 209764
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-087 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-087_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-087_p1.png",
+      "sizeBytes": 227840
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-088 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-088.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-088.png",
+      "sizeBytes": 167304
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-089 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-089.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-089.png",
+      "sizeBytes": 168627
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-090 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-090.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-090.png",
+      "sizeBytes": 154321
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-090 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-090_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-090_p1.png",
+      "sizeBytes": 215579
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-091 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-091.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-091.png",
+      "sizeBytes": 205821
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-091 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-091_p1.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-091_p1.png",
+      "sizeBytes": 199795
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-092 シュピーゲル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-092.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-092.png",
+      "sizeBytes": 158864
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-093 ゼクシード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-093.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-093.png",
+      "sizeBytes": 167294
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-094 銃士X",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-094.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-094.png",
+      "sizeBytes": 155807
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-095 闇風",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-095.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-095.png",
+      "sizeBytes": 177237
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-096 バギー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-096.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-096.png",
+      "sizeBytes": 167054
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-097 ウルティマラティオ・へカートII",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-097.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-097.png",
+      "sizeBytes": 165194
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-098 バーベキュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-098.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-098.png",
+      "sizeBytes": 158175
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-099 フォトンソード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-099.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-099.png",
+      "sizeBytes": 159042
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-100 マザーズ・ロザリオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-100.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-100.png",
+      "sizeBytes": 158112
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP01 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP01.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP01.png",
+      "sizeBytes": 151593
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP01★ アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP01_s.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP01_s.png",
+      "sizeBytes": 155045
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP02 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP02.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP02.png",
+      "sizeBytes": 159362
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP02★ アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP02_s.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP02_s.png",
+      "sizeBytes": 153997
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP03 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP03.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP03.png",
+      "sizeBytes": 146681
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP04 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP04.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP04.png",
+      "sizeBytes": 158623
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP05 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP05.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP05.png",
+      "sizeBytes": 153717
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP06 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP06.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP06.png",
+      "sizeBytes": 150164
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP07 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP07.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP07.png",
+      "sizeBytes": 151362
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP08 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP08.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP08.png",
+      "sizeBytes": 143714
+    },
+    {
+      "series": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "alt": "UA15BT/SAO-1-AP09 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA15BT_SAO-1-AP09.png?v8",
+      "localPath": "/cards/sword-art-online-2/UA15BT_SAO-1-AP09.png",
+      "sizeBytes": 153111
+    }
+  ],
+  "failures": []
+}

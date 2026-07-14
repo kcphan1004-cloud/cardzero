@@ -1,0 +1,1020 @@
+{
+  "startedAt": "2026-07-13T17:51:53.604Z",
+  "finishedAt": "2026-07-13T19:20:29.201Z",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/",
+  "selectedSeries": 111,
+  "failedSeries": 0,
+  "totalFound": 10265,
+  "totalDownloaded": 9875,
+  "totalSkipped": 370,
+  "totalFailed": 20,
+  "options": {
+    "imageDelayMs": 280,
+    "seriesDelayMs": 1200,
+    "retries": 3,
+    "limit": 0,
+    "force": false,
+    "dryRun": false
+  },
+  "series": [
+    {
+      "title": "コードギアス 反逆のルルーシュ",
+      "seriesId": "570001",
+      "slug": "code-geass",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "コードギアス 反逆のルルーシュ",
+      "seriesId": "570101",
+      "slug": "code-geass-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "slug": "code-geass-3",
+      "found": 97,
+      "downloaded": 97,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "呪術廻戦",
+      "seriesId": "570002",
+      "slug": "jujutsu-kaisen",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "呪術廻戦",
+      "seriesId": "570102",
+      "slug": "jujutsu-kaisen-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "呪術廻戦 Vol.2",
+      "seriesId": "570204",
+      "slug": "jujutsu-kaisen-3",
+      "found": 99,
+      "downloaded": 99,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "NEW CARD SELECTION 呪術廻戦",
+      "seriesId": "570702",
+      "slug": "jujutsu-kaisen-4",
+      "found": 12,
+      "downloaded": 12,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "HUNTER×HUNTER",
+      "seriesId": "570003",
+      "slug": "hunter-x-hunter",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "HUNTER×HUNTER",
+      "seriesId": "570103",
+      "slug": "hunter-x-hunter-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "HUNTER×HUNTER Vol.2",
+      "seriesId": "570201",
+      "slug": "hunter-x-hunter-3",
+      "found": 96,
+      "downloaded": 96,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570004",
+      "slug": "idolmaster-shiny-colors",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570104",
+      "slug": "idolmaster-shiny-colors-2",
+      "found": 139,
+      "downloaded": 139,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アイドルマスター シャイニーカラーズ Vol.2",
+      "seriesId": "570203",
+      "slug": "idolmaster-shiny-colors-3",
+      "found": 113,
+      "downloaded": 113,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アイドルマスター シャイニーカラーズ",
+      "seriesId": "570301",
+      "slug": "idolmaster-shiny-colors-4",
+      "found": 100,
+      "downloaded": 100,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鬼滅の刃",
+      "seriesId": "570005",
+      "slug": "demon-slayer",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鬼滅の刃",
+      "seriesId": "570105",
+      "slug": "demon-slayer-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "slug": "demon-slayer-3",
+      "found": 102,
+      "downloaded": 102,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "NEW CARD SELECTION 鬼滅の刃",
+      "seriesId": "570701",
+      "slug": "demon-slayer-4",
+      "found": 12,
+      "downloaded": 12,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "Tales of ARISE",
+      "seriesId": "570006",
+      "slug": "tales-of-arise",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "Tales of ARISE",
+      "seriesId": "570106",
+      "slug": "tales-of-arise-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "転生したらスライムだった件",
+      "seriesId": "570007",
+      "slug": "tensura",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "転生したらスライムだった件",
+      "seriesId": "570107",
+      "slug": "tensura-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "転生したらスライムだった件 Vol.2",
+      "seriesId": "570209",
+      "slug": "tensura-3",
+      "found": 101,
+      "downloaded": 101,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "BLEACH 千年血戦篇",
+      "seriesId": "570008",
+      "slug": "bleach-thousand-year-blood-war",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "BLEACH 千年血戦篇",
+      "seriesId": "570108",
+      "slug": "bleach-thousand-year-blood-war-2",
+      "found": 132,
+      "downloaded": 132,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "BLEACH 千年血戦篇 Vol.2",
+      "seriesId": "570207",
+      "slug": "bleach-thousand-year-blood-war-3",
+      "found": 98,
+      "downloaded": 98,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "NEW CARD SELECTION BLEACH 千年血戦篇",
+      "seriesId": "570704",
+      "slug": "bleach-thousand-year-blood-war-4",
+      "found": 12,
+      "downloaded": 12,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "僕とロボコ",
+      "seriesId": "570009",
+      "slug": "me-and-roboco",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "僕とロボコ",
+      "seriesId": "570109",
+      "slug": "me-and-roboco-2",
+      "found": 130,
+      "downloaded": 130,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "slug": "my-hero-academia",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "僕のヒーローアカデミア",
+      "seriesId": "570110",
+      "slug": "my-hero-academia-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "僕のヒーローアカデミア Vol.2",
+      "seriesId": "570206",
+      "slug": "my-hero-academia-3",
+      "found": 104,
+      "downloaded": 104,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "銀魂",
+      "seriesId": "570011",
+      "slug": "gintama",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "銀魂",
+      "seriesId": "570111",
+      "slug": "gintama-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ブルーロック",
+      "seriesId": "570012",
+      "slug": "blue-lock",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ブルーロック",
+      "seriesId": "570112",
+      "slug": "blue-lock-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "slug": "blue-lock-3",
+      "found": 12,
+      "downloaded": 12,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鉄拳7",
+      "seriesId": "570013",
+      "slug": "tekken-7",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鉄拳7",
+      "seriesId": "570113",
+      "slug": "tekken-7-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "Dr.STONE",
+      "seriesId": "570014",
+      "slug": "dr-stone",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "Dr.STONE",
+      "seriesId": "570114",
+      "slug": "dr-stone-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ソードアート・オンライン",
+      "seriesId": "570015",
+      "slug": "sword-art-online",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ソードアート・オンライン",
+      "seriesId": "570115",
+      "slug": "sword-art-online-2",
+      "found": 141,
+      "downloaded": 141,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ソードアート・オンライン Vol.2",
+      "seriesId": "570208",
+      "slug": "sword-art-online-3",
+      "found": 114,
+      "downloaded": 114,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "SYNDUALITY Noir",
+      "seriesId": "570016",
+      "slug": "synduality-noir",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "slug": "synduality-noir-2",
+      "found": 135,
+      "downloaded": 135,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "トリコ",
+      "seriesId": "570017",
+      "slug": "toriko",
+      "found": 20,
+      "downloaded": 20,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "トリコ",
+      "seriesId": "570117",
+      "slug": "toriko-2",
+      "found": 135,
+      "downloaded": 135,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "slug": "nikke",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "勝利の女神：NIKKE",
+      "seriesId": "570118",
+      "slug": "nikke-2",
+      "found": 141,
+      "downloaded": 141,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "勝利の女神：NIKKE",
+      "seriesId": "570302",
+      "slug": "nikke-3",
+      "found": 88,
+      "downloaded": 88,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ハイキュー‼",
+      "seriesId": "570019",
+      "slug": "haikyu",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ハイキュー‼",
+      "seriesId": "570119",
+      "slug": "haikyu-2",
+      "found": 134,
+      "downloaded": 134,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ブラッククローバー",
+      "seriesId": "570020",
+      "slug": "black-clover",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ブラッククローバー",
+      "seriesId": "570120",
+      "slug": "black-clover-2",
+      "found": 136,
+      "downloaded": 136,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "幽☆遊☆白書",
+      "seriesId": "570021",
+      "slug": "yu-yu-hakusho",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "幽☆遊☆白書",
+      "seriesId": "570121",
+      "slug": "yu-yu-hakusho-2",
+      "found": 136,
+      "downloaded": 136,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "GAMERA -Rebirth-",
+      "seriesId": "570122",
+      "slug": "gamera-rebirth",
+      "found": 113,
+      "downloaded": 113,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "進撃の巨人",
+      "seriesId": "570023",
+      "slug": "attack-on-titan",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "進撃の巨人",
+      "seriesId": "570123",
+      "slug": "attack-on-titan-2",
+      "found": 137,
+      "downloaded": 137,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "進撃の巨人 Vol.2",
+      "seriesId": "570210",
+      "slug": "attack-on-titan-3",
+      "found": 104,
+      "downloaded": 104,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "SHY",
+      "seriesId": "570124",
+      "slug": "shy",
+      "found": 114,
+      "downloaded": 114,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アンデッドアンラック",
+      "seriesId": "570125",
+      "slug": "undead-unluck",
+      "found": 115,
+      "downloaded": 115,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "君のことが大大大大大好きな100人の彼女",
+      "seriesId": "570126",
+      "slug": "100-girlfriends",
+      "found": 126,
+      "downloaded": 126,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "学園アイドルマスター",
+      "seriesId": "570127",
+      "slug": "gakuen-idolmaster",
+      "found": 148,
+      "downloaded": 148,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "学園アイドルマスター Vol.2",
+      "seriesId": "570213",
+      "slug": "gakuen-idolmaster-2",
+      "found": 139,
+      "downloaded": 139,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "怪獣８号",
+      "seriesId": "570128",
+      "slug": "kaiju-no-8",
+      "found": 116,
+      "downloaded": 116,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "仮面ライダー",
+      "seriesId": "570029",
+      "slug": "kamen-rider",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "仮面ライダー",
+      "seriesId": "570129",
+      "slug": "kamen-rider-2",
+      "found": 136,
+      "downloaded": 136,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "仮面ライダー Vol.2",
+      "seriesId": "570212",
+      "slug": "kamen-rider-3",
+      "found": 135,
+      "downloaded": 135,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アークナイツ",
+      "seriesId": "570030",
+      "slug": "arknights",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アークナイツ",
+      "seriesId": "570130",
+      "slug": "arknights-2",
+      "found": 137,
+      "downloaded": 137,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "アークナイツ Vol.2",
+      "seriesId": "570211",
+      "slug": "arknights-3",
+      "found": 105,
+      "downloaded": 105,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "魔法少女まどか☆マギカ",
+      "seriesId": "570031",
+      "slug": "madoka-magica",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "魔法少女まどか☆マギカ",
+      "seriesId": "570131",
+      "slug": "madoka-magica-2",
+      "found": 136,
+      "downloaded": 136,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "シャングリラ・フロンティア",
+      "seriesId": "570132",
+      "slug": "shangri-la-frontier",
+      "found": 115,
+      "downloaded": 115,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "2.5次元の誘惑",
+      "seriesId": "570133",
+      "slug": "2-5-dimensional-seduction",
+      "found": 118,
+      "downloaded": 118,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "コードギアス 奪還のロゼ",
+      "seriesId": "570134",
+      "slug": "code-geass-roze",
+      "found": 114,
+      "downloaded": 114,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ワンパンマン",
+      "seriesId": "570035",
+      "slug": "one-punch-man",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ワンパンマン",
+      "seriesId": "570135",
+      "slug": "one-punch-man-2",
+      "found": 135,
+      "downloaded": 135,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "「マクロス」シリーズ",
+      "seriesId": "570036",
+      "slug": "macross",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "slug": "macross-2",
+      "found": 139,
+      "downloaded": 139,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "｢マクロス｣シリーズ Vol.2",
+      "seriesId": "570214",
+      "slug": "macross-3",
+      "found": 123,
+      "downloaded": 123,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570037",
+      "slug": "fullmetal-alchemist",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "seriesId": "570137",
+      "slug": "fullmetal-alchemist-2",
+      "found": 138,
+      "downloaded": 138,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "WIND BREAKER",
+      "seriesId": "570138",
+      "slug": "wind-breaker",
+      "found": 116,
+      "downloaded": 116,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "PREMIUM CARD SET WIND BREAKER",
+      "seriesId": "570501",
+      "slug": "wind-breaker-2",
+      "found": 4,
+      "downloaded": 4,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "slug": "kinnikuman",
+      "found": 117,
+      "downloaded": 117,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "Re:ゼロから始める異世界生活",
+      "seriesId": "570040",
+      "slug": "re-zero",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "Re:ゼロから始める異世界生活",
+      "seriesId": "570140",
+      "slug": "re-zero-2",
+      "found": 137,
+      "downloaded": 137,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570041",
+      "slug": "rurouni-kenshin",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "るろうに剣心 －明治剣客浪漫譚－",
+      "seriesId": "570141",
+      "slug": "rurouni-kenshin-2",
+      "found": 137,
+      "downloaded": 137,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "slug": "monogatari-series",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "〈物語〉シリーズ",
+      "seriesId": "570142",
+      "slug": "monogatari-series-2",
+      "found": 147,
+      "downloaded": 147,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "slug": "sakamoto-days",
+      "found": 114,
+      "downloaded": 114,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570044",
+      "slug": "evangelion",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "ヱヴァンゲリヲン新劇場版",
+      "seriesId": "570144",
+      "slug": "evangelion-2",
+      "found": 136,
+      "downloaded": 136,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "To LOVEる-とらぶる- Memory of Heroines",
+      "seriesId": "570145",
+      "slug": "to-love-ru",
+      "found": 135,
+      "downloaded": 135,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "カグラバチ",
+      "seriesId": "570146",
+      "slug": "kagurabachi",
+      "found": 125,
+      "downloaded": 125,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "東京喰種トーキョーグール",
+      "seriesId": "570047",
+      "slug": "tokyo-ghoul",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "slug": "tokyo-ghoul-2",
+      "found": 146,
+      "downloaded": 146,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "キングダム",
+      "seriesId": "570048",
+      "slug": "kingdom",
+      "found": 27,
+      "downloaded": 27,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "キングダム",
+      "seriesId": "570148",
+      "slug": "kingdom-2",
+      "found": 142,
+      "downloaded": 142,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "slug": "chained-soldier",
+      "found": 125,
+      "downloaded": 125,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "犬夜叉",
+      "seriesId": "570150",
+      "slug": "inuyasha",
+      "found": 117,
+      "downloaded": 0,
+      "skipped": 117,
+      "failed": 0
+    },
+    {
+      "title": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "slug": "solo-leveling",
+      "found": 118,
+      "downloaded": 118,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "slug": "eminence-in-shadow",
+      "found": 131,
+      "downloaded": 0,
+      "skipped": 131,
+      "failed": 0
+    },
+    {
+      "title": "チェンソーマン",
+      "seriesId": "570153",
+      "slug": "chainsaw-man",
+      "found": 122,
+      "downloaded": 0,
+      "skipped": 122,
+      "failed": 0
+    },
+    {
+      "title": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "slug": "mushoku-tensei",
+      "found": 120,
+      "downloaded": 120,
+      "skipped": 0,
+      "failed": 0
+    },
+    {
+      "title": "プロモーションカード",
+      "seriesId": "570901",
+      "slug": "series-570901",
+      "found": 629,
+      "downloaded": 609,
+      "skipped": 0,
+      "failed": 20
+    },
+    {
+      "title": "限定商品収録カード",
+      "seriesId": "570801",
+      "slug": "series-570801",
+      "found": 12,
+      "downloaded": 12,
+      "skipped": 0,
+      "failed": 0
+    }
+  ]
+}

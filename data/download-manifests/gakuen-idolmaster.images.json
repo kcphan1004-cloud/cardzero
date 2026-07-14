@@ -1,0 +1,1200 @@
+{
+  "generatedAt": "2026-07-13T18:37:31.085Z",
+  "series": {
+    "seriesId": "570127",
+    "title": "学園アイドルマスター",
+    "slug": "gakuen-idolmaster"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570127",
+  "totalFound": 148,
+  "downloaded": 148,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-001 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-001.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-001.png",
+      "sizeBytes": 132725
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-002 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-002.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-002.png",
+      "sizeBytes": 129681
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-003 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-003.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-003.png",
+      "sizeBytes": 130560
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-004 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-004.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-004.png",
+      "sizeBytes": 154162
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-004 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-004_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-004_p1.png",
+      "sizeBytes": 182671
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-005 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-005.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-005.png",
+      "sizeBytes": 165964
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-005 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-005_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-005_p1.png",
+      "sizeBytes": 245030
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-006 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-006.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-006.png",
+      "sizeBytes": 189593
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-006 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-006_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-006_p1.png",
+      "sizeBytes": 229560
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-007 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-007.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-007.png",
+      "sizeBytes": 130503
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-008 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-008.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-008.png",
+      "sizeBytes": 141419
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-009 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-009.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-009.png",
+      "sizeBytes": 158912
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-009 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-009_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-009_p1.png",
+      "sizeBytes": 217062
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-010 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-010.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-010.png",
+      "sizeBytes": 167032
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-010 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-010_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-010_p1.png",
+      "sizeBytes": 227724
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-011 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-011.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-011.png",
+      "sizeBytes": 190673
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-011 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-011_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-011_p1.png",
+      "sizeBytes": 234243
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-012 根緒 亜紗里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-012.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-012.png",
+      "sizeBytes": 132037
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-013 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-013.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-013.png",
+      "sizeBytes": 127772
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-014 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-014.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-014.png",
+      "sizeBytes": 137826
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-014 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-014_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-014_p1.png",
+      "sizeBytes": 197771
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-015 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-015.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-015.png",
+      "sizeBytes": 154253
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-015 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-015_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-015_p1.png",
+      "sizeBytes": 234073
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-016 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-016.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-016.png",
+      "sizeBytes": 201273
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-016 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-016_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-016_p1.png",
+      "sizeBytes": 248111
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-017 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-017.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-017.png",
+      "sizeBytes": 136457
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-018 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-018.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-018.png",
+      "sizeBytes": 156253
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-018 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-018_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-018_p1.png",
+      "sizeBytes": 230637
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-019 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-019.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-019.png",
+      "sizeBytes": 166635
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-019 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-019_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-019_p1.png",
+      "sizeBytes": 203638
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-020 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-020.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-020.png",
+      "sizeBytes": 199936
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-020 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-020_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-020_p1.png",
+      "sizeBytes": 229600
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-021 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-021.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-021.png",
+      "sizeBytes": 121543
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-022 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-022.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-022.png",
+      "sizeBytes": 158137
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-022 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-022_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-022_p1.png",
+      "sizeBytes": 196450
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-023 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-023.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-023.png",
+      "sizeBytes": 156421
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-023 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-023_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-023_p1.png",
+      "sizeBytes": 190873
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-024 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-024.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-024.png",
+      "sizeBytes": 187823
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-024 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-024_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-024_p1.png",
+      "sizeBytes": 238210
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-025 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-025.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-025.png",
+      "sizeBytes": 135400
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-026 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-026.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-026.png",
+      "sizeBytes": 152894
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-027 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-027.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-027.png",
+      "sizeBytes": 171420
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-027 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-027_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-027_p1.png",
+      "sizeBytes": 208653
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-028 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-028.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-028.png",
+      "sizeBytes": 160638
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-028 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-028_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-028_p1.png",
+      "sizeBytes": 233978
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-029 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-029.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-029.png",
+      "sizeBytes": 199858
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-029 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-029_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-029_p1.png",
+      "sizeBytes": 256192
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-030 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-030.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-030.png",
+      "sizeBytes": 126956
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-031 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-031.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-031.png",
+      "sizeBytes": 127481
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-032 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-032.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-032.png",
+      "sizeBytes": 128532
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-033 生徒会室",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-033.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-033.png",
+      "sizeBytes": 150138
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-034 新たな挑戦の成功ですわ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-034.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-034.png",
+      "sizeBytes": 185958
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-035 お疲れ様、千奈ちゃん。",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-035.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-035.png",
+      "sizeBytes": 154437
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-036 可愛いと可愛いで可愛い！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-036.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-036.png",
+      "sizeBytes": 169109
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-037 ぐぬぬぬぬ…………！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-037.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-037.png",
+      "sizeBytes": 154326
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-038 はじめてのお友達",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-038.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-038.png",
+      "sizeBytes": 137486
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-039 わたしたち、やればできる",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-039.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-039.png",
+      "sizeBytes": 187095
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-040 私の目に狂いはない",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-040.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-040.png",
+      "sizeBytes": 166664
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-041 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-041.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-041.png",
+      "sizeBytes": 138129
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-042 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-042.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-042.png",
+      "sizeBytes": 158733
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-042 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-042_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-042_p1.png",
+      "sizeBytes": 181736
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-043 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-043.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-043.png",
+      "sizeBytes": 173814
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-043 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-043_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-043_p1.png",
+      "sizeBytes": 212854
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-044 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-044.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-044.png",
+      "sizeBytes": 197388
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-044 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-044_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-044_p1.png",
+      "sizeBytes": 237223
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-045 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-045.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-045.png",
+      "sizeBytes": 134464
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-046 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-046.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-046.png",
+      "sizeBytes": 164915
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-046 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-046_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-046_p1.png",
+      "sizeBytes": 197085
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-047 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-047.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-047.png",
+      "sizeBytes": 148775
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-047 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-047_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-047_p1.png",
+      "sizeBytes": 225291
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-048 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-048.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-048.png",
+      "sizeBytes": 199390
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-048 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-048_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-048_p1.png",
+      "sizeBytes": 242439
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-049 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-049.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-049.png",
+      "sizeBytes": 132103
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-050 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-050.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-050.png",
+      "sizeBytes": 148164
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-051 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-051.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-051.png",
+      "sizeBytes": 170546
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-051 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-051_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-051_p1.png",
+      "sizeBytes": 207380
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-052 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-052.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-052.png",
+      "sizeBytes": 162419
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-052 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-052_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-052_p1.png",
+      "sizeBytes": 232696
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-053 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-053.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-053.png",
+      "sizeBytes": 190500
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-053 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-053_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-053_p1.png",
+      "sizeBytes": 231767
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-054 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-054.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-054.png",
+      "sizeBytes": 139339
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-055 根緒 亜紗里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-055.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-055.png",
+      "sizeBytes": 145049
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-056 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-056.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-056.png",
+      "sizeBytes": 133908
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-057 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-057.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-057.png",
+      "sizeBytes": 141640
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-058 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-058.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-058.png",
+      "sizeBytes": 134838
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-059 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-059.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-059.png",
+      "sizeBytes": 139380
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-060 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-060.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-060.png",
+      "sizeBytes": 141894
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-061 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-061.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-061.png",
+      "sizeBytes": 151241
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-061 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-061_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-061_p1.png",
+      "sizeBytes": 246799
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-062 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-062.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-062.png",
+      "sizeBytes": 165262
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-062 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-062_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-062_p1.png",
+      "sizeBytes": 242009
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-063 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-063.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-063.png",
+      "sizeBytes": 189433
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-063 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-063_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-063_p1.png",
+      "sizeBytes": 233464
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-064 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-064.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-064.png",
+      "sizeBytes": 148731
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-065 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-065.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-065.png",
+      "sizeBytes": 182411
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-065 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-065_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-065_p1.png",
+      "sizeBytes": 181534
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-066 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-066.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-066.png",
+      "sizeBytes": 150840
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-067 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-067.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-067.png",
+      "sizeBytes": 156282
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-067 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-067_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-067_p1.png",
+      "sizeBytes": 227961
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-068 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-068.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-068.png",
+      "sizeBytes": 204237
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-068 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-068_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-068_p1.png",
+      "sizeBytes": 242430
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-068 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-068_p2.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-068_p2.png",
+      "sizeBytes": 243081
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-069 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-069.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-069.png",
+      "sizeBytes": 139353
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-070 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-070.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-070.png",
+      "sizeBytes": 162549
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-070 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-070_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-070_p1.png",
+      "sizeBytes": 228063
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-071 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-071.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-071.png",
+      "sizeBytes": 162723
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-071 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-071_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-071_p1.png",
+      "sizeBytes": 245155
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-072 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-072.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-072.png",
+      "sizeBytes": 196869
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-072 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-072_p1.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-072_p1.png",
+      "sizeBytes": 244837
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-073 初星学園",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-073.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-073.png",
+      "sizeBytes": 211366
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-074 あなたにも作ってあげる！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-074.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-074.png",
+      "sizeBytes": 200611
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-075 おいしい顔、いただき～！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-075.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-075.png",
+      "sizeBytes": 189987
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-076 きみは、自慢の生徒です",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-076.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-076.png",
+      "sizeBytes": 171065
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-077 こいつらめんどくさー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-077.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-077.png",
+      "sizeBytes": 195232
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-078 第2回教室パーティー！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-078.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-078.png",
+      "sizeBytes": 212995
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-079 ほら、一緒に持と♪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-079.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-079.png",
+      "sizeBytes": 176789
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-080 まるで王子様みたいな",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-080.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-080.png",
+      "sizeBytes": 170426
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP01 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP01.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP01.png",
+      "sizeBytes": 161623
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP01★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP01_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP01_s.png",
+      "sizeBytes": 187120
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP02 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP02.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP02.png",
+      "sizeBytes": 152094
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP02★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP02_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP02_s.png",
+      "sizeBytes": 203606
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP03 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP03.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP03.png",
+      "sizeBytes": 148863
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP03★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP03_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP03_s.png",
+      "sizeBytes": 161198
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP04 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP04.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP04.png",
+      "sizeBytes": 147911
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP04★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP04_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP04_s.png",
+      "sizeBytes": 163895
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP05 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP05.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP05.png",
+      "sizeBytes": 151859
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP05★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP05_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP05_s.png",
+      "sizeBytes": 174152
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP06 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP06.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP06.png",
+      "sizeBytes": 147602
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP06★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP06_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP06_s.png",
+      "sizeBytes": 190168
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP07 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP07.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP07.png",
+      "sizeBytes": 152132
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP07★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP07_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP07_s.png",
+      "sizeBytes": 189608
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP08 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP08.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP08.png",
+      "sizeBytes": 155755
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP08★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP08_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP08_s.png",
+      "sizeBytes": 172700
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP09 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP09.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP09.png",
+      "sizeBytes": 160164
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP09★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP09_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP09_s.png",
+      "sizeBytes": 187987
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP10 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP10.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP10.png",
+      "sizeBytes": 163491
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP10★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP10_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP10_s.png",
+      "sizeBytes": 187886
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP11 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP11.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP11.png",
+      "sizeBytes": 149871
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP11★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP11_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP11_s.png",
+      "sizeBytes": 173615
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP12 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP12.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP12.png",
+      "sizeBytes": 166310
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP12★ アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP12_s.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP12_s.png",
+      "sizeBytes": 179307
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP13 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP13.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP13.png",
+      "sizeBytes": 200641
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP14 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP14.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP14.png",
+      "sizeBytes": 191952
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP15 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP15.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP15.png",
+      "sizeBytes": 199460
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP16 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP16.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP16.png",
+      "sizeBytes": 191712
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP17 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP17.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP17.png",
+      "sizeBytes": 196767
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP18 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP18.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP18.png",
+      "sizeBytes": 186975
+    },
+    {
+      "series": "学園アイドルマスター",
+      "seriesId": "570127",
+      "alt": "UA27BT/GIM-1-AP19 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA27BT_GIM-1-AP19.png?v8",
+      "localPath": "/cards/gakuen-idolmaster/UA27BT_GIM-1-AP19.png",
+      "sizeBytes": 189670
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,30 @@
+{
+  "startedAt": "2026-07-13T17:51:41.315Z",
+  "finishedAt": "2026-07-13T17:51:42.950Z",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/",
+  "selectedSeries": 1,
+  "failedSeries": 0,
+  "totalFound": 3,
+  "totalDownloaded": 0,
+  "totalSkipped": 3,
+  "totalFailed": 0,
+  "options": {
+    "imageDelayMs": 280,
+    "seriesDelayMs": 1200,
+    "retries": 3,
+    "limit": 3,
+    "force": false,
+    "dryRun": false
+  },
+  "series": [
+    {
+      "title": "犬夜叉",
+      "seriesId": "570150",
+      "slug": "inuyasha",
+      "found": 3,
+      "downloaded": 0,
+      "skipped": 3,
+      "failed": 0
+    }
+  ]
+}

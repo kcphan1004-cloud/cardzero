@@ -1,0 +1,1184 @@
+{
+  "generatedAt": "2026-07-13T19:07:08.167Z",
+  "series": {
+    "seriesId": "570147",
+    "title": "「東京喰種トーキョーグール」シリーズ",
+    "slug": "tokyo-ghoul-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570147",
+  "totalFound": 146,
+  "downloaded": 146,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-001 阿原 半兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-001.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-001.png",
+      "sizeBytes": 226394
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-002 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-002.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-002.png",
+      "sizeBytes": 245540
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-002 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-002_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-002_p1.png",
+      "sizeBytes": 186186
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-003 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-003.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-003.png",
+      "sizeBytes": 264177
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-004 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-004.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-004.png",
+      "sizeBytes": 263162
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-004 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-004_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-004_p1.png",
+      "sizeBytes": 230846
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-005 伊丙 入",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-005.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-005.png",
+      "sizeBytes": 260694
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-006 宇井 郡",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-006.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-006.png",
+      "sizeBytes": 244300
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-007 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-007.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-007.png",
+      "sizeBytes": 246465
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-008 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-008.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-008.png",
+      "sizeBytes": 238331
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-009 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-009.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-009.png",
+      "sizeBytes": 243789
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-009 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-009_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-009_p1.png",
+      "sizeBytes": 168231
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-010 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-010.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-010.png",
+      "sizeBytes": 227517
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-010 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-010_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-010_p1.png",
+      "sizeBytes": 174509
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-011 平子 丈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-011.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-011.png",
+      "sizeBytes": 238295
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-012 旧多 二福",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-012.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-012.png",
+      "sizeBytes": 241671
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-013 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-013.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-013.png",
+      "sizeBytes": 239680
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-013 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-013_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-013_p1.png",
+      "sizeBytes": 201756
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-014 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-014.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-014.png",
+      "sizeBytes": 249240
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-015 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-015.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-015.png",
+      "sizeBytes": 244728
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-015 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-015_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-015_p1.png",
+      "sizeBytes": 225465
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-016 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-016.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-016.png",
+      "sizeBytes": 266411
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-016 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-016_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-016_p1.png",
+      "sizeBytes": 224747
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-016 佐々木 琲世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-016_p2.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-016_p2.png",
+      "sizeBytes": 244663
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-017 真戸 暁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-017.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-017.png",
+      "sizeBytes": 250346
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-018 真戸 暁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-018.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-018.png",
+      "sizeBytes": 284999
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-018 真戸 暁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-018_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-018_p1.png",
+      "sizeBytes": 241609
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-019 瓜江 久生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-019.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-019.png",
+      "sizeBytes": 232201
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-020 瓜江 久生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-020.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-020.png",
+      "sizeBytes": 257970
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-020 瓜江 久生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-020_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-020_p1.png",
+      "sizeBytes": 213961
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-021 不知 吟士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-021.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-021.png",
+      "sizeBytes": 232848
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-022 不知 吟士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-022.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-022.png",
+      "sizeBytes": 243872
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-022 不知 吟士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-022_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-022_p1.png",
+      "sizeBytes": 236621
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-023 六月 透",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-023.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-023.png",
+      "sizeBytes": 229744
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-024 六月 透",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-024.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-024.png",
+      "sizeBytes": 252288
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-024 六月 透",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-024_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-024_p1.png",
+      "sizeBytes": 227777
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-025 米林 才子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-025.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-025.png",
+      "sizeBytes": 247282
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-026 米林 才子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-026.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-026.png",
+      "sizeBytes": 264030
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-026 米林 才子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-026_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-026_p1.png",
+      "sizeBytes": 242954
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-027 CCG本局",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-027.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-027.png",
+      "sizeBytes": 238132
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-028 佐々木の本気",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-028.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-028.png",
+      "sizeBytes": 215181
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-029 CCGの死神",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-029.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-029.png",
+      "sizeBytes": 239773
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-030 鈴屋先輩は、部下を見捨てません",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-030.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-030.png",
+      "sizeBytes": 227056
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-031 大事なコトには順番があるです",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-031.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-031.png",
+      "sizeBytes": 204788
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-032 僕に...勇気を...。",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-032.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-032.png",
+      "sizeBytes": 223466
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-033 米林才子、働きます！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-033.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-033.png",
+      "sizeBytes": 218921
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-034 イトリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-034.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-034.png",
+      "sizeBytes": 238924
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-035 入見 カヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-035.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-035.png",
+      "sizeBytes": 260102
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-036 ウタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-036.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-036.png",
+      "sizeBytes": 228161
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-037 ウタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-037.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-037.png",
+      "sizeBytes": 289210
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-037 ウタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-037_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-037_p1.png",
+      "sizeBytes": 266629
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-038 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-038.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-038.png",
+      "sizeBytes": 270805
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-039 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-039.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-039.png",
+      "sizeBytes": 267814
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-040 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-040.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-040.png",
+      "sizeBytes": 250164
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-040 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-040_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-040_p1.png",
+      "sizeBytes": 174533
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-041 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-041.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-041.png",
+      "sizeBytes": 248573
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-041 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-041_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-041_p1.png",
+      "sizeBytes": 209994
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-042 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-042.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-042.png",
+      "sizeBytes": 286113
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-042 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-042_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-042_p1.png",
+      "sizeBytes": 239131
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-042 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-042_p2.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-042_p2.png",
+      "sizeBytes": 243059
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-043 神代 利世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-043.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-043.png",
+      "sizeBytes": 248086
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-044 神代 利世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-044.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-044.png",
+      "sizeBytes": 263015
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-044 神代 利世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-044_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-044_p1.png",
+      "sizeBytes": 208243
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-045 霧嶋 董香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-045.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-045.png",
+      "sizeBytes": 252955
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-045 霧嶋 董香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-045_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-045_p1.png",
+      "sizeBytes": 244974
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-046 霧嶋 董香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-046.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-046.png",
+      "sizeBytes": 245983
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-047 霧嶋 董香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-047.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-047.png",
+      "sizeBytes": 274929
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-047 霧嶋 董香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-047_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-047_p1.png",
+      "sizeBytes": 226369
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-048 古間 円児",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-048.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-048.png",
+      "sizeBytes": 246194
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-049 月山 習",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-049.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-049.png",
+      "sizeBytes": 230138
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-050 月山 習",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-050.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-050.png",
+      "sizeBytes": 244588
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-051 月山 習",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-051.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-051.png",
+      "sizeBytes": 237794
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-051 月山 習",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-051_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-051_p1.png",
+      "sizeBytes": 245990
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-052 月山 習",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-052.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-052.png",
+      "sizeBytes": 284665
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-052 月山 習",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-052_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-052_p1.png",
+      "sizeBytes": 216219
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-053 西尾 錦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-053.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-053.png",
+      "sizeBytes": 237049
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-053 西尾 錦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-053_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-053_p1.png",
+      "sizeBytes": 208151
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-054 笛口 雛実",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-054.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-054.png",
+      "sizeBytes": 254847
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-055 笛口 雛実",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-055.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-055.png",
+      "sizeBytes": 253900
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-055 笛口 雛実",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-055_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-055_p1.png",
+      "sizeBytes": 210862
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-056 笛口 リョーコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-056.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-056.png",
+      "sizeBytes": 250067
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-057 芳村",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-057.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-057.png",
+      "sizeBytes": 244484
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-058 四方 蓮示",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-058.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-058.png",
+      "sizeBytes": 250086
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-059 四方 蓮示",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-059.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-059.png",
+      "sizeBytes": 233173
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-059 四方 蓮示",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-059_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-059_p1.png",
+      "sizeBytes": 231492
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-060 喰種レストラン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-060.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-060.png",
+      "sizeBytes": 263699
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-061 珈琲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-061.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-061.png",
+      "sizeBytes": 238654
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-062 舌の上で深く絡み合うハーモ二イイイイ!!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-062.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-062.png",
+      "sizeBytes": 208187
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-063 それでいいのよ...カネキ君...",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-063.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-063.png",
+      "sizeBytes": 239343
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-064 変態？ 心外だな...",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-064.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-064.png",
+      "sizeBytes": 231678
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-065 僕に喰われても仕方ないよね...",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-065.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-065.png",
+      "sizeBytes": 226912
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-066 僕のだぞ!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-066.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-066.png",
+      "sizeBytes": 241650
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-067 エト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-067.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-067.png",
+      "sizeBytes": 242223
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-068 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-068.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-068.png",
+      "sizeBytes": 236799
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-069 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-069.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-069.png",
+      "sizeBytes": 242065
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-070 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-070.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-070.png",
+      "sizeBytes": 254407
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-070 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-070_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-070_p1.png",
+      "sizeBytes": 283252
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-071 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-071.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-071.png",
+      "sizeBytes": 279267
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-071 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-071_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-071_p1.png",
+      "sizeBytes": 251961
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-072 霧嶋 絢都",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-072.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-072.png",
+      "sizeBytes": 230136
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-073 霧嶋 絢都",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-073.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-073.png",
+      "sizeBytes": 265356
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-074 霧嶋 絢都",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-074.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-074.png",
+      "sizeBytes": 241624
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-074 霧嶋 絢都",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-074_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-074_p1.png",
+      "sizeBytes": 248852
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-075 霧嶋 絢都",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-075.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-075.png",
+      "sizeBytes": 279995
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-075 霧嶋 絢都",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-075_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-075_p1.png",
+      "sizeBytes": 222979
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-076 ナシロ＆クロナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-076.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-076.png",
+      "sizeBytes": 252617
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-077 タタラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-077.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-077.png",
+      "sizeBytes": 234245
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-078 ナキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-078.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-078.png",
+      "sizeBytes": 238469
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-078 ナキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-078_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-078_p1.png",
+      "sizeBytes": 250120
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-079 ノロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-079.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-079.png",
+      "sizeBytes": 224194
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-080 亜門 鋼太朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-080.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-080.png",
+      "sizeBytes": 238718
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-081 亜門 鋼太朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-081.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-081.png",
+      "sizeBytes": 241862
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-082 亜門 鋼太朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-082.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-082.png",
+      "sizeBytes": 243668
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-082 亜門 鋼太朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-082_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-082_p1.png",
+      "sizeBytes": 170690
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-083 亜門 鋼太朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-083.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-083.png",
+      "sizeBytes": 263043
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-083 亜門 鋼太朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-083_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-083_p1.png",
+      "sizeBytes": 186134
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-084 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-084.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-084.png",
+      "sizeBytes": 239393
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-084 有馬 貴将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-084_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-084_p1.png",
+      "sizeBytes": 197166
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-085 黒磐 巌",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-085.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-085.png",
+      "sizeBytes": 245995
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-086 篠原 幸紀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-086.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-086.png",
+      "sizeBytes": 252928
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-087 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-087.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-087.png",
+      "sizeBytes": 254782
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-087 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-087_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-087_p1.png",
+      "sizeBytes": 203517
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-088 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-088.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-088.png",
+      "sizeBytes": 251428
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-089 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-089.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-089.png",
+      "sizeBytes": 268205
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-089 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-089_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-089_p1.png",
+      "sizeBytes": 238756
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-090 滝澤 政道",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-090.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-090.png",
+      "sizeBytes": 241099
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-091 永近 英良",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-091.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-091.png",
+      "sizeBytes": 249661
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-092 永近 英良",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-092.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-092.png",
+      "sizeBytes": 245625
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-092 永近 英良",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-092_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-092_p1.png",
+      "sizeBytes": 161132
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-093 平子 丈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-093.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-093.png",
+      "sizeBytes": 244253
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-094 真戸 暁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-094.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-094.png",
+      "sizeBytes": 238774
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-094 真戸 暁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-094_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-094_p1.png",
+      "sizeBytes": 179392
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-095 「アオギリの樹」のアジト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-095.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-095.png",
+      "sizeBytes": 228458
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-096 亜門の腕立て伏せ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-096.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-096.png",
+      "sizeBytes": 211732
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-097 お名前 聞いてもいいですか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-097.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-097.png",
+      "sizeBytes": 209470
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-098 ...お前はデカすぎるな",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-098.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-098.png",
+      "sizeBytes": 223985
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-099 半赫者",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-099.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-099.png",
+      "sizeBytes": 233503
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-100 梟討伐作戦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-100.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-100.png",
+      "sizeBytes": 243838
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP01 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP01.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP01.png",
+      "sizeBytes": 222377
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP01 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP01_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP01_p1.png",
+      "sizeBytes": 165128
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP02 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP02.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP02.png",
+      "sizeBytes": 213696
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP02 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP02_p1.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP02_p1.png",
+      "sizeBytes": 153729
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP03 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP03.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP03.png",
+      "sizeBytes": 215536
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP04 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP04.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP04.png",
+      "sizeBytes": 263903
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP05 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP05.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP05.png",
+      "sizeBytes": 253081
+    },
+    {
+      "series": "「東京喰種トーキョーグール」シリーズ",
+      "seriesId": "570147",
+      "alt": "UA47BT/TKG-1-AP06 アクションポイントカード(東京喰種トーキョーグール)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA47BT_TKG-1-AP06.png?v8",
+      "localPath": "/cards/tokyo-ghoul-2/UA47BT_TKG-1-AP06.png",
+      "sizeBytes": 218279
+    }
+  ],
+  "failures": []
+}

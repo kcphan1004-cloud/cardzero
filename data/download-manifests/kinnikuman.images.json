@@ -1,0 +1,952 @@
+{
+  "generatedAt": "2026-07-13T18:56:25.940Z",
+  "series": {
+    "seriesId": "570139",
+    "title": "『キン肉マン』完璧超人始祖編",
+    "slug": "kinnikuman"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570139",
+  "totalFound": 117,
+  "downloaded": 117,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-001 悪魔将軍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-001.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-001.png",
+      "sizeBytes": 247215
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-001 悪魔将軍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-001_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-001_p1.png",
+      "sizeBytes": 282628
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-001 悪魔将軍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-001_p2.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-001_p2.png",
+      "sizeBytes": 254076
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-002 アシュラマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-002.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-002.png",
+      "sizeBytes": 167704
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-003 アトランティス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-003.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-003.png",
+      "sizeBytes": 175405
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-004 ザ･魔雲天",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-004.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-004.png",
+      "sizeBytes": 171116
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-005 サンシャイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-005.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-005.png",
+      "sizeBytes": 172935
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-006 ステカセキング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-006.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-006.png",
+      "sizeBytes": 143905
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-007 スプリングマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-007.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-007.png",
+      "sizeBytes": 154070
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-008 スプリングマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-008.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-008.png",
+      "sizeBytes": 162568
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-008 スプリングマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-008_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-008_p1.png",
+      "sizeBytes": 263124
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-009 バッファローマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-009.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-009.png",
+      "sizeBytes": 152935
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-010 バッファローマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-010.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-010.png",
+      "sizeBytes": 155390
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-011 バッファローマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-011.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-011.png",
+      "sizeBytes": 177330
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-012 バッファローマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-012.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-012.png",
+      "sizeBytes": 220049
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-012 バッファローマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-012_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-012_p1.png",
+      "sizeBytes": 241366
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-012 バッファローマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-012_p2.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-012_p2.png",
+      "sizeBytes": 260163
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-013 ブラックホール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-013.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-013.png",
+      "sizeBytes": 135715
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-014 ブラックホール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-014.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-014.png",
+      "sizeBytes": 170786
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-015 ブラックホール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-015.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-015.png",
+      "sizeBytes": 203900
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-015 ブラックホール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-015_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-015_p1.png",
+      "sizeBytes": 277599
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-015 ブラックホール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-015_p2.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-015_p2.png",
+      "sizeBytes": 210351
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-016 ミスターカーメン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-016.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-016.png",
+      "sizeBytes": 146653
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-017 クラッシュマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-017.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-017.png",
+      "sizeBytes": 166946
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-018 グリムリパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-018.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-018.png",
+      "sizeBytes": 166751
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-018 グリムリパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-018_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-018_p1.png",
+      "sizeBytes": 292315
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-019 ジャック・チー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-019.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-019.png",
+      "sizeBytes": 167932
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-020 ストロング・ザ・武道",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-020.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-020.png",
+      "sizeBytes": 146297
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-021 ストロング・ザ・武道",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-021.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-021.png",
+      "sizeBytes": 221408
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-021 ストロング・ザ・武道",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-021_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-021_p1.png",
+      "sizeBytes": 216298
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-022 ターボメン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-022.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-022.png",
+      "sizeBytes": 167780
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-023 ダルメシマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-023.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-023.png",
+      "sizeBytes": 166378
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-024 ネメシス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-024.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-024.png",
+      "sizeBytes": 151740
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-025 ネメシス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-025.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-025.png",
+      "sizeBytes": 158491
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-026 ネメシス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-026.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-026.png",
+      "sizeBytes": 201616
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-026 ネメシス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-026_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-026_p1.png",
+      "sizeBytes": 221378
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-026 ネメシス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-026_p2.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-026_p2.png",
+      "sizeBytes": 253901
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-027 ピークア・ブー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-027.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-027.png",
+      "sizeBytes": 150806
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-028 ポーラマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-028.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-028.png",
+      "sizeBytes": 149102
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-029 マーベラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-029.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-029.png",
+      "sizeBytes": 162819
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-030 マーリンマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-030.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-030.png",
+      "sizeBytes": 150790
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-031 マックス・ラジアル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-031.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-031.png",
+      "sizeBytes": 158857
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-032 完璧・無量大数軍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-032.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-032.png",
+      "sizeBytes": 191504
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-033 悪魔なんぞ応援してたらろくな大人にならねぇぞ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-033.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-033.png",
+      "sizeBytes": 170679
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-034 吸引ブラックホール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-034.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-034.png",
+      "sizeBytes": 170909
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-035 スプリングバズーカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-035.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-035.png",
+      "sizeBytes": 193419
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-036 すべてはあの",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-036.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-036.png",
+      "sizeBytes": 163929
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-037 零の悲劇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-037.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-037.png",
+      "sizeBytes": 176612
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-038 対戦相手はおまえに選ばせてやる！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-038.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-038.png",
+      "sizeBytes": 184103
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-039 完璧・無量大数軍の第二陣だーっ！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-039.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-039.png",
+      "sizeBytes": 180558
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-040 惑わされるなと言っておるーっ！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-040.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-040.png",
+      "sizeBytes": 162452
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-041 委員長",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-041.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-041.png",
+      "sizeBytes": 150816
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-042 ウォーズマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-042.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-042.png",
+      "sizeBytes": 155526
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-043 ウォーズマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-043.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-043.png",
+      "sizeBytes": 186183
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-044 ウォーズマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-044.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-044.png",
+      "sizeBytes": 203913
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-044 ウォーズマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-044_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-044_p1.png",
+      "sizeBytes": 234367
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-045 カナディアンマン＆スペシャルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-045.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-045.png",
+      "sizeBytes": 175074
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-046 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-046.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-046.png",
+      "sizeBytes": 155465
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-047 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-047.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-047.png",
+      "sizeBytes": 158578
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-048 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-048.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-048.png",
+      "sizeBytes": 160480
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-049 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-049.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-049.png",
+      "sizeBytes": 160687
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-050 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-050.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-050.png",
+      "sizeBytes": 195717
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-050 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-050_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-050_p1.png",
+      "sizeBytes": 222135
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-051 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-051.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-051.png",
+      "sizeBytes": 197590
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-051 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-051_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-051_p1.png",
+      "sizeBytes": 211402
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-051 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-051_p2.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-051_p2.png",
+      "sizeBytes": 240778
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-051 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-051_p3.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-051_p3.png",
+      "sizeBytes": 245785
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-052 ジェロニモ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-052.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-052.png",
+      "sizeBytes": 159259
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-053 ジェロニモ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-053.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-053.png",
+      "sizeBytes": 169623
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-053 ジェロニモ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-053_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-053_p1.png",
+      "sizeBytes": 207092
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-054 タイルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-054.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-054.png",
+      "sizeBytes": 151964
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-055 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-055.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-055.png",
+      "sizeBytes": 158188
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-056 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-056.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-056.png",
+      "sizeBytes": 164522
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-057 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-057.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-057.png",
+      "sizeBytes": 168205
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-058 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-058.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-058.png",
+      "sizeBytes": 215885
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-058 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-058_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-058_p1.png",
+      "sizeBytes": 222775
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-058 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-058_p2.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-058_p2.png",
+      "sizeBytes": 231466
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-059 ミートくん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-059.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-059.png",
+      "sizeBytes": 153437
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-060 ミートくん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-060.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-060.png",
+      "sizeBytes": 164486
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-060 ミートくん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-060_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-060_p1.png",
+      "sizeBytes": 228839
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-061 ブロッケンJr.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-061.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-061.png",
+      "sizeBytes": 164225
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-062 ブロッケンJr.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-062.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-062.png",
+      "sizeBytes": 166409
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-063 ブロッケンJr.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-063.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-063.png",
+      "sizeBytes": 190311
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-063 ブロッケンJr.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-063_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-063_p1.png",
+      "sizeBytes": 197595
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-064 ペンタゴン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-064.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-064.png",
+      "sizeBytes": 198980
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-064 ペンタゴン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-064_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-064_p1.png",
+      "sizeBytes": 269730
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-065 ラーメンマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-065.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-065.png",
+      "sizeBytes": 158349
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-066 ラーメンマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-066.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-066.png",
+      "sizeBytes": 164945
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-067 ラーメンマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-067.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-067.png",
+      "sizeBytes": 210644
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-067 ラーメンマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-067_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-067_p1.png",
+      "sizeBytes": 202404
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-068 ロビンマスク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-068.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-068.png",
+      "sizeBytes": 168137
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-069 ロビンマスク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-069.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-069.png",
+      "sizeBytes": 178641
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-070 ロビンマスク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-070.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-070.png",
+      "sizeBytes": 176092
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-071 ロビンマスク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-071.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-071.png",
+      "sizeBytes": 249375
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-071 ロビンマスク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-071_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-071_p1.png",
+      "sizeBytes": 244839
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-072 ネプチューンマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-072.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-072.png",
+      "sizeBytes": 181569
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-073 三属性超人不可侵条約",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-073.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-073.png",
+      "sizeBytes": 203860
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-074 牛丼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-074.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-074.png",
+      "sizeBytes": 164899
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-075 キン肉バスター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-075.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-075.png",
+      "sizeBytes": 175741
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-076 スクリュードライバー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-076.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-076.png",
+      "sizeBytes": 180373
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-077 タワーブリッジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-077.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-077.png",
+      "sizeBytes": 183526
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-078 風林火山",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-078.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-078.png",
+      "sizeBytes": 172989
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-079 ベルリンの赤い雨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-079.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-079.png",
+      "sizeBytes": 174053
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-080 友情パワー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-080.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-080.png",
+      "sizeBytes": 178369
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP01 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP01.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP01.png",
+      "sizeBytes": 225282
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP01 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP01_p1.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP01_p1.png",
+      "sizeBytes": 155828
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP02 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP02.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP02.png",
+      "sizeBytes": 247070
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP03 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP03.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP03.png",
+      "sizeBytes": 229298
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP04 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP04.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP04.png",
+      "sizeBytes": 221700
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP05 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP05.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP05.png",
+      "sizeBytes": 212965
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP06 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP06.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP06.png",
+      "sizeBytes": 263241
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP07 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP07.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP07.png",
+      "sizeBytes": 221880
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP08 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP08.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP08.png",
+      "sizeBytes": 271560
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP09 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP09.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP09.png",
+      "sizeBytes": 37487
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP10 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP10.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP10.png",
+      "sizeBytes": 132999
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP11 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP11.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP11.png",
+      "sizeBytes": 135520
+    },
+    {
+      "series": "『キン肉マン』完璧超人始祖編",
+      "seriesId": "570139",
+      "alt": "UA39BT/KIN-1-AP12 アクションポイントカード(キン肉マン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA39BT_KIN-1-AP12.png?v8",
+      "localPath": "/cards/kinnikuman/UA39BT_KIN-1-AP12.png",
+      "sizeBytes": 147608
+    }
+  ],
+  "failures": []
+}

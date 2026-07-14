@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:59:38.225Z",
+  "series": {
+    "seriesId": "570042",
+    "title": "〈物語〉シリーズ",
+    "slug": "monogatari-series"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570042",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-035 阿良々木 暦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-035.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-035.png",
+      "sizeBytes": 136550
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-039 阿良々木 暦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-039.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-039.png",
+      "sizeBytes": 153593
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-041 忍野 忍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-041.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-041.png",
+      "sizeBytes": 126190
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-049 忍野 メメ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-049.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-049.png",
+      "sizeBytes": 125751
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-054 羽川 翼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-054.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-054.png",
+      "sizeBytes": 129777
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-055 羽川 翼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-055.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-055.png",
+      "sizeBytes": 145674
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-056 羽川 翼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-056.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-056.png",
+      "sizeBytes": 136026
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-064 何でもは知らないわよ、知ってることだけ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-064.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-064.png",
+      "sizeBytes": 128427
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-067 妖刀心渡",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-067.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-067.png",
+      "sizeBytes": 133937
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-101 阿良々木 暦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-101.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-101.png",
+      "sizeBytes": 175435
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-102 エピソード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-102.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-102.png",
+      "sizeBytes": 132627
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-103 キスショット・アセロラオリオン・ハートアンダーブレード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-103.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-103.png",
+      "sizeBytes": 151993
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-104 キスショット・アセロラオリオン・ハートアンダーブレード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-104.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-104.png",
+      "sizeBytes": 145021
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-105 キスショット・アセロラオリオン・ハートアンダーブレード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-105.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-105.png",
+      "sizeBytes": 195986
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-106 ギロチンカッター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-106.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-106.png",
+      "sizeBytes": 126293
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-107 ドラマツルギー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-107.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-107.png",
+      "sizeBytes": 123879
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-108 羽川 翼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-108.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-108.png",
+      "sizeBytes": 150738
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-109 学習塾跡",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-109.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-109.png",
+      "sizeBytes": 112740
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-110 阿良々木 火憐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-110.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-110.png",
+      "sizeBytes": 149975
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-110 阿良々木 火憐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-110_p1.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-110_p1.png",
+      "sizeBytes": 158070
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-111 千石 撫子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-111.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-111.png",
+      "sizeBytes": 140258
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-111 千石 撫子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-111_p1.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-111_p1.png",
+      "sizeBytes": 172558
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-112 神原 駿河",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-112.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-112.png",
+      "sizeBytes": 163504
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-112 神原 駿河",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-112_p1.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-112_p1.png",
+      "sizeBytes": 165309
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-113 戦場ヶ原 ひたぎ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-113.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-113.png",
+      "sizeBytes": 161753
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-113 戦場ヶ原 ひたぎ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-113_p1.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-113_p1.png",
+      "sizeBytes": 162443
+    },
+    {
+      "series": "〈物語〉シリーズ",
+      "seriesId": "570042",
+      "alt": "UA42ST/MGS-1-AP01 アクションポイントカード(〈物語〉シリーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA42ST_MGS-1-AP01.png?v8",
+      "localPath": "/cards/monogatari-series/UA42ST_MGS-1-AP01.png",
+      "sizeBytes": 108206
+    }
+  ],
+  "failures": []
+}

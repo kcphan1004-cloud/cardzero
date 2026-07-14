@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T18:22:20.407Z",
+  "series": {
+    "seriesId": "570017",
+    "title": "トリコ",
+    "slug": "toriko"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570017",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-041 次郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-041.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-041.png",
+      "sizeBytes": 191887
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-047 ユン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-047.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-047.png",
+      "sizeBytes": 162854
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-050 鉄平",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-050.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-050.png",
+      "sizeBytes": 168912
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-052 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-052.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-052.png",
+      "sizeBytes": 160389
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-055 小松",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-055.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-055.png",
+      "sizeBytes": 175951
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-058 節乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-058.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-058.png",
+      "sizeBytes": 165611
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-061 いただきます",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-061.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-061.png",
+      "sizeBytes": 160467
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-062 釘パンチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-062.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-062.png",
+      "sizeBytes": 174501
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-065 虹の実",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-065.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-065.png",
+      "sizeBytes": 174388
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-101 ゾンゲ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-101.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-101.png",
+      "sizeBytes": 167282
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-102 滝丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-102.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-102.png",
+      "sizeBytes": 158927
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-103 マッチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-103.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-103.png",
+      "sizeBytes": 168630
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-104 鉄平",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-104.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-104.png",
+      "sizeBytes": 157489
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-105 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-105.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-105.png",
+      "sizeBytes": 175330
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-106 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-106.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-106.png",
+      "sizeBytes": 224783
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-107 小松",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-107.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-107.png",
+      "sizeBytes": 188562
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-108 グルメショーウインドー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-108.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-108.png",
+      "sizeBytes": 162402
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-109 センチュリースープ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-109.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-109.png",
+      "sizeBytes": 162345
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-AP01 アクションポイントカード(トリコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-AP01.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-AP01.png",
+      "sizeBytes": 168350
+    },
+    {
+      "series": "トリコ",
+      "seriesId": "570017",
+      "alt": "UA17ST/TRK-1-AP02 アクションポイントカード(トリコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA17ST_TRK-1-AP02.png?v8",
+      "localPath": "/cards/toriko/UA17ST_TRK-1-AP02.png",
+      "sizeBytes": 213912
+    }
+  ],
+  "failures": []
+}

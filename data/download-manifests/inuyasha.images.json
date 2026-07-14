@@ -1,0 +1,952 @@
+{
+  "generatedAt": "2026-07-13T19:10:46.235Z",
+  "series": {
+    "seriesId": "570150",
+    "title": "犬夜叉",
+    "slug": "inuyasha"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570150",
+  "totalFound": 117,
+  "downloaded": 0,
+  "skipped": 117,
+  "failed": 0,
+  "images": [
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-001 阿吽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-001.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-001.png",
+      "sizeBytes": 218822
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-002 邪見",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-002.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-002.png",
+      "sizeBytes": 208097
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-003 邪見",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-003.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-003.png",
+      "sizeBytes": 213935
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-004 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-004.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-004.png",
+      "sizeBytes": 200892
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-005 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-005.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-005.png",
+      "sizeBytes": 218375
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-006 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-006.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-006.png",
+      "sizeBytes": 213448
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-007 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-007.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-007.png",
+      "sizeBytes": 207168
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-007 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-007_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-007_p1.png",
+      "sizeBytes": 354482
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-008 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-008.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-008.png",
+      "sizeBytes": 236753
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-008 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-008_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-008_p1.png",
+      "sizeBytes": 356293
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-009 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-009.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-009.png",
+      "sizeBytes": 225522
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-009 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-009_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-009_p1.png",
+      "sizeBytes": 384952
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-010 殺生丸の母",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-010.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-010.png",
+      "sizeBytes": 216038
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-011 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-011.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-011.png",
+      "sizeBytes": 210906
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-012 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-012.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-012.png",
+      "sizeBytes": 195732
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-013 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-013.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-013.png",
+      "sizeBytes": 233448
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-013 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-013_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-013_p1.png",
+      "sizeBytes": 316114
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-014 赤子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-014.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-014.png",
+      "sizeBytes": 193989
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-015 鬼蜘蛛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-015.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-015.png",
+      "sizeBytes": 207737
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-016 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-016.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-016.png",
+      "sizeBytes": 215967
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-017 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-017.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-017.png",
+      "sizeBytes": 224038
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-018 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-018.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-018.png",
+      "sizeBytes": 232005
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-018 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-018_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-018_p1.png",
+      "sizeBytes": 341661
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-019 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-019.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-019.png",
+      "sizeBytes": 250536
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-019 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-019_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-019_p1.png",
+      "sizeBytes": 336720
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-020 獣郎丸&影郎丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-020.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-020.png",
+      "sizeBytes": 238933
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-021 神無",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-021.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-021.png",
+      "sizeBytes": 219630
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-022 神無",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-022.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-022.png",
+      "sizeBytes": 249560
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-022 神無",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-022_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-022_p1.png",
+      "sizeBytes": 344864
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-023 悟心鬼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-023.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-023.png",
+      "sizeBytes": 217707
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-024 琥珀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-024.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-024.png",
+      "sizeBytes": 214408
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-025 奈落",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-025.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-025.png",
+      "sizeBytes": 230127
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-026 奈落",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-026.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-026.png",
+      "sizeBytes": 225146
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-027 奈落",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-027.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-027.png",
+      "sizeBytes": 208124
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-027 奈落",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-027_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-027_p1.png",
+      "sizeBytes": 330221
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-028 奈落",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-028.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-028.png",
+      "sizeBytes": 233833
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-028 奈落",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-028_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-028_p1.png",
+      "sizeBytes": 402491
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-029 白童子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-029.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-029.png",
+      "sizeBytes": 204907
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-030 人見 蔭刀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-030.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-030.png",
+      "sizeBytes": 217052
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-031 夢幻の白夜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-031.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-031.png",
+      "sizeBytes": 203399
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-032 神無の鏡",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-032.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-032.png",
+      "sizeBytes": 223641
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-033 最猛勝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-033.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-033.png",
+      "sizeBytes": 232785
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-034 四魂のかけら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-034.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-034.png",
+      "sizeBytes": 200426
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-035 瘴気",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-035.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-035.png",
+      "sizeBytes": 206828
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-036 天生牙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-036.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-036.png",
+      "sizeBytes": 227740
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-037 爆砕牙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-037.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-037.png",
+      "sizeBytes": 220004
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-038 風刃の舞",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-038.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-038.png",
+      "sizeBytes": 223281
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-039 融合",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-039.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-039.png",
+      "sizeBytes": 233334
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-040 りんの命と引きかえに得るものなど―なにもない!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-040.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-040.png",
+      "sizeBytes": 214291
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-041 阿波の八衛門狸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-041.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-041.png",
+      "sizeBytes": 221508
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-042 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-042.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-042.png",
+      "sizeBytes": 207565
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-043 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-043.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-043.png",
+      "sizeBytes": 224720
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-043 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-043_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-043_p1.png",
+      "sizeBytes": 238441
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-044 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-044.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-044.png",
+      "sizeBytes": 221547
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-045 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-045.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-045.png",
+      "sizeBytes": 206982
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-045 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-045_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-045_p1.png",
+      "sizeBytes": 263901
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-046 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-046.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-046.png",
+      "sizeBytes": 244827
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-046 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-046_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-046_p1.png",
+      "sizeBytes": 384307
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-046 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-046_p2.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-046_p2.png",
+      "sizeBytes": 375680
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-047 楓",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-047.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-047.png",
+      "sizeBytes": 234898
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-048 桔梗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-048.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-048.png",
+      "sizeBytes": 212717
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-048 桔梗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-048_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-048_p1.png",
+      "sizeBytes": 244482
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-049 桔梗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-049.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-049.png",
+      "sizeBytes": 218496
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-049 桔梗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-049_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-049_p1.png",
+      "sizeBytes": 366689
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-050 雲母",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-050.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-050.png",
+      "sizeBytes": 219218
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-051 雲母",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-051.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-051.png",
+      "sizeBytes": 211290
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-052 銀太＆白角",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-052.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-052.png",
+      "sizeBytes": 213400
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-053 鋼牙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-053.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-053.png",
+      "sizeBytes": 215521
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-054 鋼牙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-054.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-054.png",
+      "sizeBytes": 228768
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-054 鋼牙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-054_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-054_p1.png",
+      "sizeBytes": 307058
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-055 琥珀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-055.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-055.png",
+      "sizeBytes": 229093
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-056 珊瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-056.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-056.png",
+      "sizeBytes": 214049
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-057 珊瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-057.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-057.png",
+      "sizeBytes": 220470
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-058 珊瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-058.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-058.png",
+      "sizeBytes": 207449
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-058 珊瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-058_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-058_p1.png",
+      "sizeBytes": 293664
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-059 珊瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-059.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-059.png",
+      "sizeBytes": 234445
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-059 珊瑚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-059_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-059_p1.png",
+      "sizeBytes": 378001
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-060 七宝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-060.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-060.png",
+      "sizeBytes": 215501
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-061 七宝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-061.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-061.png",
+      "sizeBytes": 222945
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-061 七宝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-061_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-061_p1.png",
+      "sizeBytes": 360486
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-062 刀々斎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-062.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-062.png",
+      "sizeBytes": 202444
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-063 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-063.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-063.png",
+      "sizeBytes": 213908
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-064 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-064.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-064.png",
+      "sizeBytes": 195830
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-065 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-065.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-065.png",
+      "sizeBytes": 221916
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-065 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-065_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-065_p1.png",
+      "sizeBytes": 302415
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-066 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-066.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-066.png",
+      "sizeBytes": 253042
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-066 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-066_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-066_p1.png",
+      "sizeBytes": 373988
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-067 冥加",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-067.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-067.png",
+      "sizeBytes": 219315
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-068 弥勒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-068.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-068.png",
+      "sizeBytes": 229961
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-069 弥勒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-069.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-069.png",
+      "sizeBytes": 222901
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-070 弥勒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-070.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-070.png",
+      "sizeBytes": 212019
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-070 弥勒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-070_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-070_p1.png",
+      "sizeBytes": 242038
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-071 弥勒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-071.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-071.png",
+      "sizeBytes": 254392
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-071 弥勒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-071_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-071_p1.png",
+      "sizeBytes": 373996
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-072 骨喰いの井戸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-072.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-072.png",
+      "sizeBytes": 228724
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-073 生き方を選べるということだ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-073.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-073.png",
+      "sizeBytes": 204916
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-074 おすわり",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-074.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-074.png",
+      "sizeBytes": 245579
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-075 おらがしっかりせねば",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-075.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-075.png",
+      "sizeBytes": 229318
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-076 おれは命を懸けておまえを守る",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-076.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-076.png",
+      "sizeBytes": 201015
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-077 風穴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-077.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-077.png",
+      "sizeBytes": 228760
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-078 結界",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-078.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-078.png",
+      "sizeBytes": 227610
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-079 鉄砕牙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-079.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-079.png",
+      "sizeBytes": 190251
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-080 飛来骨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-080.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-080.png",
+      "sizeBytes": 225314
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP01 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP01.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP01.png",
+      "sizeBytes": 206549
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP01 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP01_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP01_p1.png",
+      "sizeBytes": 239287
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP02 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP02.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP02.png",
+      "sizeBytes": 234856
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP02 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP02_p1.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP02_p1.png",
+      "sizeBytes": 231853
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP03 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP03.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP03.png",
+      "sizeBytes": 200374
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP04 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP04.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP04.png",
+      "sizeBytes": 205785
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP05 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP05.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP05.png",
+      "sizeBytes": 218713
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP06 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP06.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP06.png",
+      "sizeBytes": 204257
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP07 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP07.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP07.png",
+      "sizeBytes": 220290
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP08 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP08.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP08.png",
+      "sizeBytes": 185786
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP09 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP09.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP09.png",
+      "sizeBytes": 220159
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP10 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP10.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP10.png",
+      "sizeBytes": 211093
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP11 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP11.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP11.png",
+      "sizeBytes": 251053
+    },
+    {
+      "series": "犬夜叉",
+      "seriesId": "570150",
+      "alt": "UA50BT/IYS-1-AP12 アクションポイントカード(犬夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA50BT_IYS-1-AP12.png?v8",
+      "localPath": "/cards/inuyasha/UA50BT_IYS-1-AP12.png",
+      "sizeBytes": 202682
+    }
+  ],
+  "failures": []
+}

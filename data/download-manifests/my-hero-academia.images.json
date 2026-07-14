@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T18:10:58.608Z",
+  "series": {
+    "seriesId": "570010",
+    "title": "僕のヒーローアカデミア",
+    "slug": "my-hero-academia"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570010",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-034 相澤 消太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-034.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-034.png",
+      "sizeBytes": 153528
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-036 蛙吹 梅雨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-036.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-036.png",
+      "sizeBytes": 151132
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-041 麗日 お茶子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-041.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-041.png",
+      "sizeBytes": 154903
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-044 オールマイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-044.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-044.png",
+      "sizeBytes": 155840
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-052 轟 焦凍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-052.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-052.png",
+      "sizeBytes": 160515
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-057 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-057.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-057.png",
+      "sizeBytes": 151473
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-061 八百万 百",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-061.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-061.png",
+      "sizeBytes": 156168
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-063 デトロイト スマッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-063.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-063.png",
+      "sizeBytes": 161593
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-065 Plus Ultra",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-065.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-065.png",
+      "sizeBytes": 145821
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-101 飯田 天哉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-101.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-101.png",
+      "sizeBytes": 159495
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-102 オールマイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-102.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-102.png",
+      "sizeBytes": 165169
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-103 切島 鋭児郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-103.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-103.png",
+      "sizeBytes": 157403
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-104 耳郎 響香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-104.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-104.png",
+      "sizeBytes": 167202
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-105 爆豪 勝己",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-105.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-105.png",
+      "sizeBytes": 175173
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-106 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-106.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-106.png",
+      "sizeBytes": 164274
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-107 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-107.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-107.png",
+      "sizeBytes": 211415
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-108 雄英高校",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-108.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-108.png",
+      "sizeBytes": 152206
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-109 1年A組",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-109.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-109.png",
+      "sizeBytes": 164063
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-AP01 アクションポイントカード(僕のヒーローアカデミア)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-AP01.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-AP01.png",
+      "sizeBytes": 178883
+    },
+    {
+      "series": "僕のヒーローアカデミア",
+      "seriesId": "570010",
+      "alt": "UA10ST/MHA-1-AP02 アクションポイントカード(僕のヒーローアカデミア)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA10ST_MHA-1-AP02.png?v8",
+      "localPath": "/cards/my-hero-academia/UA10ST_MHA-1-AP02.png",
+      "sizeBytes": 134937
+    }
+  ],
+  "failures": []
+}

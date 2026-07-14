@@ -1,0 +1,1152 @@
+{
+  "generatedAt": "2026-07-13T19:08:38.291Z",
+  "series": {
+    "seriesId": "570148",
+    "title": "キングダム",
+    "slug": "kingdom-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570148",
+  "totalFound": 142,
+  "downloaded": 142,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-001 オルド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-001.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-001.png",
+      "sizeBytes": 213506
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-002 オルド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-002.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-002.png",
+      "sizeBytes": 213645
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-003 成恢",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-003.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-003.png",
+      "sizeBytes": 205823
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-004 呉鳳明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-004.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-004.png",
+      "sizeBytes": 202122
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-005 呉鳳明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-005.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-005.png",
+      "sizeBytes": 206092
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-006 呉鳳明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-006.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-006.png",
+      "sizeBytes": 204840
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-006 呉鳳明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-006_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-006_p1.png",
+      "sizeBytes": 240631
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-007 媧燐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-007.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-007.png",
+      "sizeBytes": 221464
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-008 媧燐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-008.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-008.png",
+      "sizeBytes": 217515
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-009 媧燐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-009.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-009.png",
+      "sizeBytes": 209207
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-009 媧燐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-009_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-009_p1.png",
+      "sizeBytes": 232645
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-010 汗明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-010.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-010.png",
+      "sizeBytes": 212243
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-011 汗明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-011.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-011.png",
+      "sizeBytes": 213631
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-012 汗明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-012.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-012.png",
+      "sizeBytes": 197299
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-012 汗明",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-012_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-012_p1.png",
+      "sizeBytes": 259956
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-013 項翼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-013.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-013.png",
+      "sizeBytes": 207460
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-014 春申君",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-014.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-014.png",
+      "sizeBytes": 208027
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-015 白麗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-015.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-015.png",
+      "sizeBytes": 217296
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-016 バミュウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-016.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-016.png",
+      "sizeBytes": 210731
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-017 臨武君",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-017.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-017.png",
+      "sizeBytes": 208794
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-018 カイネ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-018.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-018.png",
+      "sizeBytes": 213252
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-019 カイネ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-019.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-019.png",
+      "sizeBytes": 204994
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-019 カイネ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-019_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-019_p1.png",
+      "sizeBytes": 286223
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-020 慶舎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-020.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-020.png",
+      "sizeBytes": 205075
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-020 慶舎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-020_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-020_p1.png",
+      "sizeBytes": 270254
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-021 傅抵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-021.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-021.png",
+      "sizeBytes": 214722
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-022 龐煖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-022.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-022.png",
+      "sizeBytes": 197701
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-022 龐煖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-022_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-022_p1.png",
+      "sizeBytes": 218307
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-023 万極",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-023.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-023.png",
+      "sizeBytes": 225654
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-024 李牧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-024.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-024.png",
+      "sizeBytes": 198592
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-025 李牧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-025.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-025.png",
+      "sizeBytes": 229950
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-025 李牧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-025_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-025_p1.png",
+      "sizeBytes": 245177
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-026 李牧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-026.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-026.png",
+      "sizeBytes": 230996
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-026 李牧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-026_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-026_p1.png",
+      "sizeBytes": 233471
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-027 井闌車",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-027.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-027.png",
+      "sizeBytes": 229810
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-028 合従軍集結",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-028.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-028.png",
+      "sizeBytes": 215343
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-029 全軍前進です",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-029.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-029.png",
+      "sizeBytes": 174139
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-030 誰が至強か!?",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-030.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-030.png",
+      "sizeBytes": 192780
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-031 ドドンド ドンドン 汗明!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-031.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-031.png",
+      "sizeBytes": 195984
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-032 万に一つも勝ち目はない",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-032.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-032.png",
+      "sizeBytes": 189916
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-033 我 武神 龐煖也",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-033.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-033.png",
+      "sizeBytes": 183253
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-034 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-034.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-034.png",
+      "sizeBytes": 231899
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-034 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-034_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-034_p1.png",
+      "sizeBytes": 265767
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-035 王騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-035.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-035.png",
+      "sizeBytes": 235068
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-035 王騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-035_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-035_p1.png",
+      "sizeBytes": 283990
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-035 王騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-035_p2.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-035_p2.png",
+      "sizeBytes": 227683
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-036 漂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-036.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-036.png",
+      "sizeBytes": 228231
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-036 漂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-036_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-036_p1.png",
+      "sizeBytes": 284734
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-037 蒙恬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-037.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-037.png",
+      "sizeBytes": 215342
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-038 蒙恬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-038.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-038.png",
+      "sizeBytes": 206277
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-039 蒙恬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-039.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-039.png",
+      "sizeBytes": 210536
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-039 蒙恬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-039_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-039_p1.png",
+      "sizeBytes": 242050
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-040 蒙恬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-040.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-040.png",
+      "sizeBytes": 218172
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-040 蒙恬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-040_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-040_p1.png",
+      "sizeBytes": 224962
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-041 王賁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-041.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-041.png",
+      "sizeBytes": 235987
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-042 王賁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-042.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-042.png",
+      "sizeBytes": 213626
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-043 王賁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-043.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-043.png",
+      "sizeBytes": 204614
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-043 王賁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-043_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-043_p1.png",
+      "sizeBytes": 274274
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-044 王賁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-044.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-044.png",
+      "sizeBytes": 255381
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-044 王賁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-044_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-044_p1.png",
+      "sizeBytes": 257606
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-045 河了貂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-045.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-045.png",
+      "sizeBytes": 210520
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-045 河了貂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-045_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-045_p1.png",
+      "sizeBytes": 306517
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-046 河了貂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-046.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-046.png",
+      "sizeBytes": 209569
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-046 河了貂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-046_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-046_p1.png",
+      "sizeBytes": 229466
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-047 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-047.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-047.png",
+      "sizeBytes": 212263
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-048 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-048.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-048.png",
+      "sizeBytes": 211498
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-049 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-049.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-049.png",
+      "sizeBytes": 221311
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-049 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-049_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-049_p1.png",
+      "sizeBytes": 273591
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-050 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-050.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-050.png",
+      "sizeBytes": 239198
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-050 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-050_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-050_p1.png",
+      "sizeBytes": 228813
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-051 松左",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-051.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-051.png",
+      "sizeBytes": 236371
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-052 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-052.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-052.png",
+      "sizeBytes": 206393
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-053 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-053.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-053.png",
+      "sizeBytes": 227422
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-054 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-054.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-054.png",
+      "sizeBytes": 210714
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-054 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-054_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-054_p1.png",
+      "sizeBytes": 274418
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-055 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-055.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-055.png",
+      "sizeBytes": 231701
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-055 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-055_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-055_p1.png",
+      "sizeBytes": 251048
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-056 楚水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-056.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-056.png",
+      "sizeBytes": 253854
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-057 澤圭",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-057.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-057.png",
+      "sizeBytes": 239348
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-058 田有",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-058.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-058.png",
+      "sizeBytes": 242159
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-059 尾平",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-059.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-059.png",
+      "sizeBytes": 246566
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-060 竜川",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-060.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-060.png",
+      "sizeBytes": 231916
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-061 論功行賞",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-061.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-061.png",
+      "sizeBytes": 185383
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-062 切磋琢磨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-062.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-062.png",
+      "sizeBytes": 185136
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-063 続け飛信隊っ!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-063.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-063.png",
+      "sizeBytes": 181703
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-064 トーンタンタン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-064.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-064.png",
+      "sizeBytes": 224907
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-065 戦友の形",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-065.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-065.png",
+      "sizeBytes": 225906
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-066 龍指",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-066.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-066.png",
+      "sizeBytes": 188661
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-067 ルアア!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-067.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-067.png",
+      "sizeBytes": 188578
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-068 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-068.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-068.png",
+      "sizeBytes": 202327
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-069 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-069.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-069.png",
+      "sizeBytes": 222145
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-069 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-069_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-069_p1.png",
+      "sizeBytes": 214771
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-070 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-070.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-070.png",
+      "sizeBytes": 244241
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-070 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-070_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-070_p1.png",
+      "sizeBytes": 236040
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-070 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-070_p2.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-070_p2.png",
+      "sizeBytes": 251674
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-071 蕞の住民",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-071.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-071.png",
+      "sizeBytes": 215492
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-072 昌文君",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-072.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-072.png",
+      "sizeBytes": 217725
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-073 昌平君",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-073.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-073.png",
+      "sizeBytes": 216489
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-073 昌平君",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-073_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-073_p1.png",
+      "sizeBytes": 238956
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-074 張唐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-074.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-074.png",
+      "sizeBytes": 234151
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-075 騰",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-075.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-075.png",
+      "sizeBytes": 219460
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-075 騰",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-075_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-075_p1.png",
+      "sizeBytes": 287198
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-076 麃公",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-076.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-076.png",
+      "sizeBytes": 217090
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-076 麃公",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-076_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-076_p1.png",
+      "sizeBytes": 257694
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-077 蒙驁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-077.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-077.png",
+      "sizeBytes": 213711
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-078 蒙武",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-078.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-078.png",
+      "sizeBytes": 216418
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-079 呂不韋",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-079.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-079.png",
+      "sizeBytes": 218189
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-080 バジオウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-080.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-080.png",
+      "sizeBytes": 203374
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-080 バジオウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-080_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-080_p1.png",
+      "sizeBytes": 215884
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-081 楊端和",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-081.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-081.png",
+      "sizeBytes": 235809
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-081 楊端和",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-081_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-081_p1.png",
+      "sizeBytes": 296841
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-081 楊端和",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-081_p2.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-081_p2.png",
+      "sizeBytes": 232366
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-082 オギコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-082.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-082.png",
+      "sizeBytes": 213257
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-083 桓騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-083.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-083.png",
+      "sizeBytes": 208480
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-084 桓騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-084.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-084.png",
+      "sizeBytes": 210489
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-085 桓騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-085.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-085.png",
+      "sizeBytes": 199023
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-085 桓騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-085_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-085_p1.png",
+      "sizeBytes": 236284
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-086 桓騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-086.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-086.png",
+      "sizeBytes": 228379
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-086 桓騎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-086_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-086_p1.png",
+      "sizeBytes": 238611
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-087 黒桜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-087.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-087.png",
+      "sizeBytes": 203269
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-088 ゼノウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-088.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-088.png",
+      "sizeBytes": 228368
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-089 那貴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-089.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-089.png",
+      "sizeBytes": 217624
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-090 摩論",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-090.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-090.png",
+      "sizeBytes": 205895
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-091 雷土",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-091.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-091.png",
+      "sizeBytes": 212274
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-092 リン玉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-092.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-092.png",
+      "sizeBytes": 214519
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-093 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-093.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-093.png",
+      "sizeBytes": 255017
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-093 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-093_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-093_p1.png",
+      "sizeBytes": 281749
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-094 函谷関",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-094.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-094.png",
+      "sizeBytes": 231678
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-095 ご武運を",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-095.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-095.png",
+      "sizeBytes": 178325
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-096 全部上手くいく",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-096.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-096.png",
+      "sizeBytes": 163618
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-097 はしゃぎすぎなんだよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-097.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-097.png",
+      "sizeBytes": 186512
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-098 人の持つ本質は―――光だ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-098.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-098.png",
+      "sizeBytes": 179843
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-099 本能型の武将",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-099.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-099.png",
+      "sizeBytes": 195734
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-100 我らの国を絶対に守りきるぞ！！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-100.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-100.png",
+      "sizeBytes": 185338
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP01 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP01.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP01.png",
+      "sizeBytes": 238209
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP01 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP01_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP01_p1.png",
+      "sizeBytes": 195878
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP02 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP02.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP02.png",
+      "sizeBytes": 229280
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP02 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP02_p1.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP02_p1.png",
+      "sizeBytes": 184351
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP03 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP03.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP03.png",
+      "sizeBytes": 174737
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP04 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP04.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP04.png",
+      "sizeBytes": 221720
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP05 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP05.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP05.png",
+      "sizeBytes": 224648
+    },
+    {
+      "series": "キングダム",
+      "seriesId": "570148",
+      "alt": "UA48BT/KGD-1-AP06 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA48BT_KGD-1-AP06.png?v8",
+      "localPath": "/cards/kingdom-2/UA48BT_KGD-1-AP06.png",
+      "sizeBytes": 226855
+    }
+  ],
+  "failures": []
+}

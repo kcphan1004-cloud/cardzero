@@ -1,0 +1,1056 @@
+{
+  "generatedAt": "2026-07-13T18:10:47.355Z",
+  "series": {
+    "seriesId": "570109",
+    "title": "僕とロボコ",
+    "slug": "me-and-roboco-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570109",
+  "totalFound": 130,
+  "downloaded": 130,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-001 赤青乳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-001.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-001.png",
+      "sizeBytes": 145415
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-002 ギガント・クロダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-002.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-002.png",
+      "sizeBytes": 156721
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-003 牛太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-003.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-003.png",
+      "sizeBytes": 150084
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-004 ド吹かせババア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-004.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-004.png",
+      "sizeBytes": 148361
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-005 ドミ夫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-005.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-005.png",
+      "sizeBytes": 152102
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-006 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-006.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-006.png",
+      "sizeBytes": 146506
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-007 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-007.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-007.png",
+      "sizeBytes": 159572
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-008 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-008.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-008.png",
+      "sizeBytes": 179507
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-008 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-008_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-008_p1.png",
+      "sizeBytes": 163560
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-009 ボンドのママ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-009.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-009.png",
+      "sizeBytes": 146112
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-010 ボンドのママ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-010.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-010.png",
+      "sizeBytes": 143550
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-011 ボンドのママ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-011.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-011.png",
+      "sizeBytes": 167765
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-011 ボンドのママ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-011_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-011_p1.png",
+      "sizeBytes": 138936
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-012 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-012.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-012.png",
+      "sizeBytes": 137499
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-013 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-013.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-013.png",
+      "sizeBytes": 164968
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-014 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-014.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-014.png",
+      "sizeBytes": 164791
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-014 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-014_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-014_p1.png",
+      "sizeBytes": 185986
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-015 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-015.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-015.png",
+      "sizeBytes": 160839
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-015 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-015_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-015_p1.png",
+      "sizeBytes": 228983
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-016 三船千鶴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-016.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-016.png",
+      "sizeBytes": 150732
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-017 三船千鶴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-017.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-017.png",
+      "sizeBytes": 127531
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-018 睦野兄弟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-018.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-018.png",
+      "sizeBytes": 158103
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-019 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-019.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-019.png",
+      "sizeBytes": 139859
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-020 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-020.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-020.png",
+      "sizeBytes": 130023
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-021 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-021.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-021.png",
+      "sizeBytes": 140109
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-022 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-022.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-022.png",
+      "sizeBytes": 170950
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-022 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-022_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-022_p1.png",
+      "sizeBytes": 184171
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-023 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-023.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-023.png",
+      "sizeBytes": 207823
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-023 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-023_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-023_p1.png",
+      "sizeBytes": 235473
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-023 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-023_p2.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-023_p2.png",
+      "sizeBytes": 211978
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-024 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-024.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-024.png",
+      "sizeBytes": 153762
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-025 ニョンタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-025.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-025.png",
+      "sizeBytes": 149806
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-026 ニョンタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-026.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-026.png",
+      "sizeBytes": 153774
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-027 ママの包丁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-027.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-027.png",
+      "sizeBytes": 155265
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-028 おかわり",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-028.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-028.png",
+      "sizeBytes": 148818
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-029 ボドゲの女王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-029.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-029.png",
+      "sizeBytes": 153543
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-029 ボドゲの女王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-029_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-029_p1.png",
+      "sizeBytes": 123059
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-030 目からビーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-030.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-030.png",
+      "sizeBytes": 167620
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-031 ロボコクイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-031.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-031.png",
+      "sizeBytes": 139484
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-032 オムライス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-032.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-032.png",
+      "sizeBytes": 163114
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-033 パネェぜ！薄力祭",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-033.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-033.png",
+      "sizeBytes": 174474
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-034 カスタムメイコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-034.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-034.png",
+      "sizeBytes": 145360
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-034 カスタムメイコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-034_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-034_p1.png",
+      "sizeBytes": 162614
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-035 膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-035.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-035.png",
+      "sizeBytes": 168018
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-035 膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-035_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-035_p1.png",
+      "sizeBytes": 182612
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-036 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-036.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-036.png",
+      "sizeBytes": 141631
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-037 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-037.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-037.png",
+      "sizeBytes": 134173
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-038 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-038.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-038.png",
+      "sizeBytes": 214279
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-038 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-038_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-038_p1.png",
+      "sizeBytes": 222304
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-039 ボンドのママ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-039.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-039.png",
+      "sizeBytes": 132482
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-040 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-040.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-040.png",
+      "sizeBytes": 132063
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-041 メイコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-041.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-041.png",
+      "sizeBytes": 145077
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-042 メイコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-042.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-042.png",
+      "sizeBytes": 164094
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-043 モツオのパパ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-043.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-043.png",
+      "sizeBytes": 141651
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-044 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-044.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-044.png",
+      "sizeBytes": 145668
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-045 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-045.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-045.png",
+      "sizeBytes": 152719
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-046 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-046.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-046.png",
+      "sizeBytes": 197138
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-046 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-046_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-046_p1.png",
+      "sizeBytes": 213664
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-047 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-047.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-047.png",
+      "sizeBytes": 137046
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-048 西キャド総三郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-048.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-048.png",
+      "sizeBytes": 168538
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-049 妙々寺トゥカサ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-049.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-049.png",
+      "sizeBytes": 165269
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-050 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-050.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-050.png",
+      "sizeBytes": 151084
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-051 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-051.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-051.png",
+      "sizeBytes": 149820
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-052 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-052.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-052.png",
+      "sizeBytes": 163043
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-052 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-052_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-052_p1.png",
+      "sizeBytes": 161988
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-053 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-053.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-053.png",
+      "sizeBytes": 213279
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-053 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-053_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-053_p1.png",
+      "sizeBytes": 167833
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-054 ルイ花技",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-054.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-054.png",
+      "sizeBytes": 151467
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-055 アーマード武者",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-055.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-055.png",
+      "sizeBytes": 138825
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-056 カニオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-056.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-056.png",
+      "sizeBytes": 146500
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-057 カニオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-057.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-057.png",
+      "sizeBytes": 132327
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-057 カニオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-057_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-057_p1.png",
+      "sizeBytes": 121200
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-058 Dr.モッコス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-058.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-058.png",
+      "sizeBytes": 144879
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-059 Dr.モッコス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-059.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-059.png",
+      "sizeBytes": 140112
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-060 破壊兵器B.B",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-060.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-060.png",
+      "sizeBytes": 137969
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-061 河川敷",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-061.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-061.png",
+      "sizeBytes": 154469
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-062 最終兵器破れたり～!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-062.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-062.png",
+      "sizeBytes": 141132
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-063 空飛ぶロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-063.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-063.png",
+      "sizeBytes": 143950
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-064 難問",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-064.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-064.png",
+      "sizeBytes": 157656
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-065 萌・萌・キュン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-065.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-065.png",
+      "sizeBytes": 141921
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-066 萌・萌・滅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-066.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-066.png",
+      "sizeBytes": 163952
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-066 萌・萌・滅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-066_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-066_p1.png",
+      "sizeBytes": 124548
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-067 ロボコのヒザ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-067.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-067.png",
+      "sizeBytes": 148129
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-067 ロボコのヒザ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-067_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-067_p1.png",
+      "sizeBytes": 109097
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-068 蚊トンボ膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-068.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-068.png",
+      "sizeBytes": 152853
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-069 蚊トンボ膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-069.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-069.png",
+      "sizeBytes": 165306
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-069 蚊トンボ膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-069_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-069_p1.png",
+      "sizeBytes": 195579
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-070 蚊トンボ膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-070.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-070.png",
+      "sizeBytes": 152245
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-070 蚊トンボ膝ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-070_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-070_p1.png",
+      "sizeBytes": 194128
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-071 芹澤岳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-071.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-071.png",
+      "sizeBytes": 126097
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-072 芹澤岳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-072.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-072.png",
+      "sizeBytes": 153473
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-073 芹澤岳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-073.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-073.png",
+      "sizeBytes": 173790
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-074 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-074.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-074.png",
+      "sizeBytes": 136905
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-074 ボンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-074_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-074_p1.png",
+      "sizeBytes": 179230
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-075 円ちゅわ～ん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-075.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-075.png",
+      "sizeBytes": 138635
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-076 モツオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-076.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-076.png",
+      "sizeBytes": 149991
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-077 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-077.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-077.png",
+      "sizeBytes": 168661
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-077 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-077_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-077_p1.png",
+      "sizeBytes": 202440
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-078 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-078.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-078.png",
+      "sizeBytes": 173107
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-078 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-078_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-078_p1.png",
+      "sizeBytes": 207249
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-079 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-079.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-079.png",
+      "sizeBytes": 142902
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-080 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-080.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-080.png",
+      "sizeBytes": 151764
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-080 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-080_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-080_p1.png",
+      "sizeBytes": 143432
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-081 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-081.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-081.png",
+      "sizeBytes": 137120
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-082 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-082.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-082.png",
+      "sizeBytes": 192378
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-082 ガチゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-082_p1.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-082_p1.png",
+      "sizeBytes": 144652
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-083 ガチゴリラの母ちゃん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-083.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-083.png",
+      "sizeBytes": 142094
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-084 ゴリジ&ルミ＆ゴリスケ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-084.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-084.png",
+      "sizeBytes": 134149
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-085 那須さん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-085.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-085.png",
+      "sizeBytes": 144777
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-086 ルリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-086.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-086.png",
+      "sizeBytes": 137689
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-087 ルリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-087.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-087.png",
+      "sizeBytes": 154920
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-088 ルリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-088.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-088.png",
+      "sizeBytes": 137997
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-089 ガチのゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-089.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-089.png",
+      "sizeBytes": 144524
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-090 熊八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-090.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-090.png",
+      "sizeBytes": 141853
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-091 熊八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-091.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-091.png",
+      "sizeBytes": 136020
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-092 ニョンタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-092.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-092.png",
+      "sizeBytes": 147694
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-093 ニョンタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-093.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-093.png",
+      "sizeBytes": 140704
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-094 マカロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-094.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-094.png",
+      "sizeBytes": 127796
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-095 我知動物病院",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-095.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-095.png",
+      "sizeBytes": 163078
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-096 ガチゴリラミサイル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-096.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-096.png",
+      "sizeBytes": 154160
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-097 熊出没注意",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-097.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-097.png",
+      "sizeBytes": 159578
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-098 熊八なりのスキンシップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-098.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-098.png",
+      "sizeBytes": 162594
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-099 ツール・ド・ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-099.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-099.png",
+      "sizeBytes": 169582
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-100 ロボコ砲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-100.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-100.png",
+      "sizeBytes": 144825
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-AP01 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-AP01.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-AP01.png",
+      "sizeBytes": 132302
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-AP02 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-AP02.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-AP02.png",
+      "sizeBytes": 123560
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-AP03 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-AP03.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-AP03.png",
+      "sizeBytes": 169778
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-AP04 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-AP04.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-AP04.png",
+      "sizeBytes": 77814
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-AP05 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-AP05.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-AP05.png",
+      "sizeBytes": 76841
+    },
+    {
+      "series": "僕とロボコ",
+      "seriesId": "570109",
+      "alt": "UA09BT/BTR-1-AP06 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA09BT_BTR-1-AP06.png?v8",
+      "localPath": "/cards/me-and-roboco-2/UA09BT_BTR-1-AP06.png",
+      "sizeBytes": 92976
+    }
+  ],
+  "failures": []
+}

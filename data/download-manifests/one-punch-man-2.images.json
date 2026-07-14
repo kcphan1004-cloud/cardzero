@@ -1,0 +1,1096 @@
+{
+  "generatedAt": "2026-07-13T18:50:18.583Z",
+  "series": {
+    "seriesId": "570135",
+    "title": "ワンパンマン",
+    "slug": "one-punch-man-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570135",
+  "totalFound": 135,
+  "downloaded": 135,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-001 ボンブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-001.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-001.png",
+      "sizeBytes": 195443
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-002 ボンブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-002.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-002.png",
+      "sizeBytes": 205206
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-003 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-003.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-003.png",
+      "sizeBytes": 203319
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-004 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-004.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-004.png",
+      "sizeBytes": 208080
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-005 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-005.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-005.png",
+      "sizeBytes": 196890
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-006 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-006.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-006.png",
+      "sizeBytes": 223680
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-006 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-006_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-006_p1.png",
+      "sizeBytes": 253971
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-007 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-007.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-007.png",
+      "sizeBytes": 212920
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-007 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-007_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-007_p1.png",
+      "sizeBytes": 297717
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-008 シルバーファング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-008.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-008.png",
+      "sizeBytes": 204130
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-009 シルバーファング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-009.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-009.png",
+      "sizeBytes": 209458
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-010 シルバーファング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-010.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-010.png",
+      "sizeBytes": 178156
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-011 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-011.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-011.png",
+      "sizeBytes": 202795
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-012 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-012.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-012.png",
+      "sizeBytes": 196235
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-012 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-012_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-012_p1.png",
+      "sizeBytes": 252324
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-013 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-013.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-013.png",
+      "sizeBytes": 212765
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-014 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-014.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-014.png",
+      "sizeBytes": 199438
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-014 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-014_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-014_p1.png",
+      "sizeBytes": 257492
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-015 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-015.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-015.png",
+      "sizeBytes": 222343
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-015 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-015_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-015_p1.png",
+      "sizeBytes": 275104
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-016 無免ライダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-016.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-016.png",
+      "sizeBytes": 202973
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-017 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-017.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-017.png",
+      "sizeBytes": 187800
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-018 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-018.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-018.png",
+      "sizeBytes": 200959
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-018 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-018_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-018_p1.png",
+      "sizeBytes": 266487
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-019 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-019.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-019.png",
+      "sizeBytes": 194356
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-020 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-020.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-020.png",
+      "sizeBytes": 219681
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-020 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-020_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-020_p1.png",
+      "sizeBytes": 232237
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-021 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-021.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-021.png",
+      "sizeBytes": 201962
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-022 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-022.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-022.png",
+      "sizeBytes": 207143
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-022 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-022_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-022_p1.png",
+      "sizeBytes": 227404
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-023 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-023.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-023.png",
+      "sizeBytes": 195224
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-023 地獄のフブキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-023_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-023_p1.png",
+      "sizeBytes": 240486
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-024 マツゲ＆山猿",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-024.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-024.png",
+      "sizeBytes": 207122
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-025 フブキ組",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-025.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-025.png",
+      "sizeBytes": 190590
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-026 行くわよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-026.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-026.png",
+      "sizeBytes": 182037
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-027 エスパー姉妹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-027.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-027.png",
+      "sizeBytes": 200255
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-028 地獄嵐",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-028.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-028.png",
+      "sizeBytes": 186242
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-029 焼却",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-029.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-029.png",
+      "sizeBytes": 192201
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-030 旋風流水轟気空裂拳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-030.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-030.png",
+      "sizeBytes": 193732
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-031 超能力",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-031.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-031.png",
+      "sizeBytes": 216291
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-032 ヒーロー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-032.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-032.png",
+      "sizeBytes": 213017
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-033 身動き取れなくするしかないでしょ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-033.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-033.png",
+      "sizeBytes": 208072
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-034 スイリュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-034.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-034.png",
+      "sizeBytes": 179273
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-034 スイリュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-034_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-034_p1.png",
+      "sizeBytes": 165771
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-035 イケメン仮面アマイマスク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-035.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-035.png",
+      "sizeBytes": 210793
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-036 スティンガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-036.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-036.png",
+      "sizeBytes": 207321
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-037 デスガトリング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-037.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-037.png",
+      "sizeBytes": 210743
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-038 アトミック侍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-038.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-038.png",
+      "sizeBytes": 201704
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-038 アトミック侍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-038_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-038_p1.png",
+      "sizeBytes": 206069
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-039 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-039.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-039.png",
+      "sizeBytes": 204401
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-040 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-040.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-040.png",
+      "sizeBytes": 191023
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-041 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-041.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-041.png",
+      "sizeBytes": 216427
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-041 キング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-041_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-041_p1.png",
+      "sizeBytes": 213045
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-042 金属バット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-042.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-042.png",
+      "sizeBytes": 188049
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-043 金属バット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-043.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-043.png",
+      "sizeBytes": 194876
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-044 金属バット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-044.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-044.png",
+      "sizeBytes": 193245
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-044 金属バット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-044_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-044_p1.png",
+      "sizeBytes": 238134
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-045 駆動騎士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-045.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-045.png",
+      "sizeBytes": 214876
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-046 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-046.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-046.png",
+      "sizeBytes": 206893
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-047 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-047.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-047.png",
+      "sizeBytes": 213298
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-048 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-048.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-048.png",
+      "sizeBytes": 204753
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-049 シルバーファング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-049.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-049.png",
+      "sizeBytes": 194442
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-049 シルバーファング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-049_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-049_p1.png",
+      "sizeBytes": 246311
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-050 閃光のフラッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-050.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-050.png",
+      "sizeBytes": 224265
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-050 閃光のフラッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-050_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-050_p1.png",
+      "sizeBytes": 254157
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-051 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-051.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-051.png",
+      "sizeBytes": 204897
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-052 ゾンビマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-052.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-052.png",
+      "sizeBytes": 211889
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-053 タンクトップマスター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-053.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-053.png",
+      "sizeBytes": 223399
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-054 超合金クロビカリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-054.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-054.png",
+      "sizeBytes": 174117
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-055 童帝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-055.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-055.png",
+      "sizeBytes": 195463
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-055 童帝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-055_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-055_p1.png",
+      "sizeBytes": 273140
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-056 番犬マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-056.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-056.png",
+      "sizeBytes": 186726
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-056 番犬マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-056_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-056_p1.png",
+      "sizeBytes": 224332
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-057 豚神",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-057.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-057.png",
+      "sizeBytes": 196215
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-058 ぷりぷりプリズナー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-058.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-058.png",
+      "sizeBytes": 199766
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-058 ぷりぷりプリズナー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-058_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-058_p1.png",
+      "sizeBytes": 203559
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-059 メタルナイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-059.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-059.png",
+      "sizeBytes": 205696
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-060 無免ライダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-060.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-060.png",
+      "sizeBytes": 191520
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-060 無免ライダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-060_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-060_p1.png",
+      "sizeBytes": 220229
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-061 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-061.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-061.png",
+      "sizeBytes": 195098
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-062 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-062.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-062.png",
+      "sizeBytes": 194537
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-062 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-062_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-062_p1.png",
+      "sizeBytes": 216752
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-062 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-062_p2.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-062_p2.png",
+      "sizeBytes": 240680
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-063 ヒーロー協会",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-063.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-063.png",
+      "sizeBytes": 187057
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-064 キングエンジン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-064.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-064.png",
+      "sizeBytes": 175471
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-065 立ち向かわなくちゃいけないんだ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-065.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-065.png",
+      "sizeBytes": 194605
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-066 怒羅厳シバき",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-066.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-066.png",
+      "sizeBytes": 219978
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-067 マジ殴り",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-067.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-067.png",
+      "sizeBytes": 183673
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-068 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-068.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-068.png",
+      "sizeBytes": 205482
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-069 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-069.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-069.png",
+      "sizeBytes": 205120
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-070 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-070.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-070.png",
+      "sizeBytes": 202500
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-071 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-071.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-071.png",
+      "sizeBytes": 223491
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-071 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-071_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-071_p1.png",
+      "sizeBytes": 271604
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-072 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-072.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-072.png",
+      "sizeBytes": 228695
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-072 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-072_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-072_p1.png",
+      "sizeBytes": 239720
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-073 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-073.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-073.png",
+      "sizeBytes": 192825
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-074 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-074.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-074.png",
+      "sizeBytes": 197287
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-075 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-075.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-075.png",
+      "sizeBytes": 213205
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-075 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-075_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-075_p1.png",
+      "sizeBytes": 182874
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-076 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-076.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-076.png",
+      "sizeBytes": 208581
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-076 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-076_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-076_p1.png",
+      "sizeBytes": 230803
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-077 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-077.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-077.png",
+      "sizeBytes": 210050
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-077 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-077_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-077_p1.png",
+      "sizeBytes": 255050
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-078 深海王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-078.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-078.png",
+      "sizeBytes": 210957
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-079 タレオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-079.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-079.png",
+      "sizeBytes": 203125
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-080 ボロス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-080.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-080.png",
+      "sizeBytes": 202103
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-081 ボロス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-081.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-081.png",
+      "sizeBytes": 227403
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-082 ボロス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-082.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-082.png",
+      "sizeBytes": 224169
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-082 ボロス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-082_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-082_p1.png",
+      "sizeBytes": 287093
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-083 ギョロギョロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-083.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-083.png",
+      "sizeBytes": 202550
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-084 業火のフレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-084.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-084.png",
+      "sizeBytes": 196425
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-085 ゴウケツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-085.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-085.png",
+      "sizeBytes": 201896
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-086 疾風のウィンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-086.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-086.png",
+      "sizeBytes": 204075
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-087 弩S",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-087.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-087.png",
+      "sizeBytes": 218488
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-088 弩S",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-088.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-088.png",
+      "sizeBytes": 217408
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-089 フェニックス男",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-089.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-089.png",
+      "sizeBytes": 205533
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-090 ムカデ長老",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-090.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-090.png",
+      "sizeBytes": 204286
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-091 アーマードゴリラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-091.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-091.png",
+      "sizeBytes": 221051
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-092 阿修羅カブト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-092.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-092.png",
+      "sizeBytes": 199636
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-093 ジーナス博士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-093.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-093.png",
+      "sizeBytes": 197115
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-094 獣王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-094.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-094.png",
+      "sizeBytes": 211557
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-095 モスキート娘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-095.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-095.png",
+      "sizeBytes": 218662
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-095 モスキート娘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-095_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-095_p1.png",
+      "sizeBytes": 285655
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-096 怪人協会",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-096.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-096.png",
+      "sizeBytes": 196352
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-097 怪人細胞",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-097.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-097.png",
+      "sizeBytes": 168134
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-098 ヒーロー名鑑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-098.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-098.png",
+      "sizeBytes": 181855
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-099 風刃脚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-099.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-099.png",
+      "sizeBytes": 194748
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-100 流水岩砕拳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-100.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-100.png",
+      "sizeBytes": 219803
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP01 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP01.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP01.png",
+      "sizeBytes": 185962
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP01 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP01_p1.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP01_p1.png",
+      "sizeBytes": 173362
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP02 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP02.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP02.png",
+      "sizeBytes": 145999
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP03 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP03.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP03.png",
+      "sizeBytes": 158644
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP04 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP04.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP04.png",
+      "sizeBytes": 124795
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP05 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP05.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP05.png",
+      "sizeBytes": 183486
+    },
+    {
+      "series": "ワンパンマン",
+      "seriesId": "570135",
+      "alt": "UA35BT/OPM-1-AP06 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA35BT_OPM-1-AP06.png?v8",
+      "localPath": "/cards/one-punch-man-2/UA35BT_OPM-1-AP06.png",
+      "sizeBytes": 184735
+    }
+  ],
+  "failures": []
+}

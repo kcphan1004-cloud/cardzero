@@ -1,0 +1,48 @@
+{
+  "generatedAt": "2026-07-13T18:55:23.241Z",
+  "series": {
+    "seriesId": "570501",
+    "title": "PREMIUM CARD SET WIND BREAKER",
+    "slug": "wind-breaker-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570501",
+  "totalFound": 4,
+  "downloaded": 4,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "PREMIUM CARD SET WIND BREAKER",
+      "seriesId": "570501",
+      "alt": "UA01PC/WBK-1-001 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01PC_WBK-1-001.png?v8",
+      "localPath": "/cards/wind-breaker-2/UA01PC_WBK-1-001.png",
+      "sizeBytes": 229167
+    },
+    {
+      "series": "PREMIUM CARD SET WIND BREAKER",
+      "seriesId": "570501",
+      "alt": "UA01PC/WBK-AP01 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01PC_WBK-AP01.png?v8",
+      "localPath": "/cards/wind-breaker-2/UA01PC_WBK-AP01.png",
+      "sizeBytes": 171392
+    },
+    {
+      "series": "PREMIUM CARD SET WIND BREAKER",
+      "seriesId": "570501",
+      "alt": "UA01PC/WBK-AP02 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01PC_WBK-AP02.png?v8",
+      "localPath": "/cards/wind-breaker-2/UA01PC_WBK-AP02.png",
+      "sizeBytes": 155620
+    },
+    {
+      "series": "PREMIUM CARD SET WIND BREAKER",
+      "seriesId": "570501",
+      "alt": "UA01PC/WBK-AP03 アクションポイントカード(WIND BREAKER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA01PC_WBK-AP03.png?v8",
+      "localPath": "/cards/wind-breaker-2/UA01PC_WBK-AP03.png",
+      "sizeBytes": 202292
+    }
+  ],
+  "failures": []
+}

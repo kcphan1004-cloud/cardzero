@@ -1,0 +1,1128 @@
+{
+  "generatedAt": "2026-07-13T18:51:46.688Z",
+  "series": {
+    "seriesId": "570136",
+    "title": "「マクロス」シリーズ",
+    "slug": "macross-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570136",
+  "totalFound": 139,
+  "downloaded": 139,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-001 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-001.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-001.png",
+      "sizeBytes": 192150
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-002 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-002.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-002.png",
+      "sizeBytes": 169995
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-003 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-003.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-003.png",
+      "sizeBytes": 179292
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-004 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-004.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-004.png",
+      "sizeBytes": 184206
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-005 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-005.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-005.png",
+      "sizeBytes": 187236
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-006 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-006.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-006.png",
+      "sizeBytes": 182589
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-007 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-007.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-007.png",
+      "sizeBytes": 200010
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-008 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-008.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-008.png",
+      "sizeBytes": 187701
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-008 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-008_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-008_p1.png",
+      "sizeBytes": 275711
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-009 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-009.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-009.png",
+      "sizeBytes": 194521
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-009 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-009_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-009_p1.png",
+      "sizeBytes": 235115
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-010 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-010.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-010.png",
+      "sizeBytes": 196024
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-010 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-010_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-010_p1.png",
+      "sizeBytes": 271529
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-011 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-011.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-011.png",
+      "sizeBytes": 215754
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-011 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-011_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-011_p1.png",
+      "sizeBytes": 312723
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-012 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-012.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-012.png",
+      "sizeBytes": 247752
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-012 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-012_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-012_p1.png",
+      "sizeBytes": 225744
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-012 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-012_p2.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-012_p2.png",
+      "sizeBytes": 291183
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-013 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-013.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-013.png",
+      "sizeBytes": 164678
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-014 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-014.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-014.png",
+      "sizeBytes": 186222
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-015 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-015.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-015.png",
+      "sizeBytes": 191162
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-016 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-016.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-016.png",
+      "sizeBytes": 158925
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-017 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-017.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-017.png",
+      "sizeBytes": 187542
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-018 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-018.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-018.png",
+      "sizeBytes": 198136
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-019 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-019.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-019.png",
+      "sizeBytes": 202230
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-019 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-019_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-019_p1.png",
+      "sizeBytes": 259099
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-020 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-020.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-020.png",
+      "sizeBytes": 168165
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-020 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-020_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-020_p1.png",
+      "sizeBytes": 252948
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-021 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-021.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-021.png",
+      "sizeBytes": 186271
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-021 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-021_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-021_p1.png",
+      "sizeBytes": 256439
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-022 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-022.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-022.png",
+      "sizeBytes": 219752
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-022 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-022_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-022_p1.png",
+      "sizeBytes": 312537
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-023 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-023.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-023.png",
+      "sizeBytes": 242543
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-023 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-023_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-023_p1.png",
+      "sizeBytes": 221672
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-023 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-023_p2.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-023_p2.png",
+      "sizeBytes": 287438
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-024 超時空飯店 娘々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-024.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-024.png",
+      "sizeBytes": 169284
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-025 みんな抱きしめて！銀河の果てまで！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-025.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-025.png",
+      "sizeBytes": 182700
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-026 私の歌を聴けー！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-026.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-026.png",
+      "sizeBytes": 175709
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-027 射手座☆午後九時Don",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-027.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-027.png",
+      "sizeBytes": 189809
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-028 ダイアモンド クレバス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-028.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-028.png",
+      "sizeBytes": 186000
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-029 ノーザンクロス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-029.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-029.png",
+      "sizeBytes": 195814
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-030 アイモ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-030.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-030.png",
+      "sizeBytes": 181611
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-031 星間飛行",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-031.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-031.png",
+      "sizeBytes": 182213
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-032 私の彼はパイロット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-032.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-032.png",
+      "sizeBytes": 174393
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-033 What",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-033.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-033.png",
+      "sizeBytes": 176817
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-034 ガルド・ゴア・ボーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-034.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-034.png",
+      "sizeBytes": 150727
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-035 ガルド・ゴア・ボーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-035.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-035.png",
+      "sizeBytes": 190169
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-036 ガルド・ゴア・ボーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-036.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-036.png",
+      "sizeBytes": 189611
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-037 ミュン・ファン・ローン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-037.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-037.png",
+      "sizeBytes": 174213
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-037 ミュン・ファン・ローン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-037_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-037_p1.png",
+      "sizeBytes": 185616
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-038 ヤン・ノイマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-038.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-038.png",
+      "sizeBytes": 172530
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-039 イサム・ダイソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-039.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-039.png",
+      "sizeBytes": 169193
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-040 イサム・ダイソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-040.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-040.png",
+      "sizeBytes": 177741
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-041 イサム・ダイソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-041.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-041.png",
+      "sizeBytes": 196335
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-042 ルーシー・マクミラン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-042.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-042.png",
+      "sizeBytes": 184059
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-043 YF-21（ガルド・ゴア・ボーマン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-043.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-043.png",
+      "sizeBytes": 188756
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-044 YF-21（ガルド・ゴア・ボーマン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-044.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-044.png",
+      "sizeBytes": 207744
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-044 YF-21（ガルド・ゴア・ボーマン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-044_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-044_p1.png",
+      "sizeBytes": 260062
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-045 YF-19（イサム・ダイソン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-045.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-045.png",
+      "sizeBytes": 211847
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-045 YF-19（イサム・ダイソン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-045_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-045_p1.png",
+      "sizeBytes": 255913
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-046 YF-19（イサム・ダイソン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-046.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-046.png",
+      "sizeBytes": 177816
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-047 ニューエドワーズ基地",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-047.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-047.png",
+      "sizeBytes": 200394
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-048 「スーパー・ノヴァ」計画",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-048.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-048.png",
+      "sizeBytes": 214219
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-049 ドッグファイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-049.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-049.png",
+      "sizeBytes": 198654
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-050 必殺・竜鳥飛び",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-050.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-050.png",
+      "sizeBytes": 164772
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-051 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-051.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-051.png",
+      "sizeBytes": 227056
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-051 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-051_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-051_p1.png",
+      "sizeBytes": 274187
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-052 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-052.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-052.png",
+      "sizeBytes": 204969
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-052 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-052_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-052_p1.png",
+      "sizeBytes": 260440
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-053 キャサリン・グラス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-053.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-053.png",
+      "sizeBytes": 188430
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-054 VF-27 ルシファー（ブレラ・スターン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-054.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-054.png",
+      "sizeBytes": 205547
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-054 VF-27 ルシファー（ブレラ・スターン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-054_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-054_p1.png",
+      "sizeBytes": 247142
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-055 オズマ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-055.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-055.png",
+      "sizeBytes": 174193
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-056 早乙女 アルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-056.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-056.png",
+      "sizeBytes": 182588
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-057 早乙女 アルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-057.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-057.png",
+      "sizeBytes": 182618
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-058 ミハエル・ブラン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-058.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-058.png",
+      "sizeBytes": 189510
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-059 ルカ・アンジェローニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-059.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-059.png",
+      "sizeBytes": 193340
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-060 クァドラン・レア（クラン・クラン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-060.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-060.png",
+      "sizeBytes": 186720
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-060 クァドラン・レア（クラン・クラン）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-060_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-060_p1.png",
+      "sizeBytes": 252395
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-061 クラン・クラン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-061.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-061.png",
+      "sizeBytes": 177461
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-062 VF-25S メサイア（オズマ・リー）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-062.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-062.png",
+      "sizeBytes": 197893
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-062 VF-25S メサイア（オズマ・リー）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-062_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-062_p1.png",
+      "sizeBytes": 247669
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-063 VF-25F メサイア（早乙女 アルト）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-063.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-063.png",
+      "sizeBytes": 227353
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-063 VF-25F メサイア（早乙女 アルト）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-063_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-063_p1.png",
+      "sizeBytes": 271928
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-064 マクロス・クォーター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-064.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-064.png",
+      "sizeBytes": 198479
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-065 トライアングラー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-065.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-065.png",
+      "sizeBytes": 221666
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-066 ライオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-066.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-066.png",
+      "sizeBytes": 181961
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-067 リン・ミンメイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-067.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-067.png",
+      "sizeBytes": 191468
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-067 リン・ミンメイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-067_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-067_p1.png",
+      "sizeBytes": 253244
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-067 リン・ミンメイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-067_p2.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-067_p2.png",
+      "sizeBytes": 220365
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-068 一条 輝",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-068.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-068.png",
+      "sizeBytes": 220455
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-069 早瀬 未沙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-069.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-069.png",
+      "sizeBytes": 235679
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-070 グババ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-070.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-070.png",
+      "sizeBytes": 187558
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-071 花束の少女",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-071.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-071.png",
+      "sizeBytes": 194910
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-072 ミリア・ファリーナ・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-072.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-072.png",
+      "sizeBytes": 168393
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-073 ミリア・ファリーナ・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-073.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-073.png",
+      "sizeBytes": 188647
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-074 エキセドル・フォルモ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-074.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-074.png",
+      "sizeBytes": 197585
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-075 サリー・セイント・フォード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-075.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-075.png",
+      "sizeBytes": 191917
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-076 マクシミリアン・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-076.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-076.png",
+      "sizeBytes": 183016
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-077 マクシミリアン・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-077.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-077.png",
+      "sizeBytes": 199284
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-078 美保 美穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-078.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-078.png",
+      "sizeBytes": 172417
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-079 VF-22S（ミリア・ファリーナ・ジーナス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-079.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-079.png",
+      "sizeBytes": 204546
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-079 VF-22S（ミリア・ファリーナ・ジーナス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-079_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-079_p1.png",
+      "sizeBytes": 229622
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-080 熱気 バサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-080.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-080.png",
+      "sizeBytes": 193874
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-081 熱気 バサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-081.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-081.png",
+      "sizeBytes": 193640
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-081 熱気 バサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-081_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-081_p1.png",
+      "sizeBytes": 229659
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-082 熱気 バサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-082.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-082.png",
+      "sizeBytes": 194835
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-082 熱気 バサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-082_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-082_p1.png",
+      "sizeBytes": 259160
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-083 ビヒーダ・フィーズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-083.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-083.png",
+      "sizeBytes": 167215
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-084 ミレーヌ・フレア・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-084.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-084.png",
+      "sizeBytes": 180617
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-085 ミレーヌ・フレア・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-085.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-085.png",
+      "sizeBytes": 195341
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-086 ミレーヌ・フレア・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-086.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-086.png",
+      "sizeBytes": 192258
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-086 ミレーヌ・フレア・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-086_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-086_p1.png",
+      "sizeBytes": 213965
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-087 レイ・ラブロック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-087.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-087.png",
+      "sizeBytes": 179977
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-088 シビル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-088.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-088.png",
+      "sizeBytes": 191465
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-089 ガムリン木崎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-089.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-089.png",
+      "sizeBytes": 159709
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-090 ガムリン木崎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-090.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-090.png",
+      "sizeBytes": 179735
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-091 VF-22S（マクシミリアン・ジーナス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-091.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-091.png",
+      "sizeBytes": 189400
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-091 VF-22S（マクシミリアン・ジーナス）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-091_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-091_p1.png",
+      "sizeBytes": 218684
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-092 VF-11MAXL改 ミレーヌバルキリー(ミレーヌ・フレア・ジーナス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-092.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-092.png",
+      "sizeBytes": 234497
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-092 VF-11MAXL改 ミレーヌバルキリー(ミレーヌ・フレア・ジーナス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-092_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-092_p1.png",
+      "sizeBytes": 279103
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-093 VF-19改 ファイヤーバルキリー（熱気 バサラ）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-093.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-093.png",
+      "sizeBytes": 249297
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-093 VF-19改 ファイヤーバルキリー（熱気 バサラ）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-093_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-093_p1.png",
+      "sizeBytes": 287738
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-094 ギギル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-094.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-094.png",
+      "sizeBytes": 192732
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-095 VF-17 ナイトメア(ガムリン木崎）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-095.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-095.png",
+      "sizeBytes": 174491
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-095 VF-17 ナイトメア(ガムリン木崎）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-095_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-095_p1.png",
+      "sizeBytes": 231086
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-096 バトル7",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-096.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-096.png",
+      "sizeBytes": 238367
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-097 俺の歌を聞けぇ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-097.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-097.png",
+      "sizeBytes": 167188
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-098 マイクロミサイル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-098.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-098.png",
+      "sizeBytes": 168806
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-099 突撃ラブハート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-099.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-099.png",
+      "sizeBytes": 205396
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-100 TRY AGAIN",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-100.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-100.png",
+      "sizeBytes": 207043
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP01 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP01.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP01.png",
+      "sizeBytes": 267213
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP01 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP01_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP01_p1.png",
+      "sizeBytes": 159097
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP02 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP02.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP02.png",
+      "sizeBytes": 273556
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP02 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP02_p1.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP02_p1.png",
+      "sizeBytes": 162925
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP03 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP03.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP03.png",
+      "sizeBytes": 209903
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP04 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP04.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP04.png",
+      "sizeBytes": 225165
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP05 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP05.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP05.png",
+      "sizeBytes": 219030
+    },
+    {
+      "series": "「マクロス」シリーズ",
+      "seriesId": "570136",
+      "alt": "UA36BT/MCR-1-AP06 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA36BT_MCR-1-AP06.png?v8",
+      "localPath": "/cards/macross-2/UA36BT_MCR-1-AP06.png",
+      "sizeBytes": 259476
+    }
+  ],
+  "failures": []
+}

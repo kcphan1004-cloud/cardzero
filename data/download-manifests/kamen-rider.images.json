@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:39:50.641Z",
+  "series": {
+    "seriesId": "570029",
+    "title": "仮面ライダー",
+    "slug": "kamen-rider"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570029",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-016 仮面ライダーバルカン アサルトウルフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-016.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-016.png",
+      "sizeBytes": 223759
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-017 仮面ライダーバルカン シューティングウルフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-017.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-017.png",
+      "sizeBytes": 197972
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-018 仮面ライダーバルキリー ラッシングチーター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-018.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-018.png",
+      "sizeBytes": 181708
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-023 仮面ライダーゼロワン ライジングホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-023.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-023.png",
+      "sizeBytes": 161661
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-025 仮面ライダー迅 バーニングファルコン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-025.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-025.png",
+      "sizeBytes": 212586
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-026 仮面ライダー迅 フライングファルコン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-026.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-026.png",
+      "sizeBytes": 188430
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-027 仮面ライダー滅",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-027.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-027.png",
+      "sizeBytes": 204380
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-032 変身",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-032.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-032.png",
+      "sizeBytes": 180754
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-033 ライジングインパクト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-033.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-033.png",
+      "sizeBytes": 183579
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-101 仮面ライダー001",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-101.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-101.png",
+      "sizeBytes": 206730
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-102 仮面ライダーバルカン パンチングコング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-102.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-102.png",
+      "sizeBytes": 191645
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-103 仮面ライダーバルキリー ライトニングホーネット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-103.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-103.png",
+      "sizeBytes": 188160
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-104 仮面ライダーゼロツー（或人）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-104.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-104.png",
+      "sizeBytes": 236334
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-105 仮面ライダーゼロワン シャイニングアサルトホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-105.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-105.png",
+      "sizeBytes": 194983
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-106 仮面ライダーゼロワン シャイニングホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-106.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-106.png",
+      "sizeBytes": 195345
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-107 仮面ライダーゼロワン リアライジングホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-107.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-107.png",
+      "sizeBytes": 239575
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-108 衛星ゼア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-108.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-108.png",
+      "sizeBytes": 210846
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-109 お前を止められるのはただ一人、俺だ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-109.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-109.png",
+      "sizeBytes": 181067
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-110 仮面ライダーオーズ タトバ コンボ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-110.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-110.png",
+      "sizeBytes": 210368
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-110 仮面ライダーオーズ タトバ コンボ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-110_p1.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-110_p1.png",
+      "sizeBytes": 175917
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-111 仮面ライダーゲンム アクションゲーマー レベル0",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-111.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-111.png",
+      "sizeBytes": 211867
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-111 仮面ライダーゲンム アクションゲーマー レベル0",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-111_p1.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-111_p1.png",
+      "sizeBytes": 186623
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-112 仮面ライダーゼロノス ベガフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-112.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-112.png",
+      "sizeBytes": 221269
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-112 仮面ライダーゼロノス ベガフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-112_p1.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-112_p1.png",
+      "sizeBytes": 177953
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-113 仮面ライダーミューズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-113.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-113.png",
+      "sizeBytes": 206690
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-113 仮面ライダーミューズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-113_p1.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-113_p1.png",
+      "sizeBytes": 198820
+    },
+    {
+      "series": "仮面ライダー",
+      "seriesId": "570029",
+      "alt": "UA29ST/KMR-1-AP01 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA29ST_KMR-1-AP01.png?v8",
+      "localPath": "/cards/kamen-rider/UA29ST_KMR-1-AP01.png",
+      "sizeBytes": 223447
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,4989 @@
+{
+  "generatedAt": "2026-07-13T19:20:21.644Z",
+  "series": {
+    "seriesId": "570901",
+    "title": "プロモーションカード",
+    "slug": "series-570901"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570901",
+  "totalFound": 629,
+  "downloaded": 609,
+  "skipped": 0,
+  "failed": 20,
+  "images": [
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "PCPR/NIK-2-013 シンデレラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/PCPR_NIK-2-013.png?v8",
+      "localPath": "/cards/series-570901/PCPR_NIK-2-013.png",
+      "sizeBytes": 257920
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/ARK-AP01 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_ARK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_ARK-AP01.png",
+      "sizeBytes": 292274
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/ARK-AP02 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_ARK-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPB_ARK-AP02.png",
+      "sizeBytes": 194719
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/BLC-AP01 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_BLC-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_BLC-AP01.png",
+      "sizeBytes": 173475
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/BLK-AP01 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_BLK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_BLK-AP01.png",
+      "sizeBytes": 156541
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/CGH-AP04 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_CGH-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPB_CGH-AP04.png",
+      "sizeBytes": 238875
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/EVA-AP01 アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_EVA-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_EVA-AP01.png",
+      "sizeBytes": 197828
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-002 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-002.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-002.png",
+      "sizeBytes": 232973
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-004 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-004.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-004.png",
+      "sizeBytes": 226660
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-009 雨夜 燕",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-009.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-009.png",
+      "sizeBytes": 237596
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-013 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-013.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-013.png",
+      "sizeBytes": 228215
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-017 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-017.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-017.png",
+      "sizeBytes": 231060
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-021 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-021.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-021.png",
+      "sizeBytes": 253403
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-023 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-023.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-023.png",
+      "sizeBytes": 234435
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-025 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-025.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-025.png",
+      "sizeBytes": 237977
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-027 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-027.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-027.png",
+      "sizeBytes": 232559
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-030 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-030.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-030.png",
+      "sizeBytes": 241007
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-032 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-032.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-032.png",
+      "sizeBytes": 250443
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-045 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-045.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-045.png",
+      "sizeBytes": 238668
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-2-059 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-2-059.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-2-059.png",
+      "sizeBytes": 232081
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-AP01 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-AP01.png",
+      "sizeBytes": 226946
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GIM-AP02 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GIM-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GIM-AP02.png",
+      "sizeBytes": 194813
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/GNT-AP01 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_GNT-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_GNT-AP01.png",
+      "sizeBytes": 272242
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/HIQ-AP01 アクションポイントカード(ハイキュー‼)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_HIQ-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_HIQ-AP01.png",
+      "sizeBytes": 106429
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/HTR-AP04 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_HTR-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPB_HTR-AP04.png",
+      "sizeBytes": 248704
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/IMS-AP01 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_IMS-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_IMS-AP01.png",
+      "sizeBytes": 295282
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/JJK-AP04 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_JJK-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPB_JJK-AP04.png",
+      "sizeBytes": 213640
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/KGR-AP01 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_KGR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_KGR-AP01.png",
+      "sizeBytes": 185828
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/KMR-AP01 アクションポイントカード(仮面ライダー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_KMR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_KMR-AP01.png",
+      "sizeBytes": 183356
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/MMM-AP01 アクションポイントカード(魔法少女まどか☆マギカ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_MMM-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_MMM-AP01.png",
+      "sizeBytes": 233735
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/NIK-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_NIK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_NIK-AP01.png",
+      "sizeBytes": 261350
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/REZ-AP01 アクションポイントカード(Re:ゼロから始める異世界生活)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_REZ-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_REZ-AP01.png",
+      "sizeBytes": 199595
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/SAO-AP01 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_SAO-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_SAO-AP01.png",
+      "sizeBytes": 198188
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/SLG-AP01 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_SLG-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_SLG-AP01.png",
+      "sizeBytes": 204295
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-011 結城 美柑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-011.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-011.png",
+      "sizeBytes": 223999
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-019 黒咲 芽亜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-019.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-019.png",
+      "sizeBytes": 228217
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-025 金色の闇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-025.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-025.png",
+      "sizeBytes": 244897
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-044 古手川 唯",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-044.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-044.png",
+      "sizeBytes": 218808
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-049 西連寺 春菜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-049.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-049.png",
+      "sizeBytes": 212594
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-058 ナナ・アスタ・デビルーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-058.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-058.png",
+      "sizeBytes": 213071
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-065 モモ・ベリア・デビルーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-065.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-065.png",
+      "sizeBytes": 219629
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-1-073 ララ・サタリン・デビルーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-1-073.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-1-073.png",
+      "sizeBytes": 233462
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-AP01 アクションポイントカード(To LOVEる-とらぶる-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-AP01.png",
+      "sizeBytes": 218306
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TLR-AP02 アクションポイントカード(To LOVEる-とらぶる-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TLR-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TLR-AP02.png",
+      "sizeBytes": 270688
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/TSK-AP01 アクションポイントカード(転生したらスライムだった件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_TSK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_TSK-AP01.png",
+      "sizeBytes": 222178
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPB/YYH-AP01 アクションポイントカード(幽☆遊☆白書)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPB_YYH-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPB_YYH-AP01.png",
+      "sizeBytes": 234812
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2023-AP01 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2023-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2023-AP01.png",
+      "sizeBytes": 81976
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2023-AP02 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2023-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2023-AP02.png",
+      "sizeBytes": 120001
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2023-AP03 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2023-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2023-AP03.png",
+      "sizeBytes": 129283
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2023-AP04 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2023-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2023-AP04.png",
+      "sizeBytes": 177347
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2023-AP05 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2023-AP05.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2023-AP05.png",
+      "sizeBytes": 178668
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2023-AP06 アクションポイントカード(カードラボ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2023-AP06.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2023-AP06.png",
+      "sizeBytes": 132873
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2024-AP01 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2024-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2024-AP01.png",
+      "sizeBytes": 197729
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2024-AP02 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2024-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2024-AP02.png",
+      "sizeBytes": 198895
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2024-AP03 アクションポイントカード(伊織もえ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2024-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2024-AP03.png",
+      "sizeBytes": 176387
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2024-AP04 アクションポイントカード(伊織もえ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2024-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2024-AP04.png",
+      "sizeBytes": 211676
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP01 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP01.png",
+      "sizeBytes": 198738
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP02 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP02.png",
+      "sizeBytes": 218672
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP03 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP03.png",
+      "sizeBytes": 209896
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP04 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP04.png",
+      "sizeBytes": 229457
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP05 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP05.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP05.png",
+      "sizeBytes": 224131
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP06 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP06.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP06.png",
+      "sizeBytes": 224237
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP07 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP07.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP07.png",
+      "sizeBytes": 224534
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP08 アクションポイントカード(塩島弾)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP08.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP08.png",
+      "sizeBytes": 206342
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2025-AP09 アクションポイントカード(伊織もえ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2025-AP09.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2025-AP09.png",
+      "sizeBytes": 227323
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2026-AP01 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2026-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2026-AP01.png",
+      "sizeBytes": 189339
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2026-AP02 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2026-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2026-AP02.png",
+      "sizeBytes": 237982
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2026-AP04 アクションポイントカード(UNION ARENA)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2026-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2026-AP04.png",
+      "sizeBytes": 269864
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/2026-AP06 アクションポイントカード(塩島弾)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_2026-AP06.png?v8",
+      "localPath": "/cards/series-570901/UAPR_2026-AP06.png",
+      "sizeBytes": 201263
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AND-1-006 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AND-1-006.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AND-1-006.png",
+      "sizeBytes": 217141
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AND-1-046 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AND-1-046.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AND-1-046.png",
+      "sizeBytes": 136681
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AND-1-046 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AND-1-046_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AND-1-046_p1.png",
+      "sizeBytes": 140797
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AND-1-047 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AND-1-047.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AND-1-047.png",
+      "sizeBytes": 218801
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-1-010 リヴァイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-1-010.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-1-010.png",
+      "sizeBytes": 261582
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-1-010 リヴァイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-1-010_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-1-010_p1.png",
+      "sizeBytes": 261928
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-1-023 ミカサ・アッカーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-1-023.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-1-023.png",
+      "sizeBytes": 233689
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-1-075 アルミン・アルレルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-1-075.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-1-075.png",
+      "sizeBytes": 234918
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-1-092 エレン・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-1-092.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-1-092.png",
+      "sizeBytes": 154110
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-1-092 エレン・イェーガー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-1-092_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-1-092_p1.png",
+      "sizeBytes": 158442
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-2-003 ガビ・ブラウン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-2-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-2-003.png",
+      "sizeBytes": 205360
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-2-008 ミカサ・アッカーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-2-008.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-2-008.png",
+      "sizeBytes": 191579
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-2-008 ミカサ・アッカーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-2-008_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-2-008_p1.png",
+      "sizeBytes": 196905
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-2-068 アルミン・アルレルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-2-068.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-2-068.png",
+      "sizeBytes": 200096
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/AOT-P-001 進撃の巨人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_AOT-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_AOT-P-001.png",
+      "sizeBytes": 244999
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-014 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-014.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-014.png",
+      "sizeBytes": 251505
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-040 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-040.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-040.png",
+      "sizeBytes": 213615
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-042 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-042.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-042.png",
+      "sizeBytes": 164206
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-042 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-042_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-042_p1.png",
+      "sizeBytes": 168681
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-045 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-045.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-045.png",
+      "sizeBytes": 206380
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-046 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-046.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-046.png",
+      "sizeBytes": 260474
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-077 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-077.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-077.png",
+      "sizeBytes": 241051
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-1-084 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-1-084.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-1-084.png",
+      "sizeBytes": 190528
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-2-016 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-2-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-2-016.png",
+      "sizeBytes": 177842
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-2-048 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-2-048.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-2-048.png",
+      "sizeBytes": 280013
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-2-049 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-2-049.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-2-049.png",
+      "sizeBytes": 191452
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-2-051 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-2-051.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-2-051.png",
+      "sizeBytes": 202974
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-2-051 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-2-051_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-2-051_p1.png",
+      "sizeBytes": 199618
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-P-001 アークナイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-P-001.png",
+      "sizeBytes": 249726
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/ARK-P-002 アークナイツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_ARK-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_ARK-P-002.png",
+      "sizeBytes": 216692
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BCV-1-039 フエゴレオン・ヴァーミリオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BCV-1-039.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BCV-1-039.png",
+      "sizeBytes": 240566
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BCV-1-056 ユノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BCV-1-056.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BCV-1-056.png",
+      "sizeBytes": 228041
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BCV-1-074 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BCV-1-074.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BCV-1-074.png",
+      "sizeBytes": 243264
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BCV-1-075 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BCV-1-075.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BCV-1-075.png",
+      "sizeBytes": 157493
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BCV-1-075 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BCV-1-075_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BCV-1-075_p1.png",
+      "sizeBytes": 161104
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-041 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-041.png",
+      "sizeBytes": 135548
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-041 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-041_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-041_p1.png",
+      "sizeBytes": 139568
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-046 阿散井 恋次",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-046.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-046.png",
+      "sizeBytes": 191970
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-049 朽木 白哉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-049.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-049.png",
+      "sizeBytes": 205822
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-053 朽木 ルキア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-053.png",
+      "sizeBytes": 172076
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-053 朽木 ルキア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-053_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-053_p1.png",
+      "sizeBytes": 177964
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-084 日番谷 冬獅郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-084.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-084.png",
+      "sizeBytes": 216989
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-103 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-103.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-103.png",
+      "sizeBytes": 275465
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-1-103 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-1-103_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-1-103_p1.png",
+      "sizeBytes": 188524
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-2-016 黒崎 一護",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-2-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-2-016.png",
+      "sizeBytes": 193932
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-2-029 朽木 白哉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-2-029.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-2-029.png",
+      "sizeBytes": 202636
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-2-032 朽木 ルキア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-2-032.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-2-032.png",
+      "sizeBytes": 183647
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-2-034 朽木 ルキア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-2-034.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-2-034.png",
+      "sizeBytes": 145117
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-2-034 朽木 ルキア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-2-034_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-2-034_p1.png",
+      "sizeBytes": 150942
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-AP01 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-AP01.png",
+      "sizeBytes": 180236
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-AP02 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-AP02.png",
+      "sizeBytes": 149632
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-AP03 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-AP03.png",
+      "sizeBytes": 213421
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLC-AP04 アクションポイントカード(BLEACH 千年血戦篇)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLC-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLC-AP04.png",
+      "sizeBytes": 171974
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-1-005 絵心 甚八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-1-005.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-1-005.png",
+      "sizeBytes": 198753
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-1-021 馬狼 照英",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-1-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-1-021.png",
+      "sizeBytes": 213035
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-1-046 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-1-046.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-1-046.png",
+      "sizeBytes": 136181
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-1-046 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-1-046_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-1-046_p1.png",
+      "sizeBytes": 141720
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-1-075 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-1-075.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-1-075.png",
+      "sizeBytes": 162178
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-1-075 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-1-075_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-1-075_p1.png",
+      "sizeBytes": 165978
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-AP01 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-AP01.png",
+      "sizeBytes": 133400
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BLK-AP02 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BLK-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BLK-AP02.png",
+      "sizeBytes": 172178
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-1-022 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-1-022.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-1-022.png",
+      "sizeBytes": 212300
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-1-026 ニョンタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-1-026.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-1-026.png",
+      "sizeBytes": 172123
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-1-044 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-1-044.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-1-044.png",
+      "sizeBytes": 190868
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-1-045 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-1-045.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-1-045.png",
+      "sizeBytes": 168750
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-1-106 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-1-106.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-1-106.png",
+      "sizeBytes": 122460
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-1-106 ロボコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-1-106_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-1-106_p1.png",
+      "sizeBytes": 128551
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-AP01 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-AP01.png",
+      "sizeBytes": 121456
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-AP02 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-AP02.png",
+      "sizeBytes": 184380
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-AP03 アクションポイントカード(僕とロボコ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-AP03.png",
+      "sizeBytes": 209570
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-P-001 ロボコ（本格SFアクションの世界線）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-P-001.png",
+      "sizeBytes": 227769
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-P-002 ロボコ（王道バトルの世界線）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-P-002.png",
+      "sizeBytes": 229570
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-P-003 ロボコ（昭和ギャグ漫画の世界線）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-P-003.png",
+      "sizeBytes": 210610
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/BTR-P-004 ロボコ（ラブコメの世界線）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_BTR-P-004.png?v8",
+      "localPath": "/cards/series-570901/UAPR_BTR-P-004.png",
+      "sizeBytes": 227774
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGD-1-023 アッシュ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGD-1-023.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGD-1-023.png",
+      "sizeBytes": 185450
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGD-1-027 ロゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGD-1-027.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGD-1-027.png",
+      "sizeBytes": 173753
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGD-1-027 ロゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGD-1-027_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGD-1-027_p1.png",
+      "sizeBytes": 174801
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGD-1-049 キャサリン・サバスラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGD-1-049.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGD-1-049.png",
+      "sizeBytes": 203632
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGD-AP01 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGD-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGD-AP01.png",
+      "sizeBytes": 235138
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGD-AP02 アクションポイントカード(コードギアス 奪還のロゼ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGD-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGD-AP02.png",
+      "sizeBytes": 172798
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-007 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-007.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-007.png",
+      "sizeBytes": 148569
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-007 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-007_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-007_p1.png",
+      "sizeBytes": 160072
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-016 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-016.png",
+      "sizeBytes": 176422
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-017 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-017.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-017.png",
+      "sizeBytes": 114639
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-017 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-017_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-017_p1.png",
+      "sizeBytes": 119970
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-035 枢木 スザク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-035.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-035.png",
+      "sizeBytes": 138956
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-077 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-077.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-077.png",
+      "sizeBytes": 213000
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-1-091 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-1-091.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-1-091.png",
+      "sizeBytes": 189311
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-2-004 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-2-004.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-2-004.png",
+      "sizeBytes": 183489
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-2-019 天子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-2-019.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-2-019.png",
+      "sizeBytes": 197921
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-2-066 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-2-066.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-2-066.png",
+      "sizeBytes": 141994
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-2-066 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-2-066_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-2-066_p1.png",
+      "sizeBytes": 147365
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-AP01 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-AP01.png",
+      "sizeBytes": 157759
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-AP02 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-AP02.png",
+      "sizeBytes": 187790
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-AP03 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-AP03.png",
+      "sizeBytes": 141596
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-AP04 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-AP04.png",
+      "sizeBytes": 163064
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-AP05 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-AP05.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-AP05.png",
+      "sizeBytes": 173681
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-P-001 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-P-001.png",
+      "sizeBytes": 201493
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-P-002 紅月 カレン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-P-002.png",
+      "sizeBytes": 159913
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CGH-P-003 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CGH-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CGH-P-003.png",
+      "sizeBytes": 211900
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CSM-1-008 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CSM-1-008.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CSM-1-008.png",
+      "sizeBytes": 198787
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CSM-1-008 デンジ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CSM-1-008_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CSM-1-008_p1.png",
+      "sizeBytes": 201436
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CSM-1-021 マキマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CSM-1-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CSM-1-021.png",
+      "sizeBytes": 183179
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CSM-1-026 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CSM-1-026.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CSM-1-026.png",
+      "sizeBytes": 178394
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/CSM-1-027 レゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_CSM-1-027.png?v8",
+      "localPath": "/cards/series-570901/UAPR_CSM-1-027.png",
+      "sizeBytes": 223942
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-1-002 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-1-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-1-002.png",
+      "sizeBytes": 251122
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-1-006 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-1-006.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-1-006.png",
+      "sizeBytes": 219079
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-1-039 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-1-039.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-1-039.png",
+      "sizeBytes": 1033046
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-1-052 獅子王 司",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-1-052.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-1-052.png",
+      "sizeBytes": 222712
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-1-078 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-1-078.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-1-078.png",
+      "sizeBytes": 157032
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-1-078 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-1-078_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-1-078_p1.png",
+      "sizeBytes": 159244
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-AP01 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-AP01.png",
+      "sizeBytes": 188124
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-AP03 アクションポイントカード(Dr.STONE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-AP03.png",
+      "sizeBytes": 208402
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-P-001 七海 龍水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-P-001.png",
+      "sizeBytes": 191369
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-P-002 あさぎり ゲン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-P-002.png",
+      "sizeBytes": 196312
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/DST-P-003 石神 千空",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_DST-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_DST-P-003.png",
+      "sizeBytes": 222078
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-010 式波・アスカ・ラングレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-010.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-010.png",
+      "sizeBytes": 171885
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-016 真希波・マリ・イラストリアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-016.png",
+      "sizeBytes": 188828
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-070 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-070.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-070.png",
+      "sizeBytes": 167644
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-071 綾波 レイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-071.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-071.png",
+      "sizeBytes": 194337
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-079 エヴァンゲリオン初号機 疑似シン化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-079.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-079.png",
+      "sizeBytes": 207371
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-079 エヴァンゲリオン初号機 疑似シン化",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-079_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-079_p1.png",
+      "sizeBytes": 208147
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-080 エヴァンゲリオン零号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-080.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-080.png",
+      "sizeBytes": 273837
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-1-080 エヴァンゲリオン零号機",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-1-080_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-1-080_p1.png",
+      "sizeBytes": 270395
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/EVA-P-001 ヱヴァンゲリヲン新劇場版",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_EVA-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_EVA-P-001.png",
+      "sizeBytes": 185282
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/FMA-1-010 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_FMA-1-010.png?v8",
+      "localPath": "/cards/series-570901/UAPR_FMA-1-010.png",
+      "sizeBytes": 239150
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/FMA-1-012 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_FMA-1-012.png?v8",
+      "localPath": "/cards/series-570901/UAPR_FMA-1-012.png",
+      "sizeBytes": 207775
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/FMA-1-012 エドワード・エルリック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_FMA-1-012_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_FMA-1-012_p1.png",
+      "sizeBytes": 208828
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/FMA-1-053 ロイ・マスタング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_FMA-1-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_FMA-1-053.png",
+      "sizeBytes": 226545
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/FMA-P-001 鋼の錬金術師 FULLMETAL ALCHEMIST",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_FMA-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_FMA-P-001.png",
+      "sizeBytes": 237758
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-003 倉本 千奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-003.png",
+      "sizeBytes": 176941
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-008 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-008.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-008.png",
+      "sizeBytes": 172024
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-013 姫崎 莉波",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-013.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-013.png",
+      "sizeBytes": 167027
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-017 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-017.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-017.png",
+      "sizeBytes": 176701
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-021 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-021.png",
+      "sizeBytes": 161842
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-025 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-025.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-025.png",
+      "sizeBytes": 179621
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-026 花海 佑芽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-026.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-026.png",
+      "sizeBytes": 158745
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-041 有村 麻央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-041.png",
+      "sizeBytes": 161957
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-045 葛城 リーリヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-045.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-045.png",
+      "sizeBytes": 162304
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-050 紫雲 清夏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-050.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-050.png",
+      "sizeBytes": 181313
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-054 篠澤 広",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-054.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-054.png",
+      "sizeBytes": 178173
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-060 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-060.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-060.png",
+      "sizeBytes": 170505
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-063 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-063.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-063.png",
+      "sizeBytes": 265642
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-063 月村 手毬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-063_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-063_p1.png",
+      "sizeBytes": 263352
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-064 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-064.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-064.png",
+      "sizeBytes": 190024
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-065 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-065.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-065.png",
+      "sizeBytes": 231981
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-066 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-066.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-066.png",
+      "sizeBytes": 148018
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-068 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-068.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-068.png",
+      "sizeBytes": 163478
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-068 花海 咲季",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-068_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-068_p1.png",
+      "sizeBytes": 168915
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-069 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-069.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-069.png",
+      "sizeBytes": 166563
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-1-069 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-1-069_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-1-069_p1.png",
+      "sizeBytes": 223256
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-2-009 雨夜 燕",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-2-009.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-2-009.png",
+      "sizeBytes": 207352
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-2-021 秦谷 美鈴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-2-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-2-021.png",
+      "sizeBytes": 192521
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-2-031 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-2-031.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-2-031.png",
+      "sizeBytes": 183903
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-2-031 藤田 ことね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-2-031_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-2-031_p1.png",
+      "sizeBytes": 180115
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-2-032 十王 星南",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-2-032.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-2-032.png",
+      "sizeBytes": 221906
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-AP01 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-AP01.png",
+      "sizeBytes": 217001
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-AP02 アクションポイントカード(学園アイドルマスター)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-AP02.png",
+      "sizeBytes": 215084
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GIM-P-001 学園アイドルマスター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GIM-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GIM-P-001.png",
+      "sizeBytes": 222512
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GMR-1-002 エミコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GMR-1-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GMR-1-002.png",
+      "sizeBytes": 165430
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GMR-1-048 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GMR-1-048.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GMR-1-048.png",
+      "sizeBytes": 258600
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GMR-1-072 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GMR-1-072.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GMR-1-072.png",
+      "sizeBytes": 177271
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GMR-1-072 ガメラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GMR-1-072_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GMR-1-072_p1.png",
+      "sizeBytes": 188853
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-1-068 エリザベス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-1-068.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-1-068.png",
+      "sizeBytes": 165778
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-1-072 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-1-072.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-1-072.png",
+      "sizeBytes": 212667
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-1-089 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-1-089.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-1-089.png",
+      "sizeBytes": 150902
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-1-089 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-1-089_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-1-089_p1.png",
+      "sizeBytes": 157157
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-1-104 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-1-104.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-1-104.png",
+      "sizeBytes": 196139
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-AP01 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-AP01.png",
+      "sizeBytes": 173982
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-AP02 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-AP02.png",
+      "sizeBytes": 30291
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-AP03 アクションポイントカード(白夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-AP03.png",
+      "sizeBytes": 120880
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-AP03 アクションポイントカード(白夜叉)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-AP03_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-AP03_p1.png",
+      "sizeBytes": 139251
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-AP04 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-AP04.png",
+      "sizeBytes": 211936
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-P-001 土方 十四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-P-001.png",
+      "sizeBytes": 221932
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-P-002 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-P-002.png",
+      "sizeBytes": 215366
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/GNT-P-003 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_GNT-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_GNT-P-003.png",
+      "sizeBytes": 219097
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-006 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-006.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-006.png",
+      "sizeBytes": 183464
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-011 孤爪 研磨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-011.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-011.png",
+      "sizeBytes": 185090
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-075 影山 飛雄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-075.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-075.png",
+      "sizeBytes": 148127
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-083 月島 蛍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-083.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-083.png",
+      "sizeBytes": 157232
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-086 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-086.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-086.png",
+      "sizeBytes": 143644
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-088 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-088.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-088.png",
+      "sizeBytes": 150858
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-1-088 日向 翔陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-1-088_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-1-088_p1.png",
+      "sizeBytes": 155236
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-AP01 アクションポイントカード(ハイキュー‼)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-AP01.png",
+      "sizeBytes": 151082
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HIQ-AP03 アクションポイントカード(ハイキュー‼)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HIQ-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HIQ-AP03.png",
+      "sizeBytes": 247383
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-005 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-005.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-005.png",
+      "sizeBytes": 173130
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-018 キルア＝ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-018.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-018.png",
+      "sizeBytes": 182677
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-026 一坪の海岸線",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-026.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-026.png",
+      "sizeBytes": 101615
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-042 ヒソカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-042.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-042.png",
+      "sizeBytes": 180565
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-072 クラピカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-072.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-072.png",
+      "sizeBytes": 133707
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-076 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-076.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-076.png",
+      "sizeBytes": 171859
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-078 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-078.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-078.png",
+      "sizeBytes": 134086
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-078 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-078_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-078_p1.png",
+      "sizeBytes": 139600
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-1-090 レオリオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-1-090.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-1-090.png",
+      "sizeBytes": 170985
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-024 ヒソカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-024.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-024.png",
+      "sizeBytes": 141324
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-024 ヒソカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-024_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-024_p1.png",
+      "sizeBytes": 144886
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-027 キルア＝ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-027.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-027.png",
+      "sizeBytes": 175758
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-029 キルア・ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-029.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-029.png",
+      "sizeBytes": 231818
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-029 キルア・ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-029_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-029_p1.png",
+      "sizeBytes": 232731
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-074 キルア＝ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-074.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-074.png",
+      "sizeBytes": 189463
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-075 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-075.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-075.png",
+      "sizeBytes": 191672
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-076 イルミ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-076.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-076.png",
+      "sizeBytes": 191405
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-2-077 クラピカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-2-077.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-2-077.png",
+      "sizeBytes": 181501
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-AP01 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-AP01.png",
+      "sizeBytes": 197383
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-AP02 アクションポイントカード(HUNTER×HUNTER)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-AP02.png",
+      "sizeBytes": 193358
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-P-001 ゴン＝フリークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-P-001.png",
+      "sizeBytes": 151451
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-P-002 キルア＝ゾルディック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-P-002.png",
+      "sizeBytes": 146224
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/HTR-P-003 クラピカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_HTR-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_HTR-P-003.png",
+      "sizeBytes": 144471
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMC-1-027 本田 未央",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMC-1-027.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMC-1-027.png",
+      "sizeBytes": 252992
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMC-1-041 渋谷 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMC-1-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMC-1-041.png",
+      "sizeBytes": 248774
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-015 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-015.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-015.png",
+      "sizeBytes": 223124
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-016 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-016.png",
+      "sizeBytes": 139099
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-016 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-016_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-016_p1.png",
+      "sizeBytes": 142810
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-034 白瀬 咲耶",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-034.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-034.png",
+      "sizeBytes": 212873
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-050 浅倉 透",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-050.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-050.png",
+      "sizeBytes": 227367
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-073 芹沢 あさひ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-073.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-073.png",
+      "sizeBytes": 157498
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-076 黛 冬優子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-076.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-076.png",
+      "sizeBytes": 169835
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-1-085 西城 樹里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-1-085.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-1-085.png",
+      "sizeBytes": 221973
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-2-042 田中 摩美々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-2-042.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-2-042.png",
+      "sizeBytes": 239351
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-2-045 月岡 恋鐘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-2-045.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-2-045.png",
+      "sizeBytes": 214604
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-2-046 月岡 恋鐘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-2-046.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-2-046.png",
+      "sizeBytes": 166298
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-2-046 月岡 恋鐘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-2-046_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-2-046_p1.png",
+      "sizeBytes": 172042
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-2-048 三峰 結華",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-2-048.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-2-048.png",
+      "sizeBytes": 214124
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-3-033 郁田 はるき",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-3-033.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-3-033.png",
+      "sizeBytes": 190115
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-3-037 鈴木 羽那",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-3-037.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-3-037.png",
+      "sizeBytes": 200206
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-3-043 芹沢 あさひ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-3-043.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-3-043.png",
+      "sizeBytes": 224139
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-3-043 芹沢 あさひ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-3-043_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-3-043_p1.png",
+      "sizeBytes": 225607
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-AP01 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-AP01.png",
+      "sizeBytes": 244560
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-AP02 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-AP02.png",
+      "sizeBytes": 209447
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-AP09 アクションポイントカード(アンティーカ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-AP09.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-AP09.png",
+      "sizeBytes": 249198
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-AP09 アクションポイントカード(アンティーカ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-AP09_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-AP09_p1.png",
+      "sizeBytes": 248790
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-AP10 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-AP10.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-AP10.png",
+      "sizeBytes": 214969
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-AP10 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-AP10_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-AP10_p1.png",
+      "sizeBytes": 186925
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-P-001 櫻木 真乃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-P-001.png",
+      "sizeBytes": 216695
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-P-002 月岡 恋鐘",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-P-002.png",
+      "sizeBytes": 219203
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-P-003 小宮 果穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-P-003.png",
+      "sizeBytes": 223578
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS-P-004 アイドルマスター シャイニーカラーズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS-P-004.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS-P-004.png",
+      "sizeBytes": 230717
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS_AP04 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS_AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP04.png",
+      "sizeBytes": 192365
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS_AP05 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS_AP05.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP05.png",
+      "sizeBytes": 199428
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS_AP06 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS_AP06.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP06.png",
+      "sizeBytes": 180750
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS_AP07 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS_AP07.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP07.png",
+      "sizeBytes": 195428
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IMS_AP08 アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IMS_AP08.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IMS_AP08.png",
+      "sizeBytes": 200523
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IYS-1-006 殺生丸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IYS-1-006.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IYS-1-006.png",
+      "sizeBytes": 167834
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IYS-1-046 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IYS-1-046.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IYS-1-046.png",
+      "sizeBytes": 207965
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IYS-1-046 犬夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IYS-1-046_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IYS-1-046_p1.png",
+      "sizeBytes": 210408
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/IYS-1-063 日暮 かごめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_IYS-1-063.png?v8",
+      "localPath": "/cards/series-570901/UAPR_IYS-1-063.png",
+      "sizeBytes": 176391
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-009 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-009.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-009.png",
+      "sizeBytes": 175913
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-020 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-020.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-020.png",
+      "sizeBytes": 163640
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-038 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-038.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-038.png",
+      "sizeBytes": 144492
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-040 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-040.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-040.png",
+      "sizeBytes": 125638
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-040 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-040_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-040_p1.png",
+      "sizeBytes": 131222
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-043 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-043.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-043.png",
+      "sizeBytes": 156816
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-045 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-045.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-045.png",
+      "sizeBytes": 118369
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-053 七海 建人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-053.png",
+      "sizeBytes": 191718
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-105 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-105.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-105.png",
+      "sizeBytes": 221047
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-1-105 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-1-105_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-1-105_p1.png",
+      "sizeBytes": 220796
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-3-015 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-3-015.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-3-015.png",
+      "sizeBytes": 154638
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-3-015 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-3-015_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-3-015_p1.png",
+      "sizeBytes": 159383
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-3-018 七海 建人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-3-018.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-3-018.png",
+      "sizeBytes": 204806
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-3-037 夏油 傑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-3-037.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-3-037.png",
+      "sizeBytes": 187427
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-3-054 パンダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-3-054.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-3-054.png",
+      "sizeBytes": 187216
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-AP01 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-AP01.png",
+      "sizeBytes": 104779
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-AP02 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-AP02.png",
+      "sizeBytes": 84901
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-AP03 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-AP03.png",
+      "sizeBytes": 192878
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-AP04 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-AP04.png",
+      "sizeBytes": 96504
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/JJK-AP05 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_JJK-AP05.png?v8",
+      "localPath": "/cards/series-570901/UAPR_JJK-AP05.png",
+      "sizeBytes": 196364
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-1-047 羌瘣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-1-047.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-1-047.png",
+      "sizeBytes": 232087
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-1-053 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-1-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-1-053.png",
+      "sizeBytes": 233005
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-1-068 嬴政",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-1-068.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-1-068.png",
+      "sizeBytes": 230873
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-1-093 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-1-093.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-1-093.png",
+      "sizeBytes": 232115
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-1-093 信",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-1-093_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-1-093_p1.png",
+      "sizeBytes": 233536
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-AP01 アクションポイントカード(キングダム)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-AP01.png",
+      "sizeBytes": 232105
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGD-P-001 キングダム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGD-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGD-P-001.png",
+      "sizeBytes": 216002
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-012 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-012.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-012.png",
+      "sizeBytes": 257335
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-013 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-013.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-013.png",
+      "sizeBytes": 269861
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-044 漣 伯理",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-044.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-044.png",
+      "sizeBytes": 294235
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-055 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-055.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-055.png",
+      "sizeBytes": 291037
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-056 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-056.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-056.png",
+      "sizeBytes": 173018
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-060 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-060.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-060.png",
+      "sizeBytes": 225679
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-1-060 六平 千鉱",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-1-060_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-1-060_p1.png",
+      "sizeBytes": 230838
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-AP01 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-AP01.png",
+      "sizeBytes": 270092
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-AP02 アクションポイントカード(カグラバチ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-AP02.png",
+      "sizeBytes": 218599
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KGR-P-001 カグラバチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KGR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KGR-P-001.png",
+      "sizeBytes": 264526
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KIN-1-047 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KIN-1-047.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KIN-1-047.png",
+      "sizeBytes": 199868
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KIN-1-048 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KIN-1-048.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KIN-1-048.png",
+      "sizeBytes": 175855
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KIN-1-051 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KIN-1-051.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KIN-1-051.png",
+      "sizeBytes": 171985
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KIN-1-051 キン肉マン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KIN-1-051_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KIN-1-051_p1.png",
+      "sizeBytes": 174023
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KIN-1-056 テリーマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KIN-1-056.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KIN-1-056.png",
+      "sizeBytes": 145884
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KIN-P-001 『キン肉マン』完璧超人始祖編",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KIN-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KIN-P-001.png",
+      "sizeBytes": 208971
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJ8-1-010 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJ8-1-010.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJ8-1-010.png",
+      "sizeBytes": 200038
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJ8-1-041 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJ8-1-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJ8-1-041.png",
+      "sizeBytes": 229808
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJ8-1-055 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJ8-1-055.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJ8-1-055.png",
+      "sizeBytes": 139457
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJ8-1-055 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJ8-1-055_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJ8-1-055_p1.png",
+      "sizeBytes": 141775
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJ8-1-061 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJ8-1-061.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJ8-1-061.png",
+      "sizeBytes": 255804
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJ8-P-001 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJ8-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJ8-P-001.png",
+      "sizeBytes": 232753
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJN-1-047 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJN-1-047.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJN-1-047.png",
+      "sizeBytes": 236885
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJN-1-052 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJN-1-052.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJN-1-052.png",
+      "sizeBytes": 259465
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJN-1-056 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJN-1-056.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJN-1-056.png",
+      "sizeBytes": 263957
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KJN-1-056 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KJN-1-056_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KJN-1-056_p1.png",
+      "sizeBytes": 264864
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-1-021 仮面ライダーゼロツー（イズ）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-1-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-1-021.png",
+      "sizeBytes": 159534
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-1-021 仮面ライダーゼロツー（イズ）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-1-021_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-1-021_p1.png",
+      "sizeBytes": 165308
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-1-022 仮面ライダーゼロワン メタルクラスタホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-1-022.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-1-022.png",
+      "sizeBytes": 256890
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-1-023 仮面ライダーゼロワン ライジングホッパー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-1-023.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-1-023.png",
+      "sizeBytes": 232698
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-1-039 仮面ライダーオーズ タジャドル コンボ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-1-039.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-1-039.png",
+      "sizeBytes": 308908
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-1-039 仮面ライダーオーズ タジャドル コンボ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-1-039_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-1-039_p1.png",
+      "sizeBytes": 309152
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-2-011 仮面ライダーガヴ ポッピングミフォーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-2-011.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-2-011.png",
+      "sizeBytes": 196252
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-2-012 仮面ライダーガヴ マスターモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-2-012.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-2-012.png",
+      "sizeBytes": 220536
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-2-012 仮面ライダーガヴ マスターモード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-2-012_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-2-012_p1.png",
+      "sizeBytes": 218839
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-2-052 仮面ライダーＷ ヒートジョーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-2-052.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-2-052.png",
+      "sizeBytes": 275544
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-2-085 仮面ライダーゾルダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-2-085.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-2-085.png",
+      "sizeBytes": 235523
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-P-001 仮面ライダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-P-001.png",
+      "sizeBytes": 243025
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMR-P-002 仮面ライダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMR-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMR-P-002.png",
+      "sizeBytes": 251886
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-006 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-006.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-006.png",
+      "sizeBytes": 153894
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-008 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-008.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-008.png",
+      "sizeBytes": 124608
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-008 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-008_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-008_p1.png",
+      "sizeBytes": 128838
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-015 嘴平 伊之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-015.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-015.png",
+      "sizeBytes": 207103
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-072 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-072.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-072.png",
+      "sizeBytes": 193472
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-074 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-074.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-074.png",
+      "sizeBytes": 199142
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-1-089 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-1-089.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-1-089.png",
+      "sizeBytes": 187064
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-3-021 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-3-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-3-021.png",
+      "sizeBytes": 155663
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-3-021 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-3-021_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-3-021_p1.png",
+      "sizeBytes": 159512
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-3-031 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-3-031.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-3-031.png",
+      "sizeBytes": 234229
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-3-037 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-3-037.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-3-037.png",
+      "sizeBytes": 223498
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-3-039 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-3-039.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-3-039.png",
+      "sizeBytes": 223681
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-3-039 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-3-039_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-3-039_p1.png",
+      "sizeBytes": 225815
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-AP01 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-AP01.png",
+      "sizeBytes": 175065
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-AP02 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-AP02.png",
+      "sizeBytes": 179002
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-P-001 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-P-001.png",
+      "sizeBytes": 208029
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-P-002 猗窩座",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-P-002.png",
+      "sizeBytes": 232693
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/KMY-P-003 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_KMY-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_KMY-P-003.png",
+      "sizeBytes": 219804
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-1-005 シェリル・ノーム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-1-005.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-1-005.png",
+      "sizeBytes": 160261
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-1-014 ランカ・リー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-1-014.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-1-014.png",
+      "sizeBytes": 193712
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-1-057 早乙女 アルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-1-057.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-1-057.png",
+      "sizeBytes": 222894
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-1-067 リン・ミンメイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-1-067.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-1-067.png",
+      "sizeBytes": 162663
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-1-067 リン・ミンメイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-1-067_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-1-067_p1.png",
+      "sizeBytes": 163959
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-2-025 ミラージュ・ファリーナ・ジーナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-2-025.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-2-025.png",
+      "sizeBytes": 161317
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-2-035 フレイア・ヴィオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-2-035.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-2-035.png",
+      "sizeBytes": 183727
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-2-042 美雲・ギンヌメール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-2-042.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-2-042.png",
+      "sizeBytes": 181932
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-AP01 アクションポイントカード(マクロス7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-AP01.png",
+      "sizeBytes": 229638
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-AP02 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-AP02.png",
+      "sizeBytes": 230438
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-AP03 アクションポイントカード(マクロス)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-AP03.png",
+      "sizeBytes": 189315
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MCR-P-001 マクロスF",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MCR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MCR-P-001.png",
+      "sizeBytes": 308574
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-1-047 忍野 忍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-1-047.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-1-047.png",
+      "sizeBytes": 256813
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-1-047 忍野 忍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-1-047_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-1-047_p1.png",
+      "sizeBytes": 262655
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-1-055 羽川 翼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-1-055.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-1-055.png",
+      "sizeBytes": 167284
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-1-080 戦場ヶ原 ひたぎ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-1-080.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-1-080.png",
+      "sizeBytes": 173891
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-1-083 戦場ヶ原 ひたぎ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-1-083.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-1-083.png",
+      "sizeBytes": 177980
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-1-083 戦場ヶ原 ひたぎ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-1-083_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-1-083_p1.png",
+      "sizeBytes": 180476
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MGS-P-001 〈物語〉シリーズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MGS-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MGS-P-001.png",
+      "sizeBytes": 201193
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-018 トガヒミコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-018.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-018.png",
+      "sizeBytes": 207013
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-053 爆豪 勝己",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-053.png",
+      "sizeBytes": 219831
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-058 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-058.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-058.png",
+      "sizeBytes": 205574
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-060 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-060.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-060.png",
+      "sizeBytes": 155112
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-060 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-060_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-060_p1.png",
+      "sizeBytes": 159109
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-085 爆豪 勝己",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-085.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-085.png",
+      "sizeBytes": 197578
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-085 爆豪 勝己",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-085_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-085_p1.png",
+      "sizeBytes": 200033
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-1-093 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-1-093.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-1-093.png",
+      "sizeBytes": 181961
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-2-005 蛙吹 梅雨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-2-005.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-2-005.png",
+      "sizeBytes": 184954
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-2-023 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-2-023.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-2-023.png",
+      "sizeBytes": 222000
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-2-026 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-2-026.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-2-026.png",
+      "sizeBytes": 148492
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-2-026 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-2-026_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-2-026_p1.png",
+      "sizeBytes": 151088
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-2-053 麗日 お茶子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-2-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-2-053.png",
+      "sizeBytes": 194231
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-AP01 アクションポイントカード(僕のヒーローアカデミア)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-AP01.png",
+      "sizeBytes": 174155
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-P-001 緑谷 出久",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-P-001.png",
+      "sizeBytes": 164465
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-P-002 死柄木 弔",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-P-002.png",
+      "sizeBytes": 185534
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MHA-P-003 ホークス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MHA-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MHA-P-003.png",
+      "sizeBytes": 182706
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MMM-1-002 アルティメットまどか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-1-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MMM-1-002.png",
+      "sizeBytes": 140630
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MMM-1-002 アルティメットまどか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-1-002_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MMM-1-002_p1.png",
+      "sizeBytes": 145545
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MMM-1-007 鹿目 まどか",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-1-007.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MMM-1-007.png",
+      "sizeBytes": 224986
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MMM-1-040 暁美 ほむら",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-1-040.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MMM-1-040.png",
+      "sizeBytes": 216224
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MMM-1-AP01 アクションポイントカード(魔法少女まどか☆マギカ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-1-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MMM-1-AP01.png",
+      "sizeBytes": 185805
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MMM-P-001 魔法少女まどか☆マギカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MMM-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MMM-P-001.png",
+      "sizeBytes": 191383
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MSS-1-009 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-1-009.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MSS-1-009.png",
+      "sizeBytes": 202525
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MSS-1-021 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-1-021.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MSS-1-021.png",
+      "sizeBytes": 182503
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MSS-1-021 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-1-021_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MSS-1-021_p1.png",
+      "sizeBytes": 186846
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MSS-1-035 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-1-035.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MSS-1-035.png",
+      "sizeBytes": 187094
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MSS-AP01 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MSS-AP01.png",
+      "sizeBytes": 219815
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MSS-P-001 魔都精兵のスレイブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MSS-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MSS-P-001.png",
+      "sizeBytes": 237239
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MST-1-030 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MST-1-030.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MST-1-030.png",
+      "sizeBytes": 222980
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/MST-1-055 アリエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_MST-1-055.png?v8",
+      "localPath": "/cards/series-570901/UAPR_MST-1-055.png",
+      "sizeBytes": 196789
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-1-002 天乃 リリサ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-1-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-1-002.png",
+      "sizeBytes": 178911
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-1-003 天乃 リリサ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-1-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-1-003.png",
+      "sizeBytes": 176798
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-1-016 橘 美花莉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-1-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-1-016.png",
+      "sizeBytes": 186407
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-1-020 ノノア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-1-020.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-1-020.png",
+      "sizeBytes": 198115
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-1-030 リリエル 天使衣装/リリサ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-1-030.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-1-030.png",
+      "sizeBytes": 140632
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-1-030 リリエル 天使衣装/リリサ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-1-030_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-1-030_p1.png",
+      "sizeBytes": 146898
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-P-001 橘 美花莉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-P-001.png",
+      "sizeBytes": 147079
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-P-002 753♡",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-P-002.png",
+      "sizeBytes": 144226
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NGR-P-003 リリエル 天使空挺隊/リリサ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NGR-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NGR-P-003.png",
+      "sizeBytes": 157561
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-1-011 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-1-011.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-1-011.png",
+      "sizeBytes": 200204
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-1-011 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-1-011_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-1-011_p1.png",
+      "sizeBytes": 203469
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-1-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-1-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-1-AP01.png",
+      "sizeBytes": 302521
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-1-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-1-AP01_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-1-AP01_p1.png",
+      "sizeBytes": 303138
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-2-036 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-2-036.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-2-036.png",
+      "sizeBytes": 185280
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-2-036 レッドフード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-2-036_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-2-036_p1.png",
+      "sizeBytes": 193145
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-AP01.png",
+      "sizeBytes": 174554
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-AP02 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-AP02.png",
+      "sizeBytes": 164320
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-AP04 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-AP04.png",
+      "sizeBytes": 274225
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-AP05 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-AP05.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-AP05.png",
+      "sizeBytes": 263175
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-P-001 マリアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-P-001.png",
+      "sizeBytes": 282074
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-P-002 ラプンツェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-P-002.png",
+      "sizeBytes": 284959
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-P-003 エレグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-P-003.png",
+      "sizeBytes": 276364
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/NIK-P-004 勝利の女神：NIKKE",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_NIK-P-004.png?v8",
+      "localPath": "/cards/series-570901/UAPR_NIK-P-004.png",
+      "sizeBytes": 232967
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-1-018 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-1-018.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-1-018.png",
+      "sizeBytes": 200961
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-1-018 サイタマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-1-018_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-1-018_p1.png",
+      "sizeBytes": 199748
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-1-048 ジェノス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-1-048.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-1-048.png",
+      "sizeBytes": 204322
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-1-051 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-1-051.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-1-051.png",
+      "sizeBytes": 169251
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-1-074 ガロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-1-074.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-1-074.png",
+      "sizeBytes": 176691
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-AP02 アクションポイントカード(ワンパンマン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-AP02.png",
+      "sizeBytes": 196350
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-P-001 戦慄のタツマキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-P-001.png",
+      "sizeBytes": 148642
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-P-002 金属バット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-P-002.png",
+      "sizeBytes": 143476
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/OPM-P-003 音速のソニック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_OPM-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_OPM-P-003.png",
+      "sizeBytes": 174117
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-1-014 レム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-1-014.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-1-014.png",
+      "sizeBytes": 181171
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-1-086 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-1-086.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-1-086.png",
+      "sizeBytes": 181801
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-1-090 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-1-090.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-1-090.png",
+      "sizeBytes": 181019
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-1-090 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-1-090_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-1-090_p1.png",
+      "sizeBytes": 186093
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-1-106 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-1-106.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-1-106.png",
+      "sizeBytes": 206716
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-1-106 エミリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-1-106_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-1-106_p1.png",
+      "sizeBytes": 211754
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-AP01 アクションポイントカード(Re:ゼロから始める異世界生活)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-AP01.png",
+      "sizeBytes": 240625
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/REZ-P-001 Re:ゼロから始める異世界生活",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_REZ-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_REZ-P-001.png",
+      "sizeBytes": 247905
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RLY-1-041 大大大大大好きな彼女たち",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RLY-1-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RLY-1-041.png",
+      "sizeBytes": 158558
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RLY-1-041 大大大大大好きな彼女たち",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RLY-1-041_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RLY-1-041_p1.png",
+      "sizeBytes": 164622
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RLY-AP01 アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RLY-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RLY-AP01.png",
+      "sizeBytes": 144225
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RLY-AP02 アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RLY-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RLY-AP02.png",
+      "sizeBytes": 68254
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RLY-AP03 アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RLY-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RLY-AP03.png",
+      "sizeBytes": 185754
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-1-014 四乃森 蒼紫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-1-014.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-1-014.png",
+      "sizeBytes": 317086
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-1-057 瀬田 宗次郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-1-057.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-1-057.png",
+      "sizeBytes": 293466
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-1-086 緋村 剣心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-1-086.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-1-086.png",
+      "sizeBytes": 303505
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-1-090 緋村 剣心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-1-090.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-1-090.png",
+      "sizeBytes": 188062
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-1-090 緋村 剣心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-1-090_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-1-090_p1.png",
+      "sizeBytes": 189546
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-AP01 アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-AP01.png",
+      "sizeBytes": 274313
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/RNK-P-001 るろうに剣心 －明治剣客浪漫譚－",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_RNK-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_RNK-P-001.png",
+      "sizeBytes": 281190
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-036 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-036.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-036.png",
+      "sizeBytes": 204963
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-041 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-041.png",
+      "sizeBytes": 142638
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-041 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-041_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-041_p1.png",
+      "sizeBytes": 148739
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-089 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-089.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-089.png",
+      "sizeBytes": 222410
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-091 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-091.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-091.png",
+      "sizeBytes": 202499
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-091 シノン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-091_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-091_p1.png",
+      "sizeBytes": 204214
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-101 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-101.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-101.png",
+      "sizeBytes": 253622
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-103 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-103.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-103.png",
+      "sizeBytes": 209798
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-1-104 キリト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-1-104.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-1-104.png",
+      "sizeBytes": 244505
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-2-041 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-2-041.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-2-041.png",
+      "sizeBytes": 217557
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-2-042 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-2-042.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-2-042.png",
+      "sizeBytes": 151173
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-2-042 アスナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-2-042_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-2-042_p1.png",
+      "sizeBytes": 157611
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-2-052 ミト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-2-052.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-2-052.png",
+      "sizeBytes": 226881
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-AP02 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-AP02.png",
+      "sizeBytes": 235164
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-AP03 アクションポイントカード(ソードアート・オンライン)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-AP03.png",
+      "sizeBytes": 255196
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SAO-P-001 ソードアート・オンライン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SAO-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SAO-P-001.png",
+      "sizeBytes": 213158
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-1-001 シャイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-1-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-1-001.png",
+      "sizeBytes": 142092
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-1-002 レディ・ブラック",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-1-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-1-002.png",
+      "sizeBytes": 159379
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-1-003 スピリッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-1-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-1-003.png",
+      "sizeBytes": 176476
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-1-048 シャイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-1-048.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-1-048.png",
+      "sizeBytes": 187970
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-1-052 シャイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-1-052.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-1-052.png",
+      "sizeBytes": 143883
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-1-052 シャイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-1-052_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-1-052_p1.png",
+      "sizeBytes": 148583
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-AP01 アクションポイントカード(SHY)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-AP01.png",
+      "sizeBytes": 193162
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-AP02 アクションポイントカード(SHY)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-AP02.png",
+      "sizeBytes": 156490
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-AP03 アクションポイントカード(SHY)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-AP03.png",
+      "sizeBytes": 162629
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-AP04 アクションポイントカード(SHY)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-AP04.png",
+      "sizeBytes": 149235
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-P-001 ツィベタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-P-001.png",
+      "sizeBytes": 137814
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-P-002 スピリッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-P-002.png",
+      "sizeBytes": 149263
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SHY-P-003 シャイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SHY-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SHY-P-003.png",
+      "sizeBytes": 154342
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SLG-1-019 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SLG-1-019.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SLG-1-019.png",
+      "sizeBytes": 226923
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SLG-1-022 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SLG-1-022.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SLG-1-022.png",
+      "sizeBytes": 213925
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SLG-1-022 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SLG-1-022_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SLG-1-022_p1.png",
+      "sizeBytes": 217275
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SLG-1-030 影の兵士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SLG-1-030.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SLG-1-030.png",
+      "sizeBytes": 235557
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-1-022 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-1-022.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-1-022.png",
+      "sizeBytes": 171503
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-1-026 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-1-026.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-1-026.png",
+      "sizeBytes": 179209
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-1-026 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-1-026_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-1-026_p1.png",
+      "sizeBytes": 184695
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-1-058 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-1-058.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-1-058.png",
+      "sizeBytes": 188781
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-AP01 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-AP01.png",
+      "sizeBytes": 223124
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-AP02 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-AP02.png",
+      "sizeBytes": 216494
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SMD-P-001 SAKAMOTO DAYS",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SMD-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SMD-P-001.png",
+      "sizeBytes": 187085
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SNF-1-013 エムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SNF-1-013.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SNF-1-013.png",
+      "sizeBytes": 182738
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SNF-1-056 サンラク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SNF-1-056.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SNF-1-056.png",
+      "sizeBytes": 168085
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SNF-1-058 サンラク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SNF-1-058.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SNF-1-058.png",
+      "sizeBytes": 124863
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SNF-1-058 サンラク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SNF-1-058_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SNF-1-058_p1.png",
+      "sizeBytes": 128854
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-001 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-001.png",
+      "sizeBytes": 328750
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-002 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-002.png",
+      "sizeBytes": 194165
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-003 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-003.png",
+      "sizeBytes": 141383
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-003 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-003_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-003_p1.png",
+      "sizeBytes": 146527
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-073 アルバ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-073.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-073.png",
+      "sizeBytes": 204010
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-083 エイダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-083.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-083.png",
+      "sizeBytes": 208467
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-083 エイダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-083_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-083_p1.png",
+      "sizeBytes": 210287
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-1-092 ミステル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-1-092.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-1-092.png",
+      "sizeBytes": 235112
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-AP01 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-AP01.png",
+      "sizeBytes": 214931
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-AP02 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-AP02.png",
+      "sizeBytes": 165319
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-AP03 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-AP03.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-AP03.png",
+      "sizeBytes": 220953
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-AP04 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-AP04.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-AP04.png",
+      "sizeBytes": 274531
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-P-001 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-P-001.png",
+      "sizeBytes": 196456
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-P-002 黒仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-P-002.png",
+      "sizeBytes": 170968
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/SYN-P-003 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_SYN-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_SYN-P-003.png",
+      "sizeBytes": 181017
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKG-1-039 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-1-039.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKG-1-039.png",
+      "sizeBytes": 268343
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKG-1-042 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-1-042.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKG-1-042.png",
+      "sizeBytes": 220120
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKG-1-042 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-1-042_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKG-1-042_p1.png",
+      "sizeBytes": 224088
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKG-1-068 金木 研",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-1-068.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKG-1-068.png",
+      "sizeBytes": 190334
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKG-1-088 鈴屋 什造",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-1-088.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKG-1-088.png",
+      "sizeBytes": 268237
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKG-P-001 東京喰種トーキョーグール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKG-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKG-P-001.png",
+      "sizeBytes": 261305
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKN-1-055 クマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKN-1-055.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKN-1-055.png",
+      "sizeBytes": 235650
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKN-1-061 三島 平八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKN-1-061.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKN-1-061.png",
+      "sizeBytes": 268549
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKN-1-091 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKN-1-091.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKN-1-091.png",
+      "sizeBytes": 164642
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKN-1-091 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKN-1-091_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKN-1-091_p1.png",
+      "sizeBytes": 169564
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKN-1-106 三島 一八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKN-1-106.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKN-1-106.png",
+      "sizeBytes": 238052
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TKN-AP01 アクションポイントカード(鉄拳7)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TKN-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TKN-AP01.png",
+      "sizeBytes": 203305
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-012 結城 美柑",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-012.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-012.png",
+      "sizeBytes": 195468
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-024 金色の闇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-024.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-024.png",
+      "sizeBytes": 270460
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-072 ララ・サタリン・デビルーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-072.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-072.png",
+      "sizeBytes": 225838
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-075 ララ・サタリン・デビルーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-075.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-075.png",
+      "sizeBytes": 215917
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-075 ララ・サタリン・デビルーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-075_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-075_p1.png",
+      "sizeBytes": 218289
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-AP01 アクションポイントカード(To LOVEる-とらぶる-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-AP01.png",
+      "sizeBytes": 254081
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-1-AP01 アクションポイントカード(To LOVEる-とらぶる-)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-1-AP01_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-1-AP01_p1.png",
+      "sizeBytes": 258229
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TLR-P-001 To LOVEる-とらぶる- Memory of Heroines",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TLR-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TLR-P-001.png",
+      "sizeBytes": 238076
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-1-003 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-1-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-1-003.png",
+      "sizeBytes": 247423
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-1-016 フルル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-1-016.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-1-016.png",
+      "sizeBytes": 189413
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-1-070 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-1-070.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-1-070.png",
+      "sizeBytes": 148268
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-1-070 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-1-070_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-1-070_p1.png",
+      "sizeBytes": 151658
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-1-109 絆の光",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-1-109.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-1-109.png",
+      "sizeBytes": 202836
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-AP01 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-AP01.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-AP01.png",
+      "sizeBytes": 220572
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-AP02 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-AP02.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-AP02.png",
+      "sizeBytes": 199219
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-P-001 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-P-001.png",
+      "sizeBytes": 228910
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-P-002 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-P-002.png",
+      "sizeBytes": 252220
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-P-003 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-P-003.png",
+      "sizeBytes": 240933
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TOA-P-004 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TOA-P-004.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TOA-P-004.png",
+      "sizeBytes": 225763
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-1-007 ココ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-1-007.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-1-007.png",
+      "sizeBytes": 136594
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-1-019 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-1-019.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-1-019.png",
+      "sizeBytes": 214372
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-1-053 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-1-053.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-1-053.png",
+      "sizeBytes": 167936
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-1-054 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-1-054.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-1-054.png",
+      "sizeBytes": 138414
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-1-054 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-1-054_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-1-054_p1.png",
+      "sizeBytes": 143037
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-1-079 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-1-079.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-1-079.png",
+      "sizeBytes": 213336
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-P-001 ココ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-P-001.png",
+      "sizeBytes": 197918
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-P-002 トリコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-P-002.png",
+      "sizeBytes": 249441
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TRK-P-003 三虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TRK-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TRK-P-003.png",
+      "sizeBytes": 211152
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TSK-1-012 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-1-012.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TSK-1-012.png",
+      "sizeBytes": 208874
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TSK-1-057 シュナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-1-057.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TSK-1-057.png",
+      "sizeBytes": 204258
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TSK-1-085 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-1-085.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TSK-1-085.png",
+      "sizeBytes": 225903
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TSK-1-085 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-1-085_p1.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TSK-1-085_p1.png",
+      "sizeBytes": 227030
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/TSK-1-091 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-1-091.png?v8",
+      "localPath": "/cards/series-570901/UAPR_TSK-1-091.png",
+      "sizeBytes": 151066
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/YYH-1-081 飛影",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-1-081.png?v8",
+      "localPath": "/cards/series-570901/UAPR_YYH-1-081.png",
+      "sizeBytes": 268068
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/YYH-P-001 戸愚呂（弟）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-P-001.png?v8",
+      "localPath": "/cards/series-570901/UAPR_YYH-P-001.png",
+      "sizeBytes": 232365
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/YYH-P-002 浦飯 幽助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-P-002.png?v8",
+      "localPath": "/cards/series-570901/UAPR_YYH-P-002.png",
+      "sizeBytes": 243835
+    },
+    {
+      "series": "プロモーションカード",
+      "seriesId": "570901",
+      "alt": "UAPR/YYH-P-003 蔵馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-P-003.png?v8",
+      "localPath": "/cards/series-570901/UAPR_YYH-P-003.png",
+      "sizeBytes": 278174
+    }
+  ],
+  "failures": [
+    {
+      "alt": "UAPR/TSK-1-091 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-1-091_p1.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-2-017 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-2-017.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-2-031 ヒナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-2-031.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-2-044 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-2-044.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-2-044 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-2-044_p1.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-AP01 アクションポイントカード(転生したらスライムだった件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-AP01.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-AP02 アクションポイントカード(転生したらスライムだった件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-AP02.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-AP03 アクションポイントカード(転生したらスライムだった件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-AP03.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-P-001 リムル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-P-001.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-P-002 シズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-P-002.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/TSK-P-003 ミリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_TSK-P-003.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/WBK-1-022 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_WBK-1-022.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/WBK-1-055 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_WBK-1-055.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/WBK-1-055 桜 遥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_WBK-1-055_p1.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/WBK-1-056 蘇枋 隼飛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_WBK-1-056.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/WBK-P-001 WIND BREAKER",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_WBK-P-001.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/YYH-1-036 浦飯 幽助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-1-036.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/YYH-1-038 浦飯 幽助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-1-038.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/YYH-1-038 浦飯 幽助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-1-038_p1.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    },
+    {
+      "alt": "UAPR/YYH-1-049 コエンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UAPR_YYH-1-049.png?v8",
+      "error": "ENOSPC: no space left on device, write"
+    }
+  ]
+}

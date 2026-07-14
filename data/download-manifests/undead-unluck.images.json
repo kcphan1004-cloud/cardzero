@@ -1,0 +1,936 @@
+{
+  "generatedAt": "2026-07-13T18:35:10.189Z",
+  "series": {
+    "seriesId": "570125",
+    "title": "アンデッドアンラック",
+    "slug": "undead-unluck"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570125",
+  "totalFound": 115,
+  "downloaded": 115,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-001 クリード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-001.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-001.png",
+      "sizeBytes": 166611
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-002 クリード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-002.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-002.png",
+      "sizeBytes": 174300
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-003 バックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-003.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-003.png",
+      "sizeBytes": 180957
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-004 バックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-004.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-004.png",
+      "sizeBytes": 183643
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-005 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-005.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-005.png",
+      "sizeBytes": 167625
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-006 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-006.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-006.png",
+      "sizeBytes": 183537
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-007 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-007.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-007.png",
+      "sizeBytes": 185865
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-007 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-007_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-007_p1.png",
+      "sizeBytes": 206274
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-008 ファン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-008.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-008.png",
+      "sizeBytes": 179897
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-009 ラトラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-009.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-009.png",
+      "sizeBytes": 161667
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-010 ラトラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-010.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-010.png",
+      "sizeBytes": 200205
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-010 ラトラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-010_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-010_p1.png",
+      "sizeBytes": 163828
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-011 リップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-011.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-011.png",
+      "sizeBytes": 154769
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-012 リップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-012.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-012.png",
+      "sizeBytes": 180380
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-013 リップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-013.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-013.png",
+      "sizeBytes": 177097
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-013 リップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-013_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-013_p1.png",
+      "sizeBytes": 174937
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-014 リップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-014.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-014.png",
+      "sizeBytes": 211568
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-014 リップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-014_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-014_p1.png",
+      "sizeBytes": 231727
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-015 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-015.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-015.png",
+      "sizeBytes": 174956
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-016 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-016.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-016.png",
+      "sizeBytes": 187700
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-017 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-017.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-017.png",
+      "sizeBytes": 176564
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-018 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-018.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-018.png",
+      "sizeBytes": 182107
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-019 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-019.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-019.png",
+      "sizeBytes": 186095
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-020 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-020.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-020.png",
+      "sizeBytes": 193654
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-020 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-020_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-020_p1.png",
+      "sizeBytes": 226131
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-021 一心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-021.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-021.png",
+      "sizeBytes": 165071
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-022 ヴィクトル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-022.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-022.png",
+      "sizeBytes": 195630
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-023 ヴィクトル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-023.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-023.png",
+      "sizeBytes": 202668
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-023 ヴィクトル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-023_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-023_p1.png",
+      "sizeBytes": 234009
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-024 シェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-024.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-024.png",
+      "sizeBytes": 174850
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-025 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-025.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-025.png",
+      "sizeBytes": 164933
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-026 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-026.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-026.png",
+      "sizeBytes": 172001
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-027 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-027.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-027.png",
+      "sizeBytes": 173116
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-027 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-027_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-027_p1.png",
+      "sizeBytes": 212718
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-028 タチアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-028.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-028.png",
+      "sizeBytes": 184367
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-029 トップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-029.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-029.png",
+      "sizeBytes": 163633
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-030 ニコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-030.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-030.png",
+      "sizeBytes": 173266
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-031 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-031.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-031.png",
+      "sizeBytes": 171480
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-032 フィル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-032.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-032.png",
+      "sizeBytes": 178994
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-033 UMAカイン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-033.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-033.png",
+      "sizeBytes": 170977
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-034 不死",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-034.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-034.png",
+      "sizeBytes": 182499
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-035 不公平だろう？",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-035.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-035.png",
+      "sizeBytes": 179098
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-036 不治",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-036.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-036.png",
+      "sizeBytes": 195413
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-037 集結",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-037.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-037.png",
+      "sizeBytes": 189431
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-038 死刃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-038.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-038.png",
+      "sizeBytes": 180126
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-039 走刃脚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-039.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-039.png",
+      "sizeBytes": 178986
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-040 ボクのカッコイイヒーロー達",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-040.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-040.png",
+      "sizeBytes": 175877
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-041 安野 雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-041.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-041.png",
+      "sizeBytes": 184935
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-042 安野 雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-042.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-042.png",
+      "sizeBytes": 188869
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-042 安野 雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-042_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-042_p1.png",
+      "sizeBytes": 235825
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-043 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-043.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-043.png",
+      "sizeBytes": 187262
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-044 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-044.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-044.png",
+      "sizeBytes": 186235
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-045 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-045.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-045.png",
+      "sizeBytes": 183987
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-045 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-045_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-045_p1.png",
+      "sizeBytes": 200503
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-046 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-046.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-046.png",
+      "sizeBytes": 189461
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-046 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-046_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-046_p1.png",
+      "sizeBytes": 217283
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-046 アンディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-046_p2.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-046_p2.png",
+      "sizeBytes": 236149
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-047 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-047.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-047.png",
+      "sizeBytes": 171663
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-048 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-048.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-048.png",
+      "sizeBytes": 192676
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-049 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-049.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-049.png",
+      "sizeBytes": 183796
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-049 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-049_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-049_p1.png",
+      "sizeBytes": 226079
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-050 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-050.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-050.png",
+      "sizeBytes": 194523
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-050 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-050_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-050_p1.png",
+      "sizeBytes": 218722
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-050 出雲 風子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-050_p2.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-050_p2.png",
+      "sizeBytes": 220349
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-051 一心",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-051.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-051.png",
+      "sizeBytes": 178507
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-052 ジーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-052.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-052.png",
+      "sizeBytes": 188928
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-052 ジーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-052_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-052_p1.png",
+      "sizeBytes": 196687
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-053 ジーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-053.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-053.png",
+      "sizeBytes": 194004
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-053 ジーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-053_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-053_p1.png",
+      "sizeBytes": 228751
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-054 シェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-054.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-054.png",
+      "sizeBytes": 190166
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-055 シェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-055.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-055.png",
+      "sizeBytes": 194327
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-055 シェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-055_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-055_p1.png",
+      "sizeBytes": 184357
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-056 シェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-056.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-056.png",
+      "sizeBytes": 195207
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-056 シェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-056_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-056_p1.png",
+      "sizeBytes": 212236
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-057 重野 力",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-057.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-057.png",
+      "sizeBytes": 185303
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-058 重野 力",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-058.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-058.png",
+      "sizeBytes": 180959
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-059 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-059.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-059.png",
+      "sizeBytes": 180010
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-060 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-060.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-060.png",
+      "sizeBytes": 199110
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-061 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-061.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-061.png",
+      "sizeBytes": 172649
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-062 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-062.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-062.png",
+      "sizeBytes": 191771
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-062 ジュイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-062_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-062_p1.png",
+      "sizeBytes": 212786
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-063 タチアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-063.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-063.png",
+      "sizeBytes": 188740
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-064 タチアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-064.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-064.png",
+      "sizeBytes": 177078
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-065 タチアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-065.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-065.png",
+      "sizeBytes": 182528
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-065 タチアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-065_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-065_p1.png",
+      "sizeBytes": 211657
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-066 トップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-066.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-066.png",
+      "sizeBytes": 183542
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-067 トップ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-067.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-067.png",
+      "sizeBytes": 180508
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-068 ニコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-068.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-068.png",
+      "sizeBytes": 178627
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-069 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-069.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-069.png",
+      "sizeBytes": 176642
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-069 ビリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-069_p1.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-069_p1.png",
+      "sizeBytes": 188498
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-070 フィル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-070.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-070.png",
+      "sizeBytes": 185599
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-071 ボイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-071.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-071.png",
+      "sizeBytes": 185127
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-072 ムイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-072.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-072.png",
+      "sizeBytes": 197305
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-073 ムイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-073.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-073.png",
+      "sizeBytes": 197585
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-074 円卓",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-074.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-074.png",
+      "sizeBytes": 178173
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-075 UMAクローゼス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-075.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-075.png",
+      "sizeBytes": 161983
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-076 黙示録",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-076.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-076.png",
+      "sizeBytes": 187865
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-077 君に伝われ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-077.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-077.png",
+      "sizeBytes": 177046
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-078 死閃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-078.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-078.png",
+      "sizeBytes": 202762
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-079 不運",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-079.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-079.png",
+      "sizeBytes": 198851
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-080 UNIONの力",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-080.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-080.png",
+      "sizeBytes": 186128
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP01 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP01.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP01.png",
+      "sizeBytes": 138677
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP01★ アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP01_s.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP01_s.png",
+      "sizeBytes": 147725
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP02 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP02.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP02.png",
+      "sizeBytes": 142377
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP02★ アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP02_s.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP02_s.png",
+      "sizeBytes": 163897
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP03 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP03.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP03.png",
+      "sizeBytes": 145157
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP04 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP04.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP04.png",
+      "sizeBytes": 152554
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP05 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP05.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP05.png",
+      "sizeBytes": 171083
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP06 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP06.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP06.png",
+      "sizeBytes": 175586
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP07 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP07.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP07.png",
+      "sizeBytes": 160079
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP08 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP08.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP08.png",
+      "sizeBytes": 137417
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP09 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP09.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP09.png",
+      "sizeBytes": 131583
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP10 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP10.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP10.png",
+      "sizeBytes": 138937
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP11 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP11.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP11.png",
+      "sizeBytes": 146155
+    },
+    {
+      "series": "アンデッドアンラック",
+      "seriesId": "570125",
+      "alt": "UA25BT/AND-1-AP12 アクションポイントカード(アンデッドアンラック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA25BT_AND-1-AP12.png?v8",
+      "localPath": "/cards/undead-unluck/UA25BT_AND-1-AP12.png",
+      "sizeBytes": 157642
+    }
+  ],
+  "failures": []
+}

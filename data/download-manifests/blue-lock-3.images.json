@@ -1,0 +1,112 @@
+{
+  "generatedAt": "2026-07-13T18:15:31.203Z",
+  "series": {
+    "seriesId": "570703",
+    "title": "NEW CARD SELECTION ブルーロック",
+    "slug": "blue-lock-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570703",
+  "totalFound": 12,
+  "downloaded": 12,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-001 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-001.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-001.png",
+      "sizeBytes": 244859
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-002 剣城 斬鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-002.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-002.png",
+      "sizeBytes": 261359
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-003 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-003.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-003.png",
+      "sizeBytes": 236581
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-004 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-004.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-004.png",
+      "sizeBytes": 246356
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-005 凪 誠士郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-005.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-005.png",
+      "sizeBytes": 278604
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-006 潔 世一",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-006.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-006.png",
+      "sizeBytes": 275318
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-007 蜂楽 廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-007.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-007.png",
+      "sizeBytes": 265062
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-008 糸師 凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-008.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-008.png",
+      "sizeBytes": 274052
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-009 國神 錬介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-009.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-009.png",
+      "sizeBytes": 278300
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-010 千切 豹馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-010.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-010.png",
+      "sizeBytes": 281443
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-011 御影 玲王",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-011.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-011.png",
+      "sizeBytes": 295299
+    },
+    {
+      "series": "NEW CARD SELECTION ブルーロック",
+      "seriesId": "570703",
+      "alt": "UA03NC/BLK-2-AP01 アクションポイントカード(ブルーロック)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA03NC_BLK-2-AP01.png?v8",
+      "localPath": "/cards/blue-lock-3/UA03NC_BLK-2-AP01.png",
+      "sizeBytes": 230836
+    }
+  ],
+  "failures": []
+}

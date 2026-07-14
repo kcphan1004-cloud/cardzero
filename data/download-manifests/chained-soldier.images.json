@@ -1,0 +1,1016 @@
+{
+  "generatedAt": "2026-07-13T19:09:42.477Z",
+  "series": {
+    "seriesId": "570149",
+    "title": "魔都精兵のスレイブ",
+    "slug": "chained-soldier"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570149",
+  "totalFound": 125,
+  "downloaded": 125,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-001 和倉 優希（無窮の鎖）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-001.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-001.png",
+      "sizeBytes": 226514
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-002 和倉 優希（無窮の鎖）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-002.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-002.png",
+      "sizeBytes": 215460
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-003 和倉 優希（無窮の鎖）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-003.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-003.png",
+      "sizeBytes": 234248
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-004 和倉 優希（無窮の鎖）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-004.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-004.png",
+      "sizeBytes": 251629
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-004 和倉 優希（無窮の鎖）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-004_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-004_p1.png",
+      "sizeBytes": 224535
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-005 和倉 優希（無窮の鎖・岩融）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-005.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-005.png",
+      "sizeBytes": 238368
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-006 和倉 優希（無窮の鎖・煌星）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-006.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-006.png",
+      "sizeBytes": 232183
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-007 和倉 優希（無窮の鎖・旋風）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-007.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-007.png",
+      "sizeBytes": 238659
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-008 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-008.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-008.png",
+      "sizeBytes": 187863
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-008 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-008_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-008_p1.png",
+      "sizeBytes": 236736
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-009 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-009.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-009.png",
+      "sizeBytes": 204187
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-010 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-010.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-010.png",
+      "sizeBytes": 205096
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-011 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-011.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-011.png",
+      "sizeBytes": 209754
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-011 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-011_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-011_p1.png",
+      "sizeBytes": 198382
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-012 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-012.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-012.png",
+      "sizeBytes": 215270
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-012 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-012_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-012_p1.png",
+      "sizeBytes": 221365
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-013 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-013.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-013.png",
+      "sizeBytes": 214277
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-013 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-013_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-013_p1.png",
+      "sizeBytes": 247008
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-014 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-014.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-014.png",
+      "sizeBytes": 210550
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-015 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-015.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-015.png",
+      "sizeBytes": 197195
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-015 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-015_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-015_p1.png",
+      "sizeBytes": 166392
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-016 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-016.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-016.png",
+      "sizeBytes": 215099
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-016 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-016_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-016_p1.png",
+      "sizeBytes": 202395
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-017 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-017.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-017.png",
+      "sizeBytes": 217658
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-017 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-017_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-017_p1.png",
+      "sizeBytes": 225011
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-018 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-018.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-018.png",
+      "sizeBytes": 213708
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-018 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-018_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-018_p1.png",
+      "sizeBytes": 190152
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-019 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-019.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-019.png",
+      "sizeBytes": 228158
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-019 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-019_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-019_p1.png",
+      "sizeBytes": 237142
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-020 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-020.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-020.png",
+      "sizeBytes": 232635
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-020 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-020_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-020_p1.png",
+      "sizeBytes": 229726
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-021 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-021.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-021.png",
+      "sizeBytes": 225540
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-021 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-021_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-021_p1.png",
+      "sizeBytes": 246602
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-022 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-022.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-022.png",
+      "sizeBytes": 205084
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-023 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-023.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-023.png",
+      "sizeBytes": 210465
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-024 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-024.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-024.png",
+      "sizeBytes": 215255
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-024 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-024_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-024_p1.png",
+      "sizeBytes": 236297
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-025 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-025.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-025.png",
+      "sizeBytes": 201644
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-025 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-025_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-025_p1.png",
+      "sizeBytes": 183562
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-026 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-026.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-026.png",
+      "sizeBytes": 212755
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-026 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-026_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-026_p1.png",
+      "sizeBytes": 219404
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-027 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-027.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-027.png",
+      "sizeBytes": 200002
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-027 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-027_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-027_p1.png",
+      "sizeBytes": 226663
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-028 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-028.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-028.png",
+      "sizeBytes": 200562
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-028 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-028_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-028_p1.png",
+      "sizeBytes": 238803
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-029 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-029.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-029.png",
+      "sizeBytes": 190280
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-030 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-030.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-030.png",
+      "sizeBytes": 217973
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-031 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-031.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-031.png",
+      "sizeBytes": 204034
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-031 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-031_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-031_p1.png",
+      "sizeBytes": 215209
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-032 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-032.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-032.png",
+      "sizeBytes": 206391
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-032 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-032_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-032_p1.png",
+      "sizeBytes": 161596
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-033 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-033.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-033.png",
+      "sizeBytes": 235157
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-033 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-033_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-033_p1.png",
+      "sizeBytes": 248597
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-034 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-034.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-034.png",
+      "sizeBytes": 231154
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-035 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-035.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-035.png",
+      "sizeBytes": 218908
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-036 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-036.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-036.png",
+      "sizeBytes": 201399
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-037 七番組寮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-037.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-037.png",
+      "sizeBytes": 225853
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-038 屈服の時間だ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-038.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-038.png",
+      "sizeBytes": 225063
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-039 無窮の鎖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-039.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-039.png",
+      "sizeBytes": 239157
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-040 男子もやるわね",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-040.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-040.png",
+      "sizeBytes": 211663
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-041 能力の代償だ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-041.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-041.png",
+      "sizeBytes": 216518
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-042 魔都精兵の七番組",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-042.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-042.png",
+      "sizeBytes": 250539
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-043 一本角（鬼童丸）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-043.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-043.png",
+      "sizeBytes": 203478
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-044 銭函 ココ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-044.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-044.png",
+      "sizeBytes": 205634
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-045 銭函 ココ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-045.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-045.png",
+      "sizeBytes": 208465
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-046 銭函 ココ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-046.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-046.png",
+      "sizeBytes": 212882
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-047 銭函 ココ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-047.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-047.png",
+      "sizeBytes": 212986
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-048 湯野 波音",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-048.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-048.png",
+      "sizeBytes": 218853
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-049 湯野 波音",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-049.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-049.png",
+      "sizeBytes": 215977
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-050 湯野 波音",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-050.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-050.png",
+      "sizeBytes": 217889
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-051 湯野 波音",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-051.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-051.png",
+      "sizeBytes": 217728
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-052 和倉 青羽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-052.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-052.png",
+      "sizeBytes": 208212
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-053 和倉 青羽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-053.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-053.png",
+      "sizeBytes": 209455
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-054 和倉 青羽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-054.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-054.png",
+      "sizeBytes": 213108
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-055 和倉 青羽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-055.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-055.png",
+      "sizeBytes": 231353
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-055 和倉 青羽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-055_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-055_p1.png",
+      "sizeBytes": 246657
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-056 備前 銀奈",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-056.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-056.png",
+      "sizeBytes": 216095
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-057 東 日万凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-057.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-057.png",
+      "sizeBytes": 210337
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-058 羽前 京香",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-058.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-058.png",
+      "sizeBytes": 217961
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-059 大川村 寧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-059.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-059.png",
+      "sizeBytes": 219672
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-060 駿河 朱々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-060.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-060.png",
+      "sizeBytes": 208166
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-061 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-061.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-061.png",
+      "sizeBytes": 203884
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-062 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-062.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-062.png",
+      "sizeBytes": 211706
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-063 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-063.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-063.png",
+      "sizeBytes": 221633
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-063 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-063_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-063_p1.png",
+      "sizeBytes": 158982
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-064 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-064.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-064.png",
+      "sizeBytes": 220549
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-064 東 八千穂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-064_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-064_p1.png",
+      "sizeBytes": 248028
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-065 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-065.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-065.png",
+      "sizeBytes": 189989
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-065 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-065_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-065_p1.png",
+      "sizeBytes": 149317
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-066 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-066.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-066.png",
+      "sizeBytes": 210075
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-066 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-066_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-066_p1.png",
+      "sizeBytes": 231178
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-067 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-067.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-067.png",
+      "sizeBytes": 222666
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-067 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-067_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-067_p1.png",
+      "sizeBytes": 178470
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-068 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-068.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-068.png",
+      "sizeBytes": 209895
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-068 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-068_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-068_p1.png",
+      "sizeBytes": 211546
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-069 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-069.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-069.png",
+      "sizeBytes": 209529
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-069 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-069_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-069_p1.png",
+      "sizeBytes": 237810
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-070 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-070.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-070.png",
+      "sizeBytes": 217490
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-070 出雲 天花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-070_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-070_p1.png",
+      "sizeBytes": 207596
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-071 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-071.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-071.png",
+      "sizeBytes": 199949
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-072 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-072.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-072.png",
+      "sizeBytes": 196805
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-073 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-073.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-073.png",
+      "sizeBytes": 209880
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-073 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-073_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-073_p1.png",
+      "sizeBytes": 171276
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-074 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-074.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-074.png",
+      "sizeBytes": 229365
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-074 若狭 サハラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-074_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-074_p1.png",
+      "sizeBytes": 228926
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-075 隠れ里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-075.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-075.png",
+      "sizeBytes": 232889
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-076 天御鳥命",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-076.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-076.png",
+      "sizeBytes": 214317
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-077 我は姉なり",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-077.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-077.png",
+      "sizeBytes": 236951
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-078 魔都交流戦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-078.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-078.png",
+      "sizeBytes": 226410
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-079 魔都の桃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-079.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-079.png",
+      "sizeBytes": 216991
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-080 優希は千兆点のイケメンよ!!",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-080.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-080.png",
+      "sizeBytes": 227017
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-081 私達とお義姉さんの未来",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-081.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-081.png",
+      "sizeBytes": 225316
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP01 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP01.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP01.png",
+      "sizeBytes": 180789
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP01 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP01_p1.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP01_p1.png",
+      "sizeBytes": 172764
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP02 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP02.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP02.png",
+      "sizeBytes": 160425
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP03 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP03.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP03.png",
+      "sizeBytes": 180463
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP04 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP04.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP04.png",
+      "sizeBytes": 172322
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP05 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP05.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP05.png",
+      "sizeBytes": 168073
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP06 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP06.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP06.png",
+      "sizeBytes": 178102
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP07 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP07.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP07.png",
+      "sizeBytes": 145562
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP08 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP08.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP08.png",
+      "sizeBytes": 137332
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP09 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP09.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP09.png",
+      "sizeBytes": 141380
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP10 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP10.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP10.png",
+      "sizeBytes": 126675
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP11 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP11.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP11.png",
+      "sizeBytes": 155115
+    },
+    {
+      "series": "魔都精兵のスレイブ",
+      "seriesId": "570149",
+      "alt": "UA49BT/MSS-1-AP12 アクションポイントカード(魔都精兵のスレイブ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA49BT_MSS-1-AP12.png?v8",
+      "localPath": "/cards/chained-soldier/UA49BT_MSS-1-AP12.png",
+      "sizeBytes": 145159
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,1064 @@
+{
+  "generatedAt": "2026-07-13T19:13:01.046Z",
+  "series": {
+    "seriesId": "570152",
+    "title": "陰の実力者になりたくて！",
+    "slug": "eminence-in-shadow"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570152",
+  "totalFound": 131,
+  "downloaded": 0,
+  "skipped": 131,
+  "failed": 0,
+  "images": [
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-001 アイリス・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-001.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-001.png",
+      "sizeBytes": 183303
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-002 アウロラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-002.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-002.png",
+      "sizeBytes": 171055
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-003 アウロラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-003.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-003.png",
+      "sizeBytes": 180884
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-004 アウロラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-004.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-004.png",
+      "sizeBytes": 230272
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-004 アウロラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-004_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-004_p1.png",
+      "sizeBytes": 264615
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-005 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-005.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-005.png",
+      "sizeBytes": 179697
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-006 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-006.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-006.png",
+      "sizeBytes": 183007
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-007 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-007.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-007.png",
+      "sizeBytes": 180597
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-008 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-008.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-008.png",
+      "sizeBytes": 192771
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-008 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-008_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-008_p1.png",
+      "sizeBytes": 253944
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-009 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-009.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-009.png",
+      "sizeBytes": 252830
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-009 アレクシア・ミドガル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-009_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-009_p1.png",
+      "sizeBytes": 294053
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-010 アンネローゼ・フシアナス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-010.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-010.png",
+      "sizeBytes": 165557
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-011 エリザベート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-011.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-011.png",
+      "sizeBytes": 187987
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-012 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-012.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-012.png",
+      "sizeBytes": 158814
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-013 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-013.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-013.png",
+      "sizeBytes": 186944
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-014 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-014.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-014.png",
+      "sizeBytes": 177031
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-015 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-015.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-015.png",
+      "sizeBytes": 201408
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-015 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-015_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-015_p1.png",
+      "sizeBytes": 248849
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-016 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-016.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-016.png",
+      "sizeBytes": 251921
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-016 クレア・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-016_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-016_p1.png",
+      "sizeBytes": 278582
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-017 シェリー・バーネット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-017.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-017.png",
+      "sizeBytes": 198594
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-018 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-018.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-018.png",
+      "sizeBytes": 189062
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-019 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-019.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-019.png",
+      "sizeBytes": 168048
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-020 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-020.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-020.png",
+      "sizeBytes": 181232
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-021 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-021.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-021.png",
+      "sizeBytes": 180888
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-022 ナツメ・カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-022.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-022.png",
+      "sizeBytes": 186133
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-023 ナツメ・カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-023.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-023.png",
+      "sizeBytes": 185761
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-024 ナツメ・カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-024.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-024.png",
+      "sizeBytes": 186469
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-025 ナツメ・カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-025.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-025.png",
+      "sizeBytes": 217759
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-026 ベアトリクス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-026.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-026.png",
+      "sizeBytes": 169302
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-027 ベアトリクス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-027.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-027.png",
+      "sizeBytes": 178739
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-027 ベアトリクス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-027_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-027_p1.png",
+      "sizeBytes": 253756
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-028 ベアトリクス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-028.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-028.png",
+      "sizeBytes": 203410
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-028 ベアトリクス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-028_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-028_p1.png",
+      "sizeBytes": 301841
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-029 メアリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-029.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-029.png",
+      "sizeBytes": 177442
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-030 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-030.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-030.png",
+      "sizeBytes": 175121
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-031 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-031.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-031.png",
+      "sizeBytes": 190317
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-032 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-032.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-032.png",
+      "sizeBytes": 177070
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-033 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-033.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-033.png",
+      "sizeBytes": 200160
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-033 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-033_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-033_p1.png",
+      "sizeBytes": 260324
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-034 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-034.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-034.png",
+      "sizeBytes": 249003
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-034 ローズ・オリアナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-034_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-034_p1.png",
+      "sizeBytes": 290961
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-035 闘技場",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-035.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-035.png",
+      "sizeBytes": 195219
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-036 あなたがもし、本当の私を見つけたら、私を…",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-036.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-036.png",
+      "sizeBytes": 188287
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-036 あなたがもし、本当の私を見つけたら、私を…",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-036_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-036_p1.png",
+      "sizeBytes": 232194
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-037 あなたを断罪します！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-037.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-037.png",
+      "sizeBytes": 193526
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-038 覚醒の刻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-038.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-038.png",
+      "sizeBytes": 199037
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-039 これで私たちは仲間よ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-039.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-039.png",
+      "sizeBytes": 188163
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-040 559",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-040.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-040.png",
+      "sizeBytes": 204473
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-041 664",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-041.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-041.png",
+      "sizeBytes": 182418
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-042 665",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-042.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-042.png",
+      "sizeBytes": 176149
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-043 666",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-043.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-043.png",
+      "sizeBytes": 176536
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-044 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-044.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-044.png",
+      "sizeBytes": 181721
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-045 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-045.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-045.png",
+      "sizeBytes": 186255
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-046 シド・カゲノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-046.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-046.png",
+      "sizeBytes": 198734
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-047 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-047.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-047.png",
+      "sizeBytes": 183373
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-048 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-048.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-048.png",
+      "sizeBytes": 188927
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-048 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-048_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-048_p1.png",
+      "sizeBytes": 300277
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-049 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-049.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-049.png",
+      "sizeBytes": 274194
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-049 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-049_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-049_p1.png",
+      "sizeBytes": 303598
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-049 シャドウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-049_p2.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-049_p2.png",
+      "sizeBytes": 308705
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-050 ニュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-050.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-050.png",
+      "sizeBytes": 176652
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-051 ニュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-051.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-051.png",
+      "sizeBytes": 176711
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-052 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-052.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-052.png",
+      "sizeBytes": 180023
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-053 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-053.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-053.png",
+      "sizeBytes": 189796
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-054 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-054.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-054.png",
+      "sizeBytes": 192092
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-054 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-054_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-054_p1.png",
+      "sizeBytes": 255200
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-055 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-055.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-055.png",
+      "sizeBytes": 189585
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-055 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-055_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-055_p1.png",
+      "sizeBytes": 247145
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-056 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-056.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-056.png",
+      "sizeBytes": 259474
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-056 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-056_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-056_p1.png",
+      "sizeBytes": 298606
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-056 アルファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-056_p2.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-056_p2.png",
+      "sizeBytes": 299209
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-057 イータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-057.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-057.png",
+      "sizeBytes": 183479
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-057 イータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-057_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-057_p1.png",
+      "sizeBytes": 253680
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-058 イータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-058.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-058.png",
+      "sizeBytes": 184066
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-058 イータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-058_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-058_p1.png",
+      "sizeBytes": 227905
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-058 イータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-058_p2.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-058_p2.png",
+      "sizeBytes": 306048
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-059 イプシロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-059.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-059.png",
+      "sizeBytes": 174681
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-059 イプシロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-059_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-059_p1.png",
+      "sizeBytes": 254010
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-060 イプシロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-060.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-060.png",
+      "sizeBytes": 192138
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-060 イプシロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-060_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-060_p1.png",
+      "sizeBytes": 252444
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-061 イプシロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-061.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-061.png",
+      "sizeBytes": 281350
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-061 イプシロン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-061_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-061_p1.png",
+      "sizeBytes": 314485
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-062 ガンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-062.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-062.png",
+      "sizeBytes": 180153
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-062 ガンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-062_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-062_p1.png",
+      "sizeBytes": 244563
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-063 ガンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-063.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-063.png",
+      "sizeBytes": 191395
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-063 ガンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-063_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-063_p1.png",
+      "sizeBytes": 235440
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-064 ガンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-064.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-064.png",
+      "sizeBytes": 242095
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-064 ガンマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-064_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-064_p1.png",
+      "sizeBytes": 275529
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-065 ゼータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-065.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-065.png",
+      "sizeBytes": 179482
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-065 ゼータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-065_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-065_p1.png",
+      "sizeBytes": 229858
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-066 ゼータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-066.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-066.png",
+      "sizeBytes": 191151
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-066 ゼータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-066_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-066_p1.png",
+      "sizeBytes": 243959
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-066 ゼータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-066_p2.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-066_p2.png",
+      "sizeBytes": 301597
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-067 デルタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-067.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-067.png",
+      "sizeBytes": 171228
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-067 デルタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-067_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-067_p1.png",
+      "sizeBytes": 242499
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-068 デルタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-068.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-068.png",
+      "sizeBytes": 186936
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-068 デルタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-068_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-068_p1.png",
+      "sizeBytes": 224071
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-069 デルタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-069.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-069.png",
+      "sizeBytes": 265731
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-069 デルタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-069_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-069_p1.png",
+      "sizeBytes": 308030
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-070 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-070.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-070.png",
+      "sizeBytes": 190264
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-071 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-071.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-071.png",
+      "sizeBytes": 183043
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-072 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-072.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-072.png",
+      "sizeBytes": 184955
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-072 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-072_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-072_p1.png",
+      "sizeBytes": 251282
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-073 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-073.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-073.png",
+      "sizeBytes": 181308
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-073 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-073_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-073_p1.png",
+      "sizeBytes": 252873
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-074 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-074.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-074.png",
+      "sizeBytes": 252723
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-074 ベータ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-074_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-074_p1.png",
+      "sizeBytes": 287248
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-075 アレクサンドリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-075.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-075.png",
+      "sizeBytes": 193670
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-076 アイ・アム……",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-076.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-076.png",
+      "sizeBytes": 202838
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-077 悪魔憑きの解呪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-077.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-077.png",
+      "sizeBytes": 200197
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-078 七陰",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-078.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-078.png",
+      "sizeBytes": 204898
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-079 シャドウガーデン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-079.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-079.png",
+      "sizeBytes": 193419
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-080 闇に射す月光",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-080.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-080.png",
+      "sizeBytes": 199327
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP01 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP01.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP01.png",
+      "sizeBytes": 243750
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP01 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP01_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP01_p1.png",
+      "sizeBytes": 211206
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP02 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP02.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP02.png",
+      "sizeBytes": 212931
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP02 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP02_p1.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP02_p1.png",
+      "sizeBytes": 236032
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP03 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP03.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP03.png",
+      "sizeBytes": 217127
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP04 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP04.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP04.png",
+      "sizeBytes": 213025
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP05 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP05.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP05.png",
+      "sizeBytes": 235848
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP06 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP06.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP06.png",
+      "sizeBytes": 237070
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP07 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP07.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP07.png",
+      "sizeBytes": 199045
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP08 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP08.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP08.png",
+      "sizeBytes": 222515
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP09 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP09.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP09.png",
+      "sizeBytes": 180679
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP10 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP10.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP10.png",
+      "sizeBytes": 234625
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP11 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP11.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP11.png",
+      "sizeBytes": 216152
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP12 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP12.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP12.png",
+      "sizeBytes": 232999
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP13 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP13.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP13.png",
+      "sizeBytes": 192647
+    },
+    {
+      "series": "陰の実力者になりたくて！",
+      "seriesId": "570152",
+      "alt": "UA52BT/KJN-1-AP14 アクションポイントカード(陰の実力者になりたくて！)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA52BT_KJN-1-AP14.png?v8",
+      "localPath": "/cards/eminence-in-shadow/UA52BT_KJN-1-AP14.png",
+      "sizeBytes": 235685
+    }
+  ],
+  "failures": []
+}

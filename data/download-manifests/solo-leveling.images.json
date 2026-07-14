@@ -1,0 +1,960 @@
+{
+  "generatedAt": "2026-07-13T19:11:48.267Z",
+  "series": {
+    "seriesId": "570151",
+    "title": "俺だけレベルアップな件",
+    "slug": "solo-leveling"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570151",
+  "totalFound": 118,
+  "downloaded": 118,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-001 朝比奈 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-001.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-001.png",
+      "sizeBytes": 194430
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-002 朝比奈 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-002.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-002.png",
+      "sizeBytes": 208905
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-003 朝比奈 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-003.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-003.png",
+      "sizeBytes": 248444
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-003 朝比奈 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-003_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-003_p1.png",
+      "sizeBytes": 206657
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-004 犬飼 晃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-004.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-004.png",
+      "sizeBytes": 201247
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-004 犬飼 晃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-004_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-004_p1.png",
+      "sizeBytes": 228244
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-005 今宮 さつき",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-005.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-005.png",
+      "sizeBytes": 202468
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-006 今宮 さつき",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-006.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-006.png",
+      "sizeBytes": 211175
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-007 エシル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-007.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-007.png",
+      "sizeBytes": 209250
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-008 エシル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-008.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-008.png",
+      "sizeBytes": 257674
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-008 エシル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-008_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-008_p1.png",
+      "sizeBytes": 215401
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-009 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-009.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-009.png",
+      "sizeBytes": 217287
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-010 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-010.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-010.png",
+      "sizeBytes": 208200
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-011 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-011.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-011.png",
+      "sizeBytes": 258030
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-011 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-011_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-011_p1.png",
+      "sizeBytes": 228036
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-012 後藤 清臣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-012.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-012.png",
+      "sizeBytes": 211982
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-013 水篠 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-013.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-013.png",
+      "sizeBytes": 212100
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-014 水篠 聡子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-014.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-014.png",
+      "sizeBytes": 219978
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-015 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-015.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-015.png",
+      "sizeBytes": 202720
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-016 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-016.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-016.png",
+      "sizeBytes": 224062
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-017 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-017.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-017.png",
+      "sizeBytes": 215809
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-018 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-018.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-018.png",
+      "sizeBytes": 212565
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-019 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-019.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-019.png",
+      "sizeBytes": 224545
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-020 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-020.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-020.png",
+      "sizeBytes": 208260
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-021 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-021.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-021.png",
+      "sizeBytes": 238133
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-021 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-021_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-021_p1.png",
+      "sizeBytes": 269439
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-022 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-022.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-022.png",
+      "sizeBytes": 247097
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-022 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-022_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-022_p1.png",
+      "sizeBytes": 270512
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-022 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-022_p2.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-022_p2.png",
+      "sizeBytes": 237285
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-023 水篠 潤一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-023.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-023.png",
+      "sizeBytes": 201899
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-024 道門 泰星",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-024.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-024.png",
+      "sizeBytes": 202343
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-025 観月 絵里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-025.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-025.png",
+      "sizeBytes": 211891
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-026 諸菱 賢太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-026.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-026.png",
+      "sizeBytes": 206885
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-027 アイアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-027.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-027.png",
+      "sizeBytes": 211592
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-027 アイアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-027_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-027_p1.png",
+      "sizeBytes": 271352
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-028 イグリット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-028.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-028.png",
+      "sizeBytes": 218770
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-028 イグリット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-028_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-028_p1.png",
+      "sizeBytes": 248090
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-029 カイセル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-029.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-029.png",
+      "sizeBytes": 225683
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-029 カイセル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-029_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-029_p1.png",
+      "sizeBytes": 278183
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-030 影の兵士",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-030.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-030.png",
+      "sizeBytes": 211697
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-031 キバ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-031.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-031.png",
+      "sizeBytes": 223090
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-031 キバ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-031_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-031_p1.png",
+      "sizeBytes": 241144
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-032 タンク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-032.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-032.png",
+      "sizeBytes": 215012
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-032 タンク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-032_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-032_p1.png",
+      "sizeBytes": 239734
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-033 ベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-033.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-033.png",
+      "sizeBytes": 228698
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-033 ベル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-033_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-033_p1.png",
+      "sizeBytes": 286872
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-034 悪魔の城",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-034.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-034.png",
+      "sizeBytes": 234705
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-035 スキル：君主の領域",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-035.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-035.png",
+      "sizeBytes": 236985
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-036 あの人に追いつきたい",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-036.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-036.png",
+      "sizeBytes": 206468
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-037 命の神水",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-037.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-037.png",
+      "sizeBytes": 207559
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-038 起きろ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-038.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-038.png",
+      "sizeBytes": 203950
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-039 影の君主",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-039.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-039.png",
+      "sizeBytes": 227397
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-040 スキル：乱刀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-040.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-040.png",
+      "sizeBytes": 240028
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-041 朝比奈 りん",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-041.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-041.png",
+      "sizeBytes": 207088
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-042 馬淵 勲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-042.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-042.png",
+      "sizeBytes": 210754
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-043 水篠 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-043.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-043.png",
+      "sizeBytes": 199090
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-044 水篠 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-044.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-044.png",
+      "sizeBytes": 244337
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-044 水篠 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-044_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-044_p1.png",
+      "sizeBytes": 202544
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-044 水篠 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-044_p2.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-044_p2.png",
+      "sizeBytes": 265485
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-045 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-045.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-045.png",
+      "sizeBytes": 191600
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-046 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-046.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-046.png",
+      "sizeBytes": 209093
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-047 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-047.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-047.png",
+      "sizeBytes": 219623
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-048 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-048.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-048.png",
+      "sizeBytes": 234329
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-048 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-048_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-048_p1.png",
+      "sizeBytes": 243667
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-049 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-049.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-049.png",
+      "sizeBytes": 236411
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-049 水篠 旬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-049_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-049_p1.png",
+      "sizeBytes": 222376
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-050 観月 絵里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-050.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-050.png",
+      "sizeBytes": 196892
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-051 観月 絵里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-051.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-051.png",
+      "sizeBytes": 264732
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-051 観月 絵里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-051_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-051_p1.png",
+      "sizeBytes": 271805
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-052 諸菱 賢太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-052.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-052.png",
+      "sizeBytes": 218985
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-053 諸菱 賢太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-053.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-053.png",
+      "sizeBytes": 208287
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-053 諸菱 賢太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-053_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-053_p1.png",
+      "sizeBytes": 255087
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-054 黒須 圭介",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-054.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-054.png",
+      "sizeBytes": 199870
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-055 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-055.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-055.png",
+      "sizeBytes": 210372
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-056 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-056.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-056.png",
+      "sizeBytes": 209785
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-057 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-057.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-057.png",
+      "sizeBytes": 214551
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-058 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-058.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-058.png",
+      "sizeBytes": 256137
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-058 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-058_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-058_p1.png",
+      "sizeBytes": 279693
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-058 向坂 雫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-058_p2.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-058_p2.png",
+      "sizeBytes": 251169
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-059 白川 大虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-059.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-059.png",
+      "sizeBytes": 220536
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-059 白川 大虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-059_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-059_p1.png",
+      "sizeBytes": 243635
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-060 町田 堂玄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-060.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-060.png",
+      "sizeBytes": 198130
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-061 美濃部 剛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-061.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-061.png",
+      "sizeBytes": 229969
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-061 美濃部 剛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-061_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-061_p1.png",
+      "sizeBytes": 261451
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-062 最上 真",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-062.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-062.png",
+      "sizeBytes": 202315
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-063 最上 真",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-063.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-063.png",
+      "sizeBytes": 206886
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-064 最上 真",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-064.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-064.png",
+      "sizeBytes": 247382
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-064 最上 真",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-064_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-064_p1.png",
+      "sizeBytes": 267341
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-065 アーシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-065.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-065.png",
+      "sizeBytes": 205254
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-066 イザ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-066.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-066.png",
+      "sizeBytes": 181490
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-067 カナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-067.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-067.png",
+      "sizeBytes": 192653
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-068 K",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-068.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-068.png",
+      "sizeBytes": 207505
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-069 ケン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-069.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-069.png",
+      "sizeBytes": 196284
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-070 シーマ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-070.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-070.png",
+      "sizeBytes": 208181
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-071 マリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-071.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-071.png",
+      "sizeBytes": 202120
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-072 ミズア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-072.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-072.png",
+      "sizeBytes": 203660
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-073 リュー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-073.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-073.png",
+      "sizeBytes": 217935
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-074 ルノー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-074.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-074.png",
+      "sizeBytes": 201132
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-075 デイリークエスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-075.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-075.png",
+      "sizeBytes": 207230
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-076 俺はな、絶えずレベルアップしてんだよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-076.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-076.png",
+      "sizeBytes": 211247
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-077 架南島レイド攻略開始",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-077.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-077.png",
+      "sizeBytes": 214865
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-078 状態の回復",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-078.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-078.png",
+      "sizeBytes": 219123
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-079 ポーション",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-079.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-079.png",
+      "sizeBytes": 195794
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-080 舞姫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-080.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-080.png",
+      "sizeBytes": 207667
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP01 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP01.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP01.png",
+      "sizeBytes": 219589
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP01 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP01_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP01_p1.png",
+      "sizeBytes": 171063
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP02 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP02.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP02.png",
+      "sizeBytes": 250451
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP02 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP02_p1.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP02_p1.png",
+      "sizeBytes": 178488
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP03 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP03.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP03.png",
+      "sizeBytes": 263921
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP04 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP04.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP04.png",
+      "sizeBytes": 265421
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP05 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP05.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP05.png",
+      "sizeBytes": 286834
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP06 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP06.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP06.png",
+      "sizeBytes": 170276
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP07 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP07.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP07.png",
+      "sizeBytes": 187340
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP08 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP08.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP08.png",
+      "sizeBytes": 197620
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP09 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP09.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP09.png",
+      "sizeBytes": 212106
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP10 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP10.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP10.png",
+      "sizeBytes": 242216
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP11 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP11.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP11.png",
+      "sizeBytes": 197294
+    },
+    {
+      "series": "俺だけレベルアップな件",
+      "seriesId": "570151",
+      "alt": "UA51BT/SLG-1-AP12 アクションポイントカード(俺だけレベルアップな件)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA51BT_SLG-1-AP12.png?v8",
+      "localPath": "/cards/solo-leveling/UA51BT_SLG-1-AP12.png",
+      "sizeBytes": 188748
+    }
+  ],
+  "failures": []
+}

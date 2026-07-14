@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:27:16.281Z",
+  "series": {
+    "seriesId": "570020",
+    "title": "ブラッククローバー",
+    "slug": "black-clover"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570020",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-068 ユリウス・ノヴァクロノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-068.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-068.png",
+      "sizeBytes": 167145
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-073 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-073.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-073.png",
+      "sizeBytes": 172538
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-077 ゴーシュ・アドレイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-077.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-077.png",
+      "sizeBytes": 181467
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-085 フィンラル・ルーラケイス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-085.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-085.png",
+      "sizeBytes": 191932
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-087 ヤミ・スケヒロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-087.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-087.png",
+      "sizeBytes": 171027
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-089 ラック・ボルティア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-089.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-089.png",
+      "sizeBytes": 184335
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-091 ミモザ・ヴァーミリオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-091.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-091.png",
+      "sizeBytes": 184333
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-096 諦めないのがオレの魔法だ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-096.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-096.png",
+      "sizeBytes": 189173
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-100 断魔の剣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-100.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-100.png",
+      "sizeBytes": 184821
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-101 メレオレオナ・ヴァーミリオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-101.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-101.png",
+      "sizeBytes": 182461
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-102 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-102.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-102.png",
+      "sizeBytes": 171712
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-103 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-103.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-103.png",
+      "sizeBytes": 227421
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-104 チャーミー・パピットソン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-104.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-104.png",
+      "sizeBytes": 178243
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-105 ノエル・シルヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-105.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-105.png",
+      "sizeBytes": 178035
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-106 マグナ・スウィング",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-106.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-106.png",
+      "sizeBytes": 170270
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-107 ユノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-107.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-107.png",
+      "sizeBytes": 164931
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-108 ユノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-108.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-108.png",
+      "sizeBytes": 216557
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-109 緊急会議",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-109.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-109.png",
+      "sizeBytes": 185421
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-110 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-110.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-110.png",
+      "sizeBytes": 187150
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-110 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-110_p1.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-110_p1.png",
+      "sizeBytes": 174754
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-111 ヘンリー・レゴラント",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-111.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-111.png",
+      "sizeBytes": 193759
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-111 ヘンリー・レゴラント",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-111_p1.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-111_p1.png",
+      "sizeBytes": 201469
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-112 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-112.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-112.png",
+      "sizeBytes": 179723
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-112 アスタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-112_p1.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-112_p1.png",
+      "sizeBytes": 218957
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-113 ユノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-113.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-113.png",
+      "sizeBytes": 183948
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-113 ユノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-113_p1.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-113_p1.png",
+      "sizeBytes": 217984
+    },
+    {
+      "series": "ブラッククローバー",
+      "seriesId": "570020",
+      "alt": "UA20ST/BCV-1-AP01 アクションポイントカード(ブラッククローバー)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA20ST_BCV-1-AP01.png?v8",
+      "localPath": "/cards/black-clover/UA20ST_BCV-1-AP01.png",
+      "sizeBytes": 238510
+    }
+  ],
+  "failures": []
+}

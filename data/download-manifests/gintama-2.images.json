@@ -1,0 +1,1088 @@
+{
+  "generatedAt": "2026-07-13T18:14:08.240Z",
+  "series": {
+    "seriesId": "570111",
+    "title": "銀魂",
+    "slug": "gintama-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570111",
+  "totalFound": 134,
+  "downloaded": 134,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-001 今井 信女",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-001.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-001.png",
+      "sizeBytes": 176401
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-002 今井 信女",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-002.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-002.png",
+      "sizeBytes": 178518
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-003 佐々木 異三郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-003.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-003.png",
+      "sizeBytes": 181426
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-004 猿飛 あやめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-004.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-004.png",
+      "sizeBytes": 185299
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-005 猿飛 あやめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-005.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-005.png",
+      "sizeBytes": 181986
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-006 猿飛 あやめ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-006.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-006.png",
+      "sizeBytes": 178115
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-007 徳川 茂茂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-007.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-007.png",
+      "sizeBytes": 186906
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-007 徳川 茂茂",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-007_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-007_p1.png",
+      "sizeBytes": 227751
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-008 徳川 そよ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-008.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-008.png",
+      "sizeBytes": 178614
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-009 服部 全蔵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-009.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-009.png",
+      "sizeBytes": 185720
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-010 服部 全蔵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-010.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-010.png",
+      "sizeBytes": 167734
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-011 服部 全蔵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-011.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-011.png",
+      "sizeBytes": 186032
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-012 松平 片栗虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-012.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-012.png",
+      "sizeBytes": 181884
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-013 沖田 総悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-013.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-013.png",
+      "sizeBytes": 180570
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-014 沖田 総悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-014.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-014.png",
+      "sizeBytes": 190333
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-014 沖田 総悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-014_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-014_p1.png",
+      "sizeBytes": 207749
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-015 沖田 総悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-015.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-015.png",
+      "sizeBytes": 214677
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-015 沖田 総悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-015_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-015_p1.png",
+      "sizeBytes": 191467
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-016 近藤 勲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-016.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-016.png",
+      "sizeBytes": 182110
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-017 近藤 勲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-017.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-017.png",
+      "sizeBytes": 188025
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-018 近藤 勲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-018.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-018.png",
+      "sizeBytes": 218996
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-018 近藤 勲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-018_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-018_p1.png",
+      "sizeBytes": 242522
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-019 斉藤 終",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-019.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-019.png",
+      "sizeBytes": 198604
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-020 佐々木 鉄之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-020.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-020.png",
+      "sizeBytes": 198272
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-021 土方 X子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-021.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-021.png",
+      "sizeBytes": 184489
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-022 土方 十四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-022.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-022.png",
+      "sizeBytes": 186376
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-023 土方 十四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-023.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-023.png",
+      "sizeBytes": 180539
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-023 土方 十四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-023_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-023_p1.png",
+      "sizeBytes": 192223
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-024 土方 十四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-024.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-024.png",
+      "sizeBytes": 223108
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-024 土方 十四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-024_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-024_p1.png",
+      "sizeBytes": 191807
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-025 山崎 退",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-025.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-025.png",
+      "sizeBytes": 182805
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-025 山崎 退",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-025_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-025_p1.png",
+      "sizeBytes": 202398
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-026 坂田 銀子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-026.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-026.png",
+      "sizeBytes": 194053
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-027 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-027.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-027.png",
+      "sizeBytes": 225296
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-027 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-027_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-027_p1.png",
+      "sizeBytes": 262153
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-028 忍の里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-028.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-028.png",
+      "sizeBytes": 218513
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-029 局中法度",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-029.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-029.png",
+      "sizeBytes": 196848
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-030 将軍の名の下に命令をくだす",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-030.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-030.png",
+      "sizeBytes": 192212
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-031 真選組バズーカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-031.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-031.png",
+      "sizeBytes": 202290
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-032 忍者免許",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-032.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-032.png",
+      "sizeBytes": 201439
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-033 土方スペシャル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-033.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-033.png",
+      "sizeBytes": 185183
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-034 朧",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-034.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-034.png",
+      "sizeBytes": 183137
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-035 坂本 辰馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-035.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-035.png",
+      "sizeBytes": 185136
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-036 坂本 辰馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-036.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-036.png",
+      "sizeBytes": 182034
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-036 坂本 辰馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-036_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-036_p1.png",
+      "sizeBytes": 195335
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-037 徳川 喜々",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-037.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-037.png",
+      "sizeBytes": 182479
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-038 阿伏兎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-038.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-038.png",
+      "sizeBytes": 176320
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-039 阿伏兎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-039.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-039.png",
+      "sizeBytes": 183695
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-040 神威",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-040.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-040.png",
+      "sizeBytes": 175166
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-041 神威",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-041.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-041.png",
+      "sizeBytes": 172548
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-041 神威",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-041_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-041_p1.png",
+      "sizeBytes": 180425
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-042 神威",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-042.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-042.png",
+      "sizeBytes": 193723
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-042 神威",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-042_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-042_p1.png",
+      "sizeBytes": 166872
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-043 岡田 似蔵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-043.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-043.png",
+      "sizeBytes": 189270
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-044 河上 万斉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-044.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-044.png",
+      "sizeBytes": 181705
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-045 河上 万斉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-045.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-045.png",
+      "sizeBytes": 177132
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-046 来島 また子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-046.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-046.png",
+      "sizeBytes": 181355
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-047 来島 また子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-047.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-047.png",
+      "sizeBytes": 175270
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-048 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-048.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-048.png",
+      "sizeBytes": 174377
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-049 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-049.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-049.png",
+      "sizeBytes": 169563
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-049 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-049_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-049_p1.png",
+      "sizeBytes": 177703
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-050 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-050.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-050.png",
+      "sizeBytes": 219365
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-050 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-050_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-050_p1.png",
+      "sizeBytes": 198005
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-051 武市 変平太",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-051.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-051.png",
+      "sizeBytes": 169977
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-052 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-052.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-052.png",
+      "sizeBytes": 200193
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-053 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-053.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-053.png",
+      "sizeBytes": 192036
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-054 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-054.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-054.png",
+      "sizeBytes": 186920
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-054 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-054_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-054_p1.png",
+      "sizeBytes": 195982
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-055 白夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-055.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-055.png",
+      "sizeBytes": 201695
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-056 白夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-056.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-056.png",
+      "sizeBytes": 179396
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-057 白夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-057.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-057.png",
+      "sizeBytes": 212462
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-057 白夜叉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-057_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-057_p1.png",
+      "sizeBytes": 236319
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-058 吉田 松陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-058.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-058.png",
+      "sizeBytes": 183793
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-059 吉田 松陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-059.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-059.png",
+      "sizeBytes": 194256
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-059 吉田 松陽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-059_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-059_p1.png",
+      "sizeBytes": 223637
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-060 悪ガキ三人組",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-060.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-060.png",
+      "sizeBytes": 182246
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-061 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-061.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-061.png",
+      "sizeBytes": 179715
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-061 高杉 晋助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-061_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-061_p1.png",
+      "sizeBytes": 189172
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-062 松下村塾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-062.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-062.png",
+      "sizeBytes": 190810
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-063 地獄で眠りなァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-063.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-063.png",
+      "sizeBytes": 195625
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-064 攘夷志士の心得",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-064.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-064.png",
+      "sizeBytes": 195646
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-065 松陽の教え",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-065.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-065.png",
+      "sizeBytes": 201522
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-066 白夜叉の刀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-066.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-066.png",
+      "sizeBytes": 222255
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-067 高杉の煙管",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-067.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-067.png",
+      "sizeBytes": 184332
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-068 エリザベス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-068.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-068.png",
+      "sizeBytes": 175824
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-069 エリザベス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-069.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-069.png",
+      "sizeBytes": 170035
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-069 エリザベス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-069_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-069_p1.png",
+      "sizeBytes": 181704
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-070 お登勢",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-070.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-070.png",
+      "sizeBytes": 173056
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-071 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-071.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-071.png",
+      "sizeBytes": 174324
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-072 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-072.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-072.png",
+      "sizeBytes": 189032
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-073 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-073.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-073.png",
+      "sizeBytes": 185676
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-073 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-073_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-073_p1.png",
+      "sizeBytes": 207074
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-074 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-074.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-074.png",
+      "sizeBytes": 222678
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-074 桂 小太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-074_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-074_p1.png",
+      "sizeBytes": 177954
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-075 キャサリン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-075.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-075.png",
+      "sizeBytes": 173214
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-076 坂本 辰馬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-076.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-076.png",
+      "sizeBytes": 185550
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-077 志村 妙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-077.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-077.png",
+      "sizeBytes": 183863
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-078 たま",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-078.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-078.png",
+      "sizeBytes": 191182
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-079 月詠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-079.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-079.png",
+      "sizeBytes": 180348
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-079 月詠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-079_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-079_p1.png",
+      "sizeBytes": 193801
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-080 長谷川 泰三",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-080.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-080.png",
+      "sizeBytes": 197503
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-080 長谷川 泰三",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-080_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-080_p1.png",
+      "sizeBytes": 188830
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-081 平賀 源外",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-081.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-081.png",
+      "sizeBytes": 172264
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-082 陸奥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-082.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-082.png",
+      "sizeBytes": 180515
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-083 柳生 九兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-083.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-083.png",
+      "sizeBytes": 184866
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-083 柳生 九兵衛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-083_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-083_p1.png",
+      "sizeBytes": 202512
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-084 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-084.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-084.png",
+      "sizeBytes": 179357
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-085 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-085.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-085.png",
+      "sizeBytes": 180514
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-086 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-086.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-086.png",
+      "sizeBytes": 192147
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-086 神楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-086_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-086_p1.png",
+      "sizeBytes": 217228
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-087 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-087.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-087.png",
+      "sizeBytes": 180765
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-088 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-088.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-088.png",
+      "sizeBytes": 183684
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-088 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-088_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-088_p1.png",
+      "sizeBytes": 206426
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-089 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-089.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-089.png",
+      "sizeBytes": 225301
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-089 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-089_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-089_p1.png",
+      "sizeBytes": 194235
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-089 坂田 銀時",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-089_p2.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-089_p2.png",
+      "sizeBytes": 175342
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-090 定春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-090.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-090.png",
+      "sizeBytes": 175063
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-091 定春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-091.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-091.png",
+      "sizeBytes": 185927
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-092 志村 新八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-092.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-092.png",
+      "sizeBytes": 188123
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-093 志村 新八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-093.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-093.png",
+      "sizeBytes": 193388
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-094 志村 新八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-094.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-094.png",
+      "sizeBytes": 188802
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-094 志村 新八",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-094_p1.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-094_p1.png",
+      "sizeBytes": 259647
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-095 かぶき町",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-095.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-095.png",
+      "sizeBytes": 202719
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-096 いちごパフェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-096.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-096.png",
+      "sizeBytes": 183722
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-097 ずっとスタンバってました",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-097.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-097.png",
+      "sizeBytes": 190454
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-098 ヅラじゃない桂だ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-098.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-098.png",
+      "sizeBytes": 220790
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-099 木刀・洞爺湖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-099.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-099.png",
+      "sizeBytes": 178933
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-100 万事屋への依頼書",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-100.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-100.png",
+      "sizeBytes": 208677
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-AP01 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-AP01.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-AP01.png",
+      "sizeBytes": 124928
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-AP02 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-AP02.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-AP02.png",
+      "sizeBytes": 94244
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-AP03 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-AP03.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-AP03.png",
+      "sizeBytes": 123017
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-AP04 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-AP04.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-AP04.png",
+      "sizeBytes": 108775
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-AP05 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-AP05.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-AP05.png",
+      "sizeBytes": 123064
+    },
+    {
+      "series": "銀魂",
+      "seriesId": "570111",
+      "alt": "UA11BT/GNT-1-AP06 アクションポイントカード(銀魂)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA11BT_GNT-1-AP06.png?v8",
+      "localPath": "/cards/gintama-2/UA11BT_GNT-1-AP06.png",
+      "sizeBytes": 66617
+    }
+  ],
+  "failures": []
+}

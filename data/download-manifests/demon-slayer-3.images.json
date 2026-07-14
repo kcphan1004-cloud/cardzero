@@ -1,0 +1,832 @@
+{
+  "generatedAt": "2026-07-13T18:03:50.623Z",
+  "series": {
+    "seriesId": "570205",
+    "title": "鬼滅の刃 Vol.2",
+    "slug": "demon-slayer-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570205",
+  "totalFound": 102,
+  "downloaded": 102,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-1-017 伊黒 小芭内",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-1-017_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-1-017_p1.png",
+      "sizeBytes": 212964
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-1-022 不死川 実弥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-1-022_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-1-022_p1.png",
+      "sizeBytes": 206123
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-1-026 悲鳴嶼 行冥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-1-026_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-1-026_p1.png",
+      "sizeBytes": 222763
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-001 産屋敷 耀哉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-001.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-001.png",
+      "sizeBytes": 143023
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-002 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-002.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-002.png",
+      "sizeBytes": 168923
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-002 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-002_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-002_p1.png",
+      "sizeBytes": 207975
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-003 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-003.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-003.png",
+      "sizeBytes": 145312
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-004 神崎 アオイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-004.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-004.png",
+      "sizeBytes": 155317
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-005 珠世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-005.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-005.png",
+      "sizeBytes": 151499
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-005 珠世",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-005_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-005_p1.png",
+      "sizeBytes": 211506
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-006 愈史郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-006.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-006.png",
+      "sizeBytes": 161453
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-007 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-007.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-007.png",
+      "sizeBytes": 164615
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-007 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-007_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-007_p1.png",
+      "sizeBytes": 239968
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-008 胡蝶 しのぶ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-008.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-008.png",
+      "sizeBytes": 215339
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-008 胡蝶 しのぶ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-008_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-008_p1.png",
+      "sizeBytes": 230347
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-009 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-009.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-009.png",
+      "sizeBytes": 183534
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-009 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-009_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-009_p1.png",
+      "sizeBytes": 228221
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-010 冨岡 義勇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-010.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-010.png",
+      "sizeBytes": 173453
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-010 冨岡 義勇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-010_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-010_p1.png",
+      "sizeBytes": 226417
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-011 看病",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-011.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-011.png",
+      "sizeBytes": 184680
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-012 隠",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-012.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-012.png",
+      "sizeBytes": 178645
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-013 鎹鴉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-013.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-013.png",
+      "sizeBytes": 131144
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-014 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-014.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-014.png",
+      "sizeBytes": 140433
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-015 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-015.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-015.png",
+      "sizeBytes": 155328
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-016 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-016.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-016.png",
+      "sizeBytes": 150491
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-016 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-016_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-016_p1.png",
+      "sizeBytes": 193434
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-017 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-017.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-017.png",
+      "sizeBytes": 198556
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-017 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-017_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-017_p1.png",
+      "sizeBytes": 218050
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-018 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-018.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-018.png",
+      "sizeBytes": 144757
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-019 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-019.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-019.png",
+      "sizeBytes": 144923
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-020 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-020.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-020.png",
+      "sizeBytes": 166162
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-020 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-020_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-020_p1.png",
+      "sizeBytes": 232020
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-021 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-021.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-021.png",
+      "sizeBytes": 202011
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-021 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-021_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-021_p1.png",
+      "sizeBytes": 230594
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-021 竈門 禰󠄀豆子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-021_p2.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-021_p2.png",
+      "sizeBytes": 222338
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-022 不死川 玄弥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-022.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-022.png",
+      "sizeBytes": 145755
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-023 不死川 玄弥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-023.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-023.png",
+      "sizeBytes": 140729
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-024 不死川 玄弥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-024.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-024.png",
+      "sizeBytes": 156614
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-024 不死川 玄弥",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-024_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-024_p1.png",
+      "sizeBytes": 239152
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-025 鋼鐵塚 蛍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-025.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-025.png",
+      "sizeBytes": 158117
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-026 鉄穴森 鋼蔵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-026.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-026.png",
+      "sizeBytes": 164432
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-027 小鉄",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-027.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-027.png",
+      "sizeBytes": 147442
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-028 鉄地河原 鉄珍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-028.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-028.png",
+      "sizeBytes": 151194
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-029 縁壱零式",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-029.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-029.png",
+      "sizeBytes": 178115
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-030 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-030.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-030.png",
+      "sizeBytes": 157140
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-031 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-031.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-031.png",
+      "sizeBytes": 168855
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-032 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-032.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-032.png",
+      "sizeBytes": 156655
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-033 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-033.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-033.png",
+      "sizeBytes": 153062
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-033 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-033_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-033_p1.png",
+      "sizeBytes": 228155
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-034 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-034.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-034.png",
+      "sizeBytes": 217358
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-034 甘露寺 蜜璃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-034_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-034_p1.png",
+      "sizeBytes": 235733
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-035 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-035.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-035.png",
+      "sizeBytes": 137486
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-036 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-036.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-036.png",
+      "sizeBytes": 152508
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-037 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-037.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-037.png",
+      "sizeBytes": 154141
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-038 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-038.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-038.png",
+      "sizeBytes": 162493
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-038 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-038_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-038_p1.png",
+      "sizeBytes": 212128
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-039 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-039.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-039.png",
+      "sizeBytes": 189448
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-039 時透 無一郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-039_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-039_p1.png",
+      "sizeBytes": 209580
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-040 刀鍛冶の里",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-040.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-040.png",
+      "sizeBytes": 185084
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-041 日輪刀（竈門 炭治郎）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-041.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-041.png",
+      "sizeBytes": 158792
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-042 日輪刀（甘露寺 蜜璃）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-042.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-042.png",
+      "sizeBytes": 158334
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-043 日輪刀（時透 無一郎）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-043.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-043.png",
+      "sizeBytes": 159917
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-044 痣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-044.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-044.png",
+      "sizeBytes": 145863
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-045 円舞一閃",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-045.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-045.png",
+      "sizeBytes": 167707
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-046 赫刀",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-046.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-046.png",
+      "sizeBytes": 160761
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-047 霞の呼吸 伍ノ型 霞雲の海",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-047.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-047.png",
+      "sizeBytes": 168337
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-048 恋の呼吸 壱ノ型 初恋のわななき",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-048.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-048.png",
+      "sizeBytes": 167037
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-049 鬼舞辻󠄀 無惨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-049.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-049.png",
+      "sizeBytes": 169627
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-049 鬼舞辻󠄀 無惨",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-049_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-049_p1.png",
+      "sizeBytes": 188059
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-050 妓夫太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-050.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-050.png",
+      "sizeBytes": 160031
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-051 玉壺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-051.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-051.png",
+      "sizeBytes": 146683
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-052 玉壺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-052.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-052.png",
+      "sizeBytes": 166811
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-053 堕姫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-053.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-053.png",
+      "sizeBytes": 155890
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-054 堕姫",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-054.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-054.png",
+      "sizeBytes": 170930
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-055 半天狗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-055.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-055.png",
+      "sizeBytes": 152668
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-056 哀絶",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-056.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-056.png",
+      "sizeBytes": 153777
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-057 空喜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-057.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-057.png",
+      "sizeBytes": 158104
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-058 可楽",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-058.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-058.png",
+      "sizeBytes": 160115
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-059 積怒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-059.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-059.png",
+      "sizeBytes": 149672
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-060 憎珀天",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-060.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-060.png",
+      "sizeBytes": 167822
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-061 無惨の研究",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-061.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-061.png",
+      "sizeBytes": 157482
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-062 我妻 善逸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-062.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-062.png",
+      "sizeBytes": 161026
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-062 我妻 善逸",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-062_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-062_p1.png",
+      "sizeBytes": 234587
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-063 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-063.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-063.png",
+      "sizeBytes": 178765
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-064 竈門 炭治郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-064.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-064.png",
+      "sizeBytes": 183155
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-065 嘴平 伊之助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-065.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-065.png",
+      "sizeBytes": 164754
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-066 煉󠄁獄 槇寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-066.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-066.png",
+      "sizeBytes": 169956
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-067 煉󠄁獄 瑠火",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-067.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-067.png",
+      "sizeBytes": 156589
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-068 須磨＆まきを＆雛鶴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-068.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-068.png",
+      "sizeBytes": 184869
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-069 宇髄 天元",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-069.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-069.png",
+      "sizeBytes": 166343
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-069 宇髄 天元",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-069_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-069_p1.png",
+      "sizeBytes": 203077
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-070 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-070.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-070.png",
+      "sizeBytes": 160247
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-071 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-071.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-071.png",
+      "sizeBytes": 171222
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-071 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-071_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-071_p1.png",
+      "sizeBytes": 217432
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-072 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-072.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-072.png",
+      "sizeBytes": 198616
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-072 煉󠄁獄 杏寿郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-072_p1.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-072_p1.png",
+      "sizeBytes": 209971
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-073 炎の呼吸 壱ノ型 不知火",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-073.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-073.png",
+      "sizeBytes": 174609
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-AP01 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-AP01.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-AP01.png",
+      "sizeBytes": 222759
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-AP01★ アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-AP01_s.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-AP01_s.png",
+      "sizeBytes": 176796
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-AP02 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-AP02.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-AP02.png",
+      "sizeBytes": 140554
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-AP03 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-AP03.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-AP03.png",
+      "sizeBytes": 231783
+    },
+    {
+      "series": "鬼滅の刃 Vol.2",
+      "seriesId": "570205",
+      "alt": "EX05BT/KMY-3-AP04 アクションポイントカード(鬼滅の刃)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX05BT_KMY-3-AP04.png?v8",
+      "localPath": "/cards/demon-slayer-3/EX05BT_KMY-3-AP04.png",
+      "sizeBytes": 141477
+    }
+  ],
+  "failures": []
+}

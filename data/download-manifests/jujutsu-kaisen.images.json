@@ -1,0 +1,176 @@
+{
+  "generatedAt": "2026-07-13T17:54:17.911Z",
+  "series": {
+    "seriesId": "570002",
+    "title": "呪術廻戦",
+    "slug": "jujutsu-kaisen"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570002",
+  "totalFound": 20,
+  "downloaded": 20,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-036 伊地知 潔高",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-036.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-036.png",
+      "sizeBytes": 139496
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-037 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-037.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-037.png",
+      "sizeBytes": 144115
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-044 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-044.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-044.png",
+      "sizeBytes": 135888
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-045 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-045.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-045.png",
+      "sizeBytes": 139478
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-056 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-056.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-056.png",
+      "sizeBytes": 131990
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-058 夜蛾 正道",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-058.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-058.png",
+      "sizeBytes": 150130
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-062 逕庭拳",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-062.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-062.png",
+      "sizeBytes": 154884
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-063 宿儺の指",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-063.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-063.png",
+      "sizeBytes": 132989
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-067 領域展開",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-067.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-067.png",
+      "sizeBytes": 150167
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-101 虎杖 悠仁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-101.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-101.png",
+      "sizeBytes": 135891
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-102 釘崎 野薔薇",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-102.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-102.png",
+      "sizeBytes": 146492
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-103 五条 悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-103.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-103.png",
+      "sizeBytes": 134023
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-104 佐々木＆井口",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-104.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-104.png",
+      "sizeBytes": 155655
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-105 宿儺",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-105.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-105.png",
+      "sizeBytes": 187838
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-106 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-106.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-106.png",
+      "sizeBytes": 129099
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-107 伏黒 恵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-107.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-107.png",
+      "sizeBytes": 236907
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-108 東京都立呪術高等専門学校",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-108.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-108.png",
+      "sizeBytes": 205065
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-109 呪術高専1年",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-109.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-109.png",
+      "sizeBytes": 151380
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-AP01 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-AP01.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-AP01.png",
+      "sizeBytes": 75546
+    },
+    {
+      "series": "呪術廻戦",
+      "seriesId": "570002",
+      "alt": "UA02ST/JJK-1-AP02 アクションポイントカード(呪術廻戦)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA02ST_JJK-1-AP02.png?v8",
+      "localPath": "/cards/jujutsu-kaisen/UA02ST_JJK-1-AP02.png",
+      "sizeBytes": 111063
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,792 @@
+{
+  "generatedAt": "2026-07-13T17:54:06.161Z",
+  "series": {
+    "seriesId": "570202",
+    "title": "コードギアス 反逆のルルーシュ Vol.2",
+    "slug": "code-geass-3"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570202",
+  "totalFound": 97,
+  "downloaded": 97,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-001 扇 要",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-001.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-001.png",
+      "sizeBytes": 124702
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-002 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-002.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-002.png",
+      "sizeBytes": 135333
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-003 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-003.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-003.png",
+      "sizeBytes": 147364
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-004 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-004.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-004.png",
+      "sizeBytes": 147085
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-005 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-005.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-005.png",
+      "sizeBytes": 184990
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-005 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-005_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-005_p1.png",
+      "sizeBytes": 216670
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-006 ジェレミア・ゴットバルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-006.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-006.png",
+      "sizeBytes": 130794
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-006 ジェレミア・ゴットバルト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-006_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-006_p1.png",
+      "sizeBytes": 157229
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-007 皇 神楽耶",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-007.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-007.png",
+      "sizeBytes": 140494
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-008 ゼロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-008.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-008.png",
+      "sizeBytes": 145226
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-009 ゼロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-009.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-009.png",
+      "sizeBytes": 154434
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-010 ディートハルト・リート",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-010.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-010.png",
+      "sizeBytes": 130408
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-011 ラクシャータ・チャウラー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-011.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-011.png",
+      "sizeBytes": 150479
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-012 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-012.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-012.png",
+      "sizeBytes": 134738
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-013 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-013.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-013.png",
+      "sizeBytes": 142089
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-013 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-013_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-013_p1.png",
+      "sizeBytes": 175200
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-014 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-014.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-014.png",
+      "sizeBytes": 138518
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-015 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-015.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-015.png",
+      "sizeBytes": 141998
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-015 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-015_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-015_p1.png",
+      "sizeBytes": 162324
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-016 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-016.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-016.png",
+      "sizeBytes": 159147
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-016 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-016_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-016_p1.png",
+      "sizeBytes": 208491
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-017 周 香凛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-017.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-017.png",
+      "sizeBytes": 142415
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-018 天子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-018.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-018.png",
+      "sizeBytes": 158324
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-019 天子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-019.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-019.png",
+      "sizeBytes": 129942
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-020 天子",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-020.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-020.png",
+      "sizeBytes": 150153
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-021 洪 古",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-021.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-021.png",
+      "sizeBytes": 144729
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-022 黎 星刻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-022.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-022.png",
+      "sizeBytes": 140604
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-023 黎 星刻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-023.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-023.png",
+      "sizeBytes": 143963
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-024 黎 星刻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-024.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-024.png",
+      "sizeBytes": 170079
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-024 黎 星刻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-024_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-024_p1.png",
+      "sizeBytes": 230034
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-025 暁 直参仕様（C.C.機）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-025.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-025.png",
+      "sizeBytes": 163932
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-026 ヴィンセント（ロロ機）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-026.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-026.png",
+      "sizeBytes": 229209
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-026 ヴィンセント（ロロ機）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-026_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-026_p1.png",
+      "sizeBytes": 235990
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-027 サザーランド可翔式（ジェレミア機）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-027.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-027.png",
+      "sizeBytes": 163040
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-028 蜃気楼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-028.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-028.png",
+      "sizeBytes": 165149
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-029 鋼髏",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-029.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-029.png",
+      "sizeBytes": 156251
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-030 神虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-030.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-030.png",
+      "sizeBytes": 230556
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-030 神虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-030_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-030_p1.png",
+      "sizeBytes": 235660
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-031 イカルガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-031.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-031.png",
+      "sizeBytes": 151774
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-032 永続調和の契り",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-032.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-032.png",
+      "sizeBytes": 156729
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-033 神虎輝く刻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-033.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-033.png",
+      "sizeBytes": 143534
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-034 絶対停止のギアス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-034.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-034.png",
+      "sizeBytes": 158337
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-035 天愕覇王荷電粒子重砲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-035.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-035.png",
+      "sizeBytes": 185623
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-036 百万のキセキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-036.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-036.png",
+      "sizeBytes": 151218
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-037 ロケット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-037.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-037.png",
+      "sizeBytes": 153089
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-038 紅月 カレン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-038.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-038.png",
+      "sizeBytes": 152887
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-038 紅月 カレン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-038_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-038_p1.png",
+      "sizeBytes": 197295
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-039 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-039.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-039.png",
+      "sizeBytes": 173262
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-040 藤堂 鏡志朗",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-040.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-040.png",
+      "sizeBytes": 149454
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-041 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-041.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-041.png",
+      "sizeBytes": 160080
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-042 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-042.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-042.png",
+      "sizeBytes": 181519
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-042 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-042_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-042_p1.png",
+      "sizeBytes": 188060
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-043 朝比奈 昇悟",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-043.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-043.png",
+      "sizeBytes": 119142
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-044 卜部 巧雪",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-044.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-044.png",
+      "sizeBytes": 146103
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-045 千葉 凪沙",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-045.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-045.png",
+      "sizeBytes": 139765
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-046 紅蓮可翔式",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-046.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-046.png",
+      "sizeBytes": 152628
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-046 紅蓮可翔式",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-046_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-046_p1.png",
+      "sizeBytes": 233475
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-047 斬月",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-047.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-047.png",
+      "sizeBytes": 158287
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-048 暁　直参仕様",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-048.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-048.png",
+      "sizeBytes": 157086
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-049 蘇る記憶",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-049.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-049.png",
+      "sizeBytes": 127653
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-050 カノン・マルディーニ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-050.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-050.png",
+      "sizeBytes": 169385
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-051 シュナイゼル・エル・ブリタニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-051.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-051.png",
+      "sizeBytes": 156691
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-052 ナナリー・ヴィ・ブリタニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-052.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-052.png",
+      "sizeBytes": 149364
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-052 ナナリー・ヴィ・ブリタニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-052_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-052_p1.png",
+      "sizeBytes": 253002
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-053 アーニャ・アールストレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-053.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-053.png",
+      "sizeBytes": 144323
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-054 アーニャ・アールストレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-054.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-054.png",
+      "sizeBytes": 150439
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-054 アーニャ・アールストレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-054_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-054_p1.png",
+      "sizeBytes": 199374
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-055 枢木 スザク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-055.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-055.png",
+      "sizeBytes": 170330
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-055 枢木 スザク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-055_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-055_p1.png",
+      "sizeBytes": 233225
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-056 ジノ・ヴァインベルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-056.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-056.png",
+      "sizeBytes": 144784
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-057 ジノ・ヴァインベルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-057.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-057.png",
+      "sizeBytes": 162107
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-058 トリスタン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-058.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-058.png",
+      "sizeBytes": 165013
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-059 モルドレッド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-059.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-059.png",
+      "sizeBytes": 209275
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-060 ランスロット・コンクエスター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-060.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-060.png",
+      "sizeBytes": 170700
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-060 ランスロット・コンクエスター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-060_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-060_p1.png",
+      "sizeBytes": 222863
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-061 ナイトオブラウンズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-061.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-061.png",
+      "sizeBytes": 170963
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-062 アーニャ・アールストレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-062.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-062.png",
+      "sizeBytes": 154116
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-063 アーニャ・アールストレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-063.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-063.png",
+      "sizeBytes": 165548
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-063 アーニャ・アールストレイム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-063_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-063_p1.png",
+      "sizeBytes": 198344
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-064 ヴィレッタ・ヌゥ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-064.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-064.png",
+      "sizeBytes": 140423
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-064 ヴィレッタ・ヌゥ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-064_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-064_p1.png",
+      "sizeBytes": 186408
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-065 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-065.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-065.png",
+      "sizeBytes": 174734
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-066 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-066.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-066.png",
+      "sizeBytes": 224647
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-066 C.C.",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-066_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-066_p1.png",
+      "sizeBytes": 253190
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-067 ジノ・ヴァインベルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-067.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-067.png",
+      "sizeBytes": 144597
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-068 ジノ・ヴァインベルグ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-068.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-068.png",
+      "sizeBytes": 149301
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-069 シャーリー・フェネット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-069.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-069.png",
+      "sizeBytes": 147725
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-069 シャーリー・フェネット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-069_p1.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-069_p1.png",
+      "sizeBytes": 185879
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-070 ルルーシュ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-070.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-070.png",
+      "sizeBytes": 134582
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-071 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-071.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-071.png",
+      "sizeBytes": 160538
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-072 ロロ・ランペルージ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-072.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-072.png",
+      "sizeBytes": 166142
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-073 キューピッドの日",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-073.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-073.png",
+      "sizeBytes": 159864
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-AP01 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-AP01.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-AP01.png",
+      "sizeBytes": 164040
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-AP02 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-AP02.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-AP02.png",
+      "sizeBytes": 172342
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-AP03 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-AP03.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-AP03.png",
+      "sizeBytes": 149413
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-AP04 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-AP04.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-AP04.png",
+      "sizeBytes": 160130
+    },
+    {
+      "series": "コードギアス 反逆のルルーシュ Vol.2",
+      "seriesId": "570202",
+      "alt": "EX02BT/CGH-2-AP05 アクションポイントカード(コードギアス 反逆のルルーシュ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/EX02BT_CGH-2-AP05.png?v8",
+      "localPath": "/cards/code-geass-3/EX02BT_CGH-2-AP05.png",
+      "sizeBytes": 184997
+    }
+  ],
+  "failures": []
+}

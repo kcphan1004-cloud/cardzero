@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:42:18.993Z",
+  "series": {
+    "seriesId": "570030",
+    "title": "アークナイツ",
+    "slug": "arknights"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570030",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-035 フランカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-035.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-035.png",
+      "sizeBytes": 187925
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-036 リスカム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-036.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-036.png",
+      "sizeBytes": 181268
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-039 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-039.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-039.png",
+      "sizeBytes": 175302
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-046 ケルシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-046.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-046.png",
+      "sizeBytes": 184640
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-049 ドーベルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-049.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-049.png",
+      "sizeBytes": 191586
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-050 ドーベルマン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-050.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-050.png",
+      "sizeBytes": 183834
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-051 ドクター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-051.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-051.png",
+      "sizeBytes": 181064
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-062 初級理性回復剤",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-062.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-062.png",
+      "sizeBytes": 162772
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-064 ソウルブースト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-064.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-064.png",
+      "sizeBytes": 175297
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-101 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-101.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-101.png",
+      "sizeBytes": 192686
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-102 アーミヤ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-102.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-102.png",
+      "sizeBytes": 239500
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-103 Guard",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-103.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-103.png",
+      "sizeBytes": 178145
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-104 ニアール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-104.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-104.png",
+      "sizeBytes": 201478
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-105 Medic",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-105.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-105.png",
+      "sizeBytes": 192852
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-106 Ace",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-106.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-106.png",
+      "sizeBytes": 199989
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-107 ブレイズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-107.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-107.png",
+      "sizeBytes": 204102
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-108 ロドス・アイランド製薬",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-108.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-108.png",
+      "sizeBytes": 153868
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-109 行動開始",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-109.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-109.png",
+      "sizeBytes": 183593
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-110 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-110.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-110.png",
+      "sizeBytes": 195208
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-110 タルラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-110_p1.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-110_p1.png",
+      "sizeBytes": 193472
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-111 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-111.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-111.png",
+      "sizeBytes": 212764
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-111 フロストノヴァ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-111_p1.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-111_p1.png",
+      "sizeBytes": 226194
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-112 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-112.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-112.png",
+      "sizeBytes": 200431
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-112 エクシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-112_p1.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-112_p1.png",
+      "sizeBytes": 212622
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-113 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-113.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-113.png",
+      "sizeBytes": 201323
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-113 チェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-113_p1.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-113_p1.png",
+      "sizeBytes": 227580
+    },
+    {
+      "series": "アークナイツ",
+      "seriesId": "570030",
+      "alt": "UA30ST/ARK-1-AP01 アクションポイントカード(アークナイツ)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA30ST_ARK-1-AP01.png?v8",
+      "localPath": "/cards/arknights/UA30ST_ARK-1-AP01.png",
+      "sizeBytes": 210087
+    }
+  ],
+  "failures": []
+}

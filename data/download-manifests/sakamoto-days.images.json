@@ -1,0 +1,928 @@
+{
+  "generatedAt": "2026-07-13T19:01:50.674Z",
+  "series": {
+    "seriesId": "570143",
+    "title": "SAKAMOTO DAYS",
+    "slug": "sakamoto-days"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570143",
+  "totalFound": 114,
+  "downloaded": 114,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-001 帯黒",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-001.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-001.png",
+      "sizeBytes": 146749
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-002 ピー助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-002.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-002.png",
+      "sizeBytes": 149275
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-003 ボイル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-003.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-003.png",
+      "sizeBytes": 141670
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-004 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-004.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-004.png",
+      "sizeBytes": 152334
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-005 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-005.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-005.png",
+      "sizeBytes": 135288
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-006 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-006.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-006.png",
+      "sizeBytes": 167312
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-007 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-007.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-007.png",
+      "sizeBytes": 144315
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-007 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-007_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-007_p1.png",
+      "sizeBytes": 148601
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-008 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-008.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-008.png",
+      "sizeBytes": 193170
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-008 眞霜 平助",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-008_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-008_p1.png",
+      "sizeBytes": 218331
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-009 陸 無糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-009.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-009.png",
+      "sizeBytes": 144472
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-010 陸 無糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-010.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-010.png",
+      "sizeBytes": 175937
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-011 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-011.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-011.png",
+      "sizeBytes": 162277
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-012 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-012.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-012.png",
+      "sizeBytes": 154156
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-012 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-012_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-012_p1.png",
+      "sizeBytes": 164188
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-013 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-013.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-013.png",
+      "sizeBytes": 154508
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-014 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-014.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-014.png",
+      "sizeBytes": 158281
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-015 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-015.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-015.png",
+      "sizeBytes": 148549
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-016 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-016.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-016.png",
+      "sizeBytes": 163700
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-016 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-016_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-016_p1.png",
+      "sizeBytes": 163010
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-017 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-017.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-017.png",
+      "sizeBytes": 191773
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-017 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-017_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-017_p1.png",
+      "sizeBytes": 169990
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-018 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-018.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-018.png",
+      "sizeBytes": 179888
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-018 朝倉 シン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-018_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-018_p1.png",
+      "sizeBytes": 218731
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-019 坂本 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-019.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-019.png",
+      "sizeBytes": 160980
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-020 坂本 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-020.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-020.png",
+      "sizeBytes": 152420
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-021 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-021.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-021.png",
+      "sizeBytes": 153025
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-022 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-022.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-022.png",
+      "sizeBytes": 176095
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-023 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-023.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-023.png",
+      "sizeBytes": 166385
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-024 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-024.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-024.png",
+      "sizeBytes": 182326
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-025 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-025.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-025.png",
+      "sizeBytes": 179270
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-025 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-025_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-025_p1.png",
+      "sizeBytes": 196292
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-026 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-026.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-026.png",
+      "sizeBytes": 193034
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-026 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-026_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-026_p1.png",
+      "sizeBytes": 218211
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-026 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-026_p2.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-026_p2.png",
+      "sizeBytes": 217786
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-027 坂本 花",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-027.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-027.png",
+      "sizeBytes": 164969
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-028 陸 少糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-028.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-028.png",
+      "sizeBytes": 155525
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-029 陸 少糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-029.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-029.png",
+      "sizeBytes": 150495
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-030 陸 少糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-030.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-030.png",
+      "sizeBytes": 174054
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-030 陸 少糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-030_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-030_p1.png",
+      "sizeBytes": 184570
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-031 陸 少糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-031.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-031.png",
+      "sizeBytes": 197919
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-031 陸 少糖",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-031_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-031_p1.png",
+      "sizeBytes": 237203
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-032 朝倉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-032.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-032.png",
+      "sizeBytes": 144394
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-033 朝倉",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-033.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-033.png",
+      "sizeBytes": 158480
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-034 憩来坂商店街大サバゲ―大会",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-034.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-034.png",
+      "sizeBytes": 147898
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-035 坂本商店",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-035.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-035.png",
+      "sizeBytes": 162450
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-036 坂本家家訓",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-036.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-036.png",
+      "sizeBytes": 155257
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-037 超能力",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-037.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-037.png",
+      "sizeBytes": 145093
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-038 伝説の男",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-038.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-038.png",
+      "sizeBytes": 182621
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-039 何て事ない日常",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-039.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-039.png",
+      "sizeBytes": 165670
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-040 丸聞こえだぜ…",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-040.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-040.png",
+      "sizeBytes": 153230
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-041 X",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-041.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-041.png",
+      "sizeBytes": 159802
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-042 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-042.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-042.png",
+      "sizeBytes": 154518
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-043 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-043.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-043.png",
+      "sizeBytes": 142748
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-044 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-044.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-044.png",
+      "sizeBytes": 150058
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-044 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-044_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-044_p1.png",
+      "sizeBytes": 192478
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-045 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-045.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-045.png",
+      "sizeBytes": 162427
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-045 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-045_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-045_p1.png",
+      "sizeBytes": 204705
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-046 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-046.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-046.png",
+      "sizeBytes": 198884
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-046 大佛",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-046_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-046_p1.png",
+      "sizeBytes": 209270
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-047 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-047.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-047.png",
+      "sizeBytes": 167677
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-048 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-048.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-048.png",
+      "sizeBytes": 168741
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-049 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-049.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-049.png",
+      "sizeBytes": 154515
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-050 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-050.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-050.png",
+      "sizeBytes": 156572
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-051 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-051.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-051.png",
+      "sizeBytes": 188169
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-051 坂本 太郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-051_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-051_p1.png",
+      "sizeBytes": 201163
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-052 神々廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-052.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-052.png",
+      "sizeBytes": 150632
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-053 神々廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-053.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-053.png",
+      "sizeBytes": 147340
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-054 神々廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-054.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-054.png",
+      "sizeBytes": 167797
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-054 神々廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-054_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-054_p1.png",
+      "sizeBytes": 193799
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-055 神々廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-055.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-055.png",
+      "sizeBytes": 189953
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-055 神々廻",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-055_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-055_p1.png",
+      "sizeBytes": 213220
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-056 篁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-056.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-056.png",
+      "sizeBytes": 163717
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-056 篁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-056_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-056_p1.png",
+      "sizeBytes": 207645
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-057 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-057.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-057.png",
+      "sizeBytes": 150592
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-058 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-058.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-058.png",
+      "sizeBytes": 159270
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-059 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-059.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-059.png",
+      "sizeBytes": 178959
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-060 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-060.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-060.png",
+      "sizeBytes": 161686
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-060 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-060_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-060_p1.png",
+      "sizeBytes": 190246
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-061 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-061.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-061.png",
+      "sizeBytes": 187505
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-061 南雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-061_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-061_p1.png",
+      "sizeBytes": 194541
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-062 豹",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-062.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-062.png",
+      "sizeBytes": 152584
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-063 鹿島",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-063.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-063.png",
+      "sizeBytes": 160623
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-064 侵入者排除システム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-064.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-064.png",
+      "sizeBytes": 161698
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-065 勢羽 夏生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-065.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-065.png",
+      "sizeBytes": 136934
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-066 勢羽 夏生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-066.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-066.png",
+      "sizeBytes": 134985
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-067 勢羽 夏生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-067.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-067.png",
+      "sizeBytes": 148335
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-068 勢羽 夏生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-068.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-068.png",
+      "sizeBytes": 151669
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-069 勢羽 夏生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-069.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-069.png",
+      "sizeBytes": 170542
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-069 勢羽 夏生",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-069_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-069_p1.png",
+      "sizeBytes": 182506
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-070 田中",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-070.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-070.png",
+      "sizeBytes": 153014
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-071 透明スーツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-071.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-071.png",
+      "sizeBytes": 153547
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-072 マッド堀口",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-072.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-072.png",
+      "sizeBytes": 158365
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-073 LABO",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-073.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-073.png",
+      "sizeBytes": 149457
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-074 ORDER",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-074.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-074.png",
+      "sizeBytes": 172616
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-075 秩序の名の下に",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-075.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-075.png",
+      "sizeBytes": 150786
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-076 ゲン担ぎ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-076.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-076.png",
+      "sizeBytes": 169279
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-077 B5で暴れて正解やったなァー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-077.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-077.png",
+      "sizeBytes": 162255
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-078 そろそろ定時なんで上がらせてもらうわ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-078.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-078.png",
+      "sizeBytes": 155581
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-079 変装の達人",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-079.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-079.png",
+      "sizeBytes": 152626
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-080 楽しい実験のはじまりだ～",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-080.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-080.png",
+      "sizeBytes": 170633
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP01 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP01.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP01.png",
+      "sizeBytes": 178959
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP01 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP01_p1.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP01_p1.png",
+      "sizeBytes": 126029
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP02 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP02.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP02.png",
+      "sizeBytes": 205887
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP03 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP03.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP03.png",
+      "sizeBytes": 212959
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP04 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP04.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP04.png",
+      "sizeBytes": 216201
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP05 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP05.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP05.png",
+      "sizeBytes": 197480
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP06 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP06.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP06.png",
+      "sizeBytes": 223783
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP07 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP07.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP07.png",
+      "sizeBytes": 156213
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP08 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP08.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP08.png",
+      "sizeBytes": 146239
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP09 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP09.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP09.png",
+      "sizeBytes": 117881
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP10 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP10.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP10.png",
+      "sizeBytes": 144028
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP11 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP11.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP11.png",
+      "sizeBytes": 149528
+    },
+    {
+      "series": "SAKAMOTO DAYS",
+      "seriesId": "570143",
+      "alt": "UA43BT/SMD-1-AP12 アクションポイントカード(SAKAMOTO DAYS)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA43BT_SMD-1-AP12.png?v8",
+      "localPath": "/cards/sakamoto-days/UA43BT_SMD-1-AP12.png",
+      "sizeBytes": 106906
+    }
+  ],
+  "failures": []
+}

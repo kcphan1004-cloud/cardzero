@@ -1,0 +1,976 @@
+{
+  "generatedAt": "2026-07-13T19:15:09.994Z",
+  "series": {
+    "seriesId": "570154",
+    "title": "無職転生 ～異世界行ったら本気だす～",
+    "slug": "mushoku-tensei"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570154",
+  "totalFound": 120,
+  "downloaded": 120,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-001 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-001.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-001.png",
+      "sizeBytes": 166543
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-002 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-002.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-002.png",
+      "sizeBytes": 168473
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-002 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-002_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-002_p1.png",
+      "sizeBytes": 184288
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-003 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-003.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-003.png",
+      "sizeBytes": 165442
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-004 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-004.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-004.png",
+      "sizeBytes": 175485
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-005 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-005.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-005.png",
+      "sizeBytes": 182622
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-006 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-006.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-006.png",
+      "sizeBytes": 167304
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-007 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-007.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-007.png",
+      "sizeBytes": 204418
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-007 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-007_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-007_p1.png",
+      "sizeBytes": 217981
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-008 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-008.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-008.png",
+      "sizeBytes": 229102
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-008 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-008_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-008_p1.png",
+      "sizeBytes": 234676
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-009 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-009.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-009.png",
+      "sizeBytes": 225113
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-009 エリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-009_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-009_p1.png",
+      "sizeBytes": 238509
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-010 キシリカ・キシリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-010.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-010.png",
+      "sizeBytes": 165133
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-011 ギレーヌ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-011.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-011.png",
+      "sizeBytes": 178051
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-012 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-012.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-012.png",
+      "sizeBytes": 172183
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-013 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-013.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-013.png",
+      "sizeBytes": 175269
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-014 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-014.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-014.png",
+      "sizeBytes": 197707
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-014 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-014_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-014_p1.png",
+      "sizeBytes": 215847
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-015 聖獣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-015.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-015.png",
+      "sizeBytes": 166702
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-016 ゼニス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-016.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-016.png",
+      "sizeBytes": 167087
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-017 ノルン＆アイシャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-017.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-017.png",
+      "sizeBytes": 166758
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-018 パウロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-018.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-018.png",
+      "sizeBytes": 168667
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-019 リーリャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-019.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-019.png",
+      "sizeBytes": 178412
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-020 ルイジェルド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-020.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-020.png",
+      "sizeBytes": 160231
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-021 ルイジェルド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-021.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-021.png",
+      "sizeBytes": 174736
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-022 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-022.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-022.png",
+      "sizeBytes": 182935
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-023 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-023.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-023.png",
+      "sizeBytes": 163453
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-024 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-024.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-024.png",
+      "sizeBytes": 167308
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-025 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-025.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-025.png",
+      "sizeBytes": 182598
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-026 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-026.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-026.png",
+      "sizeBytes": 207774
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-026 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-026_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-026_p1.png",
+      "sizeBytes": 214342
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-027 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-027.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-027.png",
+      "sizeBytes": 178680
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-028 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-028.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-028.png",
+      "sizeBytes": 187513
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-029 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-029.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-029.png",
+      "sizeBytes": 172713
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-030 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-030.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-030.png",
+      "sizeBytes": 182996
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-031 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-031.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-031.png",
+      "sizeBytes": 179653
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-031 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-031_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-031_p1.png",
+      "sizeBytes": 223403
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-032 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-032.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-032.png",
+      "sizeBytes": 195203
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-032 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-032_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-032_p1.png",
+      "sizeBytes": 221017
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-033 デッドエンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-033.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-033.png",
+      "sizeBytes": 204097
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-034 エリスに魔術を教えてくださいニャン☆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-034.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-034.png",
+      "sizeBytes": 157793
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-034 エリスに魔術を教えてくださいニャン☆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-034_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-034_p1.png",
+      "sizeBytes": 222324
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-035 お前は戦士だ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-035.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-035.png",
+      "sizeBytes": 178378
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-036 豪雷積層雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-036.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-036.png",
+      "sizeBytes": 173972
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-036 豪雷積層雲",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-036_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-036_p1.png",
+      "sizeBytes": 234652
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-037 ご神体",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-037.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-037.png",
+      "sizeBytes": 154207
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-038 師匠からのおくりもの",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-038.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-038.png",
+      "sizeBytes": 191412
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-039 ルーデウスはすごいのよ！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-039.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-039.png",
+      "sizeBytes": 168089
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-040 私がついていますから",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-040.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-040.png",
+      "sizeBytes": 167064
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-041 アイシャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-041.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-041.png",
+      "sizeBytes": 170198
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-041 アイシャ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-041_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-041_p1.png",
+      "sizeBytes": 190819
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-042 エリナリーゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-042.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-042.png",
+      "sizeBytes": 180115
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-043 ギース",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-043.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-043.png",
+      "sizeBytes": 169902
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-044 サラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-044.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-044.png",
+      "sizeBytes": 183123
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-045 ゼニス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-045.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-045.png",
+      "sizeBytes": 177213
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-046 タルハンド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-046.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-046.png",
+      "sizeBytes": 185910
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-047 パウロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-047.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-047.png",
+      "sizeBytes": 161437
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-048 パウロ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-048.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-048.png",
+      "sizeBytes": 168658
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-049 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-049.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-049.png",
+      "sizeBytes": 239274
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-049 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-049_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-049_p1.png",
+      "sizeBytes": 236964
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-050 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-050.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-050.png",
+      "sizeBytes": 170627
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-051 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-051.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-051.png",
+      "sizeBytes": 156901
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-052 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-052.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-052.png",
+      "sizeBytes": 177647
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-052 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-052_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-052_p1.png",
+      "sizeBytes": 245787
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-053 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-053.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-053.png",
+      "sizeBytes": 228241
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-053 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-053_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-053_p1.png",
+      "sizeBytes": 260565
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-054 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-054.png",
+      "sizeBytes": 210279
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-054 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-054_p1.png",
+      "sizeBytes": 228758
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-054 ロキシー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-054_p2.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-054_p2.png",
+      "sizeBytes": 229678
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-055 アリエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-055.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-055.png",
+      "sizeBytes": 186063
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-056 エリナリーゼ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-056.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-056.png",
+      "sizeBytes": 179532
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-057 クリフ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-057.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-057.png",
+      "sizeBytes": 168671
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-058 ザノバ＆ジュリエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-058.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-058.png",
+      "sizeBytes": 182059
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-059 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-059.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-059.png",
+      "sizeBytes": 191634
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-059 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-059_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-059_p1.png",
+      "sizeBytes": 222673
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-060 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-060.png",
+      "sizeBytes": 209822
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-060 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-060_p1.png",
+      "sizeBytes": 251242
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-060 シルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-060_p2.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-060_p2.png",
+      "sizeBytes": 232672
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-061 ナナホシ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-061.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-061.png",
+      "sizeBytes": 177323
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-061 ナナホシ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-061_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-061_p1.png",
+      "sizeBytes": 232636
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-062 ナナホシ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-062.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-062.png",
+      "sizeBytes": 198236
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-062 ナナホシ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-062_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-062_p1.png",
+      "sizeBytes": 235236
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-063 ノルン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-063.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-063.png",
+      "sizeBytes": 173035
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-064 バーディガーディ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-064.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-064.png",
+      "sizeBytes": 186471
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-065 フィッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-065.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-065.png",
+      "sizeBytes": 176241
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-066 フィッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-066.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-066.png",
+      "sizeBytes": 175991
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-067 フィッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-067.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-067.png",
+      "sizeBytes": 215927
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-068 フィッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-068.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-068.png",
+      "sizeBytes": 227900
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-068 フィッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-068_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-068_p1.png",
+      "sizeBytes": 265945
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-069 プルセナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-069.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-069.png",
+      "sizeBytes": 179744
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-069 プルセナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-069_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-069_p1.png",
+      "sizeBytes": 231994
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-070 リニアーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-070.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-070.png",
+      "sizeBytes": 171168
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-070 リニアーナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-070_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-070_p1.png",
+      "sizeBytes": 250851
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-071 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-071.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-071.png",
+      "sizeBytes": 184166
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-072 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-072.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-072.png",
+      "sizeBytes": 172218
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-073 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-073.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-073.png",
+      "sizeBytes": 180906
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-073 ルーデウス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-073_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-073_p1.png",
+      "sizeBytes": 271752
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-074 転移の迷宮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-074.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-074.png",
+      "sizeBytes": 175380
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-075 迷宮都市ラパン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-075.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-075.png",
+      "sizeBytes": 174285
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-076 迷宮の守護者 マナタイトヒュドラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-076.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-076.png",
+      "sizeBytes": 183369
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-077 今までありがとう",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-077.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-077.png",
+      "sizeBytes": 175613
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-077 今までありがとう",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-077_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-077_p1.png",
+      "sizeBytes": 220003
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-078 守護術師フィッツ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-078.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-078.png",
+      "sizeBytes": 166785
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-079 ゼニス救出作戦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-079.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-079.png",
+      "sizeBytes": 177112
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-080 そう、ボクはシルフィエット",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-080.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-080.png",
+      "sizeBytes": 169364
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP01 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP01.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP01.png",
+      "sizeBytes": 193853
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP01 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP01_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP01_p1.png",
+      "sizeBytes": 188143
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP02 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP02.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP02.png",
+      "sizeBytes": 179283
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP02 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP02_p1.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP02_p1.png",
+      "sizeBytes": 170293
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP03 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP03.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP03.png",
+      "sizeBytes": 185829
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP04 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP04.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP04.png",
+      "sizeBytes": 204844
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP05 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP05.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP05.png",
+      "sizeBytes": 199157
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP06 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP06.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP06.png",
+      "sizeBytes": 179650
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP07 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP07.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP07.png",
+      "sizeBytes": 179488
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP08 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP08.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP08.png",
+      "sizeBytes": 197939
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP09 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP09.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP09.png",
+      "sizeBytes": 194280
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP10 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP10.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP10.png",
+      "sizeBytes": 199012
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP11 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP11.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP11.png",
+      "sizeBytes": 178145
+    },
+    {
+      "series": "無職転生 ～異世界行ったら本気だす～",
+      "seriesId": "570154",
+      "alt": "UA54BT/MST-1-AP12 アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA54BT_MST-1-AP12.png?v8",
+      "localPath": "/cards/mushoku-tensei/UA54BT_MST-1-AP12.png",
+      "sizeBytes": 207192
+    }
+  ],
+  "failures": []
+}

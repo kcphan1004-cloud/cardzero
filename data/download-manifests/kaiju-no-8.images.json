@@ -1,0 +1,944 @@
+{
+  "generatedAt": "2026-07-13T18:39:35.950Z",
+  "series": {
+    "seriesId": "570128",
+    "title": "怪獣８号",
+    "slug": "kaiju-no-8"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570128",
+  "totalFound": 116,
+  "downloaded": 116,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-001 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-001.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-001.png",
+      "sizeBytes": 181440
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-002 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-002.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-002.png",
+      "sizeBytes": 190628
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-003 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-003.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-003.png",
+      "sizeBytes": 178525
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-003 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-003_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-003_p1.png",
+      "sizeBytes": 227689
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-004 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-004.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-004.png",
+      "sizeBytes": 208863
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-004 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-004_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-004_p1.png",
+      "sizeBytes": 244336
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-005 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-005.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-005.png",
+      "sizeBytes": 224142
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-005 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-005_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-005_p1.png",
+      "sizeBytes": 223216
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-005 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-005_p2.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-005_p2.png",
+      "sizeBytes": 229379
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-006 五十嵐 ハクア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-006.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-006.png",
+      "sizeBytes": 187401
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-007 出雲 ハルイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-007.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-007.png",
+      "sizeBytes": 196474
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-008 出雲 ハルイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-008.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-008.png",
+      "sizeBytes": 175277
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-008 出雲 ハルイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-008_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-008_p1.png",
+      "sizeBytes": 203067
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-009 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-009.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-009.png",
+      "sizeBytes": 184517
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-010 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-010.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-010.png",
+      "sizeBytes": 177963
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-011 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-011.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-011.png",
+      "sizeBytes": 181348
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-012 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-012.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-012.png",
+      "sizeBytes": 223782
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-012 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-012_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-012_p1.png",
+      "sizeBytes": 235331
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-012 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-012_p2.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-012_p2.png",
+      "sizeBytes": 205418
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-013 小此木 このみ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-013.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-013.png",
+      "sizeBytes": 179386
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-014 神楽木 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-014.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-014.png",
+      "sizeBytes": 170104
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-015 神楽木 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-015.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-015.png",
+      "sizeBytes": 178684
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-015 神楽木 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-015_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-015_p1.png",
+      "sizeBytes": 196160
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-016 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-016.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-016.png",
+      "sizeBytes": 183759
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-017 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-017.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-017.png",
+      "sizeBytes": 188179
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-018 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-018.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-018.png",
+      "sizeBytes": 180069
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-019 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-019.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-019.png",
+      "sizeBytes": 210714
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-019 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-019_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-019_p1.png",
+      "sizeBytes": 235059
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-020 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-020.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-020.png",
+      "sizeBytes": 204387
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-020 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-020_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-020_p1.png",
+      "sizeBytes": 229232
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-020 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-020_p2.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-020_p2.png",
+      "sizeBytes": 189996
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-021 中之島 タエ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-021.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-021.png",
+      "sizeBytes": 187265
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-022 伐虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-022.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-022.png",
+      "sizeBytes": 177915
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-023 伐虎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-023.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-023.png",
+      "sizeBytes": 189310
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-024 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-024.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-024.png",
+      "sizeBytes": 194466
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-025 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-025.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-025.png",
+      "sizeBytes": 189781
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-026 古橋 伊春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-026.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-026.png",
+      "sizeBytes": 189085
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-027 古橋 伊春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-027.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-027.png",
+      "sizeBytes": 189225
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-028 古橋 伊春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-028.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-028.png",
+      "sizeBytes": 184357
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-028 古橋 伊春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-028_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-028_p1.png",
+      "sizeBytes": 191449
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-029 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-029.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-029.png",
+      "sizeBytes": 177868
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-030 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-030.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-030.png",
+      "sizeBytes": 190133
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-031 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-031.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-031.png",
+      "sizeBytes": 175657
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-031 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-031_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-031_p1.png",
+      "sizeBytes": 205731
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-032 水無瀬 あかり",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-032.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-032.png",
+      "sizeBytes": 188618
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-033 防衛隊立川基地",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-033.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-033.png",
+      "sizeBytes": 206085
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-034 A6ランク黒毛和牛 霜降りコース",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-034.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-034.png",
+      "sizeBytes": 198002
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-035 解放戦力96％",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-035.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-035.png",
+      "sizeBytes": 183824
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-036 これが今の私",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-036.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-036.png",
+      "sizeBytes": 200160
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-037 今度は私が射抜く番だ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-037.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-037.png",
+      "sizeBytes": 182465
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-038 選別試験",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-038.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-038.png",
+      "sizeBytes": 209845
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-039 隊員募集中",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-039.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-039.png",
+      "sizeBytes": 201784
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-040 防衛隊式斧術1式 落雷",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-040.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-040.png",
+      "sizeBytes": 199569
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-041 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-041.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-041.png",
+      "sizeBytes": 179514
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-042 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-042.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-042.png",
+      "sizeBytes": 182364
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-043 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-043.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-043.png",
+      "sizeBytes": 176549
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-044 亜白 ミナ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-044.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-044.png",
+      "sizeBytes": 176991
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-045 斑鳩 亮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-045.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-045.png",
+      "sizeBytes": 182443
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-046 出雲 ハルイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-046.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-046.png",
+      "sizeBytes": 174924
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-047 出雲 ハルイチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-047.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-047.png",
+      "sizeBytes": 200951
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-048 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-048.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-048.png",
+      "sizeBytes": 176881
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-049 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-049.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-049.png",
+      "sizeBytes": 185318
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-050 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-050.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-050.png",
+      "sizeBytes": 197584
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-050 市川 レノ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-050_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-050_p1.png",
+      "sizeBytes": 201876
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-051 小此木 このみ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-051.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-051.png",
+      "sizeBytes": 177338
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-052 小此木 このみ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-052.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-052.png",
+      "sizeBytes": 177856
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-053 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-053.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-053.png",
+      "sizeBytes": 182053
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-054 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-054.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-054.png",
+      "sizeBytes": 229801
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-054 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-054_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-054_p1.png",
+      "sizeBytes": 281726
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-055 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-055.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-055.png",
+      "sizeBytes": 231988
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-055 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-055_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-055_p1.png",
+      "sizeBytes": 203497
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-055 怪獣８号",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-055_p2.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-055_p2.png",
+      "sizeBytes": 291634
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-056 神楽木 葵",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-056.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-056.png",
+      "sizeBytes": 175089
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-057 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-057.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-057.png",
+      "sizeBytes": 173650
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-058 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-058.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-058.png",
+      "sizeBytes": 172835
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-059 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-059.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-059.png",
+      "sizeBytes": 184460
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-059 四ノ宮 キコル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-059_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-059_p1.png",
+      "sizeBytes": 230576
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-060 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-060.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-060.png",
+      "sizeBytes": 188496
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-061 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-061.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-061.png",
+      "sizeBytes": 174214
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-062 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-062.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-062.png",
+      "sizeBytes": 184375
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-062 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-062_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-062_p1.png",
+      "sizeBytes": 194632
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-063 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-063.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-063.png",
+      "sizeBytes": 201439
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-063 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-063_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-063_p1.png",
+      "sizeBytes": 227462
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-063 日比野 カフカ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-063_p2.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-063_p2.png",
+      "sizeBytes": 204045
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-064 古橋 伊春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-064.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-064.png",
+      "sizeBytes": 174489
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-065 古橋 伊春",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-065.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-065.png",
+      "sizeBytes": 188176
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-066 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-066.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-066.png",
+      "sizeBytes": 162744
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-067 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-067.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-067.png",
+      "sizeBytes": 195677
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-068 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-068.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-068.png",
+      "sizeBytes": 184531
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-069 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-069.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-069.png",
+      "sizeBytes": 172699
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-070 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-070.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-070.png",
+      "sizeBytes": 202594
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-070 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-070_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-070_p1.png",
+      "sizeBytes": 283100
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-071 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-071.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-071.png",
+      "sizeBytes": 205303
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-071 保科 宗四郎",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-071_p1.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-071_p1.png",
+      "sizeBytes": 194804
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-072 水無瀬 あかり",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-072.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-072.png",
+      "sizeBytes": 193647
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-073 モンスタースイーパー（株）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-073.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-073.png",
+      "sizeBytes": 198126
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-074 あとは俺に任せろ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-074.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-074.png",
+      "sizeBytes": 198191
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-075 あの日の約束",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-075.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-075.png",
+      "sizeBytes": 194797
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-076 特訓",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-076.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-076.png",
+      "sizeBytes": 189779
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-077 歯 食いしばれ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-077.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-077.png",
+      "sizeBytes": 197802
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-078 フォルティチュード9.8",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-078.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-078.png",
+      "sizeBytes": 207243
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-079 保科流刀伐術6式 八重討ち",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-079.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-079.png",
+      "sizeBytes": 193104
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-080 ミツケタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-080.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-080.png",
+      "sizeBytes": 189630
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP01 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP01.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP01.png",
+      "sizeBytes": 163789
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP01★ アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP01_s.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP01_s.png",
+      "sizeBytes": 174867
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP02 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP02.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP02.png",
+      "sizeBytes": 155433
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP03 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP03.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP03.png",
+      "sizeBytes": 161220
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP03★ アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP03_s.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP03_s.png",
+      "sizeBytes": 175881
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP04 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP04.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP04.png",
+      "sizeBytes": 150860
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP05 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP05.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP05.png",
+      "sizeBytes": 175071
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP06 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP06.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP06.png",
+      "sizeBytes": 148154
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP07 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP07.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP07.png",
+      "sizeBytes": 208935
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP08 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP08.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP08.png",
+      "sizeBytes": 232255
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP09 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP09.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP09.png",
+      "sizeBytes": 241628
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP10 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP10.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP10.png",
+      "sizeBytes": 192549
+    },
+    {
+      "series": "怪獣８号",
+      "seriesId": "570128",
+      "alt": "UA28BT/KJ8-1-AP11 アクションポイントカード(怪獣８号)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA28BT_KJ8-1-AP11.png?v8",
+      "localPath": "/cards/kaiju-no-8/UA28BT_KJ8-1-AP11.png",
+      "sizeBytes": 238159
+    }
+  ],
+  "failures": []
+}

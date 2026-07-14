@@ -1,0 +1,1088 @@
+{
+  "generatedAt": "2026-07-13T18:05:14.187Z",
+  "series": {
+    "seriesId": "570106",
+    "title": "Tales of ARISE",
+    "slug": "tales-of-arise-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570106",
+  "totalFound": 134,
+  "downloaded": 134,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-001 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-001.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-001.png",
+      "sizeBytes": 230617
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-002 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-002.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-002.png",
+      "sizeBytes": 218160
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-003 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-003.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-003.png",
+      "sizeBytes": 220801
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-004 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-004.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-004.png",
+      "sizeBytes": 204999
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-005 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-005.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-005.png",
+      "sizeBytes": 202509
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-006 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-006.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-006.png",
+      "sizeBytes": 207997
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-006 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-006_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-006_p1.png",
+      "sizeBytes": 222455
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-007 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-007.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-007.png",
+      "sizeBytes": 254430
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-007 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-007_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-007_p1.png",
+      "sizeBytes": 238594
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-008 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-008.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-008.png",
+      "sizeBytes": 200768
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-009 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-009.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-009.png",
+      "sizeBytes": 215526
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-010 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-010.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-010.png",
+      "sizeBytes": 212485
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-011 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-011.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-011.png",
+      "sizeBytes": 199945
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-012 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-012.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-012.png",
+      "sizeBytes": 216195
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-013 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-013.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-013.png",
+      "sizeBytes": 183076
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-014 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-014.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-014.png",
+      "sizeBytes": 252772
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-014 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-014_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-014_p1.png",
+      "sizeBytes": 247308
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-015 フルル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-015.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-015.png",
+      "sizeBytes": 189689
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-016 フルル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-016.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-016.png",
+      "sizeBytes": 188749
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-017 フルル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-017.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-017.png",
+      "sizeBytes": 181648
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-018 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-018.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-018.png",
+      "sizeBytes": 201942
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-019 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-019.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-019.png",
+      "sizeBytes": 211299
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-020 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-020.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-020.png",
+      "sizeBytes": 212495
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-020 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-020_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-020_p1.png",
+      "sizeBytes": 233931
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-021 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-021.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-021.png",
+      "sizeBytes": 239663
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-021 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-021_p2.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-021_p2.png",
+      "sizeBytes": 267449
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-022 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-022.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-022.png",
+      "sizeBytes": 196190
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-023 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-023.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-023.png",
+      "sizeBytes": 206115
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-024 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-024.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-024.png",
+      "sizeBytes": 196671
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-025 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-025.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-025.png",
+      "sizeBytes": 239345
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-025 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-025_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-025_p1.png",
+      "sizeBytes": 254189
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-026 フクロウの杜",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-026.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-026.png",
+      "sizeBytes": 231064
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-027 エアスラスト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-027.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-027.png",
+      "sizeBytes": 224168
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-028 サンダーブレード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-028.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-028.png",
+      "sizeBytes": 227095
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-029 守護方陣",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-029.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-029.png",
+      "sizeBytes": 229091
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-030 白薙・神鳴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-030.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-030.png",
+      "sizeBytes": 236640
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-030 白薙・神鳴",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-030_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-030_p1.png",
+      "sizeBytes": 225180
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-031 聖煌割砕壁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-031.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-031.png",
+      "sizeBytes": 222168
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-031 聖煌割砕壁",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-031_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-031_p1.png",
+      "sizeBytes": 202597
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-032 大魚のステーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-032.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-032.png",
+      "sizeBytes": 171765
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-033 二人の絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-033.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-033.png",
+      "sizeBytes": 223481
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-033 二人の絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-033_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-033_p1.png",
+      "sizeBytes": 199647
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-034 フルルのパンケーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-034.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-034.png",
+      "sizeBytes": 162566
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-035 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-035.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-035.png",
+      "sizeBytes": 200775
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-036 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-036.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-036.png",
+      "sizeBytes": 207537
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-037 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-037.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-037.png",
+      "sizeBytes": 192088
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-038 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-038.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-038.png",
+      "sizeBytes": 190288
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-039 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-039.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-039.png",
+      "sizeBytes": 190956
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-040 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-040.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-040.png",
+      "sizeBytes": 259784
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-040 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-040_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-040_p1.png",
+      "sizeBytes": 244951
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-041 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-041.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-041.png",
+      "sizeBytes": 200618
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-042 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-042.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-042.png",
+      "sizeBytes": 197648
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-043 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-043.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-043.png",
+      "sizeBytes": 199964
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-044 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-044.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-044.png",
+      "sizeBytes": 253690
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-044 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-044_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-044_p1.png",
+      "sizeBytes": 230767
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-045 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-045.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-045.png",
+      "sizeBytes": 187540
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-046 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-046.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-046.png",
+      "sizeBytes": 201614
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-047 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-047.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-047.png",
+      "sizeBytes": 197567
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-047 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-047_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-047_p1.png",
+      "sizeBytes": 244135
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-048 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-048.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-048.png",
+      "sizeBytes": 239777
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-048 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-048_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-048_p1.png",
+      "sizeBytes": 244095
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-049 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-049.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-049.png",
+      "sizeBytes": 201808
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-050 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-050.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-050.png",
+      "sizeBytes": 236545
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-051 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-051.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-051.png",
+      "sizeBytes": 195200
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-051 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-051_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-051_p1.png",
+      "sizeBytes": 229909
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-052 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-052.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-052.png",
+      "sizeBytes": 239574
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-052 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-052_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-052_p1.png",
+      "sizeBytes": 258163
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-053 フルル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-053.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-053.png",
+      "sizeBytes": 186946
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-054 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-054.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-054.png",
+      "sizeBytes": 208573
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-055 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-055.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-055.png",
+      "sizeBytes": 196896
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-056 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-056.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-056.png",
+      "sizeBytes": 206449
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-057 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-057.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-057.png",
+      "sizeBytes": 244765
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-058 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-058.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-058.png",
+      "sizeBytes": 194262
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-059 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-059.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-059.png",
+      "sizeBytes": 199031
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-060 メナンシア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-060.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-060.png",
+      "sizeBytes": 200298
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-061 アドレビートオムニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-061.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-061.png",
+      "sizeBytes": 215008
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-061 アドレビートオムニア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-061_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-061_p1.png",
+      "sizeBytes": 214158
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-062 インミネイティエクシティオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-062.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-062.png",
+      "sizeBytes": 217323
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-062 インミネイティエクシティオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-062_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-062_p1.png",
+      "sizeBytes": 208549
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-063 シオンのパンケーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-063.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-063.png",
+      "sizeBytes": 176456
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-064 テュオハリムのパンケーキ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-064.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-064.png",
+      "sizeBytes": 177085
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-065 ネガティブゲイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-065.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-065.png",
+      "sizeBytes": 235947
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-066 ファーストエイド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-066.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-066.png",
+      "sizeBytes": 214788
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-067 二人の絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-067.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-067.png",
+      "sizeBytes": 222398
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-067 二人の絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-067_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-067_p1.png",
+      "sizeBytes": 210129
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-068 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-068.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-068.png",
+      "sizeBytes": 191546
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-069 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-069.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-069.png",
+      "sizeBytes": 206710
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-069 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-069_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-069_p1.png",
+      "sizeBytes": 247207
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-070 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-070.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-070.png",
+      "sizeBytes": 261831
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-070 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-070_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-070_p1.png",
+      "sizeBytes": 274922
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-070 アルフェン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-070_p2.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-070_p2.png",
+      "sizeBytes": 221504
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-071 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-071.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-071.png",
+      "sizeBytes": 200429
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-072 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-072.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-072.png",
+      "sizeBytes": 197054
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-073 キサラ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-073.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-073.png",
+      "sizeBytes": 209316
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-074 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-074.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-074.png",
+      "sizeBytes": 196446
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-075 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-075.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-075.png",
+      "sizeBytes": 211257
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-076 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-076.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-076.png",
+      "sizeBytes": 201203
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-077 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-077.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-077.png",
+      "sizeBytes": 197941
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-078 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-078.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-078.png",
+      "sizeBytes": 221033
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-079 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-079.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-079.png",
+      "sizeBytes": 243410
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-079 シオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-079_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-079_p1.png",
+      "sizeBytes": 261826
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-080 鉄仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-080.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-080.png",
+      "sizeBytes": 198919
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-081 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-081.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-081.png",
+      "sizeBytes": 184003
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-082 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-082.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-082.png",
+      "sizeBytes": 202486
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-083 テュオハリム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-083.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-083.png",
+      "sizeBytes": 209962
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-084 フルル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-084.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-084.png",
+      "sizeBytes": 186199
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-085 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-085.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-085.png",
+      "sizeBytes": 195614
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-086 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-086.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-086.png",
+      "sizeBytes": 203188
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-087 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-087.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-087.png",
+      "sizeBytes": 195186
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-088 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-088.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-088.png",
+      "sizeBytes": 259008
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-088 リンウェル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-088_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-088_p1.png",
+      "sizeBytes": 231979
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-089 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-089.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-089.png",
+      "sizeBytes": 204691
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-090 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-090.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-090.png",
+      "sizeBytes": 197759
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-091 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-091.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-091.png",
+      "sizeBytes": 204620
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-091 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-091_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-091_p1.png",
+      "sizeBytes": 234186
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-092 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-092.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-092.png",
+      "sizeBytes": 254454
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-092 ロウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-092_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-092_p1.png",
+      "sizeBytes": 238189
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-093 炎の門",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-093.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-093.png",
+      "sizeBytes": 200097
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-094 角煮まんじゅう",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-094.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-094.png",
+      "sizeBytes": 169553
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-095 迅雷狼影脚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-095.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-095.png",
+      "sizeBytes": 214662
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-095 迅雷狼影脚",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-095_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-095_p1.png",
+      "sizeBytes": 207038
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-096 緋炎衝・開",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-096.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-096.png",
+      "sizeBytes": 225741
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-096 緋炎衝・開",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-096_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-096_p1.png",
+      "sizeBytes": 211179
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-097 二人の絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-097.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-097.png",
+      "sizeBytes": 212099
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-097 二人の絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-097_p1.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-097_p1.png",
+      "sizeBytes": 204887
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-098 マーボーカレー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-098.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-098.png",
+      "sizeBytes": 168521
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-099 魔王炎撃破",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-099.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-099.png",
+      "sizeBytes": 219216
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-100 連牙弾",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-100.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-100.png",
+      "sizeBytes": 237297
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-AP01 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-AP01.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-AP01.png",
+      "sizeBytes": 216046
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-AP02 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-AP02.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-AP02.png",
+      "sizeBytes": 265732
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-AP03 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-AP03.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-AP03.png",
+      "sizeBytes": 257653
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-AP04 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-AP04.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-AP04.png",
+      "sizeBytes": 234081
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-AP05 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-AP05.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-AP05.png",
+      "sizeBytes": 252670
+    },
+    {
+      "series": "Tales of ARISE",
+      "seriesId": "570106",
+      "alt": "UA06BT/TOA-1-AP06 アクションポイントカード(Tales of ARISE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA06BT_TOA-1-AP06.png?v8",
+      "localPath": "/cards/tales-of-arise-2/UA06BT_TOA-1-AP06.png",
+      "sizeBytes": 242421
+    }
+  ],
+  "failures": []
+}

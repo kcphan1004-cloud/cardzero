@@ -1,0 +1,232 @@
+{
+  "generatedAt": "2026-07-13T18:23:42.814Z",
+  "series": {
+    "seriesId": "570018",
+    "title": "勝利の女神：NIKKE",
+    "slug": "nikke"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570018",
+  "totalFound": 27,
+  "downloaded": 27,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-001 シフティー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-001.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-001.png",
+      "sizeBytes": 211343
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-002 ヘルム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-002.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-002.png",
+      "sizeBytes": 216217
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-004 ポリ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-004.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-004.png",
+      "sizeBytes": 220526
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-005 ネオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-005.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-005.png",
+      "sizeBytes": 205294
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-009 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-009.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-009.png",
+      "sizeBytes": 204459
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-016 アニス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-016.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-016.png",
+      "sizeBytes": 209467
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-029 エンカウンター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-029.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-029.png",
+      "sizeBytes": 208525
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-030 記憶",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-030.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-030.png",
+      "sizeBytes": 205701
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-031 「コードネーム・レッドフード」",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-031.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-031.png",
+      "sizeBytes": 140057
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-101 ウンファ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-101.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-101.png",
+      "sizeBytes": 190484
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-102 ミランダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-102.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-102.png",
+      "sizeBytes": 214005
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-103 ネオン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-103.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-103.png",
+      "sizeBytes": 209784
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-104 マリアン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-104.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-104.png",
+      "sizeBytes": 228895
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-105 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-105.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-105.png",
+      "sizeBytes": 209369
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-106 ラピ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-106.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-106.png",
+      "sizeBytes": 231560
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-107 アニス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-107.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-107.png",
+      "sizeBytes": 210871
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-108 アーク",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-108.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-108.png",
+      "sizeBytes": 221174
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-109 カウンターズ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-109.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-109.png",
+      "sizeBytes": 211085
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-110 紅蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-110.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-110.png",
+      "sizeBytes": 222172
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-110 紅蓮",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-110_p1.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-110_p1.png",
+      "sizeBytes": 285347
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-111 スノーホワイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-111.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-111.png",
+      "sizeBytes": 221264
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-111 スノーホワイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-111_p1.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-111_p1.png",
+      "sizeBytes": 295789
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-112 アリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-112.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-112.png",
+      "sizeBytes": 214586
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-112 アリス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-112_p1.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-112_p1.png",
+      "sizeBytes": 298671
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-113 センチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-113.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-113.png",
+      "sizeBytes": 212049
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-113 センチ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-113_p1.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-113_p1.png",
+      "sizeBytes": 289449
+    },
+    {
+      "series": "勝利の女神：NIKKE",
+      "seriesId": "570018",
+      "alt": "UA18ST/NIK-1-AP01 アクションポイントカード(勝利の女神：NIKKE)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA18ST_NIK-1-AP01.png?v8",
+      "localPath": "/cards/nikke/UA18ST_NIK-1-AP01.png",
+      "sizeBytes": 87640
+    }
+  ],
+  "failures": []
+}

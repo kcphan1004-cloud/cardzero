@@ -1,0 +1,1096 @@
+{
+  "generatedAt": "2026-07-13T18:22:08.249Z",
+  "series": {
+    "seriesId": "570116",
+    "title": "SYNDUALITY Noir",
+    "slug": "synduality-noir-2"
+  },
+  "pageUrl": "https://www.unionarena-tcg.com/jp/cardlist/?search=true&series=570116",
+  "totalFound": 135,
+  "downloaded": 135,
+  "skipped": 0,
+  "failed": 0,
+  "images": [
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-001 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-001.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-001.png",
+      "sizeBytes": 126872
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-002 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-002.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-002.png",
+      "sizeBytes": 127244
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-003 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-003.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-003.png",
+      "sizeBytes": 151543
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-003 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-003_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-003_p1.png",
+      "sizeBytes": 192701
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-003 ノワール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-003_p2.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-003_p2.png",
+      "sizeBytes": 224331
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-004 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-004.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-004.png",
+      "sizeBytes": 117519
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-005 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-005.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-005.png",
+      "sizeBytes": 116008
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-006 ジョンガスメーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-006.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-006.png",
+      "sizeBytes": 132631
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-007 デイジーオーガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-007.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-007.png",
+      "sizeBytes": 157375
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-007 デイジーオーガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-007_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-007_p1.png",
+      "sizeBytes": 229409
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-008 リアリド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-008.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-008.png",
+      "sizeBytes": 173045
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-008 リアリド",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-008_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-008_p1.png",
+      "sizeBytes": 207924
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-009 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-009.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-009.png",
+      "sizeBytes": 124032
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-010 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-010.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-010.png",
+      "sizeBytes": 154045
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-011 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-011.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-011.png",
+      "sizeBytes": 132603
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-011 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-011_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-011_p1.png",
+      "sizeBytes": 188493
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-012 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-012.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-012.png",
+      "sizeBytes": 166853
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-012 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-012_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-012_p1.png",
+      "sizeBytes": 199329
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-013 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-013.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-013.png",
+      "sizeBytes": 123151
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-014 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-014.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-014.png",
+      "sizeBytes": 149120
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-015 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-015.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-015.png",
+      "sizeBytes": 121775
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-015 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-015_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-015_p1.png",
+      "sizeBytes": 192092
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-016 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-016.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-016.png",
+      "sizeBytes": 162668
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-016 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-016_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-016_p1.png",
+      "sizeBytes": 207431
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-017 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-017.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-017.png",
+      "sizeBytes": 137114
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-018 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-018.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-018.png",
+      "sizeBytes": 131124
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-018 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-018_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-018_p1.png",
+      "sizeBytes": 176348
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-019 マイケル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-019.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-019.png",
+      "sizeBytes": 113587
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-020 ランゲ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-020.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-020.png",
+      "sizeBytes": 107443
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-021 アンジェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-021.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-021.png",
+      "sizeBytes": 137629
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-022 アンジェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-022.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-022.png",
+      "sizeBytes": 115794
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-023 アンジェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-023.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-023.png",
+      "sizeBytes": 172023
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-023 アンジェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-023_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-023_p1.png",
+      "sizeBytes": 181314
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-024 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-024.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-024.png",
+      "sizeBytes": 127179
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-025 ドルチェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-025.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-025.png",
+      "sizeBytes": 138202
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-026 ボブ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-026.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-026.png",
+      "sizeBytes": 119253
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-027 ムートン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-027.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-027.png",
+      "sizeBytes": 119301
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-028 キャリア（カナタ・トキオ機）",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-028.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-028.png",
+      "sizeBytes": 164933
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-029 ガツンとアタック大作戦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-029.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-029.png",
+      "sizeBytes": 150069
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-030 マスターとの契約",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-030.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-030.png",
+      "sizeBytes": 149303
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-031 メイガスとの絆",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-031.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-031.png",
+      "sizeBytes": 151016
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-032 やれってことか！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-032.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-032.png",
+      "sizeBytes": 157045
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-033 ヨシヲちゃんキーホルダー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-033.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-033.png",
+      "sizeBytes": 172810
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-034 デコ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-034.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-034.png",
+      "sizeBytes": 132707
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-035 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-035.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-035.png",
+      "sizeBytes": 129072
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-036 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-036.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-036.png",
+      "sizeBytes": 131283
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-037 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-037.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-037.png",
+      "sizeBytes": 126431
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-038 イデアール",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-038.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-038.png",
+      "sizeBytes": 110639
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-039 ヴァイスハイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-039.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-039.png",
+      "sizeBytes": 144574
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-039 ヴァイスハイト",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-039_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-039_p1.png",
+      "sizeBytes": 172216
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-040 黒仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-040.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-040.png",
+      "sizeBytes": 122113
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-041 黒仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-041.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-041.png",
+      "sizeBytes": 135300
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-042 黒仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-042.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-042.png",
+      "sizeBytes": 128487
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-043 黒仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-043.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-043.png",
+      "sizeBytes": 142001
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-043 黒仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-043_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-043_p1.png",
+      "sizeBytes": 161540
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-044 ジョンガスメーカー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-044.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-044.png",
+      "sizeBytes": 147527
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-045 ボーンドウル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-045.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-045.png",
+      "sizeBytes": 163565
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-045 ボーンドウル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-045_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-045_p1.png",
+      "sizeBytes": 196860
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-046 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-046.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-046.png",
+      "sizeBytes": 125383
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-047 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-047.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-047.png",
+      "sizeBytes": 131137
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-048 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-048.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-048.png",
+      "sizeBytes": 126635
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-049 白仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-049.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-049.png",
+      "sizeBytes": 162713
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-049 白仮面",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-049_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-049_p1.png",
+      "sizeBytes": 200651
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-050 ムートン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-050.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-050.png",
+      "sizeBytes": 120671
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-051 ムートン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-051.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-051.png",
+      "sizeBytes": 131557
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-052 ムートン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-052.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-052.png",
+      "sizeBytes": 138228
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-053 ギルボウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-053.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-053.png",
+      "sizeBytes": 209223
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-053 ギルボウ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-053_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-053_p1.png",
+      "sizeBytes": 234141
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-054 ジャックボックス",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-054.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-054.png",
+      "sizeBytes": 140099
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-055 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-055.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-055.png",
+      "sizeBytes": 118301
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-056 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-056.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-056.png",
+      "sizeBytes": 109942
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-057 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-057.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-057.png",
+      "sizeBytes": 143728
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-057 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-057_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-057_p1.png",
+      "sizeBytes": 201910
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-058 シュネー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-058.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-058.png",
+      "sizeBytes": 138516
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-059 シュネー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-059.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-059.png",
+      "sizeBytes": 132475
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-059 シュネー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-059_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-059_p1.png",
+      "sizeBytes": 203003
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-060 シュネー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-060.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-060.png",
+      "sizeBytes": 151006
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-060 シュネー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-060_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-060_p1.png",
+      "sizeBytes": 206450
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-061 イデアール機母艦",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-061.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-061.png",
+      "sizeBytes": 144918
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-062 一攫千金",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-062.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-062.png",
+      "sizeBytes": 153588
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-063 エネルギー・インパクト・ブレード",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-063.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-063.png",
+      "sizeBytes": 150086
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-064 マイロードが進む道を作る！",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-064.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-064.png",
+      "sizeBytes": 163646
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-065 ランナーズハイ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-065.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-065.png",
+      "sizeBytes": 150639
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-066 我もだ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-066.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-066.png",
+      "sizeBytes": 139762
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-067 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-067.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-067.png",
+      "sizeBytes": 129227
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-068 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-068.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-068.png",
+      "sizeBytes": 120054
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-069 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-069.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-069.png",
+      "sizeBytes": 170559
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-069 マリア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-069_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-069_p1.png",
+      "sizeBytes": 195941
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-070 グレンシノビ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-070.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-070.png",
+      "sizeBytes": 184428
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-070 グレンシノビ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-070_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-070_p1.png",
+      "sizeBytes": 193835
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-071 デイジーオーガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-071.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-071.png",
+      "sizeBytes": 184823
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-071 デイジーオーガ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-071_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-071_p1.png",
+      "sizeBytes": 197432
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-072 デイジーオーガアルター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-072.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-072.png",
+      "sizeBytes": 211645
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-072 デイジーオーガアルター",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-072_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-072_p1.png",
+      "sizeBytes": 234485
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-073 アルバ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-073.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-073.png",
+      "sizeBytes": 122764
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-073 アルバ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-073_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-073_p1.png",
+      "sizeBytes": 170674
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-074 エリー",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-074.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-074.png",
+      "sizeBytes": 123163
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-075 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-075.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-075.png",
+      "sizeBytes": 131790
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-076 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-076.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-076.png",
+      "sizeBytes": 119317
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-077 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-077.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-077.png",
+      "sizeBytes": 138991
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-077 カナタ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-077_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-077_p1.png",
+      "sizeBytes": 192613
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-078 クラウディア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-078.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-078.png",
+      "sizeBytes": 119974
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-079 クラウディア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-079.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-079.png",
+      "sizeBytes": 145262
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-080 クラウディア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-080.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-080.png",
+      "sizeBytes": 133645
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-080 クラウディア",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-080_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-080_p1.png",
+      "sizeBytes": 181934
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-081 トキオ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-081.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-081.png",
+      "sizeBytes": 126119
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-082 アンジェ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-082.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-082.png",
+      "sizeBytes": 120346
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-083 エイダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-083.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-083.png",
+      "sizeBytes": 136951
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-083 エイダ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-083_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-083_p1.png",
+      "sizeBytes": 210443
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-084 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-084.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-084.png",
+      "sizeBytes": 136102
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-085 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-085.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-085.png",
+      "sizeBytes": 146818
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-086 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-086.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-086.png",
+      "sizeBytes": 154239
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-086 シエル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-086_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-086_p1.png",
+      "sizeBytes": 228666
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-087 フラム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-087.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-087.png",
+      "sizeBytes": 121522
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-088 フラム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-088.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-088.png",
+      "sizeBytes": 130153
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-089 フラム",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-089.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-089.png",
+      "sizeBytes": 152759
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-090 ミステル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-090.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-090.png",
+      "sizeBytes": 126402
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-091 ミステル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-091.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-091.png",
+      "sizeBytes": 122402
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-092 ミステル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-092.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-092.png",
+      "sizeBytes": 166120
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-092 ミステル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-092_p1.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-092_p1.png",
+      "sizeBytes": 173254
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-093 マリアのラボ",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-093.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-093.png",
+      "sizeBytes": 139436
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-094 この熱はあなたがくれたもの",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-094.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-094.png",
+      "sizeBytes": 163723
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-095 整備のお礼",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-095.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-095.png",
+      "sizeBytes": 129728
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-096 高い授業料",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-096.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-096.png",
+      "sizeBytes": 165892
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-097 My dear…",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-097.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-097.png",
+      "sizeBytes": 148912
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-098 マリアのミサイル",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-098.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-098.png",
+      "sizeBytes": 122207
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-099 メラメラバッキューン",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-099.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-099.png",
+      "sizeBytes": 142723
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-100 雷光の槍",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-100.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-100.png",
+      "sizeBytes": 165469
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP01 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP01.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP01.png",
+      "sizeBytes": 176634
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP01★ アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP01_s.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP01_s.png",
+      "sizeBytes": 147225
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP02 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP02.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP02.png",
+      "sizeBytes": 175651
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP03 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP03.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP03.png",
+      "sizeBytes": 165846
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP04 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP04.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP04.png",
+      "sizeBytes": 139791
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP05 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP05.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP05.png",
+      "sizeBytes": 186182
+    },
+    {
+      "series": "SYNDUALITY Noir",
+      "seriesId": "570116",
+      "alt": "UA16BT/SYN-1-AP06 アクションポイントカード(SYNDUALITY Noir)",
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/images/cardlist/card/UA16BT_SYN-1-AP06.png?v8",
+      "localPath": "/cards/synduality-noir-2/UA16BT_SYN-1-AP06.png",
+      "sizeBytes": 168810
+    }
+  ],
+  "failures": []
+}

@@ -1,0 +1,519 @@
+{
+  "generatedAt": "2026-07-14T14:22:39.926Z",
+  "totalFolders": 112,
+  "totalSeries": 57,
+  "totalCards": 10362,
+  "series": [
+    {
+      "slug": "100-girlfriends",
+      "series": "超超超超超喜欢你的100个女朋友",
+      "sourceFolders": [
+        "100-girlfriends"
+      ],
+      "cards": 126
+    },
+    {
+      "slug": "2-5-dimensional-seduction",
+      "series": "2.5次元的诱惑",
+      "sourceFolders": [
+        "2-5-dimensional-seduction"
+      ],
+      "cards": 118
+    },
+    {
+      "slug": "arknights",
+      "series": "明日方舟",
+      "sourceFolders": [
+        "arknights",
+        "arknights-2",
+        "arknights-3"
+      ],
+      "cards": 269
+    },
+    {
+      "slug": "attack-on-titan",
+      "series": "进击的巨人",
+      "sourceFolders": [
+        "attack-on-titan",
+        "attack-on-titan-2",
+        "attack-on-titan-3"
+      ],
+      "cards": 268
+    },
+    {
+      "slug": "black-clover",
+      "series": "黑色五叶草",
+      "sourceFolders": [
+        "black-clover",
+        "black-clover-2"
+      ],
+      "cards": 163
+    },
+    {
+      "slug": "bleach-thousand-year-blood-war",
+      "series": "BLEACH 千年血战篇",
+      "sourceFolders": [
+        "bleach-thousand-year-blood-war",
+        "bleach-thousand-year-blood-war-2",
+        "bleach-thousand-year-blood-war-3",
+        "bleach-thousand-year-blood-war-4"
+      ],
+      "cards": 262
+    },
+    {
+      "slug": "blue-lock",
+      "series": "蓝色监狱",
+      "sourceFolders": [
+        "blue-lock",
+        "blue-lock-2",
+        "blue-lock-3"
+      ],
+      "cards": 166
+    },
+    {
+      "slug": "chained-soldier",
+      "series": "魔都精兵的奴隶",
+      "sourceFolders": [
+        "chained-soldier"
+      ],
+      "cards": 125
+    },
+    {
+      "slug": "chainsaw-man",
+      "series": "链锯人",
+      "sourceFolders": [
+        "chainsaw-man"
+      ],
+      "cards": 122
+    },
+    {
+      "slug": "code-geass",
+      "series": "Code Geass 反叛的鲁路修",
+      "sourceFolders": [
+        "code-geass",
+        "code-geass-2",
+        "code-geass-3"
+      ],
+      "cards": 251
+    },
+    {
+      "slug": "code-geass-roze",
+      "series": "Code Geass 夺还的罗赛",
+      "sourceFolders": [
+        "code-geass-roze"
+      ],
+      "cards": 114
+    },
+    {
+      "slug": "demon-slayer",
+      "series": "鬼灭之刃",
+      "sourceFolders": [
+        "demon-slayer",
+        "demon-slayer-2",
+        "demon-slayer-3",
+        "demon-slayer-4"
+      ],
+      "cards": 268
+    },
+    {
+      "slug": "dr-stone",
+      "series": "Dr.STONE",
+      "sourceFolders": [
+        "dr-stone",
+        "dr-stone-2"
+      ],
+      "cards": 154
+    },
+    {
+      "slug": "eminence-in-shadow",
+      "series": "我想成为影之强者！",
+      "sourceFolders": [
+        "eminence-in-shadow"
+      ],
+      "cards": 131
+    },
+    {
+      "slug": "evangelion",
+      "series": "新世纪福音战士",
+      "sourceFolders": [
+        "evangelion",
+        "evangelion-2"
+      ],
+      "cards": 163
+    },
+    {
+      "slug": "fullmetal-alchemist",
+      "series": "钢之炼金术师",
+      "sourceFolders": [
+        "fullmetal-alchemist",
+        "fullmetal-alchemist-2"
+      ],
+      "cards": 165
+    },
+    {
+      "slug": "gakuen-idolmaster",
+      "series": "学园偶像大师",
+      "sourceFolders": [
+        "gakuen-idolmaster",
+        "gakuen-idolmaster-2"
+      ],
+      "cards": 287
+    },
+    {
+      "slug": "gamera-rebirth",
+      "series": "GAMERA -Rebirth-",
+      "sourceFolders": [
+        "gamera-rebirth"
+      ],
+      "cards": 113
+    },
+    {
+      "slug": "gintama",
+      "series": "银魂",
+      "sourceFolders": [
+        "gintama",
+        "gintama-2"
+      ],
+      "cards": 154
+    },
+    {
+      "slug": "haikyu",
+      "series": "排球少年!!",
+      "sourceFolders": [
+        "haikyu",
+        "haikyu-2"
+      ],
+      "cards": 161
+    },
+    {
+      "slug": "hunter-x-hunter",
+      "series": "HUNTER×HUNTER",
+      "sourceFolders": [
+        "hunter-x-hunter",
+        "hunter-x-hunter-2",
+        "hunter-x-hunter-3"
+      ],
+      "cards": 250
+    },
+    {
+      "slug": "idolmaster-shiny-colors",
+      "series": "偶像大师 闪耀色彩",
+      "sourceFolders": [
+        "idolmaster-shiny-colors",
+        "idolmaster-shiny-colors-2",
+        "idolmaster-shiny-colors-3",
+        "idolmaster-shiny-colors-4"
+      ],
+      "cards": 372
+    },
+    {
+      "slug": "inuyasha",
+      "series": "犬夜叉",
+      "sourceFolders": [
+        "inuyasha"
+      ],
+      "cards": 117
+    },
+    {
+      "slug": "jujutsu-kaisen",
+      "series": "咒术回战",
+      "sourceFolders": [
+        "jujutsu-kaisen",
+        "jujutsu-kaisen-2",
+        "jujutsu-kaisen-3",
+        "jujutsu-kaisen-4"
+      ],
+      "cards": 265
+    },
+    {
+      "slug": "kagurabachi",
+      "series": "神乐钵",
+      "sourceFolders": [
+        "kagurabachi"
+      ],
+      "cards": 125
+    },
+    {
+      "slug": "kaiju-no",
+      "series": "kaiju-no",
+      "sourceFolders": [
+        "kaiju-no-8"
+      ],
+      "cards": 116
+    },
+    {
+      "slug": "kamen-rider",
+      "series": "假面骑士",
+      "sourceFolders": [
+        "kamen-rider",
+        "kamen-rider-2",
+        "kamen-rider-3"
+      ],
+      "cards": 298
+    },
+    {
+      "slug": "kingdom",
+      "series": "王者天下",
+      "sourceFolders": [
+        "kingdom",
+        "kingdom-2"
+      ],
+      "cards": 169
+    },
+    {
+      "slug": "kinnikuman",
+      "series": "筋肉人",
+      "sourceFolders": [
+        "kinnikuman"
+      ],
+      "cards": 117
+    },
+    {
+      "slug": "macross",
+      "series": "超时空要塞",
+      "sourceFolders": [
+        "macross",
+        "macross-2",
+        "macross-3"
+      ],
+      "cards": 289
+    },
+    {
+      "slug": "madoka-magica",
+      "series": "魔法少女小圆",
+      "sourceFolders": [
+        "madoka-magica",
+        "madoka-magica-2"
+      ],
+      "cards": 163
+    },
+    {
+      "slug": "me-and-roboco",
+      "series": "我与机器子",
+      "sourceFolders": [
+        "me-and-roboco",
+        "me-and-roboco-2"
+      ],
+      "cards": 150
+    },
+    {
+      "slug": "monogatari-series",
+      "series": "物语系列",
+      "sourceFolders": [
+        "monogatari-series",
+        "monogatari-series-2"
+      ],
+      "cards": 174
+    },
+    {
+      "slug": "mushoku-tensei",
+      "series": "无职转生",
+      "sourceFolders": [
+        "mushoku",
+        "mushoku-tensei"
+      ],
+      "cards": 217
+    },
+    {
+      "slug": "my-hero-academia",
+      "series": "我的英雄学院",
+      "sourceFolders": [
+        "my-hero-academia",
+        "my-hero-academia-2",
+        "my-hero-academia-3"
+      ],
+      "cards": 258
+    },
+    {
+      "slug": "nikke",
+      "series": "胜利女神：妮姬",
+      "sourceFolders": [
+        "nikke",
+        "nikke-2",
+        "nikke-3"
+      ],
+      "cards": 256
+    },
+    {
+      "slug": "one-punch-man",
+      "series": "一拳超人",
+      "sourceFolders": [
+        "one-punch-man",
+        "one-punch-man-2"
+      ],
+      "cards": 162
+    },
+    {
+      "slug": "re-zero",
+      "series": "Re:从零开始的异世界生活",
+      "sourceFolders": [
+        "re-zero",
+        "re-zero-2"
+      ],
+      "cards": 164
+    },
+    {
+      "slug": "rurouni-kenshin",
+      "series": "浪客剑心",
+      "sourceFolders": [
+        "rurouni-kenshin",
+        "rurouni-kenshin-2"
+      ],
+      "cards": 164
+    },
+    {
+      "slug": "sakamoto-days",
+      "series": "坂本日常",
+      "sourceFolders": [
+        "sakamoto-days"
+      ],
+      "cards": 114
+    },
+    {
+      "slug": "series-570801",
+      "series": "未识别系列 570801",
+      "sourceFolders": [
+        "series-570801"
+      ],
+      "cards": 12
+    },
+    {
+      "slug": "series-570901",
+      "series": "未识别系列 570901",
+      "sourceFolders": [
+        "series-570901"
+      ],
+      "cards": 629
+    },
+    {
+      "slug": "shangri-la-frontier",
+      "series": "香格里拉·开拓异境",
+      "sourceFolders": [
+        "shangri-la-frontier"
+      ],
+      "cards": 115
+    },
+    {
+      "slug": "shy",
+      "series": "SHY 腼腆英雄",
+      "sourceFolders": [
+        "shy"
+      ],
+      "cards": 114
+    },
+    {
+      "slug": "solo-leveling",
+      "series": "我独自升级",
+      "sourceFolders": [
+        "solo-leveling"
+      ],
+      "cards": 118
+    },
+    {
+      "slug": "sword-art-online",
+      "series": "刀剑神域",
+      "sourceFolders": [
+        "sword-art-online",
+        "sword-art-online-2",
+        "sword-art-online-3"
+      ],
+      "cards": 275
+    },
+    {
+      "slug": "synduality-noir",
+      "series": "SYNDUALITY Noir",
+      "sourceFolders": [
+        "synduality-noir",
+        "synduality-noir-2"
+      ],
+      "cards": 155
+    },
+    {
+      "slug": "tales-of-arise",
+      "series": "破晓传说",
+      "sourceFolders": [
+        "tales-of-arise",
+        "tales-of-arise-2"
+      ],
+      "cards": 154
+    },
+    {
+      "slug": "tekken",
+      "series": "tekken",
+      "sourceFolders": [
+        "tekken-7"
+      ],
+      "cards": 20
+    },
+    {
+      "slug": "tekken-7",
+      "series": "铁拳7",
+      "sourceFolders": [
+        "tekken-7-2"
+      ],
+      "cards": 134
+    },
+    {
+      "slug": "tensura",
+      "series": "关于我转生变成史莱姆这档事",
+      "sourceFolders": [
+        "tensura",
+        "tensura-2",
+        "tensura-3"
+      ],
+      "cards": 255
+    },
+    {
+      "slug": "to-love-ru",
+      "series": "出包王女",
+      "sourceFolders": [
+        "to-love-ru"
+      ],
+      "cards": 135
+    },
+    {
+      "slug": "tokyo-ghoul",
+      "series": "东京喰种",
+      "sourceFolders": [
+        "tokyo-ghoul",
+        "tokyo-ghoul-2"
+      ],
+      "cards": 173
+    },
+    {
+      "slug": "toriko",
+      "series": "美食的俘虏",
+      "sourceFolders": [
+        "toriko",
+        "toriko-2"
+      ],
+      "cards": 155
+    },
+    {
+      "slug": "undead-unluck",
+      "series": "不死不幸",
+      "sourceFolders": [
+        "undead-unluck"
+      ],
+      "cards": 115
+    },
+    {
+      "slug": "wind-breaker",
+      "series": "防风少年",
+      "sourceFolders": [
+        "wind-breaker",
+        "wind-breaker-2"
+      ],
+      "cards": 120
+    },
+    {
+      "slug": "yu-yu-hakusho",
+      "series": "幽游白书",
+      "sourceFolders": [
+        "yu-yu-hakusho",
+        "yu-yu-hakusho-2"
+      ],
+      "cards": 163
+    }
+  ]
+}
