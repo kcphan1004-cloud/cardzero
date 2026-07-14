@@ -1,0 +1,30 @@
+{
+  "generatedAt": "2026-07-14T16:07:28.706Z",
+  "manifests": [
+    "data\\download-manifests\\black-clover.images.json",
+    "data\\download-manifests\\black-clover-2.images.json"
+  ],
+  "uniqueCardNumbers": 129,
+  "generatedTableRows": 163,
+  "matchedRows": 161,
+  "unmatchedRows": 2,
+  "actionPointRows": 7,
+  "unparsedAltCount": 2,
+  "unmatchedNumbers": [
+    "UA20BT/BCV-1-AP01/S",
+    "UA20BT/BCV-1-AP02/S"
+  ],
+  "unparsedAlt": [
+    {
+      "manifest": "black-clover-2.images.json",
+      "alt": "UA20BT/BCV-1-AP01★ アクションポイントカード(ブラッククローバー)",
+      "localPath": "/cards/black-clover-2/UA20BT_BCV-1-AP01_s.png"
+    },
+    {
+      "manifest": "black-clover-2.images.json",
+      "alt": "UA20BT/BCV-1-AP02★ アクションポイントカード(ブラッククローバー)",
+      "localPath": "/cards/black-clover-2/UA20BT_BCV-1-AP02_s.png"
+    }
+  ],
+  "note": "本工具只从官方下载清单的图片 alt 补入卡号与日文卡名。颜色、费用、AP、BP、效果与 Trigger 不存在于原下载清单中，因此不会凭空填写。"
+}

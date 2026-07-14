@@ -165,9 +165,20 @@ function readCardArrayFromTypeScript(raw) {
     );
   }
 
+  const assignmentPosition = raw.indexOf(
+    "=",
+    exportPosition,
+  );
+
+  if (assignmentPosition === -1) {
+    throw new Error(
+      "black-clover.ts 内找不到卡牌阵列赋值符号。",
+    );
+  }
+
   const arrayStart = raw.indexOf(
     "[",
-    exportPosition,
+    assignmentPosition,
   );
 
   const arrayEndMarker = raw.lastIndexOf(
