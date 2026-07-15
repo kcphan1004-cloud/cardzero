@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:07:40.046Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e79c91ed7c761b43faa",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-040"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "シャルル・ジ・ブリタニア",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中からカードを1枚手札に加える。残りを望む順で自分の山札の下に置く。このターン中、次に手札から使用するイベントカードの消費APを-1する。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "夏尔·迪·布里塔尼亚",
+    "effectZh": "【登场时】\n查看自己牌库上方的 3 张卡。从中选择一张加入手牌，其余的按任意顺序放回自己牌库下方。本回合中，下次从手牌使用的活动卡的消耗 AP-1。",
+    "triggerZh": "【获取】\n将这张牌加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:48:37.827Z",
+  "model": "qwen3.5:9b",
+  "unitId": "03432ac2da1e7738efff",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-062"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ヴェルドラ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "维尔多拉",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

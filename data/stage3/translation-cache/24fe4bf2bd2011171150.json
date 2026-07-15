@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:10:03.353Z",
+  "model": "qwen3.5:9b",
+  "unitId": "24fe4bf2bd2011171150",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-085"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "宇髄 天元",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "宇髄 天元",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

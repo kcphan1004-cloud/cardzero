@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:35:03.947Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3caff139890e1308c3c9",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-003"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "狗巻 棘",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "狗卷棘",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 以下的各返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

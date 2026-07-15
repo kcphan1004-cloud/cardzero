@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:41:20.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "885c70848aca2ef30347",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-001"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甘奈",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場外にあるカードが3枚以下の場合のみ発動できる。自分の場の他の［特徴：ALSTROEMERIA］を1枚選び、このターン中、『BP+500』。自分の場外にあるカードが0枚の場合、『BP+1000』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大崎甘奈",
+    "effectZh": "[启动主]\n[横置状态]\n仅在自己场外有 3 张以下卡片的情况下发动。选择自己场上的其他［特征：ALSTROEMERIA］1 枚，本回合中『BP+500』。如果自己的场外没有卡片，则变为『BP+1000』。",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

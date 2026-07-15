@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:47.518Z",
+  "number": "UA15BT/SAO-1-AP08",
+  "name": "アクションポイントカード(ソードアート・オンライン)",
+  "color": "-",
+  "type": "行动点卡",
+  "typeJa": "アクションポイント",
+  "rarity": "AP",
+  "cost": 0,
+  "ap": 0,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "",
+  "trigger": "",
+  "officialDetailUrl": "",
+  "sourceUrl": "",
+  "raw": {
+    "syntheticActionPoint": true
+  }
+}

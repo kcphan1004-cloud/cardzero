@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:49:46.570Z",
+  "model": "qwen3.5:4b",
+  "unitId": "caf9fc0b37e9bcb63b17",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-057"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ユノ",
+    "effect": "[自分のターン中]\n自分の場に〈アスタ〉がある場合、このキャラはBP+500。\n[登場時]\n自分の場の他のキャラを1枚手札に戻してもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尤诺",
+    "effectZh": "[在自己的回合中]\n如果自己的场上有〈阿斯塔〉，本角色的 BP+500。\n[登场时]\n可以将自己场上的其他角色 1 张放回手牌。如此操作后，将本角色激活。",
+    "triggerZh": "[抽卡]\n抽取 1 张牌。"
+  }
+}

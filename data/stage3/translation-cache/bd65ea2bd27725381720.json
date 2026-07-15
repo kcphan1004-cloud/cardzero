@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:41:20.779Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bd65ea2bd27725381720",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-031"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "霊子暴走",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。自分の場の〈シュナ〉を1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "灵子暴走",
+    "effectZh": "选择对方 Front L 的卡 1 枚，使其横置状态。从自己场地的〈修那〉中选择最多 1 张，激活。\n[Trigger]\n抽 1 张牌。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

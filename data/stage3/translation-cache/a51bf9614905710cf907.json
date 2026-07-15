@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:22:13.965Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a51bf9614905710cf907",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-085",
+    "UA03BT/HTR-1-085"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ネテロ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "内特罗",
+    "effectZh": "此角色处于激活状态时，该角色的产生能量 +[绿]。",
+    "triggerZh": ""
+  }
+}

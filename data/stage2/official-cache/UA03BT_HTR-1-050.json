@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:05.076Z",
+  "number": "UA03BT/HTR-1-050",
+  "name": "イルミ",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "ゾルディック家",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈イルミ〉アクティブにし、フロントLに移動できる\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[登場時]\n相手のキャラを1枚まで選ぶ。自分はこのターン中、「選んだキャラが退場した場合、カードを2枚引く」を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA03BT%2FHTR-1-050",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA03BT%2FHTR-1-050",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

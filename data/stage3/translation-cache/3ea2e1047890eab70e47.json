@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:21:24.275Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3ea2e1047890eab70e47",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-092"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "山本 元柳斎 重國",
+    "effect": "このキャラはフロントLにある場合もエナジーを発生させる。\n[自分のターン中]\nこのキャラとのバトルで敗北した相手のキャラは、退場する代わりに、リムーブエリアに置かれる。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "山本元柳斋重国",
+    "effectZh": "即使该角色位于前线 L 也能产生能量。\n[自己的回合中]\n在与该角色的战斗中败北的对方角色，代替退场被放置于移除区。",
+    "triggerZh": "[色相]\n从自己手牌中将必要能量为 2 以下且消耗 AP 为 1 的绿色角色卡 1 张以激活状态登场到自己场上。"
+  }
+}

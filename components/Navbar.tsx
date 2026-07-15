@@ -24,11 +24,10 @@ const navigation: NavigationItem[] = [
     external: false,
   },
   {
-    name: "T表",
-    // 换成你的 Tier List 网页网址
-    href: "https://behdeck.com/",
-    external: true,
-  },
+  name: "T表",
+  href: "/tier-list",
+  external: false,
+},
   {
     name: "投稿专区",
     href: "/submit",
@@ -40,10 +39,10 @@ const navigation: NavigationItem[] = [
   external: false,
 },
   {
-    name: "视频专区",
-    href: "https://www.youtube.com/@CardZero_%E5%8D%A1%E9%9B%B6%E7%A4%BE",
-    external: true,
-  },
+  name: "视频专区",
+  href: "/video",
+  external: false,
+},
 ];
 
 function NavigationLink({

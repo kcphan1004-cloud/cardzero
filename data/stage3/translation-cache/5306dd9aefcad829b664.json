@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:07:09.549Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5306dd9aefcad829b664",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-069"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "我妻 善逸",
+    "effect": "[登場時]\n自分の山札の上から7枚見る。その中から\n[レイド]\nを持つカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "我妻 善逸",
+    "effectZh": "[登场时]\n查看自己牌库上方的7张卡。\n从中公开最多1张具有\n[Raid] \n的卡并加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。若加入了手牌，则将自己的一张手牌置为场外。",
+    "triggerZh": ""
+  }
+}

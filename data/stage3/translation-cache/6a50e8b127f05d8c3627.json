@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:49:24.115Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6a50e8b127f05d8c3627",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-079"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ダグリュール",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "达格留尔",
+    "effectZh": "【伤害（2）】\n（当该角色通过攻击直接造成伤害时，改为造成 2 点伤害）、",
+    "triggerZh": "激活"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:50:30.110Z",
+  "model": "qwen3.5:4b",
+  "unitId": "975af3af90daadf4d6eb",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-063"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "クローバー王国",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。\n[起動メイン]\n[レストにする]\n自分の場のキャラ全ては、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "Clover王国",
+    "effectZh": "此场地为激活状态时，可将其登场。\n[登场时]\n从自己的牌库上方翻开 1 张。将该卡置于自己牌库的上方或下方。\n[启动主阶段]\n[变为横置状态]\n己方场上所有角色本回合 BP+500。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

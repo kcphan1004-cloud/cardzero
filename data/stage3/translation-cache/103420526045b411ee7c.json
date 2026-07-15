@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:26:10.224Z",
+  "model": "qwen3.5:9b",
+  "unitId": "103420526045b411ee7c",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-047"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

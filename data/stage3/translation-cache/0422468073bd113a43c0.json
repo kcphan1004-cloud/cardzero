@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:35:03.950Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0422468073bd113a43c0",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-006"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "釘崎 野薔薇",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "钉崎 野蔷薇",
+    "effectZh": "",
+    "triggerZh": "[触发] \n将此卡加入手牌。"
+  }
+}

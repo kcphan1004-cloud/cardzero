@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:47:12.274Z",
+  "model": "qwen3.5:9b",
+  "unitId": "954fd8763b6568b458bc",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-017"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーウォズ フューチャーリングシノビ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士 Woz Future Ring ShinoBi",
+    "effectZh": "[启动主阶段]\n[横置]\n[回合 1]\n将自己前线 L 的激活角色中 1 张横置。如此操作时，该角色在本回合中获得发生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

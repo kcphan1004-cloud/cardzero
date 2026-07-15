@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:21:52.095Z",
+  "model": "qwen3.5:9b",
+  "unitId": "64cd0d015e5e877fd845",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-014"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "VF-27γSP スーパールシファーバルキリー（ブレラ・スターン）",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\n[このカードを退場させる]\n自分の場に〈ランカ・リー〉がある場合のみ発動できる。BP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。このターン中に自分が〈サヨナラノツバサ ～ the end of triangle〉を使用している場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "VF-27γSP 超级鲁西法瓦尔基里（贝拉·斯塔恩）",
+    "effectZh": "[启动主]\n[位于前线 L 时]\n[横置]\n[使这张卡退场]\n仅在自己场上有〈兰卡·李〉时才能发动。选择 BP3000 以下的对方前线 L 的角色中最多 1 枚，使其退场。\n若自己本回合使用了〈再见之翼 ～the end of triangle〉，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

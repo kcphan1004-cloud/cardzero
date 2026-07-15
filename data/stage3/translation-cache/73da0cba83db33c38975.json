@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:22:13.967Z",
+  "model": "qwen3.5:9b",
+  "unitId": "73da0cba83db33c38975",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-097",
+    "UA03BT/HTR-1-097"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "釣り竿",
+    "effect": "自分の場のキャラの最大BP以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に〈ゴン＝フリークス〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "钓鱼竿",
+    "effectZh": "选择自身场中 BP 小于等于对方前线 L 角色的最大 BP 的对方前线 L 的角色至多 1 张，将其『返回手牌』。若场上存在〈贡＝弗利克斯〉，则改为使其『退场』。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色至多 1 张并使其退场。"
+  }
+}

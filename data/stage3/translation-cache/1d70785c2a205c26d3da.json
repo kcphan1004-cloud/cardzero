@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:03.131Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1d70785c2a205c26d3da",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-063"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "V.A.R.I.S",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈枢木 スザク〉か〈ランスロット〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "V.A.R.I.S.",
+    "effectZh": "BP3000以下",
+    "triggerZh": "[object Object]"
+  }
+}

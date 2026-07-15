@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:17:22.597Z",
+  "model": "qwen3.5:9b",
+  "unitId": "423f1a6d8381d3461121",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-061"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "霊王宮",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の山札の上から1枚見る。そのカードが［特徴：零番隊］の場合、公開し手札に加えてもよい。そうしない場合、そのカードを自分の山札の上か場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "灵王宫",
+    "effectZh": "此区域以激活状态登场。\n\n[启动主]\n横置。\n查看自己牌库上方的 1 张卡。若该卡具有［特征：零番队］，可以公开并加入手牌。若不这样做，将该卡置于自己牌库上方或场外。",
+    "triggerZh": "[Raid]"
+  }
+}

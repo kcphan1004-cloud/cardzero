@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:11:42.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "37c598ffbf238a09990b",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-039"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ハンジ・ゾエ",
+    "effect": "[登場時]\nBP2500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "汉吉·佐耶",
+    "effectZh": "【登场时】\n选择对方 BP2500 以上的 Front L 角色至多 1 张，本回合中，BP-2000。",
+    "triggerZh": "抽牌"
+  }
+}

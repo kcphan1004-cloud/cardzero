@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:17:18.810Z",
+  "number": "UAPR/YYH-P-002",
+  "name": "浦飯 幽助",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PR",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[登場時]\n自分の山札の上から1枚を裏向きでこのキャラの下に置いてもよい。\n[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラの下の裏向きのカードを1枚場外に置く。そうした場合、以下から1つ選ぶ。\n・このターン中、次に自分が手札からレイドさせる〈浦飯 幽助〉の必要エナジーを\n[緑×1]\n減らす。\n・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FYYH-P-002",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FYYH-P-002",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

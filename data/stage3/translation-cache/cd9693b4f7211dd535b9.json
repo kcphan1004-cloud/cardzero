@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:55:49.612Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cd9693b4f7211dd535b9",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-028"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "蝶屋敷",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から必要エナジーが3以下の黄のキャラカードを2枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "蝶屋敷",
+    "effectZh": "[启动主效果]\n[横置]\n[将此卡退场]\n从场外将所需能量为 3 以下的黄色角色卡最多 2 张加入手牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

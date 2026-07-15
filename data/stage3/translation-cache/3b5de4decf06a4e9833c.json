@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:57:02.841Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3b5de4decf06a4e9833c",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-049",
+    "UA07BT/TSK-1-049"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リグルド",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "里古尔多",
+    "effectZh": "当此角色处于激活状态时，此角色的发生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

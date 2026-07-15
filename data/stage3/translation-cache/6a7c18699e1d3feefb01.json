@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:39:11.253Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6a7c18699e1d3feefb01",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-027"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "峰田 実",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "峰田实",
+    "effectZh": "[登场时]\n将自身场上其他角色中所需能量为 1 或以下的卡牌返回手牌。若无法返回，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

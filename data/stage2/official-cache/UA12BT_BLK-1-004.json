@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:04.853Z",
+  "number": "UA12BT/BLK-1-004",
+  "name": "潔 世一",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈潔 世一〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\nこのキャラの下に裏向きのカードがある場合、このキャラはBP+1000。\n[アタック時]\n自分の場の他のキャラの下の裏向きのカードを1枚、このキャラの下に移動させてもよい。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12BT%2FBLK-1-004",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12BT%2FBLK-1-004",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

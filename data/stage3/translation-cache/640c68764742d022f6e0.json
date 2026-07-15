@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:42:27.086Z",
+  "model": "qwen3.5:9b",
+  "unitId": "640c68764742d022f6e0",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA04NC/BLC-3-004"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "浦原 喜助",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+\n[紫]\n。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "浦原喜助",
+    "effectZh": "[启动主效果]\n[置于横置状态]\n[第 1 回合]\n将己方前线 L 的一张激活的角色置于横置状态。若如此操作，则此角色在此回合中，发生能量+\n[紫]。",
+    "triggerZh": "[抽卡]\n抽取一张卡牌。"
+  }
+}

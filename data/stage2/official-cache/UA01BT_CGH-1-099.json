@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:28.530Z",
+  "number": "UA01BT/CGH-1-099",
+  "name": "巨大ピザ",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "ピザ",
+  "generatedEnergy": "-",
+  "effect": "自分の場のキャラを1枚選び、このターン中、BP+1000。自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01BT%2FCGH-1-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01BT%2FCGH-1-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

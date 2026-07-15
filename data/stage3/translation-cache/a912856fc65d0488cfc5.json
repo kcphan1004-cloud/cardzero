@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:19:13.137Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a912856fc65d0488cfc5",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-013"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "テュオハリム",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "图奥哈利姆",
+    "effectZh": "若该角色处于激活状态，其产生能量+\n[青]\n。",
+    "triggerZh": ""
+  }
+}

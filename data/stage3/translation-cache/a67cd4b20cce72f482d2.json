@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:57:35.947Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a67cd4b20cce72f482d2",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-001"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "アスキン・ナックルヴァール",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[ターン1]\n相手のフロントLに元々のBPよりBPが低いキャラかレストのキャラがある場合、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿什金·纳克尔瓦尔",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）\n[启动主]\n[回合1]\n如果对方的前线上有原本 BP 低于此角色的角色或处于横置状态的角色，则此角色在本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:14.873Z",
+  "number": "EX07BT/BLC-2-047",
+  "name": "その名は斬月",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引く。\n自分の場の青の〈黒崎 一護〉の効果でこのカードが自分の手札から場外に置かれた時、カードを1枚引く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX07BT%2FBLC-2-047",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-047",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

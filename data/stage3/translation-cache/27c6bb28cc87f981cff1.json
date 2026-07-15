@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:48:23.551Z",
+  "model": "qwen3.5:4b",
+  "unitId": "27c6bb28cc87f981cff1",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-048"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "チャーミー・パピットソン",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "查米·帕皮通森",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，将其置为激活状态，本回合 BP+3000。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:18.569Z",
+  "number": "UA46BT/KGR-1-011",
+  "name": "双城 厳一",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈双城 厳一〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを1枚引く。BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。\n[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\n自分の手札を3枚まで場外に置き、元々のBPよりBPが低い相手のフロントLのキャラを『1枚』まで選び、このターン中、BP-2000。この効果で場外に置いたカード1枚につき、選べるキャラの枚数+1。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-011",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-011",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

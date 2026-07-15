@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:17:22.599Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a745924a3954224c029",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-065"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "千本桜景厳",
+    "effect": "自分の場に〈朽木 白哉〉がある場合、手札にあるこのカードの消費APを-1する。\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "千本樱景严",
+    "effectZh": "若己方场上存在〈朽木 白哉〉，此卡在手牌中的消耗 AP-1。\n选择对方前线 L 的角色最多 1 张，使其在本回合中 BP-3000。再选择对方前线 L 的角色最多 1 张，使其在本回合中 BP-1000。",
+    "triggerZh": "[Raid]"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:04.859Z",
+  "number": "UA06BT/TOA-1-020",
+  "name": "リンウェル",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "3500",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の山札の上から3枚見る。その中からカードを1枚手札に加える。残りを望む順で自分の山札の下に置く。このターン中、次に手札から使用する〈エアスラスト〉か〈サンダーブレード〉か〈白薙・神鳴〉の消費APを-1する。",
+  "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA06BT%2FTOA-1-020",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA06BT%2FTOA-1-020",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

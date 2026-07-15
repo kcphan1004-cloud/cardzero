@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:14:27.194Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5513d8bc09b70b01050a",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-011"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "看病",
+    "effect": "自分の場外からキャラカードを1枚手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "看病",
+    "effectZh": "从场外将角色卡中的1张加入手札。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

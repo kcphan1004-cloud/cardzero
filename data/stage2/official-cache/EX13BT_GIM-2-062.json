@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:39.071Z",
+  "number": "EX13BT/GIM-2-062",
+  "name": "月村 手毬",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "Re;IRIS",
+  "generatedEnergy": "红色×3",
+  "effect": "[自分のターン中]\n自分の場に〈花海 咲季〉と〈藤田 ことね〉がある場合、このキャラはBP+1000と、「このキャラがアタックしてバトルに勝利した時、カードを1枚まで引く。」を得る。",
+  "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-062",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-062",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

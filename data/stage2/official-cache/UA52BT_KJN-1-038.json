@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:01.004Z",
+  "number": "UA52BT/KJN-1-038",
+  "name": "覚醒の刻",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "『BP3000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場に〈クレア・カゲノー〉がある場合、『BP5000以下』に代わる。レイド状態で裏向きのカードが下にある自分の場の〈クレア・カゲノー〉を1枚まで選び、このターン中、「相手は効果でこのキャラを選ぶ際、追加で自身の手札を1枚場外に置かないと選べない。」を与える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA52BT%2FKJN-1-038",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA52BT%2FKJN-1-038",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

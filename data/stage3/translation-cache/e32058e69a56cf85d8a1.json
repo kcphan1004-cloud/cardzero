@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:15:19.866Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e32058e69a56cf85d8a1",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-055"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ピーク・フィンガー",
+    "effect": "[登場時]\n自分の場の他の［特徴：マーレの戦士］を1枚まで選び、このターン中、『BP+1000』。選んだキャラがレイド状態の場合、『BP+2000』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "皮克·芬格尔",
+    "effectZh": "[登场时]\n选择自己场上其他［特征：玛雷战士］的 1 张，使其在本回合中『BP+1000』。若选中的角色处于 Raid 状态，则改为『BP+2000』。",
+    "triggerZh": ""
+  }
+}

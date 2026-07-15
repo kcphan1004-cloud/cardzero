@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:45:28.977Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1bc3add74932f27509ee",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-103"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑山千雪",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

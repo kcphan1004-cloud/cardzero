@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:24.229Z",
+  "number": "UA29ST/KMR-1-104",
+  "name": "仮面ライダーゼロツー（或人）",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "飛電インテリジェンス",
+  "generatedEnergy": "黄色×1",
+  "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚自分の山札の上か下に置く。\n[退場時]\n自分の場に他の［特徴：飛電インテリジェンス］が3枚以上ある場合、自分の手札からカード名に「ゼロツー」を含むキャラカードを1枚まで自分の場にレストで登場させる。",
+  "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29ST%2FKMR-1-104",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29ST%2FKMR-1-104",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

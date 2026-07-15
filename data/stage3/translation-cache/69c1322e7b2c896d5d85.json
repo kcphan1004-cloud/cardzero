@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:48:49.542Z",
+  "model": "qwen3.5:4b",
+  "unitId": "69c1322e7b2c896d5d85",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-051"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ヤミ・スケヒロ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚米·斯凯希尔罗",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+<绿色>。",
+    "triggerZh": ""
+  }
+}

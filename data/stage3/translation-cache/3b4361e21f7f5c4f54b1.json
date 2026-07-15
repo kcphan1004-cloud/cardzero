@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:41:12.502Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3b4361e21f7f5c4f54b1",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-013"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "フィンラル・ルーラケイス",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "菲纳尔·鲁拉凯斯",
+    "effectZh": "[登场时]\n将必要的能量为 1 以下的自己场上的其他角色卡 1 张回到手牌。如果无法这样做，则将此角色卡回到手牌。",
+    "triggerZh": ""
+  }
+}

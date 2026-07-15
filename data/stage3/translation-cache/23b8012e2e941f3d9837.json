@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:19:10.635Z",
+  "model": "qwen3.5:9b",
+  "unitId": "23b8012e2e941f3d9837",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-013"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "記憶解放術",
+    "effect": "自分の場の［特徴：整合騎士］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "记忆解放术",
+    "effectZh": "选择对方前线L的、BP 为自身场上的［特征：整合骑士］数量×1000以下的角色，使其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线L的角色中的 1 张，使其退场。"
+  }
+}

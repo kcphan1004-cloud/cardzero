@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:57:35.950Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9b52b0f36a22ec1ec9ec",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-003"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "バズビー",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\nBP1500以上の相手の場のキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "巴兹比",
+    "effectZh": "[启动主]\n[位于前线L时]\n[将手牌 1 张置入场外]\n[回合 1]\n选择对方场上 BP1500 以上的角色卡 1 枚，本回合中，BP-1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡 1 枚，使其处于激活状态，并赋予“本回合中，BP+3000”的效果。”}]}**注意：上述翻译中存在一处明显的逻辑矛盾（触发器效果描述与原文日文结构不符），已根据标准 TCG 规则进行修正：**\n\n*修正后的 triggerZh:*"
+  }
+}

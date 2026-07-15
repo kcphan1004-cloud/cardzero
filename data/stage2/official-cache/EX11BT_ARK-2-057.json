@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:08.546Z",
+  "number": "EX11BT/ARK-2-057",
+  "name": "鎮まぬ悪炎",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "相手のフロントLのキャラを1枚選び、このターン中、BP-4000。自分の場に〈不死の黒蛇 タルラ〉がある場合、相手のフロントLのキャラ全ては、このターン中、BP-1000。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX11BT%2FARK-2-057",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX11BT%2FARK-2-057",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

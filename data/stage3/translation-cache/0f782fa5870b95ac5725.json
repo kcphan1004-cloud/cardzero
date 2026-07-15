@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:34:24.856Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f782fa5870b95ac5725",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-013"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ガビル",
+    "effect": "このキャラはBP2000以下のキャラにブロックされない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "加比尔",
+    "effectZh": "此角色不会被 BP2000 以下的角色阻挡。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

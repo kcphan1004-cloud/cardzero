@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:49:24.113Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e61abb1b288129cc8884",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-078"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "クレイマン",
+    "effect": "このキャラはBP4000以上のキャラにブロックされない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克雷曼",
+    "effectZh": "该角色不会被 BP4000 以上的角色阻挡。",
+    "triggerZh": "抽牌"
+  }
+}

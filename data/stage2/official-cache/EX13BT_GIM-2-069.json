@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:40.077Z",
+  "number": "EX13BT/GIM-2-069",
+  "name": "そろそろ焼けたかな？",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引く。このターン中に自分が他のイベントカードを使用している場合、さらにカードを1枚引く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-069",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-069",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:59:27.751Z",
+  "model": "qwen3.5:9b",
+  "unitId": "455c551d5c3e4ee3ee77",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-012"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "スピナー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Spinner（旋转者）",
+    "effectZh": "【启动主效果】\n【变为横置状态】\n【第1回合】\n本回合中，该角色的产生能量 +。\n【紫色】\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

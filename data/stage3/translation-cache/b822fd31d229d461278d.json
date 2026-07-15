@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:28:13.026Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b822fd31d229d461278d",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-002"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ギガント・クロダ",
+    "effect": "[登場時]\n自分の場外から［特徴：食べ物］を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "吉冈胖达",
+    "effectZh": "[登场时]\n从场外将［特征：食物］最多 1 张加入手札。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

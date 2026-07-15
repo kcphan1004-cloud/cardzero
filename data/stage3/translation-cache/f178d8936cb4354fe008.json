@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:06:18.221Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f178d8936cb4354fe008",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-026"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "一坪の海岸線",
+    "effect": "※このカードはデッキに3枚までしか入れられない。\n自分の手札の上限は15枚になる。\n[登場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "一坪海岸线",
+    "effectZh": "※此卡最多只能放入卡组 3 张。\n自己的手牌上限变为 15 张。\n【登场时】\n抽 1 张牌。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:47:19.629Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3c9ed6b874a33d5c7448",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-034"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "郁田 はるき",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "郁田春希",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡，按从上方到下方的顺序将期望的枚数分别放置于牌库的上部和下部。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

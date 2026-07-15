@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:54.319Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3b891016fdcf398935f3",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-091"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レオリオ",
+    "effect": "[登場時]\n自分の場外から緑のキャラカードを1枚まで手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "雷欧力",
+    "effectZh": "[登场时]\n从自己场外加入最多 1 张绿色角色卡到手牌。",
+    "triggerZh": "[激活]\n选择自己场上的任意一张角色卡，将其设为激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:17.365Z",
+  "number": "UA06BT/TOA-1-092",
+  "name": "ロウ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈ロウ〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\nこのターン中に自分が使用したイベントカードの枚数により、以下の効果が全て発動する。\n・1枚以上：カードを1枚引く。\n・2枚以上：自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA06BT%2FTOA-1-092",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA06BT%2FTOA-1-092",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

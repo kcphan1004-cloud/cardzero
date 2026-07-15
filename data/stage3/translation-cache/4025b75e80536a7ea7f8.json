@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:45:52.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4025b75e80536a7ea7f8",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-031"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "芻霊呪法「簪」",
+    "effect": "相手のフロントLのレストのキャラを1枚選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "咒术回战 芻霊呪法「簪」",
+    "effectZh": "选择对方前线 L 的横置角色 1 张，使其退场。",
+    "triggerZh": ""
+  }
+}

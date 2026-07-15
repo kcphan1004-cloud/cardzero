@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:01:04.320Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7be650a15f7d10782362",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-001"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "アベンガネ",
+    "effect": "[登場時]\n相手の場のフィールドを1枚まで選び、相手の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿文加涅",
+    "effectZh": "[登场时]\n选择对方场上的一张卡，放置到对方的牌库下方。",
+    "triggerZh": ""
+  }
+}

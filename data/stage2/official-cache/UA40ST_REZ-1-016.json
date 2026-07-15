@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:42.074Z",
+  "number": "UA40ST/REZ-1-016",
+  "name": "レム",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "-",
+  "generatedEnergy": "黄色×2",
+  "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40ST%2FREZ-1-016",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40ST%2FREZ-1-016",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 2
+      }
+    ]
+  }
+}

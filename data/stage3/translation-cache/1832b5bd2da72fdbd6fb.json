@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:25:50.576Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1832b5bd2da72fdbd6fb",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-008"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑山 千雪",
+    "effectZh": "若对手场上存在蓝色或红色的卡片，将手札中此卡的必要能量\n[黄×1]\n减少。",
+    "triggerZh": ""
+  }
+}

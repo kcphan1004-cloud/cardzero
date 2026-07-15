@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:02:57.148Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7b19ac1ff8c18907e064",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "PC02BT/NIK-2-049"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ラプラス",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[緑×2]\n減らす。\n[ターン1]\nこのキャラのBPがプラスされた時、自分のターン中の場合、このキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉普拉斯",
+    "effectZh": "若自己场上没有卡片，则减少手札中这张卡片的必要能量。\n[第 1 回合]\n当该角色的 BP 增加时，若是自己的回合，则该角色在本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

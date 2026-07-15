@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:31:20.089Z",
+  "model": "qwen3.5:9b",
+  "unitId": "acfb120edfe39e0b6bf5",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-073"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "炎の呼吸 壱ノ型 不知火",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。カードを1枚引き、自分の手札を1枚場外に置く。自分の場に〈煉󠄁獄 杏寿郎〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "炎之呼吸·壹之型·不知火",
+    "effectZh": "选择对方「BP3000 以下」的 Front L 角色 1 枚并使其退场。抽 1 张牌，将自己的手牌 1 枚置入场外。若自己场上有〈炼狱 杏寿郎〉，则变为「BP5000 以下」。",
+    "triggerZh": "[Special]\n选择对方 Front L 的角色 1 枚并使其退场。"
+  }
+}

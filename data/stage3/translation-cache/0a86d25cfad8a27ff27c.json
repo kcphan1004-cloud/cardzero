@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:19:25.176Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0a86d25cfad8a27ff27c",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-076"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "草鹿 やちる",
+    "effect": "[登場時]\n自分の場の〈更木 剣八〉を1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "草鹿八千流",
+    "effectZh": "[登场时]\n选择自己场上的〈更木剑八〉至多1张，使其处于激活状态。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多1张，使其处于激活状态，本回合中，BP+3000。"
+  }
+}

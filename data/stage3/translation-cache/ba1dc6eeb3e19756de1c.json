@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:53:34.811Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ba1dc6eeb3e19756de1c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-070"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "園田 智代子",
+    "effect": "[起動メイン]\n[ターン1]\n自分のフロントLの［特徴：放課後クライマックスガールズ］を1枚選び、アクティブにし、このターン中、「このキャラはアタックできない。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "园田智代子",
+    "effectZh": "【启动主阶段】\n【回合 1】\n选择自己位于前线 L 的［特征：放学后 Climax Girls］中的 1 张，使其激活并赋予其效果「该角色无法攻击。」。",
+    "triggerZh": "【抽牌】\n抽入 1 张卡。"
+  }
+}

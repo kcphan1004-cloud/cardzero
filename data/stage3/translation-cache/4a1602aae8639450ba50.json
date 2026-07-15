@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:28:49.683Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a1602aae8639450ba50",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-061"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "無惨の研究",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場外にカードが5枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "无惨的研究",
+    "effectZh": "选择对方 BP3000 以下的角色中位于前线 L 的 1 张并使其退场。如果自己的场外有 5 张以上的卡，则改为“BP5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方的角色中位于前线 L 的 1 张并使其退场。"
+  }
+}

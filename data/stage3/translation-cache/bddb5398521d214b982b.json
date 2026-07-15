@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:59:47.925Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bddb5398521d214b982b",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-017"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "黒崎 一護",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、「このキャラはBP4000以上のキャラにブロックされない。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑崎一护",
+    "effectZh": "[启动主]\n[将手牌中 1 张置入场外]\n[回合 1]\n此角色在本回合中获得“不会被 BP4000 以上的角色阻挡。”",
+    "triggerZh": ""
+  }
+}

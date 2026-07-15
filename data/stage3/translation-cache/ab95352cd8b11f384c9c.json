@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:46:43.645Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ab95352cd8b11f384c9c",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-042",
+    "EX04BT/JJK-3-045"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "猪野 琢真",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "猪野琢真",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

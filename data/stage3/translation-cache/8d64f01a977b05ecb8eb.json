@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:36:10.105Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8d64f01a977b05ecb8eb",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-020"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シュナ",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、次の自分のターン開始時まで、「このキャラは相手のイベントカードの効果で選ばれない。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "史纳",
+    "effectZh": "【登场时】\n选择自己场上的角色至多 1 张，直到自己的下个回合开始为止，“该角色不会被对方的事件卡效果选中。”。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:02:21.779Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f4312e41b7a30f90c4a",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-018"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "トガヒミコ",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラはこのターン中、「このキャラがアタックしてバトルに勝利した時、カードを1枚引く。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "托加比美子",
+    "effectZh": "[启动主]\n[回合 1]\n本角色在本回合中获得「当此角色攻击并赢得战斗时，抽 1 张牌。」。",
+    "triggerZh": ""
+  }
+}

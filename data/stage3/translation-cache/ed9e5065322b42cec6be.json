@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:03:33.975Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ed9e5065322b42cec6be",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-032"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 ルキア",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から元々の消費APが2以上のカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朽木露琪亚",
+    "effectZh": "【登场时】\n查看自己山牌的上方 5 张。从中公开原本消耗 AP 为 2 以上的卡片至多 1 张并加入手牌。将剩余部分按任意顺序置于自己的山牌下方。",
+    "triggerZh": ""
+  }
+}

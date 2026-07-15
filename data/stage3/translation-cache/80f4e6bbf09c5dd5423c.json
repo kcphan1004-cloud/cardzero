@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:01:20.473Z",
+  "model": "qwen3.5:9b",
+  "unitId": "80f4e6bbf09c5dd5423c",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-105"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ランガ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "兰加",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自己场上的角色卡1张并使其处于激活状态，本回合中，+3000 BP"
+  }
+}

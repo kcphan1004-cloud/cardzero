@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:41:20.782Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1df4a44d382d45f41ef",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-033"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "収穫祭",
+    "effect": "自分の場に〈リムル〉がある場合、手札にあるこのカードの消費APを-1する。\nBP4000以下の相手のフロントLのキャラを1枚選び、リムーブエリアに置く。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "收获祭典",
+    "effectZh": "自己场地有〈利姆鲁〉的情况下，手札中这张卡的消耗 AP-1。\n选择对方 BP4000 以下的 Front L 的卡 1 枚，放置到移除区。",
+    "triggerZh": "[Special]\n选择对方 Front L 的卡 1 枚，使其退场。"
+  }
+}

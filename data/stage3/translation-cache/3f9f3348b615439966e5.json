@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:21:38.390Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f9f3348b615439966e5",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-037"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "時透 無一郎",
+    "effect": "[起動メイン]\n[ターン1]\nこのターン中にこのキャラが自分の［特徴：日輪刀］の効果で選ばれている場合のみ発動できる。このキャラを別のラインに移動させる。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "时透 无一郎",
+    "effectZh": "[启动主] \n[回合1]\n仅当本回合中该角色被自己的［特征：日轮刀］效果选中时可发动。将该角色移动至其他线。",
+    "triggerZh": "[Color]\n选择对手BP3500以下的角色中的一张，放回手牌。"
+  }
+}

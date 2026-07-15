@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:23:52.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2cd1e1a40dd1273efd61",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-028"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "カナメ・バッカニア",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡纳美·巴卡尼亚",
+    "effectZh": "【启动主效果】\n[横置]\n[回合 1]\n该角色本回合中，发生能量+\n[紫]\n并获得“主阶段结束时，将该角色退场。”。",
+    "triggerZh": ""
+  }
+}

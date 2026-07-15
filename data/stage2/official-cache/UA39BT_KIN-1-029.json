@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:15.221Z",
+  "number": "UA39BT/KIN-1-029",
+  "name": "マーベラス",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "完璧超人／完璧・無量大数軍",
+  "generatedEnergy": "紫色×2",
+  "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA39BT%2FKIN-1-029",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA39BT%2FKIN-1-029",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 2
+      }
+    ]
+  }
+}

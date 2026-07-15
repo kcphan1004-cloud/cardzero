@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:35:03.660Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b2b9ea92e67c5db07110",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-058"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "福丸 小糸",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "福丸 小糸",
+    "effectZh": "[登场时]\n抽1张牌，将自身手牌中任意一张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色进行激活，本回合内 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:10:08.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d68884a93bceb73f39cc",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-066"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "花御",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の発生エナジーが5以上ある場合のみ発動できる。以下から1つ選ぶ。\n・このキャラはこのターン中、BP+1000。\n・このキャラは次の相手のターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花御",
+    "effectZh": "[启动主]\n[在前线L存在时]\n[回合1]\n仅在自己产生的能量为5以上时可发动。从以下中选择1个。\n・该角色在本回合中，BP+1000。\n・该角色在下一名对手的回合中，BP+1000.",
+    "triggerZh": ""
+  }
+}

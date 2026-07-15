@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:29:26.380Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c363d5ac9cd6724efba8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-066"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シノン",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から緑の［特徴：ALO］を1枚まで場外に置く。残りを望む順で自分の山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西诺",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中将带有绿色［特征：ALO］的卡最多 1 张置于场外。将其余的按任意顺序置于自己的牌库上方。",
+    "triggerZh": "[抽取]\n抽牌 1 张。"
+  }
+}

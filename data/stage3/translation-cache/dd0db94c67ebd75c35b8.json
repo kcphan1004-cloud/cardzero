@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:56:59.966Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dd0db94c67ebd75c35b8",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-107"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ガチゴリラ",
+    "effect": "[アタック時]\n自分の場のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "硬核大猩猩",
+    "effectZh": "[攻击时]\n选择自己场上的 1 张角色卡，本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

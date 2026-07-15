@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:46:50.757Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1822996ea027dd259c4b",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-072"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "芹澤岳",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：動物］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "芹泽岳",
+    "effectZh": "[登场时]\n查看自己山札上方 4 张，从中公开最多 1 张［特征：动物］并加入手牌，将剩余部分按任意顺序置于自己的山札下方。",
+    "triggerZh": ""
+  }
+}

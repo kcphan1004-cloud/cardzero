@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:04:55.959Z",
+  "number": "UA17BT/TRK-1-060",
+  "name": "グルメスパイザー",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\nこのターン中、次に手札から使用する［特徴：食材］の消費APを-1する。〈グルメスパイザー〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA17BT%2FTRK-1-060",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA17BT%2FTRK-1-060",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

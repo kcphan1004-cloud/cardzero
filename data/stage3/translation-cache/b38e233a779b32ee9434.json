@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:35:31.409Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b38e233a779b32ee9434",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-062"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "モスティマ",
+    "effect": "[登場時]\n相手のフロントLのキャラ全てに、このターン中、「このキャラがブロックしてバトルに勝利した時、このキャラをエナジーLに移動させる。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莫斯提马",
+    "effectZh": "[登场时]\n给予对方前线 L 的所有角色，本回合中「当该角色阻挡并赢得战斗时，将其移动到能量线。」。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:54:17.040Z",
+  "model": "qwen3.5:9b",
+  "unitId": "501513a00c40f901b1b5",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-090"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "花御",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花御",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

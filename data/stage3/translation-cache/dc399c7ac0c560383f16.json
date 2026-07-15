@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:55.754Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc399c7ac0c560383f16",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-066"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "機体の整備",
+    "effect": "自分の山札の上から5枚見る。その中からキャラカードか〈特派ヘッドトレーラー〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。公開したカードが［特徴：KMF］か［特徴：KGF］の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "机体的整備",
+    "effectZh": "从自己的牌库上方查看 5 张卡。从中公开最多 1 张角色卡或〈特派头车〉加入手牌。将剩余的按任意顺序置于自己牌库下方。若公开的卡片为［特征：KMF］或［特征：KGF］，选择自己 AP 卡最多 1 张并激活。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

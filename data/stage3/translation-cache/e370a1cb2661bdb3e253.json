@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:08:13.142Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e370a1cb2661bdb3e253",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-026"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "白の賢人",
+    "effect": "[エナジーLにある場合]\nBP500以上の自分のフロントLの〈ゴレイヌ〉が退場する場合、代わりにこのキャラを退場させてもよい。そうした場合、その〈ゴレイヌ〉をエナジーLに移動させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "白之贤人",
+    "effectZh": "[位于能量线的情况下]\n若 BP500 以上的自己前线 L 的〈古雷恩〉退场，可代替将其退场。如此操作时，将该〈古雷恩〉移动至能量线。”",
+    "triggerZh": "[激活状态]\n选择自己场上的 1 枚角色并激活，本回合中 BP+3000。"
+  }
+}

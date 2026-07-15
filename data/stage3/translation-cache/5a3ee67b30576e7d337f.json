@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:13:19.911Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a3ee67b30576e7d337f",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-031"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "The Fear",
+    "effect": "相手のフロントLのキャラを1枚まで選び、『レストにする』。自分の場に〈エス・ノト〉がある場合、『レストにする。それは次の1回アクティブにならない。カードを1枚引く』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "恐惧",
+    "effectZh": "最多选择对方前线 L 的 1 张角色卡，【使其处于横置状态】。自己场上有〈Es Not〉的情况下，改为“使其处于横置状态。它在下一次激活时不会生效。抽 1 张牌”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 张角色卡，使其退场。"
+  }
+}

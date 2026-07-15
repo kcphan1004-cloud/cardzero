@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:58:39.662Z",
+  "model": "qwen3.5:9b",
+  "unitId": "726ac54f0fd3282f1678",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-062",
+    "UA02BT/JJK-1-062"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "逕庭拳",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に〈虎杖 悠仁〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "径庭拳",
+    "effectZh": "对方前线 L 的 BP5000 以下的角色最多选择一张，『返回手牌』。若自身场上有〈虎杖悠仁〉，则改为『退场』。",
+    "triggerZh": "[特殊]\n对方前线 L 的角色最多选择一张并使其退场。"
+  }
+}

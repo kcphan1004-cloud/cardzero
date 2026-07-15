@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:50:10.326Z",
+  "model": "qwen3.5:9b",
+  "unitId": "04ebadcf5ff7a86eab3f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-044"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "黛 冬優子",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、［特徴：Straylight］とイベントカードをそれぞれ1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "黛冬优子",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张，将最多 1 张［特征：Straylight］和事件卡分别置入场外，其余按任意顺序放回牌库上方。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

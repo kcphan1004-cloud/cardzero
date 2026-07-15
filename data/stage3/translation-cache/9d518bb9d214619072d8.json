@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:50:21.414Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9d518bb9d214619072d8",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-082"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ミリム",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "米鲁姆",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

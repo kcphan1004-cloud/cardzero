@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:41:05.848Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d0d86dfe1d794616fcbd",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-098"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "ノー墨・勝者フェイス",
+    "effect": "『BP2000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。カードを1枚引き、自分の手札を1枚場外に置く。自分の場に異なるカード名を持つ［特徴：Straylight］が3種類以上ある場合、『BP4000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "无墨·胜者之姿",
+    "effectZh": "选择对方 Front L 的『BP2000 以下』的角色至多 1 名，使其退场。抽 1 张牌并将自己手牌的 1 张置入场外。若自己场上存在 3 种以上不同卡名的［特征：Straylight］，则替换为『BP4000 以下』。",
+    "triggerZh": "[特殊]\n选择对方 Front L 的 1 名角色，使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:23:24.589Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ea0e5082d28002243109",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-037"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アルフェン",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔芬",
+    "effectZh": "[启动主效果]\n[横置]\n[将此卡退场]\n抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

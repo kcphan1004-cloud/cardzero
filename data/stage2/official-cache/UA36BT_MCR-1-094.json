@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:30.425Z",
+  "number": "UA36BT/MCR-1-094",
+  "name": "ギギル",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "バロータ軍／プロトデビルン",
+  "generatedEnergy": "红色×1",
+  "effect": "[フロントLにある場合]\n自分の場の〈シビル〉が相手の効果によって退場する場合、代わりにこのキャラを退場させてもよい。\n[自分のターン中]\n同じラインにカード名に「バサラ」を含むキャラがある場合、このキャラはBP+1000。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-094",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-094",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

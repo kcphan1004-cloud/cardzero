@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:19.694Z",
+  "number": "UA53BT/CSM-1-066",
+  "name": "姫野",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈姫野〉アクティブにし、フロントLに移動できる\nこのキャラのアタック終了時、このキャラを退場させてもよい。\n[フロントLにある場合]\n自分のエンドフェイズ開始時、自分のフロントLの〈姫野〉以外のキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替えてもよい。\n[登場時]\nカードを1枚引く。\n[退場時]\n自分の場と場外に元々のBPが4500以上のカードがない場合、自分のエナジーLのキャラを1枚まで選び、このターン中、BP+2000し、フロントLに移動させる。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA53BT%2FCSM-1-066",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA53BT%2FCSM-1-066",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

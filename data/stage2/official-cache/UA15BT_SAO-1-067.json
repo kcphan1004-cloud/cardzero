@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:04:16.212Z",
+  "number": "UA15BT/SAO-1-067",
+  "name": "ラグー・ラビットのシチュー",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分のフロントLのキャラを1枚まで選び、このターン中、BP+2000。カードを1枚引く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA15BT%2FSAO-1-067",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA15BT%2FSAO-1-067",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

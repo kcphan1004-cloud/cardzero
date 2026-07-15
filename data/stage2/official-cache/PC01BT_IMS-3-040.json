@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:00.233Z",
+  "number": "PC01BT/IMS-3-040",
+  "name": "黒色彗星",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "PcC",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引く。\nこのカードが自分の紫の［特徴：CoMETIK］の効果でリムーブエリアに置かれた時、カードを1枚引く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC01BT%2FIMS-3-040",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC01BT%2FIMS-3-040",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

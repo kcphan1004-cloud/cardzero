@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:40:38.374Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0b8f37851975ab6c5b2f",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-008"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ゾラ・イデアーレ",
+    "effect": "[フロントLにある場合]\n[ターン1]\n相手が\n[起動メイン]\nを発動した時、自分の場に他の［特徴：黒の暴牛］がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "索拉·伊德亚雷",
+    "effectZh": "［前线 L 在场］\n[回合 1]\n对手发动\n［启动主抽］时，若自己场上有其他［特征：黑之暴牛］存在，则抽取一张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:32.621Z",
+  "number": "UA19BT/HIQ-1-033",
+  "name": "フライング一ッ周ゥーッ!!",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場にある「高校」を含む特徴を1つ指定する。指定した特徴を持つ自分の場のアクティブのキャラを全てレストにし、カードを2枚引く。この効果でキャラを2枚以上レストにしていた場合、自分のフロントLのキャラ全ては、このターン中、BP+1000。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA19BT%2FHIQ-1-033",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA19BT%2FHIQ-1-033",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

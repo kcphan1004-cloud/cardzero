@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:50.967Z",
+  "number": "UA21BT/YYH-1-015",
+  "name": "陣",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈陣〉アクティブにし、フロントLに移動できる\n相手はイベントカードの効果でこのキャラを選ぶ際に、追加で自身の手札を1枚場外に置かないと選べない。\n[登場時]\n相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。（移動させる時にエナジーLに空きがない場合、相手はエナジーLのカードを1枚選んでリムーブエリアに置いてから移動させる）",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA21BT%2FYYH-1-015",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA21BT%2FYYH-1-015",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

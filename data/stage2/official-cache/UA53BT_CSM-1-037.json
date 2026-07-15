@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:14.620Z",
+  "number": "UA53BT/CSM-1-037",
+  "name": "デート",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "以下から1つ選ぶ。\n・自分の場のキャラを1枚選び、このターン中、BP+1000。このターン中、〈マキマ〉以外の自分の紫のキャラカードは全ての場所でイベントカードとしても扱う。自分のAPカードを1枚アクティブにする。\n・カードを2枚引き、自分の手札を1枚場外に置く。このターン中に自分が他のイベントカードを使用している場合、自分のAPカードを1枚アクティブにする。〈デート〉のこの効果は1ターンに1回のみ選べる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA53BT%2FCSM-1-037",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA53BT%2FCSM-1-037",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:51:27.154Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ce8e97b0b94617c6b1e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-072"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "改造された人間",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n相手のフロントLのキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "改造人",
+    "effectZh": "[启动主]\n[横置]\n[将该卡退场]\n选择对方前线 L 的角色 1 枚，本回合中，BP-1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:40:35.847Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5cfcaa2e7696cade110d",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-020"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 恵",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から［特徴：式神］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伏黑惠",
+    "effectZh": "[登场时]\n查看自己山札上方的 5 张。从中公开最多 1 张［特征：式神］并加入手牌。将剩余部分按任意顺序置于自己的山札下方。",
+    "triggerZh": ""
+  }
+}

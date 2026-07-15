@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:57:35.951Z",
+  "model": "qwen3.5:9b",
+  "unitId": "467fb65f17b4e9f92f0f",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-004"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ユーグラム・ハッシュヴァルト",
+    "effect": "[登場時]\n自分の場に〈ユーハバッハ〉があり、自分の手札の枚数が相手より少ない場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤格·哈什弗洛特",
+    "effectZh": "[登场时]\n若自己的场上有〈友哈巴赫〉，且自己手牌数量少于对方，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

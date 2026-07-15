@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:59:29.453Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c8da614152be1e39a61f",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-103"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "五条 悟",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n[フロントLにある場合]\n相手は自身のフロントLにあるキャラを1枚手札に戻す。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "五条 悟",
+    "effectZh": "[Impact（1）] （攻击并赢得战斗时，对对手玩家造成1点伤害）\n[登场]\n[位于Front L的情况下]\n对方将自身Front L上的卡牌返回手牌。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

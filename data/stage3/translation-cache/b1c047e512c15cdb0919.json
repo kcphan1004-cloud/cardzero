@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:18:23.560Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b1c047e512c15cdb0919",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-005"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "兰卡·李",
+    "effectZh": "[登场时]\n查看己方山札上方 1 张，将其置于山札上方或场外。",
+    "triggerZh": "[激活] 选择己场面的 1 个角色并变为激活状态，且本回合内 BP+3000。"
+  }
+}

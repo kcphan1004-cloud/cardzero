@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:34.738Z",
+  "number": "UA04BT/IMS-1-094",
+  "name": "グッド・ラック・ボール",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "相手のライフが3以上の場合、相手プレイヤーに1ダメージ。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA04BT%2FIMS-1-094",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA04BT%2FIMS-1-094",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

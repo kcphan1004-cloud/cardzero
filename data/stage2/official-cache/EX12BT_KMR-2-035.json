@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:17.289Z",
+  "number": "EX12BT/KMR-2-035",
+  "name": "仮面ライダーフォーゼ ロケットステイツ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "天ノ川学園高校",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[自分のターン中]\nこのカードが自分の効果でリムーブエリアに置かれた時、このカードを『手札に加えてもよい』。このキャラの効果でリムーブエリアに置かれた場合、『自分の場にレストで登場させてもよい』に代わる。\n[自分のターン中]\nこのキャラがバトルに敗北したアタック終了時、自分の場にカード名に「フォーゼ」を含まない［特徴：天ノ川学園高校］が3枚以上ある場合、このキャラとこのキャラをブロックしたキャラをリムーブエリアに置く。",
+  "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-035",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-035",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

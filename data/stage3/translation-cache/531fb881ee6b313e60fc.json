@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:14:56.800Z",
+  "model": "qwen3.5:9b",
+  "unitId": "531fb881ee6b313e60fc",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-063"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "京楽 春水",
+    "effect": "[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "京乐春水",
+    "effectZh": "[2 次攻击]\n（当此角色本回合首次攻击时，激活）",
+    "triggerZh": ""
+  }
+}

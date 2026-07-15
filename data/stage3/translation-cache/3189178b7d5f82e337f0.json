@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:10:40.333Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3189178b7d5f82e337f0",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-035"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "自由だ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "自由了",
+    "effectZh": "选择最多 2 张自己的 AP 角色卡并将其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取 1 张置于自己的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:04.703Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fd69e58b1a193e36fa1c",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-039"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "シャルナーク",
+    "effect": "[登場時]\n自分の場外から必要エナジーが3以下で消費APが1の〈シャルナーク〉以外の特徴に「幻影旅団」を持つキャラカードを1枚まで自分の場にレストで登場させる。エンドフェイズ開始時、そのキャラを退場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "沙诺克",
+    "effectZh": "[登场时]\n从场外选择必要能量为 3 以下、消耗 AP 为 1 的除〈沙诺克〉以外的拥有「幻影旅团」特征的角色卡最多 1 张，将其横置状态登场至自己的场地。结束阶段开始时，将该角色退场。\n[激活]\n选择自己场上的角色 1 枚，使其激活，本回合中 BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

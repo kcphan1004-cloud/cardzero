@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:51:05.684Z",
+  "model": "qwen3.5:9b",
+  "unitId": "33a9339f53fa875bb0a8",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-056"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "Summer for Us",
+    "effect": "カードを3枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "Summer for Us",
+    "effectZh": "抽牌 3 张，并将自己的手牌中最多 2 张置于场外。",
+    "triggerZh": "[Active]\n选择自己场地上的 1 枚角色并激活之，该回合中使其 [BP+3000]。"
+  }
+}

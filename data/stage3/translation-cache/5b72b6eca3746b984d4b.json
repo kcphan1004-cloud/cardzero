@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:16:03.284Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5b72b6eca3746b984d4b",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-070"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "平子 真子",
+    "effect": "[登場時]\n以下から1つまで選ぶ。\n・\n[フロントLにある場合]\nBP2000以下でBPが同じ相手のフロントLのキャラを2枚選び、どちらも退場させる。\n・BP3000以上の相手のフロントLのキャラを1枚まで選び、レストにする。このキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "平子真子",
+    "effectZh": "[登场时]\n从以下选项中选择至多 1 项。\n・\n[位于前线 L 时]\n选择 BP2000 及以下且 BP 相同的对方前线 L 的角色最多 2 枚，使它们全部退场。\n・选择 BP3000 及以上的对方的前线 L 的角色最多 1 枚，使其横置。将该角色激活。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

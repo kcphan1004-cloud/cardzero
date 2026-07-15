@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:08.603Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c0cbd85fa7d6f33ac578",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-078"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[レイド]\n〈ゴン＝フリークス〉アクティブにし、フロントLに移動できる\n[登場時]\n[アタック時]\n自分の場のキャラを2枚まで選び、このターン中、BP+1000。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "古恩＝弗利克斯",
+    "effectZh": "[Raid]\n将「古恩＝弗利克斯」设为激活并移动至前线L\n[登场时]\n[攻击时]\n选择自己场上的角色至多2张，本回合中BP+1000。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量条件时，发动Raid。"
+  }
+}

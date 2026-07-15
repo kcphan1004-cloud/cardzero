@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:12:45.191Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1cae0983bb8fa3c9b4af",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-043"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "倉本 千奈",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "仓本千奈",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色卡 1 枚并将其激活，此回合中 BP+3000。"
+  }
+}

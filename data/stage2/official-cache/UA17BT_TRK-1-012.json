@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:04:47.980Z",
+  "number": "UA17BT/TRK-1-012",
+  "name": "サニー",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "美食四天王",
+  "generatedEnergy": "黄色×1",
+  "effect": "自分の場に〈トリコ〉と〈ココ〉と〈ゼブラ〉がある場合、このキャラはBP+500。自分のフロントLに〈トリコ〉と〈ココ〉と〈ゼブラ〉があるなら、さらにこのキャラは\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）を得る。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA17BT%2FTRK-1-012",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA17BT%2FTRK-1-012",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

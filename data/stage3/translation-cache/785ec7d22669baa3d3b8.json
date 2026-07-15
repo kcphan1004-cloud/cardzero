@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:13:01.482Z",
+  "model": "qwen3.5:9b",
+  "unitId": "785ec7d22669baa3d3b8",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-009",
+    "UA05BT/KMY-1-009"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[自分のターン中]\n自分の場に〈竈門 炭治郎〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灶门祢豆子",
+    "effectZh": "[自己的回合中]\n若自己场上有〈灶门炭治郎>，则该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

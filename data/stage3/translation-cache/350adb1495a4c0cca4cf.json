@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:07:56.872Z",
+  "model": "qwen3.5:9b",
+  "unitId": "350adb1495a4c0cca4cf",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-018"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ライナー・ブラウン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莱纳·布朗",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

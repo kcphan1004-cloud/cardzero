@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:41.069Z",
+  "number": "UA40BT/REZ-1-098",
+  "name": "”聖域”の”試練”",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引き、自分の手札を1枚場外に置く。その後、自分のフロントLのアクティブのキャラを1枚レストにしてもよい。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-098",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-098",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:01:46.796Z",
+  "model": "qwen3.5:9b",
+  "unitId": "81655cdd60e04bf06aa8",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-036"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "大祓砲",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈究極 メカ丸〉か〈究極 メカ丸 絶対形態〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "大祓炮",
+    "effectZh": "选择对方前线 L 的角色中 BP3000 以下者最多 1 枚并退场。\n若自己场上有〈究极·梅卡丸〉或〈究极·梅卡丸 绝对形态〉，则条件变为『BP5000 以下』。",
+    "triggerZh": "[Special]\n选择对方前线 L 的角色中最多 1 枚并退场。"
+  }
+}

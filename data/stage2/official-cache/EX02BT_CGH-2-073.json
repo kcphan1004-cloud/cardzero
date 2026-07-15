@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:13.881Z",
+  "number": "EX02BT/CGH-2-073",
+  "name": "キューピッドの日",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。自分の場に〈ルルーシュ・ランペルージ〉と〈シャーリー・フェネット〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX02BT%2FCGH-2-073",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX02BT%2FCGH-2-073",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

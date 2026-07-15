@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:52.093Z",
+  "number": "EX05BT/KMY-3-065",
+  "name": "嘴平 伊之助",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[登場時]\n自分の場にレイド状態の〔〈竈門 炭治郎〉か〈我妻 善逸〉〕がある場合、このキャラをアクティブにする。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX05BT%2FKMY-3-065",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-3-065",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

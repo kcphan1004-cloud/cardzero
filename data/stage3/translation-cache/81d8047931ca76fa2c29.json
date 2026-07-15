@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:51:05.677Z",
+  "model": "qwen3.5:9b",
+  "unitId": "81d8047931ca76fa2c29",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-052"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "幽谷 霧子",
+    "effect": "[レイド]\n〈幽谷 霧子〉アクティブにし、フロントLに移動できる\n自分の山札が20枚以下の場合、このキャラは\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）を得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "幽谷 雾子",
+    "effectZh": "[Raid]\n将〈幽谷 雾子〉激活并移动至前线 L\n当自己的山札为 20 张以下时，该角色获得 [攻击 2 次]（在该回合首次攻击时将其激活）的效果。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:16:20.299Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3281660599f09eb229af",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-059"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "曳舟 桐生",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "曳舟桐生",
+    "effectZh": "[登场时]\n选择自己场上的其他角色的最多 1 张，并在此回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

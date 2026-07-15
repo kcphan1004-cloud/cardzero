@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:44:39.746Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5045215e44b38fd652fe",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-011",
+    "UA04BT/IMS-1-011"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "風野 灯織",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "风野 灯织",
+    "effectZh": "【登场时】\n查看自己牌库上方的一张卡。将那张卡置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

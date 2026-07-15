@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:47.432Z",
+  "number": "UA02BT/JJK-1-AP03",
+  "name": "アクションポイントカード(呪術廻戦)",
+  "color": "-",
+  "type": "行动点卡",
+  "typeJa": "アクションポイント",
+  "rarity": "AP",
+  "cost": 0,
+  "ap": 0,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "",
+  "trigger": "",
+  "officialDetailUrl": "",
+  "sourceUrl": "",
+  "raw": {
+    "syntheticActionPoint": true
+  }
+}

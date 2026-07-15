@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:59.644Z",
+  "number": "EX06BT/MHA-2-034",
+  "name": "擬似100％マンチェスタースマッシュ",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 6,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場と場外にある異なるカード名の［特徴：ワン・フォー・オール］の種類1枚につき、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。\n『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈緑谷 出久〉がある場合、『BP5000以下』に代わる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX06BT%2FMHA-2-034",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-034",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 6
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

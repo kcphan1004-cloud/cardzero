@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:30.883Z",
+  "number": "UA07BT/TSK-1-051",
+  "name": "リムル",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の場外にBP4000以上のキャラカードが2枚以上ある場合、自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA07BT%2FTSK-1-051",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA07BT%2FTSK-1-051",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:04.751Z",
+  "number": "UA31BT/MMM-1-099",
+  "name": "そんなの、あたしが許さない",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 2,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場に〈佐倉 杏子〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA31BT%2FMMM-1-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

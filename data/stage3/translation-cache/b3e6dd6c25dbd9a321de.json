@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:22:49.768Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3e6dd6c25dbd9a321de",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-094"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "アッシュフォード学園",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\nこのターン中に登場したBP3000以下の自分の場の特徴に「アッシュフォード学園」を持つキャラを1枚選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "阿什福德学园",
+    "effectZh": "本场地以激活状态登场。\n【启动主】\n【横置】\n从本回合中登场的拥有“阿什福德学园”特征且 BP 为 3000 或以下的自己的场角色中选择一张，使其处于激活状态。",
+    "triggerZh": "获取"
+  }
+}

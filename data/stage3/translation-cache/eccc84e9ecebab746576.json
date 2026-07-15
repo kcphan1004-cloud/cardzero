@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:08:13.134Z",
+  "model": "qwen3.5:9b",
+  "unitId": "eccc84e9ecebab746576",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-021"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビスケ",
+    "effect": "[登場時]\nカードを1枚引く。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "比司吉",
+    "effectZh": "[登场时]\n抽1张牌。\n[启动主]\n[横置状态]\n[将此卡退场]\n抽1张牌。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

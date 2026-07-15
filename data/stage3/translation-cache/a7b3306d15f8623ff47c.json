@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:44:11.959Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a7b3306d15f8623ff47c",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-041"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "荼毘",
+    "effect": "[登場時]\nAPを1支払ってもよい。そうした場合、以下から1つ選ぶ。\n・BP2500以下の相手のフロントLのキャラを1枚まで選び、退場させる。\n・カードを2枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "荼毘",
+    "effectZh": "[登场时]\n支付 1 AP 亦可。如此操作，从以下选择 1 个。\n•选择对方前线 L 的 BP2500 以下的角色最多 1 枚，使其退场。\n•抽 2 张牌。",
+    "triggerZh": "[激活]\n选择场上自己的角色，将其激活，本回合内，BP+3000。"
+  }
+}

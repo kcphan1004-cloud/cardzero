@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:27:31.060Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce7c011c027666241c06",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-108"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "一護の部屋",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "一护的房间",
+    "effectZh": "【启动主】\n【横置状态】\n【将此卡退场】\n抽 2 张牌，将自身手牌 1 张置于场外。",
+    "triggerZh": "【Gett】\n将此卡加入手牌。"
+  }
+}

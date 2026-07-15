@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:57:02.835Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7eab91084bce2eff2243",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-037",
+    "UA07BT/TSK-1-037"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "カイジン",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯津",
+    "effectZh": "[启动主]\n[横置]\n选择自身场上除外的 1 张其他角色卡，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

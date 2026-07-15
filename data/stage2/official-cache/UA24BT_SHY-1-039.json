@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:52.769Z",
+  "number": "UA24BT/SHY-1-039",
+  "name": "ヒト型おもちゃ箱",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 2,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引く。自分の手札から必要エナジーが4以下で消費APが1の青の〔〈クフフ〉と〈ツィベタ〉〕をそれぞれ1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA24BT%2FSHY-1-039",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA24BT%2FSHY-1-039",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

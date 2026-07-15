@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:35:21.466Z",
+  "model": "qwen3.5:9b",
+  "unitId": "14dfe9b062af33abc461",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-107"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ロウ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "劳",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自己场上的角色 1 张，使其激活，并赋予其本回合中 BP+3000。"
+  }
+}

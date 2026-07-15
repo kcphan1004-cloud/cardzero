@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:24:18.502Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a29787bfea9204356572",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-045"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "希恩",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡牌加入手牌。"
+  }
+}

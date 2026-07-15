@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:40.311Z",
+  "number": "UA43BT/SMD-1-074",
+  "name": "ORDER",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から5枚見る。その中から［特徴：ORDER］を2枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA43BT%2FSMD-1-074",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA43BT%2FSMD-1-074",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

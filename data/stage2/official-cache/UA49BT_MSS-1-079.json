@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:27.003Z",
+  "number": "UA49BT/MSS-1-079",
+  "name": "魔都の桃",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "〈魔都の桃〉は1ターンに1枚のみ使用できる。\nカードを1枚引く。自分の場の［特徴：人型醜鬼］を1枚まで選び、このターン中、「このカードの発生エナジー+\n[緑]\n。」を与える。自分の場に〈和倉 青羽〉がある場合、自分のAPカードを1枚アクティブにする。",
+  "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-079",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-079",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

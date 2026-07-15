@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:10:37.333Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65a18851ed554401a2c4",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-030"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "藤田 ことね",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "藤田 事乃",
+    "effectZh": "【登场时】\n选择自己场上其他必要能量为 1 以下的角色最多 1 张返回手牌。若无法如此操作，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

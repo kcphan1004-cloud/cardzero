@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:28:13.030Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f451b58c38855a2bd528",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-003"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "牛太郎",
+    "effect": "[登場時]\n[アタック時]\n自分の手札の［特徴：食べ物］を1枚場外に置いてもよい。そうした場合、カードを1枚引き、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "牛太郎",
+    "effectZh": "[登场时]\n[攻击时]\n可将手札中的［特征：食物］最多 1 张置入场外。若如此做，抽 1 张牌，且该角色本回合 BP+1000。",
+    "triggerZh": ""
+  }
+}

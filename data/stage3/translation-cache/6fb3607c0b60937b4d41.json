@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:24:58.278Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6fb3607c0b60937b4d41",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-003"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、『手札に戻す』。選んだキャラがレストの場合、『退場させる』に代わる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "[登场时]\n选择对方前线 L 的 BP3000 以下的角色最多1枚，将其『放回手牌』。若选中的角色处于横置状态，则改为使其『退场』。",
+    "triggerZh": "[激活]\n选择自己场上的1张卡并激活，本回合中 BP+3000。"
+  }
+}

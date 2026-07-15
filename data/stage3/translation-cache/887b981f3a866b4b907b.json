@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:57:58.320Z",
+  "model": "qwen3.5:9b",
+  "unitId": "887b981f3a866b4b907b",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-040"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "朱紗丸",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朱纱丸",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去\n[冲击]\n）",
+    "triggerZh": ""
+  }
+}

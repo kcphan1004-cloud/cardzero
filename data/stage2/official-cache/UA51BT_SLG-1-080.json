@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:54.482Z",
+  "number": "UA51BT/SLG-1-080",
+  "name": "舞姫",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。自分の場の〈向坂 雫〉を1枚まで選び、このターン中、「\n[アタック時]\nカードを1枚まで引く。」を与える。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA51BT%2FSLG-1-080",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA51BT%2FSLG-1-080",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

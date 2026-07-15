@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:17:25.762Z",
+  "model": "qwen3.5:9b",
+  "unitId": "acf76d79a7607e6e78fe",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-082"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ナナリー・ランペルージ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "娜娜莉·兰佩路基",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

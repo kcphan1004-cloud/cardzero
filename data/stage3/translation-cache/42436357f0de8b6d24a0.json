@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:38:22.267Z",
+  "model": "qwen3.5:9b",
+  "unitId": "42436357f0de8b6d24a0",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-040"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "円ちゅわ～ん",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "圆ちゅわ～ん",
+    "effectZh": "该角色激活时，该角色的发生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

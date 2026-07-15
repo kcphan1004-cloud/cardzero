@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:51.721Z",
+  "number": "UA05BT/KMY-1-063",
+  "name": "頭を垂れて蹲え 平伏せよ",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場のキャラを1枚退場させる。そうした場合、相手のフロントLのキャラを1枚まで選び、退場させる。カードを1枚引く。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA05BT%2FKMY-1-063",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA05BT%2FKMY-1-063",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

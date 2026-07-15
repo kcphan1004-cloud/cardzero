@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:45:46.277Z",
+  "model": "qwen3.5:9b",
+  "unitId": "356441a00a1402f9aa6b",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-026"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "福丸 小糸",
+    "effect": "[登場時]\n自分の場の他の［特徴：noctchill］を1枚自分の山札の下に置いてもよい。そうした場合、カードを1枚引き、このターン中、次に手札から使用する〈市川 雛菜〉の消費APを-1する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "福丸小糸",
+    "effectZh": "[登场时]\n可以选择将自己场上的其他［特征：noctchill］最多 1 枚放置于自己的牌库下方。若如此，抽 1 张牌，并使本回合中下次从手牌使用的〈市川雏菜〉的消耗 AP-1。",
+    "triggerZh": "[Draw]\n抽 1 张牌"
+  }
+}

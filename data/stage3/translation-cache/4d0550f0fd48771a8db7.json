@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:07:06.325Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d0550f0fd48771a8db7",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-011"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "雨夜 燕",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\n自分の場に〈十王 星南〉がある場合、このキャラはBP+1000。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雨夜 燕",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[自己的回合中]\n若自己场上有〈十王 星南〉，此角色 BP+1000。\n[登场时]\n抽 1 张牌，将手札中的 1 张卡置入场外。",
+    "triggerZh": ""
+  }
+}

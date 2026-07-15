@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:24:08.511Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e194a85849135d37fb9a",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-003"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "W",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n必要エナジーが4以下の自分のエナジーLのキャラを1枚選び、このキャラと位置を入れ替える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "W",
+    "effectZh": "[启动主]\n[位于前线L时]\n[回合 1]\n选择自己能量线中必要能量为 4 以下的角色 1 张，与该角色交换位置。",
+    "triggerZh": ""
+  }
+}

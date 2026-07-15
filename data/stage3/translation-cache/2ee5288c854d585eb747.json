@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:00:01.778Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2ee5288c854d585eb747",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-AP01",
+    "UA20BT/BCV-1-AP01",
+    "UA20BT/BCV-1-AP02",
+    "UA20BT/BCV-1-AP03",
+    "UA20BT/BCV-1-AP04",
+    "UA20BT/BCV-1-AP05",
+    "UA20BT/BCV-1-AP06"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アクションポイントカード(ブラッククローバー)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（黑之五叶草）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

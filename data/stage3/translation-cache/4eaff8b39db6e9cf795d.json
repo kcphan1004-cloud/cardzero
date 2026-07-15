@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:46:25.656Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4eaff8b39db6e9cf795d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-107"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "緋田 美琴",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绯田 美琴",
+    "effectZh": "[登场时]将自己场上的其他角色最多 1 张返回手牌（若无法返回则将该角色返回手牌）。",
+    "triggerZh": ""
+  }
+}

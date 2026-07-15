@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:43.646Z",
+  "number": "UA08BT/BLC-1-006",
+  "name": "キルゲ・オピー",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "星十字騎士団",
+  "generatedEnergy": "黄色×1",
+  "effect": "相手の場にレストのキャラが1枚以上ある場合、このキャラはアクティブで場に登場させる。\n[アタック時]\n相手の場のレストのキャラを1枚まで選ぶ。それは次の1回アクティブにならない。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA08BT%2FBLC-1-006",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA08BT%2FBLC-1-006",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

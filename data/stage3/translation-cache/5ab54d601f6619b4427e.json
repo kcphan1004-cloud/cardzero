@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:18:00.580Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5ab54d601f6619b4427e",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-094"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "このキャラはBPをマイナスする効果を受けない。\n[起動メイン]\n[ターン1]\nこのキャラのBPが4000以上の場合、このキャラをアクティブにする。\n[起動メイン]\n[レストにする]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "酷拉·皮可鲁（揍敌客）",
+    "effectZh": "该角色不受减少 BP 的效果影响。\n[启动主阶段]\n[回合 1]\n当该角色的 BP 为 4000 以上时，将其置于激活状态。\n[启动主阶段]\n[横置]\n选择最多 1 张对手场上的、BP 在 1500 以上的角色卡，使其本回合中 BP-1000。",
+    "triggerZh": "[获取]\n将此牌加入手牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:31.730Z",
+  "number": "UA19BT/HIQ-1-028",
+  "name": "ゴミ捨て場の決戦",
+  "color": "黄色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "黄色×3",
+  "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場の\n[アタック時]\nを持つキャラと、そのキャラ以外の\n[ブロック時]\nを持つキャラをそれぞれ1枚選び、『このターン中』、BP+500。APを1支払ってこのフィールドを退場させてもよい。そうした場合、『次の自分のターン開始時まで』に代わる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA19BT%2FHIQ-1-028",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA19BT%2FHIQ-1-028",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

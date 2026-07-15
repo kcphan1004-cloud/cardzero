@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:15:12.667Z",
+  "model": "qwen3.5:9b",
+  "unitId": "febd7beb1c28bfba7931",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-069"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ウイング",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Wing",
+    "effectZh": "[启动主]\n[横置状态]\n选择自己场上的其他角色 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

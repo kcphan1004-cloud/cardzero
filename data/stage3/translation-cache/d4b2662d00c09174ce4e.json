@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:42:14.149Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d4b2662d00c09174ce4e",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-019"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "がんばれ！ ノロマ号",
+    "effect": "カードを1枚引く。自分の場に［特徴：noctchill］がある場合、自分のAPカードを1枚アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加油！诺罗马号",
+    "effectZh": "抽 1 张牌。如果自己场上有［特征：noctchill］，激活自己的一张 AP 卡。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:05:47.913Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ae22fb77155d8a082a2a",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-020"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "仙波 崚河",
+    "effect": "[退場時]\n自分の山札の上から3枚見る。その中から［特徴：四聖剣］か〈藤堂 鏡志朗〉か〈月下（藤堂機）〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "仙波 崚河",
+    "effectZh": "[退场时]查看自己牌库上方的3张卡。从中公开最多1张［特征：四圣剑］或〈藤堂 镜志朗〉或〈月下（藤堂机）〉并加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": ""
+  }
+}

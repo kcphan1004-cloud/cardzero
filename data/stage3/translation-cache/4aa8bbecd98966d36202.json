@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:07:14.919Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4aa8bbecd98966d36202",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-032"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビスケの修行",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "比司吉的修行",
+    "effectZh": "选择我方 AP 卡最多 2 张，将其激活。",
+    "triggerZh": "[最终]\n若我方生命值为空，则从上方取我方的山札牌 1 张放置于我的生命值区域。"
+  }
+}

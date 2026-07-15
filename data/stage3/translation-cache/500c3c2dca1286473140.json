@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:03:32.527Z",
+  "model": "qwen3.5:9b",
+  "unitId": "500c3c2dca1286473140",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-009"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "バッテラ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "巴特拉",
+    "effectZh": "【启动主】\n【横置】\n【回合 1】\n本回合中，此角色的发生能量+\n【青】。\n主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

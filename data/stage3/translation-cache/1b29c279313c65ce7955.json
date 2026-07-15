@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:46:43.646Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1b29c279313c65ce7955",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-043"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "釘崎 野薔薇",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "钉崎野蔷薇",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己的手牌中一张置于场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

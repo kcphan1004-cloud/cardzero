@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:49.965Z",
+  "number": "UA41BT/RNK-1-029",
+  "name": "回天剣舞六連",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場の〈四乃森 蒼紫〉を1枚選び、このターン中、BP-1000と「このキャラのアタック終了時、自分の場のアクティブの〈四乃森 蒼紫〉を1枚レストにしてもよい。そうした場合、このキャラをアクティブにする。」を与える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA41BT%2FRNK-1-029",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA41BT%2FRNK-1-029",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

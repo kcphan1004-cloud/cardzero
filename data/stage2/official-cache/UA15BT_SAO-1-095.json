@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:04:20.982Z",
+  "number": "UA15BT/SAO-1-095",
+  "name": "闇風",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "GGO",
+  "generatedEnergy": "绿色×3",
+  "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA15BT%2FSAO-1-095",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA15BT%2FSAO-1-095",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 3
+      }
+    ]
+  }
+}

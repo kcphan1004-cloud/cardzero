@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:16:22.908Z",
+  "number": "UAPR/DST-P-001",
+  "name": "七海 龍水",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[APを1支払う]\n自分の手札から〈科学船ペルセウス〉を1枚まで自分のエナジーLにアクティブで登場させる。\n[アタック時]\nこのターン中に自分が手札から〈石油〉を使用しているか、〈科学船ペルセウス〉の効果で自分の手札の〈石油〉を場外に置いている場合、カードを1枚引き、このキャラはこのターン中、\n[インパクト（1）]\nを得る。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FDST-P-001",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FDST-P-001",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

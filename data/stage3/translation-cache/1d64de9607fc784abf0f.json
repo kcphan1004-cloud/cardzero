@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:19:11.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1d64de9607fc784abf0f",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-026"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "鉄穴森 鋼蔵",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铁穴森 钢藏",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

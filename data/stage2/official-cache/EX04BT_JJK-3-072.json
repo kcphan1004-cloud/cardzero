@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:39.483Z",
+  "number": "EX04BT/JJK-3-072",
+  "name": "ミニメカ丸",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "※このカードはデッキに3枚までしか入れられない。\n自分のリムーブエリアに〈五条 悟〉がある場合、手札にあるこのカードの必要エナジーを\n[赤×3]\n減らす。\nカードを1枚引く。自分の手札から必要エナジーが3以下で消費APが1の赤の［特徴：呪術師］を2枚まで自分の場にレストで登場させる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX04BT%2FJJK-3-072",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-3-072",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

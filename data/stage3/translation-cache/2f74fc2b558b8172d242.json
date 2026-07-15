@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:53:31.883Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f74fc2b558b8172d242",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-073"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "八百万 百",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[赤×2]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "八百万 百",
+    "effectZh": "自己场上没有卡片的情况下，减少此卡在手中时的必要能量\n【红×2】",
+    "triggerZh": "【抽牌】\n抽1张卡。"
+  }
+}

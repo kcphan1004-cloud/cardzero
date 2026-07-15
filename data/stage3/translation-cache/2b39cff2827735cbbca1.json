@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:03:03.755Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2b39cff2827735cbbca1",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-046"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "憂憂",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "忧忧",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上的其他角色最多 1 张返回手牌。若无法返还，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:50:41.621Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b225a7580d8c6a0e6b04",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-070"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "高田ちゃん",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "高田酱",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的己方场下的其他角色的任意一张返回至手牌。若无法返还，则将此角色返回至手牌。",
+    "triggerZh": ""
+  }
+}

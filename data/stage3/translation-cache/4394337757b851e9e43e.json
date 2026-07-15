@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:10:40.331Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4394337757b851e9e43e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-033"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ごめん できない",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "对不起，做不到",
+    "effectZh": "选择最多 2 张自己的 AP 角色卡并将其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取 1 张置于自己的生命区域。"
+  }
+}

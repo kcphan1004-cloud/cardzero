@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:19:11.874Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc8c82f60bab086dba71",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-024"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 玄弥",
+    "effect": "このキャラはアクティブで場に登場させる。\n[退場時]\nこのカードを自分の手札に加えてもよい。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "不死川玄弥",
+    "effectZh": "此角色以激活状态登场。\n【退场时】\n可以将其加入自己的手牌。",
+    "triggerZh": "[Get] 将此卡加入手牌"
+  }
+}

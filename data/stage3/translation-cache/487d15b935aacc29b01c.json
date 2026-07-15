@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:13:19.917Z",
+  "model": "qwen3.5:9b",
+  "unitId": "487d15b935aacc29b01c",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-038"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "浦原 喜助",
+    "effect": "[登場時]\n自分の山札の上から3枚を場外に置いてもよい。そうした場合、自分の場外から紫のキャラカードを1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "浦原喜助",
+    "effectZh": "[登场时]\n可以将己方牌库上方的 3 张卡置于场外。如此做的话，从己方场外最多选择 1 张紫色角色卡加入手牌。",
+    "triggerZh": ""
+  }
+}

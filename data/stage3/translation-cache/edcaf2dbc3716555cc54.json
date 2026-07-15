@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:57:48.523Z",
+  "model": "qwen3.5:4b",
+  "unitId": "edcaf2dbc3716555cc54",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-096",
+    "UA20BT/BCV-1-096"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "諦めないのがオレの魔法だ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "绝不放弃是我的魔法",
+    "effectZh": "选择至多两张自身 AP 卡并使其激活状态。",
+    "triggerZh": "[最终]\n若自身生命值为空，则将自身牌库上方一张置于自身生命区。"
+  }
+}

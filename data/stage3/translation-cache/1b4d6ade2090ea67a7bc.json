@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:44:39.751Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1b4d6ade2090ea67a7bc",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-015",
+    "UA04BT/IMS-1-015"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "櫻木 真乃",
+    "effect": "[登場時]\n[アタック時]\n自分の場の他の［特徴：illumination STARS］を1枚まで選び、このターン中、BP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "樱木 真乃",
+    "effectZh": "【登场时】\n【攻击时】\n选择自己场上的其他［特征：illumination STARS］至多一张，本回合中，BP+500。",
+    "triggerZh": "【激活】\n选择自己场上的一张角色，将其激活，本回合中，BP+3000。"
+  }
+}

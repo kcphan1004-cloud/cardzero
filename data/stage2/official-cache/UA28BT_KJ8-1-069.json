@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:01.530Z",
+  "number": "UA28BT/KJ8-1-069",
+  "name": "保科 宗四郎",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中にアクティブのこのキャラがレストになっている場合のみ発動できる。このキャラをアクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA28BT%2FKJ8-1-069",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-069",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

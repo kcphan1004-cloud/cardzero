@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:04:37.540Z",
+  "model": "qwen3.5:9b",
+  "unitId": "24c031578de115c04edc",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-019"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "卜部 巧雪",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卜部 巧雪",
+    "effectZh": "[登场时]\n选择自己场上的其他角色卡最多 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

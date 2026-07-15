@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:40:19.861Z",
+  "model": "qwen3.5:9b",
+  "unitId": "51d07b7b78859eebb4e5",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-024"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ベニマル",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "红丸",
+    "effectZh": "",
+    "triggerZh": "【获得】\n将此卡加入手牌。"
+  }
+}

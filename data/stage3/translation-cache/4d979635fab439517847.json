@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:47:47.445Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d979635fab439517847",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-036"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑山 千雪",
+    "effectZh": "[登场时]\n将自己场上其他必要能量为 1 以下的角色 1 张返回手牌。若无法如此操作，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:20:21.483Z",
+  "model": "qwen3.5:9b",
+  "unitId": "17549bbe17354ffa302c",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-031"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "甘露寺 蜜璃",
+    "effect": "[退場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "甘露寺 蜜璃",
+    "effectZh": "[退场时]\n选择自己场上的至多 1 名角色，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色并将其激活，本回合中 BP+3000。"
+  }
+}

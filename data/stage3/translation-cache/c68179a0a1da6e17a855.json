@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:13:19.909Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c68179a0a1da6e17a855",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-030"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "The Jail",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "牢狱",
+    "effectZh": "选择对方前线 L 的 1 张角色卡，使其处于横置状态。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:37.367Z",
+  "number": "UA30BT/ARK-1-066",
+  "name": "私の手を握って！！",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場外から必要エナジーが3以下で消費APが1の青のキャラカードを1枚自分のエナジーLにレストで登場させる。登場させたキャラが〈ドクター〉の場合、それをアクティブにする。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA30BT%2FARK-1-066",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-066",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

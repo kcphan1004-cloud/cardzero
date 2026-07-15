@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:20.871Z",
+  "number": "UA12BT/BLK-1-099",
+  "name": "無減速ドリブル!!!",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場の〈國神 錬介〉と〈千切 豹馬〉と〈御影 玲王〉の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12BT%2FBLK-1-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12BT%2FBLK-1-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

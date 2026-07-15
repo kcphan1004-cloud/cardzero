@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:21:24.268Z",
+  "model": "qwen3.5:9b",
+  "unitId": "470a97e1012481f9cb2b",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-087"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "平子 真子",
+    "effect": "[登場時]\n自分の場の［特徴：護廷十三隊］を1枚まで選び、このターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "平子真子",
+    "effectZh": "[登场时]\n选择自己场上的［特征：护廷十三队］最多 1 张，本回合中，\n[冲击（+1）]\n给予（受到的冲击伤害 +1，若没有冲击则获得\n[冲击（1）]）。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

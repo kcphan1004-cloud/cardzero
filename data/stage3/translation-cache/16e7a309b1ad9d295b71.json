@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:51:03.571Z",
+  "model": "qwen3.5:4b",
+  "unitId": "16e7a309b1ad9d295b71",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-069"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ロロペチカ",
+    "effect": "自分の場外にイベントカードが4枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "洛洛佩琪卡",
+    "effectZh": "若己方场外有 4 张或以上的事件卡片，该角色的 BP+1500。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张牌"
+  }
+}

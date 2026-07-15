@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:24.294Z",
+  "number": "UA12ST/BLK-1-109",
+  "name": "キックオフ",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の場のキャラの下に裏向きのカードがない場合、自分の山札の上から1枚を裏向きで自分の場のキャラ1枚の下に置いてもよい。\n[起動メイン]\n[ターン1]\n自分の場のキャラの下の裏向きのカードを1枚、裏向きのカードが下にない自分の場のキャラの下に移動させる。\n[起動メイン]\n[APを1支払う]\nこのフィールドの\n[登場時]\nを発動する。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12ST%2FBLK-1-109",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12ST%2FBLK-1-109",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

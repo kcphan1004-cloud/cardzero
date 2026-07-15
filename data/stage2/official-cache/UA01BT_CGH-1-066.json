@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:22.758Z",
+  "number": "UA01BT/CGH-1-066",
+  "name": "機体の整備",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から5枚見る。その中からキャラカードか〈特派ヘッドトレーラー〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。公開したカードが［特徴：KMF］か［特徴：KGF］の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01BT%2FCGH-1-066",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01BT%2FCGH-1-066",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

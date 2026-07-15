@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:54:40.244Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e8725660dc248cce937a",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-022"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 実弥",
+    "effect": "[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "不死川 实弥",
+    "effectZh": "[每回合攻击 2 次]\n（当本角色在本回合首次进行攻击时，将其激活）",
+    "triggerZh": ""
+  }
+}

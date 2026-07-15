@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:35.516Z",
+  "number": "EX04BT/JJK-3-049",
+  "name": "釘崎 野薔薇",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "呪術師",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈釘崎 野薔薇〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。この効果で［特徴：呪術師］を場外に置いた場合、そのカードと必要エナジーの数か元々のBPが同じ相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。\n[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\n自分の場の［特徴：呪術師］を1枚選び、このターン中、BP+500。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX04BT%2FJJK-3-049",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-3-049",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

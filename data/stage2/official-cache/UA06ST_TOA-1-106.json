@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:21.602Z",
+  "number": "UA06ST/TOA-1-106",
+  "name": "リンウェル",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA06ST%2FTOA-1-106",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA06ST%2FTOA-1-106",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "red",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:44:47.183Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4c19ece7c0c2f184a81a",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-020"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "浅倉 透",
+    "effect": "[自分のターン中]\nこのターン中に自分が手札からカードを4枚以上使用している場合、このキャラはBP+2000。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "浅仓 透",
+    "effectZh": "[在自己的回合中]\n若本回合自己使用了 4 张以上的手牌，此角色 BP+2000。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 BP3500 以下的角色 1 枚，放回手牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:12.042Z",
+  "number": "UA12BT/BLK-1-047",
+  "name": "我牙丸 吟",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "チームZ",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+2000。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12BT%2FBLK-1-047",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12BT%2FBLK-1-047",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

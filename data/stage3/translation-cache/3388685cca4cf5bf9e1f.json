@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:54:48.087Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3388685cca4cf5bf9e1f",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-046"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーアクセルトライアル",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[登場時]\n自分の場に必要エナジーが4以上の他のカードがない場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士加速试炼",
+    "effectZh": "【自己的回合中】\n该角色 BP+1000。\n【登场时】\n自己场上没有必要能量为 4 以上的其他卡片的情况下，将该角色激活。",
+    "triggerZh": ""
+  }
+}

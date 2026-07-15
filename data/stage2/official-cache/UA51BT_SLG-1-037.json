@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:47.178Z",
+  "number": "UA51BT/SLG-1-037",
+  "name": "命の神水",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場外から元々のBPが4000以下のキャラカードを1枚まで手札に加える。カードを1枚引く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA51BT%2FSLG-1-037",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA51BT%2FSLG-1-037",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

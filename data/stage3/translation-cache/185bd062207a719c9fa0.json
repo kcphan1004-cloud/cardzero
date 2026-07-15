@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:05:19.902Z",
+  "model": "qwen3.5:9b",
+  "unitId": "185bd062207a719c9fa0",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-021"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゲンスルー",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "刚察鲁",
+    "effectZh": "[登场时]\n查看自己山札上方 1 张卡牌。将该卡牌放置于自己山札的上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:40:51.064Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d587003c1ef3f870ca7d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-010"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "白瀬 咲耶",
+    "effect": "[レイド]\n〈白瀬 咲耶〉アクティブにし、フロントLに移動できる\n[登場時]\nBP2500以上の相手の場のキャラを1枚まで選び、このターン中、BP-2000。\n[アタック時]\n相手の場に元々のBPよりBPが低いキャラがある場合、カードを1枚引く。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "白濑 咲耶",
+    "effectZh": "[Raid]\n〈白濑 咲耶〉激活并移动到前线 L\n[登场时]\n选择对方场上 BP2500 以上的角色最多 1 张，在本回合中使其 BP-2000。\n[攻击时]\n若对方场上有原本 BP 低于当前 BP 的角色，则抽 1 张牌。”",
+    "triggerZh": "[Raid] \n将此卡加入手牌或满足必要能量时，进行 Raid。"
+  }
+}

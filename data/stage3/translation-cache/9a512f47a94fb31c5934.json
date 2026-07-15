@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:56.908Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9a512f47a94fb31c5934",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-045"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "フェイタン",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、『BP-2000』。自分のライフが4以下の場合、『BP-3000』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "飞坦",
+    "effectZh": "[登场时]\n选择最多 1 张对手的「前线」角色，使其在本回合中『BP-2000』。如果自己的生命值在 4 以下，则改为『BP-3000』。",
+    "triggerZh": ""
+  }
+}

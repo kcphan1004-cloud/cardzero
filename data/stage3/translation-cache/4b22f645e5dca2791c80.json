@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:52:05.491Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4b22f645e5dca2791c80",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-063"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "芹沢 あさひ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "芹泽 明日香",
+    "effectZh": "[登场时]\n将自己场上其他必要能量为 1 以下的角色一张返回手牌。若无法返还，则将该角色返回手牌。\n[抽]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

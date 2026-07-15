@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:07:40.395Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f2678408cb1635ae389",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-048"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "白霞罸",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈朽木 ルキア〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "白霞罚",
+    "effectZh": "选择『BP3000以下』的对方前线L的角色1张，将其退场。如果自己的场上有<朽木 露琪亚>的话，改为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对方前线L的角色1张，将其退场。"
+  }
+}

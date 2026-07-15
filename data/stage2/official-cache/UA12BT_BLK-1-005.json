@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:04.843Z",
+  "number": "UA12BT/BLK-1-005",
+  "name": "絵心 甚八",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n自分の場のキャラの下に裏向きのカードがない場合、自分の山札の上から1枚を裏向きで〈絵心 甚八〉以外の自分の場のキャラ1枚の下に置いてもよい。\n[起動メイン]\n[ターン1]\n自分の場のキャラの下の裏向きのカードを1枚、裏向きのカードが下にない自分の場のキャラの下に移動させる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12BT%2FBLK-1-005",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12BT%2FBLK-1-005",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:25:40.540Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f397deecac46323313e",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-053"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "フルル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "芙露鲁",
+    "effectZh": "[启动 Main]\n[横置状态]\n[Turn 1]\n本回合中，该角色的产生能量+\n[绿] \n。Main Phase 结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

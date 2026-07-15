@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:21:33.085Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1d1cab70542492e91268",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-026"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "フクロウの杜",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "猫头鹰之森",
+    "effectZh": "该场地以激活状态登场。\n【启动主】\n【使其横置】\n抽 1 张牌并将自己手札中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

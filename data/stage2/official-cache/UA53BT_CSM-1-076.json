@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:21.619Z",
+  "number": "UA53BT/CSM-1-076",
+  "name": "かわりに・・・デンジの夢を私に見せてくれ",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "以下から1つ選ぶ。\n・自分の山札の上から2枚見て、望む枚数を望む順で山札の上に置き、残りを場外に置く。その後、「自分の場外から必要エナジーが1以下の赤の〈デンジ〉を1枚自分のエナジーLにアクティブで登場させ、このカードを裏向きでその〈デンジ〉の下に置く。」をしてもよい。\n・このカードを裏向きで、裏向きのカードが下にない自分の場の〈デンジ〉の下に置く。その〈デンジ〉がレイド状態でない場合、自分のAPカードを1枚アクティブにする。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA53BT%2FCSM-1-076",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA53BT%2FCSM-1-076",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

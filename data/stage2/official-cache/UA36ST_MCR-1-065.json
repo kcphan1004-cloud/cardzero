@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:32.768Z",
+  "number": "UA36ST/MCR-1-065",
+  "name": "トライアングラー",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 2,
+  "bp": "-",
+  "feature": "歌（シェリル）／歌（ランカ）",
+  "generatedEnergy": "-",
+  "effect": "自分の場にカード名に「アルト」を含むキャラがある場合、手札にあるこのカードの消費APを-1する。\n『BP4000以下』の相手のフロントLのキャラを1枚選び、退場させる。以下から1つ選ぶ。\n・自分の場に〈シェリル・ノーム〉がある場合、『BP5000以下』に代わる。\n・自分の場に〈ランカ・リー〉がある場合、自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36ST%2FMCR-1-065",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36ST%2FMCR-1-065",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

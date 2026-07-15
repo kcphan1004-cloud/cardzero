@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:15.035Z",
+  "number": "UA49BT/MSS-1-010",
+  "name": "東 日万凛",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "魔防隊／七番組",
+  "generatedEnergy": "黄色×1",
+  "effect": "[フロントLにある場合]\nこのキャラのアタック終了時、このキャラをエナジーLに移動させてもよい。そうした場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-010",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-010",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

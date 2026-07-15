@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:26:58.619Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8c3ba67f719f0b0b6d3b",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-001",
+    "UA01BT/CGH-1-001"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "扇 要",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "扇要",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+\n【紫】。",
+    "triggerZh": ""
+  }
+}

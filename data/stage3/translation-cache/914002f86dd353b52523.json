@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:43:45.800Z",
+  "model": "qwen3.5:9b",
+  "unitId": "914002f86dd353b52523",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-015"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "田中 摩美々",
+    "effect": "[登場時]\n自分の場に他の［特徴：L'Antica］が4枚以上ある場合、自分の場の［特徴：L'Antica］を1枚まで選び、このターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "田中 摩美々",
+    "effectZh": "【登场时】\n如果自己场上有其他［特征：L'Antica］达到 4 张以上，则从自己场上的［特征：L'Antica］中选择最多一张并赋予其在本回合中\n[冲击（+1）]\n（给予的冲击伤害 +1，若无冲击则获得 [冲击（1）]）。",
+    "triggerZh": ""
+  }
+}

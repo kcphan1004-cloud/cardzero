@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:18:20.692Z",
+  "model": "qwen3.5:9b",
+  "unitId": "30f9045abcf71b2cfe49",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-086"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ミレイ・アッシュフォード",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米蕾伊·阿什福德",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

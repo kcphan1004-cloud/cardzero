@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:17:22.598Z",
+  "model": "qwen3.5:9b",
+  "unitId": "51b351a4a10b81686af5",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-063"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "技術開発局",
+    "effect": "自分の山札の上から5枚見る。その中から1枚を手札に加え、1枚を場外に置く。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "技术开发局",
+    "effectZh": "查看自己牌库上方的 5 张卡。从中选择 1 张加入手牌，将另 1 张置入场外。剩余卡片按任意顺序置于自己牌库下方。",
+    "triggerZh": "[Raid]"
+  }
+}

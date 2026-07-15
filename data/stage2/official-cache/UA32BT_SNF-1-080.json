@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:23.004Z",
+  "number": "UA32BT/SNF-1-080",
+  "name": "入道雲",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。BP4000以下の相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。（移動させる時にエナジーLに空きがない場合、相手はエナジーLのカードを1枚選んでリムーブエリアに置いてから移動させる）",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA32BT%2FSNF-1-080",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-080",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

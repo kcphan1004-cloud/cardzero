@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:11:09.247Z",
+  "model": "qwen3.5:9b",
+  "unitId": "76a8680009e4ab88d20f",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-092"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "炭子",
+    "effect": "このカードは〈竈門 炭治郎〉としても扱う。\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炭子",
+    "effectZh": "此卡也作为〈竈门 炭治郎〉处理。\n[冲击无效]\n（与此角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

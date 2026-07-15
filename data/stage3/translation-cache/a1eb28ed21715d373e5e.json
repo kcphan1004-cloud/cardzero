@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:13:28.191Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a1eb28ed21715d373e5e",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-007"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "甘露寺 蜜璃",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\n自分の場の消費APが2の［特徴：柱］を1枚選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "甘露寺 蜜璃",
+    "effectZh": "【启动主】\n【位于前线 L 时】\n【将手札中的 1 张置入场外】\n【回合 1】\n选择自身场上的任意 1 张［特征：柱］且消耗 AP 为 2 的角色卡，并将其置于【激活状态】。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

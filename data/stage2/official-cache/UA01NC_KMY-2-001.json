@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:28.960Z",
+  "number": "UA01NC/KMY-2-001",
+  "name": "竈門 炭治郎",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SP",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "-",
+  "generatedEnergy": "黄色×3",
+  "effect": "[自分のターン中]\n[ターン1]\nアタックフェイズ中に自分の場のキャラが移動した時、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01NC%2FKMY-2-001",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01NC%2FKMY-2-001",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

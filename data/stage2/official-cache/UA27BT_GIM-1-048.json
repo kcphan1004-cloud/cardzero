@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:07:39.462Z",
+  "number": "UA27BT/GIM-1-048",
+  "name": "葛城 リーリヤ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈葛城 リーリヤ〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の場外から必要エナジーが2以下のイベントカードを1枚まで手札に加える。\n[アタック時]\nこのターン中に自分がイベントカードを使用している場合、自分の手札を1枚場外に置いてもよい。そうした場合、自分の場の〈紫雲 清夏〉を1枚まで選び、アクティブにする。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA27BT%2FGIM-1-048",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-048",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

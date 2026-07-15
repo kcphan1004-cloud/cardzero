@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:19:11.873Z",
+  "model": "qwen3.5:9b",
+  "unitId": "751be2bdd053442c7437",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-023"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 玄弥",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "不死川玄弥",
+    "effectZh": "[冲击无效]\n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": "[激活]\n选择自己场上的 1 张牌并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

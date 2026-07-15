@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:09:43.277Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7db4cd173150890afb72",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-052"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キキョウ",
+    "effect": "[退場時]\n自分の山札の上から3枚見る。その中から［特徴：ゾルディック家］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "奇犽",
+    "effectZh": "［退场时］\n从自己的牌库上方查看 3 张卡。从中公开至多 1 张具有［特征：揍敌客家］的卡并加入手牌，其余按任意顺序放回自己牌库下方。",
+    "triggerZh": ""
+  }
+}

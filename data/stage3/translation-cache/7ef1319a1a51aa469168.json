@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:43:45.799Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ef1319a1a51aa469168",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-014"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "白瀬 咲耶",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "白濑 咲耶",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自己场上的角色最多一张并使其激活，在本回合中 BP+3000。"
+  }
+}

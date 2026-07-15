@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:47:47.444Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f76d25518ca21275ec24",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-035"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑山 千雪",
+    "effectZh": "[无效化冲击]\n（与该角色进行战斗的角色在本场战斗中失去\n[冲击]）",
+    "triggerZh": ""
+  }
+}

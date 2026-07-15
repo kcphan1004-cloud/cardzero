@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:47.579Z",
+  "number": "UA47BT/TKG-1-095",
+  "name": "「アオギリの樹」のアジト",
+  "color": "红色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "红色×3",
+  "effect": "このフィールドはアクティブで登場させる。\n[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n自分のライフが5以下の場合のみ発動できる。自分の場のキャラを1枚選び、このターン中、BP+1500。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA47BT%2FTKG-1-095",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA47BT%2FTKG-1-095",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

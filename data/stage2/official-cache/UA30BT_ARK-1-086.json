@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:40.717Z",
+  "number": "UA30BT/ARK-1-086",
+  "name": "チェン",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "龍門",
+  "generatedEnergy": "红色×1",
+  "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[退場時]\n自分の場外から〈赤霄・抜刀〉か\n[2回ブロック]\nを持つキャラカードを1枚まで手札に加える。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA30BT%2FARK-1-086",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-086",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

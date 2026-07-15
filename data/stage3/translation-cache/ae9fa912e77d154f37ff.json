@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:17:01.073Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ae9fa912e77d154f37ff",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-005"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シェータ・シンセシス・トゥエルブ",
+    "effect": "自分の場に他の［特徴：整合騎士］が4枚以上ある場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "谢塔·合成·十二号",
+    "effectZh": "若自己的场地上有 4 枚以上的［特征：整合骑士］，此角色获得\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": ""
+  }
+}

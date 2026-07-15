@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:25:19.146Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8aef6f3cf80473e767dc",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-010"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フロストノヴァ",
+    "effect": "[登場時]\n相手の場のレストのキャラ2枚につき、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "霜星诺娃",
+    "effectZh": "[登场时]\n对方场上的每 2 枚横置状态的角色，抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

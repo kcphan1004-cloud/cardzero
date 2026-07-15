@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:31:44.139Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c68d1ae8ae584504da56",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-049"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "浅倉 透",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "浅仓透",
+    "effectZh": "",
+    "triggerZh": "[Get] 将此卡加入手牌。"
+  }
+}

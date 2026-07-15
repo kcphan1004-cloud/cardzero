@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:00.568Z",
+  "number": "UA48BT/KGD-1-050",
+  "name": "羌瘣",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "秦／飛信隊",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈羌瘣〉アクティブにし、フロントLに移動できる\n[登場時]\n以下から『1つ』選ぶ。自分のターン中で、このキャラが自分の効果で登場していた場合、『2つ』に代わる。\n・相手のフロントLのレイド状態のカードを1枚まで選び、レイド状態の上のカードを1枚場外に置く。\n・必要エナジーが3以下の相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA48BT%2FKGD-1-050",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA48BT%2FKGD-1-050",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:04:56.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa02ea75cef519713498",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-AP01",
+    "UA07ST/TSK-1-AP02",
+    "UA07BT/TSK-1-AP01",
+    "UA07BT/TSK-1-AP02",
+    "UA07BT/TSK-1-AP03",
+    "UA07BT/TSK-1-AP04",
+    "UA07BT/TSK-1-AP05",
+    "UA07BT/TSK-1-AP06"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "アクションポイントカード(転生したらスライムだった件)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（关于我转生变成史莱姆这档事）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

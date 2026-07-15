@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:03:44.462Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5e89571d5c5e832fce32",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-004"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "リスト",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "里斯托",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 以下的角色返回手牌各 1 张。若无法如此操作，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

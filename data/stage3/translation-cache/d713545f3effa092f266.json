@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:25:50.578Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d713545f3effa092f266",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-010"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。それは次の1回アクティブにならない。自分の場外にあるカードを2枚までリムーブエリアに置く。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "桑山 千雪",
+    "effectZh": "[登场时]\n选择对手前线 L 的角色最多 1 张，使其横置。该角色下一次无法激活。将自己场外存在的卡片最多选择 2 张放置到移除区。",
+    "triggerZh": "[Color]\n选择对手前线 L 的角色 1 张，使其横置。该角色下一次无法激活。"
+  }
+}

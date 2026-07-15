@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:14.005Z",
+  "number": "UA49BT/MSS-1-005",
+  "name": "和倉 優希（無窮の鎖・岩融）",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "七番組",
+  "generatedEnergy": "黄色×3",
+  "effect": "自分の場に〈駿河 朱々〉がない場合、このカードはフロントLに〔登場・移動〕できない。\n[自分のターン中]\nこのキャラと同じラインに〈駿河 朱々〉がある場合、このキャラはBP+2000と\n[ダメージ（2）]\n（このキャラがアタックで与える直接ダメージは2ダメージ）を得る。\n[アタック時]\nこのキャラは次の1回アクティブにならない。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-005",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-005",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:41.391Z",
+  "number": "UA23BT/AOT-1-099",
+  "name": "立体機動装置",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引く。自分の手札から必要エナジーが3以下で消費APが1の赤の［特徴：104期兵］を2枚まで自分のフロントLにアクティブで登場させる。それらのキャラにこのターン中、「アタックフェイズ終了時、このキャラを手札に戻す。」を与える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA23BT%2FAOT-1-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

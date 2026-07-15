@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:46:15.662Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cb25f9de9c902b3f556c",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-025"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ダンテ・ゾグラティス",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "丹特·佐格拉提斯",
+    "effectZh": "[登场时]\n从自己的牌库上方抽一张，将其置于自己牌库上方或场外。",
+    "triggerZh": "[激活]\n选择你场上的一个角色并使其处于激活状态，本回合 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:00:34.713Z",
+  "model": "qwen3.5:9b",
+  "unitId": "25b2777671e457df3458",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-031"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "漏瑚",
+    "effect": "[自分のターン中]\nこのターン中にBPが0以下になることか効果によって、キャラが退場している場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "漏瑚",
+    "effectZh": "[自己的回合中]\n当本回合内 BP 降至 0 以下或因效果导致角色退场时，该角色的 BP+1000。",
+    "triggerZh": "[Active]\n选择自己场上的角色最多 1 张并激活，在本回合中 BP+3000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:11:58.701Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a86cd10b6ae8a33ca0cb",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-053"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "アンドレアス・ダールトン",
+    "effect": "[フロントLにある場合]\n自分のフロントLの他のキャラ1枚につき、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "安德烈亚斯·达尔顿",
+    "effectZh": "【前线L】\n每有自己前线 L 的其他角色 1 张，该角色的 BP+500。",
+    "triggerZh": "【激活】\n选择自己场上的 1 枚角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:52:00.692Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3ed8f58d32886897c58",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-016"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "村田",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "村田",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": ""
+  }
+}

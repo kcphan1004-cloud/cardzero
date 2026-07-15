@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:16:42.545Z",
+  "number": "UAPR/JJK-1-105",
+  "name": "宿儺",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "OBC",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈虎杖 悠仁〉アクティブにし、フロントLに移動できる\n[自分のターン中]\n自分の場外に〈宿儺の指〉が1枚以上ある場合、このキャラはBP+1000。2枚以上ある場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。\n[登場時]\nカードを2枚引き、自分の手札を1枚場外に置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FJJK-1-105",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FJJK-1-105",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

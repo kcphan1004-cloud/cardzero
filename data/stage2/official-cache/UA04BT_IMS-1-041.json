@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:25.532Z",
+  "number": "UA04BT/IMS-1-041",
+  "name": "月岡 恋鐘",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "L'Antica",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA04BT%2FIMS-1-041",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA04BT%2FIMS-1-041",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

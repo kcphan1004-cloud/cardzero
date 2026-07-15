@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:06.142Z",
+  "number": "UA06BT/TOA-1-028",
+  "name": "サンダーブレード",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "相手のフロントＬのキャラを1枚選び、レストにする。自分の手札から、イベントカードを1枚場外に置いてもよい。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA06BT%2FTOA-1-028",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA06BT%2FTOA-1-028",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:55.631Z",
+  "number": "UA08BT/BLC-1-075",
+  "name": "吉良 イヅル",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "護廷十三隊",
+  "generatedEnergy": "绿色×2",
+  "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA08BT%2FBLC-1-075",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA08BT%2FBLC-1-075",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 2
+      }
+    ]
+  }
+}

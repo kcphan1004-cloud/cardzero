@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:04:37.538Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5af153350f37ccfbc197",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-016"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "[登场时]\n选择对方前线 L 的角色卡最多 1 张，本回合中，BP-1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

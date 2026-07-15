@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:57:01.357Z",
+  "model": "qwen3.5:4b",
+  "unitId": "279d5f60bce4d3c2157e",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-068",
+    "UA20BT/BCV-1-068"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ユリウス・ノヴァクロノ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤里乌斯·诺瓦克罗诺",
+    "effectZh": "［启动主］\n[变为横置状态]\n[回合 1]\n本回合中，该角色的发生能量+\n[红]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

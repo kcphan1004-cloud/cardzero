@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:42:29.743Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ab2985132d96ca1fcc5c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-007"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "櫻木 真乃",
+    "effect": "[登場時]\n自分の場のキャラ全ては、このターン中、BP+500。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "樱木 真乃",
+    "effectZh": "[登场时]\n自己场上的所有卡，本回合中为 BP+500。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的卡并横置之。它下次无法激活。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:32:24.916Z",
+  "model": "qwen3.5:9b",
+  "unitId": "85e9e3115191af63a0f9",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-051"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "Sv-262Hs ドラケンIII（キース・エアロ・ウィンダミア）",
+    "effect": "このキャラはアクティブで登場させる。\n[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "Sv-262Hs 多拉肯III（基斯·艾罗·温达米亚）",
+    "effectZh": "此角色以激活状态登场。\n[登场时]\n选择对方前线 L 的角色至多 1 枚，本回合中 BP-3000。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

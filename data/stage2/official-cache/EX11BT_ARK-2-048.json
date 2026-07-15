@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:06.997Z",
+  "number": "EX11BT/ARK-2-048",
+  "name": "アーミヤ",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "ロドス・アイランド製薬",
+  "generatedEnergy": "紫色×3",
+  "effect": "[登場時]\n自分の場に〈チェン〉がある場合、以下から1つ選ぶ。\n・カードを1枚引く。\n・自分の場外のカードを2枚までリムーブエリアに置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX11BT%2FARK-2-048",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX11BT%2FARK-2-048",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

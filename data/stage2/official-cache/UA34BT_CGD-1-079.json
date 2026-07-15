@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:52.682Z",
+  "number": "UA34BT/CGD-1-079",
+  "name": "ナラの交渉術",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から4枚見る。その中から必要エナジーが4以下で消費APが1の青の［特徴：ネオ・ブリタニア帝国］を1枚まで自分の場にレストで登場させるかレイドさせる。残りを望む順で自分の山札の下に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA34BT%2FCGD-1-079",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA34BT%2FCGD-1-079",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

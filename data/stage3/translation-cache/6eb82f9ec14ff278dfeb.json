@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:25:40.534Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6eb82f9ec14ff278dfeb",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-048"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "[レイド]\n〈シオン〉アクティブにし、フロントLに移動できる\nこのキャラはフロントLにある場合もエナジーを発生させる。\n[登場時]\n自分の山札の上から2枚見る。その中からカードを1枚手札に加え、残りを場外に置く。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "[Raid] \n〈西恩〉激活，可移动至前线 L\n该角色即使在前线 L 也能产生能量。\n[登场时]\n查看自己牌库上方的 2 张卡。从中选择 1 张加入手牌，其余置入场外。",
+    "triggerZh": "[Raid] \n将此卡加入手牌或满足必要能量时，发动 Raid。"
+  }
+}

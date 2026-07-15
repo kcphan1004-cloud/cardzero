@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:08.600Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef8871ad2a2ecb16807a",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-076"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から必要エナジーが4以下の「〈キルア＝ゾルディック〉か〈クラピカ〉か〈レオリオ〉」を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "古恩＝弗利克斯",
+    "effectZh": "[登场时]\n查看自己牌库上方的5张卡。从中公开必要能量为4以下的「〈奇犽·揍敌客〉或〈派克诺特〉或〈雷欧力〉」至多1张并加入手牌。将剩余的卡以任意顺序置于自己的牌库下方。若加入了手牌，将自己的手牌中1张置入场外。",
+    "triggerZh": ""
+  }
+}

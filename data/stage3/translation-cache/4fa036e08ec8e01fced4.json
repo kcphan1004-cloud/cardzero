@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:54:05.335Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4fa036e08ec8e01fced4",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-081"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ノエル・シルヴァ",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺艾尔·西尔瓦",
+    "effectZh": "［登场时］\n抽一张牌。",
+    "triggerZh": ""
+  }
+}

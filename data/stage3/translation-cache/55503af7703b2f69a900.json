@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:28:49.012Z",
+  "model": "qwen3.5:9b",
+  "unitId": "55503af7703b2f69a900",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-069"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アルフェン",
+    "effect": "[登場時]\nBP4000以下の相手のフロントLのキャラを1枚まで選び、退場させてもよい。そうした場合、自分のライフエリアにあるカードを1枚場外に置く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "阿尔芬",
+    "effectZh": "[登场时]\n从对方 BP4000 以下的 Front L 角色中最多选择 1 枚，可以使其退场。如此做的话，将位于自己生命区的卡 1 张置于场外。",
+    "triggerZh": "[颜色]\n从对方 BP2500 以下的 Front L 角色中选择 1 枚并使其退场。"
+  }
+}

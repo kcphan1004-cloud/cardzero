@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:58:09.082Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2848e7be8451335a6478",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-006"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "黒霧",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\n以下から1つ選ぶ。\n・自分の場のキャラを1枚選び、別のラインに移動させる。\n・自分のフロントLのキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Kurogumo",
+    "effectZh": "[启动主]\n[将手札中的 1 张牌置入场外]\n[回合 1]\n从以下选项中选择 1 个。\n• 选择场上的 1 枚角色，将其移动至不同的线。\n• 分别选择自己的前线 L 的角色和能量线的各 1 枚角色，交换它们的位置。",
+    "triggerZh": ""
+  }
+}

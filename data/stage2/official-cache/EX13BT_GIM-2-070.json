@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:40.434Z",
+  "number": "EX13BT/GIM-2-070",
+  "name": "夏を満喫するわよ！",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "このカードは自分の場に〈花海 咲季〉と〈月村 手毬〉と〈藤田 ことね〉がある場合のみ使用できる。\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-070",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-070",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

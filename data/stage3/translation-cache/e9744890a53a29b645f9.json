@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:33:26.540Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e9744890a53a29b645f9",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-010"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ベニマル",
+    "effect": "[登場時]\n自分のフロントLに他の［特徴：鬼人］が3枚以上ある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "绯丸",
+    "effectZh": "【登场时】\n若自己前线 L 有其他［特征：鬼人］达到 3 枚以上，抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

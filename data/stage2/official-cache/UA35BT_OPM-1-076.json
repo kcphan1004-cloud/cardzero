@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:05.802Z",
+  "number": "UA35BT/OPM-1-076",
+  "name": "ガロウ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2500+",
+  "feature": "-",
+  "generatedEnergy": "红色×3",
+  "effect": "自分の場外にあるカードの枚数により、このキャラは以下の効果を全て得る。\n・5枚以上：このキャラはBP+500。\n・10枚以上：このキャラはBP+500。\n・15枚以上：このキャラはBP+500。\n[登場時]\nAPを1支払ってもよい。そうした場合、このキャラのBP以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA35BT%2FOPM-1-076",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA35BT%2FOPM-1-076",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

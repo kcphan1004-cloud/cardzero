@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:21:24.272Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0ba3d454f694f070147",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-090"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "六車 拳西",
+    "effect": "[アタック時]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "六车拳西",
+    "effectZh": "[攻击时]\n该角色本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

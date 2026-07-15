@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:02:08.760Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa3448f565c78ac7d451",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-027"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "阿散井 恋次",
+    "effect": "[自分のターン中]\n自分のフロントLの元々の消費APが2以上のキャラ1枚につき、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿散井恋次",
+    "effectZh": "[自己的回合中]\n对于自己前线 L 上原本消耗 AP 为 2 以上的每 1 名角色，该角色的 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

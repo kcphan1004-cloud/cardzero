@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:24:08.508Z",
+  "model": "qwen3.5:9b",
+  "unitId": "88c15f3e3de8581df9b1",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-001"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ミーシャ",
+    "effect": "[登場時]\n必要エナジーが0の自分の場のアクティブのキャラを2枚までレストにしてもよい。2枚レストにしなかった場合、このキャラを自分の手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米莎",
+    "effectZh": "[登场时]\n将自身场上最多2张激活状态且必要能量为0的前线角色横置。若未将其全部横置，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

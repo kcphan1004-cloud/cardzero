@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:34.596Z",
+  "number": "UA33BT/NGR-1-063",
+  "name": "ノキエル 天使空挺隊/ノノア",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2000+",
+  "feature": "コスプレ ／天使空挺隊",
+  "generatedEnergy": "蓝色×2",
+  "effect": "自分の場に他の［特徴：天使空挺隊］が3枚以上ある場合、このキャラは発生エナジー+\n[青]\nと「\n[自分のターン中]\nこのキャラはBP+1000。」を得る。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA33BT%2FNGR-1-063",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-063",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 2
+      }
+    ]
+  }
+}

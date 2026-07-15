@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:52:05.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e280b83a6c30d03e4f14",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-059"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "マジカル＊スカイレース",
+    "effect": "カードを1枚引く。相手のフロントLのキャラと、発生エナジーが1以下の相手のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替えてもよい。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "魔法天空竞速赛",
+    "effectZh": "抽 1 张牌。选择对方前线 L 的角色和发生能量为 1 以下的对方能量线 L 的角色各一张，可以交换它们的位置。\n[激活]\n选择自己场上的角色一张，使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

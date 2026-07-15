@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:58:39.661Z",
+  "model": "qwen3.5:9b",
+  "unitId": "26f3b1b75c323100a71e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-058",
+    "UA02BT/JJK-1-058"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "夜蛾 正道",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夜蛾正道",
+    "effectZh": "[启动主]\n[横置状态]\n选择自身场上其他角色一张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:43:49.431Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e7cb1a3337f0b44c7279",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA04NC/BLC-3-008"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "更木 剣八",
+    "effect": "手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。\nこのキャラはBPをマイナスする効果を受けない。\n[自分のターン中]\n相手のフロントLにBP3500以上のキャラがある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "更木 剑八",
+    "effectZh": "将手札中此卡的必要能量\n[绿×1]\n减少。\n该角色不受降低BP的效果影响。\n【自己的回合】\n对方前线L存在BP3500以上的角色的情况下，该角色为BP+1000。",
+    "triggerZh": ""
+  }
+}

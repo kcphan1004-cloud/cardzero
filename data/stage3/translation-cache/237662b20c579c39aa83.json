@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:07:39.778Z",
+  "model": "qwen3.5:9b",
+  "unitId": "237662b20c579c39aa83",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-039"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "飯田 天哉",
+    "effect": "[アタック時]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "饭田 天哉",
+    "effectZh": "[攻击时]\n此角色在本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

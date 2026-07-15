@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:39.098Z",
+  "number": "UA40BT/REZ-1-087",
+  "name": "エミリア",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "王選候補者",
+  "generatedEnergy": "-",
+  "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[登場時]\n自分の場外の〈”聖域”の”試練”〉を1枚リムーブエリアに置いてもよい。そうした場合、このキャラをアクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-087",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-087",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

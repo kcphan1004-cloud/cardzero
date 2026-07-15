@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:47.774Z",
+  "number": "UA52BT/KJN-1-AP07",
+  "name": "アクションポイントカード(陰の実力者になりたくて！)",
+  "color": "-",
+  "type": "行动点卡",
+  "typeJa": "アクションポイント",
+  "rarity": "AP",
+  "cost": 0,
+  "ap": 0,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "",
+  "trigger": "",
+  "officialDetailUrl": "",
+  "sourceUrl": "",
+  "raw": {
+    "syntheticActionPoint": true
+  }
+}

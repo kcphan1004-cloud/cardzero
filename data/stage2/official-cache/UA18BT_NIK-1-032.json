@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:11.505Z",
+  "number": "UA18BT/NIK-1-032",
+  "name": "ご褒美",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分のフロントLのアクティブの〔［特徴：エキゾチック］か［特徴：ワードレス］〕を1枚レストにしてもよい。そうした場合、カードを3枚引く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA18BT%2FNIK-1-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA18BT%2FNIK-1-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

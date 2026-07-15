@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:58.281Z",
+  "number": "UA54BT/MST-1-039",
+  "name": "ルーデウスはすごいのよ！",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "以下から1つ選ぶ。\n・自分の場の〈エリス〉を1枚選び、このターン中、BP+500と\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、その場合ブロックされない）を与える。\n・自分の場に〈エリス〉がある場合、自分の場外から消費APが1の青の〈ルーデウス〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT%2FMST-1-039",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-039",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

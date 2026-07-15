@@ -1,0 +1,26 @@
+{
+  "generatedAt": "2026-07-14T16:49:07.543Z",
+  "seriesArgument": "black-clover",
+  "dryRun": false,
+  "cacheRecords": 129,
+  "invalidCacheFiles": 0,
+  "seriesFiles": 1,
+  "totalRows": 163,
+  "matchedRows": 161,
+  "unmatchedRows": 2,
+  "changedFiles": 1,
+  "series": [
+    {
+      "file": "black-clover.ts",
+      "rows": 163,
+      "matched": 161,
+      "unmatched": 2,
+      "changedRows": 161,
+      "coverage": 0.9877300613496932,
+      "unmatchedNumbers": [
+        "UA20BT/BCV-1-AP01/S",
+        "UA20BT/BCV-1-AP02/S"
+      ]
+    }
+  ]
+}

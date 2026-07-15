@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:19:25.181Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b07ea9bdf5af92cd044d",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-079"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "雀部 長次郎 忠息",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雀部长次郎忠息",
+    "effectZh": "[启动主阶段]\n[将手牌中的1张置入场外]\n[第1回合]\n本回合中，该角色的产生能量+\n[绿]\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

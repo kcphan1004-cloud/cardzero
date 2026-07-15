@@ -1,0 +1,26 @@
+{
+  "number": "UA20BT/BCV-1-008",
+  "name": "ゾラ・イデアーレ",
+  "seriesSlugs": [
+    "black-clover"
+  ],
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-008",
+  "httpStatus": 200,
+  "contentType": "text/html; charset=UTF-8",
+  "contentLength": 7922,
+  "title": "カードリスト｜ユニオンアリーナ｜UNION ARENA",
+  "labelHits": {
+    "カード種類": false,
+    "必要エナジー": false,
+    "消費AP": false,
+    "BP": true,
+    "発生エナジー": false,
+    "特徴": true,
+    "効果": true,
+    "トリガー": true,
+    "レアリティ": false
+  },
+  "labelHitCount": 4,
+  "textPreview": "カードリスト｜ユニオンアリーナ｜UNION ARENA\nゾラ・イデアーレ ぞら・いであーれ\nUA20BT/BCV-1-008 C\nカード画像\nタイトル\n必要\nエナジー\n消費\nAP\n1\nカード\n種類\nキャラクター\nBP\n3500\n特徴\n黒の暴牛\n発生\nエナジー\n効果\n相手が を発動した時、自分の場に他の［特徴：黒の暴牛］がある場合、カードを1枚引く。\nトリガー\n-\nURLをコピー\nURLを\nコピーしました。\n収録商品\nブラッククローバー 【UA20BT】\nカードリスト\n商品情報",
+  "htmlFile": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-008.html"
+}

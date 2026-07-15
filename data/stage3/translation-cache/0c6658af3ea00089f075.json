@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:35:21.467Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c6658af3ea00089f075",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-108"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "紅の鴉のアジト",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分のAＰカードを1枚まで選び、アクティブにする。カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "红鸦的巢穴",
+    "effectZh": "【启动主】\n[置为横置]\n[将此卡退场]\n选择自己的 AP 角色最多 1 张，使其激活。抽 1 张牌。",
+    "triggerZh": "【获取】\n将此卡加入手牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:36:58.668Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6fe4827af2e14c34216d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-073"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "芹沢 あさひ",
+    "effect": "[自分のターン中]\nこのターン中に自分が使用したイベントカード1枚につき、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "芹泽 明日",
+    "effectZh": "[自己的回合中]\n本回合内自己使用的每张事件卡，该角色BP+1000。",
+    "triggerZh": ""
+  }
+}

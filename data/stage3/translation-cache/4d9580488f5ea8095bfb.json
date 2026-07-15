@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:33:13.342Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d9580488f5ea8095bfb",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-052"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ケルシー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯尔希",
+    "effectZh": "当此角色激活时，此角色的发生能量+\n[紫] \n。",
+    "triggerZh": ""
+  }
+}

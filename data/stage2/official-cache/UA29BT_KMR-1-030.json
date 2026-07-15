@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:09.505Z",
+  "number": "UA29BT/KMR-1-030",
+  "name": "祝え！",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から7枚見る。その中からカード名に「ジオウ」を含むキャラカードと\n[レイド]\nを持つ黄以外のカードをそれぞれ1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29BT%2FKMR-1-030",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-030",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:47.660Z",
+  "number": "UA36BT/MCR-1-AP03",
+  "name": "アクションポイントカード(マクロス)",
+  "color": "-",
+  "type": "行动点卡",
+  "typeJa": "アクションポイント",
+  "rarity": "AP",
+  "cost": 0,
+  "ap": 0,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "",
+  "trigger": "",
+  "officialDetailUrl": "",
+  "sourceUrl": "",
+  "raw": {
+    "syntheticActionPoint": true
+  }
+}

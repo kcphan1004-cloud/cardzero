@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:16:13.559Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3639e8e30cce29674181",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-048"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "再来",
+    "effect": "自分の場のキャラを1枚手札に戻す。そうした場合、カードを2枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "再来",
+    "effectZh": "将己方场上的 1 枚角色返回手牌。如此做的话，抽 2 张牌。\n[激活]\n选择自己场上的 1 枚角色并激活，本回合 BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 枚角色并激活，本回合 BP+3000。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:09.350Z",
+  "number": "EX11BT/ARK-2-061",
+  "name": "烈炎の中で",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "このカードは自分の場外にキャラカードがない場合のみ使用できる。\n以下から1つ選ぶ。\n・カードを3枚引く。\n・自分の場の〈アーミヤ〉を1枚まで選び、このターン中、BP+1000と\n[インパクト（+3）]\n（インパクトの与えるダメージが+3され、インパクトを持たない場合、\n[インパクト（3）]\nを得る）を与える。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX11BT%2FARK-2-061",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX11BT%2FARK-2-061",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:46:41.483Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0b24af6ccd354d61a120",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-030"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "今ここで限界を超えろ!!!!",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "现在就突破极限!!!!",
+    "effectZh": "选择至多 2 张你的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若你无生命点数，则从牌库上方抽一张并置于你的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:57:58.112Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e02edd003f9472c84f7c",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02NC/JJK-2-009"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 甚爾",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伏黑甚尔",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:26:50.895Z",
+  "model": "qwen3.5:9b",
+  "unitId": "424d040ae8a7f65ba7f7",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-005"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[登場時]\n自分の手札を2枚場外に置いてもよい。そうした場合、自分の山札の上から3枚見る。その中からカードを2枚まで手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "【登场时】\n可以将自己的手牌最多 2 张置于场外。如此做的话，查看自己山札上方的 3 张卡。从中选择最多 2 张加入手牌。将剩余的按任意顺序放置于自己山札下方。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

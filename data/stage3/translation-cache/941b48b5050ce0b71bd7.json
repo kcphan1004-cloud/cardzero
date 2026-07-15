@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:15:46.891Z",
+  "model": "qwen3.5:9b",
+  "unitId": "941b48b5050ce0b71bd7",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-109"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "仲間",
+    "effect": "自分の山札の上から5枚見る。その中から〈竈門 炭治郎〉か〈竈門 禰󠄀豆子〉か〈我妻 善逸〉か〈嘴平 伊之助〉を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "同伴",
+    "effectZh": "查看自己牌库上方的 5 张卡。从中公开最多 2 张〈灶门炭治郎〉或〈灶门祢豆子〉或〈我妻善逸〉或〈嘴平伊之助〉并加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。",
+    "triggerZh": ""
+  }
+}

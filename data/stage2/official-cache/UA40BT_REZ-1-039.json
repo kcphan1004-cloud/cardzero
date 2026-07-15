@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:30.929Z",
+  "number": "UA40BT/REZ-1-039",
+  "name": "ナツキ・スバル",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-039",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-039",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "blue",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

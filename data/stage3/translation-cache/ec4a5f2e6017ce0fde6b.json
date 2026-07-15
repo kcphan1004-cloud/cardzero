@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:53:34.806Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ec4a5f2e6017ce0fde6b",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-066"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "黛 冬優子",
+    "effect": "このキャラはアクティブで場に登場させる。\n[アタック時]\n自分の山札の上から3枚見る。その中から必要エナジーが4以下で赤の〔［特徴：Straylight］かイベントカード〕を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "黛冬优子",
+    "effectZh": "登场时：\n以激活状态将本角色登场到场上。\n【攻击时】\n查看自己牌库上方的 3 张卡。从中公开最多 1 张能量为 4 以下且带有［特征：Straylight］或是事件卡的〔［特征：Straylight］或事件〕，加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

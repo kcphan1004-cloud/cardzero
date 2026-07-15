@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:04.192Z",
+  "number": "UA03BT/HTR-1-045",
+  "name": "フェイタン",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "3500",
+  "feature": "幻影旅団",
+  "generatedEnergy": "紫色×3",
+  "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、『BP-2000』。自分のライフが4以下の場合、『BP-3000』に代わる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA03BT%2FHTR-1-045",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA03BT%2FHTR-1-045",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

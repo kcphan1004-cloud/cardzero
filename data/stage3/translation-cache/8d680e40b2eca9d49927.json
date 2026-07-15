@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:57:58.110Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8d680e40b2eca9d49927",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02NC/JJK-2-008"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "七海 建人",
+    "effect": "[退場時]\n自分の山札の上から1枚を場外に置いてもよい。そうした場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "七海建人",
+    "effectZh": "[退场时]\n你可以将对方山牌上方的一张卡置入场外。如此做的话，选择自己场上最多一张角色，本回合中，BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

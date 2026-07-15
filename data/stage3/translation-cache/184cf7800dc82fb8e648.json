@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:38:59.562Z",
+  "model": "qwen3.5:9b",
+  "unitId": "184cf7800dc82fb8e648",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-069"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラと同じラインに\n[2回ブロック]\nを持つキャラがある場合のみ発動できる。このキャラはこのターン中、\n[ダメージ（2）]\nを得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "【启动主】\n【回合 1】\n只有当本角色所在的战线上存在拥有\n[阻挡（2）]\n的角色时才能发动。在本回合中，\n该角色受到\n[伤害（2）]。",
+    "triggerZh": "抽牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:24:54.641Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65d8175e4bfb87588185",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-109"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ジンの写真",
+    "effect": "自分の山札の上から5枚見る。その中からキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。公開したカードが〈ゴン＝フリークス〉の場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "金的照片",
+    "effectZh": "查看自己牌库上方 5 张卡。从中公开最多 1 张角色卡加入手牌，将剩余的按任意顺序置于自己的牌库下方。若公开的卡片为〈贡＝疯子〉，则抽 1 张牌。",
+    "triggerZh": "[登场时]\n抽 1 张牌。"
+  }
+}

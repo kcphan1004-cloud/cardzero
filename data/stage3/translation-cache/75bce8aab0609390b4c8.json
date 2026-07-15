@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:36:08.421Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75bce8aab0609390b4c8",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-070"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ARKAN",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "ARKAN",
+    "effectZh": "选择最多 2 张自己的 AP 卡片并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取一张卡放置于自己的生命区域。"
+  }
+}

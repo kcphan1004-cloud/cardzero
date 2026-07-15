@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:18:20.695Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0785f9117bc02a217e07",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-089"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "リヴァル・カルデモンド",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "里瓦尔·卡尔德蒙德",
+    "effectZh": "[登场时]\n将自己场上必要能量为 1 以下的其他角色最多 1 张返回手札。若无法返回，则将该角色返回手札。",
+    "triggerZh": ""
+  }
+}

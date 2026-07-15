@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:39.478Z",
+  "number": "EX09BT/TSK-2-036",
+  "name": "ミョルマイル",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "-",
+  "generatedEnergy": "紫色×3",
+  "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の山札の上から4枚見る。その中から1枚まで自分の山札の上に置き、残りを望む順で下に置く。\n・自分の山札の上から1枚見て、見たカードが〈リムル〉か必要エナジーが4のキャラカードの場合、公開し手札に加えてもよい。手札に加えない場合、そのカードを自分の山札の上か下に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX09BT%2FTSK-2-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX09BT%2FTSK-2-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

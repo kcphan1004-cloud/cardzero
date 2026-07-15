@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:28:49.014Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f4089b845d8818d4675",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-071"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "キサラ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "基萨拉",
+    "effectZh": "[冲击无效化]\n（与此角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

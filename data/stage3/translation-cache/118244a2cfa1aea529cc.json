@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:57:02.839Z",
+  "model": "qwen3.5:9b",
+  "unitId": "118244a2cfa1aea529cc",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-046",
+    "UA07BT/TSK-1-046"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "トレイニー",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特雷尼",
+    "effectZh": "[登场时]\n将自身场上除外的必要能量为 1 以下的其他角色卡最多 1 张返回手札。若无法如此操作，则将此角色返回手札。",
+    "triggerZh": ""
+  }
+}

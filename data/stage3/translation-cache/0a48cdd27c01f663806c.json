@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:35:03.666Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0a48cdd27c01f663806c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-061"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "かっとばし党の長い夏",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に異なるカード名を持つ［特徴：noctchill］が3種類以上ある場合、『相手の山札の下に置く』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "一飞冲天派的漫长夏日",
+    "effectZh": "选择对方前线 L 的 BP5000 以下的角色 1 张，『返回手牌』。当自己场上有 3 种以上不同卡名的［特征：noctchill］时，改为『置于对方的山札下方』。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 张并使其退场。"
+  }
+}

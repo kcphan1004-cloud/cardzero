@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:13:28.185Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e9b66e91e98c74dab3ff",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-003"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "【登场时】\n抽 1 张牌，将自身手札中的 1 张置入场外。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

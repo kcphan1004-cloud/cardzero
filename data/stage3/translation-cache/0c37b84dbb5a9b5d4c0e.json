@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:04:56.728Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c37b84dbb5a9b5d4c0e",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-001"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "アズギアロ・イーバーン",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿兹吉亚罗·伊文",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": ""
+  }
+}

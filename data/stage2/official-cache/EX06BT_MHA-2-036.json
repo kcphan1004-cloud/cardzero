@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:59.771Z",
+  "number": "EX06BT/MHA-2-036",
+  "name": "友だち",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "このカードは自分の場に〈緑谷 出久〉以外の［特徴：A組］が3枚以上ある場合のみ使用できる。\n以下から2つまで選ぶ。\n・相手のフロントLのキャラを1枚まで選び、レストにする。\n・自分の手札から必要エナジーを満たし消費APが1の黄の［特徴：A組］を1枚まで自分の場にアクティブで登場させるかレイドさせる。\n・自分の場のキャラ全ては、このターン中、BP+1000。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX06BT%2FMHA-2-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

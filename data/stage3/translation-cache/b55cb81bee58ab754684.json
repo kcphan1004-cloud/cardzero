@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:13:28.190Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b55cb81bee58ab754684",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-006"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "愈史郎",
+    "effect": "自分の場に〈珠世〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "愈史郎",
+    "effectZh": "若自方场上有〈珠世〉，此角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

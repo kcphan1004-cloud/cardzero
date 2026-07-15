@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:40:54.871Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5e674773a8be0062fb5f",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-010"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ネロ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "涅罗",
+    "effectZh": "[激活主效果]\n变为横置状态\n第 1 回合中，本角色的发生能量 +\n。当主要阶段结束时，使该角色退场。",
+    "triggerZh": ""
+  }
+}

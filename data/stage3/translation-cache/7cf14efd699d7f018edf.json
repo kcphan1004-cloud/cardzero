@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:46:48.891Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7cf14efd699d7f018edf",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-032"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甜花",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：ALSTROEMERIA］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大崎甜花",
+    "effectZh": "[登场时]\n查看自己的山札上方最多 3 张。从中选择拥有［特征：ALSTROEMERIA］的角色卡最多 1 枚公开并加入手牌，其余的按任意顺序置于自己山札下方。若加入了手牌，则将自己手牌中的角色卡 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

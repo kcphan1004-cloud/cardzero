@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:36:18.488Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6e70377c28c2efd6408",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-045"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "千葉 凪沙",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "千叶凪沙",
+    "effectZh": "【冲击无效】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": ""
+  }
+}

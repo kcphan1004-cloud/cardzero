@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:06:39.723Z",
+  "model": "qwen3.5:9b",
+  "unitId": "73b4a6b163315a32bda6",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-032"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "好きにやろう",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "随心所欲吧",
+    "effectZh": "选择自己的 AP 卡片最多 2 枚并使其处于激活状态。\n\n[最终]\n如果自己没有生命值，则从自己山札上方将 1 张置入自己的生命区域。",
+    "triggerZh": "[最终]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:54.315Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b8d3ad832c56ab405445",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-087"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ハンゾー",
+    "effect": "[アタック時]\n以下から1つ選ぶ。\n・このキャラはこのターン中、BP+1000。\n・このキャラはこのターン中、\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "汉索",
+    "effectZh": "[攻击时]\n从以下效果中选择 1 个。\n・该角色在本回合中 BP+1000。\n・该角色在本回合中，\n[伤害（2）]\n（当该角色通过攻击直接造成伤害时，代替造成 2 点伤害）。",
+    "triggerZh": ""
+  }
+}

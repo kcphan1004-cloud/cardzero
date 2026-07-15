@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:59.413Z",
+  "number": "PC01BT/IMS-3-036",
+  "name": "鈴木 羽那",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "CoMETIK",
+  "generatedEnergy": "紫色×1",
+  "effect": "このカードが自分の紫の［特徴：CoMETIK］の効果でリムーブエリアに置かれた時、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。〈鈴木 羽那〉のこの効果でこのターン中に既に選んだキャラは選べない。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC01BT%2FIMS-3-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC01BT%2FIMS-3-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "purple",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

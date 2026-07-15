@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:07:14.917Z",
+  "model": "qwen3.5:9b",
+  "unitId": "94075082229841e6822d",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-031"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ジャジャン拳",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ゴン＝フリークス〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "贾江拳",
+    "effectZh": "选择对方前线 L 的 [BP3000以下] 的角色 1 张，使其退场。若我方场上有〈贡＝弗利克斯〉存在，则改为 [BP5000以下]。\n[触发]\n选择对方前线 L 的角色 1 张，使其退场。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 张，使其退场。"
+  }
+}

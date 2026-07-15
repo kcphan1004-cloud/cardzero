@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:32:43.589Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d7d96987a125f2f7f35d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-050"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "浅倉 透",
+    "effect": "[登場時]\n自分の手札の［特徴：noctchill］を1枚場外に置いてもよい。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "浅仓透",
+    "effectZh": "【登场时】\n可以将自己手牌中 1 张［特征：noctchill］置于场外。如此做的情况下，选择最多 1 张自己的 AP 卡并激活它。",
+    "triggerZh": ""
+  }
+}

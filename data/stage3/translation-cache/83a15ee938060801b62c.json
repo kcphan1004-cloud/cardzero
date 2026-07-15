@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:06:39.720Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83a15ee938060801b62c",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-030"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "哀れな行進",
+    "effect": "自分の場に〈トゥワイス〉がない場合、このカードは使用できない。\n自分の手札か自分の場外から必要エナジーが2以下で消費APが1の〈トゥワイス〉を望む枚数自分の場にアクティブで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "可悲的行进",
+    "effectZh": "如果自己的场上不存在〈双修〉，则无法使用此卡。\n\n从手札或场外选择必要能量为 2 以下且消耗 AP 为 1 的具有特征“双修”的卡片数量，将其作为激活状态登场于自己场上的对应张数。",
+    "triggerZh": ""
+  }
+}

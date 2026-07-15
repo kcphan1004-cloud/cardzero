@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:07.265Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d558424fa1c075f4d5af",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-098"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ホラーハウス",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。相手のライフが4以下の場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "恐怖屋",
+    "effectZh": "选择对方前线 L 的 1 名角色使其退场，且该角色的 BP 为 3000 以下。若对方的生命值为 4 或更低，则改为使 BP 为 5000 以下的角色退场。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 名角色使其退场。"
+  }
+}

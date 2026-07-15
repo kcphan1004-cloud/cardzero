@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:44:22.772Z",
+  "model": "qwen3.5:9b",
+  "unitId": "332f7331a2fa9a873265",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-055"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シオン",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "[启动主]\n[位于前线L时]\n[回合 1]\n选择对方场上 BP1500 以上的角色最多 1 张，本回合中，BP-1000。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 BP3500 以下的角色最多 1 张，返回手牌。"
+  }
+}

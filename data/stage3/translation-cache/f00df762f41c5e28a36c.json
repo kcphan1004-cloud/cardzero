@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:42:33.189Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f00df762f41c5e28a36c",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-054"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "紫克衆",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "紫克众",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中失去\n[冲击]\n）",
+    "triggerZh": ""
+  }
+}

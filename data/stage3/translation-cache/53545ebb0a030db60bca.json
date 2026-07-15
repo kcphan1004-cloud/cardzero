@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:37:19.415Z",
+  "model": "qwen3.5:9b",
+  "unitId": "53545ebb0a030db60bca",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-048"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "暁 直参仕様",
+    "effect": "[レイド]\n［特徴：四聖剣］アクティブにし、フロントLに移動できる\n[登場時]\n自分の場外から必要エナジーが2以下の〔［特徴：四聖剣］か〈藤堂 鏡志朗〉〕を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "晓 直参仕様",
+    "effectZh": "[Raid]\n［特征：四圣剑］激活，并可以移动到前线 L\n[登场时]\n从自己场外选择最多 1 张能量为 2 以下的〔［特征：四圣剑］或〈藤堂 镜志朗〉〕加入手牌。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

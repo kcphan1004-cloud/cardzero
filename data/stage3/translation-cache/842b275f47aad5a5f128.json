@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:32:53.209Z",
+  "model": "qwen3.5:9b",
+  "unitId": "842b275f47aad5a5f128",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-031"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "イカルガ",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場の［特徴：黒の騎士団］を1枚選び、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "伊卡尔加",
+    "effectZh": "此场地以激活状态登场。\n[启动主]\n[变为横置]\n选择自己场上的［特征：黑色骑士团］至多 1 张，本回合中 BP+500。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

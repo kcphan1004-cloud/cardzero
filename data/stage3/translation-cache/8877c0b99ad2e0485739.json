@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:08:15.570Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8877c0b99ad2e0485739",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-019"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "姫崎 莉波",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、［特徴：3年生］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姬崎莉波",
+    "effectZh": "[登场时]\n查看自己牌库上方 4 张，公开［特征：三年级］最多 1 张并加入手牌。其余按任意顺序放回牌库下方。若加入了手牌，将自身手牌中 1 张放至场外。",
+    "triggerZh": ""
+  }
+}

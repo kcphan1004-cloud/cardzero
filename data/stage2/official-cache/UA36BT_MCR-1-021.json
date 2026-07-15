@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:17.577Z",
+  "number": "UA36BT/MCR-1-021",
+  "name": "ランカ・リー",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "このキャラはアクティブで場に登場させる。\n[登場時]\n以下から1つ選ぶ。\n・カードを2枚引き、自分の手札を2枚場外に置く。\n・自分の場外の黄の［特徴：歌（ランカ）］のカード名の種類数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-021",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-021",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

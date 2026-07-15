@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:34:33.308Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c89e074842d112a97a14",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-101"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アルフェン",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラはこのターン中、BP+1000。自分のライフエリアにあるカードを1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿尔芬",
+    "effectZh": "[启动主]\n[回合 1]\n该角色本回合中 BP+1000。\n将自身生命区的一张卡置于场外。",
+    "triggerZh": "[激活]\n选择自身场上一张角色并将其激活，本回合中 BP+3000。"
+  }
+}

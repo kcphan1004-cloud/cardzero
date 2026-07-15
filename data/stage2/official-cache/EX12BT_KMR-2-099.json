@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:28.338Z",
+  "number": "EX12BT/KMR-2-099",
+  "name": "アドベント",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "アドベントカード",
+  "generatedEnergy": "-",
+  "effect": "以下から1つ選ぶ。\n・カードを1枚引き、自分の手札を1枚場外に置く。その後、自分の場外から［特徴：ミラーモンスター］を1枚まで自分の場にレストで登場させる。\n・自分の場の［特徴：ミラーモンスター］を1枚まで選び、そのキャラの\n[登場時]\nを発動する。自分のAPカードを1枚アクティブにする。",
+  "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

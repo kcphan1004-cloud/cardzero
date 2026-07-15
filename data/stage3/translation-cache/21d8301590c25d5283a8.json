@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:59:41.991Z",
+  "model": "qwen3.5:9b",
+  "unitId": "21d8301590c25d5283a8",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-076"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "通りすがりの仮面ライダーだ",
+    "effect": "自分の山札の上から6枚見て、カード名に「ディケイド」を含む緑のキャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "路过的假面骑士啊",
+    "effectZh": "查看自己山札上方的 6 张卡，公开最多 1 张卡名包含「Decade」的绿色角色卡片并加入手牌。将剩余的按任意顺序放回山札下方。抽 1 张牌。",
+    "triggerZh": "抽牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:12:23.129Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c986b945fdaaae2a2491",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-1-017"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "伊黒 小芭内",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊黒 小芭内",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

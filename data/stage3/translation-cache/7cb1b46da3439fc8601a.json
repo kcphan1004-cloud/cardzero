@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:51:02.867Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7cb1b46da3439fc8601a",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-061"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "緑谷 出久",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绿谷出久",
+    "effectZh": "[登场时]\n选择自己场上的角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

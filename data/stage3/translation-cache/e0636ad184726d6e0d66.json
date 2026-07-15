@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:44:37.730Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0636ad184726d6e0d66",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-056"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "カニオ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡尼奥",
+    "effectZh": "【退场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

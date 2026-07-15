@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:51:07.926Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69d354daedfae2d7cd67",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-007"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 炭治郎",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "灶门 炭治郎",
+    "effectZh": "[登场时]\n选择对方前线 L BP3000 以下的角色至多1张，使其退场。",
+    "triggerZh": "[颜色]\n选择对方的前线 L 的角色至多1张，将其横置状态。它下一次激活不会生效。"
+  }
+}

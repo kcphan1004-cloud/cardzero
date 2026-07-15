@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:26:29.728Z",
+  "model": "qwen3.5:9b",
+  "unitId": "206480c0b06865f33502",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-056"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "リンウェル",
+    "effect": "[レイド]\n〈リンウェル〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを2枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "林维尔",
+    "effectZh": "【Raid】\n〈林维尔〉处于激活状态，可移动至前线L\n【登场时】\n抽2张牌。",
+    "triggerZh": "【获取】\n将这张卡加入手牌。"
+  }
+}

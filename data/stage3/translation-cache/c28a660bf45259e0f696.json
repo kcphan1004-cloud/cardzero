@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:13:41.967Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c28a660bf45259e0f696",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-036"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビスケのご飯",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "比司吉的便当",
+    "effectZh": "选择自己的 AP 卡最多 2 张并激活。",
+    "triggerZh": "[最终]\n若自己没有生命，从自己牌库上方取 1 张置于自己的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:07.266Z",
+  "model": "qwen3.5:9b",
+  "unitId": "688dcfe97099106e8594",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-099"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "巨大ピザ",
+    "effect": "自分の場のキャラを1枚選び、このターン中、BP+1000。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巨大披萨",
+    "effectZh": "选择自己场上的 1 张角色，本回合中 BP+1000。选择最多 1 张自己的 AP 卡并激活之。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

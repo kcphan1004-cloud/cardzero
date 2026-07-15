@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:14.760Z",
+  "number": "UA45BT/TLR-1-071",
+  "name": "ララ・サタリン・デビルーク",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA45BT%2FTLR-1-071",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA45BT%2FTLR-1-071",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "red",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

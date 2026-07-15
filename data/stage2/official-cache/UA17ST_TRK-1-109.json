@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:06.027Z",
+  "number": "UA17ST/TRK-1-109",
+  "name": "センチュリースープ",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "-",
+  "feature": "食材",
+  "generatedEnergy": "-",
+  "effect": "カードを4枚引き、自分の手札を1枚場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA17ST%2FTRK-1-109",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA17ST%2FTRK-1-109",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

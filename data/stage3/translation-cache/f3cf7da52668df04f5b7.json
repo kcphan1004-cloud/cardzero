@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:00:20.127Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f3cf7da52668df04f5b7",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-AP01",
+    "UA02ST/JJK-1-AP02",
+    "UA02BT/JJK-1-AP01",
+    "UA02BT/JJK-1-AP02",
+    "UA02BT/JJK-1-AP03",
+    "UA02BT/JJK-1-AP04",
+    "UA02BT/JJK-1-AP05",
+    "UA02BT/JJK-1-AP06",
+    "EX04BT/JJK-3-AP01",
+    "EX04BT/JJK-3-AP02",
+    "EX04BT/JJK-3-AP03",
+    "EX04BT/JJK-3-AP04",
+    "EX04BT/JJK-3-AP05",
+    "UA02NC/JJK-2-AP01"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "アクションポイントカード(呪術廻戦)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（咒术回战）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

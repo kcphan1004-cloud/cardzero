@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:03:44.464Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1b4510027f7c690024cb",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-005"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レイザー",
+    "effect": "[自分のターン中]\n自分の場の［特徴：念獣］と自分の場のキャラの下の裏向きのカードが合計2枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "雷泽",
+    "effectZh": "[在自己的回合中]\n当自身场上存在［特征：念兽］且位于该角色下方的里向卡合计 2 张以上时，此角色的 BP+1000。",
+    "triggerZh": "[获取]\n将此牌加入手牌。"
+  }
+}

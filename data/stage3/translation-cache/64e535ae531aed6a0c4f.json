@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:52:05.489Z",
+  "model": "qwen3.5:9b",
+  "unitId": "64e535ae531aed6a0c4f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-062"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "芹沢 あさひ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "芹泽 明日香",
+    "effectZh": "[阶段]\n（在自己的移动阶段可从前线 L 移动到能量线）",
+    "triggerZh": "[抽]"
+  }
+}

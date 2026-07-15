@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:54.148Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bcffc105095a94d62440",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-102"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "浦原 喜助",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "浦原喜助",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的一个角色，将其激活，本回合中 BP+3000。"
+  }
+}

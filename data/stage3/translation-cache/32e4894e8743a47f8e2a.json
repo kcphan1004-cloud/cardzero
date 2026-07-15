@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:20:22.569Z",
+  "model": "qwen3.5:9b",
+  "unitId": "32e4894e8743a47f8e2a",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-019"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ピナ",
+    "effect": "[自分のターン中]\n自分の場に〈シリカ〉がある場合、このキャラはBP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "皮纳",
+    "effectZh": "[自己回合中]\n若自己场上有〈希兹克利夫〉，此角色 BP+2000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

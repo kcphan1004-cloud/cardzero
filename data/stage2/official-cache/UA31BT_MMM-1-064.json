@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:58.507Z",
+  "number": "UA31BT/MMM-1-064",
+  "name": "ティロ・デュエット",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "『BP2000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場の［特徴：ピュエラ・マギ・ホーリー・クインテット］1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA31BT%2FMMM-1-064",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-064",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

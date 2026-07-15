@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:57:12.815Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7bc106dd978fdf66f2b6",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-064"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーディケイド",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Decade",
+    "effectZh": "【登场时】\n抽 1 张牌，并将自己的手札中最多 1 张置于场外。\n\n注：原文“自分の手札を1枚場外に置く”直译为“将手札中的 1 张置于场外”，通常指弃置或移出游戏区。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

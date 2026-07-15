@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:57.535Z",
+  "number": "UA44BT/EVA-1-093",
+  "name": "作戦室（ヤシマ作戦）",
+  "color": "红色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "红色×3",
+  "effect": "[登場時]\n自分の山札の上から5枚見る。その中からカード名に「零号機」か「初号機」を含むキャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。\n[起動メイン]\n[ターン1]\n自分のエナジーLのカードを1枚選び、アクティブにする。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA44BT%2FEVA-1-093",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA44BT%2FEVA-1-093",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

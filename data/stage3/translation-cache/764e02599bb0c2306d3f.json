@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:31:44.138Z",
+  "model": "qwen3.5:9b",
+  "unitId": "764e02599bb0c2306d3f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-048"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "幽谷 霧子",
+    "effect": "[登場時]\nカードを1枚引く。自分の場の［特徴：L'Antica］を1枚まで選び、次の相手のターン中、BP+3000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "幽谷 雾子",
+    "effectZh": "【登场时】\n抽 1 张牌。选择自己场上的［特征：L'Antica］最多 1 枚，直到下回合对方为止，BP+3000。",
+    "triggerZh": "【Draw】\n抽 1 张牌。"
+  }
+}

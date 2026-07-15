@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:47:55.932Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a18a084f650dd0ae5da4",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-076"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "モツオ",
+    "effect": "自分の場に\n[インパクト]\nか\n[ダメージ]\nを持つキャラがある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "茂夫",
+    "effectZh": "自身场上有\n[冲击]\n或\n[伤害]\n的角色时，该角色的 BP+1000。",
+    "triggerZh": "[激活]\n选择自身场上的角色 1 枚并使其处于激活状态，在本回合中，BP+3000。"
+  }
+}

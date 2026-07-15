@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-15T13:11:48.137Z",
+  "unitId": "ac6eec51c206c849dbeb",
+  "cardNumbers": [
+    "EX01BT/HTR-2-027"
+  ],
+  "error": "EX01BT/HTR-2-029 缺少中文 Trigger。"
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:43.194Z",
+  "number": "EX09BT/TSK-2-058",
+  "name": "料理人",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "このカードは自分の場に〈シオン〉がある場合のみ使用できる。\nBP5000以下の相手のフロントLのキャラを1枚選び、以下から1つ選ぶ。\n・次の自分のターン開始時まで、選んだキャラの元々の効果を全て失わせる。\n・選んだキャラを退場させる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX09BT%2FTSK-2-058",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX09BT%2FTSK-2-058",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

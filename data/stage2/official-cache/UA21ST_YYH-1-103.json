@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:08.253Z",
+  "number": "UA21ST/YYH-1-103",
+  "name": "浦飯 幽助",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈浦飯 幽助〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを2枚引き、自分の手札を1枚場外に置く。\n[アタック時]\n以下から1つ選ぶ。\n・自分の場のキャラを1枚まで選び、自分の山札の上から1枚を裏向きでそのキャラの下に置く。\n・このキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA21ST%2FYYH-1-103",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA21ST%2FYYH-1-103",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

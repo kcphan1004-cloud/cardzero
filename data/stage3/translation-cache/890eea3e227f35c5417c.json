@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:17:25.760Z",
+  "model": "qwen3.5:9b",
+  "unitId": "890eea3e227f35c5417c",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-080"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "シャーリー・フェネット",
+    "effect": "[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夏莉·菲内特",
+    "effectZh": "[启动主阶段]\n[横置]\n抽 1 张牌，将自己的手牌中 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

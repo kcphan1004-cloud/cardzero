@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:38.161Z",
+  "number": "UA23BT/AOT-1-080",
+  "name": "サシャ・ブラウス",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "104期兵／リヴァイ班",
+  "generatedEnergy": "红色×1",
+  "effect": "[登場時]\n自分の山札の上から7枚見る。その中から［特徴：食材］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA23BT%2FAOT-1-080",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-080",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

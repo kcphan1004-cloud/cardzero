@@ -1,0 +1,26 @@
+{
+  "number": "UA20BT/BCV-1-004",
+  "name": "アスタ",
+  "seriesSlugs": [
+    "black-clover"
+  ],
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-004",
+  "httpStatus": 200,
+  "contentType": "text/html; charset=UTF-8",
+  "contentLength": 8774,
+  "title": "カードリスト｜ユニオンアリーナ｜UNION ARENA",
+  "labelHits": {
+    "カード種類": false,
+    "必要エナジー": true,
+    "消費AP": false,
+    "BP": true,
+    "発生エナジー": false,
+    "特徴": true,
+    "効果": true,
+    "トリガー": true,
+    "レアリティ": false
+  },
+  "labelHitCount": 5,
+  "textPreview": "カードリスト｜ユニオンアリーナ｜UNION ARENA\nアスタ あすた\nUA20BT/BCV-1-004 SR\nカード画像\nタイトル\n必要\nエナジー\n消費\nAP\n1\nカード\n種類\nキャラクター\nBP\n4000\n特徴\n黒の暴牛\n発生\nエナジー\n効果\n〈アスタ〉アクティブにし、フロントLに移動できる\n自分の場に他の［特徴：黒の暴牛］が4枚以上ある場合、このキャラは を得る。\nこのキャラとバトルをしたキャラはこのバトル中、 を失う。\n自分の手札の［特徴：黒の暴牛］を1枚場外に置いてもよい。そうした場合、このキャラのレイド元のカードを1枚まで自分のフロントLにレストで登場させてもよい。\nトリガー\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。\nURLをコピー\nURLを\nコピーしました。\n収録商品\nブラッククローバー 【UA20BT】\nカードリスト\n商品情報\nQ&A\nQ879 2024.04.19 更新\n「このキャラのレイド元のカード」とは何を指しますか？\n下に表向きのカードがある状態の、このキャラクターのレイド元として指定されているカードを指します。",
+  "htmlFile": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-004.html"
+}

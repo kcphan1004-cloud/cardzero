@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:03:41.859Z",
+  "model": "qwen3.5:9b",
+  "unitId": "be37da6a1eefda7f7683",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-007"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[登場時]\nカードを1枚引く。このターン中に消費APが2のカードを使用している場合、さらにカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "【登场时】\n抽 1 张牌。本回合中使用了消耗 AP 为 2 的卡片的情况下，再额外抽 1 张牌。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

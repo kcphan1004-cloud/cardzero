@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:29:26.376Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e5c53008f2b02ad27693",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-062"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "longing",
+    "effect": "カードを2枚引き、自分の手札を2枚場外に置く。自分の場に〈ユナ〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "渴望",
+    "effectZh": "抽牌 2 张并将自己的手牌 2 张置于场外。若自己场上有〈尤娜〉，选择最多 1 张自己的 AP 卡并将其激活。",
+    "triggerZh": "[抽取]\n抽牌 1 张。"
+  }
+}

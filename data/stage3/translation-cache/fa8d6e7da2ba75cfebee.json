@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:30:00.265Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa8d6e7da2ba75cfebee",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-109"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "黒の騎士団",
+    "effect": "自分の山札の上から3枚見る。その中から［特徴：黒の騎士団］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑色骑士团",
+    "effectZh": "查看自己牌库上方的 3 张卡。从中公开最多 2 张［特征：黑色骑士团］加入手牌。将剩余的按任意顺序放回自己的牌库下方。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

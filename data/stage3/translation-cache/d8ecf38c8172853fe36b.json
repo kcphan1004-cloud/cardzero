@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:41:31.853Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d8ecf38c8172853fe36b",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-014"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "マグナ・スウィング",
+    "effect": "[登場時]\n自分の場に他の［特徴：黒の暴牛］がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛格纳·斯温格",
+    "effectZh": "[登场时]\n若你的场上有其他［特征：黑之暴牛］，抽一张牌并将你的手札中一张卡置于场外。",
+    "triggerZh": ""
+  }
+}

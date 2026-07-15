@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:06:18.224Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fdf9b9dd0eba2b07b6fe",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-030"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "同行",
+    "effect": "自分の場のキャラを望む枚数選び、別のラインに移動させるか入れ替える。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "同行",
+    "effectZh": "选择自己场上的任意数量的角色，将其移动至其他线或进行交换。\n抽 1 张牌。",
+    "triggerZh": "【抽】\n抽 1 张牌。"
+  }
+}

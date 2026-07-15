@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:03:18.873Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10af7e5713ddbf2fe5bf",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-068"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "我妻 善逸",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "我妻善逸",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡加入手牌。"
+  }
+}

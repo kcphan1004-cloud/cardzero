@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:28.578Z",
+  "number": "UA46BT/KGR-1-069",
+  "name": "美原 多福",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "神奈備",
+  "generatedEnergy": "红色×3",
+  "effect": "[起動メイン]\n[ターン1]\nこのキャラが登場したターン中のみ発動できる。BP3000以下の相手のフロントLのキャラを1枚と、自分のフロントLの〈香刈 緋雪〉を1枚選ぶ。選んだ相手のキャラはこのターン中、選んだ〈香刈 緋雪〉のアタックを可能ならブロックしなければならない。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-069",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-069",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

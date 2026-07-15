@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:08.476Z",
+  "number": "UA29BT/KMR-1-024",
+  "name": "仮面ライダーアークゼロ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "滅亡迅雷.net",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\nカードを2枚引き、自分の手札を2枚場外に置く。その後、『BP2000』以下の相手のフロントLのキャラを1枚まで選び、退場させる。この効果で場外に置いた［特徴：滅亡迅雷.net］1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29BT%2FKMR-1-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

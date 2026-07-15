@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:15:19.865Z",
+  "model": "qwen3.5:9b",
+  "unitId": "17c560154c76ccf3b363",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-054"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ピーク・フィンガー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "皮克·芬格尔",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

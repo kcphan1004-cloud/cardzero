@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:28:13.022Z",
+  "model": "qwen3.5:9b",
+  "unitId": "77b6e09de3d9c1a9b830",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-AP01",
+    "UA08ST/BLC-1-AP02",
+    "UA08BT/BLC-1-AP01",
+    "UA08BT/BLC-1-AP02",
+    "UA08BT/BLC-1-AP03",
+    "UA08BT/BLC-1-AP04",
+    "UA08BT/BLC-1-AP05",
+    "UA08BT/BLC-1-AP06",
+    "EX07BT/BLC-2-AP01",
+    "EX07BT/BLC-2-AP02",
+    "EX07BT/BLC-2-AP03",
+    "EX07BT/BLC-2-AP04",
+    "EX07BT/BLC-2-AP05",
+    "UA04NC/BLC-3-AP01"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（BLEACH 千年血战篇）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

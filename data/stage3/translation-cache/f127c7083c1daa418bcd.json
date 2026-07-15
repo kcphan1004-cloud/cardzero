@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:32:49.305Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f127c7083c1daa418bcd",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-095"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "迅雷狼影脚",
+    "effect": "『BP3000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ロウ〉がある場合、このターン中に自分が使用した他のイベントカード1枚につき、『BP+1000』される。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "迅雷狼影脚",
+    "effectZh": "『BP3000』以下的对手前线 L 的角色选择至多 1 枚并退场。若自己场上有〈劳〉，则本回合中自己使用的其他活动卡每 1 张，获得『BP+1000』。",
+    "triggerZh": "[Special]\n对手的 frontline L 角色选择至多 1 枚并退场。"
+  }
+}

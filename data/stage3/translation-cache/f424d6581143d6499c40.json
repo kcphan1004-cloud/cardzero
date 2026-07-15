@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:16:03.284Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f424d6581143d6499c40",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-071"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "斑目 一角",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斑目一角",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己的手牌中任意 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色最多 1 枚，使其激活，本回合 BP+3000。"
+  }
+}

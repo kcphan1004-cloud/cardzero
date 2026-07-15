@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:33.868Z",
+  "number": "UA33BT/NGR-1-058",
+  "name": "羽生 まゆり",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "コスプレ四天王",
+  "generatedEnergy": "蓝色×3",
+  "effect": "[登場時]\n自分の山札の上から3枚見る。その中からカード名に「リリサ」を含むキャラカードか［特徴：コスプレ四天王］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA33BT%2FNGR-1-058",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-058",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 3
+      }
+    ]
+  }
+}

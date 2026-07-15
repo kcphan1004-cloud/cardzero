@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:49:58.676Z",
+  "model": "qwen3.5:4b",
+  "unitId": "989024d27afc09388102",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-059"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ドロシー・アンズワース",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "多西·安兹沃斯",
+    "effectZh": "当对手场地有紫色或红色卡时，将手牌中本卡的必要能量减少 [绿×1]。",
+    "triggerZh": ""
+  }
+}

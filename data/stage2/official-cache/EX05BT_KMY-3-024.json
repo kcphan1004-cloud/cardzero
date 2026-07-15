@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:45.048Z",
+  "number": "EX05BT/KMY-3-024",
+  "name": "不死川 玄弥",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "このキャラはアクティブで場に登場させる。\n[退場時]\nこのカードを自分の手札に加えてもよい。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX05BT%2FKMY-3-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-3-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

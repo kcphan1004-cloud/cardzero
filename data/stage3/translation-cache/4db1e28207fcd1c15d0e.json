@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:37:19.413Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4db1e28207fcd1c15d0e",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-047"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "斬月",
+    "effect": "[レイド]\n〈藤堂 鏡志朗〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n自分の場の［特徴：四聖剣］を1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "斩月",
+    "effectZh": "[Raid]\n〈藤堂 镜志朗〉激活，并可以移动到前线 L\n[Impact（1）]\n（攻击后赢得战斗时，对对手玩家造成 1 点伤害）\n[登场时]\n选择自己场外最多 1 张［特征：四圣剑］，本回合中 BP+2000。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

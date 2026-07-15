@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:13:41.964Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0125237e76a28ee19903",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-034"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "スパイク",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈レイザー〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "尖刺",
+    "effectZh": "选择对方 BP3000 以下的 Front L 角色 1 张并退场。若自己场上有〈雷泽〉，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对方的 Front L 角色 1 张并退场。"
+  }
+}

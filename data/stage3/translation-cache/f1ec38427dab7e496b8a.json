@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:59:41.989Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1ec38427dab7e496b8a",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-073"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダークウガ(DCD)",
+    "effect": "自分の場にカード名に「ディケイド」を含むキャラがある場合、手札にあるこのカードの消費APを-1する。\n[自分のターン中]\nこのキャラはBP+1000と\n[インパクト（1）]\nを得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Kuuga(DCD)",
+    "effectZh": "自己场上有卡名包含「Decade」的角色时，手札中该卡的消耗 AP 减少 -1。\n【自己回合中】\n该角色获得 BP+1000\n和\n【冲击（1）】",
+    "triggerZh": "获取"
+  }
+}

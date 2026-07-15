@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:02:57.152Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8c38558c590b63a9dc43",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-003"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "紅月 カレン",
+    "effect": "[自分のターン中]\n自分の場に〈ルルーシュ・ランペルージ〉がある場合、このキャラはBP+1000。",
+    "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "红月·卡莲",
+    "effectZh": "[在自己的回合中]\n若自己场上有〈鲁路修·兰佩路基〉，则该角色 BP+1000。",
+    "triggerZh": "[颜色]\n从对方场外选择必要能量为 2 以下且消耗 AP 为 1 的紫色角色卡片 1 枚，以激活状态登场至自己的前线 L。"
+  }
+}

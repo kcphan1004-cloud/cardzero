@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:33:35.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "35d721b4d0d851b8fe87",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-077",
+    "UA06BT/TOA-1-077"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "如果该角色处于激活状态，该角色的产生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

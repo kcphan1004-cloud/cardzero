@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:32.727Z",
+  "number": "UA19BT/HIQ-1-034",
+  "name": "岩泉 一",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "青葉城西高校／ウイングスパイカー",
+  "generatedEnergy": "蓝色×1",
+  "effect": "",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA19BT%2FHIQ-1-034",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA19BT%2FHIQ-1-034",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "blue",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

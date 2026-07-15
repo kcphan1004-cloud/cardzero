@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:29.285Z",
+  "number": "EX04BT/JJK-3-012",
+  "name": "術式順転「蒼」",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "〈術式順転「蒼」〉は1ターンに1枚のみ使用できる。\n発生エナジーが1以下の相手のエナジーLのキャラを1枚選び、フロントLに移動させる。その後、この移動によって相手のキャラがリムーブエリアに置かれていない場合、カードを1枚引く。（移動させる時にフロントLに空きがない場合、相手はフロントLのカードを1枚選んでリムーブエリアに置いてから移動させる）",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX04BT%2FJJK-3-012",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-3-012",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

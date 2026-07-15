@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:27:36.364Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ecd55db94c143f936806",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-015"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ロロ・ランペルージ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\n相手のフロントLのキャラを1枚選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗洛·兰佩路基",
+    "effectZh": "[启动主] \n[若位于前线L]\n变为横置状态\n选择对方前线L的角色最多1张，使其变为横置状态。",
+    "triggerZh": ""
+  }
+}

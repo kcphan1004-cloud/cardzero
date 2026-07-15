@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:18:14.239Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0e0924b1c36b1d2e770",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-063"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "コニー・スプリンガー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "柯妮·斯普林格",
+    "effectZh": "[无效冲击]（与该角色进行战斗的角色在本场战斗中，失去［冲击］）",
+    "triggerZh": ""
+  }
+}

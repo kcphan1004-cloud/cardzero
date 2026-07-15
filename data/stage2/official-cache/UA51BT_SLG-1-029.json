@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:45.815Z",
+  "number": "UA51BT/SLG-1-029",
+  "name": "カイセル",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "影の軍団",
+  "generatedEnergy": "紫色×3",
+  "effect": "元々のBPが2000以下の自分の［特徴：影の軍団］のアタック時、アクティブのこのキャラをレストにしてもよい。そうした場合、以下から1つ選ぶ。このターン中に〈カイセル〉が既に選んだ効果は選べない。\n・アタックしているキャラを1枚まで選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。\n・アタックしているキャラを1枚まで選び、このターン中、「このキャラは、相手の効果で選ばれない。」を与える。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA51BT%2FSLG-1-029",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA51BT%2FSLG-1-029",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:28:12.823Z",
+  "model": "qwen3.5:9b",
+  "unitId": "895c495a42ef446df33c",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-005",
+    "UA01BT/CGH-1-005"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "[启动主]\n[横置状态]\n[回合1]\n本回合中，该角色的产生能量+\n[紫]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

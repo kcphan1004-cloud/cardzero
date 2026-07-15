@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:55:33.798Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0bc1ce2ce154a929f267",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-096"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "交流戦",
+    "effect": "自分の場外から特徴に「京都校」を持つキャラカードを1枚まで手札に加える。自分の手札から必要エナジーを満たし消費APが1の特徴に「京都校」を持つキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "交流战",
+    "effectZh": "从场外选择最多 1 张具有特征“京都校”的角色卡加入手牌。从我方手牌中选择满足必要能量且消耗 AP 为 1、并具有特征“京都校”的角色卡最多 1 张，以横置状态登场或发动 Raid。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

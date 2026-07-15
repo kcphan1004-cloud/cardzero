@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:49:40.484Z",
+  "model": "qwen3.5:9b",
+  "unitId": "56768a9688e3fa4ff92e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-057"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 恵",
+    "effect": "[登場時]\n相手の場のフィールドを1枚まで選び、相手の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伏黑惠",
+    "effectZh": "[登场时]\n选择对方场上的 1 张卡，放置到对方的牌库下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:12:50.094Z",
+  "model": "qwen3.5:9b",
+  "unitId": "56e1642888e4da5fc04f",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-047"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アルミン・アルレルト",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中からイベントカードを1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔敏·阿诺德特",
+    "effectZh": "[登场时]\n查看自己牌库上方 2 张卡。从中将最多 1 张事件卡置入场外，其余按任意顺序放回牌库顶部。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

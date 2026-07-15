@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:21:52.099Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7453c53f0a81230486ae",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-018"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "サヨナラノツバサ ～ the end of triangle",
+    "effect": "〈サヨナラノツバサ ～ the end of triangle〉は1ターンに1枚のみ使用できる。\n自分の場に〈シェリル・ノｰム〉と〈ランカ・リー〉がある場合、手札のこのカードの消費APを-2する。\nBP1500以上の相手のフロントLのキャラ全ては、このターン中、BP-1000。カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "再见之翼 ～the end of triangle",
+    "effectZh": "〈再见之翼 ～the end of triangle〉每回合只能使用 1 张。\n若自己场上有〈雪莉露·诺姆〉和〈兰卡·李〉，手牌中这张卡的消耗 AP-2。\nBP1500 以上的对方前线 L 的所有角色在本回合中 BP-1000。抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

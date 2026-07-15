@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:54.822Z",
+  "number": "EX01BT/HTR-2-035",
+  "name": "バック",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場外に〈バック〉がある場合、このカードは使用できない。\n手札から使用すること以外でこのカードが場外に置かれる場合、代わりにこのカードをリムーブエリアに置く。\n自分の場外から必要エナジーを満たし消費APが1の〔［特徴：レイザー攻略組］か〈レイザー〉〕を1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX01BT%2FHTR-2-035",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX01BT%2FHTR-2-035",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:14:39.007Z",
+  "model": "qwen3.5:9b",
+  "unitId": "be24f69af1697ac59f46",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-044"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゲンスルー組",
+    "effect": "このカードは〈ゲンスルー〉としても扱う。\n[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "根斯鲁组",
+    "effectZh": "本卡也作为〈根斯鲁〉处理。\n[登场时]\n查看自己牌库上方 2 张，从中按任意顺序将想要的数量置于牌库上方，剩余部分按任意顺序置于下方。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的一张 BP3500 以下的角色并返回手牌。"
+  }
+}

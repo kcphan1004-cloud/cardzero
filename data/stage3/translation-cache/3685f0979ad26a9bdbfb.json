@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:15:19.863Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3685f0979ad26a9bdbfb",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-052"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジーク・イェーガー",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から［特徴：無垢の巨人］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "吉克·耶格尔",
+    "effectZh": "[登场时]\n查看自己牌库上方 5 张卡。从中公开最多 1 张［特征：无垢的巨人］并加入手牌。将剩余部分按任意顺序置于牌库下方。",
+    "triggerZh": "[抽牌]\n抽入 1 张卡。"
+  }
+}

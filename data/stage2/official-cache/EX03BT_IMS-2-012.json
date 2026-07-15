@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:15.951Z",
+  "number": "EX03BT/IMS-2-012",
+  "name": "七草 にちか",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "SHHis",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n自分の手札の［特徴：SHHis］を1枚場外に置いてもよい。そうした場合、自分の山札の上から4枚見る。その中からキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX03BT%2FIMS-2-012",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX03BT%2FIMS-2-012",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

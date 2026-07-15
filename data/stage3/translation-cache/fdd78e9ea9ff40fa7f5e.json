@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:12:23.133Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fdd78e9ea9ff40fa7f5e",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-001"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "産屋敷 耀哉",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場の［特徴：柱］を1枚選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "産屋敷 耀哉",
+    "effectZh": "[启动主]\n[横置]\n[将此卡退场]\n选择自己场上的1张［特征：柱］，激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色1枚，激活，本回合中，BP+3000。"
+  }
+}

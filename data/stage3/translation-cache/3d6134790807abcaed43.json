@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:38:22.265Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3d6134790807abcaed43",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-039"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ボンドのママ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "邦德的妈妈",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本场战斗中,\n[冲击]\n失效）",
+    "triggerZh": ""
+  }
+}

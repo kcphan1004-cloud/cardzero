@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:27:30.477Z",
+  "model": "qwen3.5:9b",
+  "unitId": "58a38be334501b9277d4",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-055"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "半天狗",
+    "effect": "[退場時]\n自分の場外から〈哀絶〉、〈空喜〉、〈可楽〉、〈積怒〉をそれぞれ1枚まで選び、その中から2枚までを自分の場にレストで登場させ、残りを手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "半天狗",
+    "effectZh": "【退场时】\n从自己场外选择〈哀绝〉、〈空喜〉、〈可乐〉、〈积怒〉各至多 1 张，从中选择至多 2 张以横置状态登场于自己场上，其余加入手札。",
+    "triggerZh": "【获取】\n将此卡加入手札"
+  }
+}

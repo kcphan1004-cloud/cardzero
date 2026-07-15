@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:22:13.968Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2d4bb0d60c68b4933709",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-099",
+    "UA03BT/HTR-1-099"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ハンターライセンス",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "猎人执照",
+    "effectZh": "选择自身 AP 卡至多 2 张并将其激活。",
+    "triggerZh": "[最终]\n若自身没有生命，则从自身牌库上方取置 1 张到自身的生命区域。"
+  }
+}

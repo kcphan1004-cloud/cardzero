@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:02.613Z",
+  "number": "UA28BT/KJ8-1-076",
+  "name": "特訓",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、カードを3枚引く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA28BT%2FKJ8-1-076",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-076",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

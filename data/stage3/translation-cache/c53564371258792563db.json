@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:17:28.553Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c53564371258792563db",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-052"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "シャルナーク",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "沙纳克",
+    "effectZh": "当此角色处于激活状态时，此角色的发生能量+\n[紫]。",
+    "triggerZh": ""
+  }
+}

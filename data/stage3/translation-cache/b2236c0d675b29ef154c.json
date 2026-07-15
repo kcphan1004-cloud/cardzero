@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:59:41.990Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b2236c0d675b29ef154c",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-074"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダー響鬼(DCD)",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[緑×2]\n減らす。\n[相手のターン中]\n自分の場にカード名に「ディケイド」か「ディエンド」を含むキャラがある場合、このキャラはBP+1000と\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士Hibiki(DCD)",
+    "effectZh": "自己场上没有卡片时，手札中该卡所需能量减少\n【绿×2】\n【对方回合中】\n自己场上有卡名包含「Decade」或「D-End」的角色时，该角色获得 BP+1000 和\n【冲击无效】",
+    "triggerZh": ""
+  }
+}

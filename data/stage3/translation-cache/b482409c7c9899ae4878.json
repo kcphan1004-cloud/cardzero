@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:58:09.081Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b482409c7c9899ae4878",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-005"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "ギガントマキア",
+    "effect": "自分の場に〈オール・フォー・ワン〉か〈死柄木 弔〉がない場合、このキャラはアタックもブロックもできない。\n[自分のターン中]\nこのキャラはBP+2000。\n[起動メイン]\n[ターン1]\nこのキャラはこのターン中、\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Gigant Machia",
+    "effectZh": "当场上没有〈All For One〉或〈Shigaraki Tomura〉时，该角色无法进行攻击和阻挡。\n[自己的回合中]\n该角色的 BP+2000。\n[启动主]\n[回合 1]\n该角色在本回合中获得\n[伤害（2）]\n（当该角色通过攻击直接造成伤害时，代替造成 2 点伤害）。",
+    "triggerZh": ""
+  }
+}

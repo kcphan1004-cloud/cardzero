@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:15:59.958Z",
+  "model": "qwen3.5:9b",
+  "unitId": "32f8d1925d8bb5c0d663",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-018"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "[登场时]\n查看自己山札上方至多 1 张卡。将该卡放置于自己的山札上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:28.451Z",
+  "number": "EX12BT/KMR-2-100",
+  "name": "ファイナルベント",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "アドベントカード",
+  "generatedEnergy": "-",
+  "effect": "自分の場のキャラを1枚選び、このターン中、BP+2500と「このキャラがアタックしてバトルに勝利した時、カードを1枚引く。」を与える。選んだキャラがカード名に「龍騎」を含むキャラの場合、さらにこのターン中、\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、その場合ブロックされない）を与える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-100",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-100",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

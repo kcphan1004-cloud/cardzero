@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:50:41.618Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c7b128d710012cec867",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-068"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "夏油 傑",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚退場させてもよい。そうした場合、自分の山札の上から6枚見る。その中から［特徴：呪霊］を2枚まで公開し手札に加える。残りを場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "夏油杰",
+    "effectZh": "[登场时]\n也可以使己方场下的其他角色的任意一张退场。若如此做，则查看对方牌库上方的 6 张卡。从中公开最多两张［特征：咒灵］并加入手牌。其余的放置于场外。",
+    "triggerZh": "[抽取]\n抽牌。"
+  }
+}

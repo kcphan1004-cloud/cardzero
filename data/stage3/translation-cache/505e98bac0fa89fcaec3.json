@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:26:27.437Z",
+  "model": "qwen3.5:9b",
+  "unitId": "505e98bac0fa89fcaec3",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-013"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "盾兵",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から〈ロスモンティス〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "盾兵",
+    "effectZh": "[登场时]\n查看自己牌库上方的 4 张卡。从中最多公开 1 张〈洛斯蒙蒂斯〉加入手牌。将剩余的按任意顺序置于牌库下方。若加入了手牌，可将自己的一张手牌置入场外。",
+    "triggerZh": ""
+  }
+}

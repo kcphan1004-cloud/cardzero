@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:36:18.489Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bee8f51048087f2b647a",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-046"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "紅蓮可翔式",
+    "effect": "[レイド]\n〈紅月 カレン〉アクティブにし、フロントLに移動できる\nこのキャラはBP4000以上のキャラにブロックされない。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "红莲可翔式",
+    "effectZh": "【Raid】\n〈红月 卡伦〉激活，并可以移动到前线 L。\n这张角色不会被 BP4000 以上的角色阻挡。\n[登场时]\n抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": "【Get】\n将此卡加入手札。"
+  }
+}

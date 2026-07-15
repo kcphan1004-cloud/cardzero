@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:07:27.828Z",
+  "number": "UA26BT/RLY-1-076",
+  "name": "薬の効果を打ち消す薬",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。その後、以下から1つ選ぶ。\n・相手の場のレイド状態のカードを1枚まで選び、レイド状態の上のカードを1枚場外に置く。\n・自分の場のレイド状態のカードを1枚まで選び、レイド状態の上のカードを1枚手札に戻す。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA26BT%2FRLY-1-076",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-076",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

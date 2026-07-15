@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:48:37.828Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bb4de89cc39a0ce4d41a",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-063"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "カリオン",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "卡利昂",
+    "effectZh": "[2 回合锁定]\n（当本角色在本回合首次被阻挡时，将其激活）",
+    "triggerZh": "[激活]\n选择自己场上的任意一张角色并使其处于激活状态。在剩余的本回合中，BP+3000。"
+  }
+}

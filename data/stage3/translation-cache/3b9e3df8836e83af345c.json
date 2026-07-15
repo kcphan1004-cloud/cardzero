@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:49:14.038Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3b9e3df8836e83af345c",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-085"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "那須さん",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "那须先生",
+    "effectZh": "当此角色处于激活状态时，此角色的产生能量+\n[绿色]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:20.882Z",
+  "number": "UA49BT/MSS-1-045",
+  "name": "銭函 ココ",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "人型醜鬼",
+  "generatedEnergy": "绿色×1",
+  "effect": "[退場時]\nカードを1枚引く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-045",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-045",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

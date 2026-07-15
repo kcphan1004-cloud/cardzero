@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:59:27.753Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4b8a14eef97b2da1aceb",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-013"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "荼毘",
+    "effect": "[登場時]\n自分のライフエリアにあるカードを1枚手札に加えてもよい。そうした場合、自分のフロントLの他のキャラを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Tapi（荼毘）",
+    "effectZh": "【登场时】\n也可以从自己的生命区选择 1 张卡加入手牌。\n若如此，可以选择自己前线 L 的其他角色至多 1 张并激活。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:18:14.238Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7a1169650441648c1ee9",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-062"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ニコロ",
+    "effect": "[登場時]\nこのターン中、次に使用する［特徴：食材］の消費APを-1する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尼可罗",
+    "effectZh": "[登场时]\n本回合中，下次使用［特征：食材］时的消耗AP-1。",
+    "triggerZh": ""
+  }
+}

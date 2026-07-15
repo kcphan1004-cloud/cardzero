@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:37.958Z",
+  "number": "UA07BT/TSK-1-091",
+  "name": "リムル",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "魔王",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈リムル〉アクティブにし、フロントLに移動できる\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラを1枚手札に戻す。そうした場合、手札から必要エナジーを満たし消費APが1のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA07BT%2FTSK-1-091",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA07BT%2FTSK-1-091",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:15.300Z",
+  "number": "UA22BT/GMR-1-031",
+  "name": "月面基地",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：怪獣］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA22BT%2FGMR-1-031",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-031",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

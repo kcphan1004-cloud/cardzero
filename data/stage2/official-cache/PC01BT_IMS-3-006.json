@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:54.235Z",
+  "number": "PC01BT/IMS-3-006",
+  "name": "風野 灯織",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "illumination STARS",
+  "generatedEnergy": "黄色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n自分の場に〈櫻木 真乃〉と〈八宮 めぐる〉がある場合、このキャラはBP+500。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC01BT%2FIMS-3-006",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC01BT%2FIMS-3-006",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:21.915Z",
+  "number": "UA09ST/BTR-1-101",
+  "name": "ボンド",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000+",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n自分のフロントLのキャラを望む枚数選び、このターン中、BP+1000。この効果で同じカード名のキャラを選ぶことはできない。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA09ST%2FBTR-1-101",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA09ST%2FBTR-1-101",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:04:18.355Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f808ecd4c39405706db",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-017",
+    "EX01BT/HTR-2-057"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "奇犽·揍敌客",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

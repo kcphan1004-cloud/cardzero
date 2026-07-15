@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:14:39.005Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef695ec9bd6513bee325",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-043"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中に自分が手札から［特徴：指定ポケット］を使用している場合のみ発動できる。自分の場の他のキャラを1枚選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "奇犽·揍敌客",
+    "effectZh": "[启动主]\n[位于前线 L 时]\n[回合 1]\n仅当本回合中自己从手牌使用了［特征：指定口袋］时可发动。选择自己场上的另一张角色并激活。",
+    "triggerZh": "[抽卡]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:22.945Z",
+  "number": "UA46BT/KGR-1-036",
+  "name": "血鶴",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場に〈昼彦〉がある場合、手札にあるこのカードの必要エナジーを\n[紫×2]\n減らす。\n『BP4000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。このターン中に自分のキャラの効果でAPを支払っている場合、『BP5000以下』に代わる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

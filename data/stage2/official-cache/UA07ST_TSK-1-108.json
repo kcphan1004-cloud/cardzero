@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:42.593Z",
+  "number": "UA07ST/TSK-1-108",
+  "name": "封印の洞窟",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の山札の上から6枚見る。その中からBP4000以上のキャラカードを1枚まで公開し裏向きでこのフィールドの下に置く。残りを望む順で自分の山札の下に置く。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nこのフィールドの下に置かれたカードを手札に加える。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA07ST%2FTSK-1-108",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA07ST%2FTSK-1-108",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

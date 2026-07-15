@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:39.769Z",
+  "number": "UA02BT/JJK-1-033",
+  "name": "十種影法術",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。自分の手札か自分の場外から必要エナジーが3以下で消費APが1の特徴に「式神」を持つキャラカードを1枚まで自分のフロントLに『レストで登場させる』。自分の場に〈伏黒 恵〉がある場合、『アクティブで登場させる』に代わる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA02BT%2FJJK-1-033",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA02BT%2FJJK-1-033",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

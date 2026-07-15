@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:51:05.683Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7dcdefa273a2cd449758",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-055"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "SIDE：Y",
+    "effect": "相手のフロントLのキャラを1枚選び、自分の場にある［特徴：L'Antica］の枚数1枚につき、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "SIDE：Y",
+    "effectZh": "选择对方前线 L 的 1 枚角色，每有自己场地上的［特征：L'Antica］存在 1 张，该回合中使其 [BP-1000]。",
+    "triggerZh": "[Special]\n选择对方前线 L 的 1 枚角色并使其退场。"
+  }
+}

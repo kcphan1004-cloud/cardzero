@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:17.129Z",
+  "number": "EX07BT/BLC-2-061",
+  "name": "娑闥迦羅骸刺絡辻",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の手札の［特徴：零番隊］を3枚までリムーブエリアに置き、『BP3000』以下の相手のフロントLのキャラを1枚選び、退場させる。この効果で手札からリムーブエリアに置いたカード1枚につき、この効果で選べるキャラのBPの範囲+1000。その後、この効果で手札からリムーブエリアに置いたカード1枚につき、カードを1枚引く。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX07BT%2FBLC-2-061",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-061",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

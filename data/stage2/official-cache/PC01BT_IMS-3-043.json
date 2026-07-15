@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:00.820Z",
+  "number": "PC01BT/IMS-3-043",
+  "name": "芹沢 あさひ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcSR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "Straylight",
+  "generatedEnergy": "红色×3",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブで、このターン中に自分がイベントカードを使用している場合のみ発動できる。自分の場の［特徴：Straylight］を1枚選び、このターン中、BP+1000。選んだキャラがこのキャラ以外の場合、さらにこのターン中、\n[インパクト（1）]\nを与える。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC01BT%2FIMS-3-043",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC01BT%2FIMS-3-043",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

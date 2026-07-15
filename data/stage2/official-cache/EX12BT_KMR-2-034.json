@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:17.161Z",
+  "number": "EX12BT/KMR-2-034",
+  "name": "仮面ライダーフォーゼ マグネットステイツ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "天ノ川学園高校",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\nカード名に「フォーゼ」を含むキャラ アクティブにし、フロントLに移動できる\n[登場時]\nこのキャラは次の自分のターン開始時まで、「\n[フロントLにある場合]\n〈仮面ライダーフォーゼ マグネットステイツ〉以外の自分の場の［特徴：天ノ川学園高校］は相手の〔キャラ・トリガー〕の効果で選ばれない。」を得る。自分の場の必要エナジーが3以下のカードを1枚選んでもよい。そうした場合、自分の手札から選んだカードと必要エナジーが同じで消費APが1の［特徴：天ノ川学園高校］を1枚まで自分の場にレストで登場させる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-034",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-034",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

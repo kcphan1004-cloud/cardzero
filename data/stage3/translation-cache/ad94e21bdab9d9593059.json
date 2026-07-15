@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:27:31.053Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ad94e21bdab9d9593059",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-103"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "黒崎 一護",
+    "effect": "[アタック時]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑崎一护",
+    "effectZh": "[攻击时]\n本角色在本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

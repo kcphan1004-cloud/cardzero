@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:34.497Z",
+  "number": "UA40BT/REZ-1-060",
+  "name": "フリューゲルの大樹",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の手札を1枚公開し、自分の山札の下に置く。公開したカードがキャラカードの場合、公開したカードのBP以下の相手のフロントLのキャラを1枚まで選び、退場させる。〈フリューゲルの大樹〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-060",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-060",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

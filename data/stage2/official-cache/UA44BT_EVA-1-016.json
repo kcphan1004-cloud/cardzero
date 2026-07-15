@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:44.107Z",
+  "number": "UA44BT/EVA-1-016",
+  "name": "真希波・マリ・イラストリアス",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA44BT%2FEVA-1-016",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA44BT%2FEVA-1-016",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

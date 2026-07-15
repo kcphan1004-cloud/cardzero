@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:03:33.978Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e4bf8a998a412bc11ecb",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-035"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "涅 ネム",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場の特徴に「涅骸部隊」を持つキャラを1枚退場させる。そうした場合、自分の山札の上から4枚見る。その中から〈涅 マユリ〉か〈涅 ネム〉か［特徴：涅骸部隊］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "涅茧利",
+    "effectZh": "【启动主效果】\n【回合 1】\n使拥有「涅骸部队」特征的自己场上的角色退场至多 1 张。若如此，查看自己山牌的上方 4 张。从中公开〈涅雏子〉或〈涅茧利〉或［特征：涅骸部队］至多 1 张并加入手牌。将剩余部分按任意顺序置于自己的山牌下方。",
+    "triggerZh": ""
+  }
+}

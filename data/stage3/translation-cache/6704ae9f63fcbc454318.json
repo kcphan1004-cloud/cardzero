@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:46:25.659Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6704ae9f63fcbc454318",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-109"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "283プロダクション",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "283 Production",
+    "effectZh": "[登场时]选择自己场上的角色最多 1 张，本回合中 BP+1000。\n[启动主]\n[横置]\n[将该牌退场]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

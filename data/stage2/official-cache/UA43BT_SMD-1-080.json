@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:41.349Z",
+  "number": "UA43BT/SMD-1-080",
+  "name": "楽しい実験のはじまりだ～",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "LABO",
+  "generatedEnergy": "-",
+  "effect": "自分のAPカードを1枚まで選び、アクティブにする。相手は次の相手のターンの移動フェイズでエナジーLのキャラをフロントLに移動できず、フロントLのキャラをエナジーLへ移動できる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA43BT%2FSMD-1-080",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA43BT%2FSMD-1-080",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

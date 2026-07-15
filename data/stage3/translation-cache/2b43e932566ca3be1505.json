@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:58:07.601Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2b43e932566ca3be1505",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-100",
+    "UA20BT/BCV-1-100"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "断魔の剣",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈アスタ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "断魔之剑",
+    "effectZh": "选择对手场上 BP 为 3000 以下的角色卡，将其退场。若己方手牌中有〈アスタ〉，则效果变为：选择对手场上 BP 为 5000 以下的角色卡，将其退场。",
+    "triggerZh": "[特殊]\n选择对手场上的角色卡，将其退场。"
+  }
+}

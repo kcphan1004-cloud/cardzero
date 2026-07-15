@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:16:08.995Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc7f6592b0189e9b4b93",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-064"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "藤田 ことね",
+    "effect": "[登場時]\n自分の場の〈花海 咲季〉か〈月村 手毬〉か他の〈藤田 ことね〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "藤田 ことね",
+    "effectZh": "【登场时】\n选择自己场上的〈花海 咲季〉或〈月村 手毬〉或其他〈藤田 ことね>中的最多1枚，在本回合中 BP+1000。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

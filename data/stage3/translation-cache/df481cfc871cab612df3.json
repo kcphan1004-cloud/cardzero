@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:33:29.568Z",
+  "model": "qwen3.5:9b",
+  "unitId": "df481cfc871cab612df3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-056"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "覚悟するんよ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "觉悟するんよ",
+    "effectZh": "选择自己 AP 角色卡最多 2 张，激活它们。",
+    "triggerZh": "【最终】\n如果自己没有生命值，从自己的牌库上方放置 1 张到自己的生命值区域。"
+  }
+}

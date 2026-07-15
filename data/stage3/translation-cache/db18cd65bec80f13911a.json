@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:28:49.679Z",
+  "model": "qwen3.5:9b",
+  "unitId": "db18cd65bec80f13911a",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-058"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "可楽",
+    "effect": "[退場時]\n自分の山札の上から1枚を場外に置く。自分の〈憎珀天〉の効果によって、このキャラが退場している場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "可楽",
+    "effectZh": "[退场时]\n从自己的牌库上方放置 1 张卡到场外。如果此角色因自己的〈憎珀天〉的效果而处于退场状态，选择最多 1 张自己的 AP 卡并激活它。",
+    "triggerZh": ""
+  }
+}

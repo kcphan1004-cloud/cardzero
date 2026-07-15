@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:52.329Z",
+  "number": "UA44BT/EVA-1-063",
+  "name": "ガイウスの槍",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。カードを1枚引き、自分の手札を1枚場外に置く。自分の場に〈碇 シンジ〉か〈エヴァンゲリオン初号機（ガイウスの槍）〉がある場合、『BP5000以下』に代わる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA44BT%2FEVA-1-063",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA44BT%2FEVA-1-063",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

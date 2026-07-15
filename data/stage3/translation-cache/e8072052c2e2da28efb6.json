@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:05.122Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e8072052c2e2da28efb6",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-034",
+    "UA08BT/BLC-1-034"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "石田 雨竜",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "石田雨龙",
+    "effectZh": "[登场时]\n抽 1 张牌，将我方手札中的 1 张置为场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

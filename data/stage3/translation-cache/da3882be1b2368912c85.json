@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:17:28.560Z",
+  "model": "qwen3.5:9b",
+  "unitId": "da3882be1b2368912c85",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-056"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "カナリア",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加纳里雅",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上的其他角色中 1 枚返回手牌。若无法返回，则将此角色返回手牌。\n\n触发：\n无",
+    "triggerZh": ""
+  }
+}

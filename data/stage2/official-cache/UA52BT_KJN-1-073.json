@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:07.115Z",
+  "number": "UA52BT/KJN-1-073",
+  "name": "ベータ",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "シャドウガーデン／七陰",
+  "generatedEnergy": "紫色×2",
+  "effect": "自分のフロントLに〈シド・カゲノー〉がある場合、このキャラの発生エナジー+\n[紫]\n。\n[登場時]\n自分の山札の上から2枚まで場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA52BT%2FKJN-1-073",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA52BT%2FKJN-1-073",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 2
+      }
+    ]
+  }
+}

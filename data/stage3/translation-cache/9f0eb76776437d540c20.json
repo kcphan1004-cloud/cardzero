@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:57:12.813Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f0eb76776437d540c20",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-061"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "さあ、おまえの罪を数えろ",
+    "effect": "自分の場のカード名に「Ｗ」を含むキャラと〈メモリチェンジ〉の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "来吧，数清你的罪孽吧",
+    "effectZh": "选择最多 1 张自己场上的卡名包含「W」的角色与《记忆变身》的合计数量×1000以下的 BP 的对手 Front L 角色，使其退场。",
+    "triggerZh": "【特殊】\n选择对手 Front L 的角色最多 1 张，使其退场。"
+  }
+}

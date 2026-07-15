@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:45.206Z",
+  "number": "UA11BT/GNT-1-009",
+  "name": "服部 全蔵",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA11BT%2FGNT-1-009",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA11BT%2FGNT-1-009",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "yellow",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

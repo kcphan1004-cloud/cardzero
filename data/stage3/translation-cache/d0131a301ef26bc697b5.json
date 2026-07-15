@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:06:45.815Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d0131a301ef26bc697b5",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-017"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "マスク・ド・マスキュリン",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蒙面·假面男爵",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 以下的角色至多 1 枚返回手牌。若无法返回，将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

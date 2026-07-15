@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:14:39.000Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1fb8d1c517ab6ed5c19d",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-040"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビスケ",
+    "effect": "[自分のターン中]\nこのターン中に自分が手札から［特徴：指定ポケット］を使用している場合、このキャラはこのターン中、BP+1000と「BP4000以上のキャラにブロックされない。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "比司吉",
+    "effectZh": "[自己的回合中]\n若在本回合中自己从手牌使用了［特征：指定口袋］，该角色本回合中 BP+1000 并获得「不会被 BP4000 以上的角色阻挡。」。",
+    "triggerZh": ""
+  }
+}

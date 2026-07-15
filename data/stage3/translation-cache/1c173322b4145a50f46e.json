@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:27:35.357Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c173322b4145a50f46e",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-021"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ロスモンティス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "罗斯蒙蒂斯",
+    "effectZh": "",
+    "triggerZh": "【获得】\n将此卡加入手牌。"
+  }
+}

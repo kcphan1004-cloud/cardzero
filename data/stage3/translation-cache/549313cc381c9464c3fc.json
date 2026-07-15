@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:14:53.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "549313cc381c9464c3fc",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-104"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[登場時]\n必要エナジーが3以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "[登场时]\n选择一名对手前线 L 的角色（最多 1 名），使其退场。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

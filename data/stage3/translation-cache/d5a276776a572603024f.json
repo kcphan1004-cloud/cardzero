@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:06:18.224Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d5a276776a572603024f",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-029"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "大天使の息吹",
+    "effect": "※このカードはデッキに3枚までしか入れられない。\n自分の場外から必要エナジーを満たし消費APが1のキャラカードを1枚自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "大天使的呼吸",
+    "effectZh": "※此卡最多只能放入卡组 3 张。\n从自己场外选择满足必要能量且消耗 AP 为 1 的角色卡任意数量，使其以横置状态登场或进入 Raid。",
+    "triggerZh": "【特殊】\n选择对方前线 L 上的任意数量的角色，使其退场。"
+  }
+}

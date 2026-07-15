@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:22:31.566Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ae21537473b5a6a5ef1",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-031"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "聖煌割砕壁",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈キサラ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "圣煌割碎壁",
+    "effectZh": "选择对方前线L的 BP3000以下的角色 1 名，使其退场。若自己场上有〈基萨拉〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 枚，使其退场。"
+  }
+}

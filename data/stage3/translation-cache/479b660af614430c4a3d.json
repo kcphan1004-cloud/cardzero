@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:16:33.442Z",
+  "model": "qwen3.5:9b",
+  "unitId": "479b660af614430c4a3d",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-073"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "枢木 スザク",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の赤のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "枢木 苏扎库",
+    "effectZh": "[登场时]\n从自己的手牌中，选择最多 1 张消耗 AP 为 1、能量需求在 2 以下的红色角色卡以横置状态登场。",
+    "triggerZh": "[颜色]\n选择对方前线 L 上 BP2500 或更低的角色卡 1 枚并使其退场。"
+  }
+}

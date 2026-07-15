@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:54:48.092Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e983476500e18fe2ceb9",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-051"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーＷ サイクロンメタル",
+    "effect": "[相手のターン中]\nこのキャラはBP-1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 W 旋风金属",
+    "effectZh": "[对手的回合中]\n该角色 BP-1500。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

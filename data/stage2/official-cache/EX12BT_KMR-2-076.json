@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:24.449Z",
+  "number": "EX12BT/KMR-2-076",
+  "name": "通りすがりの仮面ライダーだ",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から6枚見て、カード名に「ディケイド」を含む緑のキャラカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。カードを1枚引く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-076",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-076",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "green",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

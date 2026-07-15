@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:40.763Z",
+  "number": "UA04ST/IMS-1-109",
+  "name": "283プロダクション",
+  "color": "黄色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "R",
+  "cost": 0,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA04ST%2FIMS-1-109",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA04ST%2FIMS-1-109",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "yellow",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

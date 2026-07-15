@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:40:49.607Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b8a95e72b7596bd519b0",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-042"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リムル",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "[登场时]\n查看自己牌库上方 1 张卡。将该卡置于自己的牌库上方或场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

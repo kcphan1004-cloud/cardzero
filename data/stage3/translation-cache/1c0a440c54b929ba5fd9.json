@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:05:13.716Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c0a440c54b929ba5fd9",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-039"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "シャルロッテ・クールホーン",
+    "effect": "[退場時]\n自分のターン中の場合、相手のフロントLのキャラを1枚まで選び、レストにする。〈シャルロッテ・クールホーン〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "夏洛特·库尔霍恩",
+    "effectZh": "【退场时】\n若为自方回合中，可以选择对方前线 L 的角色最多 1 张，使其变为横置状态。〈夏洛特·库尔霍恩〉的此效果每回合只能发动 1 次。",
+    "triggerZh": "【激活】\n选择己方场的角色 1 枚，将其激活，本回合中 BP+3000。"
+  }
+}

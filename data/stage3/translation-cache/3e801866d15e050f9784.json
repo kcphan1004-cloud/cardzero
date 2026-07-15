@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T17:55:21.588Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3e801866d15e050f9784",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-1-030"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "同行",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "同行",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

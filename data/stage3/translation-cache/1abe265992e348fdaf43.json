@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:53:20.433Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1abe265992e348fdaf43",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-083"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "三輪 霞",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三轮霞",
+    "effectZh": "【登场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

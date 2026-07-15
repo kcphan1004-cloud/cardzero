@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:32:10.373Z",
+  "model": "qwen3.5:9b",
+  "unitId": "14946e397b3405f09575",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-006"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "飯田 天哉",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "饭田天哉",
+    "effectZh": "",
+    "triggerZh": "[Get]将此卡加入手牌。"
+  }
+}

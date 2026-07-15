@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:31.451Z",
+  "number": "UA36BT/MCR-1-100",
+  "name": "TRY AGAIN",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 6,
+  "ap": 1,
+  "bp": "-",
+  "feature": "歌（Fire Bomber）",
+  "generatedEnergy": "-",
+  "effect": "カードを2枚引く。自分のフロントLのカード名に「バサラ」を含むキャラを1枚まで選び、アクティブにし、このターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。自分のフロントLの〈シビル〉を1枚まで選び、アクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-100",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-100",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 6
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:21:22.064Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c606457a994a96c26dd",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-079",
+    "UA03BT/HTR-1-079"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "サトツ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "萨托茨",
+    "effectZh": "【启动主阶段】\n【横置状态】\n【回合 1】\n本回合中，该角色的发生能量+\n[绿色]。\n主阶段结束时，使此角色退场。",
+    "triggerZh": ""
+  }
+}

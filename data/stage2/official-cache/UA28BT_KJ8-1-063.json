@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:00.287Z",
+  "number": "UA28BT/KJ8-1-063",
+  "name": "日比野 カフカ",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈日比野 カフカ〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。\n[起動メイン]\n[フロントLにある場合]\n[レストにする]\n[ターン1]\nカードを1枚引く。\n[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+500。このキャラをアクティブにする。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA28BT%2FKJ8-1-063",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-063",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

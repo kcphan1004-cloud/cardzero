@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:11:09.245Z",
+  "model": "qwen3.5:9b",
+  "unitId": "73fb2ef807f3bfccb042",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-091"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "猪子",
+    "effect": "このカードは〈嘴平 伊之助〉としても扱う。\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "猪子",
+    "effectZh": "此卡也作为〈嘴平 伊之助〉处理。\n[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": "[激活] \n选择自己场上的角色一张，将其激活并使其在本回合中 BP+3000。"
+  }
+}

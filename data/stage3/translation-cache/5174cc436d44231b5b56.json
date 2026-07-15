@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:03:03.749Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5174cc436d44231b5b56",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-041"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "虎杖 悠仁",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "虎杖 悠仁",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[无效冲击]\n（与本角色进行战斗的角色在本场战斗中，失去\n[冲击]）、triggerZh",
+    "triggerZh": ""
+  }
+}

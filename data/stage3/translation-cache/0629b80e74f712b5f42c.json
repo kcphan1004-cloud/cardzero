@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:03.130Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0629b80e74f712b5f42c",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-062"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "生きろ！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "活下去！",
+    "effectZh": "选择自己的 AP 卡片最多 2 张，使其激活状态。",
+    "triggerZh": "[object Object]"
+  }
+}

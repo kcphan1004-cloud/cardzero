@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:56:12.888Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b45e102f4756c0313957",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-094"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ユノ",
+    "effect": "[自分のターン中]\n自分の場に〈アスタ〉がある場合、このキャラはBP+500。\n[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤诺",
+    "effectZh": "【自己的回合中】\n如果场上有〈星塔〉，本角色的 BP+500。\n【登场时】\n可以将自己手牌 1 张放置到场外。如此操作后，将本角色激活。",
+    "triggerZh": ""
+  }
+}

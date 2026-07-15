@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:43.067Z",
+  "number": "EX14BT/MCR-2-016",
+  "name": "YF-29 デュランダルバルキリー（早乙女 アルト）",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "S.M.S／スカル小隊／F形態",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈早乙女 アルト〉アクティブにし、フロントLに移動できる\nこのキャラのアタック終了時、自分のフロントLにアクティブのキャラがない場合、このキャラを退場させてもよい。\n[登場時]\n自分の場外から〈サヨナラノツバサ ～ the end of triangle〉を1枚まで手札に加える。\n[退場時]\n自分のターン中の場合、このキャラのレイド元のカードを1枚まで自分の場にアクティブで登場させ、そのキャラにこのターン中、「このキャラはBP3000以下のキャラにブロックされない。」を与える。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX14BT%2FMCR-2-016",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX14BT%2FMCR-2-016",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

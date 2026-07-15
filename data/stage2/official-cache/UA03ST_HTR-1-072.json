@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:15.718Z",
+  "number": "UA03ST/HTR-1-072",
+  "name": "クラピカ",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "-",
+  "generatedEnergy": "绿色×3",
+  "effect": "自分の発生エナジーが6以上ある場合、このキャラはBP+1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA03ST%2FHTR-1-072",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA03ST%2FHTR-1-072",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 3
+      }
+    ]
+  }
+}

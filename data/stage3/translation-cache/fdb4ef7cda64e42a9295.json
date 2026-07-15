@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:19:25.178Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fdb4ef7cda64e42a9295",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-077"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "虎徹 勇音",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "虎彻勇音",
+    "effectZh": "[登场时]\n选择自己场上除外的其他角色至多1张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:18:38.013Z",
+  "model": "qwen3.5:9b",
+  "unitId": "47f98d5ea1e55722c399",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-069"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "浮竹 十四郎",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "浮竹十四郎",
+    "effectZh": "【启动主】\n【横置状态】\n【回合 1】\n本回合中，该角色的产生能量+\n【绿×1】。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

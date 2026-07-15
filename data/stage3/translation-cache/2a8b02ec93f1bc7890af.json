@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:00:14.748Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a8b02ec93f1bc7890af",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-102"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シズ",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[退場時]\nカードを2枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "希兹",
+    "effectZh": "[伤害（2）] （当该角色通过攻击直接造成伤害时，代替造成 2 点伤害）\n[退场]\n抽 2 张牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

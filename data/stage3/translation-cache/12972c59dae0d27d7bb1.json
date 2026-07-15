@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:02:08.757Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12972c59dae0d27d7bb1",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-026"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "阿散井 恋次",
+    "effect": "[登場時]\n自分の場の元々の消費APが2以上のキャラを1枚まで選び、このターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿散井恋次",
+    "effectZh": "[登场时]\n最多选择自己场上原本消耗 AP 为 2 以上的角色中的 1 名，赋予其本回合中\n[冲击（+1）]\n（给予的冲击伤害 +1；若未拥有 [冲击]，则获得 [冲击（1）]）。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

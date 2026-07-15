@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:24.872Z",
+  "number": "UA36BT/MCR-1-062",
+  "name": "VF-25S メサイア（オズマ・リー）",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "S.M.S／スカル小隊／B形態",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈オズマ・リー〉アクティブにし、フロントLに移動できる\n自分の場に〈ランカ・リー〉がある場合、このキャラは\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。\n[起動メイン]\n[手札を2枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、「BP2000以下のキャラにブロックされない。」を得る。\n[ブロック時]\nアタックしている相手のキャラがレイド状態の場合、このキャラはこのターン中、BP+500。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-062",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-062",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

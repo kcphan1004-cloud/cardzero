@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:58.979Z",
+  "model": "qwen3.5:9b",
+  "unitId": "242ae2fb2e9a83a42ba7",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-104"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "モツオ",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "茂夫",
+    "effectZh": "[启动主]\n[支付 1 AP]\n[回合 1]\n抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其激活，本回合中 BP+3000。"
+  }
+}

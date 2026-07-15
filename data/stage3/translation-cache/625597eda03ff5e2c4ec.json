@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:33:13.344Z",
+  "model": "qwen3.5:9b",
+  "unitId": "625597eda03ff5e2c4ec",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-054"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ロスモンティス",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗斯蒙特斯",
+    "effectZh": "",
+    "triggerZh": "[激活] \n选择自己场上的角色 1 个，使其激活，在本回合中 BP+3000。"
+  }
+}

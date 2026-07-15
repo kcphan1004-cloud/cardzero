@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:02:15.952Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4baf12a59babeefbc776",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-015"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ファルコ・グライス",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "法尔科·格莱斯",
+    "effectZh": "[登场时]\n选择己方场上的其他角色卡最多1张，本回合中BP+1000。",
+    "triggerZh": "[激活状态]\n选择己方场上的角色卡最多1张，将其激活并使其处于激活状态，本回合中BP+3000。"
+  }
+}

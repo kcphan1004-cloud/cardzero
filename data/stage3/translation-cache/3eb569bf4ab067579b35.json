@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:30:48.024Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3eb569bf4ab067579b35",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-082"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "テュオハリム",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "图奥哈利姆",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色，将其置于激活状态，本回合中 BP+3000。"
+  }
+}

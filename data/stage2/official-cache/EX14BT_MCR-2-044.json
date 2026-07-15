@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:47.721Z",
+  "number": "EX14BT/MCR-2-044",
+  "name": "美雲・ギンヌメール",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000+",
+  "feature": "ケイオス／ワルキューレ",
+  "generatedEnergy": "紫色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n自分の場に［特徴：ワルキューレ］のカード名が3種類以上ある場合、このキャラはBP+1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX14BT%2FMCR-2-044",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX14BT%2FMCR-2-044",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

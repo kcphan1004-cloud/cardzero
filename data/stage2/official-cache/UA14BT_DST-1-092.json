@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:04:00.335Z",
+  "number": "UA14BT/DST-1-092",
+  "name": "クロスボウ",
+  "color": "绿色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "クラフト",
+  "generatedEnergy": "绿色×1",
+  "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA14BT%2FDST-1-092",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA14BT%2FDST-1-092",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

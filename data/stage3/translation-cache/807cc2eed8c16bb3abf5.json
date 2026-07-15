@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:58:45.320Z",
+  "model": "qwen3.5:9b",
+  "unitId": "807cc2eed8c16bb3abf5",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-070"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーアギト(DCD)",
+    "effect": "[自分のターン中]\n自分の場にカード名に「ディケイド」を含むキャラがある場合、このキャラは「このキャラはフロントLでもエナジーを発生させる。」を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Agito(DCD)",
+    "effectZh": "[在自己回合期间]\n若自己场上存在卡名为“Decade”的角色，则此角色获得“即使在位于前线 L 时也能产生能量。”的效果。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并将其激活，本回合内 BP+3000。"
+  }
+}

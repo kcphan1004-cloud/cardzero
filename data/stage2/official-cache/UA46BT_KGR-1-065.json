@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:27.772Z",
+  "number": "UA46BT/KGR-1-065",
+  "name": "香刈 緋雪",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "神奈備",
+  "generatedEnergy": "红色×1",
+  "effect": "[自分のターン中]\n相手のライフが3以下の場合、このキャラはBP+500。\n[登場時]\n相手のライフが4以上で、自分の場に［特徴：神奈備］が4枚以上ある場合、自分のライフを1枚手札に加えてもよい。そうした場合、相手に1ダメージ。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-065",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-065",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:16:13.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "878d6a3b71c15694a4c0",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-045"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "サブ＆バラ",
+    "effect": "山札にあるこのカードは必要エナジーを\n[青×2]\nとして扱ってもよい。\n[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "萨布&芭拉",
+    "effectZh": "这张卡可以作为所需的能量 [蓝×2] 处理。\n[登场时]\n查看自己牌库上方的一张。将其置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

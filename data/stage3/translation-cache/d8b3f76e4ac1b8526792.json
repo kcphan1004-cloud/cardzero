@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:58:51.955Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d8b3f76e4ac1b8526792",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "PC02BT/NIK-2-032"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "リリーバイス",
+    "effect": "自分の場にある［特徴：ゴッデス］の元々のカード名1種類につき、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莉莉拜斯",
+    "effectZh": "自己场上的［特征：女神］的原本卡牌名每 1 种，将手札中的这张卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

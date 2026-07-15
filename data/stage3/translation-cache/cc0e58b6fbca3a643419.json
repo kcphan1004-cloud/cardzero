@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:01:04.321Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc0e58b6fbca3a643419",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-002"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "イータ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊塔",
+    "effectZh": "[登场时]\n将自身场上一张能量为 1 以下的其他角色返回手牌。若无法如此做，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

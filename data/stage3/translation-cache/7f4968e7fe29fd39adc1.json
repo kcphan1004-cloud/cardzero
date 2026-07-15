@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:14:39.002Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f4968e7fe29fd39adc1",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-041"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "マリモッチ",
+    "effect": "相手はキャラの効果でこのキャラを選べない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马里莫奇",
+    "effectZh": "对方无法用角色的效果选择该角色。",
+    "triggerZh": ""
+  }
+}

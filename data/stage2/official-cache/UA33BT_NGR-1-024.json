@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:27.888Z",
+  "number": "UA33BT/NGR-1-024",
+  "name": "ミリエラ 衛生小隊/美花莉",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "コスプレ",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈橘 美花莉〉アクティブにし、フロントLに移動できる\n[自分のターン中]\nこのキャラはBP+500。\nこのキャラがアタックしてブロックされた時、カードを1枚引く。\n[登場時]\nこのキャラはこのターン中、BP+1000。このキャラが自分のキャラの効果でレイドしていた場合、さらにこのキャラはこのターン中、「相手のフロントLにアクティブのキャラがある場合、このキャラは\n[ダメージ（2）]\nを得る。」を得る。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA33BT%2FNGR-1-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

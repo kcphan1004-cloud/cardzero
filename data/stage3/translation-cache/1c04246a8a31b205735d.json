@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:51:27.155Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c04246a8a31b205735d",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-073"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "吉野 順平：異形",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "吉野顺平：异形",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

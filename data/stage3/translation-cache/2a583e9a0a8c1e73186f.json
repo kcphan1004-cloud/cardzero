@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:23:24.593Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a583e9a0a8c1e73186f",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-038"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アルフェン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尔芬",
+    "effectZh": "该角色处于激活状态时，其产生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:49.161Z",
+  "number": "EX01BT/HTR-2-001",
+  "name": "アベンガネ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n以下から1つまで選ぶ。\n・相手は自身の場外にあるカードを2枚リムーブエリアに置く。\n・相手の場の発生エナジーが1以下のフィールドを1枚選び、退場させる。そうした場合、相手はカードを1枚引く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX01BT%2FHTR-2-001",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX01BT%2FHTR-2-001",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

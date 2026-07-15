@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:21.035Z",
+  "number": "UA36BT/MCR-1-040",
+  "name": "イサム・ダイソン",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "新統合軍",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の場にカード名に「ガルド」を含むキャラがある場合、BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-040",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-040",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

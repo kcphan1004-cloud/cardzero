@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:10:08.806Z",
+  "model": "qwen3.5:9b",
+  "unitId": "07ec10064ee67012a780",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-063"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "蝗GUY",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蝗 GUY",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的发生能量+\n[赤]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

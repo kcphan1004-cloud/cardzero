@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:16.796Z",
+  "number": "UA39BT/KIN-1-038",
+  "name": "対戦相手はおまえに選ばせてやる！",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から7枚見る。その中から相手がランダムに1枚選ぶ。自分は選ばれたカード以外のカードを望む順で山札の下に置く。選ばれたカードを公開し、公開したカードが［特徴：完璧・無量大数軍］の場合、自分の場にレストで登場させる。公開したカードが［特徴：完璧・無量大数軍］以外の場合、公開したカードを自分の手札に加える。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA39BT%2FKIN-1-038",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA39BT%2FKIN-1-038",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

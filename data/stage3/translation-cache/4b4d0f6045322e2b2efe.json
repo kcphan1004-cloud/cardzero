@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:09:23.375Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4b4d0f6045322e2b2efe",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-027"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "獣の巨人",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\n自分の場にカード名に「エレン」を含むキャラとカード名に「ジーク」を含むキャラがある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "兽之巨人",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[自己的回合中]\n当角色场上存在卡名包含「艾伦」的角色和卡名包含「吉克」的角色的情况下，该角色 BP+1500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

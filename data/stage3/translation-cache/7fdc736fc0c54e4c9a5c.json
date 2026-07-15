@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:41:05.842Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7fdc736fc0c54e4c9a5c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-094"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "グッド・ラック・ボール",
+    "effect": "相手のライフが3以上の場合、相手プレイヤーに1ダメージ。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "幸运球",
+    "effectZh": "对方生命值为 3 以上时，对对手玩家造成 1 点伤害。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色，将其激活，本回合中 BP+3000。"
+  }
+}

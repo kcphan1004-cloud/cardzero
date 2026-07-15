@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:26:50.893Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40e12a677b8fb51f2b8e",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-004"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[退場時]\n自分の場のキャラを1枚まで選び、このターン中、\n[インパクト無効]\nを与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）\n[退场时]\n选择自己场上的 1 张角色卡，给予其本回合中\n[无效冲击]。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并使其激活，本回合 BP+3000。"
+  }
+}

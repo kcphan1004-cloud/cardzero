@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:20.867Z",
+  "number": "UA46BT/KGR-1-024",
+  "name": "漣 珠紀",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "500",
+  "feature": "濤",
+  "generatedEnergy": "紫色×1",
+  "effect": "[登場時]\n自分の山札の上から4枚見て、〈漣 京羅〉か［特徴：濤］か〈楽座市〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "purple",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

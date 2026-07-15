@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:39:15.808Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d6a36cff2f051cb65833",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-006"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "風野 灯織",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n自分の場に〈櫻木 真乃〉と〈八宮 めぐる〉がある場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "风野 灯织",
+    "effectZh": "[冲击无效化]\n（与该角色战斗的角色在本场战斗中失去冲击）\n若自己场上有〈樱木 真乃〉和〈八宫 めぐる〉，则该角色 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

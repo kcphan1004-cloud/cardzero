@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:08.126Z",
+  "number": "EX02BT/CGH-2-039",
+  "name": "C.C.",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 2,
+  "bp": "3000",
+  "feature": "黒の騎士団",
+  "generatedEnergy": "紫色×1",
+  "effect": "[起動メイン]\nこのカードが自分の場外にある時にのみ発動できる。自分の手札の紫のカードを2枚場外に置いてもよい。そうした場合、このカードを手札に加える。〈C.C.〉のこの効果は1ターンに1回のみ発動できる。\n[登場時]\n自分の山札の上から3枚見る。その中からカードを1枚手札に加える。残りを望む順で自分の山札の下に置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX02BT%2FCGH-2-039",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX02BT%2FCGH-2-039",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

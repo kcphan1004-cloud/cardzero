@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:53:43.051Z",
+  "model": "qwen3.5:9b",
+  "unitId": "79f607258c3ed7f7d1d5",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "PC02BT/NIK-2-008"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "アニス：スパークリングサマー",
+    "effect": "このカードは〈アニス〉としても扱う。\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\nカードを2枚引き、自分の手札を2枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尼斯：闪耀夏日",
+    "effectZh": "此卡也作为〈Anis〉处理。\n[步骤]\n（在自己的移动阶段可从前线 L 移动至能量线）\n[登场时]\n抽牌 2 张，将手札中的 2 张置入场外。",
+    "triggerZh": ""
+  }
+}

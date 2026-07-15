@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:46:25.650Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cabe1d867da61c9d593c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-104"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "風野 灯織",
+    "effect": "[登場時]\n自分の場外から必要エナジーが3以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "风野 灯织",
+    "effectZh": "[登场时]从场外选择最多 1 张消耗 AP 为 1、必要能量在 3 以下的黄色角色卡，以横置状态登场。",
+    "triggerZh": "[获取]\n将此牌加入手牌。"
+  }
+}

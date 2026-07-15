@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:26:50.900Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ff7b71a33c5c818a743",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-008"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ゼロ",
+    "effect": "このカードは〈ルルーシュ・ランペルージ〉としても扱う。\n[登場時]\n自分のフロントLのアクティブの［特徴：黒の騎士団］を1枚レストにしてもよい。そうした場合、相手は自身のフロントLのアクティブのキャラを1枚レストにする。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "零",
+    "effectZh": "这张卡也当作〈鲁路修·兰佩路基〉处理。\n[登场时]\n可以将自己前线 L 的激活的［特征：黑色骑士团］横置。如此情况，对手将自身前线 L 的激活的角色横置一张。",
+    "triggerZh": "[颜色]\n选择 BP3500 以下的对方前线 L 的角色一张，返回手牌。"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "generatedAt": "2026-07-14T16:48:41.297Z",
+  "seriesArgument": "black-clover",
+  "selected": 131,
+  "alreadyCached": 129,
+  "syntheticActionPoints": 0,
+  "attemptedDownloads": 2,
+  "successfulDownloads": 0,
+  "failedDownloads": 2,
+  "concurrency": 2,
+  "delay": 450,
+  "parseVersion": 1,
+  "failures": [
+    {
+      "number": "UA20BT/BCV-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "black-clover"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:48:40.720Z"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "black-clover"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:48:40.839Z"
+    }
+  ]
+}

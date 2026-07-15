@@ -1,0 +1,1625 @@
+{
+  "generatedAt": "2026-07-14T17:17:20.267Z",
+  "seriesArgument": "all",
+  "selected": 8208,
+  "alreadyCached": 129,
+  "syntheticActionPoints": 745,
+  "attemptedDownloads": 7334,
+  "successfulDownloads": 7173,
+  "failedDownloads": 161,
+  "concurrency": 3,
+  "delay": 350,
+  "parseVersion": 1,
+  "failures": [
+    {
+      "number": "EX01BT/HTR-1-030",
+      "name": "同行",
+      "seriesSlugs": [
+        "hunter-x-hunter"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX01BT%2FHTR-1-030",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:55:48.654Z"
+    },
+    {
+      "number": "CARD-0145",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=CARD-0145",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:55:48.663Z"
+    },
+    {
+      "number": "CARD-0144",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=CARD-0144",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:55:48.777Z"
+    },
+    {
+      "number": "EX04BT/JJK-1-040",
+      "name": "虎杖 悠仁",
+      "seriesSlugs": [
+        "jujutsu-kaisen"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-1-040",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:56:27.744Z"
+    },
+    {
+      "number": "EX04BT/JJK-3-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "jujutsu-kaisen"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-3-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:56:40.285Z"
+    },
+    {
+      "number": "EX05BT/KMY-1-022",
+      "name": "不死川 実弥",
+      "seriesSlugs": [
+        "demon-slayer"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-1-022",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:56:40.559Z"
+    },
+    {
+      "number": "EX05BT/KMY-1-017",
+      "name": "伊黒 小芭内",
+      "seriesSlugs": [
+        "demon-slayer"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-1-017",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:56:40.561Z"
+    },
+    {
+      "number": "EX05BT/KMY-1-026",
+      "name": "悲鳴嶼 行冥",
+      "seriesSlugs": [
+        "demon-slayer"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-1-026",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:56:40.977Z"
+    },
+    {
+      "number": "EX05BT/KMY-3-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "demon-slayer"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-3-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:56:54.141Z"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP01/S/P1",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "my-hero-academia"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-AP01%2FS%2FP1",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:06.565Z"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP02/S/P1",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "my-hero-academia"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-AP02%2FS%2FP1",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:06.635Z"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP03/S/P1",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "my-hero-academia"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-AP03%2FS%2FP1",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:06.871Z"
+    },
+    {
+      "number": "EX07BT/BLC-2-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "bleach-thousand-year-blood-war"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:19.870Z"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "sword-art-online"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX08BT%2FSAO-2-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:32.871Z"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "sword-art-online"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX08BT%2FSAO-2-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:33.014Z"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP03/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "sword-art-online"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX08BT%2FSAO-2-AP03%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:33.185Z"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "tensura"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX09BT%2FTSK-2-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T16:57:46.742Z"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "sword-art-online"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA15BT%2FSAO-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:04:22.473Z"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "sword-art-online"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA15BT%2FSAO-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:04:22.732Z"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "synduality-noir"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA16BT%2FSYN-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:04:43.200Z"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP05/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "toriko"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA17BT%2FTRK-1-AP05%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:05:03.303Z"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP06/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "nikke"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA18BT%2FNIK-1-AP06%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:05:23.748Z"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "black-clover"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:05:48.428Z"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "black-clover"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:05:48.621Z"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gamera-rebirth"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:06:24.689Z"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gamera-rebirth"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:06:24.710Z"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "attack-on-titan"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:06:42.471Z"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "attack-on-titan"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:06:42.499Z"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "shy"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA24BT%2FSHY-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:00.516Z"
+    },
+    {
+      "number": "UA25BT/AND-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "undead-unluck"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA25BT%2FAND-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:14.684Z"
+    },
+    {
+      "number": "UA25BT/AND-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "undead-unluck"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA25BT%2FAND-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:14.981Z"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "100-girlfriends"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:29.541Z"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP03/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "100-girlfriends"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP03%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:29.847Z"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "100-girlfriends"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:29.942Z"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP04/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "100-girlfriends"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP04%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:30.758Z"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP05/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "100-girlfriends"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP05%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:30.868Z"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP06/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "100-girlfriends"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP06%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:30.983Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:45.983Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:46.006Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP03/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP03%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:46.029Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP04/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP04%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:46.986Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP06/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP06%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:47.076Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP05/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP05%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:47.085Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP07/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP07%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:47.977Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP08/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP08%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:48.074Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP09/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP09%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:48.114Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP10/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP10%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:48.955Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP11/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP11%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:49.082Z"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP12/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "gakuen-idolmaster"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP12%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:07:49.133Z"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP03/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "kaiju-no"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-AP03%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:08:04.369Z"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "kaiju-no"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:08:05.174Z"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "kamen-rider"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:08:22.543Z"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "arknights"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:08:43.858Z"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "madoka-magica"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:05.810Z"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "madoka-magica"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:06.008Z"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "shangri-la-frontier"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:23.882Z"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "shangri-la-frontier"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:24.151Z"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP01/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "2-5-dimensional-seduction"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP01%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:38.148Z"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP03/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "2-5-dimensional-seduction"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP03%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:38.621Z"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP02/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "2-5-dimensional-seduction"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP02%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:38.805Z"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP04/S",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "2-5-dimensional-seduction"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP04%2FS",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:09:39.172Z"
+    },
+    {
+      "number": "UA54BT-MST-1-003-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-003-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:23.245Z"
+    },
+    {
+      "number": "UA54BT-MST-1-001-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-001-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:23.418Z"
+    },
+    {
+      "number": "UA54BT-MST-1-002-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-002-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:23.462Z"
+    },
+    {
+      "number": "UA54BT-MST-1-004-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-004-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:24.342Z"
+    },
+    {
+      "number": "UA54BT-MST-1-005-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-005-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:24.488Z"
+    },
+    {
+      "number": "UA54BT-MST-1-006-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-006-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:24.491Z"
+    },
+    {
+      "number": "UA54BT-MST-1-008-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-008-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:25.425Z"
+    },
+    {
+      "number": "UA54BT-MST-1-007-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-007-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:25.477Z"
+    },
+    {
+      "number": "UA54BT-MST-1-009-エリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-009-%E3%82%A8%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:25.520Z"
+    },
+    {
+      "number": "UA54BT-MST-1-010-キシリカ・キシリス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-010-%E3%82%AD%E3%82%B7%E3%83%AA%E3%82%AB%E3%83%BB%E3%82%AD%E3%82%B7%E3%83%AA%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:26.372Z"
+    },
+    {
+      "number": "UA54BT-MST-1-012-シルフィエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-012-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:26.559Z"
+    },
+    {
+      "number": "UA54BT-MST-1-011-ギレーヌ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-011-%E3%82%AE%E3%83%AC%E3%83%BC%E3%83%8C",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:26.578Z"
+    },
+    {
+      "number": "UA54BT-MST-1-013-シルフィエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-013-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:27.469Z"
+    },
+    {
+      "number": "UA54BT-MST-1-015-聖獣",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-015-%E8%81%96%E7%8D%A3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:27.523Z"
+    },
+    {
+      "number": "UA54BT-MST-1-014-シルフィエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-014-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:27.604Z"
+    },
+    {
+      "number": "UA54BT-MST-1-016-ゼニス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-016-%E3%82%BC%E3%83%8B%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:28.380Z"
+    },
+    {
+      "number": "UA54BT-MST-1-017-ノルン＆アイシャ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-017-%E3%83%8E%E3%83%AB%E3%83%B3%EF%BC%86%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:28.445Z"
+    },
+    {
+      "number": "UA54BT-MST-1-018-パウロ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-018-%E3%83%91%E3%82%A6%E3%83%AD",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:28.583Z"
+    },
+    {
+      "number": "UA54BT-MST-1-019-リーリャ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-019-%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%A3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:29.315Z"
+    },
+    {
+      "number": "UA54BT-MST-1-020-ルイジェルド",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-020-%E3%83%AB%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%89",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:29.391Z"
+    },
+    {
+      "number": "UA54BT-MST-1-021-ルイジェルド",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-021-%E3%83%AB%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%89",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:29.511Z"
+    },
+    {
+      "number": "UA54BT-MST-1-023-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-023-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:30.373Z"
+    },
+    {
+      "number": "UA54BT-MST-1-024-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-024-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:30.465Z"
+    },
+    {
+      "number": "UA54BT-MST-1-022-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-022-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:30.633Z"
+    },
+    {
+      "number": "UA54BT-MST-1-025-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-025-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:31.274Z"
+    },
+    {
+      "number": "UA54BT-MST-1-026-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-026-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:31.401Z"
+    },
+    {
+      "number": "UA54BT-MST-1-027-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-027-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:31.554Z"
+    },
+    {
+      "number": "UA54BT-MST-1-028-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-028-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:32.218Z"
+    },
+    {
+      "number": "UA54BT-MST-1-030-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-030-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:32.523Z"
+    },
+    {
+      "number": "UA54BT-MST-1-029-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-029-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:32.653Z"
+    },
+    {
+      "number": "UA54BT-MST-1-031-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-031-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:33.184Z"
+    },
+    {
+      "number": "UA54BT-MST-1-032-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-032-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:33.434Z"
+    },
+    {
+      "number": "UA54BT-MST-1-033-デッドエンド",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-033-%E3%83%87%E3%83%83%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:33.558Z"
+    },
+    {
+      "number": "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-034-%E3%82%A8%E3%83%AA%E3%82%B9%E3%81%AB%E9%AD%94%E8%A1%93%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%83%8B%E3%83%A3%E3%83%B3%E2%98%86",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:34.113Z"
+    },
+    {
+      "number": "UA54BT-MST-1-035-お前は戦士だ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-035-%E3%81%8A%E5%89%8D%E3%81%AF%E6%88%A6%E5%A3%AB%E3%81%A0",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:34.247Z"
+    },
+    {
+      "number": "UA54BT-MST-1-036-豪雷積層雲",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-036-%E8%B1%AA%E9%9B%B7%E7%A9%8D%E5%B1%A4%E9%9B%B2",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:34.350Z"
+    },
+    {
+      "number": "UA54BT-MST-1-037-ご神体",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-037-%E3%81%94%E7%A5%9E%E4%BD%93",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:35.166Z"
+    },
+    {
+      "number": "UA54BT-MST-1-038-師匠からのおくりもの",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-038-%E5%B8%AB%E5%8C%A0%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E3%81%8F%E3%82%8A%E3%82%82%E3%81%AE",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:35.171Z"
+    },
+    {
+      "number": "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-039-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9%E3%81%AF%E3%81%99%E3%81%94%E3%81%84%E3%81%AE%E3%82%88%EF%BC%81",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:35.248Z"
+    },
+    {
+      "number": "UA54BT-MST-1-040-私がついていますから",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-040-%E7%A7%81%E3%81%8C%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E3%82%89",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:36.033Z"
+    },
+    {
+      "number": "UA54BT-MST-1-042-エリナリーゼ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-042-%E3%82%A8%E3%83%AA%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:36.159Z"
+    },
+    {
+      "number": "UA54BT-MST-1-041-アイシャ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-041-%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:36.161Z"
+    },
+    {
+      "number": "UA54BT-MST-1-043-ギース",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-043-%E3%82%AE%E3%83%BC%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:36.946Z"
+    },
+    {
+      "number": "UA54BT-MST-1-045-ゼニス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-045-%E3%82%BC%E3%83%8B%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:37.056Z"
+    },
+    {
+      "number": "UA54BT-MST-1-044-サラ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-044-%E3%82%B5%E3%83%A9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:37.109Z"
+    },
+    {
+      "number": "UA54BT-MST-1-046-タルハンド",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-046-%E3%82%BF%E3%83%AB%E3%83%8F%E3%83%B3%E3%83%89",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:37.905Z"
+    },
+    {
+      "number": "UA54BT-MST-1-047-パウロ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-047-%E3%83%91%E3%82%A6%E3%83%AD",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:37.963Z"
+    },
+    {
+      "number": "UA54BT-MST-1-048-パウロ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-048-%E3%83%91%E3%82%A6%E3%83%AD",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:38.071Z"
+    },
+    {
+      "number": "UA54BT-MST-1-049-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-049-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:38.820Z"
+    },
+    {
+      "number": "UA54BT-MST-1-050-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-050-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:38.833Z"
+    },
+    {
+      "number": "UA54BT-MST-1-051-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-051-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:38.968Z"
+    },
+    {
+      "number": "UA54BT-MST-1-052-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-052-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:39.734Z"
+    },
+    {
+      "number": "UA54BT-MST-1-053-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-053-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:39.775Z"
+    },
+    {
+      "number": "UA54BT-MST-1-054-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-054-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:39.860Z"
+    },
+    {
+      "number": "UA54BT-MST-1-055-アリエル",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-055-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:40.644Z"
+    },
+    {
+      "number": "UA54BT-MST-1-056-エリナリーゼ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-056-%E3%82%A8%E3%83%AA%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:40.655Z"
+    },
+    {
+      "number": "UA54BT-MST-1-057-クリフ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-057-%E3%82%AF%E3%83%AA%E3%83%95",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:40.657Z"
+    },
+    {
+      "number": "UA54BT-MST-1-060-シルフィエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-060-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:41.524Z"
+    },
+    {
+      "number": "UA54BT-MST-1-059-シルフィエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-059-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:41.560Z"
+    },
+    {
+      "number": "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-058-%E3%82%B6%E3%83%8E%E3%83%90%EF%BC%86%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:41.768Z"
+    },
+    {
+      "number": "UA54BT-MST-1-061-ナナホシ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-061-%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:42.483Z"
+    },
+    {
+      "number": "UA54BT-MST-1-062-ナナホシ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-062-%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:42.496Z"
+    },
+    {
+      "number": "UA54BT-MST-1-063-ノルン",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-063-%E3%83%8E%E3%83%AB%E3%83%B3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:42.671Z"
+    },
+    {
+      "number": "UA54BT-MST-1-065-フィッツ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-065-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:43.373Z"
+    },
+    {
+      "number": "UA54BT-MST-1-064-バーディガーディ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-064-%E3%83%90%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:43.428Z"
+    },
+    {
+      "number": "UA54BT-MST-1-066-フィッツ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-066-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:43.607Z"
+    },
+    {
+      "number": "UA54BT-MST-1-067-フィッツ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-067-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:44.320Z"
+    },
+    {
+      "number": "UA54BT-MST-1-068-フィッツ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-068-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:44.379Z"
+    },
+    {
+      "number": "UA54BT-MST-1-069-プルセナ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-069-%E3%83%97%E3%83%AB%E3%82%BB%E3%83%8A",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:44.523Z"
+    },
+    {
+      "number": "UA54BT-MST-1-070-リニアーナ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-070-%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%BC%E3%83%8A",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:45.224Z"
+    },
+    {
+      "number": "UA54BT-MST-1-071-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-071-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:45.237Z"
+    },
+    {
+      "number": "UA54BT-MST-1-072-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-072-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:45.414Z"
+    },
+    {
+      "number": "UA54BT-MST-1-074-転移の迷宮",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-074-%E8%BB%A2%E7%A7%BB%E3%81%AE%E8%BF%B7%E5%AE%AE",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:46.132Z"
+    },
+    {
+      "number": "UA54BT-MST-1-073-ルーデウス",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-073-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:46.169Z"
+    },
+    {
+      "number": "UA54BT-MST-1-075-迷宮都市ラパン",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-075-%E8%BF%B7%E5%AE%AE%E9%83%BD%E5%B8%82%E3%83%A9%E3%83%91%E3%83%B3",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:46.335Z"
+    },
+    {
+      "number": "UA54BT-MST-1-077-今までありがとう",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-077-%E4%BB%8A%E3%81%BE%E3%81%A7%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:47.041Z"
+    },
+    {
+      "number": "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-076-%E8%BF%B7%E5%AE%AE%E3%81%AE%E5%AE%88%E8%AD%B7%E8%80%85-%E3%83%9E%E3%83%8A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%92%E3%83%A5%E3%83%89%E3%83%A9",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:47.084Z"
+    },
+    {
+      "number": "UA54BT-MST-1-078-守護術師フィッツ",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-078-%E5%AE%88%E8%AD%B7%E8%A1%93%E5%B8%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:47.251Z"
+    },
+    {
+      "number": "UA54BT-MST-1-079-ゼニス救出作戦",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-079-%E3%82%BC%E3%83%8B%E3%82%B9%E6%95%91%E5%87%BA%E4%BD%9C%E6%88%A6",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:47.988Z"
+    },
+    {
+      "number": "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-080-%E3%81%9D%E3%81%86%E3%80%81%E3%83%9C%E3%82%AF%E3%81%AF%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:48.034Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP01-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:48.178Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP03-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:48.895Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP02-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:48.934Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP04-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:49.090Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP06-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:49.808Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP05-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:49.851Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP07-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:50.010Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP08-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:50.723Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP09-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:50.745Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP10-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:50.880Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP12-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:51.615Z"
+    },
+    {
+      "number": "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP11-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:15:51.628Z"
+    },
+    {
+      "number": "UAPR-MST-1-030-ロキシー",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR-MST-1-030-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:09.426Z"
+    },
+    {
+      "number": "UAPR-MST-1-055-アリエル",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR-MST-1-055-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:09.787Z"
+    },
+    {
+      "number": "UAPR/IMS/AP04",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "series-570901"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP04",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:39.122Z"
+    },
+    {
+      "number": "UAPR/IMS/AP06",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "series-570901"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP06",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:39.704Z"
+    },
+    {
+      "number": "UAPR/IMS/AP05",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "series-570901"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP05",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:39.797Z"
+    },
+    {
+      "number": "UAPR/IMS/AP07",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "series-570901"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP07",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:39.959Z"
+    },
+    {
+      "number": "UAPR/IMS/AP08",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "series-570901"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP08",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:16:40.909Z"
+    },
+    {
+      "number": "カードリスト",
+      "name": "资料待补",
+      "seriesSlugs": [
+        "mushoku-tensei"
+      ],
+      "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88",
+      "error": "官方页面内找不到卡号。",
+      "failedAt": "2026-07-14T17:17:19.909Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:46:50.751Z",
+  "model": "qwen3.5:9b",
+  "unitId": "828c3a62cc822f7c013f",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-068"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "蚊トンボ膝ロボコ",
+    "effect": "このカードは〈ロボコ〉としても扱う。\n相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蚊腿膝机器人科",
+    "effectZh": "这张卡也作为〈机器人科〉处理。\n如果对方场上有黄色或蓝色的卡片，将手牌中此卡的必要能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

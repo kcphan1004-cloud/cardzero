@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:21:38.389Z",
+  "model": "qwen3.5:9b",
+  "unitId": "16109d792fc4a124c7fb",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-036"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "時透 無一郎",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "时透 无一郎",
+    "effectZh": "[攻击时]\n抽一张牌，将自身手牌中的一张放至场外。",
+    "triggerZh": ""
+  }
+}

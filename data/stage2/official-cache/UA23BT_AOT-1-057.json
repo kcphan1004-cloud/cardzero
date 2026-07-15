@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:34.281Z",
+  "number": "UA23BT/AOT-1-057",
+  "name": "ベルトルト・フーバー（超大型巨人）",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 10,
+  "ap": 1,
+  "bp": "6000",
+  "feature": "104期兵／マーレの戦士／巨人継承者",
+  "generatedEnergy": "绿色×1",
+  "effect": "[フロントLにある場合]\n自分のフロントLに置けるカードの枚数が1枚減る。\n[レイド]\n〈ベルトルト・フーバー〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[ダメージ（3）]\n（このキャラがアタックで直接ダメージを与える時、代わりに3ダメージ）\n[登場時]\n必要エナジーが0の相手のフロントLのキャラ全てを退場させる。このキャラはこのターン中、「このキャラは、相手のキャラの効果やトリガーの効果で選ばれない。」を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA23BT%2FAOT-1-057",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-057",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 10
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

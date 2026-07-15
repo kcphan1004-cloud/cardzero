@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:05.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b6c8c8f4ff5ba8374ab9",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-030",
+    "UA09BT/BTR-1-030"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "目からビーム",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ロボコ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "目视光束",
+    "effectZh": "选择对方前线L的BP 3000以下的角色1枚并将其退场。\n若我方场上有〈机器子机器人〉，则改为BP 5000以下。",
+    "triggerZh": "[特殊阶段]\n选择对方的前线L的角色1枚并将其退场。"
+  }
+}

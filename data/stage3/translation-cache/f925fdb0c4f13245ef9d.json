@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:15:12.663Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f925fdb0c4f13245ef9d",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-067"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "伸縮自在の愛",
+    "effect": "自分の場外からキャラカードを1枚手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伸缩自在的爱",
+    "effectZh": "从场外将 1 张角色卡加入手牌。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "number": "UA20BT/BCV-1-002",
+  "name": "アスタ",
+  "seriesSlugs": [
+    "black-clover"
+  ],
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-002",
+  "httpStatus": 200,
+  "contentType": "text/html; charset=UTF-8",
+  "contentLength": 7691,
+  "title": "カードリスト｜ユニオンアリーナ｜UNION ARENA",
+  "labelHits": {
+    "カード種類": false,
+    "必要エナジー": false,
+    "消費AP": false,
+    "BP": true,
+    "発生エナジー": false,
+    "特徴": true,
+    "効果": true,
+    "トリガー": true,
+    "レアリティ": false
+  },
+  "labelHitCount": 4,
+  "textPreview": "カードリスト｜ユニオンアリーナ｜UNION ARENA\nアスタ あすた\nUA20BT/BCV-1-002 C\nカード画像\nタイトル\n必要\nエナジー\n消費\nAP\n1\nカード\n種類\nキャラクター\nBP\n1500\n特徴\n黒の暴牛\n発生\nエナジー\n効果\n-\nトリガー\nこのカードを手札に加える。\nURLをコピー\nURLを\nコピーしました。\n収録商品\nブラッククローバー 【UA20BT】\nカードリスト\n商品情報",
+  "htmlFile": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-002.html"
+}

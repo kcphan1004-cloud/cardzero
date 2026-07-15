@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:59.616Z",
+  "number": "EX11BT/ARK-2-005",
+  "name": "タルラ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "レユニオン",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n自分の場のアクティブのキャラを2枚レストにしてもよい。そうした場合、自分の手札から必要エナジーが2以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX11BT%2FARK-2-005",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX11BT%2FARK-2-005",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:19:26.007Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f23ed4f33e54023bee2",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-100"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "水見式",
+    "effect": "自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "水見式",
+    "effectZh": "查看自己牌库上方的 2 张卡。从中按任意顺序将想要的数量放回自己牌库上方，剩余部分也按任意顺序放回下方。抽 2 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

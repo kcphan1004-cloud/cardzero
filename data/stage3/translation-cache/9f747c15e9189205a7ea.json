@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:36:18.484Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f747c15e9189205a7ea",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-043"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "朝比奈 昇悟",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "朝比奈 昇悟",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 张，将其置为激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:36:05.858Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cb247f5939e36d466a14",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-109"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "絆の光",
+    "effect": "自分の山札の上から4枚見る。その中からキャラカードを2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羁绊之光",
+    "effectZh": "查看自己牌库上方的 4 张卡。从中最多公开 2 张角色卡加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": ""
+  }
+}

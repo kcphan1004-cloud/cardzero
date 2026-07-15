@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:01:20.482Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0f9e04296dbb560277d",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-109"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "大賢者",
+    "effect": "自分の場のキャラを1枚選び、このターン中、BP+2000。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大贤者",
+    "effectZh": "选择自己场上的角色卡1张，本回合中，+2000 BP。选择自己的AP卡至多1张并使其处于激活状态。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

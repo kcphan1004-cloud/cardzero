@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:02:28.105Z",
+  "model": "qwen3.5:9b",
+  "unitId": "80a2b7387bbaade878bf",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-058"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "堕姫",
+    "effect": "[登場時]\n[退場時]\n自分の場外から必要エナジーが3以下で消費APが1の〈妓夫太郎〉を1枚まで自分のフロントLにアクティブで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "堕姬",
+    "effectZh": "[登场时]\n[退场时]\n从自己场外召唤最多 1 张消耗能量为 3 以下且消耗 AP 为 1 的〈妓夫太郎〉至自己的前线 L，并处于激活状态。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色并将其激活，本回合中 BP+3000。"
+  }
+}

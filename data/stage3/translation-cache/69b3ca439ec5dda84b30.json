@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:40:31.732Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69b3ca439ec5dda84b30",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-035"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "更に向こうへ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "更向彼方",
+    "effectZh": "最多选择自己的 AP 卡 2 张并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取 1 张置于自己的生命区域。"
+  }
+}

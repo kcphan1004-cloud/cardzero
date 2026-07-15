@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:59:29.454Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4c73bafc105e72b92af1",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-104"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "佐々木＆井口",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐々木＆井口",
+    "effectZh": "[攻击时]\n抽1张牌，并将自己手牌的1张卡牌置于场外。",
+    "triggerZh": ""
+  }
+}

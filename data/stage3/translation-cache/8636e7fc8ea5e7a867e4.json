@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:22:58.245Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8636e7fc8ea5e7a867e4",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-020"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ハヤテ・インメルマン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "隼特·因梅尔曼",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

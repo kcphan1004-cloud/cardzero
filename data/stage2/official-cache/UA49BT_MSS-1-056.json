@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:22.844Z",
+  "number": "UA49BT/MSS-1-056",
+  "name": "備前 銀奈",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "魔防隊／十番組",
+  "generatedEnergy": "绿色×1",
+  "effect": "[登場時]\n自分はこのターン中、「自分と相手の場のキャラ全ては、効果で退場しない。」を得る。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-056",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-056",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

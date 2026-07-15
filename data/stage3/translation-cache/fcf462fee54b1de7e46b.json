@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:07:40.395Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fcf462fee54b1de7e46b",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-047"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "その名は斬月",
+    "effect": "カードを2枚引く。\n自分の場の青の〈黒崎 一護〉の効果でこのカードが自分の手札から場外に置かれた時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "其名是斩月",
+    "effectZh": "抽牌2张。\n当这张卡因自己场上的蓝色<黑崎 一护>的效果从自己的手牌被放置到场外时，抽牌1张。",
+    "triggerZh": ""
+  }
+}

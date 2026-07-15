@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:47:44.707Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2791da990199656eff0f",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-045"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アスタ",
+    "effect": "[起動メイン]\n[ターン1]\n自分の手札を1枚自分の山札の上に置く。そうした場合、このキャラは次の自分のターン開始時まで、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿斯塔",
+    "effectZh": "[启动主效果]\n[回合 1]\n将自己的手牌一张置于自己牌库上方。如此操作，本角色在下一个自己回合开始之前，BP+1000。",
+    "triggerZh": ""
+  }
+}

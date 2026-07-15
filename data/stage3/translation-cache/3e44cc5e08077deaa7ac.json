@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:44:47.185Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3e44cc5e08077deaa7ac",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-021"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "市川 雛菜",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "市川 雏菜",
+    "effectZh": "[无效化冲击]\n（与此角色进行战斗的角色在本场战斗中失去「\n[冲击]」）",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其激活，本回合中，BP+3000。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:22.551Z",
+  "number": "UA01BT/CGH-1-064",
+  "name": "オールハイルブリタニア",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場の［特徴：神聖ブリタニア帝国］全ては、このターン中、BP+1000。自分のフロントLのキャラを1枚選び、このターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。自分の場に〈シャルル・ジ・ブリタニア〉がある場合、カードを1枚引く。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01BT%2FCGH-1-064",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01BT%2FCGH-1-064",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

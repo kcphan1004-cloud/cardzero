@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:47:47.449Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9b5c355cd848e2d4f55a",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-039"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "白瀬 咲耶",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "白瀬 咲耶",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+\n[紫] \n。",
+    "triggerZh": ""
+  }
+}

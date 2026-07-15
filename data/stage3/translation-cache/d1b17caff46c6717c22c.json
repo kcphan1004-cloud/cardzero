@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:38:13.773Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1b17caff46c6717c22c",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-054"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "アーニャ・アールストレイム",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿尼亚·阿尔斯特雷姆",
+    "effectZh": "[Step]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": "[Active]\n选择自身场中任意 1 张角色，将其激活，本回合 BP+3000。"
+  }
+}

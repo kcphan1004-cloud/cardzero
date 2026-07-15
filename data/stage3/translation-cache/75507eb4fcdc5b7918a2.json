@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:36:58.663Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75507eb4fcdc5b7918a2",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-070"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "和泉 愛依",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "和泉 爱依",
+    "effectZh": "若该角色处于激活状态，则该角色的产生能量+\n[红]。",
+    "triggerZh": ""
+  }
+}

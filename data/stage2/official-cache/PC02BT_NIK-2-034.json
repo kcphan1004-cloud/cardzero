@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:07.980Z",
+  "number": "PC02BT/NIK-2-034",
+  "name": "レッドフード",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "ピルグリム／ゴッデス",
+  "generatedEnergy": "紫色×3",
+  "effect": "[登場時]\n自分の場の必要エナジーが3以下の他の［特徴：ゴッデス］を1枚手札に戻してもよい。そうした場合、自分の場の［特徴：ゴッデス］を1枚まで選び、『このターン中、BP+1000』。このキャラが自分の〈レッドフード〉の効果で登場していたなら、『アクティブにし、このターン中、BP+1000』に代わる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC02BT%2FNIK-2-034",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC02BT%2FNIK-2-034",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

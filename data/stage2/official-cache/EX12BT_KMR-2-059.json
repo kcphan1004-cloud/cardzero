@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:21.390Z",
+  "number": "EX12BT/KMR-2-059",
+  "name": "メモリチェンジ",
+  "color": "绿色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "绿色×3",
+  "effect": "このフィールドはアクティブで登場させる。\n[起動メイン]\n[レストにする]\n必要エナジーが2以下の自分の場のアクティブのカード名に「Ｗ」を含むキャラを1枚退場させる。そうした場合、カードを1枚引き、自分の手札から、退場させたキャラとは異なるカード名で必要エナジーが2以下のカード名に「Ｗ」を含む緑のキャラカードを1枚まで自分の場にアクティブで登場させる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-059",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-059",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 3
+      }
+    ]
+  }
+}

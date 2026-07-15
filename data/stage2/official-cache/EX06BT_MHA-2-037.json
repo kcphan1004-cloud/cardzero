@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:00.156Z",
+  "number": "EX06BT/MHA-2-037",
+  "name": "受け継がれし力",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から4枚見る。その中から〈緑谷 出久〉か［特徴：ワン・フォー・オール］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX06BT%2FMHA-2-037",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-037",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

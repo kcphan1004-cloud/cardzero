@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:14.628Z",
+  "number": "EX07BT/BLC-2-046",
+  "name": "月牙十字衝",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "BP3500以下の相手のフロントLのキャラを1枚選び、退場させる。\n自分の場の青の〈黒崎 一護〉の効果でこのカードが自分の手札から場外に置かれた時、自分の手札を1枚自分の山札の下に置いてもよい。そうした場合、その〈黒崎 一護〉に、このターン中、\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）を与える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX07BT%2FBLC-2-046",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-046",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

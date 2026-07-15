@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:57:51.946Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c02863eb690abef613e2",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-006"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジャン・キルシュタイン",
+    "effect": "[自分のターン中]\n自分の場に［特徴：地鳴らし］以外の黄のキャラのカード名が4種類以上ある場合、このキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "让·基尔希斯坦",
+    "effectZh": "[自己的回合]\n自己场上除［特征：地鸣］外的黄色角色卡名有 4 种以上时，该角色的 BP+1500。",
+    "triggerZh": ""
+  }
+}

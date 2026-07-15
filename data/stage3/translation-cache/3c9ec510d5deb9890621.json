@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:18:00.581Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3c9ec510d5deb9890621",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-095"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "天空闘技場",
+    "effect": "[ターン1]\n自分の場のキャラがアタックしてバトルに勝利した時、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "天空竞技场",
+    "effectZh": "[回合 1]\n自己场上的角色攻击并赢得战斗时，抽 1 张牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

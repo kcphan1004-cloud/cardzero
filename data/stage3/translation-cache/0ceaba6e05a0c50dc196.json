@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:26:48.924Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0ceaba6e05a0c50dc196",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-020"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "緋田 美琴",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "绯田 美琴",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

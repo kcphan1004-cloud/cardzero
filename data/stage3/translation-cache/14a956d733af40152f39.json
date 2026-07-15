@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:17:28.550Z",
+  "model": "qwen3.5:9b",
+  "unitId": "14a956d733af40152f39",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-051"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "コルトピ",
+    "effect": "[登場時]\n自分の手札の［特徴：幻影旅団］を1枚公開してもよい。そうした場合、自分の場外から公開したカードと同じカード名のカードを1枚まで自分の山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "科尔特皮",
+    "effectZh": "[登场时]\n可以选择公开自己手牌中 1 张［特征：幻影旅团］。如此做的话，从自己的场外公开的卡相同名称的卡最多放置 1 张在自己的山札上方。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

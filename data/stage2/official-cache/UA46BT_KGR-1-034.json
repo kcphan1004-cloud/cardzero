@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:22.517Z",
+  "number": "UA46BT/KGR-1-034",
+  "name": "楽座市",
+  "color": "紫色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "紫色×3",
+  "effect": "このフィールドはアクティブで登場させる。\n[起動メイン]\n[レストにする]\n以下から1つ選ぶ。\n・自分の山札の上から1枚を裏向きでこのフィールドの下に置く。\n・自分の手札を1枚場外に置く。そうした場合、このフィールドの下の裏向きのカードを全て公開し、『手札に加える』。相手は自身の手札を2枚場外に置いてもよい。相手がそうした場合、『場外に置く』に代わる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-034",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-034",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

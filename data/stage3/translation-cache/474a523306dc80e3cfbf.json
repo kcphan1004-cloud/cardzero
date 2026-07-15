@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:01:17.837Z",
+  "model": "qwen3.5:9b",
+  "unitId": "474a523306dc80e3cfbf",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-053"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "妓夫太郎",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妓夫太郎",
+    "effectZh": "【启动主】\n【支付 1AP】\n【回合 1】抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

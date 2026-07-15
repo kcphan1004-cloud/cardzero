@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:23:24.600Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a1b69390e6e0d428f69",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-039"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アルフェン",
+    "effect": "[アタック時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尔芬",
+    "effectZh": "[攻击时]\n从己方牌库上方查看 1 张卡，并将其置于己方牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

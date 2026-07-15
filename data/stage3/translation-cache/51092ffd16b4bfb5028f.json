@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:22:33.243Z",
+  "model": "qwen3.5:9b",
+  "unitId": "51092ffd16b4bfb5028f",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-033"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "[自分のターン中]\nこのターン中に自分が［特徴：歌］を使用している場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "[自己回合中]\n若自己在本回合使用了［特征：歌］，该角色获得\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

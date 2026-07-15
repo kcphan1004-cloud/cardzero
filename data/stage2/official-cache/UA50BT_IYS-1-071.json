@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:39.459Z",
+  "number": "UA50BT/IYS-1-071",
+  "name": "弥勒",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈弥勒〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の場外のイベントカードを望む枚数リムーブエリアに置き、『BP2500』以下の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場に〈珊瑚〉がある場合、この効果で場外からリムーブエリアに置いたカード1枚につき、この効果で選べるキャラのBPの範囲+500。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA50BT%2FIYS-1-071",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA50BT%2FIYS-1-071",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

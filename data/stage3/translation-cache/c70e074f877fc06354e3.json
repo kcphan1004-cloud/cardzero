@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:27:22.731Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c70e074f877fc06354e3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-047"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "レイナ・プラウラー",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蕾娜·普劳拉",
+    "effectZh": "【登场时】\n将自己场上其他必要能量为 1 以下的角色最多 1 张返回手札。无法返回的情况下，将该角色返回手札。",
+    "triggerZh": ""
+  }
+}

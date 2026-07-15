@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:37:54.825Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4dc44d329a026bfa48a6",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-077"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "黛 冬優子",
+    "effect": "[レイド]\n〈黛 冬優子〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の場外にあるイベントカードを望む枚数リムーブエリアに置き、その枚数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "黛 冬优子",
+    "effectZh": "[Raid]\n将〈黛 冬优子〉激活并移动至前线 L\n[登场时]\n将自己场外的任意数量的事件卡牌移至移除区，选择对方 BP 为（该数量×1000）或以下的角色中最多 1 张位于前线 L 的角色并将其退场。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

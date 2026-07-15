@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:53.644Z",
+  "number": "UA11BT/GNT-1-057",
+  "name": "白夜叉",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "松下村塾",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈白夜叉〉アクティブにし、フロントLに移動できる\n[フロントLにある場合]\n自分の\n[退場時]\nは発動させなくてもよい。\n[登場時]\n以下から1つ選ぶ。\n・自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚まで自分の場にレストで登場させる。\n・このキャラはこのターン中、BP+1000と\n[インパクト（1）]\nを得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA11BT%2FGNT-1-057",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA11BT%2FGNT-1-057",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

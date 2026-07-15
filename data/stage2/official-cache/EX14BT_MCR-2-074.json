@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:52.734Z",
+  "number": "EX14BT/MCR-2-074",
+  "name": "熱気 バサラ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "Fire Bomber",
+  "generatedEnergy": "红色×1",
+  "effect": "このキャラがアタックしてバトルに勝利した時、カードを1枚引き、このバトルで敗北した相手のキャラは退場する代わりに、手札に戻る。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブの場合のみ発動できる。相手はカードを1枚引く。自分の場の他の［特徴：Fire Bomber］を1枚まで選び、アクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX14BT%2FMCR-2-074",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX14BT%2FMCR-2-074",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

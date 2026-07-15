@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:22.588Z",
+  "number": "UA36BT/MCR-1-049",
+  "name": "ドッグファイト",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "このカードは自分の場にカード名に「イサム」か「ガルド」を含むキャラがある場合のみ使用できる。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分のフロントLにカード名に「イサム」を含むキャラとカード名に「ガルド」を含むキャラがある場合、APを1支払ってもよい。そうした場合、自分の場外からカード名に「イサム」か「ガルド」を含むキャラカードを1枚まで手札に加える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-049",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-049",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

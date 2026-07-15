@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:52.483Z",
+  "number": "UA41BT/RNK-1-044",
+  "name": "志々雄 真実",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "このカードを使用する際に、自分の手札の〈志々雄 真実〉か〈駒形 由美〉か［特徴：十本刀］を1枚場外に置いてもよい。そうした場合、このキャラをアクティブで場に登場させる。\n[登場時]\n自分の山札の上から1枚を場外に置き、そのカードの必要エナジーの数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、退場させる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA41BT%2FRNK-1-044",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA41BT%2FRNK-1-044",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

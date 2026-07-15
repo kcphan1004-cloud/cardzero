@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:05:19.903Z",
+  "model": "qwen3.5:9b",
+  "unitId": "33f338988db2195762f4",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-022"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゲンスルー",
+    "effect": "[登場時]\nカードを1枚引く。自分の手札を1枚自分の山札の上に置いてもよい。そうした場合、BP3000以下の相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "刚察鲁",
+    "effectZh": "[登场时]\n抽 1 张牌。可以将自己的手牌中任意 1 张放置于自己山札上方。\n若如此操作，选择 BP3000 以下的对方前线 L 的角色至多 1 枚并返回手牌。",
+    "triggerZh": "[Color]\n选择 BP3500 以下的对方前线 L 的角色 1 枚并返回手牌。"
+  }
+}

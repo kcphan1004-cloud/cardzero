@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:47:19.631Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2b8fea7ef1e6f4d756ad",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-036"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "鈴木 羽那",
+    "effect": "このカードが自分の紫の［特徴：CoMETIK］の効果でリムーブエリアに置かれた時、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。〈鈴木 羽那〉のこの効果でこのターン中に既に選んだキャラは選べない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铃木羽那",
+    "effectZh": "当这张卡因自己紫色的［特征：CoMETIK］效果被放置于场外时，选择对方前线 L 的 1 张角色，本回合中 BP-1000。〈铃木羽那〉的本效果在本回合内已选择的角色不可再次选择。",
+    "triggerZh": ""
+  }
+}

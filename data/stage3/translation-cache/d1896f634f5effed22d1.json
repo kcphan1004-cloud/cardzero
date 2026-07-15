@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:03:18.872Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1896f634f5effed22d1",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-067"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "無惨の血",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "无惨之血",
+    "effectZh": "选择自己 AP 卡最多两张并将其激活。",
+    "triggerZh": "[最终]\n若己方生命值为空，则将己方山札上方的一张置于己方生命区域。"
+  }
+}

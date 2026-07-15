@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:36:02.990Z",
+  "model": "qwen3.5:9b",
+  "unitId": "66c2b43b5ccebe2a4e68",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-064"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "ハシルウマ",
+    "effect": "自分の山札の上から5枚見る。その中から［特徴：noctchill］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "哈西鲁马",
+    "effectZh": "从自己牌库上方查看5张卡。从中公开最多2张［特征：noctchill］加入手牌。将剩余的按任意顺序放回自己牌库下方。",
+    "triggerZh": "[抽]\n抽1张牌。"
+  }
+}

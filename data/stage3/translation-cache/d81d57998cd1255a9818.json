@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:19:25.174Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d81d57998cd1255a9818",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-075"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "吉良 イヅル",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉良伊月",
+    "effectZh": "当角色处于激活状态时，该角色的产生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

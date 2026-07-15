@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:53.918Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c029cd1c5b45c50073c8",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA01NC/KMY-2-002"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[エナジーLにある場合]\n自分のアタックフェイズ開始時、自分のフロントLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "【能量线】\n自己的攻击阶段开始时，选择自己前线的一名角色，可以与其交换位置。",
+    "triggerZh": "【抽牌】\n抽一张牌。"
+  }
+}

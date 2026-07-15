@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:04.706Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99d854d75d56414ccb25",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-042"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ヒソカ",
+    "effect": "[登場時]\n相手の場のキャラを1枚まで選び、このターン中、「最初のアタックをブロックできない」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小杰·富力士",
+    "effectZh": "[登场时]\n选择对手场上的角色最多 1 枚，给予其本回合中「无法阻挡第一次攻击」。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:32:00.802Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a1233226385d29f32723",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-045"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フロストノヴァ",
+    "effect": "自分の場外にあるカード5枚につき、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "霜星",
+    "effectZh": "每有一张位于场外的卡片，该角色 BP+500。",
+    "triggerZh": ""
+  }
+}

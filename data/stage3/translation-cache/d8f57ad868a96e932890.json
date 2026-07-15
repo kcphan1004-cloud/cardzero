@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:28:12.825Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d8f57ad868a96e932890",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-011",
+    "UA01BT/CGH-1-011"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ディートハルト・リート",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "迪特哈尔特·里特",
+    "effectZh": "[登场时]\n查看自身山札上方1张卡。将该卡放置于自身山札的上方或下方。",
+    "triggerZh": ""
+  }
+}

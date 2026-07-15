@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:44:59.815Z",
+  "model": "qwen3.5:9b",
+  "unitId": "993cb0fcc5acf5a5bd5d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-021"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甜花",
+    "effect": "[登場時]\n自分の山札の上から2枚まで場外に置く。\n[起動メイン]\n[ターン1]\n自分の場外の［特徴：ALSTROEMERIA］を3枚望む順で自分の山札の下に置く。そうした場合、このキャラはこのターン中、「このキャラはフロントLでもエナジーを発生させる。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大崎 甜花",
+    "effectZh": "【登场时】\n将自己的牌库上方最多2张卡置于场外。\n【启动主效果】\n【回合1】\n从自己场外的［特征：ALSTROEMERIA］中，按顺序选择3张放入自己的牌库下方。如此操作的情况下，该角色在本回合中获得“即使处于前线L也能产生能量。”",
+    "triggerZh": "【抽卡】\n抽入1张牌。"
+  }
+}

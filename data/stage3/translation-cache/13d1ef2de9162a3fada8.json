@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:13:45.408Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13d1ef2de9162a3fada8",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-058"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "二枚屋 王悦",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。\n[アタック時]\n自分の手札の［特徴：零番隊］を1枚リムーブエリアに置いてもよい。そうした場合、このキャラはこのターン中、BP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "二枚屋 王悦",
+    "effectZh": "[登场时]\n从自己的牌库上方查看一张卡，将其置于自己牌库的上方或下方。\n[攻击时]\n可以将自己手札中［特征：零番队］的一张移至移除区。如此做的话，本回合内此角色 BP+2000。",
+    "triggerZh": "[激活]\n选择自己场上的一枚角色并使其处于激活状态，本回合内 BP+3000。"
+  }
+}

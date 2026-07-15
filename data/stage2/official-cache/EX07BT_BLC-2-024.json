@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:10.940Z",
+  "number": "EX07BT/BLC-2-024",
+  "name": "四楓院 夜一",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[自分のターン中]\nこのキャラはBP+500。\n[登場時]\nこのターン中に自分の手札を場外に置いている場合、自分の手札から、必要エナジーが1以下で消費APが1の特徴を持たない青のキャラカードを1枚まで自分の場にレストで登場させる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX07BT%2FBLC-2-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

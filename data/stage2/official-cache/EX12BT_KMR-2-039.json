@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:18.096Z",
+  "number": "EX12BT/KMR-2-039",
+  "name": "仮面ライダーメテオストーム",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "天ノ川学園高校",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈仮面ライダーメテオ〉アクティブにし、フロントLに移動できる\nこのキャラの以下の効果はどちらかのみが1ターンに1回だけ発動する。\n・このキャラのアタックがブロックされなかった時、カードを1枚まで引く。\n・このキャラがブロックされた時、自分の場にカード名に「メテオ」を含まない［特徴：天ノ川学園高校］が3枚以上ある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにし、このターン中、\n[ダメージ（2）]\nを得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-039",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-039",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

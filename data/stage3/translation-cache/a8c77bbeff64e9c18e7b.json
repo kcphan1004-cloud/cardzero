@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:49:24.112Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8c77bbeff64e9c18e7b",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-077"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "クレイマン",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克雷曼",
+    "effectZh": "【退场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

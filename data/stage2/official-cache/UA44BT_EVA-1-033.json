@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:47.155Z",
+  "number": "UA44BT/EVA-1-033",
+  "name": "エヴァンゲリオン初号機（ガイウスの槍）",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈碇 シンジ〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\nカードを1枚引き、自分の手札から消費APが1で\n[レイド]\nを持たない紫のキャラカードを1枚まで自分の場にアクティブで登場させる。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のフロントLの他のキャラを1枚退場させる。そうした場合、このキャラの\n[登場時]\nを発動する。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA44BT%2FEVA-1-033",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA44BT%2FEVA-1-033",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

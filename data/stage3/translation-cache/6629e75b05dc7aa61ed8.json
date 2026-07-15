@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:45:50.183Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6629e75b05dc7aa61ed8",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-064"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "難問",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、手札に戻し、カードを1枚引く。自分の場に〈モツオ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "难题",
+    "effectZh": "选择对方「前线L」的1张【BP 3000以下】的角色卡使其返回手牌，并抽1张牌。若我方场上有〈莫次奥〉，则改为【BP 5000以下】。",
+    "triggerZh": "[特殊]\n选择对方「前线L」的1张角色卡使其退场。"
+  }
+}

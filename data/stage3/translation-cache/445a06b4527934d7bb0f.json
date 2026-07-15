@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:05:03.103Z",
+  "model": "qwen3.5:9b",
+  "unitId": "445a06b4527934d7bb0f",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-002"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "葛城 リーリヤ",
+    "effect": "[ターン1]\nこのキャラと別のラインに〈紫雲 清夏〉が登場した時、このキャラを別のラインに移動させてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "葛城 莉里亚",
+    "effectZh": "[回合 1]\n当〈紫云 清夏〉登场到与该角色的不同战线时，可以将该角色移动到另一条战线。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

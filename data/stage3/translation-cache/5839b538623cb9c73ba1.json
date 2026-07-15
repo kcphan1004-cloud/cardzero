@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:59:27.248Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5839b538623cb9c73ba1",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-023"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 恵",
+    "effect": "[自分のターン中]\nこのターン中に自分の効果で自分の手札か山札のカードが場外に置かれている場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伏黑惠",
+    "effectZh": "【自己的回合中】\n若本回合内自己效果将自身手牌或山札的卡置于场外，此角色 BP+500。",
+    "triggerZh": "抽牌"
+  }
+}

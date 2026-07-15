@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:57:58.116Z",
+  "model": "qwen3.5:9b",
+  "unitId": "620b945512094f3705be",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-036",
+    "UA02BT/JJK-1-036"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伊地知 潔高",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊地知洁高",
+    "effectZh": "[启动主效果]\n[横置状态]\n[回合 1]\n本回合中，此角色的发生能量+\n[青]\n。主要阶段结束时，使此角色退场。",
+    "triggerZh": ""
+  }
+}

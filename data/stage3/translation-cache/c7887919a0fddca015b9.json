@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:33:31.232Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c7887919a0fddca015b9",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-013"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "尾白 猿夫",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尾白猿夫",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

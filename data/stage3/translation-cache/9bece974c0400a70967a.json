@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:58:46.710Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9bece974c0400a70967a",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-049"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "下弦の陸",
+    "effect": "[退場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "下弦之陆",
+    "effectZh": "[退场时]\n抽 1 张牌，将手札中的 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

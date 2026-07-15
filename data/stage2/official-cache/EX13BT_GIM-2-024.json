@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:32.480Z",
+  "number": "EX13BT/GIM-2-024",
+  "name": "花海 佑芽",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "1年生／Begrazia",
+  "generatedEnergy": "黄色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n自分の場に［特徴：1年生］のカード名が4種類以上か〈花海 咲季〉がある場合、このキャラは自分と相手の効果で手札に戻らず、「このキャラがアタックしてバトルに勝利した時、カードを1枚まで引く。」を得る。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

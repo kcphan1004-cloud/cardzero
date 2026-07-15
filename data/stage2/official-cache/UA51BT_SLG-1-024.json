@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:45.056Z",
+  "number": "UA51BT/SLG-1-024",
+  "name": "道門 泰星",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "このキャラはBP4000以上のキャラにブロックされない。\n[退場時]\n相手は自身の場のキャラを1枚まで選ぶ。選んだキャラにこのターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA51BT%2FSLG-1-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA51BT%2FSLG-1-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

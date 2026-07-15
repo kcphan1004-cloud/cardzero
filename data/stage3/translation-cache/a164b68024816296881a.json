@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:49:20.889Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a164b68024816296881a",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-056"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ユノ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尤诺",
+    "effectZh": "［阶段］\n（可以从前线 L 向能量线移动）",
+    "triggerZh": "［抽牌］\n从牌库上方抽取 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:12:13.261Z",
+  "model": "qwen3.5:9b",
+  "unitId": "62292a828cb8af6a4496",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-095"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "うまい！うまい！うまい！",
+    "effect": "カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "好吃！好吃！好吃！",
+    "effectZh": "抽两张牌，将自己的一张手牌置为场外。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

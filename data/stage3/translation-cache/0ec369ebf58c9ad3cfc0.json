@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:34:45.987Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0ec369ebf58c9ad3cfc0",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-062"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "アリエス・ターナー",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブの場合のみ発動できる。自分の手札を1枚自分の山札の下に置く。そうした場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿里斯・特纳",
+    "effectZh": "[启动主效果]\n[位于前线 L 时]\n[回合 1]\n仅当该角色处于激活状态时可发动。将手牌中的 1 张牌置于自己的山札下方。如此操作后，抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

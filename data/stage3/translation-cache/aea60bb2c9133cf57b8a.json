@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:06:04.851Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aea60bb2c9133cf57b8a",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-011"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レイザーの念獣",
+    "effect": "※このカードはデッキに14枚まで入れられる。\n[自分のターン中]\nこのキャラの下の裏向きのカード1枚につき、このキャラはBP+1000。\n[退場時]\nこのカードを裏向きで自分の場の他の［特徴：念獣］1枚の下に置いてもよい。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "雷之者的念兽",
+    "effectZh": "※此卡最多可放入卡组 14 张。\n[自己的回合中]\n此角色下方的里侧卡每 1 张，此角色的 BP+1000。\n[退场时]\n可将此卡以里侧状态置于自己场上的其他［特征：念兽］的下方。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:32:24.915Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99973fbfa489b8c8ce2a",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-050"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "Sv-262Ba ドラケンIII（ボーグ・コンファールト）",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から\n[レイド]\nを持たないキャラカードを1枚まで手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "Sv-262Ba 多拉肯III（博格·孔法尔托）",
+    "effectZh": "[登场时]\n可以将自己的手牌中1张置于场外。如此做的话，从自己场外将最多持有 [Raid] 的卡以外的角色卡1张加入手牌。",
+    "triggerZh": "[激活]\n选择自己场上的任意一张角色并使其处于激活状态，本回合 BP+3000。"
+  }
+}

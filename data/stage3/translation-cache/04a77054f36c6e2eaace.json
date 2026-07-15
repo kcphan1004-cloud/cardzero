@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:08:24.801Z",
+  "model": "qwen3.5:9b",
+  "unitId": "04a77054f36c6e2eaace",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-043"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "V.V.",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "V.V.",
+    "effectZh": "【登场时】\n将必要能量为 1 以下的自己场上的其他角色至多 1 张返回手牌。若无法返回，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

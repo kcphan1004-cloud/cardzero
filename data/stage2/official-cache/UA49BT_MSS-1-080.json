@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:26.983Z",
+  "number": "UA49BT/MSS-1-080",
+  "name": "優希は千兆点のイケメンよ!!",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+  "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-080",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-080",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

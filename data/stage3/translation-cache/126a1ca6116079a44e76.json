@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:09:18.546Z",
+  "model": "qwen3.5:9b",
+  "unitId": "126a1ca6116079a44e76",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-075"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "チュン太郎",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "春太郎",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[赤]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

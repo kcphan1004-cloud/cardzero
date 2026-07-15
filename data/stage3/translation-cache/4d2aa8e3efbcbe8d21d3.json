@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:28:25.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d2aa8e3efbcbe8d21d3",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-060"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "smile for you",
+    "effect": "自分の場外からキャラカードを1枚まで手札に加える。自分の手札から消費APが1の紫の［特徴：SAOサバイバー］を1枚まで自分の場にアクティブで登場させる。そのキャラに次の自分のターン開始時まで、「このキャラは、相手のキャラの効果で選ばれない。」を与える。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "smile for you",
+    "effectZh": "从自己场外将最多 1 张角色卡加入手牌。从自己的手牌中将消耗 AP 为 1 的紫［特征：SAO Survivor］中最多 1 张以激活状态登场至场上。给予该角色直到下一个自己回合开始为止「此角色不会被对手的角色效果选中。」",
+    "triggerZh": "[Special]\n选择对方的 Front L 角色卡中 1 张并使其退场。"
+  }
+}

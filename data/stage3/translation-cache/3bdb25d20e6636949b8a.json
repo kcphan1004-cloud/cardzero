@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:51:27.158Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3bdb25d20e6636949b8a",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-076"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "楽巌寺 嘉伸",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "乐岩寺嘉伸",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其处于激活状态，本回合中，BP+3000。"
+  }
+}

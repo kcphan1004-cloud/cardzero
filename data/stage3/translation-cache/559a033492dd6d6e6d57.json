@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:32:10.371Z",
+  "model": "qwen3.5:9b",
+  "unitId": "559a033492dd6d6e6d57",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-004"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "芦戸 三奈",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "芦户三奈",
+    "effectZh": "此角色处于激活状态时，此角色的产生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:50.438Z",
+  "number": "UA02BT/JJK-1-094",
+  "name": "自閉円頓裹",
+  "color": "紫色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[ターン1]\n自分の場の〈真人〉がアタックした時、自分の場の〈真人〉以外のキャラを1枚退場させてもよい。そうした場合、自分の手札か自分の場外から特徴に「改造人間」を持つキャラカードを1枚まで自分の場にアクティブで登場させる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA02BT%2FJJK-1-094",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA02BT%2FJJK-1-094",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

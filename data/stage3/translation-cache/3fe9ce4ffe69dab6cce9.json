@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:33:29.569Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3fe9ce4ffe69dab6cce9",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-058"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "AXIA～ダイスキでダイキライ～",
+    "effect": "自分の場の［特徴：Δ小隊］か［特徴：ワルキューレ］を1枚選び、このターン中、BP+2000。自分のAPカードを1枚アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "AXIA～ダイスキでダイキライ～",
+    "effectZh": "从自己场上的［特征：Δ小队］或［特征：瓦尔基里］中选择 1 张，本回合中 BP+2000。激活自己的 AP 角色卡 1 张。",
+    "triggerZh": "【激活】\n选择自己场上的角色卡 1 张，将其激活，并使其在本回合中 BP+3000。"
+  }
+}

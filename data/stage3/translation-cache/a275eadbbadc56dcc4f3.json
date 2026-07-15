@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:40:35.851Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a275eadbbadc56dcc4f3",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-024"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "玉犬：黒＆白",
+    "effect": "[アタック時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玉犬：黑&白",
+    "effectZh": "[攻击时]\n选择自己场上的其他角色最多 1 名，本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

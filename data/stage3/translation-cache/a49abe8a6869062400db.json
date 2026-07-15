@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:36:02.995Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a49abe8a6869062400db",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-066"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "faaaar",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "faaaar",
+    "effectZh": "抽1张牌，并将自己的手牌中最多1张置为场外。选择自己场上最多1张AP卡并激活。",
+    "triggerZh": "[激活]\n选择自己场上的1张角色卡并激活，本回合BP+3000。"
+  }
+}

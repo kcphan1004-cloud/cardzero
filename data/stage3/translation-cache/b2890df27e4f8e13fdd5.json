@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:22:58.250Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b2890df27e4f8e13fdd5",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-024"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ミラージュ・ファリーナ・ジーナス",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "幻影·法利纳·吉纳斯",
+    "effectZh": "若此角色处于激活状态，则此角色的发生能量+\n【紫】\n。",
+    "triggerZh": ""
+  }
+}

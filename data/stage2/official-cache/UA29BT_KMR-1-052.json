@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:13.430Z",
+  "number": "UA29BT/KMR-1-052",
+  "name": "仮面ライダーエグゼイド ムテキゲーマー",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "ドクター",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\nカード名に「エグゼイド」を含むキャラ アクティブにし、フロントLに移動できる\nこのキャラはBP+1000。\nこのキャラの下の裏向きのカードの枚数により、このキャラは以下の効果を全て得る。\n・2枚以上：\n[2回アタック]\n・4枚以上：このキャラはバトルの敗北とカードの効果で場を離れず、BPをマイナスする効果を受けない。\n[登場時]\nこのキャラのレイド元が必要エナジーが5以上のカードの場合、自分の山札の上から1枚を裏向きでこのキャラの下に置いてもよい。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29BT%2FKMR-1-052",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-052",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

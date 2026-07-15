@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:48:37.384Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69e003204dc175a4f500",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-040"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "黒色彗星",
+    "effect": "カードを2枚引く。\nこのカードが自分の紫の［特徴：CoMETIK］の効果でリムーブエリアに置かれた時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑色彗星",
+    "effectZh": "抽 2 张牌。\n此卡在因自己的紫［特征：CoMETIK］效果被置于移除区时，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

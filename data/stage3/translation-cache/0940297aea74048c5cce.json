@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:54.313Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0940297aea74048c5cce",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-084"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ネオン",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中からキャラカードを1枚まで公開し手札に加える。公開したカードが消費APが1のキャラカードで必要エナジーを満たす場合、手札に加える代わりに自分の場にアクティブで登場させるかレイドさせてもよい。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "霓虹",
+    "effectZh": "[登场时]\n查看自己牌库上方的 4 张卡。从中公开最多 1 张角色卡并加入手牌。若公开的卡片是消耗 AP 为 1 的角色卡且满足必要能量，可以选择不将其加入手牌，而是直接以激活状态登场或发动 Raid。\n将剩余的卡按任意顺序置于自己牌库下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:38:59.566Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1efb66cefe91935615d",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-073"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "謎に満ちた物流会社",
+    "effect": "自分の山札の上から5枚見る。その中から赤のキャラカードをBPの合計が7500以下になるように望む枚数公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "充满谜团的物流公司",
+    "effectZh": "查看自己牌库上方的 5 张卡。从中公开希望数量的红色角色卡，使得其 BP 总和不超过 7500，加入手牌。将剩余的卡按任意顺序置于牌库下方。",
+    "triggerZh": "[登场时]\n抽 1 张牌。"
+  }
+}

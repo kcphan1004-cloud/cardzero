@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:06:42.053Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9c72dcb7776c4609650a",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-028"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "生きるための理由",
+    "effect": "自分の場外から必要エナジーが3以下で消費APが1の紫のキャラカードを1枚自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "生存的理由",
+    "effectZh": "从自己的场外选择消耗AP为1且能量在3以下的紫色角色卡1张，以横置状态登场到自己的场地上。",
+    "triggerZh": "[Draw] \n抽1张牌。"
+  }
+}

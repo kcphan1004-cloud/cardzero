@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:38:13.775Z",
+  "model": "qwen3.5:9b",
+  "unitId": "068956438dc0950f25ce",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-055"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "枢木 スザク",
+    "effect": "[アタック時]\n[ターン1]\n自分の場の特徴に「ナイトオブラウンズ」を持つ他のキャラを1枚まで選び、このターン中、\n[ダメージ（+1）]\n（このキャラがアタックで直接ダメージを与える時、追加で1ダメージ）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "枢木朱雀",
+    "effectZh": "[攻击时]\n[Turn 1]\n选择自身场中拥有「Nightowl」特征的其他角色最多 1 张，本回合\n[Damage (+1)]\n（该角色进行直接伤害攻击时，额外造成 1 点伤害）。",
+    "triggerZh": ""
+  }
+}

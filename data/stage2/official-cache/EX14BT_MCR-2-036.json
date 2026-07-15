@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:46.452Z",
+  "number": "EX14BT/MCR-2-036",
+  "name": "フレイア・ヴィオン",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "ケイオス／ワルキューレ",
+  "generatedEnergy": "紫色×1",
+  "effect": "このカードを手札からレイドする際、自分の場に［特徴：ワルキューレ］のカード名が5種類以上ある場合、消費APを-1する。このターン中に他の〈フレイア・ヴィオン〉をAPを支払わずにレイドしているなら、この効果は無効になる。\n[レイド]\n〈フレイア・ヴィオン〉アクティブにし、フロントLに移動できる\n[アタック時]\n自分の場に［特徴：ワルキューレ］のカード名が3種類以上ある場合、自分の場のキャラ全ては、このターン中、BP+1000。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX14BT%2FMCR-2-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX14BT%2FMCR-2-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

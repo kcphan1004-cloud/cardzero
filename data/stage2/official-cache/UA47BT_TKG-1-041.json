@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:38.197Z",
+  "number": "UA47BT/TKG-1-041",
+  "name": "金木 研",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 7,
+  "ap": 2,
+  "bp": "4000+",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "自分の場外にあるカードの必要エナジーの数が5種類以上ある場合、手札にあるこのカードの必要エナジーを\n[紫×2]\n減らす。\nこのキャラはアクティブで登場させる。\n[自分のターン中]\nこのキャラはBP+1000。\n[登場時]\nこのキャラはこのターン中、「相手はこのキャラの1回目のアタックを可能ならブロックしなければならない。」と「\n[ターン1]\nこのキャラがアタックしてバトルに勝利した時、このキャラをアクティブにする。」を得る。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA47BT%2FTKG-1-041",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA47BT%2FTKG-1-041",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

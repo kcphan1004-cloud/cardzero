@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:14:27.197Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4dcc031d73f3fa1656f",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-013"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "鎹鴉",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鎹鸦",
+    "effectZh": "[启动主]\n[横置时]\n[回合1]\n本回合中，此角色产生的能量+\n[青]。\n主阶段结束时，使此角色退场。",
+    "triggerZh": ""
+  }
+}

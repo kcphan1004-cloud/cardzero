@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:31:40.083Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8fbe5f4ef9148949c08c",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-090"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ロウ",
+    "effect": "[自分のターン中]\n自分の場外にイベントカードが4枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗",
+    "effectZh": "在自己的回合中\n自己的场外有 4 张以上事件卡的情况下，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

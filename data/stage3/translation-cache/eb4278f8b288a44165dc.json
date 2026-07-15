@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:00:54.242Z",
+  "model": "qwen3.5:9b",
+  "unitId": "eb4278f8b288a44165dc",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-021"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "斬月",
+    "effect": "自分の場の青の〈黒崎 一護〉の効果でこのカードが自分の手札から場外に置かれた時、その〈黒崎 一護〉に、このターン中、「このキャラはBP3000以下のキャラにブロックされない。」を与えてもよい。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斩月",
+    "effectZh": "当自身的青〈黑崎一护〉的效果将此卡从自身手牌放置场外时，可以给予该〈黑崎一护>：本回合中，“此角色不会被BP 3000以下的角色阻挡。”。",
+    "triggerZh": "【激活】\n选择自身的场上一张角色，使其处于激活状态，本回合中BP+3000。"
+  }
+}

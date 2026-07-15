@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:16:04.246Z",
+  "number": "UA54BT/MST-1-073",
+  "name": "ルーデウス",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "ラノア魔法大学",
+  "generatedEnergy": "绿色×5",
+  "effect": "このカードはエナジーLに〔登場・移動〕できず、自分の効果以外でアクティブにならない。\n[起動メイン]\n自分の発生エナジーが7以上ある場合のみ発動できる。このキャラをアクティブにする。カードを1枚引く。自分の場のキャラを1枚まで選び、このターン中、BP+2000。このキャラはこのターン中、「自分のアタックフェイズ終了時、このキャラをアクティブにする。」を得る。〈ルーデウス〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT%2FMST-1-073",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-073",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 5
+      }
+    ]
+  }
+}

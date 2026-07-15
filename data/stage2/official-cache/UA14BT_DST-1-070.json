@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:56.620Z",
+  "number": "UA14BT/DST-1-070",
+  "name": "大木 大樹",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[自分のターン中]\nこのキャラとのバトルで敗北した相手のキャラは、退場しない。\n[ターン1]\nこのキャラがアタックしてブロックされた時、カードを1枚引く。\n[レイド]\n〈大木 大樹〉アクティブにし、フロントLに移動できる\n[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、このキャラは\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA14BT%2FDST-1-070",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA14BT%2FDST-1-070",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

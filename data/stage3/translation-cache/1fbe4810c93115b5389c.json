@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:31:20.087Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1fbe4810c93115b5389c",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-071"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "煉󠄁獄 杏寿郎",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、次に自分が「BPの範囲に指定がある効果」でキャラを選ぶ際、指定できるBPの範囲+1000。（BP3000以下のキャラを選べる効果でBP4000以下を選べるようになる）",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "炼狱 杏寿郎",
+    "effectZh": "[启动 Main]\n[将手牌 1 枚置入场外]\n[Turn 1]\n本回合中，下次自己用「指定 BP 范围的效果」选择角色时，可指定的 BP 范围 +1000。（能选 BP3000 以下的角色的效果变为能选 BP4000 以下）",
+    "triggerZh": "[Color]\n选择对方 Front L 的 BP2500 或更低的角色 1 枚并使其退场。"
+  }
+}

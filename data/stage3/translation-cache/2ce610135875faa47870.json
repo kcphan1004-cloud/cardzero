@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:58:39.657Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2ce610135875faa47870",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-037",
+    "UA02BT/JJK-1-037",
+    "EX04BT/JJK-3-040"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "虎杖 悠仁",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "虎杖悠仁",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

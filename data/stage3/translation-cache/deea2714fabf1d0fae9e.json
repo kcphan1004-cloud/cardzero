@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:35:58.027Z",
+  "model": "qwen3.5:9b",
+  "unitId": "deea2714fabf1d0fae9e",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-014"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "上鳴 電気",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "上鸣 电气",
+    "effectZh": "[自己的回合]\n该角色 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张牌，将其置为激活状态，且本回合中，BP+3000。"
+  }
+}

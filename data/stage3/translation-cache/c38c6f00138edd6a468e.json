@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:37:29.827Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c38c6f00138edd6a468e",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-036"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ボンド",
+    "effect": "自分の場外にイベントカードが4枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "邦德",
+    "effectZh": "当场外的事件卡有 4 张以上时，该角色 BP+1500。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

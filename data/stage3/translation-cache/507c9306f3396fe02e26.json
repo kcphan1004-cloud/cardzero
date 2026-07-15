@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:20:22.572Z",
+  "model": "qwen3.5:9b",
+  "unitId": "507c9306f3396fe02e26",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-022"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユイ",
+    "effect": "[登場時]\nカードを1枚引く。このターン中、次に特徴に「ALO」を持つ〈キリト〉が登場した時、カードを1枚まで引く。〈ユイ〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "结城明日奈",
+    "effectZh": "[登场时]\n抽 1 张牌。若下一张拥有「ALO」特征的角色卡（即〈桐人〉）登场，则最多可再抽 1 张牌。「尤吉欧」的此效果每回合仅能发动 1 次。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

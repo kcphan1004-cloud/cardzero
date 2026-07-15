@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:31:30.436Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e37c2521947787e3d48",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-025"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "暁 直参仕様（C.C.機）",
+    "effect": "[レイド]\n〈C.C.〉アクティブにし、フロントLに移動できる\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[アタック時]\nBP1000以上の相手のフロントLのキャラ全ては、このターン中、BP-500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "晓·直参规格（C.C.机）",
+    "effectZh": "【Raid】\n激活〈C.C.〉，可移动至前线 L。\n【无效冲击】\n（与该角色进行战斗的角色在本场战斗中失去【冲击】）\n【攻击时】\nBP1000 以上的对方前线 L 的所有角色本回合 BP-500。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

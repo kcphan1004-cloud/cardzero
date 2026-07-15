@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:03:03.754Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3bfd9a1f015d01140080",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-044"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "狗巻 棘",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "狗卷 棘",
+    "effectZh": "当本角色处于激活状态时，此角色的发生能量+\n[红]。",
+    "triggerZh": ""
+  }
+}

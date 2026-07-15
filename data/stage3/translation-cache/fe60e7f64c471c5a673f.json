@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:51:02.864Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fe60e7f64c471c5a673f",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-059"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "爆豪 勝己",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[緑×2]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "爆豪胜己",
+    "effectZh": "自己场上没有卡时，将手牌中这张卡的必要能量 [绿×2] 减少。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

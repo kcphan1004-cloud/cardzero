@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:48.679Z",
+  "number": "UA44BT/EVA-1-042",
+  "name": "エヴァンゲリオン改8号機",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "WILLE",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈真希波・マリ・イラストリアス〉アクティブにし、フロントLに移動できる\nこのキャラの下の裏向きのカード1枚につき、このキャラはBP+500。\n[登場時]\nカードを2枚引き、自分の手札を1枚場外に置く。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n相手のフロントLのキャラを1枚選び、このターン中、BP-1000。この効果で相手のキャラのBPが0以下になった場合、自分の山札の上から1枚まで裏向きでこのキャラの下に置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA44BT%2FEVA-1-042",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA44BT%2FEVA-1-042",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

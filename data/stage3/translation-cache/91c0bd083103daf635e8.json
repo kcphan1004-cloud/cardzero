@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:52:00.689Z",
+  "model": "qwen3.5:9b",
+  "unitId": "91c0bd083103daf635e8",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-012"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 玄弥",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "不死川 玄弥",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中,\n[冲击] \n失效）",
+    "triggerZh": ""
+  }
+}

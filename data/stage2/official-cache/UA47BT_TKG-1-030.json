@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:36.039Z",
+  "number": "UA47BT/TKG-1-030",
+  "name": "鈴屋先輩は、部下を見捨てません",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "以下から1つ選ぶ。\n・自分の場外から必要エナジーを満たし消費APが1の〈阿原 半兵衛〉を1枚まで自分の場にレストで登場させる。\n・自分の山札の上から6枚見て、〈鈴屋 什造〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。自分の場に〈阿原 半兵衛〉がある場合、自分のAPカードを1枚アクティブにする。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA47BT%2FTKG-1-030",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA47BT%2FTKG-1-030",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

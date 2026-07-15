@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:18:42.199Z",
+  "model": "qwen3.5:9b",
+  "unitId": "68a1d6eb2718717d9012",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-062"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ウイング",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "温格",
+    "effectZh": "【启动主阶段】\n【位于前线L时】\n【将手牌的1张放置于场外】\n【第1回合】\n选择自己场上的其他角色中的1张，本回合中BP+1000。",
+    "triggerZh": "【抽卡】\n抽1张牌。"
+  }
+}

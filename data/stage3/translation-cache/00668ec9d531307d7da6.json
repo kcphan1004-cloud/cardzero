@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:05:50.825Z",
+  "model": "qwen3.5:9b",
+  "unitId": "00668ec9d531307d7da6",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-011"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "バズビー",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\nこのキャラはこのターン中、\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）と「このキャラがアタックしてバトルに勝利した時、カードを1枚引く。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴兹比",
+    "effectZh": "[启动主效果]\n[将手牌 1 张置入场外]\n此角色在本回合中，\n[伤害 (2)]\n（当此角色通过攻击直接造成伤害时，代替造成 2 点伤害）和“当此角色通过攻击赢得战斗时，抽 1 张牌。”",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

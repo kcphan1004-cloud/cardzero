@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:04:25.559Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2dd3da202afe756c804",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-050"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "日下部 篤也",
+    "effect": "このキャラはBP4000以上の相手のキャラの効果で選ばれない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "日下部 笃也",
+    "effectZh": "此角色不会被 BP 为 4000 以上的对方角色的效果选择。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 张，将其激活，本回合中『BP+3000』"
+  }
+}

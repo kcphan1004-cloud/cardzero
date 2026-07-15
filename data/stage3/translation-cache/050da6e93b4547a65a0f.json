@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:39:57.311Z",
+  "model": "qwen3.5:9b",
+  "unitId": "050da6e93b4547a65a0f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-090"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "杜野 凛世",
+    "effect": "[登場時]\n自分の場の他の［特徴：放課後クライマックスガールズ］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杜野凛世",
+    "effectZh": "【登场时】\n选择自己场上的其他 1 张［特征：放学后 Climax Girls］，本回合中 BP+1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

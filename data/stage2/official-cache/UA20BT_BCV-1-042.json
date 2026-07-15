@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:46:57.881Z",
+  "number": "UA20BT/BCV-1-042",
+  "name": "メレオレオナ・ヴァーミリオン",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000",
+  "feature": "紅蓮の獅子王",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈メレオレオナ・ヴァーミリオン〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラを1枚選び、アクティブにし、このターン中、BP+1000。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA20BT%2FBCV-1-042",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-042",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

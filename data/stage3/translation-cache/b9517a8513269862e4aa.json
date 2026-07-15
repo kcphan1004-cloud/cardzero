@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:03:41.858Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b9517a8513269862e4aa",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-006"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，失去【冲击】）\n【退场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

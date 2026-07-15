@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:20.614Z",
+  "number": "UA46BT/KGR-1-023",
+  "name": "漣 宗也",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "濤",
+  "generatedEnergy": "紫色×1",
+  "effect": "[登場時]\nこのターン中に自分のキャラの効果でAPを支払っている場合、自分の手札を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。〈漣 宗也〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-023",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-023",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

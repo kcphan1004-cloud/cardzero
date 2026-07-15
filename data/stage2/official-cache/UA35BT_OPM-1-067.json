@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:04.268Z",
+  "number": "UA35BT/OPM-1-067",
+  "name": "マジ殴り",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 12,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場に〈サイタマ〉がない場合、このカードは使用できない。\n自分の場外にあるカード5枚につき、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。\n相手のフロントLのキャラとエナジーLのキャラをそれぞれ1枚まで選び、退場させる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA35BT%2FOPM-1-067",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA35BT%2FOPM-1-067",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 12
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

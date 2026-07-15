@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:09:18.548Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7203fdeba01894ab134d",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-076"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "嘴平 伊之助",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "嘴平·伊之助",
+    "effectZh": "",
+    "triggerZh": "[登场时] 将此卡加入手牌。"
+  }
+}

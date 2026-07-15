@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:24:19.291Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c72a36b2ed32a917d1e9",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-037"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "クライン",
+    "effect": "[退場時]\n自分の山札の上から2枚まで場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "克莱因",
+    "effectZh": "[退场时]\n将自己的牌库上方最多 2 张卡置为场外。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色，将其激活，本回合中 BP+3000。"
+  }
+}

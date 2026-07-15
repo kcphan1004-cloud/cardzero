@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:31:04.211Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3018b91b98890a416449",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-072"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シノン",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "希恩诺",
+    "effectZh": "【登场时】\n从自己的牌库上方查看 1 张卡。将该卡置于自己牌库的上方或下方。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

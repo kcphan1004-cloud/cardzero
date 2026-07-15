@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:32:00.803Z",
+  "model": "qwen3.5:9b",
+  "unitId": "295f4ef3466fc03f5a89",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-046"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フロストノヴァ",
+    "effect": "[登場時]\nこのターン中、次に手札から使用するBP1000以下のキャラカードの消費APを-1する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "霜星",
+    "effectZh": "[登场时]\n本回合内，将下一张从手牌使用的、消耗 AP 为 1000 或以下的角色卡的消耗 AP-1。",
+    "triggerZh": ""
+  }
+}

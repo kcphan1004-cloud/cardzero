@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:41:05.849Z",
+  "model": "qwen3.5:9b",
+  "unitId": "06a2cbd58d7595041252",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-099"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "腹が減っては遊びはできぬ",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+1000。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "肚子饿就不能玩了",
+    "effectZh": "选择自己场上的至多 1 名角色，本回合中 BP+1000。选择自己的 AP 卡至多 1 张并激活之。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色，将其激活，本回合中 BP+3000。"
+  }
+}

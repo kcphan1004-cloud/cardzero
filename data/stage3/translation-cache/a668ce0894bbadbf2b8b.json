@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:13:45.406Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a668ce0894bbadbf2b8b",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-056"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "修多羅 千手丸",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "修达罗·千手丸",
+    "effectZh": "",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

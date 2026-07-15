@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:38:22.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "68431deff7f14356de3e",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-042"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "メイコ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美子",
+    "effectZh": "[登场时]\n将自身场上其他角色中 1 张返回手牌（若无法返回则将此卡返回手牌）。",
+    "triggerZh": ""
+  }
+}

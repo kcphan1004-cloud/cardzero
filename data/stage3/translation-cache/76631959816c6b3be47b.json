@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:29:24.740Z",
+  "model": "qwen3.5:9b",
+  "unitId": "76631959816c6b3be47b",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-012"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "円ちゅわ～ん",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "圆嘟哇～恩",
+    "effectZh": "[登场时]\n查看自己牌库上方的 1 张卡。将该卡放回自己牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

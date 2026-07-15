@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:50.631Z",
+  "number": "EX14BT/MCR-2-061",
+  "name": "GIRAFFE BLUES",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "歌（ワルキューレ）",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。その後、以下から1つ選ぶ。\n・相手のフロントLのキャラを1枚まで選び、次の自分のターン開始時まで、「このキャラはアタックできない。」を与える。\n・相手のフロントLのレイド状態のキャラを1枚まで選び、レイド状態の上のカードを1枚場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX14BT%2FMCR-2-061",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX14BT%2FMCR-2-061",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

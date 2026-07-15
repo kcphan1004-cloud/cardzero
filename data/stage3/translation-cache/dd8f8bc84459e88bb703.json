@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:49:14.037Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dd8f8bc84459e88bb703",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-084"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ゴリジ&ルミ＆ゴリスケ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "格力吉&露美&格里斯凯",
+    "effectZh": "【启动主】\n【横置】\n【回合 1】\n本回合中，此角色的产生能量+\n[绿色]\n。主要阶段结束时，使此角色退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:33.412Z",
+  "number": "UA47BT/TKG-1-016",
+  "name": "佐々木 琲世",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "CCG／真戸班",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈佐々木 琲世〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）\n[起動メイン]\n[ターン1]\nこのキャラが登場したターン中のみ発動できる。自分のAPカードを全てアクティブにする。このターン中、自分は手札を使用できない。\n[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\n自分の場の［特徴：真戸班］全ては、このターン中、BP+1000。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA47BT%2FTKG-1-016",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA47BT%2FTKG-1-016",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

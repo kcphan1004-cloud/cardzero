@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:03.369Z",
+  "number": "PC02BT/NIK-2-009",
+  "name": "グレイブ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "ピルグリム／オールドテイルズ",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：オールドテイルズ］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚リムーブエリアに置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC02BT%2FNIK-2-009",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC02BT%2FNIK-2-009",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

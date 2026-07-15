@@ -1,0 +1,352 @@
+{
+  "generatedAt": "2026-07-14T16:39:06.293Z",
+  "seriesFiles": 57,
+  "totalRows": 10362,
+  "uniqueCardNumbers": 8208,
+  "actionPointNumbers": 752,
+  "regularCardNumbers": 7456,
+  "series": [
+    {
+      "slug": "100-girlfriends",
+      "file": "100-girlfriends.ts",
+      "rows": 126,
+      "uniqueNumbers": 100
+    },
+    {
+      "slug": "2-5-dimensional-seduction",
+      "file": "2-5-dimensional-seduction.ts",
+      "rows": 118,
+      "uniqueNumbers": 96
+    },
+    {
+      "slug": "arknights",
+      "file": "arknights.ts",
+      "rows": 269,
+      "uniqueNumbers": 209
+    },
+    {
+      "slug": "attack-on-titan",
+      "file": "attack-on-titan.ts",
+      "rows": 268,
+      "uniqueNumbers": 210
+    },
+    {
+      "slug": "black-clover",
+      "file": "black-clover.ts",
+      "rows": 163,
+      "uniqueNumbers": 131
+    },
+    {
+      "slug": "bleach-thousand-year-blood-war",
+      "file": "bleach-thousand-year-blood-war.ts",
+      "rows": 262,
+      "uniqueNumbers": 217
+    },
+    {
+      "slug": "blue-lock",
+      "file": "blue-lock.ts",
+      "rows": 166,
+      "uniqueNumbers": 138
+    },
+    {
+      "slug": "chained-soldier",
+      "file": "chained-soldier.ts",
+      "rows": 125,
+      "uniqueNumbers": 93
+    },
+    {
+      "slug": "chainsaw-man",
+      "file": "chainsaw-man.ts",
+      "rows": 122,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "code-geass-roze",
+      "file": "code-geass-roze.ts",
+      "rows": 114,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "code-geass",
+      "file": "code-geass.ts",
+      "rows": 251,
+      "uniqueNumbers": 204
+    },
+    {
+      "slug": "demon-slayer",
+      "file": "demon-slayer.ts",
+      "rows": 268,
+      "uniqueNumbers": 219
+    },
+    {
+      "slug": "dr-stone",
+      "file": "dr-stone.ts",
+      "rows": 154,
+      "uniqueNumbers": 126
+    },
+    {
+      "slug": "eminence-in-shadow",
+      "file": "eminence-in-shadow.ts",
+      "rows": 131,
+      "uniqueNumbers": 94
+    },
+    {
+      "slug": "evangelion",
+      "file": "evangelion.ts",
+      "rows": 163,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "fullmetal-alchemist",
+      "file": "fullmetal-alchemist.ts",
+      "rows": 165,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "gakuen-idolmaster",
+      "file": "gakuen-idolmaster.ts",
+      "rows": 287,
+      "uniqueNumbers": 194
+    },
+    {
+      "slug": "gamera-rebirth",
+      "file": "gamera-rebirth.ts",
+      "rows": 113,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "gintama",
+      "file": "gintama.ts",
+      "rows": 154,
+      "uniqueNumbers": 126
+    },
+    {
+      "slug": "haikyu",
+      "file": "haikyu.ts",
+      "rows": 161,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "hunter-x-hunter",
+      "file": "hunter-x-hunter.ts",
+      "rows": 250,
+      "uniqueNumbers": 204
+    },
+    {
+      "slug": "idolmaster-shiny-colors",
+      "file": "idolmaster-shiny-colors.ts",
+      "rows": 372,
+      "uniqueNumbers": 265
+    },
+    {
+      "slug": "inuyasha",
+      "file": "inuyasha.ts",
+      "rows": 117,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "jujutsu-kaisen",
+      "file": "jujutsu-kaisen.ts",
+      "rows": 265,
+      "uniqueNumbers": 218
+    },
+    {
+      "slug": "kagurabachi",
+      "file": "kagurabachi.ts",
+      "rows": 125,
+      "uniqueNumbers": 95
+    },
+    {
+      "slug": "kaiju-no",
+      "file": "kaiju-no.ts",
+      "rows": 116,
+      "uniqueNumbers": 93
+    },
+    {
+      "slug": "kamen-rider",
+      "file": "kamen-rider.ts",
+      "rows": 298,
+      "uniqueNumbers": 236
+    },
+    {
+      "slug": "kingdom",
+      "file": "kingdom.ts",
+      "rows": 169,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "kinnikuman",
+      "file": "kinnikuman.ts",
+      "rows": 117,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "macross",
+      "file": "macross.ts",
+      "rows": 289,
+      "uniqueNumbers": 213
+    },
+    {
+      "slug": "madoka-magica",
+      "file": "madoka-magica.ts",
+      "rows": 163,
+      "uniqueNumbers": 131
+    },
+    {
+      "slug": "me-and-roboco",
+      "file": "me-and-roboco.ts",
+      "rows": 150,
+      "uniqueNumbers": 126
+    },
+    {
+      "slug": "monogatari-series",
+      "file": "monogatari-series.ts",
+      "rows": 174,
+      "uniqueNumbers": 131
+    },
+    {
+      "slug": "mushoku-tensei",
+      "file": "mushoku-tensei.ts",
+      "rows": 217,
+      "uniqueNumbers": 189
+    },
+    {
+      "slug": "my-hero-academia",
+      "file": "my-hero-academia.ts",
+      "rows": 258,
+      "uniqueNumbers": 208
+    },
+    {
+      "slug": "nikke",
+      "file": "nikke.ts",
+      "rows": 256,
+      "uniqueNumbers": 187
+    },
+    {
+      "slug": "one-punch-man",
+      "file": "one-punch-man.ts",
+      "rows": 162,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "re-zero",
+      "file": "re-zero.ts",
+      "rows": 164,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "rurouni-kenshin",
+      "file": "rurouni-kenshin.ts",
+      "rows": 164,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "sakamoto-days",
+      "file": "sakamoto-days.ts",
+      "rows": 114,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "series-570801",
+      "file": "series-570801.ts",
+      "rows": 12,
+      "uniqueNumbers": 12
+    },
+    {
+      "slug": "series-570901",
+      "file": "series-570901.ts",
+      "rows": 629,
+      "uniqueNumbers": 538
+    },
+    {
+      "slug": "shangri-la-frontier",
+      "file": "shangri-la-frontier.ts",
+      "rows": 115,
+      "uniqueNumbers": 94
+    },
+    {
+      "slug": "shy",
+      "file": "shy.ts",
+      "rows": 114,
+      "uniqueNumbers": 93
+    },
+    {
+      "slug": "solo-leveling",
+      "file": "solo-leveling.ts",
+      "rows": 118,
+      "uniqueNumbers": 92
+    },
+    {
+      "slug": "sword-art-online",
+      "file": "sword-art-online.ts",
+      "rows": 275,
+      "uniqueNumbers": 214
+    },
+    {
+      "slug": "synduality-noir",
+      "file": "synduality-noir.ts",
+      "rows": 155,
+      "uniqueNumbers": 127
+    },
+    {
+      "slug": "tales-of-arise",
+      "file": "tales-of-arise.ts",
+      "rows": 154,
+      "uniqueNumbers": 126
+    },
+    {
+      "slug": "tekken-7",
+      "file": "tekken-7.ts",
+      "rows": 134,
+      "uniqueNumbers": 106
+    },
+    {
+      "slug": "tekken",
+      "file": "tekken.ts",
+      "rows": 20,
+      "uniqueNumbers": 20
+    },
+    {
+      "slug": "tensura",
+      "file": "tensura.ts",
+      "rows": 255,
+      "uniqueNumbers": 206
+    },
+    {
+      "slug": "to-love-ru",
+      "file": "to-love-ru.ts",
+      "rows": 135,
+      "uniqueNumbers": 96
+    },
+    {
+      "slug": "tokyo-ghoul",
+      "file": "tokyo-ghoul.ts",
+      "rows": 173,
+      "uniqueNumbers": 129
+    },
+    {
+      "slug": "toriko",
+      "file": "toriko.ts",
+      "rows": 155,
+      "uniqueNumbers": 127
+    },
+    {
+      "slug": "undead-unluck",
+      "file": "undead-unluck.ts",
+      "rows": 115,
+      "uniqueNumbers": 94
+    },
+    {
+      "slug": "wind-breaker",
+      "file": "wind-breaker.ts",
+      "rows": 120,
+      "uniqueNumbers": 96
+    },
+    {
+      "slug": "yu-yu-hakusho",
+      "file": "yu-yu-hakusho.ts",
+      "rows": 163,
+      "uniqueNumbers": 130
+    }
+  ]
+}

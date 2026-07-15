@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:17:14.174Z",
+  "model": "qwen3.5:9b",
+  "unitId": "afe4a88dd2f34069b218",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-057"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ポルコ・ガリアード",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "波尔克·加利亚德",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

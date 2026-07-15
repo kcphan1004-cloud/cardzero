@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:32.966Z",
+  "number": "UA40BT/REZ-1-051",
+  "name": "レム",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[レイド]\n〈レム〉アクティブにし、フロントLに移動できる\n[登場時]\n『BP1000』以下の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場の必要エナジーが0の青の〈ナツキ・スバル〉1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-051",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-051",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

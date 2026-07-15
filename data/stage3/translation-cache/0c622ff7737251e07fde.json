@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:07:12.963Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c622ff7737251e07fde",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-017"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ツェズゲラ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铁球兽",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多一张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

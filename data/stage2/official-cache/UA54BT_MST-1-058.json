@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:16:01.693Z",
+  "number": "UA54BT/MST-1-058",
+  "name": "ザノバ＆ジュリエット",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "ラノア魔法大学",
+  "generatedEnergy": "-",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[起動メイン]\n[ターン1]\n自分の発生エナジーが7以上あり、自分の場のキャラが全て［特徴：ラノア魔法大学］の場合のみ発動できる。このキャラは次の自分のターン開始時まで、BP+500。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT%2FMST-1-058",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-058",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

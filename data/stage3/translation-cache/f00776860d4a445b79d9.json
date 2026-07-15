@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:49:20.887Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f00776860d4a445b79d9",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-055"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ユノ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "尤诺",
+    "effectZh": "",
+    "triggerZh": "［激活］\n选择自己场上的角色 1 张，将其置为激活状态，本回合 BP+3000。"
+  }
+}

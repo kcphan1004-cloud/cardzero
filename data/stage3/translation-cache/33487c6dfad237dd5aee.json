@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:56:12.445Z",
+  "model": "qwen3.5:9b",
+  "unitId": "33487c6dfad237dd5aee",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-100"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "智慧之王",
+    "effect": "カードを4枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "智慧之王",
+    "effectZh": "抽四张牌，并将自己手牌中的两张卡置于场外。\n[抽]\n抽一张牌。",
+    "triggerZh": "[抽]"
+  }
+}

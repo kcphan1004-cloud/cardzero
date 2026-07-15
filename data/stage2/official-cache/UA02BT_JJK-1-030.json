@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:39.256Z",
+  "number": "UA02BT/JJK-1-030",
+  "name": "術式反転「赫」",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "BP4000以下の相手のフロントLのキャラを1枚選び、エナジーLに移動させる。（移動させる時にそのラインに空きがない場合、そのカードがある場のプレイヤーはカードを1枚選んでリムーブエリアに置いてから移動させる）",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA02BT%2FJJK-1-030",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA02BT%2FJJK-1-030",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

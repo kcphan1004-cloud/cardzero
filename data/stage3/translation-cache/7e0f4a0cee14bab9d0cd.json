@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:32:10.372Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7e0f4a0cee14bab9d0cd",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-005"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "蛙吹 梅雨",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蛙吹梅雨",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己的手牌 1 张置为场外。\n[抽取]\n抽 1 张牌。",
+    "triggerZh": "[Draw]"
+  }
+}

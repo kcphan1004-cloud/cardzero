@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:12.662Z",
+  "number": "EX12BT/KMR-2-008",
+  "name": "仮面ライダーガヴ ブリザードソルベフォーム",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "-",
+  "generatedEnergy": "黄色×3",
+  "effect": "[自分のターン中]\nこのターン中に自分の場の〈ゴチゾウ〉が退場している場合、このキャラはBP+1000と「\n[エナジーLにある場合]\n自分のキャラのアタック終了時、自分のフロントLに空きがある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをフロントLに移動させる。」を得る。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-008",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-008",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:50:20.510Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f8e936a7ccedeb39dbcc",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-086"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ルリ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "琉璃",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

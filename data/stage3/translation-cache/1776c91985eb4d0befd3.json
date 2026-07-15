@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:23:57.581Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1776c91985eb4d0befd3",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-064"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "クラピカ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "奇犽·揍敌客",
+    "effectZh": "",
+    "triggerZh": "[抽牌] 抽 1 张牌。"
+  }
+}

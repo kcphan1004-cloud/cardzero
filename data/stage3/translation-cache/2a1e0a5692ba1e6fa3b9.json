@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:38:59.573Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a1e0a5692ba1e6fa3b9",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-081"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "小宮 果穂",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "小宫果穂",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

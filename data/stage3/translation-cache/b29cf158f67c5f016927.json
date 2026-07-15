@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:21:33.081Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b29cf158f67c5f016927",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-023"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ロウ",
+    "effect": "[登場時]\n自分の場に〈リンウェル〉がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗乌",
+    "effectZh": "【登场时】\n若自己的场上有〈林维尔〉，抽 1 张牌并将自己手札中的 1 张置入场外。\n\n【激活】\n选择自己场上的 1 名角色并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[触发]\n将这张卡加入手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:36:08.423Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6c83b9e2b02d2c106d3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-072"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "エルマ・ホイリー",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下の〈熱気 バサラ〉を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "埃尔玛·惠利",
+    "effectZh": "[登场时]\n可将自己手札中的一张卡放置于场外。若如此做，则可从自己的场外选择最多 1 张必要能量为 3 以下的〔热気巴萨拉〕加入手札。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

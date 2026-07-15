@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:52:49.798Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c396e45661fb15a9b20",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-006",
+    "UA09BT/BTR-1-006"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ボンド",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "ボンド",
+    "effectZh": "[步骤]（可从前线L移动至能量线）",
+    "triggerZh": ""
+  }
+}

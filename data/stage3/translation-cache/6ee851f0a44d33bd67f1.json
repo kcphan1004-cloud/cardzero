@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:14:27.195Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ee851f0a44d33bd67f1",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-012"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "隠",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場のキャラを1枚まで選び、別のラインに移動させる。\n・自分のフロントLのキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "隐",
+    "effectZh": "[登场时]\n选择以下其中1个。\n・选择自己场上的角色卡中的最多1张并移动至其他线。\n・可以选择将自己前线L的角色与能量线的角色各选1张，交换它们的位置。",
+    "triggerZh": ""
+  }
+}

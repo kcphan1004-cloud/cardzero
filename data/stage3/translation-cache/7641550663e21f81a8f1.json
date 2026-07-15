@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:12:45.193Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7641550663e21f81a8f1",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-045"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "篠澤 広",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "篠泽广",
+    "effectZh": "[攻击时]\n抽 1 张牌并将自己的手牌中 1 张放置于场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡 1 枚并将其激活，此回合中 BP+3000。"
+  }
+}

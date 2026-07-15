@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:56:02.125Z",
+  "model": "qwen3.5:9b",
+  "unitId": "50ab3ba1a23f590abec9",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-008"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "脱兎",
+    "effect": "このキャラが自分の場から手札に戻った時、自分の場の［特徴：式神］を1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "脱兔",
+    "effectZh": "当该角色从自己的场返回手牌时，选择自己场上的［特征：式神］至多 1 枚并将其激活。\n[激活]\n选择自己场上的角色 1 枚并将其激活，本回合内 BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

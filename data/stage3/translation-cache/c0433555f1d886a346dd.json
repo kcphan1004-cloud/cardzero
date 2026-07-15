@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:07:14.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c0433555f1d886a346dd",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-035"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "クロロ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "奇犽",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

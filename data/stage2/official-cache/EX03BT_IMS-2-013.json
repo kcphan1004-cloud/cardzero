@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:16.013Z",
+  "number": "EX03BT/IMS-2-013",
+  "name": "七草 にちか",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "3500+",
+  "feature": "SHHis",
+  "generatedEnergy": "黄色×1",
+  "effect": "自分の場に〈283プロダクション〉がある場合、このキャラは「このキャラはフロントLにある場合もエナジーを発生させる。」と「\n[自分のターン中]\nこのキャラはBP+500。」を得る。\n[登場時]\n自分の山札の上から7枚見る。その中から必要エナジーが1以下で消費APが1の〔キャラカードかフィールドカード〕を1枚まで公開し『手札に加える』。残りを望む順で自分の山札の下に置く。公開したカードが必要エナジーを満たす場合、『自分の場にレストで登場させる』に代えてもよい。",
+  "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX03BT%2FIMS-2-013",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX03BT%2FIMS-2-013",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

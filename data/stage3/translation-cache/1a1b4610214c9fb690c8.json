@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:27:31.055Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1a1b4610214c9fb690c8",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-104"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "黒崎 一護",
+    "effect": "[レイド]\n〈黒崎 一護〉アクティブにし、フロントLに移動できる\n[起動メイン]\n[ターン1]\n自分の場外にあるカードを4枚リムーブエリアに置く。そうした場合、カードを1枚引き、このキャラはこのターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "黑崎一护",
+    "effectZh": "[Raid]\n〈黑崎 一护〉激活并移动到前线 L\n[启动 Main]\n[Turn 1]\n将自己场外存在的卡放置到移除区。那样的话，抽 1 张牌，该角色在本回合中,\n[Impact（1）]\n（攻击时赢得战斗，对对手玩家造成 1 点伤害）。",
+    "triggerZh": "[Raid]"
+  }
+}

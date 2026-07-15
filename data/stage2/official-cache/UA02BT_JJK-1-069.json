@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:45.963Z",
+  "number": "UA02BT/JJK-1-069",
+  "name": "夏油 傑",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n自分の場の他のキャラを1枚退場させてもよい。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中に自分の場のキャラが退場している場合のみ発動できる。相手は自身の場のキャラを1枚退場させる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA02BT%2FJJK-1-069",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA02BT%2FJJK-1-069",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:12:58.574Z",
+  "model": "qwen3.5:9b",
+  "unitId": "db5ae52c90535dfd5dd6",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-060"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ミルキ",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "米尔基",
+    "effectZh": "【登场时】\n从自己的牌库上方查看 1 张卡，将其置于自己牌库的上方或下方。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

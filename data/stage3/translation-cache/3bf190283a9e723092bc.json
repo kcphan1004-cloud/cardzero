@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:12:58.573Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3bf190283a9e723092bc",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-059"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ミケ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米卡",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": ""
+  }
+}

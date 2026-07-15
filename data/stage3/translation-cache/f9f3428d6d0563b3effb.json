@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:09:23.374Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f9f3428d6d0563b3effb",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-026"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "顎の巨人",
+    "effect": "自分の場にカード名に「エレン」を含むキャラとカード名に「ジーク」を含むキャラがある場合、このキャラは「このキャラはフロントLにある場合もエナジーを発生させる。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "颚之巨人",
+    "effectZh": "当角色场上存在卡名包含「艾伦」的角色和卡名包含「吉克」的角色的情况下，该角色获得“即使位于前线 L 也会产生能量。”。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

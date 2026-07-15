@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:26.098Z",
+  "number": "UA07BT/TSK-1-023",
+  "name": "ハクロウ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "鬼人",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n[エナジーLにある場合]\n自分のフロントLのアクティブのキャラを1枚選び、このキャラと位置を入れ替えてもよい。そうした場合、このキャラをアクティブにする。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA07BT%2FTSK-1-023",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA07BT%2FTSK-1-023",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,103 +1,51 @@
 "use client";
 
-import { useEffect } from "react";
-
-type GlobalErrorProps = {
-  error: Error & {
-    digest?: string;
-  };
-  unstable_retry: () => void;
-};
-
 export default function GlobalError({
-  error,
   unstable_retry,
-}: GlobalErrorProps) {
-  useEffect(() => {
-    console.error(
-      "CardZero global error:",
-      error,
-    );
-  }, [error]);
-
+}: {
+  error: Error & { digest?: string };
+  unstable_retry?: () => void;
+}) {
   return (
     <html lang="zh-CN">
       <body
         style={{
           margin: 0,
-          background: "#000000",
+          background: "#070707",
           color: "#ffffff",
-          fontFamily:
-            "Arial, Helvetica, sans-serif",
+          fontFamily: "Arial, sans-serif",
         }}
       >
         <main
           style={{
             minHeight: "100vh",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
+            display: "grid",
+            placeItems: "center",
             padding: "24px",
+            textAlign: "center",
           }}
         >
-          <div
-            style={{
-              width: "100%",
-              maxWidth: "520px",
-              border: "1px solid #3f3f46",
-              borderRadius: "24px",
-              background: "#09090b",
-              padding: "32px",
-              textAlign: "center",
-            }}
-          >
-            <p
-              style={{
-                margin: 0,
-                color: "#ef4444",
-                fontSize: "12px",
-                fontWeight: 800,
-                letterSpacing: "0.2em",
-              }}
-            >
-              CARDZERO
-            </p>
+          <div>
+            <h1>网站暂时出现错误</h1>
 
-            <h1
-              style={{
-                marginTop: "16px",
-                marginBottom: 0,
-                fontSize: "28px",
-              }}
-            >
-              页面暂时无法显示
-            </h1>
-
-            <p
-              style={{
-                marginTop: "14px",
-                color: "#a1a1aa",
-                lineHeight: 1.8,
-              }}
-            >
-              系统发生暂时性错误，请重新尝试。
+            <p style={{ color: "#a1a1aa" }}>
+              请稍后重新尝试。
             </p>
 
             <button
               type="button"
-              onClick={unstable_retry}
+              onClick={() => unstable_retry?.()}
               style={{
-                marginTop: "24px",
-                border: 0,
-                borderRadius: "12px",
-                background: "#b91c1c",
+                marginTop: "16px",
+                padding: "10px 18px",
+                border: "1px solid #ef4444",
+                borderRadius: "8px",
+                background: "#dc2626",
                 color: "#ffffff",
-                padding: "12px 20px",
-                fontWeight: 800,
                 cursor: "pointer",
               }}
             >
-              重新载入
+              重新尝试
             </button>
           </div>
         </main>

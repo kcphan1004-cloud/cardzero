@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:20:21.482Z",
+  "model": "qwen3.5:9b",
+  "unitId": "efafb79bf87e3b4f8676",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-030"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "甘露寺 蜜璃",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "甘露寺 蜜璃",
+    "effectZh": "[无效冲击]（与该角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

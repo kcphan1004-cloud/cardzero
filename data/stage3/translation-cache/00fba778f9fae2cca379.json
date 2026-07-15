@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:26:50.897Z",
+  "model": "qwen3.5:9b",
+  "unitId": "00fba778f9fae2cca379",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-006"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ジェレミア・ゴットバルト",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杰雷米亚·戈特巴尔特",
+    "effectZh": "[每回合限 1 次]\n（当本角色在本回合首次阻挡时，将其激活）",
+    "triggerZh": ""
+  }
+}

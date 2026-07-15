@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:07:40.045Z",
+  "model": "qwen3.5:9b",
+  "unitId": "88f29e9ced7cc21ffe3d",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-038"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "コーネリア・リ・ブリタニア",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "科内莉亚·里·布里塔尼亚",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将这张牌加入手牌。"
+  }
+}

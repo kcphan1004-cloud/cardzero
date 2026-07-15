@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:51:07.930Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bb855f4a30da6e8d5b44",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-010"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[登場時]\n[フロントLにある場合]\n自分の場に〈竈門 炭治郎〉がある場合、BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "[登场时]\n[当前位于前线L的情况下]\n若自己的场上有〈灶门 炭治郎〉，选择对方前线 L 中 BP1500 以上的角色至多 1 张，本回合内其 BP-1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 张并使其处于激活状态，本回合内其 BP+3000。"
+  }
+}

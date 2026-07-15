@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:42.578Z",
+  "number": "UA51BT/SLG-1-009",
+  "name": "向坂 雫",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500+",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1500。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA51BT%2FSLG-1-009",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA51BT%2FSLG-1-009",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "purple",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:43.744Z",
+  "number": "UA37BT/FMA-1-050",
+  "name": "リザ・ホークアイ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\n自分の山札の上から2枚見る。それらを山札の上と下に望む枚数ずつ望む順で置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA37BT%2FFMA-1-050",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA37BT%2FFMA-1-050",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

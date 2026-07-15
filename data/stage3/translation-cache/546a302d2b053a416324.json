@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:40:22.737Z",
+  "model": "qwen3.5:4b",
+  "unitId": "546a302d2b053a416324",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-007"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ゴードン・アグリッパ",
+    "effect": "相手の場に緑か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "戈登·阿格里帕",
+    "effectZh": "如果对手场上有绿色或红色的卡片，则从自己的手牌中将该卡片的必要能量减少［紫×1］。",
+    "triggerZh": ""
+  }
+}

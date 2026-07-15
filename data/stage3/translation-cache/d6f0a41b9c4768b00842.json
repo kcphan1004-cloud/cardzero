@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:16:03.286Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d6f0a41b9c4768b00842",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-073"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "野晒",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈更木 剣八〉があるか、自分の場外に〈草鹿 やちる〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "野晒",
+    "effectZh": "选择对方 BP3000 及以下的角色最多 1 枚，使其退场。当自己场上有〈更木剑八〉或自己场外有〈草鹿八千流〉时，“BP3000 及以下”变更为“BP5000 及以下”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色最多 1 枚，使其退场。"
+  }
+}

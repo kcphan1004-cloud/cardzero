@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:36:32.794Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc0af4941cb4831d4e7c",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-009"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "五条 悟",
+    "effect": "相手の場に青か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "五条 悟",
+    "effectZh": "当对方场上存在青色或紫色的卡时，减少本角色在手牌中的必要能量\n【黄×1】\n的数值。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:27.686Z",
+  "number": "UA07BT/TSK-1-032",
+  "name": "原初の黒",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "『BP2000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ディアブロ〉がある場合、『BP5000以下』に代わる。自分の場に〈リムル〉がある場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA07BT%2FTSK-1-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA07BT%2FTSK-1-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

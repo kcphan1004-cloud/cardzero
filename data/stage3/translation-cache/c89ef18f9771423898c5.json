@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:54:48.091Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c89ef18f9771423898c5",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-050"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーＷ サイクロントリガー",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 W 旋风触发器",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自己场上的角色最多 1 张，将其激活，在本回合中 BP+3000。"
+  }
+}

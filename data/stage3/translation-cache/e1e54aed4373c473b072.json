@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:21:24.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1e54aed4373c473b072",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-088"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "斑目 一角",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "斑目一角",
+    "effectZh": "[阻挡 2 次]\n（当该角色在本回合首次进行阻挡时，使其处于激活状态）",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

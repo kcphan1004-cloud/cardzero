@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:55:49.615Z",
+  "model": "qwen3.5:9b",
+  "unitId": "799c37230473c2c7824c",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-031"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "柱合裁判",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈産屋敷 耀哉〉、［特徴：柱］が合計3枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "柱合裁判",
+    "effectZh": "选择对手 Front L 上［BP3000 以下］的 1 张角色卡并将其退场。若自己场上有〈产屋敷耀哉〉且［特征：柱］合计 3 枚以上，则效果变为“[BP5000 以下]”。",
+    "triggerZh": "[特殊]\n选择对手的 Front L 上的 1 张角色卡并将其退场。"
+  }
+}

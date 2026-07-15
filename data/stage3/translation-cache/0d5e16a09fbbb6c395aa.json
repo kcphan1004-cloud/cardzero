@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:57:35.951Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0d5e16a09fbbb6c395aa",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-005"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "日番谷 冬獅郎",
+    "effect": "[登場時]\nこのキャラが自分のキャラの効果で登場していた場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "日番谷 冬狮郎",
+    "effectZh": "[登场时]\n此角色若由自己的角色的效果登场，选择对方前线 L 的角色至多 1 张并使其横置状态。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张并使其激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:05:50.817Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7abc7a95e877c0c5cde2",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-006"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "キルゲ・オピー",
+    "effect": "相手の場にレストのキャラが1枚以上ある場合、このキャラはアクティブで場に登場させる。\n[アタック時]\n相手の場のレストのキャラを1枚まで選ぶ。それは次の1回アクティブにならない。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "基尔格·欧皮",
+    "effectZh": "对方场上有横置状态的卡 1 张以上时，此角色以激活状态登场。\n[攻击时]\n选择对方场上的横置状态的卡至多 1 张。它在下一次不进入激活状态。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

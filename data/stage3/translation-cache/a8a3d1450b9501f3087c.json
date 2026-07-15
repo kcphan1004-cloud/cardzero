@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:11:43.527Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8a3d1450b9501f3087c",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-038"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "さあ、もう一戦！",
+    "effect": "自分の場にある［特徴：3年生］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "来吧，再来一仗！",
+    "effectZh": "选择自己场上的［特征：三年级］数量×1000 以下的 BP 的对方前线 L 的角色 1 枚并退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 枚并退场。"
+  }
+}

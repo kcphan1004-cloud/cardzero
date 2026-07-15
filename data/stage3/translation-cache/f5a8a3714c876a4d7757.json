@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:55.756Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f5a8a3714c876a4d7757",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-069"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "カレン・シュタットフェルト",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "卡莲·修塔费尔特",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张并激活，本回合中 BP+3000。"
+  }
+}

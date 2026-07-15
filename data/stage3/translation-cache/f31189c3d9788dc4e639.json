@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:42:06.973Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f31189c3d9788dc4e639",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-045"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ソーカ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\n[ターン1]\nこのターン中に自分がイベントカードを使用している場合のみ発動できる。カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "索卡",
+    "effectZh": "[启动主效果]\n[位于前线 L 时]\n[横置状态]\n[回合 1]\n仅在自己本回合中使用了事件卡时才能发动。抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

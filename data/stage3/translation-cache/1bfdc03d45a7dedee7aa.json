@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:01:20.471Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1bfdc03d45a7dedee7aa",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-104"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ベニマル",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、相手の山札の下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "贝尼马尔",
+    "effectZh": "【登场时】\n选择对方前线L的BP 3000以下的角色卡至多1张，放置于对方的牌库下方。",
+    "triggerZh": "【激活】\n选择自己场上的角色卡1张并使其处于激活状态，本回合中，+3000 BP"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:54.147Z",
+  "model": "qwen3.5:9b",
+  "unitId": "219863f3ce94c4bf25c4",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-101"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "井上 織姫",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "井上织姬",
+    "effectZh": "[两次阻挡]\n（该角色在本回合首次阻挡时激活）",
+    "triggerZh": "[激活]\n选择自己场上的一个角色，将其激活，本回合中 BP+3000。"
+  }
+}

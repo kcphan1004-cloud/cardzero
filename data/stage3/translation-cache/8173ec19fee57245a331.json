@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:47:47.448Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8173ec19fee57245a331",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-038"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "[レイド]\n〈桑山 千雪〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の場外にある［特徴：ALSTROEMERIA］を4枚望む順で自分の山札の下に置いてもよい。そうした場合、このキャラはこのターン中、\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、指定した場合、相手はブロックできない）を得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "桑山 千雪",
+    "effectZh": "[Raid]\n〈桑山 千雪〉激活并移动到前线 L\n[登场时]\n将自己场外存在的［特征：ALSTROEMERIA］按最多选择 1 张的顺序放置到自己牌库下方。如此操作的话，此角色在本回合中获得\n[狙击] \n（指定对方前线 L 的角色进行攻击，若已指定则对方无法阻挡）。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

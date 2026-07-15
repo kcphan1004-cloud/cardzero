@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:49:58.235Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6feff075f7989e667c1",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-048"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "このカードが自分の効果で自分の山札から場外に置かれた時、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三峰 结华",
+    "effectZh": "当此卡因自己的效果从自己的牌库上方置到场外时，选择对方前线 L 的角色至多 1 枚，本回合中 BP-1000。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

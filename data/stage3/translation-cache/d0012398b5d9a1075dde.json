@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:13:53.738Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d0012398b5d9a1075dde",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-101"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "我妻 善逸",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "我妻 善逸",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

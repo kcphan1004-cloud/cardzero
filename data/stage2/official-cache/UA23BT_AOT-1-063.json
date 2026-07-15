@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:35.301Z",
+  "number": "UA23BT/AOT-1-063",
+  "name": "巨人化の薬",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から4枚見る。その中からカードを1枚公開し手札に加える。残りを望む順で自分の山札の下に置く。公開したカードが［特徴：無垢の巨人］かカード名に「ロッド・レイス」か「ジーク・イェーガー」を含むカードの場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA23BT%2FAOT-1-063",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-063",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

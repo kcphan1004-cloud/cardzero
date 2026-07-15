@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:21:24.271Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e9f7e3bdfa7e070ce8e3",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-089"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "松本 乱菊",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "松本乱菊",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线 L 移动到能量线 L）",
+    "triggerZh": ""
+  }
+}

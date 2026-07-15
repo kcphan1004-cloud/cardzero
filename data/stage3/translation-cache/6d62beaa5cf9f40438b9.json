@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:18:14.241Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6d62beaa5cf9f40438b9",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-065"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "サシャ・ブラウス",
+    "effect": "[登場時]\nこのターン中に自分が［特徴：食材］を使用している場合、このキャラをアクティブにする。〈サシャ・ブラウス〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "萨莎·布劳斯",
+    "effectZh": "[登场时]\n若本回合内自己使用了［特征：食材］，则将该角色激活。〈萨莎·布劳斯〉的此效果每回合仅能发动1次。",
+    "triggerZh": "[抽牌]抽入1张牌。"
+  }
+}

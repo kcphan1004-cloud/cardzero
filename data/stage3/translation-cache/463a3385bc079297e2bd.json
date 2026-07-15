@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:47:48.160Z",
+  "model": "qwen3.5:9b",
+  "unitId": "463a3385bc079297e2bd",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-049"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "禪院 真希",
+    "effect": "自分の場外に［特徴：呪具］が1枚以上かイベントカードが4枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "禅院真希",
+    "effectZh": "若自己的场外有［特征：咒具］1 枚以上或事件卡 4 枚以上，此角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

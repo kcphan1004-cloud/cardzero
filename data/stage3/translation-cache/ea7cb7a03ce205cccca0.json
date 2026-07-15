@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:53:31.881Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ea7cb7a03ce205cccca0",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-071"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "ミルコ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "米尔科",
+    "effectZh": "【步骤】\n（可在自己的移动阶段从前线L移动到能量L）",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

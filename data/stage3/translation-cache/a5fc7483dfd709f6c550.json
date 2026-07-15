@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:08:13.136Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a5fc7483dfd709f6c550",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-022"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ヒソカ",
+    "effect": "自分の場に〈ゴン＝フリークス〉と〈キルア＝ゾルディック〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "奇犽",
+    "effectZh": "若自己的场上有〈古列夫〉和〈酷拉·火球队〉，此角色为 BP+1000。",
+    "triggerZh": ""
+  }
+}

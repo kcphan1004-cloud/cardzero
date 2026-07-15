@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:37:54.826Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f4297b7ad8c790bf11e2",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-078"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "有栖川 夏葉",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有栖川 夏叶",
+    "effectZh": "[无效化冲击]\n（与该角色进行战斗的角色在本战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

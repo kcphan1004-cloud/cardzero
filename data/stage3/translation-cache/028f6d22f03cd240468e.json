@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:36:32.795Z",
+  "model": "qwen3.5:9b",
+  "unitId": "028f6d22f03cd240468e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-010"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "五条 悟",
+    "effect": "[登場時]\n相手の場のフィールドを1枚まで選び、相手の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "五条 悟",
+    "effectZh": "【登场时】\n选择对方场地的最多 1 张卡，放置于对方的牌库下方。",
+    "triggerZh": ""
+  }
+}

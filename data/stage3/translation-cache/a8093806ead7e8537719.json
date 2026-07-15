@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:09:43.279Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8093806ead7e8537719",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-054"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴトー",
+    "effect": "相手の場に青か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "戈托",
+    "effectZh": "对方场上存在蓝色或绿色卡片时，此卡在手中的必要能量\n［紫色×1］\n减少。",
+    "triggerZh": ""
+  }
+}

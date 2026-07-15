@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:32:43.597Z",
+  "model": "qwen3.5:9b",
+  "unitId": "821d8635323b3541cae0",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-055"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "樋口 円香",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "樋口圆香",
+    "effectZh": "【退场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

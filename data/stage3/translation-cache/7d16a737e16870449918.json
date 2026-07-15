@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:45:28.973Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7d16a737e16870449918",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-101"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甘奈",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "大崎甘奈",
+    "effectZh": "[登场时]<br>选择己方场地的其他角色最多1张，本回合中BP+1000。",
+    "triggerZh": "[激活]<br>选择己方场地上的角色1张并使其处于激活状态，本回合中BP+3000。"
+  }
+}

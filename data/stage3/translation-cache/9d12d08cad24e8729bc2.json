@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:01:04.322Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9d12d08cad24e8729bc2",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-003"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "エレナ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾露娜",
+    "effectZh": "此角色处于激活状态时，该角色的发生能量 +\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

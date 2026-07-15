@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:14.109Z",
+  "number": "UA49BT/MSS-1-004",
+  "name": "和倉 優希（無窮の鎖）",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "七番組",
+  "generatedEnergy": "黄色×1",
+  "effect": "自分の場に〈羽前 京香〉がない場合、このカードはフロントLに〔登場・移動〕できない。\n[登場時]\n自分の場外にある〈羽前 京香〉と〈和倉 優希（無窮の鎖）〉の合計枚数を満たすものを、以下から2つまで選ぶ。\n・5枚以上：自分の場の〈和倉 優希（無窮の鎖）〉を1枚選び、このターン中、\n[インパクト（1）]\nを与える。\n・10枚以上：自分の場のキャラを1枚選び、アクティブにする。〈和倉 優希（無窮の鎖）〉のこの効果は1ターンに1回のみ選べる。",
+  "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA49BT%2FMSS-1-004",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA49BT%2FMSS-1-004",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

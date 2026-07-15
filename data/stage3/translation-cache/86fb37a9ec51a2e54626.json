@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:04:37.536Z",
+  "model": "qwen3.5:9b",
+  "unitId": "86fb37a9ec51a2e54626",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-013"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "藤堂 鏡志朗",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の［特徴：四聖剣］全ては、このターン中、BP+500。",
+    "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "藤堂 镜志朗",
+    "effectZh": "[启动主]\n[位于前线L时]\n[回合1]\n自己场上的［特征：四圣剑］全部在本回合中，BP+500。",
+    "triggerZh": "[颜色]\n从自己的场外选择消耗 AP 为 1、能量在 2 以下的紫色角色卡最多 1 张以激活状态登场到自己的前线 L。"
+  }
+}

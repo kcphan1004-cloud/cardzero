@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:11:43.529Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c78b4b631068e85335d3",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-040"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "似合うんじゃない？",
+    "effect": "自分の場のキャラを1枚選び、アクティブにする。選んだキャラが［特徴：1年生］の場合、自分のAPカードを1枚アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "挺合适的吧？",
+    "effectZh": "选择自己场上的角色 1 枚并激活。若选中的角色为［特征：一年级］，则将自己的 AP 卡最多 1 张激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活，本回合内 BP+3000。"
+  }
+}

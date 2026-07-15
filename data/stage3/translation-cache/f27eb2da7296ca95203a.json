@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:48:49.273Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f27eb2da7296ca95203a",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-040"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "白瀬 咲耶",
+    "effect": "このカードが自分の効果で自分の山札から場外に置かれた時、自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが1以下で消費APが1の紫の［特徴：L'Antica］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "白濑 咲耶",
+    "effectZh": "当此卡因自己的效果从自己牌库上方置到场外时，可以将自己手札中的1张也置到场外。如此做的话，可以从自己场外选择最多1张必要能量为1以下且消耗AP为1的紫色的［特征：L'Antica］横置地登场到自己的场上。",
+    "triggerZh": ""
+  }
+}

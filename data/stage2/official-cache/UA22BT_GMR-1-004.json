@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:10.614Z",
+  "number": "UA22BT/GMR-1-004",
+  "name": "ノーラ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[自分のターン中]\nこのカードが手札から場外に置かれた時、このターン中、次に手札から使用する特徴に「怪獣」を持つ青のキャラカードの必要エナジーを\n[青×1]\n減らす。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA22BT%2FGMR-1-004",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-004",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

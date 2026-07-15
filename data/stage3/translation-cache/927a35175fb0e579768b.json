@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T17:55:21.589Z",
+  "model": "qwen3.5:4b",
+  "unitId": "927a35175fb0e579768b",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-001"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "アベンガネ",
+    "effect": "[登場時]\n以下から1つまで選ぶ。\n・相手は自身の場外にあるカードを2枚リムーブエリアに置く。\n・相手の場の発生エナジーが1以下のフィールドを1枚選び、退場させる。そうした場合、相手はカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿文加涅",
+    "effectZh": "登场时",
+    "triggerZh": ""
+  }
+}

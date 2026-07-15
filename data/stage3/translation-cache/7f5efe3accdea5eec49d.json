@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:34:33.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f5efe3accdea5eec49d",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-097",
+    "UA06BT/TOA-1-033",
+    "UA06BT/TOA-1-067",
+    "UA06BT/TOA-1-097"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "二人の絆",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "二人的羁绊",
+    "effectZh": "选择自身 AP 卡最多两张并将其激活。",
+    "triggerZh": "[最终]\n若自身没有生命值，则从自身牌库上方取一张置于生命区域。"
+  }
+}

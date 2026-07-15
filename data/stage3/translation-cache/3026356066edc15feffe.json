@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:53:31.880Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3026356066edc15feffe",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-070"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "ミッドナイト",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中に自分の手札が場外に置かれている場合のみ発動できる。必要エナジーが5以上の自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "午夜",
+    "effectZh": "【启动主效果】\n【位于前线L时】\n【回合1】\n仅在自己手牌中有卡被置为场外的情况下才能发动。选择自己场上必要能量在5以上的角色最多1枚，将其激活，并在本回合中BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:58:45.788Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cceea4007ac4e7dbcd9d",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-007"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "キャンディス・キャットニップ",
+    "effect": "[登場時]\nBP1000以上の相手のフロントLのキャラ全ては、このターン中、BP-500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "坎迪斯·猫薄荷",
+    "effectZh": "[登场时]\nBP1000 以上的对方前线 L 的所有角色在本回合中，-500 BP。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并将其激活，本回合中 +3000 BP。"
+  }
+}

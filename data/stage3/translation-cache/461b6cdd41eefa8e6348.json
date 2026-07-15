@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:14:24.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "461b6cdd41eefa8e6348",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-044"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "阿近",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿近",
+    "effectZh": "对方场上存在黄色或绿色的卡时，将手牌中此卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

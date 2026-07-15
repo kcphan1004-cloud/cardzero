@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:58:46.704Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ea48cd82e1bf25ca9533",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-045"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "魘夢",
+    "effect": "[レイド]\n〈魘夢〉アクティブにし、フロントLに移動できる\n自分の場外にカードが15枚以上ある場合、このキャラはBP+500。\n[登場時]\nカードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "魘夢",
+    "effectZh": "[Raid]\n〈魘梦〉激活并移动至前线 L\n自己场外有 15 张以上卡片时，该角色 BP+500。\n[登场时]\n抽 2 张牌，将手札中的 1 张置于场外。",
+    "triggerZh": "[Get]\n将此卡加入手札。"
+  }
+}

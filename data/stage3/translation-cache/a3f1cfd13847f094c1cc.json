@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:05.124Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a3f1cfd13847f094c1cc",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-035",
+    "UA08BT/BLC-1-035"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "井上 織姫",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "井上织姬",
+    "effectZh": "[登场时]\n将我方场上其他必要能量为 1 以下的角色中的 1 名返回手札。若无法返回，则将此角色返回手札。",
+    "triggerZh": ""
+  }
+}

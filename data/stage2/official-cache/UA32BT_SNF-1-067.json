@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:20.853Z",
+  "number": "UA32BT/SNF-1-067",
+  "name": "墓守のウェザエモン",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 6,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[自分のターン中]\nこのキャラは、このターン中に自分の〈墓守のウェザエモン〉が退場している場合のみレイドできる。\n[レイド]\n〈墓守のウェザエモン〉アクティブにし、フロントLに移動できる\nこのキャラはＢＰ+1000。\n[登場時]\nこのターン中、自分が手札から使用する赤のイベントカードは各必要エナジーにつき1枚まで、消費APが-1される。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA32BT%2FSNF-1-067",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-067",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 6
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

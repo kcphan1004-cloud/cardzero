@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:12:58.568Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a665e87fb83bb6de0b97",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-055"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "シルバ",
+    "effect": "[登場時]\n相手のキャラを1枚まで選ぶ。自分はこのターン中、「選んだキャラが退場した場合、自分の場外から〈シルバ〉以外の［特徴：ゾルディック家］を1枚まで手札に加える」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西尔巴",
+    "effectZh": "[登场时]\n选择对方角色至多1张。本回合中，自己获得「若选定的角色退场，则从场外将除〈西尔巴〉外的［特征：揍敌客家］加入手牌至多1枚」的效果。",
+    "triggerZh": ""
+  }
+}

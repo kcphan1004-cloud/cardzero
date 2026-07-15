@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:26:27.441Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4adc124d90827c735d2a",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-016"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ケルシー",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "凯尔西",
+    "effectZh": "[登场时]\n查看自己牌库上方的 3 张卡。从中最多将 1 张置入场外，剩余的按任意顺序置于牌库上方。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色卡并将其激活，本回合中 BP+3000。"
+  }
+}

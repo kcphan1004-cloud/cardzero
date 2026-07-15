@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:27:31.058Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7e767a8b1b1f86ec4790",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-106"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 ルキア",
+    "effect": "[登場時]\n自分の場外にあるカードを3枚リムーブエリアに置いてもよい。そうした場合、カードを2枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "朽木露琪亚",
+    "effectZh": "【登场时】\n可以将自己场外存在的3张卡放置到移除区。如此做的话，抽2张牌。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

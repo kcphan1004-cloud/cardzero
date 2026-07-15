@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:57:58.113Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d4b06b34a7cdc218dee3",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02NC/JJK-2-010"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "東堂 葵",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラと別のラインにある特徴に「京都校」を持つ自分のキャラを1枚選び、このキャラと位置を入れ替える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "东堂葵",
+    "effectZh": "[启动主效果]\n[回合 1]\n选择此角色与另一条能量线上的拥有“京都校”特征的自己角色，交换它们的位置。",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

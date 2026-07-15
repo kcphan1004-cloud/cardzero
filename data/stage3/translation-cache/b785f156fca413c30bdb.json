@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:29:05.065Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b785f156fca413c30bdb",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-101"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "紅月 カレン",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "红月·卡莲",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择我方场上的角色卡 1 张并激活之，本回合中 BP+3000。"
+  }
+}

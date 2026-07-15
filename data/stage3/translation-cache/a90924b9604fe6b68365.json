@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:12:23.130Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a90924b9604fe6b68365",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-1-022"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 実弥",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "不死川 実弥",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

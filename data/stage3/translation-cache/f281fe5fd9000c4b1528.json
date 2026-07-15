@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:00:34.708Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f281fe5fd9000c4b1528",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-028"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "三輪 霞",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三轮霞",
+    "effectZh": "[登场]\n抽 1 张牌，并将自己的手牌中最多选择 1 张置入场外。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

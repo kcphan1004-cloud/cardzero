@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:09.687Z",
+  "number": "UA38BT/WBK-1-077",
+  "name": "つらかったでちゅねぇ…ボクちゃん",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場外から〈蘇枋 隼飛〉を1枚まで手札に加える。自分の手札から必要エナジーを満たし消費APが1の〈蘇枋 隼飛〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA38BT%2FWBK-1-077",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA38BT%2FWBK-1-077",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

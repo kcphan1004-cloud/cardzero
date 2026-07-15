@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:07:24.752Z",
+  "number": "UA26BT/RLY-1-059",
+  "name": "薬膳 楠莉",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "绿色×3",
+  "effect": "[登場時]\n自分の手札のイベントカードを1枚公開してもよい。このターン中に自分がイベントカードを使用しているかこの効果で手札を公開した場合、カードを1枚引く。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から必要エナジーが2以下のイベントカードを1枚手札に加える。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA26BT%2FRLY-1-059",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-059",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 3
+      }
+    ]
+  }
+}

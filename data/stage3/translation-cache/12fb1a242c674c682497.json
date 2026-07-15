@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:06:42.054Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12fb1a242c674c682497",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-031"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "旋回活殺自在陣",
+    "effect": "相手のフロントLのキャラを1枚選び、自分の場の［特徴：四聖剣］と〈藤堂 鏡志朗〉と〈月下（藤堂機）〉1枚につき、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "回旋活杀自在阵",
+    "effectZh": "选择对方前线L的角色卡1张，每有自己场上的［特征：四圣剑］、〈藤堂 镜志朗〉和〈月下（藤堂机）〉中的1张，本回合中BP-1000。",
+    "triggerZh": "[Special] \n选择对方前线L的角色卡1张并使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:51:07.922Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc93c06196bcd6d03abb",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-002"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "産屋敷 耀哉",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n[このカードを退場させる]\n自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "产屋敷耀哉",
+    "effectZh": "【启动主】\n【横置状态】\n【将手牌 1 张置于场外】\n【将此卡退场】\n选择自己的 AP 卡片至多 1 张，使其激活。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

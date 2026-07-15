@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:57:03.901Z",
+  "model": "qwen3.5:9b",
+  "unitId": "107fd51e579a77ee5013",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-032"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "判断が遅い",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。自分の場の〈鱗滝 左近次〉を1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "判断迟缓",
+    "effectZh": "选择对方前线 L 的角色至多 1 枚，使其处于横置状态。选择自己场上的〈鳞泷左近次〉至多 1 枚，使其处于激活状态。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

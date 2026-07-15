@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:29:24.738Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ad495ffdf74b5b9886fb",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-011"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ボンドのママ",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。それは次の1回アクティブにならない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "邦德的妈妈",
+    "effectZh": "[伤害（2）]\n（此角色通过攻击直接造成伤害时，改为造成 2 点伤害）\n\n[登场时]\n选择对方前线 L 的角色最多 1 枚并将其横置。该角色在接下来 1 次激活前不会再次被激活。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

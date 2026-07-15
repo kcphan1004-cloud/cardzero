@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:05:13.719Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9daf97074bd03979fbba",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-042"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ルピ・アンテノール",
+    "effect": "[退場時]\n自分の山札の上から2枚を場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鲁比·安特诺尔",
+    "effectZh": "【退场时】\n将自方的山札上方放置的卡 2 张置入场外。",
+    "triggerZh": "【抽牌】\n抽牌 1 张。"
+  }
+}

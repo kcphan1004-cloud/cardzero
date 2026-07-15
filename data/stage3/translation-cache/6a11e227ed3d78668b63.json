@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:47:12.027Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6a11e227ed3d78668b63",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-038"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ノゼル・シルヴァ",
+    "effect": "[アタック時]\nこのキャラのBPが5000以上の場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺泽尔·银白",
+    "effectZh": "[攻击时]\n若该角色的 BP 为 5000 以上，抽一张牌。",
+    "triggerZh": ""
+  }
+}

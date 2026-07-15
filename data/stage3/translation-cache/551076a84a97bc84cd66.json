@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:16:03.283Z",
+  "model": "qwen3.5:9b",
+  "unitId": "551076a84a97bc84cd66",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-069"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "日番谷 冬獅郎",
+    "effect": "[登場時]\n自分の場に他の［特徴：護廷十三隊］が6枚以上ある場合、自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から〈日番谷 冬獅郎〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日番谷冬狮郎",
+    "effectZh": "[登场时]\n当场上有其他［特征：护廷十三队］6 枚以上时，可以将自己的手牌中任意 1 张置入场外。如此操作后，可以从自己场外将最多 1 张〈日番谷冬狮郎〉加入手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:42:06.965Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2edc6bcedda953f99930",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-039"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ゲルド",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "杰尔德",
+    "effectZh": "[无效冲击]\n（与这个角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": "[激活]\n选择自己场上的一张卡并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

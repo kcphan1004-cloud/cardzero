@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:35.927Z",
+  "number": "UA23BT/AOT-1-067",
+  "name": "やるんだな!?今…!ここで!",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "〈やるんだな!?今…!ここで!〉は1ターンに1枚のみ使用できる。\n自分の場のカードを1枚選び、このターン中、「このカードの発生エナジー+\n[緑]\n[緑]\n。」を与える。自分の場にカード名に「ベルトルト・フーバー」を含むキャラがある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA23BT%2FAOT-1-067",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-067",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

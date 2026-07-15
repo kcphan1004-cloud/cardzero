@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:14:27.198Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6e387adf66b0ff526115",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-015"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 炭治郎",
+    "effect": "[ターン1]\nこのキャラが自分の［特徴：日輪刀］の効果で選ばれた時、このキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灶门 炭治郎",
+    "effectZh": "[回合1]\n当此角色被自己［特征：日轮刀］的效果选择时，本回合中，此角色的BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:52.698Z",
+  "number": "UA34BT/CGD-1-080",
+  "name": "ノーランドの思惑",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から3枚見る。その中からキャラカードを1枚公開し手札に加える。残りを望む順で自分の山札の下に置く。このターン中、次に手札から使用する〈ノーランド・フォン・リューネベルク〉かカード名に「ファウルバウト」を含むカードの消費APを-1する。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA34BT%2FCGD-1-080",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA34BT%2FCGD-1-080",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

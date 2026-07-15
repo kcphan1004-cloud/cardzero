@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:05.066Z",
+  "number": "UA52BT/KJN-1-061",
+  "name": "イプシロン",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "シャドウガーデン／七陰",
+  "generatedEnergy": "紫色×3",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他の［特徴：七陰］を1枚自分の山札の下に置く。そうした場合、自分の場外から〈イプシロン〉以外の必要エナジーが3以下で消費APが1の紫の［特徴：七陰］を1枚まで自分の場にレストで登場させる。この効果で登場したキャラの\n[登場時]\nは発動しない。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA52BT%2FKJN-1-061",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA52BT%2FKJN-1-061",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

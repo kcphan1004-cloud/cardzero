@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:00:20.123Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3a746b96e0486538c177",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-106"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 恵",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伏黑 惠",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

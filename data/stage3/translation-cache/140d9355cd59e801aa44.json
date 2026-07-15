@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:39:34.720Z",
+  "model": "qwen3.5:9b",
+  "unitId": "140d9355cd59e801aa44",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-062"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "アーニャ・アールストレイム",
+    "effect": "[自分のターン中]\nこのターン中に自分が使用したイベントカード1枚につき、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尼亚·阿尔斯特莱姆",
+    "effectZh": "【本回合中】\n每使用一张事件卡，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

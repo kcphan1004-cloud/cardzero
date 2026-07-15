@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:07:06.324Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7268e42558550b551a4b",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-010"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "雨夜 燕",
+    "effect": "自分の場に［特徴：3年生］が4枚以上ある場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雨夜 燕",
+    "effectZh": "若自己场上有［特征：三年级生］的卡达到或超过 4 张，此角色的发生能量 +[黄]。",
+    "triggerZh": ""
+  }
+}

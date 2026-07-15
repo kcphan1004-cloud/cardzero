@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:17:01.447Z",
+  "number": "UAPR/OPM-P-002",
+  "name": "金属バット",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PR",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "ヒーロー",
+  "generatedEnergy": "绿色×1",
+  "effect": "[相手のターン中]\n自分のフロントLに\n[レイド]\nを持ち、レイド状態でない〈金属バット〉が登場した時、そのキャラを1枚選んでもよい。そうした場合、選んだキャラをアクティブにし、このターン中、BP+1000。選んだキャラの下にこのキャラを表向きで置く。（レイド状態になる）",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FOPM-P-002",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FOPM-P-002",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

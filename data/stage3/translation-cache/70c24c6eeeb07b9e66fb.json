@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:25:50.577Z",
+  "model": "qwen3.5:9b",
+  "unitId": "70c24c6eeeb07b9e66fb",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-009"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑山 千雪",
+    "effectZh": "[Step]\n（在自己的移动阶段可从前线 L 移动至能量线）",
+    "triggerZh": ""
+  }
+}

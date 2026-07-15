@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:29:44.136Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f534bba96dcc5f2d03b",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-042"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "月岡 恋鐘",
+    "effect": "[レイド]\n〈月岡 恋鐘〉アクティブにし、フロントLに移動できる\nこのキャラはBP2000以下のキャラにブロックされない。\nこのキャラがアタックしてブロックされなかった時、カードを1枚引く。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "月冈 恋钟",
+    "effectZh": "[Raid]\n〈月冈 恋钟〉激活并移动至前线 L\n此卡不会被 BP2000 以下的卡阻挡。\n当此卡攻击且未被阻挡时，抽 1 张牌。",
+    "triggerZh": "[Raid]\n将此卡加入手札或满足必要能量时，发动 Raid。"
+  }
+}

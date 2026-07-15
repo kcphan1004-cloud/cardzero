@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:23.078Z",
+  "number": "UA09ST/BTR-1-108",
+  "name": "バミューダ小学校",
+  "color": "黄色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[レストにする]\n以下から1つ選ぶ。\n・自分の場のキャラを1枚選び、別のラインに移動させる。\n・自分のフロントLのキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替える。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA09ST%2FBTR-1-108",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA09ST%2FBTR-1-108",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

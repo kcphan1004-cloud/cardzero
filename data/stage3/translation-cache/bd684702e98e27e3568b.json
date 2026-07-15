@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:54:05.333Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd684702e98e27e3568b",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-080"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ノエル・シルヴァ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "诺艾尔·西尔瓦",
+    "effectZh": "［登场时］\n抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "［触发：抽牌］\n抽一张牌。"
+  }
+}

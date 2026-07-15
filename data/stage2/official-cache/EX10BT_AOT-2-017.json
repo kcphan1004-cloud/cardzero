@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:49.278Z",
+  "number": "EX10BT/AOT-2-017",
+  "name": "ファルコ・グライス（顎の巨人）",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "巨人継承者",
+  "generatedEnergy": "黄色×3",
+  "effect": "[レイド]\n〈ファルコ・グライス〉アクティブにし、フロントLに移動できる\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\n［特徴：地鳴らし］以外の必要エナジーが3以下の自分の〔場のキャラか場外のキャラカード〕をそれぞれカード名が異なるように合計3枚まで選び、このキャラの下に裏向きで置く。\n[起動メイン]\n[レストにする]\nこのキャラの下の裏向きのカードを見て、その中から1枚まで手札に加える。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX10BT%2FAOT-2-017",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX10BT%2FAOT-2-017",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

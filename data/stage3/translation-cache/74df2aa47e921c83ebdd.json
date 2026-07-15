@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:44:11.956Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74df2aa47e921c83ebdd",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-039"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "外典",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "外典",
+    "effectZh": "[攻击时]\n抽 1 张牌，将手牌中 1 张移至场外。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:02:41.965Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8cf763f8f94e6acbd115",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-086"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーナイト",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、カード名に「龍騎」か「ナイト」を含むキャラカードか［特徴：ミラーモンスター］を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士夜骑",
+    "effectZh": "【登场时】\n查看自己山札上方的 2 张，最多选择 1 张卡名为“龙骑”或“夜骑”的卡牌或［特征：镜像怪兽］放置于场外。将剩余的牌按任意顺序放回山札上方。\n\n触发：[Draw]\n抽 1 张牌。",
+    "triggerZh": "[Raid]\n这张卡加入手牌时发动 Raid，或者满足必要能量时发动 Raid。"
+  }
+}

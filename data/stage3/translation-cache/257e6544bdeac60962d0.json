@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:57:02.833Z",
+  "model": "qwen3.5:9b",
+  "unitId": "257e6544bdeac60962d0",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-036",
+    "UA07BT/TSK-1-036"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "エレン＆ギド＆カバル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾伦＆吉德＆加瓦尔",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本回合中，此角色的发生能量+\n[蓝]\n。主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

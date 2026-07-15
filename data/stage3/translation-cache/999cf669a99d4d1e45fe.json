@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:53:20.436Z",
+  "model": "qwen3.5:9b",
+  "unitId": "999cf669a99d4d1e45fe",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-086"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "漏瑚",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "漏瑚",
+    "effectZh": "【登场时】\n选择对手前线 L 的角色至多 1 枚，本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:02:21.780Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a667bffff7f5b4a9c120",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-019"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "トガヒミコ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nBP1500以上の相手のフロントLのキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "托加比美子",
+    "effectZh": "[启动主]\n[位于前线L时]\n[回合 1]\n选择 BP1500 以上的对手的前线 L 的角色一张，本回合中，BP-1000。",
+    "triggerZh": ""
+  }
+}

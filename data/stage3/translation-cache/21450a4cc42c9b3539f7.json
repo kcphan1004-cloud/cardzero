@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:51:02.863Z",
+  "model": "qwen3.5:9b",
+  "unitId": "21450a4cc42c9b3539f7",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-058"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "轟 焦凍",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "轰 焦冻",
+    "effectZh": "[自己的回合中]\n该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

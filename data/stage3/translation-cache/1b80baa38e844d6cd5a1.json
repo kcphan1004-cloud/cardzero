@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:31:40.079Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1b80baa38e844d6cd5a1",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-086"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "リンウェル",
+    "effect": "[登場時]\n自分の場に〈ロウ〉がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "林维尔",
+    "effectZh": "[登场时]\n自己的场上有〈罗〉的情况下，抽 1 张牌，将手札中的 1 张置为场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

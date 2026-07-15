@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:45.568Z",
+  "number": "UA37BT/FMA-1-061",
+  "name": "バッカニア",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000+",
+  "feature": "ブリッグズ",
+  "generatedEnergy": "蓝色×1",
+  "effect": "自分の場に［特徴：ブリッグズ］が3枚以上ある場合、手札にあるこのカードの消費APを-1する。\n[起動メイン]\n[ターン1]\nこのキャラは次の自分のターン開始時まで、BP+1000と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）と「相手のアタックフェイズ終了時、このキャラを退場させ、カードを1枚引く。」を得る。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA37BT%2FFMA-1-061",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA37BT%2FFMA-1-061",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

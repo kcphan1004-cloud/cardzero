@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:29:26.375Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8591ff9729ad7acde1e7",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-061"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "Ubiquitous dB",
+    "effect": "自分の山札の上から5枚見る。その中からカードを1枚公開し手札に加える。残りを望む順で自分の山札の下に置く。公開したカードが〈Ubiquitous dB〉以外の［特徴：歌］か〈ユナ〉の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "无处不在 dB",
+    "effectZh": "查看自己牌库上方的 5 张卡。从中公开 1 张并加入手牌。将剩余的按任意顺序置于自己的牌库下方。若公开的卡为除〈无处不在 dB〉以外的［特征：歌］或〈尤娜〉，选择最多 1 张自己的 AP 卡并将其激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

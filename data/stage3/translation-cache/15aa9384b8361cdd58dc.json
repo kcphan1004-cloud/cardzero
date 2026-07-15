@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:06:42.056Z",
+  "model": "qwen3.5:9b",
+  "unitId": "15aa9384b8361cdd58dc",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-034",
+    "UA01BT/CGH-1-072"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "枢木 スザク",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "枢木朱雀",
+    "effectZh": "",
+    "triggerZh": "[Get] \n将此卡加入手牌。"
+  }
+}

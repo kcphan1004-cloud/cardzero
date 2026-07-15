@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:26:10.221Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ba384f574b0134adc3b6",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-043"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アルゴ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\nBP1500以上の相手の場のキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔戈",
+    "effectZh": "【启动主】\n【位于前线L时】\n【将手牌中的 1 张置入场外】\n【第 1 回合】\n选择对方场上 BP1500 以上的角色 1 枚，本回合中，BP-1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

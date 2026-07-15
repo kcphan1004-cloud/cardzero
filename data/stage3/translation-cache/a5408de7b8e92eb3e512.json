@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:14:53.296Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a5408de7b8e92eb3e512",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-105"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "錆兎",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "錆兎",
+    "effectZh": "[登场时]\n选择自己场上的其他角色（最多 1 名），本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

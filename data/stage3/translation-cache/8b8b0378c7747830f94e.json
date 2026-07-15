@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:39:42.728Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8b8b0378c7747830f94e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-015"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "パンダ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "熊猫",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": ""
+  }
+}

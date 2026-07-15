@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:07.814Z",
+  "number": "UA52BT/KJN-1-077",
+  "name": "悪魔憑きの解呪",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場外から消費APが1の［特徴：七陰］を1枚『手札に加える』。そのカードと同じカード名を持つカードが自分の場になく、そのカードが必要エナジーを満たす場合、『自分の場にレストで登場させる』に代えてもよい。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA52BT%2FKJN-1-077",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA52BT%2FKJN-1-077",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

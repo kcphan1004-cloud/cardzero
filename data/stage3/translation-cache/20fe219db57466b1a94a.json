@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:46:47.674Z",
+  "model": "qwen3.5:4b",
+  "unitId": "20fe219db57466b1a94a",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-032"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "漆黒の三極性",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "漆黑三极性",
+    "effectZh": "选择至多 2 张你的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若你无生命点，从牌库上方抽一张置于你的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:36:32.792Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a466e50952b9acde24e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-007"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "釘崎 野薔薇",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\n相手のフロントLのキャラを1枚選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "钉崎 野蔷薇",
+    "effectZh": "【启动主】\n【位于前线L时】\n【变为横置状态】\n选择对方前线 L 的 1 张角色卡，使其变为横置状态。",
+    "triggerZh": "【抽牌】\n抽入 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:34:18.788Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc7feb4261961570c9d8",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-056"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "決戦",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "决战",
+    "effectZh": "选择至多 2 张自己的 AP 牌，并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命值区域。"
+  }
+}

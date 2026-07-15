@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:59:29.450Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0d1ddbf78810a6bfdf67",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-067",
+    "UA02BT/JJK-1-034",
+    "UA02BT/JJK-1-067",
+    "UA02BT/JJK-1-100",
+    "EX04BT/JJK-3-073"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "領域展開",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "领域展开",
+    "effectZh": "选择至多2张自己的AP卡牌，并将其置于激活状态。",
+    "triggerZh": "[Final]\n若自己没有生命值，则从自己牌库上方取1张牌并放置于自己的生命区域。"
+  }
+}

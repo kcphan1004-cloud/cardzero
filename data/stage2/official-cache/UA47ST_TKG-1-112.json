@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:51.770Z",
+  "number": "UA47ST/TKG-1-112",
+  "name": "金木 研",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "自分のライフの数により、このキャラは以下の効果を全て得る。\n・5以下：\n[自分のターン中]\nこのキャラはBP+500。\n・3以下：\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\n自分のライフを1枚手札に加えてもよい。そうした場合、カードを1枚引く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA47ST%2FTKG-1-112",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA47ST%2FTKG-1-112",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

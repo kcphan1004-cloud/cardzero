@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:21:15.236Z",
+  "model": "qwen3.5:9b",
+  "unitId": "802878bf41637d87340d",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-025"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "クリスタライト・インゴット",
+    "effect": "カードを2枚引く。自分の場に〈リズベット〉がある場合、さらにカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "水晶锭块",
+    "effectZh": "抽 2 张牌。若自己场上有〈莉兹贝特〉，再额外抽 1 张牌并将自己的手牌最多 1 枚置为场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

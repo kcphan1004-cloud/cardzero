@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:17:13.848Z",
+  "number": "UAPR/TOA-P-004",
+  "name": "シオン",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈シオン〉アクティブにし、フロントLに移動できる\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\nカードを2枚引き、自分の手札を1枚場外に置く。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。自分はこのターン中、自分の効果でライフエリアにあるカードを場外に置くことができない。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FTOA-P-004",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FTOA-P-004",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

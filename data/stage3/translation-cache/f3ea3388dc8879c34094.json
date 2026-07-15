@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:05.269Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f3ea3388dc8879c34094",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-028",
+    "UA09BT/BTR-1-028"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "おかわり",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "换汤不换药",
+    "effectZh": "选择最多2张自己的AP卡并将其激活。",
+    "triggerZh": "[最终阶段]\n当自己没有生命时，从牌库上方取1张牌放置于自己的生命区域。"
+  }
+}

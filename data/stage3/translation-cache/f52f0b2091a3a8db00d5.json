@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:04:18.351Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f52f0b2091a3a8db00d5",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-013"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビノールト",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "比诺尔托",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去\n[冲击]）",
+    "triggerZh": ""
+  }
+}

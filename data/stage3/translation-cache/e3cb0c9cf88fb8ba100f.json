@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:55:33.797Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e3cb0c9cf88fb8ba100f",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-095"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "火礫蟲",
+    "effect": "BP2500以下の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場に〈漏瑚〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "火砾虫",
+    "effectZh": "选择对方前线 L 的 BP2500 以下的角色最多 1 张，使其退场。若我方场上有〈漏瑚〉，抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

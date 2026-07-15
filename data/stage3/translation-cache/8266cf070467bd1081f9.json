@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:44:47.180Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8266cf070467bd1081f9",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-018"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "幽谷 霧子",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nBP2500以上の相手の場のキャラを1枚選び、このターン中、BP-2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "幽谷 雾子",
+    "effectZh": "[启动主效果]\n[横置状态]\n[将此卡退场]\n选择对方场上 BP2500 以上的角色 1 枚，本回合中，BP-2000。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:20.986Z",
+  "number": "UA01BT/CGH-1-055",
+  "name": "グロースター（コーネリア機）",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "神聖ブリタニア帝国／KMF",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈コーネリア・リ・ブリタニア〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の山札の上から5枚見る。その中から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。残りを望む順で自分の山札の下に置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01BT%2FCGH-1-055",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01BT%2FCGH-1-055",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:55:10.221Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d96544727feb764ad442",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-086"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ヘンリー・レゴラント",
+    "effect": "相手の場に紫か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亨利·雷戈朗",
+    "effectZh": "当对方场中有紫色或绿色的卡片时，减少手牌中此卡片的必要能量［红×1］。",
+    "triggerZh": ""
+  }
+}

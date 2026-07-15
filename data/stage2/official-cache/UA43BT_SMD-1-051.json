@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:36.295Z",
+  "number": "UA43BT/SMD-1-051",
+  "name": "坂本 太郎",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "ORDER",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈坂本 太郎〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを1枚引く。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の山札の上から5枚見る。その中から必要エナジーが2以下の紫のカードを1枚まで場外に置き、残りを望む順で山札の下に置く。その後、この効果で場外に置いたカードの\n[トリガー]\nを発動する。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA43BT%2FSMD-1-051",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA43BT%2FSMD-1-051",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

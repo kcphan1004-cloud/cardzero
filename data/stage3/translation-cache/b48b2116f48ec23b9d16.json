@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:49:08.015Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b48b2116f48ec23b9d16",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-054"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ウィリアム・ヴァンジャンス",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "威廉·凡詹斯",
+    "effectZh": "[攻击时]\n抽一张牌，将手牌中的一张置于场外。",
+    "triggerZh": ""
+  }
+}

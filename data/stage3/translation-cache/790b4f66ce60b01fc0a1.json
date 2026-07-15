@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:58:46.712Z",
+  "model": "qwen3.5:9b",
+  "unitId": "790b4f66ce60b01fc0a1",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-050"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "累",
+    "effect": "[登場時]\nこのターン中にキャラが退場していた場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "累",
+    "effectZh": "[登场时]\n本回合中有角色退场时，选择对方前线 L 的至多 1 名角色，本回合 BP-1500。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张卡片，将其激活，本回合 BP+3000。"
+  }
+}

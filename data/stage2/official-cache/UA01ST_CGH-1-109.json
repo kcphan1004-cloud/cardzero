@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:34.095Z",
+  "number": "UA01ST/CGH-1-109",
+  "name": "黒の騎士団",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "R",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から3枚見る。その中から［特徴：黒の騎士団］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-109",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01ST%2FCGH-1-109",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

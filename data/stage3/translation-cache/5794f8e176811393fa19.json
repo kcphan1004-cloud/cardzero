@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:53:20.437Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5794f8e176811393fa19",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-088"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "陀艮",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陀艮",
+    "effectZh": "【退场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:17:25.763Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f7a6bf098ea4ea6184a6",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-083"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ナナリー・ランペルージ",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場のキャラを1枚選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "娜娜莉·兰佩路基",
+    "effectZh": "[启动主阶段]\n[第 1 回合]\n选择自己场上的一张角色，给予其本回合中「该角色的 BP 为 4000 以上的角色无法阻挡。」。",
+    "triggerZh": ""
+  }
+}

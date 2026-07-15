@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:56.908Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0693f243024c47917107",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-046"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "フランクリン",
+    "effect": "[登場時]\n相手のフロントLのキャラ全ては、このターン中、BP-500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "富兰克林",
+    "effectZh": "[登场时]\n对手场上的所有角色在本回合中 BP-500。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

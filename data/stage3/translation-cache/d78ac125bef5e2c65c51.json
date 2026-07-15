@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:16:20.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d78ac125bef5e2c65c51",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-055"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "砕蜂",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\nBP3500以下の相手のフロントLのキャラを1枚まで選ぶ。次の相手のターン開始時、選んだキャラを退場させ、このキャラをレストにしエナジーLに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "碎蜂",
+    "effectZh": "[启动主]\n[位于前线 L 的情况下]\n[支付 AP 1]\n[回合 1]\n选择 BP3500 以下的对手的前线 L 的角色的最多 1 张。在对手的下一个回合开始时，使选定的角色退场，并将此角色横置并移动至能量线。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

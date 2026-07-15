@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:53.922Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a7f7cabf1bb00411fc39",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA01NC/KMY-2-005"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "胡蝶 しのぶ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "蝴蝶 忍",
+    "effectZh": "【前线】\n【回合 1】\n选择对方场上一名 BP1500 以上的角色，该角色本回合中，BP-1000。",
+    "triggerZh": "激活"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:40:35.850Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9a48ce32b6303b267dd",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-023"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "大蛇",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大蛇",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

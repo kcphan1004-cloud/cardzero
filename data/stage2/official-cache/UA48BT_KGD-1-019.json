@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:55.291Z",
+  "number": "UA48BT/KGD-1-019",
+  "name": "カイネ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "趙",
+  "generatedEnergy": "黄色×1",
+  "effect": "[退場時]\n自分の場に〈李牧〉がある場合、自分の手札から〈カイネ〉以外の必要エナジーが2以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA48BT%2FKGD-1-019",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA48BT%2FKGD-1-019",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

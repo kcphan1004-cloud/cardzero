@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:12:50.096Z",
+  "model": "qwen3.5:9b",
+  "unitId": "857e09fc990a06b84edd",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-049"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "雷槍",
+    "effect": "BP2500以下かBP4500以上の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雷枪",
+    "effectZh": "选择对方前线 L BP2500 以下或 BP4500 以上的角色 1 枚，使其退场。",
+    "triggerZh": ""
+  }
+}

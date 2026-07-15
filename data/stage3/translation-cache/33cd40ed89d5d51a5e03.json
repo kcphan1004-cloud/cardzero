@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:17:34.099Z",
+  "model": "qwen3.5:9b",
+  "unitId": "33cd40ed89d5d51a5e03",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-005"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "キサラ",
+    "effect": "[相手のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "基萨拉",
+    "effectZh": "【对手的回合】\n该角色 BP 为 +1000。",
+    "triggerZh": ""
+  }
+}

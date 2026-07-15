@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:38:46.896Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dcb6b6ed00cc384f3db2",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-022"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ハクロウ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑龙",
+    "effectZh": "[启动主]\n[置为横置]\n选择自己场上的其他角色 1 枚，本回合中 BP+1000。\n\n触发器：无",
+    "triggerZh": ""
+  }
+}

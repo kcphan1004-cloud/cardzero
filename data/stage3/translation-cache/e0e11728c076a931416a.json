@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:46:43.646Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0e11728c076a931416a",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-046"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "五条 悟",
+    "effect": "[アタック時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "五条悟",
+    "effectZh": "[攻击时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

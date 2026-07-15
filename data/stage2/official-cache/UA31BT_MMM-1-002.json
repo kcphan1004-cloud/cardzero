@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:47.994Z",
+  "number": "UA31BT/MMM-1-002",
+  "name": "アルティメットまどか",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈鹿目 まどか〉アクティブにし、フロントLに移動できる\n[フロントLにある場合]\n自分は自分のリムーブエリアの〈鹿目 まどか〉以外の\n[レイド]\nを持たない［特徴：魔法少女］か〈円環の理〉を使用できる。（使用する場合は必要エナジーを満たす必要があり、消費APを支払う）\n[登場時]\n自分の場外にあるキャラカードを2枚までリムーブエリアに置く。このターン中、次にリムーブエリアから使用するカードの消費APを-1する。\n[退場時]\nこのキャラをリムーブエリアに置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA31BT%2FMMM-1-002",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-002",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:03:33.976Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b0162d2c0887d7606772",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-033"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 ルキア",
+    "effect": "[登場時]\n『カードを1枚引き、自分の手札を1枚場外に置く』。自分のフロントLに元々の消費APが2以上のキャラがある場合、『カードを1枚引く』に代えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朽木露琪亚",
+    "effectZh": "【登场时】\n『抽 1 张牌，将手牌的自己 1 张置场外』。若自己的前线 L 有原本消耗 AP 为 2 以上的角色存在，可将效果改为『仅抽 1 张牌』。",
+    "triggerZh": ""
+  }
+}

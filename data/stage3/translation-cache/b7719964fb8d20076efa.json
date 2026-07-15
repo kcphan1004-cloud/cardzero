@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:02:28.108Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b7719964fb8d20076efa",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-060"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "蕨姫",
+    "effect": "このカードは〈堕姫〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "蕨姬",
+    "effectZh": "将此卡作为〈堕姬〉处理。",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

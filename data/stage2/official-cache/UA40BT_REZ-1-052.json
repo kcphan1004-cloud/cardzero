@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:32.995Z",
+  "number": "UA40BT/REZ-1-052",
+  "name": "レム",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場外から必要エナジーが0の青の〈ナツキ・スバル〉を1枚まで自分の場にアクティブで登場させる。\n・自分の場のキャラを1枚手札に戻してもよい。そうした場合、このキャラをアクティブにし、自分の場外から必要エナジーを満たし消費APが1の青の〈ナツキ・スバル〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-052",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-052",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:58:46.709Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13cd36db88638059fb63",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-048"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "下弦の弐",
+    "effect": "[退場時]\n自分のターン中の場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "下弦之贰",
+    "effectZh": "[退场时]\n自己回合中，选择对方前线 L 的至多 1 名角色，本回合 BP-2000。",
+    "triggerZh": ""
+  }
+}

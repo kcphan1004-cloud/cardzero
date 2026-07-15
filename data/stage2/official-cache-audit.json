@@ -1,0 +1,596 @@
+{
+  "generatedAt": "2026-07-14T17:21:25.346Z",
+  "queueNumbers": 8208,
+  "cachedNumbers": 8047,
+  "missingNumbers": 161,
+  "errorFiles": 161,
+  "invalidCaches": 0,
+  "overallCoverage": 0.9803849902534113,
+  "series": [
+    {
+      "slug": "100-girlfriends",
+      "uniqueNumbers": 100,
+      "cachedNumbers": 94,
+      "missingNumbers": [
+        "UA26BT/RLY-1-AP01/S",
+        "UA26BT/RLY-1-AP02/S",
+        "UA26BT/RLY-1-AP03/S",
+        "UA26BT/RLY-1-AP04/S",
+        "UA26BT/RLY-1-AP05/S",
+        "UA26BT/RLY-1-AP06/S"
+      ],
+      "coverage": 0.94
+    },
+    {
+      "slug": "2-5-dimensional-seduction",
+      "uniqueNumbers": 96,
+      "cachedNumbers": 92,
+      "missingNumbers": [
+        "UA33BT/NGR-1-AP01/S",
+        "UA33BT/NGR-1-AP02/S",
+        "UA33BT/NGR-1-AP03/S",
+        "UA33BT/NGR-1-AP04/S"
+      ],
+      "coverage": 0.9583333333333334
+    },
+    {
+      "slug": "arknights",
+      "uniqueNumbers": 209,
+      "cachedNumbers": 208,
+      "missingNumbers": [
+        "UA30BT/ARK-1-AP01/S"
+      ],
+      "coverage": 0.9952153110047847
+    },
+    {
+      "slug": "attack-on-titan",
+      "uniqueNumbers": 210,
+      "cachedNumbers": 208,
+      "missingNumbers": [
+        "UA23BT/AOT-1-AP01/S",
+        "UA23BT/AOT-1-AP02/S"
+      ],
+      "coverage": 0.9904761904761905
+    },
+    {
+      "slug": "black-clover",
+      "uniqueNumbers": 131,
+      "cachedNumbers": 129,
+      "missingNumbers": [
+        "UA20BT/BCV-1-AP01/S",
+        "UA20BT/BCV-1-AP02/S"
+      ],
+      "coverage": 0.9847328244274809
+    },
+    {
+      "slug": "bleach-thousand-year-blood-war",
+      "uniqueNumbers": 217,
+      "cachedNumbers": 216,
+      "missingNumbers": [
+        "EX07BT/BLC-2-AP01/S"
+      ],
+      "coverage": 0.9953917050691244
+    },
+    {
+      "slug": "blue-lock",
+      "uniqueNumbers": 138,
+      "cachedNumbers": 138,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "chained-soldier",
+      "uniqueNumbers": 93,
+      "cachedNumbers": 93,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "chainsaw-man",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 92,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "code-geass",
+      "uniqueNumbers": 204,
+      "cachedNumbers": 204,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "code-geass-roze",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 92,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "demon-slayer",
+      "uniqueNumbers": 219,
+      "cachedNumbers": 215,
+      "missingNumbers": [
+        "EX05BT/KMY-1-017",
+        "EX05BT/KMY-1-022",
+        "EX05BT/KMY-1-026",
+        "EX05BT/KMY-3-AP01/S"
+      ],
+      "coverage": 0.9817351598173516
+    },
+    {
+      "slug": "dr-stone",
+      "uniqueNumbers": 126,
+      "cachedNumbers": 126,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "eminence-in-shadow",
+      "uniqueNumbers": 94,
+      "cachedNumbers": 94,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "evangelion",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "fullmetal-alchemist",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "gakuen-idolmaster",
+      "uniqueNumbers": 194,
+      "cachedNumbers": 182,
+      "missingNumbers": [
+        "UA27BT/GIM-1-AP01/S",
+        "UA27BT/GIM-1-AP02/S",
+        "UA27BT/GIM-1-AP03/S",
+        "UA27BT/GIM-1-AP04/S",
+        "UA27BT/GIM-1-AP05/S",
+        "UA27BT/GIM-1-AP06/S",
+        "UA27BT/GIM-1-AP07/S",
+        "UA27BT/GIM-1-AP08/S",
+        "UA27BT/GIM-1-AP09/S",
+        "UA27BT/GIM-1-AP10/S",
+        "UA27BT/GIM-1-AP11/S",
+        "UA27BT/GIM-1-AP12/S"
+      ],
+      "coverage": 0.9381443298969072
+    },
+    {
+      "slug": "gamera-rebirth",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 90,
+      "missingNumbers": [
+        "UA22BT/GMR-1-AP01/S",
+        "UA22BT/GMR-1-AP02/S"
+      ],
+      "coverage": 0.9782608695652174
+    },
+    {
+      "slug": "gintama",
+      "uniqueNumbers": 126,
+      "cachedNumbers": 126,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "haikyu",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "hunter-x-hunter",
+      "uniqueNumbers": 204,
+      "cachedNumbers": 203,
+      "missingNumbers": [
+        "EX01BT/HTR-1-030"
+      ],
+      "coverage": 0.9950980392156863
+    },
+    {
+      "slug": "idolmaster-shiny-colors",
+      "uniqueNumbers": 265,
+      "cachedNumbers": 265,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "inuyasha",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 92,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "jujutsu-kaisen",
+      "uniqueNumbers": 218,
+      "cachedNumbers": 216,
+      "missingNumbers": [
+        "EX04BT/JJK-1-040",
+        "EX04BT/JJK-3-AP01/S"
+      ],
+      "coverage": 0.9908256880733946
+    },
+    {
+      "slug": "kagurabachi",
+      "uniqueNumbers": 95,
+      "cachedNumbers": 95,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "kaiju-no",
+      "uniqueNumbers": 93,
+      "cachedNumbers": 91,
+      "missingNumbers": [
+        "UA28BT/KJ8-1-AP01/S",
+        "UA28BT/KJ8-1-AP03/S"
+      ],
+      "coverage": 0.978494623655914
+    },
+    {
+      "slug": "kamen-rider",
+      "uniqueNumbers": 236,
+      "cachedNumbers": 235,
+      "missingNumbers": [
+        "UA29BT/KMR-1-AP01/S"
+      ],
+      "coverage": 0.9957627118644068
+    },
+    {
+      "slug": "kingdom",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "kinnikuman",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 92,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "macross",
+      "uniqueNumbers": 213,
+      "cachedNumbers": 213,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "madoka-magica",
+      "uniqueNumbers": 131,
+      "cachedNumbers": 129,
+      "missingNumbers": [
+        "UA31BT/MMM-1-AP01/S",
+        "UA31BT/MMM-1-AP02/S"
+      ],
+      "coverage": 0.9847328244274809
+    },
+    {
+      "slug": "me-and-roboco",
+      "uniqueNumbers": 126,
+      "cachedNumbers": 126,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "monogatari-series",
+      "uniqueNumbers": 131,
+      "cachedNumbers": 131,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "mushoku-tensei",
+      "uniqueNumbers": 189,
+      "cachedNumbers": 92,
+      "missingNumbers": [
+        "CARD-0144",
+        "CARD-0145",
+        "UA54BT-MST-1-001-エリス",
+        "UA54BT-MST-1-002-エリス",
+        "UA54BT-MST-1-003-エリス",
+        "UA54BT-MST-1-004-エリス",
+        "UA54BT-MST-1-005-エリス",
+        "UA54BT-MST-1-006-エリス",
+        "UA54BT-MST-1-007-エリス",
+        "UA54BT-MST-1-008-エリス",
+        "UA54BT-MST-1-009-エリス",
+        "UA54BT-MST-1-010-キシリカ・キシリス",
+        "UA54BT-MST-1-011-ギレーヌ",
+        "UA54BT-MST-1-012-シルフィエット",
+        "UA54BT-MST-1-013-シルフィエット",
+        "UA54BT-MST-1-014-シルフィエット",
+        "UA54BT-MST-1-015-聖獣",
+        "UA54BT-MST-1-016-ゼニス",
+        "UA54BT-MST-1-017-ノルン＆アイシャ",
+        "UA54BT-MST-1-018-パウロ",
+        "UA54BT-MST-1-019-リーリャ",
+        "UA54BT-MST-1-020-ルイジェルド",
+        "UA54BT-MST-1-021-ルイジェルド",
+        "UA54BT-MST-1-022-ルーデウス",
+        "UA54BT-MST-1-023-ルーデウス",
+        "UA54BT-MST-1-024-ルーデウス",
+        "UA54BT-MST-1-025-ルーデウス",
+        "UA54BT-MST-1-026-ルーデウス",
+        "UA54BT-MST-1-027-ロキシー",
+        "UA54BT-MST-1-028-ロキシー",
+        "UA54BT-MST-1-029-ロキシー",
+        "UA54BT-MST-1-030-ロキシー",
+        "UA54BT-MST-1-031-ロキシー",
+        "UA54BT-MST-1-032-ロキシー",
+        "UA54BT-MST-1-033-デッドエンド",
+        "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+        "UA54BT-MST-1-035-お前は戦士だ",
+        "UA54BT-MST-1-036-豪雷積層雲",
+        "UA54BT-MST-1-037-ご神体",
+        "UA54BT-MST-1-038-師匠からのおくりもの",
+        "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+        "UA54BT-MST-1-040-私がついていますから",
+        "UA54BT-MST-1-041-アイシャ",
+        "UA54BT-MST-1-042-エリナリーゼ",
+        "UA54BT-MST-1-043-ギース",
+        "UA54BT-MST-1-044-サラ",
+        "UA54BT-MST-1-045-ゼニス",
+        "UA54BT-MST-1-046-タルハンド",
+        "UA54BT-MST-1-047-パウロ",
+        "UA54BT-MST-1-048-パウロ",
+        "UA54BT-MST-1-049-ルーデウス",
+        "UA54BT-MST-1-050-ロキシー",
+        "UA54BT-MST-1-051-ロキシー",
+        "UA54BT-MST-1-052-ロキシー",
+        "UA54BT-MST-1-053-ロキシー",
+        "UA54BT-MST-1-054-ロキシー",
+        "UA54BT-MST-1-055-アリエル",
+        "UA54BT-MST-1-056-エリナリーゼ",
+        "UA54BT-MST-1-057-クリフ",
+        "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+        "UA54BT-MST-1-059-シルフィエット",
+        "UA54BT-MST-1-060-シルフィエット",
+        "UA54BT-MST-1-061-ナナホシ",
+        "UA54BT-MST-1-062-ナナホシ",
+        "UA54BT-MST-1-063-ノルン",
+        "UA54BT-MST-1-064-バーディガーディ",
+        "UA54BT-MST-1-065-フィッツ",
+        "UA54BT-MST-1-066-フィッツ",
+        "UA54BT-MST-1-067-フィッツ",
+        "UA54BT-MST-1-068-フィッツ",
+        "UA54BT-MST-1-069-プルセナ",
+        "UA54BT-MST-1-070-リニアーナ",
+        "UA54BT-MST-1-071-ルーデウス",
+        "UA54BT-MST-1-072-ルーデウス",
+        "UA54BT-MST-1-073-ルーデウス",
+        "UA54BT-MST-1-074-転移の迷宮",
+        "UA54BT-MST-1-075-迷宮都市ラパン",
+        "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+        "UA54BT-MST-1-077-今までありがとう",
+        "UA54BT-MST-1-078-守護術師フィッツ",
+        "UA54BT-MST-1-079-ゼニス救出作戦",
+        "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+        "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UAPR-MST-1-030-ロキシー",
+        "UAPR-MST-1-055-アリエル",
+        "カードリスト"
+      ],
+      "coverage": 0.48677248677248675
+    },
+    {
+      "slug": "my-hero-academia",
+      "uniqueNumbers": 208,
+      "cachedNumbers": 205,
+      "missingNumbers": [
+        "EX06BT/MHA-2-AP01/S/P1",
+        "EX06BT/MHA-2-AP02/S/P1",
+        "EX06BT/MHA-2-AP03/S/P1"
+      ],
+      "coverage": 0.9855769230769231
+    },
+    {
+      "slug": "nikke",
+      "uniqueNumbers": 187,
+      "cachedNumbers": 186,
+      "missingNumbers": [
+        "UA18BT/NIK-1-AP06/S"
+      ],
+      "coverage": 0.9946524064171123
+    },
+    {
+      "slug": "one-punch-man",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "re-zero",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "rurouni-kenshin",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "sakamoto-days",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 92,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "series-570801",
+      "uniqueNumbers": 12,
+      "cachedNumbers": 12,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "series-570901",
+      "uniqueNumbers": 538,
+      "cachedNumbers": 533,
+      "missingNumbers": [
+        "UAPR/IMS/AP04",
+        "UAPR/IMS/AP05",
+        "UAPR/IMS/AP06",
+        "UAPR/IMS/AP07",
+        "UAPR/IMS/AP08"
+      ],
+      "coverage": 0.9907063197026023
+    },
+    {
+      "slug": "shangri-la-frontier",
+      "uniqueNumbers": 94,
+      "cachedNumbers": 92,
+      "missingNumbers": [
+        "UA32BT/SNF-1-AP01/S",
+        "UA32BT/SNF-1-AP02/S"
+      ],
+      "coverage": 0.9787234042553191
+    },
+    {
+      "slug": "shy",
+      "uniqueNumbers": 93,
+      "cachedNumbers": 92,
+      "missingNumbers": [
+        "UA24BT/SHY-1-AP01/S"
+      ],
+      "coverage": 0.989247311827957
+    },
+    {
+      "slug": "solo-leveling",
+      "uniqueNumbers": 92,
+      "cachedNumbers": 92,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "sword-art-online",
+      "uniqueNumbers": 214,
+      "cachedNumbers": 209,
+      "missingNumbers": [
+        "EX08BT/SAO-2-AP01/S",
+        "EX08BT/SAO-2-AP02/S",
+        "EX08BT/SAO-2-AP03/S",
+        "UA15BT/SAO-1-AP01/S",
+        "UA15BT/SAO-1-AP02/S"
+      ],
+      "coverage": 0.9766355140186916
+    },
+    {
+      "slug": "synduality-noir",
+      "uniqueNumbers": 127,
+      "cachedNumbers": 126,
+      "missingNumbers": [
+        "UA16BT/SYN-1-AP01/S"
+      ],
+      "coverage": 0.9921259842519685
+    },
+    {
+      "slug": "tales-of-arise",
+      "uniqueNumbers": 126,
+      "cachedNumbers": 126,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "tekken",
+      "uniqueNumbers": 20,
+      "cachedNumbers": 20,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "tekken-7",
+      "uniqueNumbers": 106,
+      "cachedNumbers": 106,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "tensura",
+      "uniqueNumbers": 206,
+      "cachedNumbers": 205,
+      "missingNumbers": [
+        "EX09BT/TSK-2-AP01/S"
+      ],
+      "coverage": 0.9951456310679612
+    },
+    {
+      "slug": "to-love-ru",
+      "uniqueNumbers": 96,
+      "cachedNumbers": 96,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "tokyo-ghoul",
+      "uniqueNumbers": 129,
+      "cachedNumbers": 129,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "toriko",
+      "uniqueNumbers": 127,
+      "cachedNumbers": 126,
+      "missingNumbers": [
+        "UA17BT/TRK-1-AP05/S"
+      ],
+      "coverage": 0.9921259842519685
+    },
+    {
+      "slug": "undead-unluck",
+      "uniqueNumbers": 94,
+      "cachedNumbers": 92,
+      "missingNumbers": [
+        "UA25BT/AND-1-AP01/S",
+        "UA25BT/AND-1-AP02/S"
+      ],
+      "coverage": 0.9787234042553191
+    },
+    {
+      "slug": "wind-breaker",
+      "uniqueNumbers": 96,
+      "cachedNumbers": 96,
+      "missingNumbers": [],
+      "coverage": 1
+    },
+    {
+      "slug": "yu-yu-hakusho",
+      "uniqueNumbers": 130,
+      "cachedNumbers": 130,
+      "missingNumbers": [],
+      "coverage": 1
+    }
+  ]
+}

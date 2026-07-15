@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:07.268Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d31f6cf294e1858359ef",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA01NC/KMY-2-001"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 炭治郎",
+    "effect": "[自分のターン中]\n[ターン1]\nアタックフェイズ中に自分の場のキャラが移動した時、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灶门 炭治郎",
+    "effectZh": "[自己的回合]\n[第1回合]\n攻击阶段中，当自己场上的角色移动时，选择自己场上最多1张角色，直到本回合结束，BP+1000。",
+    "triggerZh": ""
+  }
+}

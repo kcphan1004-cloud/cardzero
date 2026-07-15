@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:34:45.988Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8b69c7c45193dbe5b680",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-063"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "工藤 シン",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "工藤・真",
+    "effectZh": "[登场时]\n查看自己山札上方的 1 张，将其置于山札上方或下方。",
+    "triggerZh": ""
+  }
+}

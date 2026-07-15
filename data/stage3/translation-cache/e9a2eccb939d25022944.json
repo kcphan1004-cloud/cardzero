@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:03:41.861Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e9a2eccb939d25022944",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-010"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "玉城 真一郎",
+    "effect": "相手の場に緑か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玉城 真一郎",
+    "effectZh": "对方场上有绿色或红色的卡片时，将本卡的必要能量减少 [紫×1]。",
+    "triggerZh": ""
+  }
+}

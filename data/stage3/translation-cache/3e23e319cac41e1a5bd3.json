@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:43:13.430Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3e23e319cac41e1a5bd3",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-050"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "モツオ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "莫次奥",
+    "effectZh": "",
+    "triggerZh": "[获取] 将此卡加入手牌。"
+  }
+}

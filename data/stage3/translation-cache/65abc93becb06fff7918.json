@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:41:20.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65abc93becb06fff7918",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-029"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "悪魔召喚",
+    "effect": "自分の場外から〈ディアブロ〉を1枚まで手札に加える。このターン中、次に手札から使用する〈ディアブロ〉の消費APを-1する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "恶魔召唤",
+    "effectZh": "从场外加入最多 1 张〈迪亚波罗〉到手牌中。本回合内，下次手札使用的〈迪亚波罗〉的消耗 AP-1。\n[Trigger]\n抽 1 张牌。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

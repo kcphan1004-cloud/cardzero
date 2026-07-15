@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:31:44.132Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f627f25070ee2df1f0b2",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-044"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三峰结华",
+    "effectZh": "[登场时]\n选择对方场上 BP 为 1500 以上的角色至多 1 张，本回合中 -BP1000。",
+    "triggerZh": ""
+  }
+}

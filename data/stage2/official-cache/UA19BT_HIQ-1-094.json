@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:42.797Z",
+  "number": "UA19BT/HIQ-1-094",
+  "name": "西谷 夕",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "烏野高校／リベロ",
+  "generatedEnergy": "红色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[エナジーLにある場合]\n自分のアタックフェイズ終了時、自分のフロントLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。\n[ブロック時]\n自分の手札を2枚場外に置いてもよい。そうした場合、このキャラはこのバトルの敗北によって退場しない。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA19BT%2FHIQ-1-094",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA19BT%2FHIQ-1-094",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

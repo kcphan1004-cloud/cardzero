@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:12:13.263Z",
+  "model": "qwen3.5:9b",
+  "unitId": "eab18ab6de00c2d88ba8",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-096"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "音の呼吸 伍ノ型 鳴弦奏々",
+    "effect": "自分の場の〈宇髄 天元〉、［特徴：天元の嫁］、［特徴：変装］の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "音之呼吸 伍之型·鸣弦奏々",
+    "effectZh": "选择对方前线 L BP 小于等于（自己场上的「宇髄 天元」、［特征：天元的妻子］、［特征：伪装］的合计张数×1000）的角色，使其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色一张，使其退场。"
+  }
+}

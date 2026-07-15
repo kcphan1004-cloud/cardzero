@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:51:07.924Z",
+  "model": "qwen3.5:9b",
+  "unitId": "503ee215c5a618653f8b",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-006"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 炭治郎",
+    "effect": "[登場時]\n自分の手札から、必要エナジーが2以下で消費APが1の〈竈門 禰󠄀豆子〉を1枚まで自分のフロントLにレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灶门 炭治郎",
+    "effectZh": "[登场时]\n从自己的手牌中，将必要能量为 2 以下、消耗 AP 为 1 的〈灶门 祢豆子〉最多选择至多 1 张以横置状态登场到自己的前线 L。",
+    "triggerZh": ""
+  }
+}

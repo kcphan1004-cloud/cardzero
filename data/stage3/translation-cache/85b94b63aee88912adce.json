@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:39:44.065Z",
+  "model": "qwen3.5:9b",
+  "unitId": "85b94b63aee88912adce",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-038"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ユウキ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "勇树",
+    "effectZh": "【登场时】\n将自身场上其他必要能量为 1 以下的角色最多选择 1 张返回手牌。若无法返回，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:33:52.561Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c9ca9d670ae4b71d83a",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-038"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "紅月 カレン",
+    "effect": "[登場時]\nカードを1枚引き、このターン中、次に手札から使用する消費APが2のカードの消費APを-1する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "红月·卡莲",
+    "effectZh": "[登场时]\n抽 1 张牌，且本回合中下次从手札使用的消耗 AP 为 2 的卡的消耗 AP-1。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

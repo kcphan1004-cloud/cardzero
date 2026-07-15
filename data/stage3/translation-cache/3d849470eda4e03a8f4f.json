@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:30:09.092Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3d849470eda4e03a8f4f",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-067"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "煉󠄁獄 瑠火",
+    "effect": "自分のイベントカードか〈煉󠄁獄 杏寿郎〉の効果でこのカードが手札から場外に置かれた時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炼狱 瑠火",
+    "effectZh": "当自己因事件卡或〔炼狱 杏寿郎〕的效果使此卡从手牌置为场外时，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

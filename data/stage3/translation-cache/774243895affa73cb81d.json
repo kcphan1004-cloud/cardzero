@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:37:51.692Z",
+  "model": "qwen3.5:9b",
+  "unitId": "774243895affa73cb81d",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-013"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リムル",
+    "effect": "[登場時]\n[アタック時]\n[フロントLにある場合]\n以下から1つ選ぶ。\n・自分のフロントLの他のキャラ全ては、このターン中、BP+1000。\n・自分の場の他のキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "[登场时]\n[位于前线 L 时]\n从以下中选择 1 个。\n・自己前线 L 的其他角色全部，本回合中，BP+1000。\n・选择自己场上的其他角色最多 1 枚，本回合中，BP+2000。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

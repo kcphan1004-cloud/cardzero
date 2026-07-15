@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:37.877Z",
+  "number": "UA43BT/SMD-1-060",
+  "name": "南雲",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "ORDER",
+  "generatedEnergy": "紫色×1",
+  "effect": "このカードの\n[ゲット]\nを発動する場合、代わりに\n[ドロートリガー]\nか\n[アクティブ]\nにしてもよい。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA43BT%2FSMD-1-060",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA43BT%2FSMD-1-060",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

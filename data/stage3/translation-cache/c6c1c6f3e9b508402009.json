@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:26:29.727Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6c1c6f3e9b508402009",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-055"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "リンウェル",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "林维尔",
+    "effectZh": "【登场时】\n选择自己场上除自身外的角色至多1枚并使其在本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

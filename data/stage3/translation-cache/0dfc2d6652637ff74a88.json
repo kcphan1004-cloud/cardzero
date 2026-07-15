@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:08.604Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0dfc2d6652637ff74a88",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-080"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ジョネス",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[フロントLにある場合]\n自分のアタックフェイズ終了時、このキャラがアクティブの場合、このキャラを退場させる。\nこのキャラがアタックしてバトルに敗北した時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "乔内斯",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成1点伤害）\n[位于前线L的情况下]\n自己的攻击阶段结束时，若此角色处于激活状态，使其退场。\n当此角色因攻击而输掉战斗时，使其退场。",
+    "triggerZh": ""
+  }
+}

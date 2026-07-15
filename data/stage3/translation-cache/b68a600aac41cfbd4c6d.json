@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:35:21.466Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b68a600aac41cfbd4c6d",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-106"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "リンウェル",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "林威尔",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:14:07.205Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f716f73944293789d206",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-049"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "秦谷 美鈴",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+\n[青]\n。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "秦谷 美铃",
+    "effectZh": "[启动主效果]\n[横置时]\n[回合 1]\n将自己前线 L 的激活角色中的 1 张横置。如此操作的情况下，该角色的本回合中，发生能量+\n[青]\n。",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

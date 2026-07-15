@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:10:44.318Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a45dfd5c6b7c82cb25a1",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-052"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ジェレミア・ゴットバルト",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杰雷米亚·哥德巴尔特",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）\n[阻挡 2 次]\n（当该角色在本回合首次进行阻挡时，将其激活）",
+    "triggerZh": ""
+  }
+}

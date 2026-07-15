@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:46:48.886Z",
+  "model": "qwen3.5:9b",
+  "unitId": "94d6a9f7b7d9bb8f5f0a",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-028"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甘奈",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大崎甘奈",
+    "effectZh": "[登场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

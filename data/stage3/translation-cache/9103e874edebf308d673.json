@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:33:52.563Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9103e874edebf308d673",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-040"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "藤堂 鏡志朗",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "藤堂·镜志朗",
+    "effectZh": "若此角色处于激活状态，则此角色的发生能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

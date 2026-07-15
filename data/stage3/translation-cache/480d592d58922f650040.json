@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:12:23.131Z",
+  "model": "qwen3.5:9b",
+  "unitId": "480d592d58922f650040",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-1-026"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "悲鳴嶼 行冥",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "悲鳴嶼 行冥",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

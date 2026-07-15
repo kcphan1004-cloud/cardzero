@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:16:13.556Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4b7687c2797a3926c53",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-046"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "アウト―!!",
+    "effect": "このターン中、自分が次に発動させる〈リスキーダイス〉の\n[起動メイン]\nは、自分の場のキャラを選ぶ代わりに相手のフロントLのキャラを選んで発動させてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出去!!",
+    "effectZh": "在本回合中，自己接下来发动的〈风险骰子〉\n[启动主]\n可以选择对方前线 L 的角色代替选择己方场上的角色进行发动。",
+    "triggerZh": ""
+  }
+}

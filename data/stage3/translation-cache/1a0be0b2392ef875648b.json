@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:07:39.776Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1a0be0b2392ef875648b",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-037"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "蛙吹 梅雨",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蛙吹 梅雨",
+    "effectZh": "如果对方场上有紫色或红色的卡，将手牌中这张卡的必要能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

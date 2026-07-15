@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:28:49.015Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4fa59dee117afada41e5",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-072"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "キサラ",
+    "effect": "相手の場に青か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "基萨拉",
+    "effectZh": "对方场上存在蓝色或绿色的卡时，减少手牌中此卡的必要能量\n[红×1]\n。",
+    "triggerZh": ""
+  }
+}

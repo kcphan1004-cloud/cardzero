@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:03:18.865Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5429956ed71e4ca5e3a1",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-063"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "頭を垂れて蹲え 平伏せよ",
+    "effect": "自分の場のキャラを1枚退場させる。そうした場合、相手のフロントLのキャラを1枚まで選び、退場させる。カードを1枚引く。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "低头蹲伏，俯首帖耳",
+    "effectZh": "将己方场上一张角色退场。如此情况下，选择对方前线L 的角色最多一张并使其退场。抽牌。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色一张并使其退场。"
+  }
+}

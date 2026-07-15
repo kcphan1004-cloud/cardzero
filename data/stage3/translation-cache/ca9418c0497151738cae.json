@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:05:50.822Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ca9418c0497151738cae",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-009"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ドリスコール・ベルチ",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "多里斯科尔·贝尔奇",
+    "effectZh": "[冲击 (1)]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）、",
+    "triggerZh": ""
+  }
+}

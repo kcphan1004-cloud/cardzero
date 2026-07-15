@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:23.668Z",
+  "number": "UA46BT/KGR-1-041",
+  "name": "勾罪 蜈",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "-",
+  "feature": "妖刀／勾罪",
+  "generatedEnergy": "-",
+  "effect": "自分の場の〈漣 京羅〉の効果によってこのカードが公開され、手札に加わった時、このカードを必要エナジーを無視してAPを支払わずに使用してもよい。\n『BP4000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈漣 京羅〉か〈楽座市〉がある場合、『BP5000以下』に代わる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-041",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-041",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:29.745Z",
+  "number": "UA10BT/MHA-1-038",
+  "name": "天喰 環",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "このキャラの下に置かれた裏向きのカードが2枚以上の場合、このキャラは\n[2回ブロック]\nを得る。\nこのキャラの下に置かれた裏向きのカードが4枚以上の場合、このキャラは\n[2回アタック]\nを得る。\n[起動メイン]\n[ターン1]\n自分の山札の上から1枚を裏向きでこのキャラの下に置く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA10BT%2FMHA-1-038",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA10BT%2FMHA-1-038",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

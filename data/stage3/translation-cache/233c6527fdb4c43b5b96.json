@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:49:40.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "233c6527fdb4c43b5b96",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-059"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "吉野 順平",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉野顺平",
+    "effectZh": "【退场时】抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

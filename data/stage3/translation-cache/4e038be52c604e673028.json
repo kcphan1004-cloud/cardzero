@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:35:21.465Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e038be52c604e673028",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-105"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "フルル",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "芙露鲁",
+    "effectZh": "【攻击时】\n抽 1 张牌，将自身的手牌最多 1 张置为场外。",
+    "triggerZh": ""
+  }
+}

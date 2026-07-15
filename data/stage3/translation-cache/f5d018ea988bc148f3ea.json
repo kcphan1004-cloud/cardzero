@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:20:30.139Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f5d018ea988bc148f3ea",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-084"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "日番谷 冬獅郎",
+    "effect": "自分の場に他の［特徴：護廷十三隊］が6枚以上ある場合、このキャラはBP+500。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "日番谷冬狮郎",
+    "effectZh": "若自己场上有其他［特征：护廷十三队］有 6 张以上，此角色 BP+500。",
+    "triggerZh": "[色相]\n从手牌中登场 1 张绿色角色卡至激活状态于己方场地上，其必要能量为 2 以下且消耗 AP 为 1。"
+  }
+}

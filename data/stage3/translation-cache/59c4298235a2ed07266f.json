@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:43:13.436Z",
+  "model": "qwen3.5:9b",
+  "unitId": "59c4298235a2ed07266f",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-055"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "アーマード武者",
+    "effect": "[退場時]\n自分の手札を2枚場外に置いてもよい。そうした場合、このカードを手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "装甲武者",
+    "effectZh": "[退场时]\n可选择将己方手牌中的2张置为场外。若如此操作，将此卡加入手牌。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

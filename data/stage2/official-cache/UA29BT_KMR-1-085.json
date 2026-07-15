@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:19.087Z",
+  "number": "UA29BT/KMR-1-085",
+  "name": "仮面ライダーファイズ アクセルフォーム",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "このキャラはレイド以外で登場できない。\n[レイド]\nカード名に「ファイズ」を含むキャラアクティブにし、フロントLに移動できる\n自分のアタックフェイズ終了時、レイド状態のこのキャラの一番上のカードを場外に置く。\n[アタック時]\n[ターン1]\nこのキャラをアクティブにし、カードを2枚引く。その後、自分の手札の［特徴：ファイズギア］を1枚場外に置いてもよい。そうした場合、BP1500以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29BT%2FKMR-1-085",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-085",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

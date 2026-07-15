@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:41:20.811Z",
+  "model": "qwen3.5:9b",
+  "unitId": "62cb31cec54b4db17778",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-003"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "桑山 千雪",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場外にあるカードを1枚リムーブエリアに置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桑山千雪",
+    "effectZh": "[启动主]\n[横置状态]\n将自己场外的 1 张卡放置到移除区。",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:42:27.081Z",
+  "model": "qwen3.5:9b",
+  "unitId": "73f72809f4455ab46c9d",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA04NC/BLC-3-001"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "黒崎 一護",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[自分のターン中]\nこのターン中に自分の手札を場外に置いている場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "黑崎一护",
+    "effectZh": "[阻挡 2 次]\n（当此角色在本回合首次进行阻挡时，激活）\n[己方回合中]\n若本回合中将己方的手牌置于场外，则此角色的 BP+1000。",
+    "triggerZh": "[激活]\n选择己方场上一张角色，使其激活，并在此回合中，BP+3000。"
+  }
+}

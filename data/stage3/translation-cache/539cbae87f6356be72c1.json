@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:30:55.578Z",
+  "model": "qwen3.5:9b",
+  "unitId": "539cbae87f6356be72c1",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-041"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "闘士タルラ",
+    "effect": "自分の場外にカードが15枚以上ある場合、このカードのカード名は〈不死の黒蛇 タルラ〉に変わる。\n[起動メイン]\n[レストにする]\n[ターン1]\nBP1000以下の自分の場のキャラを1枚選び、別のラインに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "斗士塔尔拉",
+    "effectZh": "当场外有 15 张以上卡时，此卡的名称变为〈不死黑蛇 塔尔拉>。\n[启动主]\n[横置]\n[回合 1]\n选择 BP1000 以下的自己场上的一枚卡牌并移动至其他线。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

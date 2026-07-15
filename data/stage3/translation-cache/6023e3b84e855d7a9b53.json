@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:26:48.927Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6023e3b84e855d7a9b53",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-023"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "七草 にちか",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "七草 にちか",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

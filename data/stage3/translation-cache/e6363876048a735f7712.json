@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:04:37.539Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e6363876048a735f7712",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-017"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "このキャラはBP3500以上のキャラにブロックされない。\n[登場時]\n相手は自身の手札を1枚場外に置く。\n[退場時]\nカードを2枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "此角色不会被 BP3500 以上的角色阻挡。\n[登场时]\n对方将自身手牌最多 1 张置于场外。\n[退场时]\n抽 2 张牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

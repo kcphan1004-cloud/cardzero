@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:35:31.415Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0caff9b22d15400041eb",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-067"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "スワイヤー",
+    "effect": "[退場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+3000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斯瓦音",
+    "effectZh": "[退场时]\n选择自己场上的其他角色卡最多 1 张，令其在本回合中，BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡，使其激活，并令其在本回合中，BP+3000。"
+  }
+}

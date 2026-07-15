@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:06:39.717Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ead8935ebddbd1c55b1",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-028"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "ミミック",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "模仿者",
+    "effectZh": "[登场]\n抽 1 张牌，将手札中的 1 张置入场外。\n\n[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

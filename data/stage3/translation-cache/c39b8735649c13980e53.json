@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:52:05.488Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c39b8735649c13980e53",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-061"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "和泉 愛依",
+    "effect": "[レイド]\n〈和泉 愛依〉アクティブにし、フロントLに移動できる\n[自分のターン中]\n自分の場に異なるカード名を持つ［特徴：Straylight］が3種類以上ある場合、このキャラはBP+1000。\n[登場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "和泉 爱依",
+    "effectZh": "[雷击]\n〈和泉 爱依〉处于激活状态，可移动至前线 L\n[自己的回合中]\n自己场上拥有不同卡名的［特征：Straylight］角色有 3 种以上时，该角色的 BP+1000。\n[登场时]\n抽 1 张牌。",
+    "triggerZh": "[获取]"
+  }
+}

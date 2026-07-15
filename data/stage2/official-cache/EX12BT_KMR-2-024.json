@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:15.534Z",
+  "number": "EX12BT/KMR-2-024",
+  "name": "仮面ライダーオーズ タジャドルコンボエタニティ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "このカードは〈アンク〉としても扱う。\nこのキャラはアクティブで登場させる。\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\n自分のリムーブエリアの〈アンク〉を1枚場外に置いてもよい。そうした場合、自分のAPカードを1枚アクティブにする。\n[退場時]\n〈アンク〉以外の自分の場外のカード名に「オーズ」を含むキャラカードを1枚リムーブエリアに置いてもよい。そうした場合、自分の場外から必要エナジーが0の〈アンク〉を1枚まで手札に加える。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:28:12.826Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d61281a893b780abf1b6",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-015",
+    "UA01BT/CGH-1-015"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "[登场时]\n选择自身场上的角色最多1张，赋予本回合中「该角色不会被BP 2000以下的角色阻挡。」。",
+    "triggerZh": "[激活]\n选择自身场上的角色1张并激活，赋予本回合中，+3000 BP。"
+  }
+}

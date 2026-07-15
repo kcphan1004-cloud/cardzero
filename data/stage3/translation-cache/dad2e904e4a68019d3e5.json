@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:43:45.794Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dad2e904e4a68019d3e5",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-010"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "八宮 めぐる",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[登場時]\n自分のフロントLのアクティブのキャラを1枚レストにしてもよい。そうした場合、自分の場の他の［特徴：illumination STARS］を1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "八宫 美轮",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，失去【冲击】）\n【登场时】\n可以将自己前线 L 的激活角色横置。如此做的话，从自己的场上选择最多一张［特征：illumination STARS］并使其激活。",
+    "triggerZh": ""
+  }
+}

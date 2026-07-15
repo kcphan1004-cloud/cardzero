@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:33:35.306Z",
+  "model": "qwen3.5:9b",
+  "unitId": "25e1bb46a0edd86c95d3",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-076",
+    "UA06BT/TOA-1-076"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "[登场时]\n选择自己场上除外的其他角色至多1张，本回合中BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色1张，将其激活，本回合中BP+3000。"
+  }
+}

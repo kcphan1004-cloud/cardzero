@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:04.702Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e7debee3f36c21cf761b",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-038"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "シズク",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西索·富力士",
+    "effectZh": "[登场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

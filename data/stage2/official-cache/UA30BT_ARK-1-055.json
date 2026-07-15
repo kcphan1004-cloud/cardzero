@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:35.308Z",
+  "number": "UA30BT/ARK-1-055",
+  "name": "レッド",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "4500-",
+  "feature": "ロドス・アイランド製薬",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[自分のターン中]\nこのキャラが自分の場から手札に戻った時、このターン中、次に手札から使用する青の〈レッド〉は消費APが-1され、アクティブで場に登場する。〈レッド〉のこの効果は1ターンに1回のみ発動する。\n[相手のターン中]\nこのキャラはBP-2500。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA30BT%2FARK-1-055",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-055",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

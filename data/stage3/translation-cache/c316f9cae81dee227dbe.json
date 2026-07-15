@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:05.128Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c316f9cae81dee227dbe",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-042",
+    "UA08BT/BLC-1-042"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "茶渡 泰虎",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "茶渡泰虎",
+    "effectZh": "[启动主]\n[置为横置状态]\n[回合 1]\n本回合中，此角色的发生能量+\n[紫]\n。主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

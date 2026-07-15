@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:23:52.875Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8f4ef3a843c9a4e64c6",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-025"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ミラージュ・ファリーナ・ジーナス",
+    "effect": "[登場時]\n自分のフロントLにカード名に「ミラージュ」を含まないレイド状態の［特徴：Δ小隊］がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "幻影·法利娜·希纳斯",
+    "effectZh": "【登场时】\n若自己的前线 L 存在有特征为「Δ小队」且卡名不包含“幻影”的处于横置状态的 Raid，抽 1 张牌。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

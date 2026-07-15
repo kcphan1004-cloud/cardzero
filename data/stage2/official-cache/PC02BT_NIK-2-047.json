@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:10.496Z",
+  "number": "PC02BT/NIK-2-047",
+  "name": "ナガ",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "ミシリス／ダージリンパール",
+  "generatedEnergy": "绿色×3",
+  "effect": "[登場時]\n自分の山札の上から『1枚』見て、1枚まで山札の上に置き、残りを望む順で下に置く。自分のフロントLのBP4000以上の［特徴：ミシリス］1枚につき、この効果で見る山札の枚数+1。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC02BT%2FNIK-2-047",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC02BT%2FNIK-2-047",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 3
+      }
+    ]
+  }
+}

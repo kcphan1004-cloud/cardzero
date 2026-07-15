@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:16:33.445Z",
+  "model": "qwen3.5:9b",
+  "unitId": "92f7a4bc9b06e066fc6d",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-076"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "自分の場外に〈宅配ピザ〉が1枚以上ある場合、このキャラはBP+500。\n自分の場外に〈巨大ピザ〉が1枚以上ある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "自己的场外有1张以上的〈宅配披萨〉时，该角色BP+500。\n自己的场外有1张以上的〈巨大披萨〉时，该角色BP+500。",
+    "triggerZh": ""
+  }
+}

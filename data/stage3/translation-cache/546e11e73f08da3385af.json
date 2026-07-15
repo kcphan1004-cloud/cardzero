@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:28:49.684Z",
+  "model": "qwen3.5:9b",
+  "unitId": "546e11e73f08da3385af",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-062"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "我妻 善逸",
+    "effect": "自分の場にレイド状態の〔〈竈門 炭治郎〉か〈嘴平 伊之助〉〕がある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "我妻 善逸",
+    "effectZh": "如果自己的场上有处于 Raid 状态的〔〈灶门 炭治郎〉或〈嘴平 伊之助〉〕，此角色的 BP+1000。",
+    "triggerZh": "[抽牌]\n抽取 1 张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:58:45.510Z",
+  "model": "qwen3.5:4b",
+  "unitId": "88332d63432b9ab3046f",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-104"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "チャーミー・パピットソン",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "查米·帕皮特松",
+    "effectZh": "[启动主侧]\n[横置状态]\n选择自己场上的其他角色1张，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

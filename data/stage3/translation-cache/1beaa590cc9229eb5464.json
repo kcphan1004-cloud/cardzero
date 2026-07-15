@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:07:39.780Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1beaa590cc9229eb5464",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-040"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "麗日 お茶子",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "丽日 茶子",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:29.931Z",
+  "number": "UA40BT/REZ-1-034",
+  "name": "ヴィルヘルム・ヴァン・アストレア",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[登場時]\n自分のターン中の場合、APを1支払ってもよい。そうした場合、BP4500以上の相手のフロントLのキャラを1枚まで選び、退場させる。\n[起動メイン]\n[ターン1]\n自分の手札を1枚公開し、自分の山札の下に置く。公開したカードがBP4000以上のキャラカードの場合、このキャラはこのターン中、\n[インパクト（1）]\nを得る。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-034",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-034",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

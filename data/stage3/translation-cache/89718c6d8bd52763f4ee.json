@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:19:11.872Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89718c6d8bd52763f4ee",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-022"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 玄弥",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "不死川 玄弥",
+    "effectZh": "",
+    "triggerZh": "[登场时]抽1张牌。"
+  }
+}

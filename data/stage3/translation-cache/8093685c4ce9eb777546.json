@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:44:10.234Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8093685c4ce9eb777546",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-059"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "崩魔霊子斬",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ヒナタ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "崩魔灵子斩",
+    "effectZh": "选择对方前线 L 的一张「BP3000 以下」的角色卡并使其退场。如果己方场上有「日向」，则改为「BP5000 以下」。",
+    "triggerZh": "【特殊】\n选择对方前线 L 的一张角色卡并使其退场。"
+  }
+}

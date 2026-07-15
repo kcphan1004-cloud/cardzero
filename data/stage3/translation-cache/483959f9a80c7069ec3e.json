@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:24:18.503Z",
+  "model": "qwen3.5:9b",
+  "unitId": "483959f9a80c7069ec3e",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-046"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "自分の発生エナジーが6以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "希恩",
+    "effectZh": "若自己的发生能量为 6 以上，此角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

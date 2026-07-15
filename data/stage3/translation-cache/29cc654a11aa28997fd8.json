@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:39:34.723Z",
+  "model": "qwen3.5:9b",
+  "unitId": "29cc654a11aa28997fd8",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-064"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ヴィレッタ・ヌゥ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n自分の場外にイベントカードが4枚以上ある場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "薇蕾塔·努乌",
+    "effectZh": "【阶段】\n（在自己的移动相位可从能量线 L 移动到前线）\n若场外有 4 张以上的事件卡，该角色的发生能量+\n【红】\n。",
+    "triggerZh": "【抽】\n抽 1 张牌。"
+  }
+}

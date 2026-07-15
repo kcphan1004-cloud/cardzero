@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:49:58.234Z",
+  "model": "qwen3.5:9b",
+  "unitId": "edb81bd05c9f5c06711f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-047"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "三峰 结华",
+    "effectZh": "[登场时]\n抽 1 张牌，将手牌中的 1 张置到场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 枚，将其激活，本回合中 BP+3000。"
+  }
+}

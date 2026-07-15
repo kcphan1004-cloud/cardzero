@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:15.557Z",
+  "number": "UA29BT/KMR-1-065",
+  "name": "セルメダル",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引き、自分の場のキャラを1枚まで選び、このターン中、BP+500。\n[自分のターン中]\n[場外にある場合]\nアタックフェイズ終了時、このターン中にカード名に「オーズ」か「バース」を含むキャラがアタックしている場合、場外のこのカードを手札に加えてもよい。そうした場合、自分の手札を1枚自分の山札の下に置く。〈セルメダル〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29BT%2FKMR-1-065",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-065",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "blue",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

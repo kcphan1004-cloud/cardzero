@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:14:53.301Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff17e9295dfbeaadb6ec",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-108"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "丸い岩",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場のキャラ全ては、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "圆形的岩石",
+    "effectZh": "[启动 Main]\n[使其横置]\n[使此卡退场]\n自己场上的所有角色，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "number": "UA20BT/BCV-1-006",
+  "name": "ゴーシュ・アドレイ",
+  "seriesSlugs": [
+    "black-clover"
+  ],
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-006",
+  "httpStatus": 200,
+  "contentType": "text/html; charset=UTF-8",
+  "contentLength": 8664,
+  "title": "カードリスト｜ユニオンアリーナ｜UNION ARENA",
+  "labelHits": {
+    "カード種類": false,
+    "必要エナジー": true,
+    "消費AP": true,
+    "BP": true,
+    "発生エナジー": false,
+    "特徴": true,
+    "効果": true,
+    "トリガー": true,
+    "レアリティ": false
+  },
+  "labelHitCount": 6,
+  "textPreview": "カードリスト｜ユニオンアリーナ｜UNION ARENA\nゴーシュ・アドレイ ごーしゅ・あどれい\nUA20BT/BCV-1-006 R\nカード画像\nタイトル\n必要\nエナジー\n消費\nAP\n1\nカード\n種類\nキャラクター\nBP\n3000\n特徴\n黒の暴牛\n発生\nエナジー\n効果\n自分の場の特徴に「黒の暴牛」を持つキャラを1枚まで選び、自分の手札か自分の場外から選んだキャラと同じカード名の必要エナジーが2以下で消費APが1の紫のキャラカードを1枚まで自分の場にレストで登場させる。アタックフェイズ終了時、そのキャラを退場させる。\nトリガー\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。\nURLをコピー\nURLを\nコピーしました。\n収録商品\nブラッククローバー 【UA20BT】\nカードリスト\n商品情報\nQ&A\nQ880 2024.04.19 更新\nこのカードの【登場時】で登場させたキャラクターをレイド元として、他のキャラクターをレイドさせた場合、エンドフェイズ開始時にレイドしたキャラクターは退場させますか？\nいいえ、退場させません。レイドさせた場合、レイドされたカードが受けていた効果は全て無効になります。",
+  "htmlFile": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-006.html"
+}

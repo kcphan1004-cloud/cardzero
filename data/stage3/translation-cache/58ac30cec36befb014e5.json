@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:37:51.695Z",
+  "model": "qwen3.5:9b",
+  "unitId": "58ac30cec36befb014e5",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-015"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シオン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "[无效冲击]（与该角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

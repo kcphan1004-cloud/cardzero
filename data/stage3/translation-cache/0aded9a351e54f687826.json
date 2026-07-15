@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:03:32.528Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0aded9a351e54f687826",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-010"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビスケ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "比司吉",
+    "effectZh": "【在自己的回合中】\n本角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

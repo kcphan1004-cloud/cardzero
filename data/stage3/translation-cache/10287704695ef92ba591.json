@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:06:45.810Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10287704695ef92ba591",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-014"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "バンビエッタ・バスターバイン",
+    "effect": "[レイド]\n〈バンビエッタ・バスターバイン〉アクティブにし、フロントLに移動できる\n[登場時]\n自分のターン中の場合、相手のフロントLのレストのキャラを1枚まで選び、退場させる。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "斑目一文字·破坏之鞭",
+    "effectZh": "[Raid]\n〈斑目一文字·破坏之鞭〉激活并移动至前线 L\n[登场时]\n若在自己的回合中，选择对方前线 L 的横置角色至多 1 枚，使其退场。",
+    "triggerZh": "[Raid]\n将此卡加入手牌，或满足必要能量时进行 Raid。"
+  }
+}

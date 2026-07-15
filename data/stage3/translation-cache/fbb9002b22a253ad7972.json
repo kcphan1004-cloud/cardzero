@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:16:03.285Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fbb9002b22a253ad7972",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-072"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "松本 乱菊",
+    "effect": "[登場時]\n自分の場に〈日番谷 冬獅郎〉がある場合、自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "松本乱菊",
+    "effectZh": "[登场时]\n当场上有〈日番谷冬狮郎〉时，可以从自己的手牌中选择最多 1 张所需能量为 2 及以下、消耗 AP 为 1 的绿色角色卡，以横置状态使其从场外登场。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

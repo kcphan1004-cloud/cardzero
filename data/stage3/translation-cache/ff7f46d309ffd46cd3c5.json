@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:59:41.986Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff7f46d309ffd46cd3c5",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-071"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーカブト(DCD)",
+    "effect": "[相手のターン中]\n自分の場にカード名に「ディケイド」を含むキャラがある場合、相手はキャラの効果やイベントカードの効果でこのキャラを選ぶ際に、追加でAPを1支払わないと選べない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Kabuto(DCD)",
+    "effectZh": "【对方回合中】\n自己场上有卡名包含「Decade」的角色时，对手在选择该角色（通过角色的效果或事件卡片的效果）时，必须额外支付 1 AP 才能选择。",
+    "triggerZh": "抽牌"
+  }
+}

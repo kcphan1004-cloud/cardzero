@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:58:46.708Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2cc52c46897d0b62905d",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-047"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "下弦の肆",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "下弦之肆",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:21:52.096Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2dc8f7dbc127bc25533f",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-015"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "早乙女 アルト",
+    "effect": "[自分のターン中]\n自分の場に〈シェリル・ノーム〉と〈ランカ・リー〉がある場合、このキャラはBP+1000。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "早乙女·阿尔托",
+    "effectZh": "[在自己回合中]\n若自己场上有〈雪莉露·诺姆〉和〈兰卡·李〉，该角色 BP+1000。\n[登场时]\n抽 1 张牌，将自己的手牌中 1 张置为场外。",
+    "triggerZh": ""
+  }
+}

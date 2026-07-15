@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:30:00.266Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ecf36fb1436dedd3774",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-AP01",
+    "UA01ST/CGH-1-AP02",
+    "UA01BT/CGH-1-AP01",
+    "UA01BT/CGH-1-AP02",
+    "UA01BT/CGH-1-AP03",
+    "UA01BT/CGH-1-AP04",
+    "UA01BT/CGH-1-AP05",
+    "UA01BT/CGH-1-AP06",
+    "EX02BT/CGH-2-AP01",
+    "EX02BT/CGH-2-AP02",
+    "EX02BT/CGH-2-AP03",
+    "EX02BT/CGH-2-AP04",
+    "EX02BT/CGH-2-AP05"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（Code Geass 叛逆的鲁路修）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:46:07.903Z",
+  "model": "qwen3.5:9b",
+  "unitId": "49a2012889bf2e427cda",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-026"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "自分の場に異なるカード名を持つ他の［特徴：L'Antica］が3種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三峰结华",
+    "effectZh": "当自己场上存在3种以上拥有不同卡名的其他［特征：L'Antica］时，该角色BP+1000。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

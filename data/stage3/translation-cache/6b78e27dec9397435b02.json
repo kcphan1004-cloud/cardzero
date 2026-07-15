@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:12:45.193Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b78e27dec9397435b02",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-046"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "篠澤 広",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブの場合のみ発動できる。自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "篠泽广",
+    "effectZh": "[启动主效果]\n[位于前线 L 时]\n[第 1 回合]\n仅当此角色处于激活状态时可发动。查看牌库上方的 1 张牌，并将其放置于牌库上方或场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

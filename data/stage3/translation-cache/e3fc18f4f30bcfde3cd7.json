@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:39:42.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e3fc18f4f30bcfde3cd7",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-013"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "禪院 真希",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "禅院真希",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张角色，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

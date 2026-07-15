@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:57:51.945Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a28e9769451682ecb69",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-005"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "コニー・スプリンガー",
+    "effect": "自分の場に［特徴：地鳴らし］以外の黄のキャラのカード名が4種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "柯尼·斯普林格",
+    "effectZh": "自己场上除［特征：地鸣］外的黄色角色卡名有 4 种以上时，该角色的 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

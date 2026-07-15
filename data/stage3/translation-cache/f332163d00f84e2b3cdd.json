@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:10:44.314Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f332163d00f84e2b3cdd",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-047"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ユーフェミア・リ・ブリタニア",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尤菲米娅·利·布里塔尼亚",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

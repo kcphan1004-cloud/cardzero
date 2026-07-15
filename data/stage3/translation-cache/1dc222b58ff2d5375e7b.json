@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:05:03.099Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1dc222b58ff2d5375e7b",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-097"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "ソードベント",
+    "effect": "このフィールドはアクティブで登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "剑 Vent",
+    "effectZh": "将此战线激活登场。\n[启动主]\n[横置状态]\n选择自己战线的 1 张角色卡，本回合中 BP+1000。",
+    "triggerZh": "[获取]\n将这张牌加入手牌。"
+  }
+}

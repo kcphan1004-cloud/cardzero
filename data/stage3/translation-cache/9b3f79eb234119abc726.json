@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:46:15.661Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9b3f79eb234119abc726",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-024"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ダンテ・ゾグラティス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "丹特·佐格拉提斯",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

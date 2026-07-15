@@ -1,0 +1,29 @@
+{
+  "generatedAt": "2026-07-14T18:42:25.195Z",
+  "model": "qwen3.5:4b",
+  "series": "black-clover",
+  "selected": 20,
+  "cached": 0,
+  "completed": 18,
+  "failed": 2,
+  "failures": [
+    {
+      "status": "error",
+      "failedAt": "2026-07-14T18:39:39.329Z",
+      "unitId": "646713cda9d4fa640e7b",
+      "cardNumbers": [
+        "UA20BT/BCV-1-001"
+      ],
+      "error": "UA20BT/BCV-1-003 缺少中文效果。"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-14T18:39:39.331Z",
+      "unitId": "bb46a9e1fcbce9530700",
+      "cardNumbers": [
+        "UA20BT/BCV-1-003"
+      ],
+      "error": "UA20BT/BCV-1-003 缺少中文效果。"
+    }
+  ]
+}

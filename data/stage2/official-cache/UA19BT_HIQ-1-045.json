@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:34.602Z",
+  "number": "UA19BT/HIQ-1-045",
+  "name": "金田一 勇太郎",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "青葉城西高校／ミドルブロッカー",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[登場時]\nBP1500以上の相手のフロントLのキャラを『1枚まで』選び、このターン中、BP-1000。\n[レイド]\n〈金田一 勇太郎〉アクティブにし、フロントLに移動できる\nこのキャラの\n[登場時]\nの『1枚まで』が『2枚まで』に代わる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA19BT%2FHIQ-1-045",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA19BT%2FHIQ-1-045",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

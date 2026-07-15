@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:04.247Z",
+  "number": "EX11BT/ARK-2-032",
+  "name": "W",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "-",
+  "generatedEnergy": "紫色×3",
+  "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場外にカードが15枚以上ある場合、自分の場の［特徴：レユニオン］を1枚まで選び、このターン中、\n[インパクト（+1）]\nを与える。\n・自分のリムーブエリアにカードが9枚以上ある場合、自分の場の［特徴：ロドス・アイランド製薬］を1枚まで選び、このターン中、\n[インパクト（+1）]\nを与える。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX11BT%2FARK-2-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX11BT%2FARK-2-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

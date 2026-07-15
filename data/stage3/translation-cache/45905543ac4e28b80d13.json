@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:18:42.198Z",
+  "model": "qwen3.5:9b",
+  "unitId": "45905543ac4e28b80d13",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-061"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "鎮魂歌",
+    "effect": "カードを2枚引き、自分の手札を1枚場外に置く。自分の場外に〈ウボォーギン〉がある場合、相手のフロントLのキャラ全ては、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "镇魂歌",
+    "effectZh": "抽2张牌，将手牌的1张放置于场外。若自己场外的〈乌佛斯金〉存在，对方前线L的所有角色在本回合中BP-1000。",
+    "triggerZh": "【抽卡】\n抽1张牌。"
+  }
+}

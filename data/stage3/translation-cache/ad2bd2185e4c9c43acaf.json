@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:23:57.588Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ad2bd2185e4c9c43acaf",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-068"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ズシ",
+    "effect": "[自分のターン中]\n[ターン1]\nこのキャラのBPがプラスされた時、このキャラはこのターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "ズシ",
+    "effectZh": "[自己的回合]\n[第 1 回合]\n当这个角色的 BP 增加时，该角色在本回合中，BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

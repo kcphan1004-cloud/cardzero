@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:19:11.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6047a896c75d9adea37b",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-027"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "小鉄",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小铁",
+    "effectZh": "[登场时]\n将自身场上除自己以外的其他角色中，必要能量为 1 以下的其中一张返回手牌。若无法返回则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

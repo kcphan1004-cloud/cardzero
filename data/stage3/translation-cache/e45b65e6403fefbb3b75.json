@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:04.704Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e45b65e6403fefbb3b75",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-040"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ノブナガ",
+    "effect": "[登場時]\n自分の場に他の［特徴：幻影旅団］が3枚以上ある場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺布纳加",
+    "effectZh": "[登场时]\n如果自己的场地上有其他［特征：幻影旅团］达到 3 张以上，选择对手的前线 L 的角色最多 1 枚，本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

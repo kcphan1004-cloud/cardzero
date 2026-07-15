@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:08.643Z",
+  "number": "EX02BT/CGH-2-042",
+  "name": "ルルーシュ・ランペルージ",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "黒の騎士団",
+  "generatedEnergy": "紫色×1",
+  "effect": "このキャラはBP4500以上のキャラにブロックされない。\n[登場時]\n以下から『1つ選ぶ』。自分の手札の消費APが2のカードを1枚場外に置いてもよい。そうした場合、『2つ選ぶ』に代わる。\n・相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。\n・このキャラをアクティブにする。\n・自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX02BT%2FCGH-2-042",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX02BT%2FCGH-2-042",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

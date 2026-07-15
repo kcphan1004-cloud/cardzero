@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:59:47.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "694d6cb296796d18c722",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-015"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "浦原 喜助",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から特徴を持たないキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "浦原喜助",
+    "effectZh": "[登场时]\n查看己方山札上方 3 张。从中选择至多 1 张没有特征的角色卡公开并加入手牌，将剩余部分按任意顺序置于己方山札下方。若加入了手牌，则将己方的手牌中 1 张置入场外。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

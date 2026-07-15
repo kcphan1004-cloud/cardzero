@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:51:59.816Z",
+  "model": "qwen3.5:9b",
+  "unitId": "902b5cb625f2542cf9e6",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-097"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "熊出没注意",
+    "effect": "自分の山札の上から4枚見る。その中から［特徴：動物］か〈芹澤岳〉か〈ロボコ〉を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "熊出没注意",
+    "effectZh": "从牌库上方查看 4 张卡。从中公开最多 2 张［特征：动物］或〈芹泽岳〉或〈ロボコ〉加入手牌。将剩余的按任意顺序置于牌库下方。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

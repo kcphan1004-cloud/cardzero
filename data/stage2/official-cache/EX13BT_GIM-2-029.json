@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:33.421Z",
+  "number": "EX13BT/GIM-2-029",
+  "name": "花海 咲季",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "1年生／Re;IRIS",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場に［特徴：1年生］のカード名が4種類以上か〈花海 佑芽〉がある場合のみ発動できる。〈花海 咲季〉以外の自分の場のレストの特徴に「1年生」を持つキャラを1枚選び、アクティブにし、このターン中、「アタックフェイズ終了時、このキャラを手札に戻す。」を与える。この効果でBP4000以上のキャラを選んだ場合、このキャラはこのターン中、BP+1000と\n[インパクト（1）]\nを得る。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-029",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-029",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

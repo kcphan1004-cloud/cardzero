@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:13:45.408Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e59e5496be2fb3950b5",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-059"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "曳舟 桐生",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "曳舟桐生",
+    "effectZh": "",
+    "triggerZh": "[登场时] 抽1张牌。"
+  }
+}

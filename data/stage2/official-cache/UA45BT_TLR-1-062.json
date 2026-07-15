@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:13.199Z",
+  "number": "UA45BT/TLR-1-062",
+  "name": "ナナ・アスタ・デビルーク",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈ナナ・アスタ・デビルーク〉アクティブにし、フロントLに移動できる\n[アタック時]\n以下から1つまで選ぶ。このターン中に〈ナナ・アスタ・デビルーク〉が既に選んだ効果は選べない。\n・自分の手札から必要エナジーが3以下のカード名に「デビルーク」を含む赤のキャラカードを1枚まで自分の場にレストで登場させる。\n・自分の場外から必要エナジーが2以下の〈モモ・ベリア・デビルーク〉を1枚まで手札に加える。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA45BT%2FTLR-1-062",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA45BT%2FTLR-1-062",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

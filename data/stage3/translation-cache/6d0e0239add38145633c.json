@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:22:31.569Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6d0e0239add38145633c",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-034"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "フルルのパンケーキ",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+2500。自分の場に〈リンウェル〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "芙露的松饼",
+    "effectZh": "选择自己场上的角色至多 1 名，“本回合中”，+BP2500。若自己场上有〈林威尔〉，则抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

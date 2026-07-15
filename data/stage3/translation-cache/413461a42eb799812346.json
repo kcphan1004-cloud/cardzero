@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:37:19.417Z",
+  "model": "qwen3.5:9b",
+  "unitId": "413461a42eb799812346",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-049"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "蘇る記憶",
+    "effect": "自分の場外からキャラカードを1枚手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "苏る记忆",
+    "effectZh": "从自己场外将角色卡最多 1 张加入手牌。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

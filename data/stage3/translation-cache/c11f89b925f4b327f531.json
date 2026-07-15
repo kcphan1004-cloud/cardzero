@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:52:49.796Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c11f89b925f4b327f531",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-100"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ロボコ砲",
+    "effect": "自分の場のキャラを1枚選び、アクティブにする。選んだキャラが［特徴：動物］の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "ロボコ炮",
+    "effectZh": "选择我方场上的1张角色并激活它。若选中的角色为［特征：动物］，则可选择我方AP卡至多1张并激活它们。",
+    "triggerZh": "[激活]\n选择我方场上的1张角色并激活它，本回合中BP+3000。"
+  }
+}

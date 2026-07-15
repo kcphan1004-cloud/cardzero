@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:28:23.446Z",
+  "model": "qwen3.5:9b",
+  "unitId": "327baafdda34181d11cb",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-021"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "洪 古",
+    "effect": "自分の場に他の［特徴：中華連邦］が4枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "洪古",
+    "effectZh": "当自己场上存在其他［特征：中华联邦］的卡达到 4 枚以上时，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

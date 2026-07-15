@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:11:58.705Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc5df76817938d45e596",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-057"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "サザーランド（純血派機）",
+    "effect": "[レイド]\n［特徴：純血派］アクティブにし、フロントLに移動できる\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\nこのキャラはBP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "萨瑟兰（纯血派机）",
+    "effectZh": "【Raid】\n［特征：纯血派］处于激活状态，可移动至前线 L\n【2 次阻挡】\n（该角色本回合首次进行阻挡时，使其处于激活状态）\n该角色的 BP+1000。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

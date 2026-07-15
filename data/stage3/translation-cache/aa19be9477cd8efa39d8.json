@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:27:19.924Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa19be9477cd8efa39d8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-052"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ミト",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nBP1500以上の相手のフロントLのキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米特",
+    "effectZh": "[启动主]\n[在前线 L 存在的情况下]\n[回合 1]\n选择对方 BP1500 以上的前线 L 的角色，该角色在本回合中，BP-1000。",
+    "triggerZh": ""
+  }
+}

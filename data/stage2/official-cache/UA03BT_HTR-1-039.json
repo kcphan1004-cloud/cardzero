@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:03.183Z",
+  "number": "UA03BT/HTR-1-039",
+  "name": "シャルナーク",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "幻影旅団",
+  "generatedEnergy": "紫色×1",
+  "effect": "[登場時]\n自分の場外から必要エナジーが3以下で消費APが1の〈シャルナーク〉以外の特徴に「幻影旅団」を持つキャラカードを1枚まで自分の場にレストで登場させる。エンドフェイズ開始時、そのキャラを退場させる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA03BT%2FHTR-1-039",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA03BT%2FHTR-1-039",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

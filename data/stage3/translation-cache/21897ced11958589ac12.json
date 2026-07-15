@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:41:20.803Z",
+  "model": "qwen3.5:9b",
+  "unitId": "21897ced11958589ac12",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-071"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ロロ・ランペルージ",
+    "effect": "自分の場に〈ルルーシュ・ランペルージ〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗洛·兰佩鲁吉",
+    "effectZh": "自己的场上有〈路路基·兰佩鲁吉〉的情况下，这个角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

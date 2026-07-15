@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:48:37.381Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9612f4c32f05bf507f4c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-038"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "鈴木 羽那",
+    "effect": "[アタック時]\n自分のリムーブエリアにカードが6枚以上ある場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "铃木羽那",
+    "effectZh": "[攻击时]\n若自己的移除区有 6 张以上的卡，选择对方前线 L 的 1 名角色，本回合中 BP-1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:00:54.245Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10328c738a433655e70a",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-023"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "四楓院 夕四郎 咲宗",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "四枫院夕二郎咲宗",
+    "effectZh": "",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

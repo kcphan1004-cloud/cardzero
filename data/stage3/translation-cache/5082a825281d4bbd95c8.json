@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:55.757Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5082a825281d4bbd95c8",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-070"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "カレン・シュタットフェルト",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。\n[起動メイン]\n[APを1支払う]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡莲·修塔费尔特",
+    "effectZh": "[启动主] [支付 AP1][第 1 回合]\n抽 1 张牌。\n[启动主]\n[支付 AP1]\n[第 1 回合]\n选择自己场上的其他角色 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

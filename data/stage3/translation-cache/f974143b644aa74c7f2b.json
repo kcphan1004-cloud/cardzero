@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:03:44.465Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f974143b644aa74c7f2b",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-006"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レイザー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の［特徴：念獣］を1枚退場させてもよい。そうした場合、カードを1枚引き、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雷泽",
+    "effectZh": "[无效化冲击]\n（与此角色进行战斗的角色在本场战斗中，\n失去［冲击］）\n[启动主阶段]\n[位于前线 L 时]\n[回合 1]\n可将自身场上的［特征：念兽］退场各 1 张。若如此操作，则抽牌 1 张，且此角色在本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

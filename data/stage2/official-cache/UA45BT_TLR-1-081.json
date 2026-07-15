@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:16.513Z",
+  "number": "UA45BT/TLR-1-081",
+  "name": "ハレンチなっ!!",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "以下から1つ選ぶ。\n・BP4000以下の相手のフロントLのキャラを1枚選び、退場させる。\n・自分の場の〈古手川 唯〉を1枚まで選び、このターン中、BP+2000と\n[インパクト（1）]\nを与える。カードを1枚引く。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA45BT%2FTLR-1-081",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA45BT%2FTLR-1-081",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

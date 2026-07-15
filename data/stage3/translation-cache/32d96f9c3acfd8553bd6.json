@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:20:30.141Z",
+  "model": "qwen3.5:9b",
+  "unitId": "32d96f9c3acfd8553bd6",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-086"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "雛森 桃",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "雏森桃",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择己方场地的角色 1 枚使其激活，本回合中 BP+3000。"
+  }
+}

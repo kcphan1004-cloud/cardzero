@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:10:03.351Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cb5d6d8d5dff90acf6ff",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-083"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "雛鶴",
+    "effect": "[退場時]\n自分の場外から〈宇髄 天元〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雏鹤",
+    "effectZh": "[退场时]\n从自己的场外将〈宇髄 天元〉至多 1 枚加入手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:24:19.293Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d9248b28c43806560abd",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-039"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リズベット",
+    "effect": "[自分のターン中]\nこのターン中に自分が［特徴：歌］を使用している場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莉兹贝特",
+    "effectZh": "[自己的回合中]\n若本回合内自己使用了［特征：歌］，则该角色在本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

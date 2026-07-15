@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:36:10.107Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f32d6ca04949d84a252",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-022"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ベニマル",
+    "effect": "このキャラはブロックできない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝尼马尔",
+    "effectZh": "该角色无法被阻挡。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

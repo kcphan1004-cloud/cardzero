@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:26:29.733Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10dc6921efcc3ff981ad",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-059"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ロウ",
+    "effect": "[レイド]\n〈ロウ〉アクティブにし、フロントLに移動できる\n[アタック時]\n自分のフロントLのキャラ全ては、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "劳",
+    "effectZh": "【Raid】\n〈劳〉处于激活状态，可移动至前线L\n【攻击时】\n自己位于前线L的所有角色在本回合中BP+1000。",
+    "triggerZh": "【获取】\n将这张卡加入手牌。"
+  }
+}

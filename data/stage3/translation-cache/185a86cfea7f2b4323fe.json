@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:27:36.363Z",
+  "model": "qwen3.5:9b",
+  "unitId": "185a86cfea7f2b4323fe",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-014"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ロロ・ランペルージ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "罗洛·兰佩路基",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

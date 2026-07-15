@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:59:47.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2208f95b35f138c7e1d",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-013"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "井上 織姫",
+    "effect": "自分の場の青の〈黒崎 一護〉の効果でこのカードが手札から場外に置かれた時、自分の場の〈黒崎 一護〉を1枚まで選び、次の自分のターン開始時まで、「相手の〔キャラ・トリガー〕の効果で選ばれない。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "井上织姬",
+    "effectZh": "当此卡在己方场上由蓝色〈黑崎一护〉的效果从手牌置入场外时，选择己方场上的 1 张至多「〈黑崎一护〉」，给予直到下一个己方回合开始为止的“不会被对方的〔角色·触发〕效果选中。”",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

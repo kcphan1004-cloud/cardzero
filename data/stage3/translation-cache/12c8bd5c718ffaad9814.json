@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:04:56.736Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12c8bd5c718ffaad9814",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-005"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "キルゲ・オピー",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\n相手のフロントLのキャラを1枚選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杀鬼·奥比伊",
+    "effectZh": "[启动主]\n[位于前线L时]\n[横置状态]\n选择对方前线 L 的 1 张角色卡并使其处于横置状态。",
+    "triggerZh": ""
+  }
+}

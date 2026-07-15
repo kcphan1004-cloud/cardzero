@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:23.284Z",
+  "number": "UA12ST/BLK-1-104",
+  "name": "潔 世一",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "チームZ",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈潔 世一〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の場のキャラの下に裏向きのカードがない場合、自分の山札の上から1枚を裏向きでこのキャラの下に置いてもよい。\n[アタック時]\nこのキャラの下に裏向きのカードがある場合、自分の手札から必要エナジーが2以下で消費APが1の［特徴：チームZ］を1枚まで自分の場にアクティブで登場させる。登場させたキャラの下に、このキャラの下の裏向きのカードを1枚移動させてもよい。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12ST%2FBLK-1-104",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12ST%2FBLK-1-104",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

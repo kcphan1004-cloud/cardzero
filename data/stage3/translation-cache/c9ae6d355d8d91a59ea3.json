@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:57:34.962Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c9ae6d355d8d91a59ea3",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-089",
+    "UA20BT/BCV-1-089"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ラック・ボルティア",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "拉克·博尔蒂雅",
+    "effectZh": "",
+    "triggerZh": "[激活] 选择自己场上的1张角色并使其处于激活状态，本回合 BP+3000。"
+  }
+}

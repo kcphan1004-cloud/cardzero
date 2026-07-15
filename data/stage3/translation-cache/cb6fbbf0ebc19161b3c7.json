@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:59:55.898Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cb6fbbf0ebc19161b3c7",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-112"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アスタ",
+    "effect": "山札にあるこのカードは必要エナジーを\n[緑×3]\nとして扱ってもよい。\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[自分のターン中]\n自分の場に〈ユノ〉がある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿斯塔",
+    "effectZh": "这张卡置于牌库时，可以当作[绿×3]使用。\n[冲击无效]\n（与该角色战斗的角色在本回合中失去[冲击]）\n[自己的回合中]\n若场上有〈尤诺〉，该角色的 BP+500。",
+    "triggerZh": ""
+  }
+}

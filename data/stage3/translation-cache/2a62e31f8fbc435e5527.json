@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:20:30.137Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a62e31f8fbc435e5527",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-083"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "日番谷 冬獅郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "日番谷冬狮郎",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

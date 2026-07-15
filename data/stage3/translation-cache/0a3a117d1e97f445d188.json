@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:09:43.278Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0a3a117d1e97f445d188",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-053"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ギタラクル",
+    "effect": "このカードは〈イルミ〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "吉塔路克",
+    "effectZh": "将此卡也作为〈伊尔迷〉处理。",
+    "triggerZh": "［获取］\n将此卡加入手牌。"
+  }
+}

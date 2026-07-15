@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:56.189Z",
+  "number": "UA11BT/GNT-1-073",
+  "name": "桂 小太郎",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "3000+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "自分の場外にイベントカードが3枚以上ある場合、手札にあるこのカードの消費APを-1する。\n[起動メイン]\n[ターン1]\nこのターン中に自分がイベントカードを使用している場合のみ発動できる。自分の場のキャラ全ては、このターン中、BP+1000。",
+  "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラクターを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA11BT%2FGNT-1-073",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA11BT%2FGNT-1-073",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

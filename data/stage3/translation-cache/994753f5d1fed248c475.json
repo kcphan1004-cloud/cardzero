@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:52:05.486Z",
+  "model": "qwen3.5:9b",
+  "unitId": "994753f5d1fed248c475",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-060"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "やけん、なんの話～！？",
+    "effect": "自分の山札の上から5枚見る。その中からカードを1枚手札に加え、1枚場外に置く。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "呀坚、在说什么～！？",
+    "effectZh": "查看自己牌库上方 5 张卡。从中选择一张加入手牌，将另一张置于场外。剩余部分按任意顺序放置于自己牌库下方。\n[抽]\n抽 1 张牌。",
+    "triggerZh": "[抽]"
+  }
+}

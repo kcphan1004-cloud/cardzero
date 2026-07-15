@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:05.266Z",
+  "model": "qwen3.5:9b",
+  "unitId": "20ed8d2b8d28204df2dd",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-025",
+    "UA09BT/BTR-1-025"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ニョンタ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[黄]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妮昂塔",
+    "effectZh": "[启动主阶段]\n[横置状态]\n[回合1]\n本回合中，此角色的产生能量+\n[黄]\n。\n主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

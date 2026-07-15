@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:00.928Z",
+  "number": "UA03BT/HTR-1-026",
+  "name": "一坪の海岸線",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "指定ポケット",
+  "generatedEnergy": "蓝色×3",
+  "effect": "※このカードはデッキに3枚までしか入れられない。\n自分の手札の上限は15枚になる。\n[登場時]\nカードを1枚引く。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA03BT%2FHTR-1-026",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA03BT%2FHTR-1-026",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 3
+      }
+    ]
+  }
+}

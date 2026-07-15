@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:40:24.692Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1eaad86f387421728d81",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-069"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "シャーリー・フェネット",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外にイベントカードが4枚以上ある場合のみ発動できる。カードを2枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夏莉·菲内特",
+    "effectZh": "[启动主]\n[横置状态]\n[将此卡退场]\n仅在自己场外有 4 张以上事件卡时才能发动。抽 2 张牌。",
+    "triggerZh": ""
+  }
+}

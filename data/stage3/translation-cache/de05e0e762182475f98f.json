@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:18:10.510Z",
+  "model": "qwen3.5:9b",
+  "unitId": "de05e0e762182475f98f",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-008"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "レンリ・シンセシス・トゥエニセブン",
+    "effect": "[自分のターン中]\n自分の場に他の［特徴：整合騎士］が4枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "伦莉·合成士·Twenty-Seven",
+    "effectZh": "[自己的回合中]\n自己场上有其他［特征：整合骑士］4 张以上时，该角色 BP+1500。",
+    "triggerZh": "[Active]\n选择自己场上的 1 个角色激活之，本回合中，BP+3000。"
+  }
+}

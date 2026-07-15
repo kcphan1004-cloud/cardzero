@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:33:52.558Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f0f9c54e5ac9e072d10",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-036"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "百万のキセキ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "百万奇迹",
+    "effectZh": "选择最多 2 张我方 AP 牌并激活它们。",
+    "triggerZh": "[最终]\n若我方没有生命值，则从上方取置 1 张卡至我方生命区域。"
+  }
+}

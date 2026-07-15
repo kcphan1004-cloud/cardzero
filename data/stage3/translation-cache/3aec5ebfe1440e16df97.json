@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:43:49.429Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3aec5ebfe1440e16df97",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA04NC/BLC-3-007"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "京楽 春水",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：護廷十三隊］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "京乐 春水",
+    "effectZh": "【登场时】\n查看自己牌库上方的3张卡。从中选择最多一张具有［特征：护廷十三队］的卡公开并加入手牌，其余的按任意顺序置于牌库下方。若加入了手牌，则将自己的一张手牌置于场外。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

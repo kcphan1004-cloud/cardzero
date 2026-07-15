@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:22.268Z",
+  "number": "UA36BT/MCR-1-047",
+  "name": "ニューエドワーズ基地",
+  "color": "蓝色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "新統合軍",
+  "generatedEnergy": "蓝色×3",
+  "effect": "このフィールドはアクティブで場に登場させる。\n[ターン1]\nこのフィールドがアクティブの場合、カード名に「イサム」か「ガルド」を含む自分の場のレイド状態のキャラのアタック終了時、そのキャラのレイド状態の上のカードを場外に置いてもよい。そうした場合、このフィールドをレストにし、カードを1枚引き、自分の手札から必要エナジーを満たしこの効果で場外に置いたカードと必要エナジーが異なるカードを1枚まで、そのキャラのレイド元のカードにレイドさせる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36BT%2FMCR-1-047",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36BT%2FMCR-1-047",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 3
+      }
+    ]
+  }
+}

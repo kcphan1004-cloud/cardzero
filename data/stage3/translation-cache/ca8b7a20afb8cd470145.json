@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:56:56.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ca8b7a20afb8cd470145",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02NC/JJK-2-002"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "釘崎 野薔薇",
+    "effect": "[登場時]\n相手の場にレストのキャラがある場合、自分の場外から必要エナジーが2以下の黄のイベントカードを1枚まで手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "钉崎 野蔷薇",
+    "effectZh": "[登场时]\n对方场上有横置状态的角色的情况下，从自己的场外将必要能量为 2 以下的黄色事件卡最多选择至多 1 张加入手牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

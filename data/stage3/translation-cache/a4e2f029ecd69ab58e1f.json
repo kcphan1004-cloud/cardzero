@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:38:59.561Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4e2f029ecd69ab58e1f",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-068"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "【退场时】\n抽 1 张牌。",
+    "triggerZh": "【触发·抽卡】\n抽 1 张牌。"
+  }
+}

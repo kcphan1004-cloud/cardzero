@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:38:37.380Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f51ce8ee36d505156ce4",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-031"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ヒナタ",
+    "effect": "[登場時]\n自分の場の〈ヒナタ〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日向",
+    "effectZh": "[登场时]\n选择自己场上的〈日向〉最多 1 枚，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

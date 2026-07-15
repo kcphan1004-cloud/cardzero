@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:22:31.568Z",
+  "model": "qwen3.5:9b",
+  "unitId": "53bcc78be8dec1afc7fd",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-032"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "大魚のステーキ",
+    "effect": "自分の場のキャラを1枚選び、『このターン中』、BP+1000。自分の場に〈キサラ〉がある場合、『次の自分のターン開始時まで』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大鱼的牛排",
+    "effectZh": "选择自己场上的角色 1 名，“本回合中”，+BP1000。若自己场上有〈基萨拉〉，则改为“直到下个自己的回合开始为止”。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:04:18.356Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f7641b3db5bfd304d12a",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-018"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "奇犽·揍敌客",
+    "effectZh": "[攻击时]\n抽 1 张牌，将手牌的 1 张弃掉。",
+    "triggerZh": "[颜色]\n选择对方 BP3500 以下的 1 枚前线 L 角色返回手牌。"
+  }
+}

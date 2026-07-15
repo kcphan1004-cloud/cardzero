@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:51:27.156Z",
+  "model": "qwen3.5:9b",
+  "unitId": "af53293ad476d8615360",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-074"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "究極 メカ丸",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "究极·机械丸",
+    "effectZh": "该角色处于激活状态时，该角色的产生能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

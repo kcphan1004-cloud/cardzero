@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:04:25.557Z",
+  "model": "qwen3.5:9b",
+  "unitId": "305d7158dfa1c8aec4af",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-048"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "釘崎 野薔薇",
+    "effect": "[登場時]\n自分の場の他の［特徴：呪術師］を1枚まで選び、このターン中、『BP+500』。相手のフロントLにBPが4000以上のキャラが2枚以上ある場合、『BP+1500』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "钉崎 野蔷薇",
+    "effectZh": "[登场时]\n选择自己场上的其他［特征：咒术师］至多 1 张，本回合中『BP+500』。对方前线 L 有 BP 为 4000 以上的角色 2 枚以上时，改为『BP+1500』",
+    "triggerZh": ""
+  }
+}

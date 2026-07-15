@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:57:03.909Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65f606147a7ed7b0c1e3",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-038"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "鬼舞辻󠄀無惨(擬態\"月彦\")",
+    "effect": "このカードは〈鬼舞辻󠄀 無惨〉としても扱う。\nこのキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鬼舞辻󠄀无惨 (拟态\"月彦\")",
+    "effectZh": "此卡也作为〈鬼舞辻󠄀 无惨〉处理。\n若此角色处于激活状态，则此角色的发生能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

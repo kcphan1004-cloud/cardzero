@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:33:26.534Z",
+  "model": "qwen3.5:9b",
+  "unitId": "31a09e698567b443ad19",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-005"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シオン",
+    "effect": "[自分のターン中]\n自分の場に他の［特徴：鬼人］が4枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "【自己的回合中】\n自己场上有其他［特征：鬼人］达到 4 枚以上时，该角色 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

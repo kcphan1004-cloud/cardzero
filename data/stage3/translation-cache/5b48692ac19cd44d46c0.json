@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:54.141Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5b48692ac19cd44d46c0",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-046",
+    "UA08BT/BLC-1-046"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "阿散井 恋次",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の山札の上から1枚を場外に置く。そうした場合、自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿散井恋次",
+    "effectZh": "[启动主]\n[位于前线L时]\n[回合 1]\n将牌库上方的一张卡置入场外。如此做的话，选择自己场上最多一张其他角色，本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:52:49.795Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a14849f388a10fcbcadf",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-099"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ツール・ド・ロボコ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "环ロボコ之旅",
+    "effectZh": "选择我方AP卡至多2张并激活它们。",
+    "triggerZh": "[最终]\n若我方没有生命点数，则从上方取置我方山札的顶牌到生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:18:00.583Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b4dfc32b9818d86cf9ef",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-098"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ドキドキ2択クイズ",
+    "effect": "相手のフロントLのキャラと、相手のエナジーLのキャラをそれぞれ1枚ずつ選ぶ。\n相手は選ばれたキャラのうち1枚を退場させてもよい。相手が選ばれたキャラを退場させなかった場合、自分はカードを1枚引き、自分のAPカードを1枚までアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "心跳二选一问答",
+    "effectZh": "分别选择对手的 1 张前线 L 角色卡和对手能量线区域的 1 张角色卡。\n对手可以选择让其中选中的 1 张退场。若对手未让选中的任何一张退场，则自己抽 1 张牌并激活最多 1 张自己的 AP 卡牌。",
+    "triggerZh": ""
+  }
+}

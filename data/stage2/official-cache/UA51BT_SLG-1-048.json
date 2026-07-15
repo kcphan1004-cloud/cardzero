@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:49.135Z",
+  "number": "UA51BT/SLG-1-048",
+  "name": "水篠 旬",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈水篠 旬〉アクティブにし、フロントLに移動できる\n自分のアタックフェイズ終了時、自分の場のカードの下の裏向きのカードを合計3枚と、このキャラの一番上のカードを場外に置いてもよい。そうした場合、自分の手札から必要エナジーが6の緑の〈水篠 旬〉を1枚まで、このキャラのレイド元のカードにレイドさせる。\n[登場時]\n自分の手札から必要エナジーが3以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。自分のターン中で、このキャラが自分の効果で登場していた場合、カードを1枚引く。\n[アタック時]\nカードを1枚引き、自分の手札を1枚裏向きでこのキャラの下に置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA51BT%2FSLG-1-048",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA51BT%2FSLG-1-048",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

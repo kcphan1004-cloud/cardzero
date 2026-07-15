@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:59:29.448Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0758edf70f485d46a47e",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-063",
+    "UA02BT/JJK-1-063"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "宿儺の指",
+    "effect": "このカードを使用する際に、自分のライフを1枚場外に置くか自分の場のアクティブの〈虎杖 悠仁〉を1枚レストにしないとこのカードは使用できない。\nカードを1枚引く。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "宿傩的指",
+    "effectZh": "使用这张卡时，必须将1张自己的生命值置于场外或将自己场上的激活状态的〈虎杖 悠仁〉横置，否则不能使用此卡。\n抽1张牌。选择至多1张自己的AP卡牌并使其处于激活状态。",
+    "triggerZh": "[Draw]\n抽1张牌。"
+  }
+}

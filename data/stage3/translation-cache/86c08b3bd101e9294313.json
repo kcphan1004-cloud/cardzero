@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:28:23.443Z",
+  "model": "qwen3.5:9b",
+  "unitId": "86c08b3bd101e9294313",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-019"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "天子",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天子",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+\n[青]。",
+    "triggerZh": ""
+  }
+}

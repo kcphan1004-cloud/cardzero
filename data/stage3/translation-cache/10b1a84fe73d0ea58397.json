@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:14:38.998Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10b1a84fe73d0ea58397",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-039"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "バブルホース",
+    "effect": "[ブロック時]\nアタックしている相手のキャラのBPが4500以上の場合、このキャラはこのターン中、BP+3000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "泡泡马",
+    "effectZh": "[阻挡时]\n若攻击的对方角色BP为 4500 以上，该角色在本回合中 BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色并激活，本回合中 BP+3000。"
+  }
+}

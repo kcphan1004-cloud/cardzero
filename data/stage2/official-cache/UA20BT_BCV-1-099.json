@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:47:15.460Z",
+  "number": "UA20BT/BCV-1-099",
+  "name": "全智の巫女",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から2枚見る。その中からカードを1枚公開し手札に加える。残りを自分の山札の上に置く。公開したカードが〈ノエル・シルヴァ〉か〈ミモザ・ヴァーミリオン〉か〈ロロペチカ〉か必要エナジーが2以下のイベントカードの場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA20BT%2FBCV-1-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

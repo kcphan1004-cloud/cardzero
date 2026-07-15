@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:53:53.756Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6284be6caca4bedb8c4a",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-078"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ナハト・ファウスト",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "纳哈特·法斯图",
+    "effectZh": "【无效冲击】（与此角色战斗的角色在本场战斗中，失去［冲击］）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:48:37.385Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a015cd81cac64c05c5f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-041"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "※CAUTION※",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に［特徴：CoMETIK］が3枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "※CAUTION※",
+    "effectZh": "选择对方前线 L 的 BP3000 以下的角色 1 名并退场。若自己场上有［特征：CoMETIK］3 张以上，改为“BP5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 名并退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:31:04.211Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bca1a067699ae1349ca1",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-071"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[フロントLにある場合]\n自分の手札にある元々の必要エナジーが6以上の全ての［特徴：GGO］の必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "【当前位于前线L时】\n将手牌中所有原本必要能量为 6 或以上的［特征：GGO］的必要能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

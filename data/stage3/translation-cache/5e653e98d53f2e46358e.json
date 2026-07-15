@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:08:24.800Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5e653e98d53f2e46358e",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-042"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "セシル・クルーミー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "塞西尔·克鲁米",
+    "effectZh": "此角色处于激活状态时，此角色的发生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

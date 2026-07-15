@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:34.174Z",
+  "number": "UA36ST/MCR-1-107",
+  "name": "VF-25F メサイア（早乙女 アルト）",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "S.M.S／スカル小隊／B形態",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈早乙女 アルト〉アクティブにし、フロントLに移動できる\n[自分のターン中]\n自分の場に〈シェリル・ノーム〉か〈ランカ・リー〉がある場合、このキャラはBP+1000。自分の場に〈シェリル・ノーム〉と〈ランカ・リー〉があるなら、さらに\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。\n[登場時]\nカードを1枚引く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA36ST%2FMCR-1-107",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA36ST%2FMCR-1-107",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

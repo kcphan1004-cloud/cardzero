@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:10:44.316Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c180795c56283468235d",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-049"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ヴィレッタ・ヌゥ",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "维蕾塔·努",
+    "effectZh": "当对方场上存在紫色或红色的卡时，将本卡在手中的必要能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

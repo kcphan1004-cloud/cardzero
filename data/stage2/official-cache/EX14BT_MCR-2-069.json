@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:51.985Z",
+  "number": "EX14BT/MCR-2-069",
+  "name": "VF-0D フェニックス（工藤 シン）",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈工藤 シン〉アクティブにし、フロントLに移動できる\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\nこのキャラはこのターン中、BP+1000。\n[アタック時]\n[ターン1]\n自分の山札の下から1枚を場外に置く。場外に置いたカードが赤の〔〈サラ・ノーム〉か〈マオ・ノーム〉〕の場合、そのカードを自分の場にレストで登場させてもよい。場外に置いたカードが特徴を持たない場合、そのカードを手札に加えてもよい。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX14BT%2FMCR-2-069",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX14BT%2FMCR-2-069",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

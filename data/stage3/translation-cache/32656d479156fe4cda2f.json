@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:46:36.657Z",
+  "model": "qwen3.5:9b",
+  "unitId": "32656d479156fe4cda2f",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-048"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "乱波 肩動",
+    "effect": "自分の場外に［特徴：死穢八斎會］が6枚以上ある場合、このキャラは\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "乱波·肩动",
+    "effectZh": "若场外有［特征：死秽八斋会］的卡达到 6 枚以上，此角色获得\n[伤害 (2)]\n（当此角色通过攻击直接造成伤害时，改为造成 2 点伤害）。",
+    "triggerZh": ""
+  }
+}

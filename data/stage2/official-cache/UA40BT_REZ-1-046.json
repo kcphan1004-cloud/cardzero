@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:31.984Z",
+  "number": "UA40BT/REZ-1-046",
+  "name": "ユリウス・ユークリウス",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[登場時]\n自分の場の必要エナジーが0の青の〈ナツキ・スバル〉を1枚手札に戻してもよい。そうした場合、このキャラをアクティブにし、このターン中、BP+1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-046",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-046",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

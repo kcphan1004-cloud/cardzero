@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:45:50.185Z",
+  "model": "qwen3.5:9b",
+  "unitId": "df879e41c885e2bfcaaf",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-065"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "萌・萌・キュン",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "萌・萌・心动",
+    "effectZh": "最多选择我方AP卡牌中的2张，将其激活。",
+    "triggerZh": "[最终]\n若我方没有生命值，则从牌库上方取1张卡置入我的生命区域。"
+  }
+}

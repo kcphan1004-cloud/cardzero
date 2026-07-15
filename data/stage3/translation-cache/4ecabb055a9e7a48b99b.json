@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:44:39.748Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4ecabb055a9e7a48b99b",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-012",
+    "UA04BT/IMS-1-012"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "風野 灯織",
+    "effect": "[登場時]\n自分の山札の上から『2枚見る』。その中から1枚を自分の山札の上に置き、残りを望む順で下に置く。自分の場に〈櫻木 真乃〉か〈八宮 めぐる〉がある場合、『5枚見る』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "风野 灯织",
+    "effectZh": "【登场时】\n查看自己牌库上方的『两张』。从中选择一张置于自己牌库上方，其余的按任意顺序置于下方。\n若自己的场上有〈樱木 真乃〉或〈八宫 美铃〉，则改为『五张』。",
+    "triggerZh": ""
+  }
+}

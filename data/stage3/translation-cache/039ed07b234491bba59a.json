@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:31:30.432Z",
+  "model": "qwen3.5:9b",
+  "unitId": "039ed07b234491bba59a",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-023"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "黎 星刻",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黎·星刻",
+    "effectZh": "【登场时】\n抽 1 张牌，将自身手札中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

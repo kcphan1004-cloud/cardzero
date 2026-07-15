@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:22:58.249Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f2a1dbc5b72db9caa8e1",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-023"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ミラージュ・ファリーナ・ジーナス",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "幻影·法利纳·吉纳斯",
+    "effectZh": "【登场时】\n查看自己山牌的上方 1 张，将其置于山牌上方或场外。",
+    "triggerZh": ""
+  }
+}

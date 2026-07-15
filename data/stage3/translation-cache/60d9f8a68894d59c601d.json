@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:34:18.791Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60d9f8a68894d59c601d",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-059"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "遠い日の思い出",
+    "effect": "自分の山札の上から4枚見る。その中から2枚まで手札に加え、残りをリムーブエリアに置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "遥远的回忆",
+    "effectZh": "查看自己牌库上方的 4 张牌，从中最多加入 2 张到手牌，其余置入移除区。",
+    "triggerZh": "[抽]\n抽取 1 张牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:33.086Z",
+  "number": "EX04BT/JJK-3-035",
+  "name": "真人",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "呪霊",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈真人〉アクティブにし、フロントLに移動できる\n[登場時]\n〈真人〉以外の自分の場のキャラを2枚退場させてもよい。この効果で同じカード名を持つキャラを退場させることはできない。この効果で2枚退場させた場合、カードを2枚引き、相手のフロントLのキャラを1枚まで選び、このターン中、BP-4000。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX04BT%2FJJK-3-035",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-3-035",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

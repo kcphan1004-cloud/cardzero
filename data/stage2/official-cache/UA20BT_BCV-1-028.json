@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:46:53.612Z",
+  "number": "UA20BT/BCV-1-028",
+  "name": "クリフォトの樹",
+  "color": "紫色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "紫色×3",
+  "effect": "自分のアタックフェイズ終了時、自分の山札が0枚で自分の場に異なるカード名を持つ［特徴：漆黒の三極性］が3種類以上ある場合、自分はゲームに勝利する。\n[起動メイン]\n[レストにする]\n自分の場外にあるカードを4枚リムーブエリアに置く。そうした場合、カードを1枚引き、自分の手札を1枚場外に置く。〈クリフォトの樹〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA20BT%2FBCV-1-028",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-028",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:41:20.807Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10b5179ed6418ac9d5c5",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-073"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "キューピッドの日",
+    "effect": "カードを1枚引く。自分の場に〈ルルーシュ・ランペルージ〉と〈シャーリー・フェネット〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "丘比特的日子",
+    "effectZh": "抽牌 1 张。自己的场上有〈路路基·兰佩鲁吉〉和〈修莉·菲内特>的情况下，选择自己 AP 卡 1 枚，使其处于激活状态。",
+    "triggerZh": "[颜色]\n选择对方前线 L BP2500 以下的角色 1 枚，使其退场。"
+  }
+}

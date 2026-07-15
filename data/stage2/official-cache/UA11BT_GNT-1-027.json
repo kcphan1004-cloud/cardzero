@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:48.246Z",
+  "number": "UA11BT/GNT-1-027",
+  "name": "坂田 銀時",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "万事屋／真選組",
+  "generatedEnergy": "黄色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\nこのキャラが退場するか場から手札に戻った時、自分の手札から〈坂田 銀時〉以外の必要エナジーが3以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。〈坂田 銀時〉のこの効果は１ターンに１回のみ発動できる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA11BT%2FGNT-1-027",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA11BT%2FGNT-1-027",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

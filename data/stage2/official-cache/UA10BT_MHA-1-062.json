@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:34.053Z",
+  "number": "UA10BT/MHA-1-062",
+  "name": "開発工房",
+  "color": "绿色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "自分の場に〈発目 明〉がある場合、このフィールドはアクティブで場に登場させる。\n[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場のキャラ全ては、このターン中、BP+500。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA10BT%2FMHA-1-062",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA10BT%2FMHA-1-062",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

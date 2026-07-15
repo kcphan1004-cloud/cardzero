@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:54:40.239Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c7da1155721e25e20ef4",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-019"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "甘露寺 蜜璃",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "甘露寺 蜜璃",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 或更少的任意一张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

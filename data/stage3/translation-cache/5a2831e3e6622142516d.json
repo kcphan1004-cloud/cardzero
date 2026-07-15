@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:13:41.962Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a2831e3e6622142516d",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-033"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "垂直跳び",
+    "effect": "自分の場のキャラを1枚選び、手札に戻す。自分のAPカードを1枚まで選び、アクティブにする。戻したキャラが〈ツェズゲラ〉の場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "垂直跳躍",
+    "effectZh": "选择自己场上的角色 1 张，返回手牌。选择自己的 AP 卡最多 1 张并激活。若返回的角色为〈杰诺〉，抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

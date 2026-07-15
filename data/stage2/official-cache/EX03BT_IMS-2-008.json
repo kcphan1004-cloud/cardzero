@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:15.315Z",
+  "number": "EX03BT/IMS-2-008",
+  "name": "櫻木 真乃",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "illumination STARS",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈櫻木 真乃〉アクティブにし、フロントLに移動できる\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[自分のターン中]\n自分の場に〈風野 灯織〉がある場合、このキャラはBP+500。\n[アタック時]\n自分の場に〈八宮 めぐる〉がある場合、自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX03BT%2FIMS-2-008",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX03BT%2FIMS-2-008",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

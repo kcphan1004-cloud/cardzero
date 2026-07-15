@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:30:00.264Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1e907cc0f9b89f606a9",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-108"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "トレーラー",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場の［特徴：黒の騎士団］全ては、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "拖车",
+    "effectZh": "此场地以激活状态登场。\n[启动主]\n[置为横置]\n自己场上的所有［特征：黑色骑士团］在本回合中，BP+500。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:18.822Z",
+  "number": "UA29BT/KMR-1-084",
+  "name": "仮面ライダーファイズ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "1500+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、カードを2枚引く。\n[自分のターン中]\nこのターン中に自分が手札から［特徴：ファイズギア］を使用している場合、このキャラはBP+500。",
+  "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29BT%2FKMR-1-084",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-084",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

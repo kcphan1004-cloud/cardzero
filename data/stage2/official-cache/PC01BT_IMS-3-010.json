@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:54.990Z",
+  "number": "PC01BT/IMS-3-010",
+  "name": "白瀬 咲耶",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "L'Antica",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[レイド]\n〈白瀬 咲耶〉アクティブにし、フロントLに移動できる\n[登場時]\nBP2500以上の相手の場のキャラを1枚まで選び、このターン中、BP-2000。\n[アタック時]\n相手の場に元々のBPよりBPが低いキャラがある場合、カードを1枚引く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC01BT%2FIMS-3-010",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC01BT%2FIMS-3-010",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

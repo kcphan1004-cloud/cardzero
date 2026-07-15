@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:04:56.730Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f44e8e0a09ecdf6fc14a",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-002"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "エス・ノト",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾斯·诺特",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

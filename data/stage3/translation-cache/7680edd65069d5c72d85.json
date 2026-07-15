@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:01:04.324Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7680edd65069d5c72d85",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-005"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贡＝弗利克斯",
+    "effectZh": "[登场时]\n抽一张牌，将自身手牌中的一张卡放置到场外。",
+    "triggerZh": "[抽] \n抽一张牌。"
+  }
+}

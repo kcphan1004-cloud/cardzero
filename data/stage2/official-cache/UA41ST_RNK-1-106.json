@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:04.890Z",
+  "number": "UA41ST/RNK-1-106",
+  "name": "緋村 剣心",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[自分のターン中]\nこのキャラとのバトルで敗北した相手のキャラは、退場する代わりにエナジーLに移動する。\n[レイド]\n〈緋村 剣心〉アクティブにし、フロントLに移動できる\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。（移動させる時にエナジーLに空きがない場合、相手はエナジーLのカードを1枚選んでリムーブエリアに置いてから移動させる）",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA41ST%2FRNK-1-106",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA41ST%2FRNK-1-106",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

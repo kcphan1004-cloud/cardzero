@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:35:03.945Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1ec2eda3e001673a6724",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-001"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "虎杖 悠仁",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[黄]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "虎杖悠仁",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[黄]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

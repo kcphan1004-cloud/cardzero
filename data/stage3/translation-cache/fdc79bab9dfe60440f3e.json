@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:07:40.390Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fdc79bab9dfe60440f3e",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-043"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "六車 拳西＆鳳橋 楼十郎",
+    "effect": "[登場時]\nAPを1支払ってもよい。そうした場合、自分の場外から〈六車 拳西＆鳳橋 楼十郎〉を1枚まで自分の場にレストで登場させる。〈六車 拳西＆鳳橋 楼十郎〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "六车 拳西＆凤桥 楼十郎",
+    "effectZh": "[登场时]\n支付1点AP也可以。那样的话，从自己的场外最多将〈六车 拳西＆凤桥 楼十郎〉以横置状态在自己的场地上登场。<六车 拳西＆凤桥 楼十郎>的这个效果每回合只能发动一次。",
+    "triggerZh": "[颜色]\n选择1张BP3500以下的对方前线L的角色，将其返回手牌。"
+  }
+}

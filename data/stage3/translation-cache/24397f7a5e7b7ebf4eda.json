@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:16:03.282Z",
+  "model": "qwen3.5:9b",
+  "unitId": "24397f7a5e7b7ebf4eda",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-068"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "檜佐木 修兵",
+    "effect": "自分の場に他の［特徴：護廷十三隊］が6枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桧佐木修兵",
+    "effectZh": "当场上有其他［特征：护廷十三队］6 枚以上时，该角色 BP+1500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

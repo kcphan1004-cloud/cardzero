@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:26:58.618Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e9f2f6ebb679e0291f7",
+  "seriesSlug": "series-570801",
+  "series": "未识别系列 570801",
+  "cardNumbers": [
+    "UA01PB/CGH-1-016"
+  ],
+  "source": {
+    "series": "未识别系列 570801",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "【登场时】\n可以选择对方前线 L 的至多 1 张牌，本回合中 BP-1000。",
+    "triggerZh": "【抽卡】\n抽 1 张牌"
+  }
+}

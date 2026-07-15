@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:30:48.020Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0dd221d8b27c9115e05",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-078"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "[登場時]\n自分はこのターン中、自分の効果でライフエリアにあるカードを場外に置くことができない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "【登场时】\n本回合中，自己不能将位于生命区域的自己的效果置入场外。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

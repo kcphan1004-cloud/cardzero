@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:47:39.262Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e62595ef7660ec53de9c",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-064"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シオンの料理",
+    "effect": "BP1500以上の相手のフロントLのキャラ全ては、このターン中、BP-1000。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西恩的料理",
+    "effectZh": "BP 为 1500 以上的对手前线 L 的所有角色，在本回合中 BP-1000。抽 1 张牌。",
+    "triggerZh": "[登场时]\n抽 1 张牌。"
+  }
+}

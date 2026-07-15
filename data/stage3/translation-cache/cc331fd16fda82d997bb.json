@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:42:14.144Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc331fd16fda82d997bb",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-015"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "浅倉 透",
+    "effect": "[アタック時]\nこのターン中に自分が手札からカードを4枚以上使用している場合、BP4000～5000の相手のフロントLのキャラを1枚まで選び、レストにする。〈浅倉 透〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "浅仓 透",
+    "effectZh": "[攻击时]\n如果本回合中自己从手牌使用了 4 张以上的卡牌，选择对方前线 L BP4000～5000 的角色至多 1 枚并横置。〈浅仓 透〉的此效果每回合只能发动一次。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

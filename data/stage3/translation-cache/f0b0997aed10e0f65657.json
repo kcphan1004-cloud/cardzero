@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:11:42.271Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0b0997aed10e0f65657",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-040"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "リヴァイ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "利威尔兵长",
+    "effectZh": "【启动主】\n【横置状态】\n【第 1 回合】\n将自己 Front L 的激活角色至多 1 张变为横置。如此做的话，该角色本回合中，发生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

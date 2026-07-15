@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:57:48.521Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dac4168293f805c04bbb",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-091",
+    "UA20BT/BCV-1-091"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ミモザ・ヴァーミリオン",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "洋红蔷薇花蕾",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 或以下的角色一张放回手牌。若无法将其放入，则将该角色放回手牌。",
+    "triggerZh": ""
+  }
+}

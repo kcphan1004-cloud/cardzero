@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:52:22.865Z",
+  "model": "qwen3.5:9b",
+  "unitId": "df0483e64b0e4b191db7",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-082"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "西宮 桃",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の特徴に「京都校」を持つキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西宫桃",
+    "effectZh": "[登场时]\n从自己的手牌中选择最多1张具有“京都校”特征且消耗AP为1、能量需求为2或以下的角色卡，以横置状态登场到自己的场上。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:15:59.959Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c02c08ef8fb58f393c94",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-019"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "[登场时]\n抽牌至多 1 张，并将自己手牌中的 1 张放置于自己的山札上方或下方。",
+    "triggerZh": "[Draw]\n抽牌 1 张。"
+  }
+}

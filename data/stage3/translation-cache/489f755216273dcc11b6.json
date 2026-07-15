@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:38:59.578Z",
+  "model": "qwen3.5:9b",
+  "unitId": "489f755216273dcc11b6",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-084"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "西城 樹里",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西城树里",
+    "effectZh": "若对手场上存在黄色或蓝色的卡牌，则减少自身手牌中此卡的必要能量。\n[Red x 1]",
+    "triggerZh": ""
+  }
+}

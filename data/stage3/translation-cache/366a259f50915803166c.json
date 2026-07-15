@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:27:44.588Z",
+  "model": "qwen3.5:9b",
+  "unitId": "366a259f50915803166c",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-061"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アドレビートオムニア",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈シオン〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "阿德雷比特欧姆尼亚",
+    "effectZh": "选择对方前线 L「BP3000以下」的角色 1 枚，使其退场。若自己场上有〈希恩〉，则改为「BP5000以下」。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色 1 枚，使其退场。"
+  }
+}

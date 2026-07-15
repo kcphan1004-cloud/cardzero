@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:05:47.915Z",
+  "model": "qwen3.5:9b",
+  "unitId": "405d44373febf2a2a533",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-022"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ガウェイン",
+    "effect": "[レイド]\n〈ルルーシュ・ランペルージ〉/〈C.C.〉アクティブにし、フロントLに移動できる\nこのキャラはBP2000以下のキャラにブロックされない。\n[登場時]\n相手のフロントLのキャラ全ては、このターン中、BP-1000。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "加温",
+    "effectZh": "[Raid]<鲁路修·兰佩路基>/<C.C.>激活并移动至前线L\n该角色不会被BP 2000以下的角色阻挡。\n[登场时]对方前线L的所有角色本回合中，BP-1000。",
+    "triggerZh": "[Raid]将此卡加入手牌或满足必要能量时发动Raid。"
+  }
+}

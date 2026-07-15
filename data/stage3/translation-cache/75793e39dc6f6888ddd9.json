@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:01:17.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75793e39dc6f6888ddd9",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-052"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "猗窩座",
+    "effect": "このキャラはアクティブで場に登場させる。\n[登場時]\n自分の手札を2枚場外に置いてもよい。そうした場合、このキャラはこのターン中、\n[狙い撃ち]\nと\n[インパクト（1）]\nを得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "猗窝座",
+    "effectZh": "此角色登场时，以激活状态进入战场。\n[登场时]\n可以将自己的手牌最多 2 张置入场外。若如此做，则此角色在本回合中,\n[狙击]与\n[冲击（1）]生效。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

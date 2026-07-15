@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:54:56.763Z",
+  "model": "qwen3.5:9b",
+  "unitId": "927d844a591e1e179e9c",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "PC02BT/NIK-2-012"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "シンデレラ",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、1枚までリムーブエリアに置く。残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "灰姑娘",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡，将最多 1 张置入移除区。将其余的按任意顺序放回牌库上方。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

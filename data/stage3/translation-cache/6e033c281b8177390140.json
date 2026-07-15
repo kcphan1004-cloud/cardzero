@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:35:03.949Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6e033c281b8177390140",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-005"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "狗巻 棘",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[起動メイン]\n[APを1支払う]\n[ターン1]\n自分のフロントLのキャラ全ては、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "狗卷棘",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）\n【启动主效果】\n【支付 1 AP】\n【回合 1】\n自己的前线的所有角色本回合中，BP+1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

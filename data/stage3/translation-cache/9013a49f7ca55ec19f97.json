@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:32:00.804Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9013a49f7ca55ec19f97",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-048"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アーミヤ",
+    "effect": "[登場時]\n自分の場に〈チェン〉がある場合、以下から1つ選ぶ。\n・カードを1枚引く。\n・自分の場外のカードを2枚までリムーブエリアに置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿米娅",
+    "effectZh": "[登场时]\n若自身场中存在〈链〉，则从以下选项中选择一个。\n• 抽一张牌。\n• 将最多两张位于场外的手牌放置至弃牌区。",
+    "triggerZh": ""
+  }
+}

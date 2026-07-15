@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:07:06.327Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2d01b8349361035bb77d",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-013"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "有村 麻央",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有村 麻央",
+    "effectZh": "[登场时]\n抽 1 张牌，将手札中的 1 张卡置入场外。",
+    "triggerZh": ""
+  }
+}

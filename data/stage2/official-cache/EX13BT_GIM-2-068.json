@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:40.067Z",
+  "number": "EX13BT/GIM-2-068",
+  "name": "ここから始まるんだね！",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から6枚見て、赤の〔〈葛城 リーリヤ〉か〈紫雲 清夏〉〕を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。カードを1枚引く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-068",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-068",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "red",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

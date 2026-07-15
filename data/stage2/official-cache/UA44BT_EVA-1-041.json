@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:48.466Z",
+  "number": "UA44BT/EVA-1-041",
+  "name": "エヴァンゲリオン改2号機",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "WILLE",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈式波・アスカ・ラングレー〉アクティブにし、フロントLに移動できる\nこのキャラが退場する場合、代わりにレイド状態の上のこのカードを場外に置いてもよい。\n[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA44BT%2FEVA-1-041",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA44BT%2FEVA-1-041",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

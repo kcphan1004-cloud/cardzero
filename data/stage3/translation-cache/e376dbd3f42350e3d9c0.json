@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:47:04.977Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e376dbd3f42350e3d9c0",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-037"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "シャーロット・ローズレイ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\n自分の場に〈ヤミ・スケヒロ〉がある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "夏洛特·罗斯蕾",
+    "effectZh": "[阶段]\n（在自身移动阶段中可从前线 L 移动到能量线）\n[自己的回合期间]\n若自身场上存在〈暗之骷髅〉，则此角色 BP+500。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张牌。"
+  }
+}

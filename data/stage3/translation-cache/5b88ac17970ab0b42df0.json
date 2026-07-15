@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:24:58.274Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5b88ac17970ab0b42df0",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-001"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "扇 要",
+    "effect": "[相手のターン中]\nこのキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "扇 要",
+    "effectZh": "[对方回合中]\nBP+1000。",
+    "triggerZh": "抽牌：抽取1张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:48:49.280Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40a6750479d3d38d752d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-045"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "月岡 恋鐘",
+    "effect": "[登場時]\n以下から１つ選ぶ。\n・自分の山札の上から1枚まで場外に置く。\n・自分の場外から［特徴：L'Antica］を1枚まで自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "月冈 恋钟",
+    "effectZh": "[登场时]\n从以下选项中选1个。\n•将最多1张自己牌库上方的卡置到场外。\n•将自己场外最多1张［特征：L'Antica］放回自己牌库上方。",
+    "triggerZh": ""
+  }
+}

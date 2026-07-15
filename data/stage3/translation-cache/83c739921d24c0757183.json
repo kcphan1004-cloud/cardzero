@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:06:45.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83c739921d24c0757183",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-013"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "バンビエッタ・バスターバイン",
+    "effect": "[登場時]\nBP3500以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "斑目一文字·破坏之鞭",
+    "effectZh": "[登场时]\n选择对方前线 L 的 BP3500 以下的角色至多 1 枚，使其横置。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

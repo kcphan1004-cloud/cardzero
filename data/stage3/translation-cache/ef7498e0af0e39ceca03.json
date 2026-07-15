@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:33:35.304Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef7498e0af0e39ceca03",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-068",
+    "UA06BT/TOA-1-068"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アルフェン",
+    "effect": "自分のライフが4以下の場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尔芬",
+    "effectZh": "如果自己生命值在4以下，该角色BP+500。",
+    "triggerZh": ""
+  }
+}

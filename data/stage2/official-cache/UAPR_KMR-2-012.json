@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:16:48.484Z",
+  "number": "UAPR/KMR-2-012",
+  "name": "仮面ライダーガヴ マスターモード",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "UR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\nカード名に「ガヴ」を含むキャラ アクティブにし、フロントLに移動できる\nこのターン中にこのキャラが自分の効果で登場している場合、このキャラはBP+1000と\n[インパクト（1）]\nを得る。\nこのキャラのアタック終了時、自分がこのアタックフェイズでレイドしていない場合、「自分の手札の〈仮面ライダーガヴ オーバーモード〉を1枚公開し、自分の場の〈ゴチゾウ〉を1枚退場させる。」をしてもよい。そうした場合、レイド状態のこのキャラの一番上のカードを手札に戻し、公開したカードをこのキャラのレイド元のカードにレイドさせる。\n[登場時]\n[アタック時]\n自分の手札から〈ゴチゾウ〉を1枚まで自分のエナジーLにレストで登場させる。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FKMR-2-012",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FKMR-2-012",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

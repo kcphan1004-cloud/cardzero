@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:47:55.930Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c07d2a829786dc2ce8d5",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-075"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "円ちゅわ～ん",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "圆嘟哇～恩",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 以下的角色 1 枚放回手牌。若无法如此，则将该角色放回手牌。",
+    "triggerZh": ""
+  }
+}

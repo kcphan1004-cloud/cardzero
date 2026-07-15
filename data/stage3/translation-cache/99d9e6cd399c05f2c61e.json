@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:56.910Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99d9e6cd399c05f2c61e",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-048"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "マチ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛奇",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上的其他角色最多 1 张返回手札。如果无法返还，则将该角色返回手札。",
+    "triggerZh": ""
+  }
+}

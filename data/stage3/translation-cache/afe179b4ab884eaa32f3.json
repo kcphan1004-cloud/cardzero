@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:15:46.900Z",
+  "model": "qwen3.5:9b",
+  "unitId": "afe179b4ab884eaa32f3",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-004"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "キサラ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "基萨拉",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入你的手牌。"
+  }
+}

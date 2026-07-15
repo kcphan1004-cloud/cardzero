@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:16:09.746Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c165785896cdca256a8",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-068"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ラミリス",
+    "effect": "[レイド]\n〈ラミリス〉アクティブにし、フロントLに移動できる\nこのキャラの発生エナジー+\n[緑]\n。\n[登場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "拉米莉丝",
+    "effectZh": "[Raid] \n将〈拉米莉丝〉激活并移动至前线 L\n该角色的发生能量+\n[绿]\n。\n[登场时]\n抽 1 张牌。",
+    "triggerZh": "[Gett] \n将此卡加入手牌。"
+  }
+}

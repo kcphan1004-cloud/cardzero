@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:45:28.969Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f2de0a51f9739a5b7dad",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-018",
+    "UA04BT/IMS-1-018"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "八宮 めぐる",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "八宫めぐる",
+    "effectZh": "当角色处于激活状态时，该角色的产生能量+<br>[黄]<br>。",
+    "triggerZh": ""
+  }
+}

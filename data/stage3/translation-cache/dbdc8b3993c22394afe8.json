@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:51:59.814Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dbdc8b3993c22394afe8",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-095"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "我知動物病院",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "我知动物医院",
+    "effectZh": "这个场地以激活状态登场。\n【启动主】\n【横置】\n选择自己场上的 1 张角色，本回合中 BP+1000。",
+    "triggerZh": "抽牌"
+  }
+}

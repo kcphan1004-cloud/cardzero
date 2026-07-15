@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:17.155Z",
+  "number": "UA32BT/SNF-1-045",
+  "name": "天音 永遠",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 2,
+  "ap": 1,
+  "bp": "1000",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "このカードは〈アーサー・ペンシルゴン〉としても扱う。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。その後、自分の手札から必要エナジーを満たし消費APが1の赤のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA32BT%2FSNF-1-045",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-045",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

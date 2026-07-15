@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:28:56.838Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a65c1a19711aee19df03",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-037"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "田中 摩美々",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "田中 摩美々",
+    "effectZh": "若对方场上存在黄色或红色的卡牌，则减少手札中该张卡的必要能量\n[青×1] \n。",
+    "triggerZh": ""
+  }
+}

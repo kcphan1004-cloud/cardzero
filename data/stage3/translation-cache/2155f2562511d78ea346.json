@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:07:12.958Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2155f2562511d78ea346",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-015"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[アタック時]\n同じラインに〈キルア＝ゾルディック〉がある場合、このキャラはこのターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "贡=弗利克斯",
+    "effectZh": "[攻击时]\n若同线有〈奇犽·揍敌客〉，本角色在本回合中,\n[冲击（1）]\n(进行攻击并赢得战斗时，对对手玩家造成 1 点伤害)。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的角色一张并将其横置。该角色在下次激活前不会再次激活。"
+  }
+}

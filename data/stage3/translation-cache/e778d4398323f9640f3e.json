@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:22:33.244Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e778d4398323f9640f3e",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-035"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "エギル",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "埃吉尔",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

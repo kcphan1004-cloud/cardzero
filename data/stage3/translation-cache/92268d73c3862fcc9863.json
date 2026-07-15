@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:12:13.260Z",
+  "model": "qwen3.5:9b",
+  "unitId": "92268d73c3862fcc9863",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-094"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "弁当",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "便当",
+    "effectZh": "以激活状态将此角色登场至场上。\n[启动主]\n[横置]\n选择自己场上一张角色，本回合中，BP+1000。",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

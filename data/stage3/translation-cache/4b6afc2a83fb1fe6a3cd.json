@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:15:35.082Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4b6afc2a83fb1fe6a3cd",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-049"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 白哉",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-500。",
+    "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "朽木白哉",
+    "effectZh": "[登场时]\n选择对方前线 L 的 1 张角色，本回合中 BP-500。",
+    "triggerZh": "[颜色]\n从自己场外消耗必要能量（最多2）且消费 AP 为 1 的紫色角色卡，以激活状态登场至自己的前线 L。"
+  }
+}

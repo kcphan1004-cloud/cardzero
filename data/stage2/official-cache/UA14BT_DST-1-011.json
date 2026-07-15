@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:46.388Z",
+  "number": "UA14BT/DST-1-011",
+  "name": "フランソワ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈フランソワ〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを3枚引き、自分の手札を『2枚』場外に置く。自分の場に〈七海 龍水〉と〈科学船ペルセウス〉がある場合、『1枚』に代えてもよい。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA14BT%2FDST-1-011",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA14BT%2FDST-1-011",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

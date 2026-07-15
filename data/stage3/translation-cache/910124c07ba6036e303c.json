@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:58.981Z",
+  "model": "qwen3.5:9b",
+  "unitId": "910124c07ba6036e303c",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-105"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ロボコ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗布可",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其激活，本回合中 BP+3000。"
+  }
+}

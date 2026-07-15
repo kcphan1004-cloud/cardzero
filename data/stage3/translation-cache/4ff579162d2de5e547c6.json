@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:17:33.807Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4ff579162d2de5e547c6",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-010"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーガヴ ポッピングミフォーム",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Gav 波普宁米形态",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

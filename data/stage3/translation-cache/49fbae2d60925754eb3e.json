@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:12:50.091Z",
+  "model": "qwen3.5:9b",
+  "unitId": "49fbae2d60925754eb3e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-044"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ヒストリア・レイス",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場外にイベントカードが6枚以上ある場合のみ発動できる。自分の場の他の［特徴：104期兵］を1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "希絲特莉亞·雷斯",
+    "effectZh": "[启动主]\n[横置]\n仅当自己场外有 6 张以上事件卡时才能发动。选择自己场上的其他［特征：104 期兵］，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

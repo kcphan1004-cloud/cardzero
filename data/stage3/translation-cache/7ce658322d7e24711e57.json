@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:06:42.051Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ce658322d7e24711e57",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-027"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "潜水艦",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "潜水艇",
+    "effectZh": "此字段以激活状态登场。\n[启动主]\n横置\n抽1张牌，将手牌的1张置于场外。",
+    "triggerZh": "[Get] \n将此卡加入手牌。"
+  }
+}

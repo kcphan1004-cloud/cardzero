@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:18:10.508Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d6fb854b96599f8b58bf",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-006"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ベルクーリ・シンセシス・ワン",
+    "effect": "自分の場に他の［特徴：整合騎士］が3枚以上ある場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "贝尔库里·合成士·One",
+    "effectZh": "自己场上有其他［特征：整合骑士］3 张以上时，该角色的发生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

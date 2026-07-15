@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:54:40.245Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f2187f3841fa0cd322b",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-023"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "時透 無一郎",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "时透无一郎",
+    "effectZh": "对方场上有紫色或红色的卡的情况下，将手牌中这张卡的必要能量 [黄×1] 减少。",
+    "triggerZh": ""
+  }
+}

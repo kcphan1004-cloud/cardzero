@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:33:09.165Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e86ffb144f193e6b8323",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-021"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ロボコ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "机器人子",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": ""
+  }
+}

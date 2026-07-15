@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:57:02.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5eb7deb52e4e0193c5f1",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-035",
+    "UA07BT/TSK-1-035"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ヴェルドラ",
+    "effect": "このキャラは、フロントLに登場できず、フロントLに移動できない。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "维尔德拉",
+    "effectZh": "此角色无法登场于前线L，也无法移动至前线L。\n[启动主]\n[横置]\n[将此卡退场]\n抽 2 张牌，将自身手札中的 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

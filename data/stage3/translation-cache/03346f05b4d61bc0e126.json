@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:55.752Z",
+  "model": "qwen3.5:9b",
+  "unitId": "03346f05b4d61bc0e126",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-065"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "騎士叙勲",
+    "effect": "自分のフロントLのキャラを1枚選び、このターン中、BP+3000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "骑士叙勋",
+    "effectZh": "选择自己前线L的角色 1 张，本回合中 BP+3000。",
+    "triggerZh": ""
+  }
+}

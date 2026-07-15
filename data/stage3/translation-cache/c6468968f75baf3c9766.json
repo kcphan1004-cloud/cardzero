@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:58:45.789Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6468968f75baf3c9766",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-008"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ジゼル・ジュエル",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "吉塞尔·珠宝",
+    "effectZh": "[登场时]\n抽 1 张牌，将手札中的 1 张卡置入场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

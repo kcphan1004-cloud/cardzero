@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:09.692Z",
+  "number": "UA35BT/OPM-1-098",
+  "name": "ヒーロー名鑑",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。その後、自分の手札のキャラカードを1枚場外に置いてもよい。そうした場合、この効果で場外に置いたカードと元々のBPが同じ相手のフロントLのキャラを1枚まで選び、このターン中、「このキャラは、相手のアタックを可能ならブロックしなければならない。」を与える。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA35BT%2FOPM-1-098",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA35BT%2FOPM-1-098",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

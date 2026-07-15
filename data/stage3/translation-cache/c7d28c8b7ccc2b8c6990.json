@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:03:48.839Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c7d28c8b7ccc2b8c6990",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-096"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "ドラグレッダー",
+    "effect": "自分の場に〈仮面ライダー龍騎サバイブ〉がある場合、自分の場のこのキャラはカード名が〈ドラグランザー〉に変わり、「\n[自分のターン中]\nこのキャラはBP+1000。」を得る。\n[登場時]\n自分の場のカード名に「龍騎」を含むキャラを1枚まで選び、このターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Drag Raider",
+    "effectZh": "如果己方场上存在〈假面骑士龙骑 Survive〉，己方场上的该角色卡名变为〈Dragon Rider〉并获得「\n[自己的回合中]\n此角色的 BP+1000。」\n[登场时]\n选择己方场上的最多 1 张卡名为包含「龙骑」的角色，本回合中给予其\n[Impact（1）]\n（攻击并赢得战斗时，对对手造成 1 点伤害）。",
+    "triggerZh": ""
+  }
+}

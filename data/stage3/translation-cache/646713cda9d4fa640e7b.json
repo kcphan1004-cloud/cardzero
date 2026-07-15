@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:45:41.651Z",
+  "model": "qwen3.5:4b",
+  "unitId": "646713cda9d4fa640e7b",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-001"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "メギキュラ",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、次の自分のターン開始時まで、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "梅姬尔拉",
+    "effectZh": "[登场时]\n选择对手前线 L 的 1 张角色，直到下个自己回合开始为止，BP-1000。",
+    "triggerZh": ""
+  }
+}

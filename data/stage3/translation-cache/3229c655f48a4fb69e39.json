@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:03:18.866Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3229c655f48a4fb69e39",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-064"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "粛清",
+    "effect": "自分の場のキャラを1枚退場させる。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "肃清",
+    "effectZh": "将己方场上一张角色退场。如此情况下，选择自己 AP 卡最多一张并将其激活。抽牌两张。",
+    "triggerZh": "[抽取]\n抽牌一张。"
+  }
+}

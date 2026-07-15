@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:38.647Z",
+  "number": "UA40BT/REZ-1-085",
+  "name": "エミリア",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "王選候補者",
+  "generatedEnergy": "-",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中にこのキャラが自分の効果でアクティブからレストになったことがある場合のみ発動できる。このターン中、次に手札から使用する〈エミリア〉の必要エナジーを\n[紫×1]\n減らす。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-085",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-085",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

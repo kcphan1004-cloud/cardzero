@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:01:04.323Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83d7aa68762a6b2a808f",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-004"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴレイヌ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "戈莱努",
+    "effectZh": "[启动主] \n[横置]\n查看自身牌库上方的一张卡，将其放置到自身牌库的上方或下方。",
+    "triggerZh": "[激活]\n选择自身场上一张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

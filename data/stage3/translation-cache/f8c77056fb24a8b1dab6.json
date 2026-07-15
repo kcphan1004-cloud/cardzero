@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:43:09.173Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f8c77056fb24a8b1dab6",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-048"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リグル",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "里古鲁",
+    "effectZh": "对方场上有黄色或绿色的卡片时，将手牌中这张卡片的必要能量\n[蓝×1]\n减少 1。",
+    "triggerZh": ""
+  }
+}

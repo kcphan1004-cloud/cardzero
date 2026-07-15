@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:28:23.448Z",
+  "model": "qwen3.5:9b",
+  "unitId": "51e5fe659b0ec36d272e",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-022"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "黎 星刻",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "黎星刻",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

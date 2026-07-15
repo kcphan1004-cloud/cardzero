@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:18:20.693Z",
+  "model": "qwen3.5:9b",
+  "unitId": "21034902646caf4f8162",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-087"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ミレイ・アッシュフォード",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米蕾伊·阿什福德",
+    "effectZh": "[攻击时]\n抽牌 1 张并将自己手札中的卡 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

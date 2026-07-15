@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:46:43.644Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3ea0a2717fbec169c7d2",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-041"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "狗巻 棘",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nBP1000以上の相手の場のキャラを1枚まで選び、このターン中、BP-500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "狗卷棘",
+    "effectZh": "[启动主效果]\n[在场上的情况下]\n[回合 1]\n选择 BP 1000以上的对手场上的角色至多一张，在本回合中BP-500。",
+    "triggerZh": ""
+  }
+}

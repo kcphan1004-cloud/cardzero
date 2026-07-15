@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:08:13.138Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3d3d50543bbf04a6e664",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-023"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ヒソカ",
+    "effect": "[ターン1]\n自分の場のキャラがアタックしてバトルに敗北した時、このキャラをアクティブにしてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "奇犽",
+    "effectZh": "[回合 1]\n自己的场上的角色攻击并战败时，可将此角色激活。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

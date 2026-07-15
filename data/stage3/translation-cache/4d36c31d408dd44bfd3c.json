@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:55:33.802Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d36c31d408dd44bfd3c",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02NC/JJK-2-001"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "家入 硝子",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から〈五条 悟〉か〈夏油 傑〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "家入硝子",
+    "effectZh": "[登场时]\n查看我方牌库上方的 4 张卡。从中公开〈五条悟〉或〈夏油杰>（若有）最多 1 张并加入手牌，其余按任意顺序放置于我方牌库下方。若加入了手牌，将手牌中的 1 张放置于场外。",
+    "triggerZh": ""
+  }
+}

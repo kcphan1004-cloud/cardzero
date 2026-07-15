@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:37:54.819Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1404272b25d88a80c2a2",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-075"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "黛 冬優子",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黛 冬优子",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": ""
+  }
+}

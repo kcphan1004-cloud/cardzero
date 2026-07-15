@@ -1,0 +1,713 @@
+{
+  "generatedAt": "2026-07-14T17:19:02.695Z",
+  "seriesArgument": "all",
+  "dryRun": false,
+  "cacheRecords": 8047,
+  "invalidCacheFiles": 0,
+  "seriesFiles": 57,
+  "totalRows": 10362,
+  "matchedRows": 10201,
+  "unmatchedRows": 161,
+  "changedFiles": 56,
+  "series": [
+    {
+      "file": "100-girlfriends.ts",
+      "rows": 126,
+      "matched": 120,
+      "unmatched": 6,
+      "changedRows": 120,
+      "coverage": 0.9523809523809523,
+      "unmatchedNumbers": [
+        "UA26BT/RLY-1-AP01/S",
+        "UA26BT/RLY-1-AP02/S",
+        "UA26BT/RLY-1-AP03/S",
+        "UA26BT/RLY-1-AP04/S",
+        "UA26BT/RLY-1-AP05/S",
+        "UA26BT/RLY-1-AP06/S"
+      ]
+    },
+    {
+      "file": "2-5-dimensional-seduction.ts",
+      "rows": 118,
+      "matched": 114,
+      "unmatched": 4,
+      "changedRows": 114,
+      "coverage": 0.9661016949152542,
+      "unmatchedNumbers": [
+        "UA33BT/NGR-1-AP01/S",
+        "UA33BT/NGR-1-AP02/S",
+        "UA33BT/NGR-1-AP03/S",
+        "UA33BT/NGR-1-AP04/S"
+      ]
+    },
+    {
+      "file": "arknights.ts",
+      "rows": 269,
+      "matched": 268,
+      "unmatched": 1,
+      "changedRows": 268,
+      "coverage": 0.9962825278810409,
+      "unmatchedNumbers": [
+        "UA30BT/ARK-1-AP01/S"
+      ]
+    },
+    {
+      "file": "attack-on-titan.ts",
+      "rows": 268,
+      "matched": 266,
+      "unmatched": 2,
+      "changedRows": 266,
+      "coverage": 0.9925373134328358,
+      "unmatchedNumbers": [
+        "UA23BT/AOT-1-AP01/S",
+        "UA23BT/AOT-1-AP02/S"
+      ]
+    },
+    {
+      "file": "black-clover.ts",
+      "rows": 163,
+      "matched": 161,
+      "unmatched": 2,
+      "changedRows": 0,
+      "coverage": 0.9877300613496932,
+      "unmatchedNumbers": [
+        "UA20BT/BCV-1-AP01/S",
+        "UA20BT/BCV-1-AP02/S"
+      ]
+    },
+    {
+      "file": "bleach-thousand-year-blood-war.ts",
+      "rows": 262,
+      "matched": 261,
+      "unmatched": 1,
+      "changedRows": 261,
+      "coverage": 0.9961832061068703,
+      "unmatchedNumbers": [
+        "EX07BT/BLC-2-AP01/S"
+      ]
+    },
+    {
+      "file": "blue-lock.ts",
+      "rows": 166,
+      "matched": 166,
+      "unmatched": 0,
+      "changedRows": 166,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "chained-soldier.ts",
+      "rows": 125,
+      "matched": 125,
+      "unmatched": 0,
+      "changedRows": 125,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "chainsaw-man.ts",
+      "rows": 122,
+      "matched": 122,
+      "unmatched": 0,
+      "changedRows": 122,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "code-geass-roze.ts",
+      "rows": 114,
+      "matched": 114,
+      "unmatched": 0,
+      "changedRows": 114,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "code-geass.ts",
+      "rows": 251,
+      "matched": 251,
+      "unmatched": 0,
+      "changedRows": 251,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "demon-slayer.ts",
+      "rows": 268,
+      "matched": 264,
+      "unmatched": 4,
+      "changedRows": 264,
+      "coverage": 0.9850746268656716,
+      "unmatchedNumbers": [
+        "EX05BT/KMY-1-017",
+        "EX05BT/KMY-1-022",
+        "EX05BT/KMY-1-026",
+        "EX05BT/KMY-3-AP01/S"
+      ]
+    },
+    {
+      "file": "dr-stone.ts",
+      "rows": 154,
+      "matched": 154,
+      "unmatched": 0,
+      "changedRows": 154,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "eminence-in-shadow.ts",
+      "rows": 131,
+      "matched": 131,
+      "unmatched": 0,
+      "changedRows": 131,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "evangelion.ts",
+      "rows": 163,
+      "matched": 163,
+      "unmatched": 0,
+      "changedRows": 163,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "fullmetal-alchemist.ts",
+      "rows": 165,
+      "matched": 165,
+      "unmatched": 0,
+      "changedRows": 165,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "gakuen-idolmaster.ts",
+      "rows": 287,
+      "matched": 275,
+      "unmatched": 12,
+      "changedRows": 275,
+      "coverage": 0.9581881533101045,
+      "unmatchedNumbers": [
+        "UA27BT/GIM-1-AP01/S",
+        "UA27BT/GIM-1-AP02/S",
+        "UA27BT/GIM-1-AP03/S",
+        "UA27BT/GIM-1-AP04/S",
+        "UA27BT/GIM-1-AP05/S",
+        "UA27BT/GIM-1-AP06/S",
+        "UA27BT/GIM-1-AP07/S",
+        "UA27BT/GIM-1-AP08/S",
+        "UA27BT/GIM-1-AP09/S",
+        "UA27BT/GIM-1-AP10/S",
+        "UA27BT/GIM-1-AP11/S",
+        "UA27BT/GIM-1-AP12/S"
+      ]
+    },
+    {
+      "file": "gamera-rebirth.ts",
+      "rows": 113,
+      "matched": 111,
+      "unmatched": 2,
+      "changedRows": 111,
+      "coverage": 0.9823008849557522,
+      "unmatchedNumbers": [
+        "UA22BT/GMR-1-AP01/S",
+        "UA22BT/GMR-1-AP02/S"
+      ]
+    },
+    {
+      "file": "gintama.ts",
+      "rows": 154,
+      "matched": 154,
+      "unmatched": 0,
+      "changedRows": 154,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "haikyu.ts",
+      "rows": 161,
+      "matched": 161,
+      "unmatched": 0,
+      "changedRows": 161,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "hunter-x-hunter.ts",
+      "rows": 250,
+      "matched": 249,
+      "unmatched": 1,
+      "changedRows": 249,
+      "coverage": 0.996,
+      "unmatchedNumbers": [
+        "EX01BT/HTR-1-030"
+      ]
+    },
+    {
+      "file": "idolmaster-shiny-colors.ts",
+      "rows": 372,
+      "matched": 372,
+      "unmatched": 0,
+      "changedRows": 372,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "inuyasha.ts",
+      "rows": 117,
+      "matched": 117,
+      "unmatched": 0,
+      "changedRows": 117,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "jujutsu-kaisen.ts",
+      "rows": 265,
+      "matched": 263,
+      "unmatched": 2,
+      "changedRows": 263,
+      "coverage": 0.9924528301886792,
+      "unmatchedNumbers": [
+        "EX04BT/JJK-1-040",
+        "EX04BT/JJK-3-AP01/S"
+      ]
+    },
+    {
+      "file": "kagurabachi.ts",
+      "rows": 125,
+      "matched": 125,
+      "unmatched": 0,
+      "changedRows": 125,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "kaiju-no.ts",
+      "rows": 116,
+      "matched": 114,
+      "unmatched": 2,
+      "changedRows": 114,
+      "coverage": 0.9827586206896551,
+      "unmatchedNumbers": [
+        "UA28BT/KJ8-1-AP01/S",
+        "UA28BT/KJ8-1-AP03/S"
+      ]
+    },
+    {
+      "file": "kamen-rider.ts",
+      "rows": 298,
+      "matched": 297,
+      "unmatched": 1,
+      "changedRows": 297,
+      "coverage": 0.9966442953020134,
+      "unmatchedNumbers": [
+        "UA29BT/KMR-1-AP01/S"
+      ]
+    },
+    {
+      "file": "kingdom.ts",
+      "rows": 169,
+      "matched": 169,
+      "unmatched": 0,
+      "changedRows": 169,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "kinnikuman.ts",
+      "rows": 117,
+      "matched": 117,
+      "unmatched": 0,
+      "changedRows": 117,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "macross.ts",
+      "rows": 289,
+      "matched": 289,
+      "unmatched": 0,
+      "changedRows": 289,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "madoka-magica.ts",
+      "rows": 163,
+      "matched": 161,
+      "unmatched": 2,
+      "changedRows": 161,
+      "coverage": 0.9877300613496932,
+      "unmatchedNumbers": [
+        "UA31BT/MMM-1-AP01/S",
+        "UA31BT/MMM-1-AP02/S"
+      ]
+    },
+    {
+      "file": "me-and-roboco.ts",
+      "rows": 150,
+      "matched": 150,
+      "unmatched": 0,
+      "changedRows": 150,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "monogatari-series.ts",
+      "rows": 174,
+      "matched": 174,
+      "unmatched": 0,
+      "changedRows": 174,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "rows": 217,
+      "matched": 120,
+      "unmatched": 97,
+      "changedRows": 120,
+      "coverage": 0.5529953917050692,
+      "unmatchedNumbers": [
+        "CARD-0144",
+        "CARD-0145",
+        "UA54BT-MST-1-001-エリス",
+        "UA54BT-MST-1-002-エリス",
+        "UA54BT-MST-1-003-エリス",
+        "UA54BT-MST-1-004-エリス",
+        "UA54BT-MST-1-005-エリス",
+        "UA54BT-MST-1-006-エリス",
+        "UA54BT-MST-1-007-エリス",
+        "UA54BT-MST-1-008-エリス",
+        "UA54BT-MST-1-009-エリス",
+        "UA54BT-MST-1-010-キシリカ・キシリス",
+        "UA54BT-MST-1-011-ギレーヌ",
+        "UA54BT-MST-1-012-シルフィエット",
+        "UA54BT-MST-1-013-シルフィエット",
+        "UA54BT-MST-1-014-シルフィエット",
+        "UA54BT-MST-1-015-聖獣",
+        "UA54BT-MST-1-016-ゼニス",
+        "UA54BT-MST-1-017-ノルン＆アイシャ",
+        "UA54BT-MST-1-018-パウロ",
+        "UA54BT-MST-1-019-リーリャ",
+        "UA54BT-MST-1-020-ルイジェルド",
+        "UA54BT-MST-1-021-ルイジェルド",
+        "UA54BT-MST-1-022-ルーデウス",
+        "UA54BT-MST-1-023-ルーデウス",
+        "UA54BT-MST-1-024-ルーデウス",
+        "UA54BT-MST-1-025-ルーデウス",
+        "UA54BT-MST-1-026-ルーデウス",
+        "UA54BT-MST-1-027-ロキシー",
+        "UA54BT-MST-1-028-ロキシー",
+        "UA54BT-MST-1-029-ロキシー",
+        "UA54BT-MST-1-030-ロキシー",
+        "UA54BT-MST-1-031-ロキシー",
+        "UA54BT-MST-1-032-ロキシー",
+        "UA54BT-MST-1-033-デッドエンド",
+        "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+        "UA54BT-MST-1-035-お前は戦士だ",
+        "UA54BT-MST-1-036-豪雷積層雲",
+        "UA54BT-MST-1-037-ご神体",
+        "UA54BT-MST-1-038-師匠からのおくりもの",
+        "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+        "UA54BT-MST-1-040-私がついていますから",
+        "UA54BT-MST-1-041-アイシャ",
+        "UA54BT-MST-1-042-エリナリーゼ",
+        "UA54BT-MST-1-043-ギース",
+        "UA54BT-MST-1-044-サラ",
+        "UA54BT-MST-1-045-ゼニス",
+        "UA54BT-MST-1-046-タルハンド",
+        "UA54BT-MST-1-047-パウロ",
+        "UA54BT-MST-1-048-パウロ",
+        "UA54BT-MST-1-049-ルーデウス",
+        "UA54BT-MST-1-050-ロキシー",
+        "UA54BT-MST-1-051-ロキシー",
+        "UA54BT-MST-1-052-ロキシー",
+        "UA54BT-MST-1-053-ロキシー",
+        "UA54BT-MST-1-054-ロキシー",
+        "UA54BT-MST-1-055-アリエル",
+        "UA54BT-MST-1-056-エリナリーゼ",
+        "UA54BT-MST-1-057-クリフ",
+        "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+        "UA54BT-MST-1-059-シルフィエット",
+        "UA54BT-MST-1-060-シルフィエット",
+        "UA54BT-MST-1-061-ナナホシ",
+        "UA54BT-MST-1-062-ナナホシ",
+        "UA54BT-MST-1-063-ノルン",
+        "UA54BT-MST-1-064-バーディガーディ",
+        "UA54BT-MST-1-065-フィッツ",
+        "UA54BT-MST-1-066-フィッツ",
+        "UA54BT-MST-1-067-フィッツ",
+        "UA54BT-MST-1-068-フィッツ",
+        "UA54BT-MST-1-069-プルセナ",
+        "UA54BT-MST-1-070-リニアーナ",
+        "UA54BT-MST-1-071-ルーデウス",
+        "UA54BT-MST-1-072-ルーデウス",
+        "UA54BT-MST-1-073-ルーデウス",
+        "UA54BT-MST-1-074-転移の迷宮",
+        "UA54BT-MST-1-075-迷宮都市ラパン",
+        "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+        "UA54BT-MST-1-077-今までありがとう",
+        "UA54BT-MST-1-078-守護術師フィッツ",
+        "UA54BT-MST-1-079-ゼニス救出作戦",
+        "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+        "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "UAPR-MST-1-030-ロキシー",
+        "UAPR-MST-1-055-アリエル",
+        "カードリスト"
+      ]
+    },
+    {
+      "file": "my-hero-academia.ts",
+      "rows": 258,
+      "matched": 255,
+      "unmatched": 3,
+      "changedRows": 255,
+      "coverage": 0.9883720930232558,
+      "unmatchedNumbers": [
+        "EX06BT/MHA-2-AP01/S/P1",
+        "EX06BT/MHA-2-AP02/S/P1",
+        "EX06BT/MHA-2-AP03/S/P1"
+      ]
+    },
+    {
+      "file": "nikke.ts",
+      "rows": 256,
+      "matched": 255,
+      "unmatched": 1,
+      "changedRows": 255,
+      "coverage": 0.99609375,
+      "unmatchedNumbers": [
+        "UA18BT/NIK-1-AP06/S"
+      ]
+    },
+    {
+      "file": "one-punch-man.ts",
+      "rows": 162,
+      "matched": 162,
+      "unmatched": 0,
+      "changedRows": 162,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "re-zero.ts",
+      "rows": 164,
+      "matched": 164,
+      "unmatched": 0,
+      "changedRows": 164,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "rurouni-kenshin.ts",
+      "rows": 164,
+      "matched": 164,
+      "unmatched": 0,
+      "changedRows": 164,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "sakamoto-days.ts",
+      "rows": 114,
+      "matched": 114,
+      "unmatched": 0,
+      "changedRows": 114,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "series-570801.ts",
+      "rows": 12,
+      "matched": 12,
+      "unmatched": 0,
+      "changedRows": 12,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "series-570901.ts",
+      "rows": 629,
+      "matched": 624,
+      "unmatched": 5,
+      "changedRows": 624,
+      "coverage": 0.9920508744038156,
+      "unmatchedNumbers": [
+        "UAPR/IMS/AP04",
+        "UAPR/IMS/AP05",
+        "UAPR/IMS/AP06",
+        "UAPR/IMS/AP07",
+        "UAPR/IMS/AP08"
+      ]
+    },
+    {
+      "file": "shangri-la-frontier.ts",
+      "rows": 115,
+      "matched": 113,
+      "unmatched": 2,
+      "changedRows": 113,
+      "coverage": 0.9826086956521739,
+      "unmatchedNumbers": [
+        "UA32BT/SNF-1-AP01/S",
+        "UA32BT/SNF-1-AP02/S"
+      ]
+    },
+    {
+      "file": "shy.ts",
+      "rows": 114,
+      "matched": 113,
+      "unmatched": 1,
+      "changedRows": 113,
+      "coverage": 0.9912280701754386,
+      "unmatchedNumbers": [
+        "UA24BT/SHY-1-AP01/S"
+      ]
+    },
+    {
+      "file": "solo-leveling.ts",
+      "rows": 118,
+      "matched": 118,
+      "unmatched": 0,
+      "changedRows": 118,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "sword-art-online.ts",
+      "rows": 275,
+      "matched": 270,
+      "unmatched": 5,
+      "changedRows": 270,
+      "coverage": 0.9818181818181818,
+      "unmatchedNumbers": [
+        "UA15BT/SAO-1-AP01/S",
+        "UA15BT/SAO-1-AP02/S",
+        "EX08BT/SAO-2-AP01/S",
+        "EX08BT/SAO-2-AP02/S",
+        "EX08BT/SAO-2-AP03/S"
+      ]
+    },
+    {
+      "file": "synduality-noir.ts",
+      "rows": 155,
+      "matched": 154,
+      "unmatched": 1,
+      "changedRows": 154,
+      "coverage": 0.9935483870967742,
+      "unmatchedNumbers": [
+        "UA16BT/SYN-1-AP01/S"
+      ]
+    },
+    {
+      "file": "tales-of-arise.ts",
+      "rows": 154,
+      "matched": 154,
+      "unmatched": 0,
+      "changedRows": 154,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "tekken-7.ts",
+      "rows": 134,
+      "matched": 134,
+      "unmatched": 0,
+      "changedRows": 134,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "tekken.ts",
+      "rows": 20,
+      "matched": 20,
+      "unmatched": 0,
+      "changedRows": 20,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "tensura.ts",
+      "rows": 255,
+      "matched": 254,
+      "unmatched": 1,
+      "changedRows": 254,
+      "coverage": 0.996078431372549,
+      "unmatchedNumbers": [
+        "EX09BT/TSK-2-AP01/S"
+      ]
+    },
+    {
+      "file": "to-love-ru.ts",
+      "rows": 135,
+      "matched": 135,
+      "unmatched": 0,
+      "changedRows": 135,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "tokyo-ghoul.ts",
+      "rows": 173,
+      "matched": 173,
+      "unmatched": 0,
+      "changedRows": 173,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "toriko.ts",
+      "rows": 155,
+      "matched": 154,
+      "unmatched": 1,
+      "changedRows": 154,
+      "coverage": 0.9935483870967742,
+      "unmatchedNumbers": [
+        "UA17BT/TRK-1-AP05/S"
+      ]
+    },
+    {
+      "file": "undead-unluck.ts",
+      "rows": 115,
+      "matched": 113,
+      "unmatched": 2,
+      "changedRows": 113,
+      "coverage": 0.9826086956521739,
+      "unmatchedNumbers": [
+        "UA25BT/AND-1-AP01/S",
+        "UA25BT/AND-1-AP02/S"
+      ]
+    },
+    {
+      "file": "wind-breaker.ts",
+      "rows": 120,
+      "matched": 120,
+      "unmatched": 0,
+      "changedRows": 120,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    },
+    {
+      "file": "yu-yu-hakusho.ts",
+      "rows": 163,
+      "matched": 163,
+      "unmatched": 0,
+      "changedRows": 163,
+      "coverage": 1,
+      "unmatchedNumbers": []
+    }
+  ]
+}

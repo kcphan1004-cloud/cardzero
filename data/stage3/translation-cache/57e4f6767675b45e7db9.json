@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:50:30.112Z",
+  "model": "qwen3.5:4b",
+  "unitId": "57e4f6767675b45e7db9",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-064"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "オマエ達のことも諦めねー…!!!",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "不再放弃你们的事…!!!",
+    "effectZh": "选择己方 AP 角色至多 2 张，将其变为激活状态。",
+    "triggerZh": "[最终]\n若己方生命值为空，从自己牌库上方翻开 1 张置于己方生命区。"
+  }
+}

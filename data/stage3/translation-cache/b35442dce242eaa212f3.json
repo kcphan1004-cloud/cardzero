@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:51:59.808Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b35442dce242eaa212f3",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-092"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ニョンタ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。このカードを手札に戻す。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "妮昂塔",
+    "effectZh": "[启动主]\n[横置状态]\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。将此卡返回手牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

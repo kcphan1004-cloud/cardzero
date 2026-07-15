@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:28:25.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fac9558b469fd728b5e8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-059"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リニアー",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈アスナ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "Linear",
+    "effectZh": "选择对方 Front L 的角色卡中 1 张（其 BP 为 3000 以下），并将其退场。若自己场上有〈亚丝娜〉，则改为「BP5000 以下」。",
+    "triggerZh": "[Special]\n选择对方的 Front L 角色卡中 1 张并使其退场。"
+  }
+}

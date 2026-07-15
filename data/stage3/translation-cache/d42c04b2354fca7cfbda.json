@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:54:40.246Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d42c04b2354fca7cfbda",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-024"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "時透 無一郎",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。それは次の1回アクティブにならない。\n[退場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "时透无一郎",
+    "effectZh": "【登场时】\n选择对方前线 L 的 1 张角色卡，使其变为横置状态。该卡在下一回合无法激活。\n【退场时】\n选择对方前线 L 的 1 张角色卡，使其变为横置状态。",
+    "triggerZh": "【获取】\n将此牌加入手牌。"
+  }
+}

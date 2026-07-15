@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:16:13.562Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a3d95d1c47237a62d4ca",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-049"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ブループラネット",
+    "effect": "[登場時]\nカードを1枚引く。\n[起動メイン]\n自分の場のアクティブの〈ビスケ〉を1枚レストにする。そうした場合、このカードを手札に戻す。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蓝色星球",
+    "effectZh": "[登场时]\n抽 1 张牌。\n[启动主]\n将己方场上的激活的〈比司吉〉横置。如此做的话，将此卡返回手牌。\n[抽取]\n抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

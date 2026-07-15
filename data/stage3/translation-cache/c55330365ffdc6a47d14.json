@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:15:35.087Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c55330365ffdc6a47d14",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-052"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 ルキア",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "朽木露琪亚",
+    "effectZh": "[攻击时]\n抽 1 张牌，并将自己手札中的 1 张卡放置于场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

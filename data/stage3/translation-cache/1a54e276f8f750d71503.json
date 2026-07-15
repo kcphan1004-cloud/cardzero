@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:27:36.362Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1a54e276f8f750d71503",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-013"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[登場時]\n相手の場にレストのキャラがある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "[登场时]\n若对方场上有横置的角色，则抽1张牌。",
+    "triggerZh": "[抽]\n抽1张牌。"
+  }
+}

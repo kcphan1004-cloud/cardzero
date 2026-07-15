@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:38:59.575Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fec733ac5c48d84a2733",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-082"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "小宮 果穂",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "小宫果穂",
+    "effectZh": "[登场时]\n抽 1 张牌，将自身手牌中的 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

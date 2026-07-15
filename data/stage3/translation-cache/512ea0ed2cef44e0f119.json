@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:16:08.989Z",
+  "model": "qwen3.5:9b",
+  "unitId": "512ea0ed2cef44e0f119",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-059"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "紫雲 清夏",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "紫云 清夏",
+    "effectZh": "【登场时】\n查看自己牌库上方的3张卡，将其中最多1张置入场外，其余按任意顺序放回牌库上方。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

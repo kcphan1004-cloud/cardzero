@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:17:15.147Z",
+  "model": "qwen3.5:9b",
+  "unitId": "963fc475e8d1be7f348e",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-069"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "そろそろ焼けたかな？",
+    "effect": "カードを2枚引く。このターン中に自分が他のイベントカードを使用している場合、さらにカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "差不多该烤熟了吧？",
+    "effectZh": "抽 2 张牌。若在本回合内自己使用了其他事件卡，再额外抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

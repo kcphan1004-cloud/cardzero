@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:08:15.568Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d5ac2e3d9b8e8f2246e2",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-017"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "姫崎 莉波",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姬崎莉波",
+    "effectZh": "[Impact无效]\n（与此角色进行战斗的角色在本场战斗中失去 Impact）",
+    "triggerZh": ""
+  }
+}

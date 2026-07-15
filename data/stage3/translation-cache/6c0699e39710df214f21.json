@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:02:21.782Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c0699e39710df214f21",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-020"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "トガヒミコ",
+    "effect": "自分の\n[レイド]\nを持つキャラカードはこのキャラにレイドできる。\n[登場時]\n自分の山札の上から1枚を公開し手札に加える。公開したカードが\n[レイド]\nを持たない場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "托加比美子",
+    "effectZh": "拥有「Raid」的自己的角色卡可以对该角色发动 Raid。\n[登场时]\n从自己牌库上方公开 1 张并加入手牌。若公开的卡片没有\n[Raid]，则将自己手牌中的 1 张置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

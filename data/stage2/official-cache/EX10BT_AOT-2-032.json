@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:51.892Z",
+  "number": "EX10BT/AOT-2-032",
+  "name": "クサヴァーさん見ててくれよ!!",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場のカード名に「ジーク」を含む黄のキャラを1枚退場させる。そうした場合、BP5000以下の相手のフロントLのキャラを1枚まで選び、退場させ、以下から1つまで選ぶ。\n・自分の山札の上から7枚見る。その中から〈始祖ユミル〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。\n・自分の場か場外に〈始祖ユミル〉がある場合、自分の場外から\n[レイド]\nを持たない黄の〈ジーク・イェーガー〉を1枚まで自分の場にレストで登場させる。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX10BT%2FAOT-2-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX10BT%2FAOT-2-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

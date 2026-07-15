@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:57:01.359Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b7d9e4561c11fb8cf4a3",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-073",
+    "UA20BT/BCV-1-002",
+    "UA20BT/BCV-1-044",
+    "UA20BT/BCV-1-073"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アスタ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "阿斯达",
+    "effectZh": "",
+    "triggerZh": "［获取］\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:15:58.255Z",
+  "number": "UA54BT/MST-1-038",
+  "name": "師匠からのおくりもの",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場のキャラを1枚選び、このターン中、BP+1000。自分の場に〈ロキシー〉がある場合、自分のAPカードを1枚アクティブにする。\n[起動メイン]\n[場外にある場合]\nこのターン中に自分の〈ルーデウス〉か〈ロキシー〉がレイドしていた場合のみ発動できる。自分の手札を1枚場外に置く。そうした場合、場外のこのカードを手札に加える。〈師匠からのおくりもの〉のこの効果は1ターンに1回のみ発動できる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA54BT%2FMST-1-038",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT%2FMST-1-038",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

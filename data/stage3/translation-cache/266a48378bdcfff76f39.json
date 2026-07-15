@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:07:12.966Z",
+  "model": "qwen3.5:9b",
+  "unitId": "266a48378bdcfff76f39",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-019"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ビスケ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "ビスケ",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并将其激活，该角色在本回合中 BP+3000。"
+  }
+}

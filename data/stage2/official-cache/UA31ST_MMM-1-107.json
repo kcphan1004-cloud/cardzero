@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:08.506Z",
+  "number": "UA31ST/MMM-1-107",
+  "name": "美樹 さやか",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "魔法少女",
+  "generatedEnergy": "红色×1",
+  "effect": "",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA31ST%2FMMM-1-107",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31ST%2FMMM-1-107",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "red",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

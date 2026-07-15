@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:40:19.859Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e60bfcdc03a28a501e8a",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-023"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ハクロウ",
+    "effect": "[登場時]\n[エナジーLにある場合]\n自分のフロントLのアクティブのキャラを1枚選び、このキャラと位置を入れ替えてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑狼",
+    "effectZh": "【登场时】\n【在能量线存在的情况下】\n选择自己前线线的激活角色 1 枚，可以与其交换位置。若如此做，将该角色设为激活状态。",
+    "triggerZh": ""
+  }
+}

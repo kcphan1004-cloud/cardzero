@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:24:37.811Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6bfa532062622368ac13",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-050"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "妓夫太郎",
+    "effect": "[登場時]\n自分の場に〈堕姫〉がある場合、BP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妓夫太郎",
+    "effectZh": "[登场时]\n若自己场上有〈堕姬〉，则选择对方场 BP1500 以上的角色最多 1 张，给予其本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:23:52.877Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0480602b67b68d6a95c9",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-026"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "メッサー・イーレフェルト",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "梅萨·伊雷费尔特",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自己场上的角色 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

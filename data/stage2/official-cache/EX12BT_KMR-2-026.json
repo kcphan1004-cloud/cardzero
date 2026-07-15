@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:15.744Z",
+  "number": "EX12BT/KMR-2-026",
+  "name": "タカメダル",
+  "color": "蓝色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "このカードは〈アンク〉としても〈コアメダル〉としても扱う。\n自分の効果で場外に置くこのカードの必要エナジーは\n[青×3]\nとしても扱う。\nこのカードは自分のエナジーLにカード名に「オーズ」を含むキャラがある場合のみ使用できる。\n自分の手札から必要エナジーが3以下で消費APが1のカード名に「オーズ」を含む青のキャラカードを1枚まで自分の場にレストで登場させる。このカードをリムーブエリアに置く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-026",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-026",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "blue",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

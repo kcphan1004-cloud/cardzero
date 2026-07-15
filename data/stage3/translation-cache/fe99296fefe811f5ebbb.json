@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:41:05.845Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fe99296fefe811f5ebbb",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-096"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "馴染まないで非日常",
+    "effect": "自分の山札の上から5枚見る。その中から［特徴：Straylight］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "不习惯的非日常",
+    "effectZh": "查看自己牌库上方 5 张卡。从中公开至多 2 张［特征：Straylight］并加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

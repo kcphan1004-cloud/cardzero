@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:42:09.002Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cd0bbd369c76dc646f0f",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-018"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ヴァニカ・ゾグラティス",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凡妮卡·佐格拉提斯",
+    "effectZh": "当该角色处于激活状态时，将该角色的发生能量 +[紫]。",
+    "triggerZh": ""
+  }
+}

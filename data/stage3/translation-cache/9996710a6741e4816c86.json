@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:18:23.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9996710a6741e4816c86",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-001"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "シェリル・ノーム",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雪莉露·诺姆",
+    "effectZh": "",
+    "triggerZh": "[抽牌] 抽 1 张牌。"
+  }
+}

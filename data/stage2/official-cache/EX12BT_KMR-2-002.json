@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:11.633Z",
+  "number": "EX12BT/KMR-2-002",
+  "name": "仮面ライダーヴァレン フラッペカスタム",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[ターン1]\nこのキャラがレストの場合のみ発動できる。自分の場の〈ゴチゾウ〉を1枚退場させる。そうした場合、このキャラをアクティブにする。\n[起動メイン]\n[フロントLにある場合]\n[レストにする]\n[ターン1]\nBP3000以下の相手のフロントLのキャラを1枚選び、レストにする。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-002",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-002",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

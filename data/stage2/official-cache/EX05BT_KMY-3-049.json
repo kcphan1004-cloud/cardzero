@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:49.068Z",
+  "number": "EX05BT/KMY-3-049",
+  "name": "鬼舞辻󠄀 無惨",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "自分の場外にカードが15枚以上ある場合、このキャラは\n[インパクト（1）]\nを得る。\n[登場時]\n自分の場の他のキャラを望む枚数退場させてもよい。そうした場合、この効果で退場させたキャラの枚数分カードを引く。\n[起動メイン]\n[ターン1]\nこのターン中にこのキャラの\n[登場時]\nによってキャラが退場している場合のみ発動できる。自分の手札から必要エナジーが3以下で消費APが1の紫のキャラカードを1枚まで自分の場にレストで登場させる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX05BT%2FKMY-3-049",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-3-049",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

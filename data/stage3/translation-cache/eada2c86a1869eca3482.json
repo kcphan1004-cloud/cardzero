@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:24:54.644Z",
+  "model": "qwen3.5:9b",
+  "unitId": "eada2c86a1869eca3482",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-003"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甘奈",
+    "effect": "[登場時]\n自分の場外にあるカードを2枚までリムーブエリアに置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "大崎甘奈",
+    "effectZh": "[登场时]\n将自己场外的卡最多 2 张置入移除区。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

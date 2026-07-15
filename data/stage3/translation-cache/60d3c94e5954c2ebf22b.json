@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:11:58.706Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60d3c94e5954c2ebf22b",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-058"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ジークフリート",
+    "effect": "[レイド]\n〈ジェレミア・ゴットバルト〉アクティブにし、フロントLに移動できる\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\n自分の場外から〈ジークフリート〉以外のキャラカードを1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "齐格弗里德",
+    "effectZh": "【Raid】\n〈杰雷米亚·戈特巴尔特〉处于激活状态，可移动至前线 L\n【阶段】\n（在自己的移动相位可从前线 L 移动至能量线）\n【登场时】\n从自己场外将除《齐格弗里德》以外的角色卡最多 1 枚加入手牌。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:22:22.333Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ccb756b924b94b60d583",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-095"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "護廷十三隊",
+    "effect": "自分の山札の上から4枚見る。その中から［特徴：護廷十三隊］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "护廷十三队",
+    "effectZh": "查看自己山札上方的 4 枚卡牌。从中公开最多 2 张［特征：护廷十三队］并加入手牌。将剩余的按任意顺序放置于己方山札下方。",
+    "triggerZh": ""
+  }
+}

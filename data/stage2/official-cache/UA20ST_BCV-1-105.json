@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:47:21.128Z",
+  "number": "UA20ST/BCV-1-105",
+  "name": "ノエル・シルヴァ",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "黒の暴牛",
+  "generatedEnergy": "红色×3",
+  "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[ターン1]\n[手札を1枚場外に置く]\nこのキャラはこのターン中、BP+1000。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA20ST%2FBCV-1-105",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20ST%2FBCV-1-105",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:45:41.656Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bb46a9e1fcbce9530700",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-003"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アスタ",
+    "effect": "[相手のターン中]\n自分の場に他の［特徴：黒の暴牛］が4枚以上ある場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿斯塔尔",
+    "effectZh": "[对手的回合中]\n若己方场上有 4 张或以上的［特征：黑之暴牛］，此角色 BP+500。",
+    "triggerZh": "[激活]\n选择己方场上的 1 张角色并使其处于激活状态，本回合内 BP+3000。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:14:59.966Z",
+  "number": "UA52BT/KJN-1-032",
+  "name": "ローズ・オリアナ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "-",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[ターン1]\nこのキャラが登場したターン中のみ発動できる。自分の山札の上から1枚をリムーブエリアに置く。このターン中、自分はそのカードをリムーブエリアから使用できる。（使用する場合は必要エナジーを満たす必要があり、消費APを支払う）",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA52BT%2FKJN-1-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA52BT%2FKJN-1-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

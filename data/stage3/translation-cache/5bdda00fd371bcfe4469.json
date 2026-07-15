@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:18:42.201Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5bdda00fd371bcfe4469",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-063"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "カストロ",
+    "effect": "[登場時]\nこのキャラが自分の手札から登場していた場合、APを1支払ってもよい。そうした場合、自分の場外から〈カストロ〉を1枚まで自分の場にアクティブで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "卡斯托罗",
+    "effectZh": "【登场时】\n若该角色是从自己手牌中登场的，可以支付1点AP。如此操作的情况下，从自己的场外将最多1张〈卡斯托罗〉以激活状态召唤至自己的场上。",
+    "triggerZh": "【抽卡】\n抽1张牌。"
+  }
+}

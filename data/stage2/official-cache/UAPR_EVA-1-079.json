@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:16:23.987Z",
+  "number": "UAPR/EVA-1-079",
+  "name": "エヴァンゲリオン初号機 疑似シン化",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "UR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[レイド]\n〈碇 シンジ〉アクティブにし、フロントLに移動できる\nこのキャラの下の裏向きのカードの枚数により、このキャラは以下の効果を得る。\n・0枚：\n[自分のターン中]\nこのキャラはBP+5000と\n[インパクト（3）]\n・4枚以上：このキャラは、相手のトリガーの効果で選ばれない。\nこのキャラのアタック終了時、このキャラの下の裏向きのカードを見て、2枚まで公開し手札に加える。2枚手札に加えた場合、このキャラをアクティブにする。\n[登場時]\n自分の場外から赤の〈綾波 レイ〉を各必要エナジーにつき1枚までこのキャラの下に裏向きで置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FEVA-1-079",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FEVA-1-079",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

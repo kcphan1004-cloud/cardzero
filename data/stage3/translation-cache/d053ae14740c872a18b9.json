@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:14:03.129Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d053ae14740c872a18b9",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-061"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "特派ヘッドトレーラー",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、このフィールドの発生エナジー+\n[緑]\n[緑]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "特派头车拖车",
+    "effectZh": "启动主效果",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

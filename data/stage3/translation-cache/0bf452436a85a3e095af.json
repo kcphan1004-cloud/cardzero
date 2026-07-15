@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:58:45.792Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0bf452436a85a3e095af",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-010"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ミニーニャ・マカロン",
+    "effect": "[退場時]\nBP2000以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米妮尼亚·马卡龙",
+    "effectZh": "[退场时]\n选择对方前线 L 的 BP2000 以下的角色最多 1 张并将其横置。",
+    "triggerZh": ""
+  }
+}

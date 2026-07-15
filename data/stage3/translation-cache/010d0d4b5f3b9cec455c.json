@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:52:15.967Z",
+  "model": "qwen3.5:4b",
+  "unitId": "010d0d4b5f3b9cec455c",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-072"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "リーベ",
+    "effect": "自分の\n[レイド]\nを持つ〈アスタ〉はこのキャラにレイドできる。\n[登場時]\nカードを1枚引き、自分の手札を1枚裏向きでこのキャラの下に置く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "利维亚",
+    "effectZh": "拥有自己【Raid】的〈Asta〉可以对该角色进行 Raid。\n[登场时]\n抽 1 张牌，将手札中的 1 张卡以横置状态置于该角色下方。",
+    "triggerZh": "【Color】选择对手 Front L BP2500 以下的角色 1 枚，使其退场。"
+  }
+}

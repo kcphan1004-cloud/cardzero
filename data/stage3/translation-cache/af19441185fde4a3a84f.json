@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:43:09.178Z",
+  "model": "qwen3.5:9b",
+  "unitId": "af19441185fde4a3a84f",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-054",
+    "EX09BT/TSK-2-050"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シオン",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "希翁",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活，本回合中 BP+3000。"
+  }
+}

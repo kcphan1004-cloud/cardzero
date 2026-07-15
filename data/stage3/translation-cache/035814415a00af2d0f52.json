@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:14:53.300Z",
+  "model": "qwen3.5:9b",
+  "unitId": "035814415a00af2d0f52",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-107"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "冨岡 義勇",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "富冈 义勇",
+    "effectZh": "[Impact（1）]\n（攻击并在战斗中获胜时，对对手玩家造成 1 点伤害）\n[登场时]\n选择一名对手前线 L 的角色（最多 1 名），使其横置。抽 1 张牌。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:37:19.419Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1526596ac37dd942cbf",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-050"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "カノン・マルディーニ",
+    "effect": "自分の場に〈シュナイゼル・エル・ブリタニア〉がある場合、このキャラは「このキャラはフロントLにある場合もエナジーを発生させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡农·马尔迪尼",
+    "effectZh": "如果自己的场上有〈修奈泽尔·埃尔·布里塔尼亚〉，此角色获得“即使在前线 L 也有产生能量。”。",
+    "triggerZh": ""
+  }
+}

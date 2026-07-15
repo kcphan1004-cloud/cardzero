@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:35:03.665Z",
+  "model": "qwen3.5:9b",
+  "unitId": "62500ec4246e576087e2",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-060"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "福丸 小糸",
+    "effect": "[レイド]\n〈福丸 小糸〉アクティブにし、フロントLに移動できる\nこのキャラがアタックしてブロックされた時、カードを1枚引く。\n[退場時]\n同じラインに〈市川 雛菜〉がある場合、レイド状態のこのキャラの一番下のカードを手札に戻す。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "福丸 小糸",
+    "effectZh": "【Raid】\n将〈福丸 小糸〉激活并移动到前线 L\n当该角色攻击并被阻挡时，抽 1 张牌。\n【退场时】\n若同一线中有〈市川 雏菜〉，则将该角色处于 Raid 状态的最下方卡牌返回手牌。",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

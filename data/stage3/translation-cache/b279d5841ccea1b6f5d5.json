@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:36:05.860Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b279d5841ccea1b6f5d5",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-AP01",
+    "UA06ST/TOA-1-AP02",
+    "UA06BT/TOA-1-AP01",
+    "UA06BT/TOA-1-AP02",
+    "UA06BT/TOA-1-AP03",
+    "UA06BT/TOA-1-AP04",
+    "UA06BT/TOA-1-AP05",
+    "UA06BT/TOA-1-AP06"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "アクションポイントカード(Tales of ARISE)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (破晓传说)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

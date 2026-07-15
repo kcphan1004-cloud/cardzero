@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:33:13.344Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c26d1b310926da4aa0d7",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-055"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェルノボーグ中枢区画",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "切尔诺伯格中枢区划",
+    "effectZh": "将此场地以激活状态登场到场上。\n[启动主] \n[横置]\n选择自己场上的角色 1 个，在本回合中 BP+1000。",
+    "triggerZh": "[Get]\n将此卡加入手牌"
+  }
+}

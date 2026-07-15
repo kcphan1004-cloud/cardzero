@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:05:13.717Z",
+  "model": "qwen3.5:9b",
+  "unitId": "77fafecd7ccb9fab7c6f",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-040"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "チルッチ・サンダーウィッチ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "奇露琪·桑德维茨",
+    "effectZh": "【退场时】\n抽牌 1 张。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:08:34.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f67707130fe7179113bc",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-054"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 ルキア",
+    "effect": "[自分のターン中]\nこのターン中に自分の手札を場外に置いている場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "朽木露琪亚",
+    "effectZh": "[自己的回合中]\n若本回合中将手牌置入场外时，该角色获得 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上一张卡牌角色，使其处于激活状态，并在此回合中获得 BP+3000。"
+  }
+}

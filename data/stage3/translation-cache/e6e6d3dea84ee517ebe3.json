@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:10:44.316Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e6e6d3dea84ee517ebe3",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-048"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ロイド・アスプルンド",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から［特徴：KMF］か［特徴：KGF］か〈特派ヘッドトレーラー〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "洛伊德·阿斯普鲁德",
+    "effectZh": "[登场时]\n查看自己山札上方的 5 枚卡。从中公开至多 1 张［特征：KMF］或［特征：KGF］或〈特派头车〉并加入手牌。将剩余的卡按任意顺序置于自己的山札下方。若加入了手牌，则将自己的手牌弃置 1 张。",
+    "triggerZh": ""
+  }
+}

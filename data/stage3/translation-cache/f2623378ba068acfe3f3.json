@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:19:54.851Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f2623378ba068acfe3f3",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-068"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アルミン・アルレルト",
+    "effect": "このキャラに〈アルミン・アルレルト（超大型巨人）〉がレイドする際、そのカードの必要エナジーを\n[赤×2]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔敏·阿莱莱特",
+    "effectZh": "当「阿尔敏·阿莱莱特（超大型巨人）」以 Raid 登场时，将该卡的必要能量减少\n[赤×2]。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

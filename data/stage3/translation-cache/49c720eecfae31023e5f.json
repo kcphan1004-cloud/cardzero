@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:28:40.841Z",
+  "model": "qwen3.5:9b",
+  "unitId": "49c720eecfae31023e5f",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-025"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アリーナ",
+    "effect": "このカードはフロントLに登場できず、フロントLに移動できない。\n[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "竞技场",
+    "effectZh": "此卡不能登场于前线 L，也不能移动至前线 L。\n[启动主]\n[横置]\n[回合 1]\n本角色在本回合中，产生能量+\n[紫]\n并获得「主阶段结束时，将此角色退场。」。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

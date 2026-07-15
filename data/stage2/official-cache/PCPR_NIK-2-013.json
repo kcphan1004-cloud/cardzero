@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:11.321Z",
+  "number": "PCPR/NIK-2-013",
+  "name": "シンデレラ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "ピルグリム／オールドテイルズ",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n自分のリムーブエリアにカードが3枚以上ある場合、カードを1枚引く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PCPR%2FNIK-2-013",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PCPR%2FNIK-2-013",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

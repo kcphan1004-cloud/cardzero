@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:17.406Z",
+  "number": "UA22BT/GMR-1-043",
+  "name": "佐々木 宗篤",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[登場時]\n自分のフロントLに〈戦車〉がある場合、相手のエナジーLに空きがあるなら、自分の手札を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚選び、エナジーLに移動させる。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA22BT%2FGMR-1-043",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-043",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "green",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

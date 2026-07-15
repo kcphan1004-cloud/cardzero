@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:13:28.186Z",
+  "model": "qwen3.5:9b",
+  "unitId": "25c78d5666e60c67f87a",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-004"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "神崎 アオイ",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下の黄のキャラカードを1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神崎 葵",
+    "effectZh": "【登场时】\n可以将自身手札中的 1 张置入场外。如此做的话，从自方的场外将最多 1 张黄色且必要能量为 3 以下的角色卡加入手牌。",
+    "triggerZh": ""
+  }
+}

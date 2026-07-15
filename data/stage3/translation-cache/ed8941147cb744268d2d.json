@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:33:31.230Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ed8941147cb744268d2d",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-011"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "麗日 お茶子",
+    "effect": "[フロントLにある場合]\n自分の場の〈緑谷 出久〉は、相手の効果で選ばれない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "丽日茶子",
+    "effectZh": "[在场上时]\n自己场上的〈绿谷出久〉不会被对手的效果选择。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色，将其激活，本回合中 BP+3000。"
+  }
+}

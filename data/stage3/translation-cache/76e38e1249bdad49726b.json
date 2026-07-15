@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:44:47.179Z",
+  "model": "qwen3.5:9b",
+  "unitId": "76e38e1249bdad49726b",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-017"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\nBP1500以上の相手の場のキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "三峰 结华",
+    "effectZh": "[启动主效果]\n[位于前线 L 时]\n[将手牌放置到场外 1 张]\n[回合 1]\n选择对方场上 BP1500 以上的角色 1 枚，本回合中，BP-1000。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 BP3500 以下的角色 1 枚，放回手牌。"
+  }
+}

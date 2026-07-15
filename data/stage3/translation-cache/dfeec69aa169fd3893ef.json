@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:53:34.810Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dfeec69aa169fd3893ef",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-069"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "西城 樹里",
+    "effect": "[登場時]\n自分の場の［特徴：放課後クライマックスガールズ］を1枚まで選び、このターン中、「\n[ターン1]\nこのキャラがアタックしてバトルに勝利した時、このキャラをアクティブにする。」を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "西城树里",
+    "effectZh": "登场时：\n选择最多 1 张自己场上的［特征：放学后 Climax Girls］，本回合中给予其效果「【回合 1】该角色攻击并赢得战斗时，将其激活。」。",
+    "triggerZh": "【激活】\n选择自己场上的角色中的 1 枚，使其激活，本回合中，BP+3000。"
+  }
+}

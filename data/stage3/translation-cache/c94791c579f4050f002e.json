@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:49:24.109Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c94791c579f4050f002e",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-075"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "カリオン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡利昂",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，\n失去\n【冲击】）",
+    "triggerZh": ""
+  }
+}

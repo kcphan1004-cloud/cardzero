@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:03:18.870Z",
+  "model": "qwen3.5:9b",
+  "unitId": "001528a0309fb500b794",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-066"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "飛び血鎌",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈妓夫太郎〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "飞血镰",
+    "effectZh": "选择对方 BP 3000 以下的角色前线 L 的一张并使其退场。若己方场上有〈妓夫太郎〉，则改为 BP 5000 以下。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色一张并使其退场。"
+  }
+}

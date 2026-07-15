@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:44:37.736Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a1fc55646b60e19dde07",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-060"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "破壊兵器B.B",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、BP2000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "破坏兵器 B.B.",
+    "effectZh": "【登场时】\n可以将自己的手牌至多 1 张置为场外。如此做的话，选择对方前线 L BP2000 以下的角色至多 1 枚并退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:17:18.288Z",
+  "number": "UAPR/YYH-1-038",
+  "name": "浦飯 幽助",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "UR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈浦飯 幽助〉アクティブにし、フロントLに移動できる\n[登場時]\nこのキャラはこのターン中、\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、指定した場合、相手はブロックできない）を得る。\n[アタック時]\n以下から1つ選ぶ。\n・このキャラはこのターン中、「このキャラがアタックしてブロックされなかった時、相手のフロントLのキャラを1枚まで選び、レストにする。」を得る。\n・このキャラはこのターン中、\n[インパクト（1）]\nを得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FYYH-1-038",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FYYH-1-038",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

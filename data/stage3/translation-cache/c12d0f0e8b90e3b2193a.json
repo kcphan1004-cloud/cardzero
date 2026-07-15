@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:07:56.875Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c12d0f0e8b90e3b2193a",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-021"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エレン・イェーガー",
+    "effect": "自分の場か場外に〈始祖ユミル〉がある場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾伦·耶格尔",
+    "effectZh": "自己的场或场外有〈始祖尤弥尔〉时，该角色的发生能量 +[黄]。",
+    "triggerZh": ""
+  }
+}

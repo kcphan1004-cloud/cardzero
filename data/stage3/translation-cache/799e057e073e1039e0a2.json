@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:28:40.845Z",
+  "model": "qwen3.5:9b",
+  "unitId": "799e057e073e1039e0a2",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-029"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "皇帝の利刃",
+    "effect": "[登場時]\nカードを1枚引く。その後、相手の場のフィールドを1枚まで選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "帝王之刃",
+    "effectZh": "[登场时]\n抽 1 张牌。之后，选择对方场上的场地最多 1 枚并退场。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

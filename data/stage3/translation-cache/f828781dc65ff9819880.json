@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:40:24.684Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f828781dc65ff9819880",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-065"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "自分の場外に［特徴：ピザ］が2枚以上ある場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "自己场外有 2 张以上［特征：披萨］时，本角色发生能量 +\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

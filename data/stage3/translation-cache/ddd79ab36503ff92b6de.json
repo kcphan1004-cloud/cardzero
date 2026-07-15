@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:41:20.805Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ddd79ab36503ff92b6de",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-072"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ロロ・ランペルージ",
+    "effect": "[アタック時]\n自分の場の〈ルルーシュ・ランペルージ〉か〈ロロ・ランペルージ〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗洛·兰佩鲁吉",
+    "effectZh": "[攻击时]\n选择自己场上的 1 张〈路路基·兰佩鲁吉〉或〈罗洛·兰佩鲁吉>，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

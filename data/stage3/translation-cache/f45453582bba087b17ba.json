@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:45:50.181Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f45453582bba087b17ba",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-063"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "空飛ぶロボコ",
+    "effect": "自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "飞行机器子",
+    "effectZh": "查看我方牌库上方的2张卡牌，从中按任意顺序将想要的数量放回牌库上方，其余置入场外。抽2张牌。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

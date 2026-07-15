@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:17:28.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3e2fd25e1305623f0ef",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-053"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ノブナガ＆マチ",
+    "effect": "[フロントLにある場合]\n〈ノブナガ＆マチ〉以外の自分の場のキャラは、相手が手札から使用したイベントカードの効果で選ばれない。\n[退場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺布长＆马奇",
+    "effectZh": "[位于前线 L 的情况下]\n除〈诺布长＆马奇〉外的自己场上的角色，不会被对手从手牌使用的活动卡的效果选择。\n[退场时]\n选择对手的 frontline L 的角色最多 1 枚，本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

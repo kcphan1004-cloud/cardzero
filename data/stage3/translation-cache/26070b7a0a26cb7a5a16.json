@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:03:32.526Z",
+  "model": "qwen3.5:9b",
+  "unitId": "26070b7a0a26cb7a5a16",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-008"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ツェズゲラ",
+    "effect": "相手の場に紫か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泽兹格拉",
+    "effectZh": "当对方场上存在紫色或绿色的卡牌时，减少此卡在手中的必要能量\n【青×1】",
+    "triggerZh": ""
+  }
+}

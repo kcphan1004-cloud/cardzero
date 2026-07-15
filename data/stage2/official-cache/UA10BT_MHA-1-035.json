@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:29.234Z",
+  "number": "UA10BT/MHA-1-035",
+  "name": "相澤 消太",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "绿色×1",
+  "effect": "[フロントLにある場合]\n相手の場のキャラ全ては、「\n[ステップ]\n、\n[狙い撃ち]\n、\n[2回アタック]\n、\n[2回ブロック]\n、\n[インパクト]\n、\n[ダメージ]\n、\n[インパクト無効]\n」を全て失う。\n[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA10BT%2FMHA-1-035",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA10BT%2FMHA-1-035",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

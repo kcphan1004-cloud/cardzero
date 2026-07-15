@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:45:28.971Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40a567118d75e400af9c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-028",
+    "UA04BT/IMS-1-028"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "お揃いスナップ",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする』。自分の場に異なるカード名を持つ［特徴：illumination STARS］が3種類以上ある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "同服快照",
+    "effectZh": "选择对方前线L的BP 5000以下的角色1张，使其『处于横置状态』。若己方场地上拥有3种以上不同卡名的［特征：illumination STARS］时，改为『退场』。",
+    "triggerZh": "[特殊]<br>选择对方的前线L的角色1张并让其退场。"
+  }
+}

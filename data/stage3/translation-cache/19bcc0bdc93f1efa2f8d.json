@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:21:33.089Z",
+  "model": "qwen3.5:9b",
+  "unitId": "19bcc0bdc93f1efa2f8d",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-028"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "サンダーブレード",
+    "effect": "相手のフロントＬのキャラを1枚選び、レストにする。自分の手札から、イベントカードを1枚場外に置いてもよい。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雷刃",
+    "effectZh": "选择对方前线 L 的角色至多 1 枚并使其横置。\n可以选择将事件卡牌从自己的手札中 1 张置入场外。若如此做，则最多选择自己 AP 卡中的 1 张并将其激活。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

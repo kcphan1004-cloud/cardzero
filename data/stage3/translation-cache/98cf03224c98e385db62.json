@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:29:44.137Z",
+  "model": "qwen3.5:9b",
+  "unitId": "98cf03224c98e385db62",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-043"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "[相手のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三峰 结华",
+    "effectZh": "[对方回合中]\n此卡的 BP+1000。",
+    "triggerZh": ""
+  }
+}

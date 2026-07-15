@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:27:44.587Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f451a487c24198da2064",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-060"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "メナンシア",
+    "effect": "[ターン1]\n自分の場のキャラがアタックしてバトルに勝利した時、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梅南西亚",
+    "effectZh": "【回合 1】\n自己的前线角色攻击并赢得战斗时，抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

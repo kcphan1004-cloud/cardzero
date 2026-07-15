@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:56.651Z",
+  "number": "UA08BT/BLC-1-081",
+  "name": "更木 剣八",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "護廷十三隊",
+  "generatedEnergy": "-",
+  "effect": "このカードはエナジーLに登場できず、エナジーLに移動できない。\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\n『BP2000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場に他の［特徴：護廷十三隊］が6枚以上ある場合、『BP4000以下』に代わる。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA08BT%2FBLC-1-081",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA08BT%2FBLC-1-081",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:12:16.665Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff604e391973cb982aef",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-025"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ロイド・ロイド（L）",
+    "effect": "[ブロック時]\nこのキャラはこのターン中、『BP-1000』。アタックしている相手のキャラがレイド状態の場合、『BP+1000』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗伊德·洛伊德（L）",
+    "effectZh": "[阻挡时]\n该角色本回合中为『BP-1000』。攻击中的对方角色处于 Raid 状态时，改为『BP+1000』。",
+    "triggerZh": ""
+  }
+}

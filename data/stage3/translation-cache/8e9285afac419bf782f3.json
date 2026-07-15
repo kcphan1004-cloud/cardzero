@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:14:39.004Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8e9285afac419bf782f3",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-042"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "モタリケ",
+    "effect": "[退場時]\n自分の山札の上から7枚見る。その中からフィールドカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "摩塔利克",
+    "effectZh": "[退场时]\n查看自己牌库上方 7 张卡，从中公开最多一张场地卡加入手牌，剩余部分按任意顺序置于自己牌库下方。",
+    "triggerZh": ""
+  }
+}

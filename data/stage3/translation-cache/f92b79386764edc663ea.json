@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:53:02.401Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f92b79386764edc663ea",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-045"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーアクセル",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士 Accelerator",
+    "effectZh": "[登场时]\n将自己场上其他必要能量为 1 以下的角色一张返回手牌。若无法返回则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:49:14.035Z",
+  "model": "qwen3.5:9b",
+  "unitId": "43a85eb1a004b4274656",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-083"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ガチゴリラの母ちゃん",
+    "effect": "[登場時]\n自分の場の他の［特徴：我知家］を1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "硬汉大猩猩的妈妈",
+    "effectZh": "【登场时】\n选择自己场上的其他［特征：我知家］最多 1 张并使其处于激活状态。",
+    "triggerZh": ""
+  }
+}

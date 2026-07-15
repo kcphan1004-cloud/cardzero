@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:05.271Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3d6147503a729560b70f",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-032",
+    "UA09BT/BTR-1-032"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "オムライス",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蛋包饭",
+    "effectZh": "抽1张牌，并将自己的手牌中最多1张放置于场外。\n选择自己AP卡中的1张并激活之。",
+    "triggerZh": ""
+  }
+}

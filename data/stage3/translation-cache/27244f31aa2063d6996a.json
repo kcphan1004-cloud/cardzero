@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:32:49.302Z",
+  "model": "qwen3.5:9b",
+  "unitId": "27244f31aa2063d6996a",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-093"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "炎の門",
+    "effect": "[起動メイン]\n[このカードを退場させる]\nこのターン中に元々のBPが4000以上の相手の場のキャラが退場している場合のみ発動できる。カードを2枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炎之门",
+    "effectZh": "[启动主]\n[使此卡退场]\n仅当本回合中原本 BP 为 4000 以上的对手场上的角色已退场时才能发动。抽 2 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:22:22.335Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d8f5d4bf0e6e1df959f7",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-096"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "大紅蓮氷輪丸",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする。それは次の1回アクティブにならない』。自分の場に〈日番谷 冬獅郎〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "大红莲冰轮丸",
+    "effectZh": "选择 BP 5000 以下的对手前线 L 的卡牌，将其横置并使其在接下来的一次激活前无法被激活。若己方场上有〈日番谷冬狮郎〉，则改为“退场”。",
+    "triggerZh": "[Special]\n选择对手的 frontline L 上的角色卡并将其退场。"
+  }
+}

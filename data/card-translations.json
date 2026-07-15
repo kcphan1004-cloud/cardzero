@@ -1,472 +1,954 @@
 {
-  "UA54BT/MST-1-001": {
-    "nameZh": "MST-1-001-エリス",
+  "UA20BT/BCV-1-008": {
+    "number": "UA20BT/BCV-1-008",
+    "nameZh": "索拉·伊德亚雷",
+    "effectZh": "［前线 L 在场］\n[回合 1]\n对手发动\n［启动主抽］时，若自己场上有其他［特征：黑之暴牛］存在，则抽取一张牌。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:40:38.374Z"
+  },
+  "CARD-0144": {
+    "number": "CARD-0144",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": "抽1张牌 将此卡加入手牌。"
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-002": {
-    "nameZh": "MST-1-002 - エリス",
+  "CARD-0145": {
+    "number": "CARD-0145",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": "激活时：选择自己场上的 1 张卡，使其进入激活状态。本回合中 BP+3000。"
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-003": {
-    "nameZh": "MST-1-003 - エリス",
-    "effectZh": "自己的场上有〈鲁德乌斯〉和〈路易杰尔德〉时，本卡的 BP+1000。",
-    "triggerZh": "抽 1 张牌。"
-  },
-  "UA54BT/MST-1-004": {
-    "nameZh": "MST-1-004 - エリス",
-    "effectZh": "登场时：如果本角色是经由自己的效果登场的，则将其激活。",
-    "triggerZh": "- X(Twitter) LINE URL 已复制"
-  },
-  "UA54BT/MST-1-005": {
-    "nameZh": "MST-1-005 - エリス",
-    "effectZh": "自己的场上没有卡的情况下，将手牌中的这张卡的必要能量减少为青×2。 无效化冲击（与这张角色进行战斗的角色在本场战斗中失去冲击）。在自己的回合中，本回合内通过自己的效果使角色卡片〔登场或雷击〕时，该角色的 BP+500。",
-    "triggerZh": "- X(Twitter) LINE URL已复制"
-  },
-  "UA54BT/MST-1-006": {
-    "nameZh": "MST-1-006 -エリス",
-    "effectZh": "登场时，支付至多 1 AP。如此的话，抽 1 张牌，从自己的手牌中消费能量为 3 以下且攻击时为 1 的青色的（〈鲁德乌斯〉或〈埃里斯〉或〈路易杰尔多〉）卡最多选择 1 张在自己的场上横置登场或者使其退场。",
-    "triggerZh": "对手的回合中，从对手的前线能量为 3500 以下的角色中选择至多 1 张，将其使回手牌。"
-  },
-  "UA54BT/MST-1-007": {
-    "nameZh": "MST-1-007 -エリス",
-    "effectZh": "登场时，从以下中选择至多 1 张：抽 1 张牌，将自己的手牌中的 1 张置于场外。若本角色是经由自身效果登场的场合，在本回合中直到下个回合开始时为止，以横置状态或雷击状态使必要的能量为 3 以下的、AP 为 1 的青色的〈鲁德乌斯〉或〈埃里斯〉或〈路易杰尔多〉中的至多 1 张登场。〈埃里斯〉的此效果每回合仅能选择 1 次。",
-    "triggerZh": "- X(Twitter) LINE URL をコピー URLをコピーしました。"
-  },
-  "UA54BT/MST-1-008": {
-    "nameZh": "MST-1-008 -エリス",
-    "effectZh": "雷击〈埃里斯〉激活，可移动至前线。本卡攻击未被阻挡时，抽 1 张牌。\n回合 1：本卡攻击并战败时，将本卡激活，本卡在自身回合中 BP+2000。",
-    "triggerZh": "雷击：将此卡加入手牌或满足必要能量时，使其进入雷击状态。"
-  },
-  "UA54BT/MST-1-009": {
-    "nameZh": "MST-1-009 - エリス",
-    "effectZh": "雷击〈エリス〉激活，可移动至前线。冲击（1）（攻击并赢得战斗时，对对手造成 1 点伤害）。在自己的回合中，本角色的 BP+500。登场时，若此角色是通过自己的效果登场的，则从以下选项中选择一项：\n·在本角色的下个回合开始时之前，BP+1000。\n·在本角色的攻击结束时，可选择自己能量线上的任意一张卡，将其与此角色交换位置。",
-    "triggerZh": "雷击 将此牌加入手牌或满足所需能量的情况下，使其进入雷击状态。"
-  },
-  "UA54BT/MST-1-010": {
-    "nameZh": "MST-1-010 -キシリカ・キシリス",
-    "effectZh": "登场时：从自己的牌库上方看 3 张，按愿望的顺序置于牌库上方。",
-    "triggerZh": "抽 1 张牌"
-  },
-  "UA54BT/MST-1-011": {
-    "nameZh": "MST-1-011 - 吉莱努",
-    "effectZh": "激活时：若前线存在，则在自己的回合中从自己的场上的〈艾里斯〉中选择至多 1 张，本回合中的 BP+1000。",
-    "triggerZh": "- X(Twitter) LINE URL已复制"
-  },
-  "UA54BT/MST-1-012": {
-    "nameZh": "MST-1-012 - 风精灵",
-    "effectZh": "攻击时：抽 1 张牌，将手卡中的 1 张置于场外。",
-    "triggerZh": "抽取：抽 1 张牌。X(Twitter) LINE URL已复制。URL已复制。"
-  },
-  "UA54BT/MST-1-013": {
-    "nameZh": "MST-1-013 - 风精灵",
-    "effectZh": "退场时抽一张牌。",
-    "triggerZh": "复制 Twitter LINE URL，URL 已复制。"
-  },
-  "UA54BT/MST-1-014": {
-    "nameZh": "MST-1-014 - 风精灵 (Silphiet)",
-    "effectZh": "若己方场上没有卡，则从手牌中弃置此卡的必要能量（减少蓝色×2）。在自己的回合中，本回合内己方使用过事件卡且同线存在〈鲁德乌斯〉时，该角色 BP+1500。登场时查看己方山札上方 2 张，将其中 1 张置于场外，其余按任意顺序放回至山札上方。",
-    "triggerZh": "抽 1 张牌"
-  },
-  "UA54BT/MST-1-015": {
-    "nameZh": "圣兽",
-    "effectZh": "无效冲击（与本角色战斗的角色在本战斗中失去冲击）",
-    "triggerZh": "激活时：选择自己场上的 1 张卡，使其进入激活状态。本回合中 BP+3000"
-  },
-  "UA54BT/MST-1-016": {
-    "nameZh": "ゼニス",
-    "effectZh": "激活主侧。横置状态，本回合中，发生能量 + 青，并获得「当结束阶段时，使其退场」。",
-    "triggerZh": "- X(Twitter) LINE URL已复制"
-  },
-  "UA54BT/MST-1-017": {
-    "nameZh": "MST-1-017 - ノルン＆アイシャ",
-    "effectZh": "登场时，抽 1 张牌。",
-    "triggerZh": "- X(Twitter) LINE URL をコピー URLをコピーしました。"
-  },
-  "UA54BT/MST-1-018": {
-    "nameZh": "MST-1-018-保罗",
-    "effectZh": "攻击时抽一张牌，将手牌中至多 1 张置于场外。",
-    "triggerZh": "激活：选择自己场上的角色卡 1 枚并使其处于激活状态；本回合中 BP+3000。"
-  },
-  "UA54BT/MST-1-019": {
-    "nameZh": "MST-1-019 - リーリャ",
-    "effectZh": "登场时，若必要能量为 1 以下，可选择自己的场上其他角色将其横置。无法选择该效果时，使其退场至手牌。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL をコピーしました"
-  },
-  "UA54BT/MST-1-020": {
-    "nameZh": "MST-1-020 - ルイジェルド",
+  "UA54BT-MST-1-001-エリス": {
+    "number": "UA54BT-MST-1-001-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": "抽1张牌。X(Twitter) LINE URLをコピー URL をコピーしました。"
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-021": {
-    "nameZh": "MST-1-021-路易热尔多",
-    "effectZh": "登场时：选择至多1张自己的手牌，若所需能量为3以下且消耗AP为1的蓝色〔〈鲁德乌斯〉或〈艾莉丝〉或〈路易热尔多〉〕，将其以横置状态在自己的场上登场，或者使其进入雷击。启动（主）回合：仅当自己的场上存在《鲁德乌斯》和《艾莉丝》时才能发动。将该角色激活。",
-    "triggerZh": "抽1张牌。X(Twitter) LINE URL已复制。URL 已复制。"
-  },
-  "UA54BT/MST-1-022": {
-    "nameZh": "MST-1-022 -鲁德乌斯",
-    "effectZh": "登场时：抽 1 张牌，将自己的手牌中的 1 张置于场外。",
-    "triggerZh": "激活：选择自己场上的角色 1 枚并使其处于激活状态；本回合中 BP+3000。"
-  },
-  "UA54BT/MST-1-023": {
-    "nameZh": "MST-1-023 -鲁德乌斯",
-    "effectZh": "登场时：若此角色是经由自己的效果登场的，则抽 1 张牌。",
-    "triggerZh": "- X(Twitter) LINE URL已复制URL已复制"
-  },
-  "UA54BT/MST-1-024": {
-    "nameZh": "MST-1-024 -鲁德乌斯",
-    "effectZh": "在自己的回合中，若自己的场上有〈罗克希〉，则此角色 BP+1000。",
-    "triggerZh": "抽 1 张牌。\nX(Twitter) LINE URL已复制\nURL已复制"
-  },
-  "UA54BT/MST-1-025": {
-    "nameZh": "MST-1-025 -鲁德乌斯",
-    "effectZh": "雷击〈鲁德乌斯〉激活，可移动至前线。登场时：选择自己场上的角色至多 1 张，本回合中 BP+1000。\n启动主效果：若位于前线\n阶段 1：从以下选项中选 1 个执行。\n- 发动该角色的登场时效果。\n- 选择自己场上横置状态的〈艾莉丝〉至多 1 张，本回合中对目标进行狙击射击，并将该角色最上方的卡片置于场外。",
-    "triggerZh": "雷击：将此卡加入手牌或满足所需能量时，使其激活状态。"
-  },
-  "UA54BT/MST-1-026": {
-    "nameZh": "鲁德乌斯",
-    "effectZh": "本卡无法登场至前线 L，且除自身效果外不可移动。攻击时从以下选项中选 1 个：·选择自己场上其他角色最多 1 张，在本回合中 BP+1000。·抽 1 张牌。·若自己在本回合中使用过〈豪雷积层云〉，则该角色在本回合中获得冲击（1）。",
-    "triggerZh": "获得此卡至手牌"
-  },
-  "UA54BT/MST-1-027": {
-    "nameZh": "MST-1-027-ロキシー",
+  "UA54BT-MST-1-002-エリス": {
+    "number": "UA54BT-MST-1-002-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": "抽 1 张牌，将此卡加入手牌。"
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-028": {
-    "nameZh": "MST-1-028-罗基斯",
-    "effectZh": "登场时，从自己的牌库上方看两张，公开至多 1 张〈鲁德乌斯〉或〈罗基斯〉且必要能量为 2 以下的事件卡并加入手牌。将剩余的置于场外。若将该卡加入手牌，则将自己的手牌中一张置于场外。",
-    "triggerZh": "激活：选择自己场上的角色一张，使其进入激活状态，本回合中 BP+3000"
-  },
-  "UA54BT/MST-1-029": {
-    "nameZh": "MST-1-029 -ロキシー",
-    "effectZh": "本张角色处于激活状态时，该角色的发生能量 + 青。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL を复制了。"
-  },
-  "UA54BT/MST-1-030": {
-    "nameZh": "MST-1-030-ロキシー",
-    "effectZh": "激活状态。横置状态。本回合中，仅当自己使用过事件卡时才能发动。从以下效果中选择至多 1 个进行发动：\n・选择自己的场上的角色 1 张，在本回合中 BP+1000。\n・抽 1 张牌，将手牌中的 1 张置于场外状态。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL をコピーしました。"
-  },
-  "UA54BT/MST-1-031": {
-    "nameZh": "MST-1-031-ロキシー",
-    "effectZh": "选择至多 1 张，将此卡激活并移动至前线。无效化（此角色与进行战斗的角色在本场战斗中失去冲击值）。在自己的回合中：若本回合内己方已使用过事件卡片，则获得冲击值 (1)。登场时：于本场回合中，使下次从手牌使用的必要能量为 3 以下的卡片的消耗 AP -1。",
-    "triggerZh": "雷迪（此卡加入手牌或满足所需能量的情况下，使其进入雷迪状态）。"
-  },
-  "UA54BT/MST-1-032": {
-    "nameZh": "MST-1-032-罗基希",
-    "effectZh": "雷击〈罗基希〉激活，可移动至前线。登场时：从自己的场外将必要能量为 2 以下的卡片选择至多 1 张加入手牌。\n启动主阶段（位于前线）：本回合中仅在自己使用过事件卡时可发动。选择自己场上必要能量为 3 以下的角色 1 枚，使其激活。\n启动主阶段（位于前线）：本回合中仅在自己的下个回合开始时前可发动。选择自己的场上的〈鲁德乌斯〉1 枚，移动至其他线。",
-    "triggerZh": "雷击：将此卡加入手牌或满足必要能量时，进行雷击。\nX(Twitter) LINE URL 已复制"
-  },
-  "UA54BT/MST-1-033": {
-    "nameZh": "死胡同",
-    "effectZh": "登场时：从自己的牌库上方看三张，公开至多一张〈鲁德乌斯〉、〈艾莉丝〉或〈路易杰尔〉并加入手牌。将剩余卡牌按任意顺序置于自己牌库下方。\n若将该卡加入手牌，则将自己的一张手牌置入场外。\n启动主侧：将此卡使其退场\n从自己的手牌中消耗3点以下能量、AP为1的蓝色角色卡一张，将其以横置状态登场或进行突袭。",
-    "triggerZh": "抽一张牌"
-  },
-  "UA54BT/MST-1-034": {
-    "nameZh": "MST-1-034 -请教会莉丝魔术喵☆",
-    "effectZh": "选择至多2张自己的AP卡，将其激活。",
-    "triggerZh": "最终：若你的生命值为空，则从牌库上方抽1张牌并置于自己的生命区域中。"
-  },
-  "UA54BT/MST-1-035": {
-    "nameZh": "MST-1-035 - 你可是战士啊",
-    "effectZh": "从以下选项中最多选择 1 张：\n・自己的场上存在〈鲁德乌斯〉时，抽 1 张牌。\n・自己的场上存在〈艾莉丝〉时，抽 1 张牌。\n・自己的场上存在〈路易杰尔多〉时，抽 1 张牌。",
-    "triggerZh": "抽取卡牌：抽 1 张牌。X(Twitter) LINE URL 已复制"
-  },
-  "UA54BT/MST-1-036": {
-    "nameZh": "豪雷积层云",
-    "effectZh": "本卡仅在己方场上存在〈罗克西〉时才能使用。每有 2 张位于场外的事件卡，在所有场合中减少本卡的必要能量：青×1。选择敌方前线 L 的 BP5000 以下的角色 1 枚，使其退场。",
-    "triggerZh": "特殊效果：选择敌方前线的角色 1 枚，使其退场。"
-  },
-  "UA54BT/MST-1-037": {
-    "nameZh": "ご神体",
-    "effectZh": "选择至多2张自己的AP卡，将其激活。",
-    "triggerZh": "最终：若你的生命值没有数值，则从牌库上方抽1张牌并置于你的生命区域中。"
-  },
-  "UA54BT/MST-1-038": {
-    "nameZh": "来自师匠的礼物",
-    "effectZh": "选择自己场上的角色卡，本回合中 BP+1000。若自己的场上存在〈罗基斯〉，则激活一张自己的 AP 牌。启动时：在场外发动此效果的条件为，在本回合中自己的〈鲁德乌斯〉或〈罗基斯〉进行了突袭。将手牌中的角色卡一张置于场外。如此处理之后，将此卡片加入手牌。「来自师匠的礼物」的效果每回合只能使用一次。",
-    "triggerZh": "抽 1 张牌"
-  },
-  "UA54BT/MST-1-039": {
-    "nameZh": "MST-1-039 -鲁德乌斯真厉害！",
-    "effectZh": "从以下选项中选择至多 1 个：\n・在自己的场上选择 1 张〈艾莉丝〉，在本回合中给予 BP+500 和狙击（指定对手的 frontline L 中的角色进行攻击，此时不会被阻挡）。\n・如果自己的场中有〈艾莉丝〉的话，可以从场外消耗 AP 为 1 的蓝色〈鲁德乌斯〉至多 1 张在自己的场上横置或雷伊登场。",
-    "triggerZh": "SPECIAL：选择对手的 frontline L 中的角色 1 个并使其退场。"
-  },
-  "UA54BT/MST-1-040": {
-    "nameZh": "MST-1-040 私がついていますから",
-    "effectZh": "本卡仅在己方场上存在〈罗克希〉时才能使用。从己方手牌中支付所需能量并消耗 1 AP，将至多 1 张蓝色的〔〈鲁德乌斯〉或〈罗克希〉〕以横置状态登场于己方场上或将之雷击掉。抽 1 张牌。选择己方场上的 1 张〈鲁德乌斯>，移动其到另一条线。",
-    "triggerZh": "将对手颜色 BP3500 以下的 1 张前线角色选回手牌。"
-  },
-  "UA54BT/MST-1-041": {
-    "nameZh": "MST-1-041 -アイシャ",
-    "effectZh": "激活时：横置。选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
-    "triggerZh": "抽 1 张牌。X(Twitter) LINE URLをコピー URL をコピーしました。"
-  },
-  "UA54BT/MST-1-042": {
-    "nameZh": "MST-1-042 - 艾莉纳丽泽",
-    "effectZh": "无效冲击（与本角色战斗的角色在本战斗中失去冲击）启动主。仅当本回合中自己的场地场牌退场时才能发动。使该角色激活状态。<br>「艾莉纳丽泽」的效果每回合只能发动1次。",
-    "triggerZh": "激活 选择自己场上的1张卡，使其进入激活状态，并在本回合中获得 BP+3000。"
-  },
-  "UA54BT/MST-1-043": {
-    "nameZh": "MST-1-043 -ギース",
-    "effectZh": "登场时：从自己的牌库上方看 5 张，公开至多 1 张绿色场地卡并加入手牌。将剩余的按任意顺序置于自己牌库下方。若加入了手牌，则将自己的一张手牌放于场外。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL をコピーしました"
-  },
-  "UA54BT/MST-1-044": {
-    "nameZh": "MST-1-044 -萨拉",
-    "effectZh": "登场时，若必要能量为 1 以下，选择至多 1 张将自己场上的其他角色送回手牌；无法送回该角色的情况下，将该角色送回手牌。",
-    "triggerZh": "- X(Twitter) LINE URL已复制"
-  },
-  "UA54BT/MST-1-045": {
-    "nameZh": "ゼニス",
-    "effectZh": "激活时：横置。本回合中，发生能量 + 绿并获得「主阶段结束时，使其退场」。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL をコピーしました。"
-  },
-  "UA54BT/MST-1-046": {
-    "nameZh": "MST-1-046 - 手牌",
-    "effectZh": "本回合中，若自己的场上有退场状态，则此角色的发生能量 + 绿。启动时（主）：前线存在的情况下，在本回合中使场上的角色退场至多 1 张。如此处理之后，该角色在本回合中的 BP+1000。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL を复制了"
-  },
-  "UA54BT/MST-1-047": {
-    "nameZh": "MST-1-047-保罗",
-    "effectZh": "登场时（可以从前线将能量线移动至自己的回合中）",
-    "triggerZh": "抽 1 张牌。X(Twitter) LINE URL已复制，URL已复制。"
-  },
-  "UA54BT/MST-1-048": {
-    "nameZh": "MST-1-048-保罗",
-    "effectZh": "登场时，可以将自己的场上的任意一张卡使其退场。如此操作后，将此角色激活。\n攻击时，若自己场外有6张以上的场地卡，则可以将自己的手牌中任意一张卡置于场外。如此操作后，将此角色激活。<保罗>的此效果每回合仅能发动1次。",
-    "triggerZh": "激活：选择场上的任意一个角色并使其激活，本回合中 BP+3000"
-  },
-  "UA54BT/MST-1-049": {
-    "nameZh": "MST-1-049 -鲁德乌斯",
-    "effectZh": "登场时：可以选择将己方场上的任意一张卡使其退场。如此操作后，将此角色激活，从自己的牌库上方查看 4 张，公开至多 1 张没有特征的〔角色卡或场地卡〕加入手牌，其余的按愿望顺序置于牌库下方。",
-    "triggerZh": "GET：将这张卡加入手牌。\nX(Twitter) LINE URL已复制\nURL已复制"
-  },
-  "UA54BT/MST-1-050": {
-    "nameZh": "MST-1-050 -罗克希",
+  "UA54BT-MST-1-003-エリス": {
+    "number": "UA54BT-MST-1-003-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": "抽 1 张牌。复制 X(Twitter) LINE URL，URL 已复制。"
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-051": {
-    "nameZh": "MST-1-051-ロキシー",
-    "effectZh": "登场时：抽 1 张牌，将手牌中的 1 张置于场外。",
-    "triggerZh": "触发效果：抽 1 张牌。X(Twitter) LINE URLをコピー URL をコピーしました。"
-  },
-  "UA54BT/MST-1-052": {
-    "nameZh": "MST-1-052-罗克希",
-    "effectZh": "退场时，若自己的场上存在场地卡，则抽 1 张牌。",
-    "triggerZh": "- X(Twitter) LINE URL已复制。URL已复制。"
-  },
-  "UA54BT/MST-1-053": {
-    "nameZh": "MST-1-053-ロキシー",
-    "effectZh": "对手的回合中，选择至多1张自己的绿色卡。触发效果：将「角色卡片」替换为「场地卡片」。登场时抽 1 张牌，并将自己手牌中的 1 张置于场外。若处于前线，本回合中将自身场上的任意一张使其退场；如此操作后，再抽 1 张牌。能量线：从自己的手牌中消耗至多 2 点能量的绿色角色卡片 1 张（AP=1），以激活状态登场于自己场上。",
-    "triggerZh": "的效果中可以替换为「场地卡片」。登场时抽 1 张牌，并将自己手牌中的 1 张置于场外。若处于前线，本回合中将自身场上的任意一张使其退场；如此操作后，再抽 1 张牌。能量线：从自己的手牌中消耗至多 2 点能量的绿色角色卡片 1 张（AP=1），以激活状态登场于自己场上。"
-  },
-  "UA54BT/MST-1-054": {
-    "nameZh": "MST-1-054-罗克希",
-    "effectZh": "雷击〈罗克希〉激活，可移动至前线。登场时：若自己的场外存在场地卡，则选择对手的前线最多 1 张角色卡使其横置状态。该卡片直到对手的下一个攻击阶段结束时，失去原本的所有效果且无法激活。",
-    "triggerZh": "雷击：将此卡加入手牌或满足必要能量时，进行雷击。"
-  },
-  "UA54BT/MST-1-055": {
-    "nameZh": "MST-1-055 - 阿利尔",
-    "effectZh": "登场时：从自己的牌库上方看3张，公开至多选择1张［特征：拉诺亚魔法大学］加入手牌。其余的按任意顺序置于自己牌库下方。将卡加入手牌时，将自己的一张手牌放于场外。",
-    "triggerZh": "抽一张牌"
-  },
-  "UA54BT/MST-1-056": {
-    "nameZh": "MST-1-056 - エリナリーゼ",
-    "effectZh": "激活：选择至多 1 张，将其横置。在自己的回合中，将本回合中的前线处于激活状态的卡 1 张使其退场。如此处理时，该卡在“自己的回合中”发生能量 + 绿。\n触发器：- X(Twitter) LINE URLをコピー URL をコピーしました。",
-    "triggerZh": "- X(Twitter) LINE URL をコピー URL をコピーしました。"
-  },
-  "UA54BT/MST-1-057": {
-    "nameZh": "MST-1-057 - Cliff",
-    "effectZh": "本角色在横线时也能产生能量。",
-    "triggerZh": "抽 1 张牌。\n已复制 X(Twitter) LINE URL，URL 已复制。"
-  },
-  "UA54BT/MST-1-058": {
-    "nameZh": "MST-1-058 - Zanova & Juliette",
-    "effectZh": "无效冲击（与本角色战斗的角色在本战斗中失去冲击）\n启动主\n本回合中 自己的能量为7以上，且自己场上的所有角色的特征均为「拉诺亚魔法大学」时才能发动。该角色直到下个回合开始时 BP+500。",
-    "triggerZh": "激活 选择1张自己场上的角色并使其处于激活状态，在本回合中 BP+3000。"
-  },
-  "UA54BT/MST-1-059": {
-    "nameZh": "MST-1-059 - 风精灵",
-    "effectZh": "登场时，从以下选项中选择至多一项：\n抽一张牌，将手牌中的一张置于场外。\n选择自己的前线中的最多一张［特征：拉诺亚魔法大学］的卡牌，在本回合中给予该角色「即使位于前线也能产生能量」的效果。",
-    "triggerZh": "- X(Twitter) LINE URL 已复制"
-  },
-  "UA54BT/MST-1-060": {
-    "nameZh": "MST-1-060 - 风精灵",
-    "effectZh": "步骤（在己方移动阶段中，可从前线将能量线）启动主效果：若处于前线，则抽至多 1 张牌，并将己方的手牌中的 1 张置于场外。选择己方前线的最多 1 张［特征：拉诺亚魔法大学］的卡，在本回合中给予该角色「即使位于前线也能产生能量」。",
-    "triggerZh": "获取（将此卡加入手牌）。"
-  },
-  "UA54BT/MST-1-061": {
-    "nameZh": "MST-1-061-七色鸟",
-    "effectZh": "登场时，选择自己场上的其他角色至多 1 张。本回合中 BP+1000。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL を复制了。"
-  },
-  "UA54BT/MST-1-062": {
-    "nameZh": "MST-1-062-ナナホシ",
-    "effectZh": "登场时，从以下中选择至多 1 张：\n・将除〈七色〉以外的自己场上的角色卡 1 张横置。如此处理的情况下，本回合中，下次从手牌使用的原本发生能量为 2 以上的角色卡的消耗 AP -1。\n・抽 1 张牌。",
-    "triggerZh": "颜色：自己的手牌中有必要能量为 2 以下且消耗 AP 为 1 的绿色角色卡时，将该卡片以激活状态登场到己方场上。"
-  },
-  "UA54BT/MST-1-063": {
-    "nameZh": "诺恩",
-    "effectZh": "登场时，若自己场上的能量线有7点以上，则抽1张牌。",
-    "triggerZh": "抽取：将一张卡加入手牌。"
-  },
-  "UA54BT/MST-1-064": {
-    "nameZh": "MST-1-064 - 巴迪加迪",
-    "effectZh": "本回合中，选择至多1张将其激活并登场。退场时，可选择将此卡加入手牌。",
-    "triggerZh": "当此角色处于激活状态时：从自己的场上选择1个角色使其进入激活状态；在本回合中 BP+3000。"
-  },
-  "UA54BT/MST-1-065": {
-    "nameZh": "MST-1-065 - Fitz",
-    "effectZh": "本卡可当作〈风精灵〉使用。登场时，从自己的牌库上方看 2 张，将［特征：拉诺亚魔法大学］至多 1 张置于场外，其余按任意顺序放回牌库上方。",
-    "triggerZh": "激活状态：选择自己场上的角色卡 1 张并使其进入激活状态，本回合中 BP+3000。"
-  },
-  "UA54BT/MST-1-066": {
-    "nameZh": "MST-1-066 - Fitz",
-    "effectZh": "本卡可视为〈风精灵〉。在自己的回合中，若自己的发生能量为 7 以上，该角色 BP+1000。",
-    "triggerZh": "抽 1 张牌。复制 X(Twitter) LINE URL。"
-  },
-  "UA54BT/MST-1-067": {
-    "nameZh": "MST-1-067 - Fitz",
-    "effectZh": "本卡可当作〈风精灵〉使用。雷击 〈风精灵〉激活，并移动至前线 L。\n登场时：选择自己场上原本存在的 1 张以上能量为 1 的［特征：拉诺亚魔法大学］卡牌，给予「直到自己的下个回合开始时，该角色不会被对手的效果选中。」\n退场时：将该角色的雷击原卡最多 1 张以横置状态登场至自己场上或加入手牌。",
-    "triggerZh": "雷击：将本卡加入手牌或在满足所需能量时将本卡进行雷击。\nX(Twitter) LINE URL 已复制\nURL 已复制"
-  },
-  "UA54BT/MST-1-068": {
-    "nameZh": "MST-1-068-菲茨",
-    "effectZh": "本卡作为〈丝菲埃特〉处理。雷德（丝菲埃特）激活，可移动至前线 L 且自身发生能量为 7 以上的情况下，该角色获得冲击（1）。登场时从以下选项中选 1 项：·从自己的牌库上方看 5 张，公开［特征：拉诺亚魔法大学］最多 1 张并加入手牌，其余按任意顺序置于牌库下方。·选择对手前线 L 的卡 1 张并将其移动至能量线 L。",
-    "triggerZh": "雷德将本卡加入手牌或满足所需能量的情况下进行雷德。"
-  },
-  "UA54BT/MST-1-069": {
-    "nameZh": "MST-1-069 - プルセナ",
-    "effectZh": "登场时，查看自己的牌库上方 1 张，置于其上方或场外。",
-    "triggerZh": "- X(Twitter) LINE URLをコピー URL をコピーしました。"
-  },
-  "UA54BT/MST-1-070": {
-    "nameZh": "MST-1-070 - リニアーナ",
+  "UA54BT-MST-1-004-エリス": {
+    "number": "UA54BT-MST-1-004-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": "抽1张牌。X(Twitter) LINE URLをコピーURLをコピーしました。"
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-071": {
-    "nameZh": "MST-1-071 -鲁德乌斯",
-    "effectZh": "无效冲击（与本角色战斗的角色在本战斗中失去冲击）",
-    "triggerZh": "- X(Twitter) LINE URL 已复制"
-  },
-  "UA54BT/MST-1-072": {
-    "nameZh": "MST-1-072 -鲁德乌斯",
-    "effectZh": "本角色处于激活状态时，该角色的发生能量 + 绿。",
-    "triggerZh": "- X(Twitter) LINE URL已复制"
-  },
-  "UA54BT/MST-1-073": {
-    "nameZh": "MST-1-073 -鲁德乌斯",
-    "effectZh": "本卡不能置于能量线，也不能移动至能量线。除自身效果外无法激活。发动（主）：仅当自己的发生能量为 7 以上时才能发动。使该角色处于激活状态。抽 1 张牌。选择自己场上的 1 个角色，在本回合中 BP+2000。本卡在本回合中获得「在自己的攻击阶段结束时，将该角色置于激活状态」。〈鲁德乌斯〉的此效果每回合只能发动 1 次。",
-    "triggerZh": "获取：将这张牌加入手牌。"
-  },
-  "UA54BT/MST-1-074": {
-    "nameZh": "转移迷宫",
-    "effectZh": "登场时：选择至多将己方场上的角色使退场。如此，抽2张牌。\n\n使退场时：从以下中选择一项。\n·可选择将己方的手牌1张置于场外。如此，可从己方场外以横置状态登场最多1张绿色〈罗克西〉（所需能量为1或以下）至己方场上。\n·可将最多1张〈迷宫守护者 玛纳蒂特水龙〉从己方场外加入己方手牌。",
-    "triggerZh": "获得：将此卡加入己方手牌。"
-  },
-  "UA54BT/MST-1-075": {
-    "nameZh": "MST-1-075 -迷宫都市拉潘",
-    "effectZh": "登场时：抽1张牌，将手牌中的1张置于场外。退场时：抽1张牌。",
-    "triggerZh": "GET 将此卡加入手牌。\nX(Twitter) LINE URL进行复制\nURL已复制"
-  },
-  "UA54BT/MST-1-076": {
-    "nameZh": "迷宫守护者 - 玛纳泰坦水龙-",
-    "effectZh": "退场时，从自己的场外选择一张特征为绿色、AP 为 1、必要能量不超过『1』的卡片，将其以横置状态登场到场上或使其雷击。本回合中，每有一张位于自己外场的其他字段卡，该效果登场的角色所需能量的范围 +1。",
-    "triggerZh": "特殊：选择对手的 frontline L 中的一张角色并使其退场。"
-  },
-  "UA54BT/MST-1-077": {
-    "nameZh": "MST-1-077-今までありがとう",
-    "effectZh": "选择至多2张自己的AP卡，使其激活。",
-    "triggerZh": "最终：若你的生命值为空，则从牌库上方抽1张牌置于你的生命区域中。"
-  },
-  "UA54BT/MST-1-078": {
-    "nameZh": "MST-1-078-守护术师菲茨",
-    "effectZh": "选择对手场上 BP3000 以下的角色卡至多 1 张，使其退场。若己方场地有〈丝菲〉存在，则变为 BP5000 以下。",
-    "triggerZh": "特殊：选择对手场上的角色卡至多 1 张，使其退场。"
-  },
-  "UA54BT/MST-1-079": {
-    "nameZh": "MST-1-079 - 泽尼斯救援作战",
-    "effectZh": "选择至多2张自己的AP卡，将其激活。",
-    "triggerZh": "最终：若你的生命值为空，则从牌库上方抽1张牌置于你的生命区域中。"
-  },
-  "UA54BT/MST-1-080": {
-    "nameZh": "MST-1-080-那么，我是希尔菲特",
-    "effectZh": "抽2张牌。选择至多1张自己的前线［特征：拉诺亚魔法大学］，给予其在本回合中、「该角色也能产生能量线。」的效果。",
-    "triggerZh": "登场时 抽取1张牌。X(Twitter) LINE URL已复制URL已复制。"
-  },
-  "UA54BT/MST-1-AP01": {
-    "nameZh": "MST-1-AP01 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-005-エリス": {
+    "number": "UA54BT-MST-1-005-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP02": {
-    "nameZh": "MST-1-AP02 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-006-エリス": {
+    "number": "UA54BT-MST-1-006-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP03": {
-    "nameZh": "MST-1-AP03 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-007-エリス": {
+    "number": "UA54BT-MST-1-007-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP04": {
-    "nameZh": "MST-1-AP04 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-008-エリス": {
+    "number": "UA54BT-MST-1-008-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP05": {
-    "nameZh": "MST-1-AP05 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-009-エリス": {
+    "number": "UA54BT-MST-1-009-エリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP06": {
-    "nameZh": "MST-1-AP06 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-010-キシリカ・キシリス": {
+    "number": "UA54BT-MST-1-010-キシリカ・キシリス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP07": {
-    "nameZh": "MST-1-AP07 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-011-ギレーヌ": {
+    "number": "UA54BT-MST-1-011-ギレーヌ",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP08": {
-    "nameZh": "MST-1-AP08 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-012-シルフィエット": {
+    "number": "UA54BT-MST-1-012-シルフィエット",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP09": {
-    "nameZh": "MST-1-AP09 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-013-シルフィエット": {
+    "number": "UA54BT-MST-1-013-シルフィエット",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP10": {
-    "nameZh": "MST-1-AP10 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-014-シルフィエット": {
+    "number": "UA54BT-MST-1-014-シルフィエット",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP11": {
-    "nameZh": "MST-1-AP11 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-015-聖獣": {
+    "number": "UA54BT-MST-1-015-聖獣",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UA54BT/MST-1-AP12": {
-    "nameZh": "MST-1-AP12 - 行动点卡（无职转生～到了异世界就拿出真本事～）",
+  "UA54BT-MST-1-016-ゼニス": {
+    "number": "UA54BT-MST-1-016-ゼニス",
+    "nameZh": "资料待补",
     "effectZh": "",
-    "triggerZh": ""
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UAPR/MST-1-030": {
-    "nameZh": "MST-1-030 -ロキシー",
-    "effectZh": "激活状态。横置状态。本回合中，仅当自己使用过事件卡时才能发动。选择至多 1 个效果进行以下处理。\n\n・从自己的场上选择 1 张角色卡，在本回合中 BP+1000。\n\n・抽 1 张牌，将 1 张手牌置于场外。",
-    "triggerZh": "- 入手信息：UNICHECK GET BATTLE 2026 年 7 月举办优胜纪念奖等 X(Twitter) LINE URL 复制 URL 已复制。"
+  "UA54BT-MST-1-017-ノルン＆アイシャ": {
+    "number": "UA54BT-MST-1-017-ノルン＆アイシャ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
   },
-  "UAPR/MST-1-055": {
-    "nameZh": "MST-1-055 - 阿利尔",
-    "effectZh": "登场时，从自己的牌库上方看3张，公开至多选择1张［特征：拉诺亚魔法大学］加入手牌。其余的按任意顺序置于自己牌库下方。将卡加入手牌时，将自己的一张手牌放于场外。",
-    "triggerZh": "抽一张牌"
+  "UA54BT-MST-1-018-パウロ": {
+    "number": "UA54BT-MST-1-018-パウロ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-019-リーリャ": {
+    "number": "UA54BT-MST-1-019-リーリャ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-020-ルイジェルド": {
+    "number": "UA54BT-MST-1-020-ルイジェルド",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-021-ルイジェルド": {
+    "number": "UA54BT-MST-1-021-ルイジェルド",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-022-ルーデウス": {
+    "number": "UA54BT-MST-1-022-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-023-ルーデウス": {
+    "number": "UA54BT-MST-1-023-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-024-ルーデウス": {
+    "number": "UA54BT-MST-1-024-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-025-ルーデウス": {
+    "number": "UA54BT-MST-1-025-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-026-ルーデウス": {
+    "number": "UA54BT-MST-1-026-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-027-ロキシー": {
+    "number": "UA54BT-MST-1-027-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-028-ロキシー": {
+    "number": "UA54BT-MST-1-028-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-029-ロキシー": {
+    "number": "UA54BT-MST-1-029-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-030-ロキシー": {
+    "number": "UA54BT-MST-1-030-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-031-ロキシー": {
+    "number": "UA54BT-MST-1-031-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-032-ロキシー": {
+    "number": "UA54BT-MST-1-032-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-033-デッドエンド": {
+    "number": "UA54BT-MST-1-033-デッドエンド",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆": {
+    "number": "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-035-お前は戦士だ": {
+    "number": "UA54BT-MST-1-035-お前は戦士だ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-036-豪雷積層雲": {
+    "number": "UA54BT-MST-1-036-豪雷積層雲",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-037-ご神体": {
+    "number": "UA54BT-MST-1-037-ご神体",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-038-師匠からのおくりもの": {
+    "number": "UA54BT-MST-1-038-師匠からのおくりもの",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-039-ルーデウスはすごいのよ！": {
+    "number": "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-040-私がついていますから": {
+    "number": "UA54BT-MST-1-040-私がついていますから",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-041-アイシャ": {
+    "number": "UA54BT-MST-1-041-アイシャ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-042-エリナリーゼ": {
+    "number": "UA54BT-MST-1-042-エリナリーゼ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-043-ギース": {
+    "number": "UA54BT-MST-1-043-ギース",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-044-サラ": {
+    "number": "UA54BT-MST-1-044-サラ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-045-ゼニス": {
+    "number": "UA54BT-MST-1-045-ゼニス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-046-タルハンド": {
+    "number": "UA54BT-MST-1-046-タルハンド",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-047-パウロ": {
+    "number": "UA54BT-MST-1-047-パウロ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-048-パウロ": {
+    "number": "UA54BT-MST-1-048-パウロ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-049-ルーデウス": {
+    "number": "UA54BT-MST-1-049-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-050-ロキシー": {
+    "number": "UA54BT-MST-1-050-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-051-ロキシー": {
+    "number": "UA54BT-MST-1-051-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-052-ロキシー": {
+    "number": "UA54BT-MST-1-052-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-053-ロキシー": {
+    "number": "UA54BT-MST-1-053-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-054-ロキシー": {
+    "number": "UA54BT-MST-1-054-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-055-アリエル": {
+    "number": "UA54BT-MST-1-055-アリエル",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-056-エリナリーゼ": {
+    "number": "UA54BT-MST-1-056-エリナリーゼ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-057-クリフ": {
+    "number": "UA54BT-MST-1-057-クリフ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-058-ザノバ＆ジュリエット": {
+    "number": "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-059-シルフィエット": {
+    "number": "UA54BT-MST-1-059-シルフィエット",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-060-シルフィエット": {
+    "number": "UA54BT-MST-1-060-シルフィエット",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-061-ナナホシ": {
+    "number": "UA54BT-MST-1-061-ナナホシ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-062-ナナホシ": {
+    "number": "UA54BT-MST-1-062-ナナホシ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-063-ノルン": {
+    "number": "UA54BT-MST-1-063-ノルン",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-064-バーディガーディ": {
+    "number": "UA54BT-MST-1-064-バーディガーディ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-065-フィッツ": {
+    "number": "UA54BT-MST-1-065-フィッツ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-066-フィッツ": {
+    "number": "UA54BT-MST-1-066-フィッツ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-067-フィッツ": {
+    "number": "UA54BT-MST-1-067-フィッツ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-068-フィッツ": {
+    "number": "UA54BT-MST-1-068-フィッツ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-069-プルセナ": {
+    "number": "UA54BT-MST-1-069-プルセナ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-070-リニアーナ": {
+    "number": "UA54BT-MST-1-070-リニアーナ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-071-ルーデウス": {
+    "number": "UA54BT-MST-1-071-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-072-ルーデウス": {
+    "number": "UA54BT-MST-1-072-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-073-ルーデウス": {
+    "number": "UA54BT-MST-1-073-ルーデウス",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-074-転移の迷宮": {
+    "number": "UA54BT-MST-1-074-転移の迷宮",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-075-迷宮都市ラパン": {
+    "number": "UA54BT-MST-1-075-迷宮都市ラパン",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ": {
+    "number": "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-077-今までありがとう": {
+    "number": "UA54BT-MST-1-077-今までありがとう",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-078-守護術師フィッツ": {
+    "number": "UA54BT-MST-1-078-守護術師フィッツ",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-079-ゼニス救出作戦": {
+    "number": "UA54BT-MST-1-079-ゼニス救出作戦",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-080-そう、ボクはシルフィエット": {
+    "number": "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)": {
+    "number": "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UAPR-MST-1-030-ロキシー": {
+    "number": "UAPR-MST-1-030-ロキシー",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UAPR-MST-1-055-アリエル": {
+    "number": "UAPR-MST-1-055-アリエル",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "カードリスト": {
+    "number": "カードリスト",
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.586Z"
+  },
+  "UA20BT/BCV-1-012": {
+    "number": "UA20BT/BCV-1-012",
+    "nameZh": "巴妮莎·艾诺特卡",
+    "effectZh": "[登场时]\n从自己的场外将拥有「黑之暴牛」特征的紫色角色卡 1 张（必要能量为 2 以下）以横置状态登场到场上，或加入雷队。如果场上的其他［特征：黑之暴牛］有 6 张以上，则变为（必要能量为 4 以下）。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:41:12.500Z"
+  },
+  "UA20BT/BCV-1-011": {
+    "number": "UA20BT/BCV-1-011",
+    "nameZh": "诺艾尔·西尔瓦",
+    "effectZh": "[登场时]\n从自己的牌库上方翻开 4 张卡。从中公开至多 1 张［特征：黑之暴牛］并加入手札，其余的按任意顺序置于自己牌库下方。若将卡加入手札，则将自己的一张手札放置于场外。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:40:54.873Z"
+  },
+  "UA20BT/BCV-1-013": {
+    "number": "UA20BT/BCV-1-013",
+    "nameZh": "菲纳尔·鲁拉凯斯",
+    "effectZh": "[登场时]\n将必要的能量为 1 以下的自己场上的其他角色卡 1 张回到手牌。如果无法这样做，则将此角色卡回到手牌。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:41:12.502Z"
+  },
+  "EX01BT/HTR-1-030": {
+    "number": "EX01BT/HTR-1-030",
+    "nameZh": "同行",
+    "effectZh": "",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.588Z"
+  },
+  "UA20BT/BCV-1-007": {
+    "number": "UA20BT/BCV-1-007",
+    "nameZh": "戈登·阿格里帕",
+    "effectZh": "如果对手场上有绿色或红色的卡片，则从自己的手牌中将该卡片的必要能量减少［紫×1］。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:40:22.737Z"
+  },
+  "UA20BT/BCV-1-010": {
+    "number": "UA20BT/BCV-1-010",
+    "nameZh": "涅罗",
+    "effectZh": "[激活主效果]\n变为横置状态\n第 1 回合中，本角色的发生能量 +\n。当主要阶段结束时，使该角色退场。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:40:54.871Z"
+  },
+  "UA20BT/BCV-1-001": {
+    "number": "UA20BT/BCV-1-001",
+    "nameZh": "梅姬尔拉",
+    "effectZh": "[登场时]\n选择对手前线 L 的 1 张角色，直到下个自己回合开始为止，BP-1000。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:45:41.651Z"
+  },
+  "UA20BT/BCV-1-006": {
+    "number": "UA20BT/BCV-1-006",
+    "nameZh": "戈修·阿德拉伊",
+    "effectZh": "［登场时］选择自己场上拥有「黑之暴牛」的特征卡至多 1 张，从自己的手牌或自己的场外中选择与该特征卡同名的必要能量为 2 以下、消耗 AP 为 1 的紫色角色卡至多 1 张在自己的场横置登场。攻击阶段结束时将该角色退场。",
+    "triggerZh": "［颜色］选择自己外场的必要能量为 2 以下、消耗 AP 为 1 的紫色角色卡至多 1 张，在自己的前线 L 激活登场。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:40:22.735Z"
+  },
+  "UA20BT/BCV-1-005": {
+    "number": "UA20BT/BCV-1-005",
+    "nameZh": "格雷",
+    "effectZh": "",
+    "triggerZh": "[Active]\n选择自己场上的 1 张角色，激活之，本回合 BP+3000。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:39:59.377Z"
+  },
+  "UA20BT/BCV-1-015": {
+    "number": "UA20BT/BCV-1-015",
+    "nameZh": "暗部·史希罗",
+    "effectZh": "[登场时]\n若你的场上有 6 张或以上的［特征：黑之暴牛］，选择并让对手场上 BP4000 以下的角色退场。\n[攻击时]\n选择你场上的具有「黑之暴牛」特征的卡一张，本回合中该卡的 BP+1000。",
+    "triggerZh": "[激活]\n选择你的场上的一张卡并将其置为激活状态，本回合中该卡的 BP+3000。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:41:31.854Z"
+  },
+  "EX01BT/HTR-2-001": {
+    "number": "EX01BT/HTR-2-001",
+    "nameZh": "阿文加涅",
+    "effectZh": "登场时",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T17:55:21.589Z"
+  },
+  "UA20BT/BCV-1-019": {
+    "number": "UA20BT/BCV-1-019",
+    "nameZh": "凡妮卡·佐格拉提斯",
+    "effectZh": "［登场时］抽 2 张牌并将自己的手札中一张置于场外。\n［退场时］从自己手札中选择能量为 2 以下、消耗 AP 为 1 的紫色〔[特征：漆黑三极性]或 [特征：恶魔]〕角色卡，将其横置登场至自己场上。",
+    "triggerZh": "［颜色］将一张位于自己场外、能量为 2 以下、消耗 AP 为 1 的紫色角色卡激活登场至自己的前线 L。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:42:09.004Z"
+  },
+  "UA20BT/BCV-1-020": {
+    "number": "UA20BT/BCV-1-020",
+    "nameZh": "泽诺·佐格拉提斯",
+    "effectZh": "[无效化冲击]\n（与此角色战斗的角色在本场战斗中，\n失去［冲击］）",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:42:25.189Z"
+  },
+  "UA20BT/BCV-1-017": {
+    "number": "UA20BT/BCV-1-017",
+    "nameZh": "瓦妮卡·佐格拉提斯",
+    "effectZh": "[退场时]\n从牌库上方抽取 1 张牌，将手札中的 1 张卡置于场外。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:41:48.356Z"
+  },
+  "UA20BT/BCV-1-003": {
+    "number": "UA20BT/BCV-1-003",
+    "nameZh": "阿斯塔尔",
+    "effectZh": "[对手的回合中]\n若己方场上有 4 张或以上的［特征：黑之暴牛］，此角色 BP+500。",
+    "triggerZh": "[激活]\n选择己方场上的 1 张角色并使其处于激活状态，本回合内 BP+3000。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:45:41.656Z"
+  },
+  "UA20BT/BCV-1-018": {
+    "number": "UA20BT/BCV-1-018",
+    "nameZh": "凡妮卡·佐格拉提斯",
+    "effectZh": "当该角色处于激活状态时，将该角色的发生能量 +[紫]。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:42:09.002Z"
+  },
+  "UA20BT/BCV-1-009": {
+    "number": "UA20BT/BCV-1-009",
+    "nameZh": "查米·帕皮通松",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合 BP+1000。",
+    "triggerZh": "［抽牌］\n抽取一张牌。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:40:38.378Z"
+  },
+  "UA20BT/BCV-1-014": {
+    "number": "UA20BT/BCV-1-014",
+    "nameZh": "玛格纳·斯温格",
+    "effectZh": "[登场时]\n若你的场上有其他［特征：黑之暴牛］，抽一张牌并将你的手札中一张卡置于场外。",
+    "triggerZh": "",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:41:31.853Z"
+  },
+  "UA20BT/BCV-1-021": {
+    "number": "UA20BT/BCV-1-021",
+    "nameZh": "泽诺·佐格拉提斯",
+    "effectZh": "[退场时]\n从自己的牌库上方翻开 3 张。从中公开至多 1 张［特征：漆黑三相性］或［特征：恶魔］并加入手牌。将剩余的按任意顺序置于自己牌库下方。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张卡进行激活，本回合 BP+3000。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:42:25.193Z"
+  },
+  "UA20BT/BCV-1-016": {
+    "number": "UA20BT/BCV-1-016",
+    "nameZh": "拉克·博尔蒂亚",
+    "effectZh": "[自己的回合中]\n本角色的 BP+1000。\n[登场时]\n自己场上有其他［特征：黑之暴牛］的卡 6 张以上的场合，将本角色激活。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌。",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:41:48.353Z"
+  },
+  "UA20BT/BCV-1-004": {
+    "number": "UA20BT/BCV-1-004",
+    "nameZh": "阿斯塔",
+    "effectZh": "[Raid]\n〈阿斯塔〉激活并可以移动到前线 L\n如果自己的场上有 4 张或以上的［特征：黑之暴牛］，此角色获得\n[Impact（1）]\n。与此角色战斗的角色在本战斗中失去\n[Impact Nullification]。\n[Retreat]\n可以将自己手札中的 1 张［特征：黑之暴牛］放置到场外。如此时，可以最多将阿斯塔原 Raid 的卡片以横置状态登场至自己的前线 L。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量时进行 Raid",
+    "model": "qwen3.5:4b",
+    "translatedAt": "2026-07-14T18:39:59.376Z"
   }
 }

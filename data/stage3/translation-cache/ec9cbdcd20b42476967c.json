@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:28:23.440Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ec9cbdcd20b42476967c",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-017"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "周 香凛",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "周香凛",
+    "effectZh": "",
+    "triggerZh": "[激活] 选择自己前线的一张角色，将其变为激活状态，本回合中 BP+3000。"
+  }
+}

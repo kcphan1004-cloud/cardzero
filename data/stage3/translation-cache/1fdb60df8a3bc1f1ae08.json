@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:46:50.754Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1fdb60df8a3bc1f1ae08",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-070"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "蚊トンボ膝ロボコ",
+    "effect": "このカードは〈ロボコ〉としても扱う。\n[登場時]\n発生エナジーが1以下で消費APが1の相手のエナジーLのカードを1枚まで選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蚊腿膝机器人科",
+    "effectZh": "这张卡也作为〈机器人科〉处理。\n[登场时]\n选择消耗 AP 为 1、发生能量在 1 以下的对方能量 L 的卡片最多 1 张，使其退场。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

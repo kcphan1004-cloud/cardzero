@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:00:14.741Z",
+  "model": "qwen3.5:9b",
+  "unitId": "899a33a9289acded246a",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-062",
+    "UA07BT/TSK-1-030",
+    "UA07BT/TSK-1-062",
+    "UA07BT/TSK-1-096",
+    "EX09BT/TSK-2-056"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "宴会",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "宴会",
+    "effectZh": "选择至多 2 张自己的 AP 卡，并激活它们。",
+    "triggerZh": "[登场时]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

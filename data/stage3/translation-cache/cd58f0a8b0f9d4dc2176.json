@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:36:58.666Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cd58f0a8b0f9d4dc2176",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-072"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "芹沢 あさひ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "芹泽 明日",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

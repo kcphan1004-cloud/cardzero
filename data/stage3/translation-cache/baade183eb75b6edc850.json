@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:50:46.388Z",
+  "model": "qwen3.5:4b",
+  "unitId": "baade183eb75b6edc850",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-065"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "少しは己のことがわかったようだな…",
+    "effect": "自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+1000。自分の場に〈メレオレオナ・ヴァーミリオン〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "稍微有点明白自己了……",
+    "effectZh": "选择己方场上的角色 1 张，将其激活，本回合 BP+1000。若己方场上存在〈梅雷奥莱诺·瓦米尔伦〉，则抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌"
+  }
+}

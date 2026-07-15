@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:05:13.714Z",
+  "model": "qwen3.5:9b",
+  "unitId": "41adcaf5a8cbd2b15a70",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-037"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "涅 マユリ",
+    "effect": "[登場時]\n自分の場の特徴に「涅骸部隊」を持つキャラを1枚退場させてもよい。そうした場合、そのキャラのBP以下の相手のフロントLのキャラを1枚まで選び、退場させ、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "涅玛郁利",
+    "effectZh": "【登场时】\n可以选择将拥有“骸部队”特征的己方场角色 1 枚退场。如此选择的情况下，从对方前线 L 的角色中选择最多 1 张，使其退场并抽牌 1 张。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:22:49.765Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0ae578dd66e0a7314b3",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-091"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[登場時]\n自分の山札の上から7枚見る。その中から［特徴：ピザ］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "[登场时]\n查看自己牌库上方的 7 张卡。从中公开最多 1 张［特征：披萨］加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[颜色]\n选择 BP2500 以下的对方前线 L 的 1 名角色，使其退场。"
+  }
+}

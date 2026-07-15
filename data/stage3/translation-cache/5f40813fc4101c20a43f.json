@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:46:12.788Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5f40813fc4101c20a43f",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-022"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ゼノン・ゾグラティス",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚退場させてもよい。そうした場合、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "泽诺·佐格拉提斯",
+    "effectZh": "[登场时]\n可以将自己场上的其他角色 1 枚退场。如此操作，抽 2 张牌。",
+    "triggerZh": "[抽取] \n抽 1 张牌。"
+  }
+}

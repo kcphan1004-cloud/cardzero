@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:48.870Z",
+  "number": "UA34BT/CGD-1-057",
+  "name": "ディボック・メルテ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "ネオ・ブリタニア帝国／アインベルク",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[相手のターン中]\n自分の場に〈天空要塞ダモクレス〉がある場合、このキャラはBP+500。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA34BT%2FCGD-1-057",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA34BT%2FCGD-1-057",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

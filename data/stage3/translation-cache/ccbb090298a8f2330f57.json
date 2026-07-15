@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:02:28.110Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ccbb090298a8f2330f57",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-061"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "京極屋",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から〈妓夫太郎〉か〈堕姫〉を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "京极屋",
+    "effectZh": "[启动主]\n[横置]\n[将此卡退场]\n从自己场外最多选择 1 张〈妓夫太郎〉或〈堕姬>加入手牌。",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:27:30.479Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7372a153b1f47551ed57",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-057"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "空喜",
+    "effect": "[退場時]\n自分の効果によって、このキャラが退場している場合、カードを『1枚』引く。自分の〈憎珀天〉の効果で退場したなら、『2枚』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "空喜",
+    "effectZh": "【退场时】\n若此角色因自己的效果而退场，抽 1 张牌。若是因自己〈憎珀天〉的效果而退场，则变为『2 枚』",
+    "triggerZh": "【抽牌】\n抽 1 张牌"
+  }
+}

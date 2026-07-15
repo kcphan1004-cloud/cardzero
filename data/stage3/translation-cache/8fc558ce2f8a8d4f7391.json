@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:30:47.306Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8fc558ce2f8a8d4f7391",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-017"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "三船千鶴",
+    "effect": "[起動メイン]\n[ターン1]\n相手は自身の山札の上から1枚を公開し、自身の山札の上に置く。\n[起動メイン]\n[APを1支払う]\n[ターン1]\n相手は自身の山札の上から1枚を場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三船千鹤",
+    "effectZh": "[启动主效果]\n[回合 1]对方从山札上方公开 1 张牌，并将其置于自身山札上方。\n[启动主效果]\n[支付 1 AP]\n[回合 1]对方将手札上方的 1 张牌置入场外。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

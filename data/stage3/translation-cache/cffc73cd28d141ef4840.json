@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:11:42.269Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cffc73cd28d141ef4840",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-038"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ハンジ・ゾエ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "汉吉·佐耶",
+    "effectZh": "【登场时】\n选择自己场上的其他角色至多 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

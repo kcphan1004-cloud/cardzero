@@ -1,0 +1,45 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:51:07.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a75fce2161c9fcc1e45",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-AP01",
+    "UA04ST/IMS-1-AP02",
+    "UA04BT/IMS-1-AP01",
+    "UA04BT/IMS-1-AP02",
+    "UA04BT/IMS-1-AP03",
+    "UA04BT/IMS-1-AP04",
+    "UA04BT/IMS-1-AP05",
+    "UA04BT/IMS-1-AP06",
+    "EX03BT/IMS-2-AP01",
+    "EX03BT/IMS-2-AP02",
+    "EX03BT/IMS-2-AP03",
+    "EX03BT/IMS-2-AP04",
+    "EX03BT/IMS-2-AP05",
+    "EX03BT/IMS-2-AP06",
+    "EX03BT/IMS-2-AP07",
+    "EX03BT/IMS-2-AP08",
+    "PC01BT/IMS-3-AP01",
+    "PC01BT/IMS-3-AP02",
+    "PC01BT/IMS-3-AP03",
+    "PC01BT/IMS-3-AP04",
+    "PC01BT/IMS-3-AP05",
+    "PC01BT/IMS-3-AP06",
+    "PC01BT/IMS-3-AP07",
+    "PC01BT/IMS-3-AP08"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（偶像大师 闪耀色彩）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

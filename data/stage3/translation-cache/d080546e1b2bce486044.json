@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:38:46.894Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d080546e1b2bce486044",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-020"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ソウエイ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "苍井",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

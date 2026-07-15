@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:52:16.723Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4a49fc2e346dc902ee7",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-050"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "獲るよ！",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。自分の場外から元々のBPが3000以下の赤の［特徴：Straylight］を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "获得！",
+    "effectZh": "抽 1 张牌，将手札中的 1 张置入场外。从自己场外选择最多 1 张原本 BP 为 3000 以下的红色［特征：Straylight］以横置状态登场或进行 Raid。\n[激活]\n选择自己场上的 1 名角色并使其处于激活状态，本回合中，BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

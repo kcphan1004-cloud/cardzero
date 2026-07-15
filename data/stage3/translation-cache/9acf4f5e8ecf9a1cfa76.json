@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:13:01.481Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9acf4f5e8ecf9a1cfa76",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-005",
+    "UA05BT/KMY-1-005",
+    "EX05BT/KMY-3-014"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 炭治郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "灶门炭治郎",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

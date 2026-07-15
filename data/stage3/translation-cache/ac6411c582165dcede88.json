@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:17:25.759Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ac6411c582165dcede88",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-078"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "篠崎 咲世子",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "篠崎咲世子",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": "[激活]\n选择自己场上一张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:08.604Z",
+  "model": "qwen3.5:9b",
+  "unitId": "58e36b6a527bd8b58310",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-081"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゼパイル",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "泽比鲁",
+    "effectZh": "[登场时]\n抽1张牌，并将自己手牌中1张置入场外。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

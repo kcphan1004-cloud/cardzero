@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:21:22.063Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3448c492c1adcde8ab92",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-075",
+    "UA03BT/HTR-1-075",
+    "EX01BT/HTR-2-014"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "贡=弗利克斯",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡加入手牌。"
+  }
+}

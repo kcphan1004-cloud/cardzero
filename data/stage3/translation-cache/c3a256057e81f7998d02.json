@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:40:24.693Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c3a256057e81f7998d02",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-070"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[登場時]\n自分の場外にイベントカードが2枚以上ある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "[登场时]\n自己场外有 2 张以上事件卡时，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:30:48.023Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c81515afea2f48fbe1d",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-081"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "テュオハリム",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "图奥哈利姆",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线 L）、触发器 Zh:",
+    "triggerZh": ""
+  }
+}

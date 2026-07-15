@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:07:14.920Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1982a2a8a5cfc7cdbe87",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-033"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "解放",
+    "effect": "このカードを使用する際に、自分の手札を望む枚数公開する。自分の場と手札から公開した［特徴：爆弾魔］が合計3枚以上ある場合、消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "解放",
+    "effectZh": "使用此卡时，公开我方手札中任意数量的卡片。\n若从我方场上和手札公开的［特征：炸弹魔］合计 3 张以上，则消耗 AP-1。\n选择对方前线 L 的 [BP5000以下] 的角色 1 张，使其退场。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 张，使其退场。"
+  }
+}

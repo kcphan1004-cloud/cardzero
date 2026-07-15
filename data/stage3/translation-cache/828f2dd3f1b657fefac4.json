@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:35:58.032Z",
+  "model": "qwen3.5:9b",
+  "unitId": "828f2dd3f1b657fefac4",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-019"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "爆豪 勝己",
+    "effect": "[自分のターン中]\n自分の場に〈緑谷 出久〉がある場合、このキャラはBP+1000と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "爆豪胜己",
+    "effectZh": "【自己的回合中】\n如果自己的场上有〈绿谷出久〉，这个角色获得 BP+1000 和\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

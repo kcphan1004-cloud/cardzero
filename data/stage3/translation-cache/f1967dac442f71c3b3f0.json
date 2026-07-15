@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:21:22.065Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1967dac442f71c3b3f0",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-083",
+    "UA03BT/HTR-1-083"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "トンパ",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "通帕",
+    "effectZh": "[登场时]\n选择对方场上 BP 为 1500 以上的角色的最多 1 张，使其在本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

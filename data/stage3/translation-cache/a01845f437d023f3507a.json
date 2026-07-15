@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:08:15.569Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a01845f437d023f3507a",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-018"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "姫崎 莉波",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、望む枚数を望む順で山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姬崎莉波",
+    "effectZh": "[登场时]\n查看自己牌库上方 2 张，按任意顺序将希望的数量放回牌库上方，其余放至场外。",
+    "triggerZh": ""
+  }
+}

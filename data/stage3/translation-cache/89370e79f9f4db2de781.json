@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:36:05.863Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89370e79f9f4db2de781",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-003"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ディアブロ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "迪亚波罗",
+    "effectZh": "",
+    "triggerZh": "[获取] \n将这张卡加入手牌。"
+  }
+}

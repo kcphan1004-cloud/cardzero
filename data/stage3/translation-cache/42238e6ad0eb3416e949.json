@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:54.317Z",
+  "model": "qwen3.5:9b",
+  "unitId": "42238e6ad0eb3416e949",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-089"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ポンズ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "庞兹",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:06:45.811Z",
+  "model": "qwen3.5:9b",
+  "unitId": "18e09d5843586417b598",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-015"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "BG9",
+    "effect": "[登場時]\n相手の場にレストのキャラがある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "BG9",
+    "effectZh": "[登场时]\n若对方场上有横置的角色，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:55:06.770Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f4c5ef0b8c243ddd9ef",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-090"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リムル",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[ターン1]\nこのキャラがアタックしてバトルに勝利した時、カードを2枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "【伤害（2）】\n（当该角色通过攻击直接造成伤害时，改为造成 2 点伤害）\n【回合 1】\n当该角色进行攻击并赢得战斗胜利时，抽牌 2 张。",
+    "triggerZh": "【获得】\n将此卡加入手牌。"
+  }
+}

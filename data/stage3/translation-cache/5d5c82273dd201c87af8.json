@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:03:41.862Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5d5c82273dd201c87af8",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-012"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "藤堂 鏡志朗",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "藤堂·镜志朗",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

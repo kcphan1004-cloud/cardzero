@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:18:38.019Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b77e8d5e1a9102f7d176",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-073"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "鳳橋 楼十郎",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凤桥楼十郎",
+    "effectZh": "对方场上有黄或紫的卡片存在时，手牌中此卡的必要能量\n【绿×1】\n减少。",
+    "triggerZh": ""
+  }
+}

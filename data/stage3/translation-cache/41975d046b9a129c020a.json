@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:57:11.574Z",
+  "model": "qwen3.5:9b",
+  "unitId": "41975d046b9a129c020a",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-009"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "満象",
+    "effect": "このキャラはフロントLにある場合もエナジーを発生させる。\n[登場時]\n自分の場の他の［特徴：式神］を1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "满象",
+    "effectZh": "此角色即使位于前线 L 也能产生能量。\n[登场时]\n将己方场地的其他［特征：式神］返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

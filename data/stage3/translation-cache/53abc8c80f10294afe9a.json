@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:38:22.269Z",
+  "model": "qwen3.5:9b",
+  "unitId": "53abc8c80f10294afe9a",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-041"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "メイコ",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美子",
+    "effectZh": "对方场上有黄或绿的卡时，手牌中此卡的必要能量减少\n[蓝×1]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:36:18.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "254e525893397af95859",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-044"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "卜部 巧雪",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "卜部·巧雪",
+    "effectZh": "",
+    "triggerZh": "[抽牌] 抽 1 张牌。"
+  }
+}

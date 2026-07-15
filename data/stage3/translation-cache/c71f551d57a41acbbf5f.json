@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:49:40.483Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c71f551d57a41acbbf5f",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-055",
+    "EX04BT/JJK-3-054"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "パンダ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "熊猫",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": ""
+  }
+}

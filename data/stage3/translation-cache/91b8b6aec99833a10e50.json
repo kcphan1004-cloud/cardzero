@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:27:35.356Z",
+  "model": "qwen3.5:9b",
+  "unitId": "91b8b6aec99833a10e50",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-020"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ブレイズ",
+    "effect": "[アタック時]\n自分の手札を1枚場外に置いてもよい。そうした場合、BP1000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "烈焰",
+    "effectZh": "【攻击时】\n可以将自己手札中的 1 张牌置入场外。如此做的话，选择 BP1000 以下的对方前线 L 的角色至多 1 张，使其退场。",
+    "triggerZh": "【色相】\n选择 BP3500 以下的对方前线 L 的角色 1 张，将其返回手札。"
+  }
+}

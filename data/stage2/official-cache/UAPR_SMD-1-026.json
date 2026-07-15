@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:17:07.649Z",
+  "number": "UAPR/SMD-1-026",
+  "name": "坂本 太郎",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "UR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "坂本商店",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈坂本 太郎〉アクティブにし、フロントLに移動できる\n自分のアタックフェイズ終了時、レイド状態のこのキャラの一番上のカードを場外に置く。\n[登場時]\nこのキャラはこのターン中、BP+1000と\n[インパクト（1）]\nを得る。自分の山札の上から5枚見る。その中から〈坂本商店〉かBP3500以下で消費APが1の黄のキャラカードを1枚まで自分の場にアクティブで登場させる。残りを望む順で山札の下に置く。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UAPR%2FSMD-1-026",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FSMD-1-026",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:31:30.434Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4b9cecf0fb547c0e35dd",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-024"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "黎 星刻",
+    "effect": "[自分のターン中]\n自分の場に〈天子〉がある場合、このキャラはBP+500。\n[登場時]\nカードを2枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黎·星刻",
+    "effectZh": "【自己的回合中】\n若己方场上有〈天子〉存在，该角色 BP+500。\n【登场时】\n抽 2 张牌，将自身手札中的 2 张置入场外。",
+    "triggerZh": "【抽取】\n抽 1 张牌。"
+  }
+}

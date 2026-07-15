@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:48:49.279Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c85858e79367bd3cf2c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-044"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "月岡 恋鐘",
+    "effect": "[退場時]\n自分の山札の上から3枚見る。その中から［特徴：L'Antica］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "月冈 恋钟",
+    "effectZh": "[退场时]\n查看自己牌库上方的3张，从中公开最多1张［特征：L'Antica］并加入手牌。将剩余的部分按任意顺序放回自己牌库下方。",
+    "triggerZh": ""
+  }
+}

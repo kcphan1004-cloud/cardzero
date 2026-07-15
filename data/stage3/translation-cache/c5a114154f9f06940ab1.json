@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:05:19.901Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c5a114154f9f06940ab1",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-020"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゲンスルー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "刚察鲁",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

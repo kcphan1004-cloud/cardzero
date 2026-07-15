@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:32:10.369Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2262701ccd802c176d6",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-003"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "オールマイト",
+    "effect": "自分の場と場外に異なるカード名の［特徴：ワン・フォー・オール］が合計3種類以上ある場合、このキャラの発生エナジー+\n[黄]\n。\n[起動メイン]\n[レストにする]\n自分の手札の［特徴：ワン・フォー・オール］を1枚場外に置く。そうした場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "欧尔麦特",
+    "effectZh": "若自己场上和场外的不同卡牌名称的［特征：One For All］合计有 3 种以上，此角色的产生能量+\n[黄]\n。\n[启动主]\n[横置]\n将手牌中的［特征：One For All］1 张置为场外。如此情况时，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

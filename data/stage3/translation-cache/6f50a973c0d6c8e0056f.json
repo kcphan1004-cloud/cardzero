@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:07:14.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6f50a973c0d6c8e0056f",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-034"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ウボォーギン",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[自分のターン中]\nこのキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "乌波奥金",
+    "effectZh": "[伤害（2）]\n（此角色攻击直接造成伤害时，代替造成 2 点伤害）\n[我方回合中]\n此角色的 BP+1500。",
+    "triggerZh": ""
+  }
+}

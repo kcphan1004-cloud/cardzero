@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:42:25.189Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9dfa1baeff8c14df9b61",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-020"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ゼノン・ゾグラティス",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泽诺·佐格拉提斯",
+    "effectZh": "[无效化冲击]\n（与此角色战斗的角色在本场战斗中，\n失去［冲击］）",
+    "triggerZh": ""
+  }
+}

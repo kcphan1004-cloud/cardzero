@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:27:31.056Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c3ecdce410319e0db60f",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-105"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "阿散井 恋次",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿散井 恋次",
+    "effectZh": "[登场时]\n选择对方前线L的角色至多1张，本回合中，BP-3000。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多1张并激活，本回合中，BP+3000。"
+  }
+}

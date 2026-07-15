@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:17:15.146Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6de124ce3aa4057c3030",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-067"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "お母さんか！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "是妈妈吗！",
+    "effectZh": "选择至多 2 张自己的 AP 牌并使其处于激活状态。",
+    "triggerZh": "[最终]\n当自己没有生命值时，从自己的山札上方取置 1 张卡到自己的生命区域。"
+  }
+}

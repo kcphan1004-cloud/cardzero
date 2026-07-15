@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:48.357Z",
+  "number": "UA34BT/CGD-1-054",
+  "name": "クリストフ・シザーマン",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500+",
+  "feature": "ネオ・ブリタニア帝国／アインベルク",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[起動メイン]\n[ターン1]\n自分の場の他のキャラを1枚退場させる。そうした場合、このキャラはこのターン中、BP+2500。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA34BT%2FCGD-1-054",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA34BT%2FCGD-1-054",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "blue",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:24:19.292Z",
+  "model": "qwen3.5:9b",
+  "unitId": "51771d1f56678e55a32d",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-038"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シリカ",
+    "effect": "[登場時]\nこのターン中に自分が［特徴：歌］を使用している場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西尔卡",
+    "effectZh": "[登场时]\n若本回合内自己使用了［特征：歌］，则抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

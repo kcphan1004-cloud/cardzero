@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:00.811Z",
+  "number": "UA17BT/TRK-1-088",
+  "name": "スタージュン",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "美食會／副料理長",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈スタージュン〉アクティブにし、フロントLに移動できる\nこのキャラがアタックしてブロックされなかった時、カードを1枚引く。\n[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、BP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA17BT%2FTRK-1-088",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA17BT%2FTRK-1-088",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

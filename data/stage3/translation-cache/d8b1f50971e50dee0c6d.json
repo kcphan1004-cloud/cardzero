@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:27:19.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d8b1f50971e50dee0c6d",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-051"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "兎沢 深澄",
+    "effect": "このカードは〈ミト〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "兎沢深澄",
+    "effectZh": "此卡也作为〈米特〉处理。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:58:39.658Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6564ef46806c5b865dfd",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-045",
+    "UA02BT/JJK-1-045"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "五条 悟",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "五条悟",
+    "effectZh": "此角色处于激活状态时，该角色的产生能量 +\n[青]\n。",
+    "triggerZh": ""
+  }
+}

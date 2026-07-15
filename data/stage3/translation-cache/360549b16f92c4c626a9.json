@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:40:51.067Z",
+  "model": "qwen3.5:9b",
+  "unitId": "360549b16f92c4c626a9",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-013"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "三峰 結華",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三峰 结华",
+    "effectZh": "[登场时]\n抽 1 张牌，并将手牌中的 1 张卡片放置于场外。”",
+    "triggerZh": "[Draw] \n抽 1 张牌。"
+  }
+}

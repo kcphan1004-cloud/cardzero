@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:02:08.757Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c0ecd47c26d3d03e0eb5",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-024"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "四楓院 夜一",
+    "effect": "[自分のターン中]\nこのキャラはBP+500。\n[登場時]\nこのターン中に自分の手札を場外に置いている場合、自分の手札から、必要エナジーが1以下で消費APが1の特徴を持たない青のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "四枫院夜一",
+    "effectZh": "[自己的回合中]\n该角色 BP+500。\n[登场时]\n如果本回合内自己将手牌置于场外，则最多从自己手牌中选择 1 张消耗 AP 为 1、拥有“青”特征且无需消耗能量的蓝色角色卡以横置状态登场到自己的场上。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

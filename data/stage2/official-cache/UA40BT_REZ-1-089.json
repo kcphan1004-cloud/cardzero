@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:39.405Z",
+  "number": "UA40BT/REZ-1-089",
+  "name": "エミリア",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "王選候補者",
+  "generatedEnergy": "-",
+  "effect": "[レイド]\n〈エミリア〉アクティブにし、フロントLに移動できる\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\nこのキャラはBP2000以下のキャラにブロックされない。\nこのキャラがアタックしてブロックされなかった時、相手のフロントLのキャラを1枚まで選び、レストにする。\n[起動メイン]\n[エナジーLにある場合]\n[ターン1]\n自分のフロントLのキャラを1枚選び、このキャラと位置を入れ替える。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-089",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-089",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

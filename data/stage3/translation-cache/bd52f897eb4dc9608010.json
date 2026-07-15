@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:22:49.766Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bd52f897eb4dc9608010",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-092"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "[レイド]\n〈ルルーシュ・ランペルージ〉アクティブにし、フロントLに移動できる\n[登場時]\n『BP2000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場外にイベントカードが4枚以上ある場合、『BP4000以下』に代わる。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩路基",
+    "effectZh": "[Raid]\n〈鲁路修·兰佩路基〉激活并移动到前线 L\n[登场时]\n选择对方「BP 2000 以下」的前线 L 的 1 张角色，使其退场。若自己场外有 4 枚以上的事件卡，则改为「BP 4000 以下」。",
+    "triggerZh": "[Raid]\n将此牌加入手札或满足必要能量时发动 Raid。"
+  }
+}

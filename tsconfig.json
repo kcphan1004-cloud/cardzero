@@ -30,5 +30,10 @@
     ".next/dev/types/**/*.ts",
     "**/*.mts"
   ],
-  "exclude": ["node_modules"]
+  "exclude": [
+    "node_modules",
+    "data/card-series-backups",
+    "data/stage2/backups",
+    "data/stage3/backups"
+  ]
 }

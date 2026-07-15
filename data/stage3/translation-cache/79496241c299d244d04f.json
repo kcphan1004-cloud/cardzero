@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:21:24.274Z",
+  "model": "qwen3.5:9b",
+  "unitId": "79496241c299d244d04f",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-091"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "山本 重國",
+    "effect": "このカードは〈山本 元柳斎 重國〉としても扱う。\n自分のフロントLに他のキャラがない場合、このキャラはBP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "山本重国",
+    "effectZh": "这张卡也作为〈山本元柳斋重国〉处理。\n若自己的前线 L 没有其他角色，该角色的 BP+1000。",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

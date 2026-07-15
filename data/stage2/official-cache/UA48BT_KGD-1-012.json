@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:54.255Z",
+  "number": "UA48BT/KGD-1-012",
+  "name": "汗明",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000+",
+  "feature": "楚",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈汗明〉アクティブにし、フロントLに移動できる\n[ダメージ（2）]\n（このキャラがアタックで与える直接ダメージは2ダメージ）\n[自分のターン中]\n[フロントLにある場合]\n自分の場の［特徴：楚］全ては、BP+2000。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\nカードを1枚引く。自分のフロントLに他のキャラがない場合、このターン中、次に手札から使用する〈誰が至強か!?〉か〈ドドンド ドンドン 汗明!!〉の消費APを-1する。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA48BT%2FKGD-1-012",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA48BT%2FKGD-1-012",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

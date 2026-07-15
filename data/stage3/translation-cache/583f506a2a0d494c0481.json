@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:30:00.262Z",
+  "model": "qwen3.5:9b",
+  "unitId": "583f506a2a0d494c0481",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-106"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "無頼",
+    "effect": "[レイド]\n［特徴：黒の騎士団］アクティブにし、フロントLに移動できる\n[登場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "无赖者",
+    "effectZh": "[Raid]\n［特征：黑色骑士团］激活并移动至前线 L\n[登场时]\n抽 1 张牌。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

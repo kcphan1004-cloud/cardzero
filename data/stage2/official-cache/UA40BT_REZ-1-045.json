@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:31.953Z",
+  "number": "UA40BT/REZ-1-045",
+  "name": "ミミ・パールバトン",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500+",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[起動メイン]\n[ターン1]\n自分の手札を1枚公開し、自分の山札の下に置く。公開したカードがBP4000以上のキャラカードの場合、このキャラはこのターン中、BP+2500。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-045",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-045",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "blue",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

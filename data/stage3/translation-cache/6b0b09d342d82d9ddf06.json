@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:12:58.570Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b0b09d342d82d9ddf06",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-056"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "シルバ",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[起動メイン]\n[手札を2枚場外に置く]\nこのキャラはこのターン中、\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、指定した場合、相手はブロックできない）を得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "西索",
+    "effectZh": "【冲击（1）】\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）\n【启动主效果】\n【将手牌中的 2 张卡置入场外】\n本角色在本回合中，获得\n【狙击】\n（指定对手的 Front L 区域的角色进行攻击，若被指定则对方无法阻挡）。",
+    "triggerZh": "【获取】\n将此卡加入你的手牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:19.613Z",
+  "number": "UA22BT/GMR-1-055",
+  "name": "ブロディ",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "子供",
+  "generatedEnergy": "绿色×1",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のエナジーLの緑のキャラを1枚選び、アクティブにする。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA22BT%2FGMR-1-055",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-055",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

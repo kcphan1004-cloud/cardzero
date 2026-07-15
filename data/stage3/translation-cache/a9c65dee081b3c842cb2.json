@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:17:34.103Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9c65dee081b3c842cb2",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-008"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "シオン",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西恩",
+    "effectZh": "［退场时］\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

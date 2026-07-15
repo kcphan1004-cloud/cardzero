@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:44:59.820Z",
+  "model": "qwen3.5:9b",
+  "unitId": "01ef6f71892bf33c0c6a",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-025"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "月岡 恋鐘",
+    "effect": "[登場時]\n自分の場外の必要エナジーが3以下の紫の［特徴：L'Antica］を1枚まで自分の山札の上に置く。\n[退場時]\n自分の山札の上から1枚まで場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "月冈 恋钟",
+    "effectZh": "【登场时】\n将场外必要的能量为 3 以下的紫的［特征：L'Antica］最多放置 1 张到自己的牌库上方。\n【退场时】\n从自己的牌库上方最多放置 1 张到场外。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

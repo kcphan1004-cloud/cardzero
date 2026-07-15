@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:24:08.513Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b12ff33cf59c79fb0587",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-006"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "パトリオット",
+    "effect": "[登場時]\n相手は自身の場のアクティブのキャラを2枚レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "爱国者",
+    "effectZh": "【登场时】\n对方将自身场上的激活角色横置 2 张。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

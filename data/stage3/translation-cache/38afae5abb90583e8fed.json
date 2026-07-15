@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:51:59.810Z",
+  "model": "qwen3.5:9b",
+  "unitId": "38afae5abb90583e8fed",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-093"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ニョンタ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尼昂塔",
+    "effectZh": "【自己的回合中】\n该角色 BP 为 +1000。",
+    "triggerZh": ""
+  }
+}

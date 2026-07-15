@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:39:57.314Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1e910abcdb202712fa58",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-092"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "杜野 凛世",
+    "effect": "[レイド]\n〈杜野 凛世〉アクティブにし、フロントLに移動できる\n[アタック時]\n同じラインに他のレストのキャラがない場合、自分の手札から必要エナジーが3以下で消費APが1の特徴に「放課後クライマックスガールズ」を持つキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "杜野凛世",
+    "effectZh": "【Raid】\n将〈杜野凛世〉激活并移动至前线\n【攻击时】\n同一线没有其他横置角色的情况下，从自己手牌中选择拥有“放学后 Climax Girls”特征且必要能量为 3 以下、消耗 AP 为 1 的角色卡最多 1 张，以横置状态登场到自己的场上。",
+    "triggerZh": "【Get】\n将此牌加入手牌。"
+  }
+}

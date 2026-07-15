@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:54:48.088Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fad48eb427ce9c4800b3",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-047"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダースカル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[緑]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士骷髅",
+    "effectZh": "【启动主阶段】\n【横置状态】\n【回合1】\n该角色在本回合中，发生能量+\n[绿]\n并获得「主阶段结束时，将该角色退场。」。",
+    "triggerZh": ""
+  }
+}

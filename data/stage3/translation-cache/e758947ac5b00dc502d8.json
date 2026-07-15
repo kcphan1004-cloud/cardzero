@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:09:43.276Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e758947ac5b00dc502d8",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-051"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "カルト",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡尔托",
+    "effectZh": "当此角色处于激活状态时，此角色的发生能量+\n［紫色］\n。",
+    "triggerZh": ""
+  }
+}

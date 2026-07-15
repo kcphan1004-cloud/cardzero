@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:44:10.236Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a3c263a440cec7170f46",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-061"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リザレクション",
+    "effect": "自分の場外からキャラカードを1枚まで手札に加える。自分の場に〈ルミナス〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "复活",
+    "effectZh": "从己方场外将最多一张角色卡加入手牌。如果己方场上有「卢米纳斯」，则抽 1 张牌。",
+    "triggerZh": "【抽】\n抽 1 张牌。"
+  }
+}

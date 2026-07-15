@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:16:08.994Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8a757dd65e6e4ea9bac9",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-063"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "花海 咲季",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[自分のターン中]\n自分のフロントLに〈月村 手毬〉と〈藤田 ことね〉がある場合、このキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花海 咲季",
+    "effectZh": "【无效冲击】\n（与此角色进行战斗的角色在本战斗中失去冲击）\n【自己的回合中】\n如果前线 L 有〈月村 手毬〉和〈藤田 ことね〉，该角色获得 BP+1500。",
+    "triggerZh": ""
+  }
+}

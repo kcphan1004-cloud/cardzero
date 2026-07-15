@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:46.662Z",
+  "number": "EX10BT/AOT-2-003",
+  "name": "ガビ・ブラウン",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "-",
+  "generatedEnergy": "黄色×3",
+  "effect": "[登場時]\n自分の場に［特徴：地鳴らし］以外の黄のキャラのカード名が4種類以上ある場合、自分の場の他のキャラを1枚まで選び、このターン中、BP+1500。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX10BT%2FAOT-2-003",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX10BT%2FAOT-2-003",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

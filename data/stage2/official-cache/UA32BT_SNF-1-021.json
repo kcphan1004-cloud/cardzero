@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:13.141Z",
+  "number": "UA32BT/SNF-1-021",
+  "name": "サイガ-0",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "黒狼",
+  "generatedEnergy": "绿色×3",
+  "effect": "[登場時]\nこのターン中、自分の手札の全てのイベントカードの必要エナジーを\n[緑×1]\n減らす。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA32BT%2FSNF-1-021",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-021",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 3
+      }
+    ]
+  }
+}

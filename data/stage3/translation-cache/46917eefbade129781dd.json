@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:18:20.691Z",
+  "model": "qwen3.5:9b",
+  "unitId": "46917eefbade129781dd",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-085"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ニーナ・アインシュタイン",
+    "effect": "相手の場に紫か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妮娜·爱因斯坦",
+    "effectZh": "对方场上有紫色或绿色的卡时，减少手札中此卡的必要能量\n[赤×1]\n。",
+    "triggerZh": ""
+  }
+}

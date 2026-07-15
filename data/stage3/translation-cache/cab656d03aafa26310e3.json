@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:53.920Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cab656d03aafa26310e3",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA01NC/KMY-2-003"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "伊黒 小芭内",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伊黑 小芭内",
+    "effectZh": "",
+    "triggerZh": "【抽牌】\n抽一张牌。"
+  }
+}

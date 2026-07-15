@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:26:10.223Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f8b89c2547fe165cdb19",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-046"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キバオウ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "基巴兽王",
+    "effectZh": "[登场时]\n将自身场上除外的其他角色 1 张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

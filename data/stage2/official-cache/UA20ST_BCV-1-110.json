@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:47:22.651Z",
+  "number": "UA20ST/BCV-1-110",
+  "name": "アスタ",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 1,
+  "ap": 1,
+  "bp": "2000+",
+  "feature": "黒の暴牛",
+  "generatedEnergy": "紫色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[自分のターン中]\n自分の場に他の［特徴：黒の暴牛］が4枚以上ある場合、このキャラはBP+1000。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA20ST%2FBCV-1-110",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20ST%2FBCV-1-110",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

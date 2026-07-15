@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:40.665Z",
+  "number": "UA34BT/CGD-1-009",
+  "name": "物部 勲",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "七煌星団",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n以下から1つ選ぶ。\n・BP2000以下の相手のフロントLのキャラを1枚まで選び、退場させる。\n・自分の手札の必要エナジーが3以下の［特徴：KMF］を1枚場外に置く。そうした場合、BP4000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA34BT%2FCGD-1-009",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA34BT%2FCGD-1-009",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:31:20.090Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ee70b456c708a1ebb7b4",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-AP01/S"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

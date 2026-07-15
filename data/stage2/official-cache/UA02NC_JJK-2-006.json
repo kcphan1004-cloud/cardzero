@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:52.494Z",
+  "number": "UA02NC/JJK-2-006",
+  "name": "虎杖 悠仁",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SP",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "-",
+  "generatedEnergy": "蓝色×2",
+  "effect": "自分の場外に〈宿儺の指〉がある場合、このキャラの発生エナジー+\n[青]\n。",
+  "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA02NC%2FJJK-2-006",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA02NC%2FJJK-2-006",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 2
+      }
+    ]
+  }
+}

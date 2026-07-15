@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:36:56.862Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0e5cfc641c05ec286a3e",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-010"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リムル",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "",
+    "triggerZh": "【抽牌触发器】\n抽 1 张牌。"
+  }
+}

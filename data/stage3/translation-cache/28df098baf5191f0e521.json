@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:58:32.901Z",
+  "model": "qwen3.5:9b",
+  "unitId": "28df098baf5191f0e521",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-020"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "新田 明",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "新田 明",
+    "effectZh": "",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

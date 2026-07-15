@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:08:13.141Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef14647dce9a2f8d9454",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-025"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "黒の賢人",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選ぶ。相手はそのキャラを自身のエナジーLに移動させるか、自身のエナジーLのキャラ1枚と入れ替える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑之贤人",
+    "effectZh": "[登场时]\n最多选择对方前线 L 的 1 张角色。对手将该角色移动至自身的能量线，或与其自身能量线上的 1 枚角色交换位置。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

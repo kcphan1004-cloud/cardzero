@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:57:58.318Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8bcc9ba851228f9a4ff6",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-039"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "響凱",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "响凯",
+    "effectZh": "对方场上有黄或红色的卡时，将手札中的这张卡的必要能量 [紫×1] 减少。",
+    "triggerZh": ""
+  }
+}

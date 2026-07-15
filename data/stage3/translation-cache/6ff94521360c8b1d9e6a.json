@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:13:19.913Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ff94521360c8b1d9e6a",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-032"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "血装",
+    "effect": "以下から1つ選ぶ。\n・自分の場のキャラを1枚まで選び、このターン中、BP+1000。\n・相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "血装",
+    "effectZh": "从以下效果中选择 1 个。\n•最多选择自己场上的 1 张角色卡，本回合中 BP+1000。\n•最多选择对方前线 L 的 1 张角色卡，本回合中 BP-1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

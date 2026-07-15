@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:37:51.693Z",
+  "model": "qwen3.5:9b",
+  "unitId": "63e599faa6717f90292b",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-014"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "クロベエ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克罗贝耶",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多 1 枚，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

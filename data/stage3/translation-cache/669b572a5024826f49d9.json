@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:32:43.593Z",
+  "model": "qwen3.5:9b",
+  "unitId": "669b572a5024826f49d9",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-052"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "市川 雛菜",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "市川雏菜",
+    "effectZh": "",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

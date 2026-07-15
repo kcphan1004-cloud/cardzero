@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:52.694Z",
+  "number": "UA41BT/RNK-1-045",
+  "name": "緋村 剣心",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "2000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[登場時]\n自分の山札の上から2枚見る。その中から特徴を持たない紫のカードを1枚まで場外に置く。残りを望む順で山札の上に置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA41BT%2FRNK-1-045",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA41BT%2FRNK-1-045",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "purple",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

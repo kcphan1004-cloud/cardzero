@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:50:41.616Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b08f3f3c94df73f3b5d8",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-065"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "屠坐魔",
+    "effect": "自分のフロントLのキャラを1枚まで選び、このターン中、BP+2000。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "屠坐魔",
+    "effectZh": "己方前线 L 的角色最多选择一张，本回合中 BP+2000。抽牌。",
+    "triggerZh": "[抽取]\n抽牌。"
+  }
+}

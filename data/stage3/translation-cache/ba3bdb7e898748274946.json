@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:19:25.182Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ba3bdb7e898748274946",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-080"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "更木 剣八",
+    "effect": "このキャラはBPをマイナスする効果を受けない。\n[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "更木剑八",
+    "effectZh": "此角色不受减少BP的效果影响。\n[在自己的回合中]\n此角色的BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多1张，使其处于激活状态，本回合中，BP+3000。"
+  }
+}

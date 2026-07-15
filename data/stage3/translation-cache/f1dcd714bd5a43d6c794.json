@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:54.144Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1dcd714bd5a43d6c794",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-064",
+    "UA08BT/BLC-1-064"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "月牙天衝",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈黒崎 一護〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "月牙天冲",
+    "effectZh": "『BP 3000 以下』的对方前线 L 的角色选择一张并退场。自己场上有〈黑崎一护〉时，改为『BP 5000 以下』。",
+    "triggerZh": "[特殊]\n对方的前线 L 的角色选择一张并退场。"
+  }
+}

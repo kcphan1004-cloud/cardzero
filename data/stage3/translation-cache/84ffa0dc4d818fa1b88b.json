@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:40:51.062Z",
+  "model": "qwen3.5:9b",
+  "unitId": "84ffa0dc4d818fa1b88b",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-009"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "私たちらしく",
+    "effect": "自分の山札の上から6枚見て、必要エナジーが2以下の黄の［特徴：ALSTROEMERIA］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。このカードをリムーブエリアに置く。自分の場外にあるカードが0枚の場合、自分の手札から必要エナジーが1以下で消費APが1の黄の［特徴：ALSTROEMERIA］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "像我们一样",
+    "effectZh": "从自己的牌库上方查看 6 张，将最多 1 张必要能量为 2 以下的黄色［特征：ALSTROEMERIA］公开并加入手牌。其余的按任意顺序置于牌库下方。将此卡放置于移除区。当自己场外的卡片数量为 0 时，从自己的手牌中将最多 1 张必要能量为 1 以下且消耗 AP 为 1 的黄色［特征：ALSTROEMERIA］以横置状态登场。”",
+    "triggerZh": "[Get] \n将此卡加入手牌。"
+  }
+}

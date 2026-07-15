@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:14:22.032Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6f365a023984ec690c4a",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-061"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "試しの門",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場のアクティブのキャラを1枚レストにする。そうした場合、『カードを1枚引き、自分の手札を1枚場外に置く』。BP3000以上のキャラをレストしていた場合、『カードを1枚引く』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "试炼之门",
+    "effectZh": "【启动主】\n【横置】\n将自己场上的激活角色 1 张横置。如此情况时，『抽 1 张牌、将自己手牌中 1 张置于场外』。若横置了 BP3000 以上的角色，则替换为『抽 1 张牌』。",
+    "triggerZh": ""
+  }
+}

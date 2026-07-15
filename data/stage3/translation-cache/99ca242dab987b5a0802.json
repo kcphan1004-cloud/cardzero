@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:43:45.797Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99ca242dab987b5a0802",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-012"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "七草 にちか",
+    "effect": "[登場時]\n自分の手札の［特徴：SHHis］を1枚場外に置いてもよい。そうした場合、自分の山札の上から4枚見る。その中からキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "七草 日香",
+    "effectZh": "【登场时】\n可以将自己手牌的［特征：SHHis］最多一张置入场外。如此做的话，查看自己的牌库上方 4 张卡。从中公开最多一张角色卡并加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

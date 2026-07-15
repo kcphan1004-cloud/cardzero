@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:01.915Z",
+  "number": "EX11BT/ARK-2-018",
+  "name": "ニアール",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "ロドス・アイランド製薬",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[退場時]\n自分のライフが6以下の場合、自分の手札を1枚場外に置いてもよい。そうした場合、このカードを自分のライフエリアに表向きで置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX11BT%2FARK-2-018",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX11BT%2FARK-2-018",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

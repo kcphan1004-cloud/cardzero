@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:05:48.675Z",
+  "number": "UA21BT/YYH-1-002",
+  "name": "美しい魔闘家鈴木",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[レイド]\n〈美しい魔闘家鈴木〉アクティブにし、フロントLに移動できる\n[登場時]\n〈美しい魔闘家鈴木〉以外の自分の場の必要エナジーが4以下のキャラを1枚まで選び、そのキャラが持つ全ての\n[登場時]\nをこのキャラが発動する。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA21BT%2FYYH-1-002",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA21BT%2FYYH-1-002",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

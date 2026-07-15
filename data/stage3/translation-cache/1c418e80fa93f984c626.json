@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:13:19.914Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c418e80fa93f984c626",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-033"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "星章化",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。相手の場にレイド状態のキャラがあるか、自分の場に〈ユーハバッハ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "星章化",
+    "effectZh": "选择对方前线 L 的【BP3000 以下】的 1 张角色卡，使其退场。对方场上有处于 Raid 状态的角色卡或自己场上有〈友哈巴赫〉的情况下，改为“【BP5000 以下】”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 张角色卡，使其退场。"
+  }
+}

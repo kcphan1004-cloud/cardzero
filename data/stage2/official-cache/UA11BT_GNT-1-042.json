@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:50.976Z",
+  "number": "UA11BT/GNT-1-042",
+  "name": "神威",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000+",
+  "feature": "宇宙海賊春雨",
+  "generatedEnergy": "紫色×1",
+  "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[ターン1]\nこのキャラがアタックしてバトルに勝利した時、このキャラをアクティブにする。\n[登場時]\nカードを3枚引き、自分の手札を2枚場外に置く。",
+  "trigger": "[アクティブ]\n自分の場のキャラクターを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA11BT%2FGNT-1-042",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA11BT%2FGNT-1-042",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

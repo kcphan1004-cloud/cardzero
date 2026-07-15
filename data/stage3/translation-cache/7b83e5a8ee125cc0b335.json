@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:58:32.899Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7b83e5a8ee125cc0b335",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-018"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "七海 建人",
+    "effect": "[相手のターン中]\n自分の山札が15枚以下の場合、このキャラはBP+1000と\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）を得る。\n[登場時]\n自分の山札の上から1枚まで場外に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "七海 建人",
+    "effectZh": "[对手的回合]\n当自己牌库为 15 张或更少时，此角色获得 BP+1000 和\n[Impact无效] \n（与此角色进行战斗的角色在本场战斗中失去 [Impact]）\n[登场时]\n将最多 1 张从自己的牌库上方置入场外。",
+    "triggerZh": "[Color]\n选择 BP3500 以下的对手的 frontline L 的角色至多 1 枚，将其返回手札。"
+  }
+}

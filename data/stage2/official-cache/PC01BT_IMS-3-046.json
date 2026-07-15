@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:01.323Z",
+  "number": "PC01BT/IMS-3-046",
+  "name": "小宮 果穂",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "放課後クライマックスガールズ",
+  "generatedEnergy": "红色×1",
+  "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[レイド]\n〈小宮 果穂〉アクティブにし、フロントLに移動できる\n[自分のターン中]\nこのキャラはBP+500。\n[アタック時]\n[ターン1]\n同じラインに他のレストのキャラがない場合、自分の場の他の［特徴：放課後クライマックスガールズ］を1枚手札に戻してもよい。そうした場合、自分の手札から必要エナジーが3以下で消費APが1の赤の［特徴：放課後クライマックスガールズ］を1枚まで自分の場にアクティブで登場させる。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC01BT%2FIMS-3-046",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC01BT%2FIMS-3-046",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

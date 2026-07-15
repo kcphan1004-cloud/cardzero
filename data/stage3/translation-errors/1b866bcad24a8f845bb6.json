@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-15T15:11:04.494Z",
+  "unitId": "1b866bcad24a8f845bb6",
+  "cardNumbers": [
+    "UA08BT/BLC-1-022"
+  ],
+  "error": "UA08BT/BLC-1-021 缺少翻译结果。"
+}

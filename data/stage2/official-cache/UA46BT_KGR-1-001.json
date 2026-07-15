@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:16.804Z",
+  "number": "UA46BT/KGR-1-001",
+  "name": "漣 京羅",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[登場時]\n自分の山札の上から5枚見て、3枚を裏向きでこのキャラの下に置く。残りを望む順で山札の下に置く。\n[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\nこのキャラの下か自分の場の〈楽座市〉の下の裏向きのカードから1枚まで公開し、『手札に加え、このキャラをアクティブにする』。公開したカードが［特徴：濤］の場合、『自分の場にアクティブで登場させる』に代えてもよい。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA46BT%2FKGR-1-001",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA46BT%2FKGR-1-001",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

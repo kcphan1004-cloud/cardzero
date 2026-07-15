@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:34:24.858Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4299c1d5bd61b210d1e0",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-015"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シズ",
+    "effect": "[登場時]\nカードを1枚引く。\n[アタック時]\n自分の手札を1枚場外に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "希兹",
+    "effectZh": "[登场时]\n抽 1 张牌。\n[攻击时]\n将手牌中的卡 1 张置入场外。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 BP3500 以下的角色 1 张，放回手牌。"
+  }
+}

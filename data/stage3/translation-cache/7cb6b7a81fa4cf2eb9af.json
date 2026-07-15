@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:06:08.732Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7cb6b7a81fa4cf2eb9af",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-009"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "雨夜 燕",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、［特徴：3年生］を1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雨夜燕",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡，将［特征：三年级］最多 1 张置为场外，剩余的按任意顺序放回牌库上方。",
+    "triggerZh": ""
+  }
+}

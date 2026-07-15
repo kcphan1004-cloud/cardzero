@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:24:19.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a67e40604d0ba55f262d",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-041"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "[登场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

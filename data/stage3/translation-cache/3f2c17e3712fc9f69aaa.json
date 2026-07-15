@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:39:11.258Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f2c17e3712fc9f69aaa",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-030"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "四ノ森 避影",
+    "effect": "[自分のターン中]\n自分の場と場外に異なるカード名の［特徴：ワン・フォー・オール］が合計3種類以上あり、自分の場の〈緑谷 出久〉が相手のトリガーの効果で場を離れる場合、代わりにこのフィールドを退場させてもよい。そうした場合、その〈緑谷 出久〉をレストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "四之森避影",
+    "effectZh": "[自己的回合中]\n若己方场和场外存在合计 3 种以上不同卡牌名称的［特征：One For All］，且自己场上的〈绿谷 出久〉因对手 Trigger 的效果离场时，也可以代替将其此场地退场。如此操作的话，将该〈绿谷 出久〉横置。",
+    "triggerZh": ""
+  }
+}

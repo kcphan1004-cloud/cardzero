@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:44:39.750Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e6b52856c3d463a7173",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-014",
+    "UA04BT/IMS-1-014"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "櫻木 真乃",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "樱木 真乃",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

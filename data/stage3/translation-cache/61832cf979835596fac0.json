@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:03:48.838Z",
+  "model": "qwen3.5:9b",
+  "unitId": "61832cf979835596fac0",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-095"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "ダークウイング",
+    "effect": "自分の場に〈仮面ライダーナイトサバイブ〉がある場合、自分の場のこのキャラはカード名が〈ダークレイダー〉に変わり、「このキャラはBP4000以上のキャラにブロックされない。」を得る。\n[登場時]\n自分の場のカード名に「ナイト」を含むキャラを1枚まで選び、このターン中、「このキャラはトリガーの効果で選ばれない」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Dark Wing",
+    "effectZh": "如果己方场上存在〈假面骑士 Night Survive〉，己方场上的该角色卡名变为〈Dark Raider〉并获得「此角色不会被 BP4000 以上的角色阻挡。」\n[登场时]\n选择己方场上的最多 1 张卡名为包含「Knight」的角色，本回合中给予其「不被 Trigger 的效果选中」。",
+    "triggerZh": ""
+  }
+}

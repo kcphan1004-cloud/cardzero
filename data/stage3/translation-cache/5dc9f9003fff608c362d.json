@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:27:22.732Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5dc9f9003fff608c362d",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-048"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "レイナ・プラウラー",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：ワルキューレ］を1枚まで公開し山札の上に置く。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蕾娜·普劳拉",
+    "effectZh": "【登场时】\n从自己牌库上方查看 3 张卡，将［特征：瓦尔基里］最多 1 张公开并放置到牌库上方。将其余的按任意顺序放置在牌库下方。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

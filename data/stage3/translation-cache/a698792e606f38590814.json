@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:34:18.789Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a698792e606f38590814",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-057"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "鎮まぬ悪炎",
+    "effect": "相手のフロントLのキャラを1枚選び、このターン中、BP-4000。自分の場に〈不死の黒蛇 タルラ〉がある場合、相手のフロントLのキャラ全ては、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "不灭恶炎",
+    "effectZh": "选择对方前线 L 的 1 名角色，本回合中 BP-4000。若自己场上有〈不死黑蛇 塔尔拉〉，则对方前线 L 的所有角色在本回合中 BP-1000。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 名角色并将其退场。"
+  }
+}

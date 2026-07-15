@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:45:52.839Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a02642c0b27372bfabfa",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-035"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "家入 硝子",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "咒术回战 家入硝子",
+    "effectZh": "若对方的场地存在黄色或紫色的卡，则减少手牌中此卡的必要能量 [青×1]。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:50:42.644Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1a93bc98468d1f5d81e",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-029"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーフォーゼ エレキステイツ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Fourze 能量状态",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

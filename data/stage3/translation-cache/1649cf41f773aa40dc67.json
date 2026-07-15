@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:52:00.693Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1649cf41f773aa40dc67",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-017"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "伊黒 小芭内",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "伊黑 小芭内",
+    "effectZh": "[登场时] \n抽一张牌，将自己手牌中的一张卡置入场外。",
+    "triggerZh": "[激活]\n选择自己场上一张角色，将其激活，本回合中 BP+3000。"
+  }
+}

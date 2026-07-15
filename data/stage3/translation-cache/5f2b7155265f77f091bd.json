@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:51:05.682Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5f2b7155265f77f091bd",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-054"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "283プロダクション",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中からキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "283 Production",
+    "effectZh": "[登场时]\n查看自己山札上方的 3 张。从中公开最多 1 枚角色卡并加入手牌，将剩余部分按任意顺序置于自己的山札下方。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

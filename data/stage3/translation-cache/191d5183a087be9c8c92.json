@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:28:56.834Z",
+  "model": "qwen3.5:9b",
+  "unitId": "191d5183a087be9c8c92",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-034"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "白瀬 咲耶",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：L'Antica］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "白濑 咲耶",
+    "effectZh": "[登场时] \n从自己牌库上方查看最多 3 张卡。从中公开拥有［特征：L'Antica］的卡牌至多 1 枚并加入手札，其余按任意顺序放置于自己牌库下方。若加入了手札，则将手札中的 1 张卡放置于场外。",
+    "triggerZh": ""
+  }
+}

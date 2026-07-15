@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:51:59.812Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ad65ef041f381fc9d936",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-094"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "マカロン",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马卡龙",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线移动到能量线）、触发器：无",
+    "triggerZh": ""
+  }
+}

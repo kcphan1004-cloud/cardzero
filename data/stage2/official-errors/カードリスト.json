@@ -1,0 +1,10 @@
+{
+  "number": "カードリスト",
+  "name": "资料待补",
+  "seriesSlugs": [
+    "mushoku-tensei"
+  ],
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88",
+  "error": "官方页面内找不到卡号。",
+  "failedAt": "2026-07-14T17:17:19.909Z"
+}

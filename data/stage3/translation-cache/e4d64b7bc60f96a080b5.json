@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:07:39.774Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e4d64b7bc60f96a080b5",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-035"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "相澤 消太",
+    "effect": "[フロントLにある場合]\n相手の場のキャラ全ては、「\n[ステップ]\n、\n[狙い撃ち]\n、\n[2回アタック]\n、\n[2回ブロック]\n、\n[インパクト]\n、\n[ダメージ]\n、\n[インパクト無効]\n」を全て失う。\n[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "相泽 消太",
+    "effectZh": "[在 FrontL 的情况下]\n对方场上的所有角色失去以下所有内容：\n\n[步骤]、\n[狙击]、\n[2 次攻击]、\n[2 次防御]、\n[冲击]、\n[伤害]、\n[无效化冲击]\n。 \n[登场时]\n选择对方 Front L 的角色至多 1 张，使其横置状态。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

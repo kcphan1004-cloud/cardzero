@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:55:10.220Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4df94702c53c07f5e921",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-084"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "バネッサ・エノテーカ",
+    "effect": "[フロントLにある場合]\n〈バネッサ・エノテーカ〉以外の自分の場のキャラは、相手が手札から使用したイベントカードの効果で選ばれない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴妮莎·艾诺特卡",
+    "effectZh": "当此卡片位于前线 L 时，对方使用手牌中的事件卡的效果所选择的场上的角色不能是除〈巴妮莎·艾诺特卡〉以外的我方场上角色。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:58:28.063Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2773605dfc75a4bb0e28",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-102"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アスタ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿斯塔",
+    "effectZh": "[步骤]\n（在自己的移动阶段，可以从前线 L 移动到能量线）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:46:43.643Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b16f6efc4ba035bea3a2",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-040"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "虎杖 悠仁",
+    "effect": "[レイド]\n〈虎杖 悠仁〉アクティブにし、フロントLに移動できる\n[登場時]\nBP4000以下の相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "虎杖悠仁",
+    "effectZh": "[Raid] \n将〈虎杖悠仁〉激活并移动至前线L\n[登场时]\n选择BP 4000以下的对手场上一张角色，将其返回手牌。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量时发动 Raid。"
+  }
+}

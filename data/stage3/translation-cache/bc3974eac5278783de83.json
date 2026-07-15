@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:47:20.287Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bc3974eac5278783de83",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-040"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "メレオレオナ・ヴァーミリオン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "梅露可娜·瓦米尔",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将这张卡加入手牌。"
+  }
+}

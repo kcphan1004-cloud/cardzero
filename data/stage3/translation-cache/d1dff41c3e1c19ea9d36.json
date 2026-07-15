@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:27:51.020Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1dff41c3e1c19ea9d36",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-026"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "アイムカミングスーン",
+    "effect": "自分の山札の上から5枚見る。その中から［特徴：illumination STARS］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "I'm Coming Soon",
+    "effectZh": "查看自己山牌的上方5张。从中公开最多2张具有［特征：illumination STARS］的卡并加入手牌，将剩余的按任意顺序置于自己的山牌下方。",
+    "triggerZh": "【抽】\n抽1张牌。"
+  }
+}

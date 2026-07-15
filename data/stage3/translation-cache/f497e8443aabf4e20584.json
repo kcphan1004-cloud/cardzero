@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:39:42.731Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f497e8443aabf4e20584",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-018"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 津美紀",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伏黒 津美纪",
+    "effectZh": "【登场时】\n选择自己场上的其他角色至多1张，本回合中BP+1000。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

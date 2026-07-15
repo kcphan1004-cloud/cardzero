@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:35:58.031Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a63a3e6bea63221ce749",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-017"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "常闇 踏陰",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "常闇 踏陰",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 张，将其置于激活状态，本回合中 BP+3000。"
+  }
+}

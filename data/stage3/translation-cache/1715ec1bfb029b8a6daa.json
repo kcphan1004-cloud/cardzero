@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:20:22.571Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1715ec1bfb029b8a6daa",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-021"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "[启动主阶段]\n[将手牌置入场外 1 张]\n[回合 1]\n此角色本回合中 BP+1500。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

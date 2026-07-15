@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:47:48.163Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13bca170497878e799f7",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-052"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "七海 建人",
+    "effect": "[アタック時]\n自分の山札の上から1枚を場外に置いてもよい。そうした場合、BP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "七海建人",
+    "effectZh": "[攻击时]\n可以选择将自己牌库上方的 1 张放回场外。若如此做，选择 BP1500 以上的对手场上的角色至多 1 枚，本回合中其 BP-1000。",
+    "triggerZh": "[抽卡]\n抽 1 张牌"
+  }
+}

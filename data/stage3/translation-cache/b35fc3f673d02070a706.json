@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:37:19.421Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b35fc3f673d02070a706",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-052"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ナナリー・ヴィ・ブリタニア",
+    "effect": "自分のエナジーLにカードが4枚ある場合、このキャラの発生エナジー+\n[緑]\n。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "娜娜莉·V·布里塔尼亚",
+    "effectZh": "如果自己的能量 L 有 4 张卡，此角色的产生能量+\n[绿]\n。\n[登场时]\n抽 1 张牌，将手牌中最多 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

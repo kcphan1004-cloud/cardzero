@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:03:26.761Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8f5364187dbb44fe6bde",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-021"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "脳無",
+    "effect": "相手の場に緑か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "脑无",
+    "effectZh": "对方场上有绿色或红色的卡时，将手札中这张卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

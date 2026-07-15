@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:02:28.103Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0fad9faec34a262eb30b",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-057"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "堕姫",
+    "effect": "[退場時]\n自分の山札の上から6枚見る。その中から〈妓夫太郎〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "堕姬",
+    "effectZh": "[退场时]\n查看自己牌库上方的 6 张卡。从中公开最多 1 张〈妓夫太郎〉并加入手牌。将其余的按任意顺序置于自己的牌库下方。若加入了手牌，可将自己的一张手牌置入场外。",
+    "triggerZh": ""
+  }
+}

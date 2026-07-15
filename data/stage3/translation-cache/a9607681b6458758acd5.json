@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:31:04.209Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9607681b6458758acd5",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-070"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リーファ",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、「このキャラはBP4000以上のキャラにブロックされない。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莉法",
+    "effectZh": "【启动主】\n【将 1 张手牌置入场外】\n【第 1 回合】\n本角色在本回合中获得“不会被 BP4000 以上的角色阻挡。”。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

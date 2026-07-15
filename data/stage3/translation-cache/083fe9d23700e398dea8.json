@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:59:27.249Z",
+  "model": "qwen3.5:9b",
+  "unitId": "083fe9d23700e398dea8",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-024"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "誇れ オマエは強い",
+    "effect": "自分のフロントLに〈宿儺〉がある場合、手札にあるこのカードの必要エナジーを\n[青×2]\n減らす。\n元々のBPが4000以上の相手のフロントLのキャラを1枚選び、退場させる。カードを2枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夸吧 你很强大",
+    "effectZh": "若自己的前线 L 有〈宿傩〉，手牌的这张卡所需能量\n[青×2]\n减少。\n选择对方元初 BP4000 以上的角色中位于前线 L 的 1 张并退场。抽牌 2 张。",
+    "triggerZh": ""
+  }
+}

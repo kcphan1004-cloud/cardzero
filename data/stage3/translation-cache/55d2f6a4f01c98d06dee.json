@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:08:34.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "55d2f6a4f01c98d06dee",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-055"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "麒麟寺 天示郎",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "麒麟寺天示郎",
+    "effectZh": "[登场时]\n查看自己牌库上方的一张卡。将该卡牌放回自己的牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

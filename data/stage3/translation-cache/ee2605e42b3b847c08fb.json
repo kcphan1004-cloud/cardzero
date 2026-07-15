@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:05:19.904Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ee2605e42b3b847c08fb",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-023"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゲンスルー",
+    "effect": "[レイド]\n〈ゲンスルー〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の山札の上から1枚を公開する。公開したカードの必要エナジーが2以上の場合、BP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。公開したカードを自分の山札の上か下に置く。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "刚察鲁",
+    "effectZh": "[Raid]\n〈刚察鲁〉激活并移动到前线 L\n[登场时]\n公开自己山札上方 1 张卡牌。\n若公开的卡牌必要能量为 2 以上，选择 BP3000 以下的对方前线 L 的角色至多 1 枚并将其退场。将已公开的卡牌放置于自己山札的上方或下方。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量时，进行 Raid。"
+  }
+}

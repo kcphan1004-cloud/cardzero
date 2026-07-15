@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:22.392Z",
+  "number": "UA32BT/SNF-1-076",
+  "name": "晴天大征",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引く。このターン中、自分が「BPの範囲に指定がある効果」でキャラを選ぶ際、指定できるBPの範囲+1000。（BP2500以下のキャラを選べる効果でBP3500以下を選べるようになる）",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA32BT%2FSNF-1-076",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-076",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

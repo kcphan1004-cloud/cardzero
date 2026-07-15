@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:26:29.731Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c8d43ea4176c52fdffe3",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-058"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ロウ",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "劳",
+    "effectZh": "若对方场上存在蓝色或红色的卡，则减少手牌中这张卡的必要能量\n［绿×1］。",
+    "triggerZh": ""
+  }
+}

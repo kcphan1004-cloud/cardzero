@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:07:04.200Z",
+  "number": "UA25BT/AND-1-022",
+  "name": "ヴィクトル",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "UNION",
+  "generatedEnergy": "紫色×1",
+  "effect": "このキャラが自分の場から場外に置かれた時、裏向きのカードが下にない自分の場の〈アンディ〉の下に、このカードを裏向きで置いてもよい。\n[登場時]\n以下から2つ選ぶ。\n・このキャラをアクティブにする。\n・相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。\n・自分の場のキャラの下に置かれた裏向きのカードを全て見て、その中から1枚まで手札に加える。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA25BT%2FAND-1-022",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA25BT%2FAND-1-022",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

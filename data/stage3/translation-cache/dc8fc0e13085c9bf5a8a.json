@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:17:14.177Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc8fc0e13085c9bf5a8a",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-059"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ライナー＆ベルトルト＆アニ",
+    "effect": "このカードは〈ライナー・ブラウン〉としても〈ベルトルト・フーバー〉としても〈アニ・レオンハート〉としても扱う。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "莱纳＆贝尔托特＆阿尼",
+    "effectZh": "此角色同时作为〈莱纳·布朗〉、〈贝尔托特·胡佛〉和〈阿尼·利昂纳德〉处理。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色，将其激活并使其本回合 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:58:55.237Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0dac6a39fe3541e70cac",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-107"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ユノ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尤诺",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌。"
+  }
+}

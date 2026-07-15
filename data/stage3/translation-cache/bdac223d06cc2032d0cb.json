@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:48:49.274Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bdac223d06cc2032d0cb",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-041"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "田中 摩美々",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "田中 摩美々",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

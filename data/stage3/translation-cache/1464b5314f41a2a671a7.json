@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:59:27.247Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1464b5314f41a2a671a7",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-022"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "灰原 雄",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から〈七海 建人〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灰原雄",
+    "effectZh": "【启动主】\n【横置】\n【将此卡退场】\n从自己场外将〈七海建人〉加入手牌，至多 1 张。",
+    "triggerZh": ""
+  }
+}

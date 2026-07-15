@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:56.909Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ddfb4906d95b4bcd8a9",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-047"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ボノレノフ＆コルトピ",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場のキャラを1枚まで選び、別のラインに移動させる。\n・自分のフロントLのキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "波诺莱夫&科尔托皮",
+    "effectZh": "[登场时]\n从以下选项中选 1 个。\n•选择自己场上的角色最多 1 枚移动到另一条线。\n•可以选择将自方的「前线」的角色与自己的「能量线」的角色各选 1 枚，交换它们的位置。",
+    "triggerZh": ""
+  }
+}

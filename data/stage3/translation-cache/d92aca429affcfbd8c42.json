@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:29:05.062Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d92aca429affcfbd8c42",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-030",
+    "UA01BT/CGH-1-030"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "絶対遵守のギアス",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ルルーシュ・ランペルージ〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "绝对遵守的 Geass",
+    "effectZh": "选择对方前线 L BP5000 以下的角色卡 1 张，使其退场。若我方场上有〈鲁路修·兰佩路基〉，可选择我方 AP 卡片至多 1 张并激活之。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色卡 1 张，使其退场。"
+  }
+}

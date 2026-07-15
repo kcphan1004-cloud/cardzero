@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:23.453Z",
+  "number": "UA42BT/MGS-1-099",
+  "name": "レイニーデビル",
+  "color": "红色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 2,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の場に〈神原 駿河〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場のレイド状態の〈神原 駿河〉を1枚まで選び、このターン中、「このキャラの下の裏向きのカードが2枚以下で、このキャラが相手の効果で退場する場合、代わりに自分の山札の上から1枚を裏向きでこのキャラの下に置いてもよい。」を与える。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA42BT%2FMGS-1-099",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA42BT%2FMGS-1-099",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

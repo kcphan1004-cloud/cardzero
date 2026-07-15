@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:47:12.270Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2cdde3a860e4a3646e51",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-013"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "ゴチゾウ",
+    "effect": "※このカードはデッキに10枚まで入れられる。\n[登場時]\n自分の場にキャラがない場合、カードを1枚引き、自分の手札を1枚場外に置く。\n[退場時]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "哥兹兽",
+    "effectZh": "※此卡最多可放入卡组 10 张。\n[登场时]\n若自己场上没有角色，抽 1 张牌并将自己的手牌中 1 张置入场外。\n[退场时]\n抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:43:49.435Z",
+  "model": "qwen3.5:9b",
+  "unitId": "da6f64e77600fd52bbc1",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA04NC/BLC-3-010"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "平子 真子",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。それらを山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "平子 真子",
+    "effectZh": "【登场时】\n查看自己牌库上方的2张卡。将它们按任意顺序分别置于牌库上方和下方，数量由你决定。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

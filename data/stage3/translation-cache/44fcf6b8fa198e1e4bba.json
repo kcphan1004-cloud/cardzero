@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:09:18.549Z",
+  "model": "qwen3.5:9b",
+  "unitId": "44fcf6b8fa198e1e4bba",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-077"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "嘴平 伊之助",
+    "effect": "このターン中にこのキャラが移動している場合、このキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "嘴平 伊之助",
+    "effectZh": "本回合内，若该角色移动过，则其在本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

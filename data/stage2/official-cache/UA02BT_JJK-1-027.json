@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:38.741Z",
+  "number": "UA02BT/JJK-1-027",
+  "name": "嵌合暗翳庭",
+  "color": "黄色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\n自分の場の［特徴：式神］全ては、このターン中、BP+1000。\n[ターン1]\n自分の場の〈伏黒 恵〉がアタックした時、自分のフロントLの［特徴：式神］を1枚まで選び、アクティブにする。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA02BT%2FJJK-1-027",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA02BT%2FJJK-1-027",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:30:09.089Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1e6f4989fd36542cea79",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-065"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "嘴平 伊之助",
+    "effect": "[登場時]\n自分の場にレイド状態の〔〈竈門 炭治郎〉か〈我妻 善逸〉〕がある場合、このキャラをアクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "嘴平 伊之助",
+    "effectZh": "[登场时]\n自己场上有处于横置状态的〔灶门 炭治郎〕或〔我妻 善逸〕的情况下，将此角色激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，激活它，本回合中 BP+3000。"
+  }
+}

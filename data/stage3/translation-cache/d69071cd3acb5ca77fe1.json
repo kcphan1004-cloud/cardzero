@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:08:15.572Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d69071cd3acb5ca77fe1",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-021"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "秦谷 美鈴",
+    "effect": "自分の場に［特徴：1年生］のカード名が4種類以上か〈月村 手毬〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "秦谷美铃",
+    "effectZh": "自己场上存在［特征：一年级］的 4 种以上卡片名或〈月村 手毬>时，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:35:21.464Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aee46856629d8a75c8b7",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-104"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ジルファ",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "吉尔法",
+    "effectZh": "【登场时】\n选择对方前线 L 的 BP3000 以下的角色最多 1 张，使其退场。",
+    "triggerZh": "【获取】\n将此卡加入手牌"
+  }
+}

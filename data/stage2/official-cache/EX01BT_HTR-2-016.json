@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:55:51.709Z",
+  "number": "EX01BT/HTR-2-016",
+  "name": "ゴン＝フリークス",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "レイザー攻略組",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈ゴン＝フリークス〉アクティブにし、フロントLに移動できる\n[相手のターン中]\n[フロントLにある場合]\n同じラインに〈キルア＝ゾルディック〉と〈ヒソカ〉がある場合、このキャラはBP+2000。\n[アタック時]\n同じラインに〈キルア＝ゾルディック〉がある場合、このキャラはこのターン中、BP+1000と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX01BT%2FHTR-2-016",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX01BT%2FHTR-2-016",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

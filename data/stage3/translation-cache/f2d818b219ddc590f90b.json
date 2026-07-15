@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:37:15.600Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f2d818b219ddc590f90b",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "EX09BT/TSK-2-028"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "七曜の老師",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "七曜的老师",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

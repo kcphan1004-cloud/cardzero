@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:08.505Z",
+  "number": "PC02BT/NIK-2-036",
+  "name": "レッドフード",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcSR",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "ピルグリム／ゴッデス",
+  "generatedEnergy": "紫色×1",
+  "effect": "このキャラのBPが6000以上の場合、このキャラは\n[インパクト（1）]\nを得る。\n[レイド]\n〈レッドフード〉アクティブにし、フロントLに移動できる\nこのキャラのアタック終了時、このキャラのレイド元のカードを1枚まで自分の場にレストで登場させる。\n[登場時]\nこのキャラはこのターン中、「このキャラは、相手のトリガーの効果で選ばれない。」を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC02BT%2FNIK-2-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC02BT%2FNIK-2-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

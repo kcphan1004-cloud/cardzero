@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:40.659Z",
+  "number": "UA40BT/REZ-1-097",
+  "name": "俺を選べ！ ベアトリス!!",
+  "color": "紫色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 3,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から3枚見る。その中から望む枚数を望む順で山札の上に置き、残りを場外に置く。その後、自分の山札の上から1枚公開し、『手札に加える』。公開したカードが必要エナジーを満たす〔〈ナツキ・スバル〉か〈ベアトリス〉〕の場合、『自分の場にレストで登場させるかレイドさせる』に代えてもよい。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40BT%2FREZ-1-097",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40BT%2FREZ-1-097",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

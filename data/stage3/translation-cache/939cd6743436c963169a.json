@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:52:00.690Z",
+  "model": "qwen3.5:9b",
+  "unitId": "939cd6743436c963169a",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-013"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "不死川 玄弥",
+    "effect": "[自分のターン中]\n[ターン1]\n相手のフロントLのキャラが退場した時、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "不死川 玄弥",
+    "effectZh": "[在自己的回合中]\n[回合 1]\n对方前线 L 的角色退场时，可以抽一张牌。如此操作的话，将自己手牌中的一张卡置入场外。",
+    "triggerZh": ""
+  }
+}

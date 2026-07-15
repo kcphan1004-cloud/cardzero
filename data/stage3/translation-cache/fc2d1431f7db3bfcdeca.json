@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:18:38.017Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc2d1431f7db3bfcdeca",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-071"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "卯ノ花 烈",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "卯之花烈",
+    "effectZh": "",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

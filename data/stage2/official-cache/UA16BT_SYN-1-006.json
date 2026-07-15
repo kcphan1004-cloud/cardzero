@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:04:26.522Z",
+  "number": "UA16BT/SYN-1-006",
+  "name": "ジョンガスメーカー",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 5,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "クレイドルコフィン",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈トキオ〉アクティブにし、フロントLに移動できる\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[退場時]\nカードを1枚引く。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA16BT%2FSYN-1-006",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA16BT%2FSYN-1-006",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

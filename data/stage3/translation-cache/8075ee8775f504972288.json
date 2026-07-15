@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:38:13.771Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8075ee8775f504972288",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-053"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "アーニャ・アールストレイム",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尼亚·阿尔斯特雷姆",
+    "effectZh": "[登场时]\n抽 1 张牌，将自身手牌中任意 1 张置入场外。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:09.181Z",
+  "number": "UA35BT/OPM-1-095",
+  "name": "モスキート娘",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500+",
+  "feature": "進化の家",
+  "generatedEnergy": "红色×1",
+  "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。\n[起動メイン]\n[ターン1]\n自分のライフエリアにあるカードを1枚手札に加える。そうした場合、このキャラはこのターン中、BP+2500。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA35BT%2FOPM-1-095",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA35BT%2FOPM-1-095",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

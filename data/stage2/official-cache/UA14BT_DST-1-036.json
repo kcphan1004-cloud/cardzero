@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:50.613Z",
+  "number": "UA14BT/DST-1-036",
+  "name": "あさぎり ゲン",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "-",
+  "generatedEnergy": "紫色×1",
+  "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n必要エナジーの数を1つ指定する。自分の手札を1枚相手が選ぶ。選ばれたカードを公開し、そのカードの必要エナジーの数がこの効果で指定した数と同じだった場合、自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA14BT%2FDST-1-036",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA14BT%2FDST-1-036",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

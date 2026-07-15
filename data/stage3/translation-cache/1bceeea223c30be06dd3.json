@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:26:15.650Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1bceeea223c30be06dd3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-037"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "マキナ・中島",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马基纳·中岛",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中失去冲击）",
+    "triggerZh": ""
+  }
+}

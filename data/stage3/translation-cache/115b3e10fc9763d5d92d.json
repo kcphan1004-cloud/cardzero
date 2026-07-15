@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:17:28.557Z",
+  "model": "qwen3.5:9b",
+  "unitId": "115b3e10fc9763d5d92d",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-054"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ヒソカ",
+    "effect": "[登場時]\n相手の手札が3枚以上の場合、相手は自身の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "西索卡",
+    "effectZh": "[登场时]\n当对手手牌为 3 张以上时，对手必须将自身的手牌中 1 枚放置于场外。\n\n触发：\n选择自己场上的角色 1 枚并激活，本回合中 BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活，本回合中 BP+3000。"
+  }
+}

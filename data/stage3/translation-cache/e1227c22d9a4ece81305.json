@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:01:04.325Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1227c22d9a4ece81305",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-006"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[登場時]\n自分の山札の上から7枚見る。その中から［特徴：指定ポケット］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "贡＝弗利克斯",
+    "effectZh": "[登场时]\n查看自身牌库上方的 7 张卡，从中公开最多一张［特征：指定口袋］并加入手牌。将剩余部分按任意顺序放置到自身牌库下方。",
+    "triggerZh": ""
+  }
+}

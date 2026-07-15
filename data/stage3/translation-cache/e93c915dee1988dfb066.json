@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:04:18.353Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e93c915dee1988dfb066",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-015"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レイザー",
+    "effect": "相手のフロントLにキャラが2枚以上ある場合、このキャラは\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。\n[退場時]\n自分のエナジーLのキャラを1枚まで選び、フロントLに移動させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雷泽",
+    "effectZh": "对方前线 L 有 2 枚以上角色时，该角色获得\n[伤害（2）]\n（该角色攻击直接造成伤害时，代替造成 2 点伤害）。\n[退场时]\n选择自己能量线 L 的 1 枚角色移动到前线。",
+    "triggerZh": ""
+  }
+}

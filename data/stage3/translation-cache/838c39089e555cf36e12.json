@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:20:41.490Z",
+  "model": "qwen3.5:9b",
+  "unitId": "838c39089e555cf36e12",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA03NC/BLK-2-009"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "國神 錬介",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\n同じラインに〈千切 豹馬〉と〈御影 玲王〉がある場合のみ発動できる。カードを1枚引く。その後、自分の場のキャラを1枚まで選び、このターン中、BP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "国神 炼介",
+    "effectZh": "[启动主效果]\n[位于前线L时]\n[支付1点 AP]\n[回合1]\n仅当同线存在〈千切 豹马〉与〈御影 玲王〉时可发动。抽一张牌。之后，选择最多一个自己场上的角色，本回合中 BP+1500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:20:14.598Z",
+  "model": "qwen3.5:9b",
+  "unitId": "911b43f3d84e58afc964",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-010"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "放課後オーバーフロウ",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+2000。自分の場外に黄の［特徴：歌（ランカ）］のカード名が3種類以上ある場合、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "放学后 Overflow",
+    "effectZh": "选择自己场上的角色至多 1 名，在本回合中 BP+2000。若场外有黄色［特征：歌（兰卡）］的卡名种类达到 3 种以上时，抽 2 张牌。",
+    "triggerZh": "【Draw】\n抽 1 张牌。"
+  }
+}

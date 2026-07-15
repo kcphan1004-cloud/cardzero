@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:12:13.258Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c4aeca26df97f624504",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-093"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "善子",
+    "effect": "このカードは〈我妻 善逸〉としても扱う。\n[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "善逸 (我妻)",
+    "effectZh": "这张卡也当作「我妻 善逸」处理。\n[登场时]\n查看自己牌库上方的一张。将该卡置于自己的牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

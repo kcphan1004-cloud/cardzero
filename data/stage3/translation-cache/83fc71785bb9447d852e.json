@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:32:53.212Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83fc71785bb9447d852e",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-033"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "神虎輝く刻",
+    "effect": "〈神虎〉を選んで使用する場合、このカードの消費APを-1する。\n自分のフロントLの［特徴：中華連邦］を1枚選び、このターン中、BP+1000と\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "神虎辉刻",
+    "effectZh": "选择使用此卡时，将此卡的消耗 AP-1。\n选择自己场前线 L 的［特征：中华联邦］至多 1 张，本回合中 BP+1000\n[攻击 2 次]\n（当此角色在本回合首次攻击时，给予激活）",
+    "triggerZh": "[Activate]\n选择自己场上的角色至多 1 张并激活，本回合中 BP+3000。"
+  }
+}

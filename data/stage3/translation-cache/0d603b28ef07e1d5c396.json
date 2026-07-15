@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:27:36.366Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0d603b28ef07e1d5c396",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-016"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ロロ・ランペルージ",
+    "effect": "[登場時]\nAPを1支払ってもよい。そうした場合、\n[起動メイン]\nを持ちBP3000以下で発生エナジーが1以下の相手の場のキャラを1枚まで選び、退場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗洛·兰佩路基",
+    "effectZh": "[登场时]\n可以支付1点AP。若如此做，\n[启动主] \n选择对方场上的角色最多1张（BP 3000以下且本回合产生的能量为1以下的），使其退场。",
+    "triggerZh": "[激活]\n选择自己场上的角色最多1张，将其变为激活状态，并在此回合中 BP+3000。"
+  }
+}

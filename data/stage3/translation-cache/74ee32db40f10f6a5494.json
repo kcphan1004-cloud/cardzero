@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:58:32.898Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74ee32db40f10f6a5494",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-017"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "禪院 真希",
+    "effect": "[登場時]\n自分の場外から\n[スペシャルトリガー]\nと\n[ファイナルトリガー]\nをどちらも持たないイベントカードを1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "禅院 真希",
+    "effectZh": "[登场时]\n从自己的场外\n[SpecialTrigger] \n和\n[FinalTrigger] \n均不持有的事件卡中，将至多 1 张加入手札。",
+    "triggerZh": ""
+  }
+}

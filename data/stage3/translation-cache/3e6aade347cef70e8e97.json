@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:26:10.224Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3e6aade347cef70e8e97",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-048"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "当角色处于激活状态时，该角色的产生能量 +\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:54:38.260Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc2abbac95bc8e00079a",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-071"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "杜野 凛世",
+    "effect": "[退場時]\n自分の手札から必要エナジーが3以下で消費APが1の赤の［特徴：放課後クライマックスガールズ］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杜野凛世",
+    "effectZh": "【退场时】\n从自己的手牌中，选择最多 1 张消耗 AP 为 1、能量需求在 3 以下的红色［特征：放学后高峰女孩］，以横置状态登场到自己的场上。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:00:54.244Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b36fc90dc31831175018",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-022"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "志波 岩鷲",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "志波岩鹫",
+    "effectZh": "【启动主阶段】\n[横置]\n[回合1]\n本回合中，该角色的发生能量+\n[青]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

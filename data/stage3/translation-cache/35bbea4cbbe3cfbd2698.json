@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:28:12.824Z",
+  "model": "qwen3.5:9b",
+  "unitId": "35bbea4cbbe3cfbd2698",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01ST/CGH-1-008",
+    "UA01BT/CGH-1-008",
+    "EX02BT/CGH-2-007"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "皇 神楽耶",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "皇 神乐耶",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为1以下的角色最多选择1张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

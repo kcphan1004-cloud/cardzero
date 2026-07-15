@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:02:21.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa68278628a0bbd6c543",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-017"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "トゥワイス",
+    "effect": "[レイド]\n〈トゥワイス〉アクティブにし、フロントLに移動できる\n[登場時]\nレイド状態のこのキャラの一番下のカードを自分の場にアクティブで登場させてもよい。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "Twice",
+    "effectZh": "[Raid] \n将〈Twice〉激活并移动到前线 L\n[登场时]\n可以将处于 Raid 状态的这张角色的最下方的卡以激活状态登场到你的场上。",
+    "triggerZh": "[Get] \n将此牌加入手牌。"
+  }
+}

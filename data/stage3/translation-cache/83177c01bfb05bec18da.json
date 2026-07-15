@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:59:29.452Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83177c01bfb05bec18da",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-102",
+    "EX04BT/JJK-3-047"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "釘崎 野薔薇",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "钉崎 野蔷薇",
+    "effectZh": "",
+    "triggerZh": "[Active]\n选择自己场上的1张卡牌并使其处于激活状态，本回合内BP+3000。"
+  }
+}

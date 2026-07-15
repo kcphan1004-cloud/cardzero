@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:11:58.702Z",
+  "model": "qwen3.5:9b",
+  "unitId": "167e5d1461497b0abcb7",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-054"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ギルバート・G・P・ギルフォード",
+    "effect": "[自分のターン中]\n自分のフロントLのキャラの数が相手のフロントLのキャラの数以上の場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉尔伯特·G·P·吉尔福德",
+    "effectZh": "【自己的回合】\n自己前线 L 的角色数量不少于对手前线 L 的角色数量时，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:25:40.535Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0b3c1dbdce9ba987a96e",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-049"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "テュオハリム",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "图奥哈利姆",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

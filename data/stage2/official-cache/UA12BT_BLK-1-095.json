@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:20.239Z",
+  "number": "UA12BT/BLK-1-095",
+  "name": "三者融合",
+  "color": "红色",
+  "type": "场地卡",
+  "typeJa": "フィールド",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "[自分のターン中]\n自分の場の赤の「〈國神 錬介〉と〈千切 豹馬〉と〈御影 玲王〉」全ては、「\n[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラと同じBPの相手のフロントLのキャラを1枚まで選び、レストにする。」を得る。\n[起動メイン]\n[ターン1]\n自分の場のキャラの下に裏向きのカードがない場合、自分の山札の上から1枚を裏向きで自分の場のキャラ1枚の下に置く。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12BT%2FBLK-1-095",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12BT%2FBLK-1-095",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

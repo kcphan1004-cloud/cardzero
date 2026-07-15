@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:12:58.571Z",
+  "model": "qwen3.5:9b",
+  "unitId": "21a4da1ad7311f9c4b8a",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-057"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゼノ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\nBP4000以下の相手のフロントLのキャラを1枚選び、退場させる。このキャラをリムーブエリアに置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "泽诺",
+    "effectZh": "[启动主]\n[位于前线L时]\n[横置状态]\n选择对方 BP 4000 以下的任意一张位于前线 L 的角色，使其退场。将该角色放置于移除区。",
+    "triggerZh": "[激活]\n从自己场上的角色中选择 1 张，将其置于激活状态，本回合中，BP+3000。"
+  }
+}

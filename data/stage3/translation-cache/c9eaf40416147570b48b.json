@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:20:20.309Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c9eaf40416147570b48b",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-022"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ロウ",
+    "effect": "[登場時]\n自分の場に〈リンウェル〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "劳",
+    "effectZh": "[登场时]\n若自己场上有〈林威尔〉则抽牌 1 张。",
+    "triggerZh": ""
+  }
+}

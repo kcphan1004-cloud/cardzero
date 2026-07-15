@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:18:10.509Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4fa187d43f25f4062bb8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-007"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユージオ・シンセシス・サーティツー",
+    "effect": "このカードは〈ユージオ〉としても扱う。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尤吉欧·合成士·Thirty-Two",
+    "effectZh": "这张卡也作为〈尤吉欧〉处理。\n[登场时]\n抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

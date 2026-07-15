@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:56.907Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aabac50ca0d58b438c44",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-044"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "フィンクス",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "芬克斯",
+    "effectZh": "[登场时]\n抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

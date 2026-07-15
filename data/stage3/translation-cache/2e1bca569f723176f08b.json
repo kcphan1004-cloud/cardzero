@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:46:36.655Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e1bca569f723176f08b",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-047"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "オーバーホール",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大改装",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

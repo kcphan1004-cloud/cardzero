@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:23.592Z",
+  "number": "UA01BT/CGH-1-070",
+  "name": "カレン・シュタットフェルト",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "アッシュフォード学園",
+  "generatedEnergy": "红色×1",
+  "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。\n[起動メイン]\n[APを1支払う]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01BT%2FCGH-1-070",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01BT%2FCGH-1-070",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:12:32.665Z",
+  "number": "UA43BT/SMD-1-030",
+  "name": "陸 少糖",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500",
+  "feature": "坂本商店",
+  "generatedEnergy": "黄色×1",
+  "effect": "[自分のターン中]\n自分の場に［特徴：坂本商店］のカード名が3種類以上ある場合、このキャラは「このキャラはBP4000以上のキャラにブロックされない。」を得る。\nこのキャラがアタックしてブロックされなかった時、カードを1枚引く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA43BT%2FSMD-1-030",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA43BT%2FSMD-1-030",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

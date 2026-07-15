@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:22:49.769Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74ce81147b0eb08163be",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-095"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "会長命令",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "会长命令",
+    "effectZh": "选择至多2张自己的AP卡，并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命值区域。"
+  }
+}

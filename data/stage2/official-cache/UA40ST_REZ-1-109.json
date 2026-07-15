@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:11:44.377Z",
+  "number": "UA40ST/REZ-1-109",
+  "name": "徽章",
+  "color": "黄色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "自分の山札の上から5枚見る。その中から［特徴：王選候補者］かイベントカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。公開したカードが［特徴：王選候補者］の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA40ST%2FREZ-1-109",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA40ST%2FREZ-1-109",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

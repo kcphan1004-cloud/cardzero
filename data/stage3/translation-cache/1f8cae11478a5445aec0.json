@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:17:22.595Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1f8cae11478a5445aec0",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-060"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "兵主部 一兵衛",
+    "effect": "[登場時]\n必要エナジーの数を1つ指定する。自分の山札の上から2枚公開する。その中からこの効果で指定した数と同じ必要エナジーのキャラカードを1枚まで手札に加え、残りを場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "兵主部 一兵卫",
+    "effectZh": "[登场时]\n指定所需能量数量中的 1 个。公开自己牌库上方的 2 张卡。从其中选择与效果指定的相同所需能量的角色卡片最多 1 张加入手牌，其余置入场外。\n\n[激活]\n选择自己场上的任意一张角色并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[Raid]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:52:22.860Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9d7cb3c58f6932791c7b",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-078"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "禪院 真依",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "禅院真依",
+    "effectZh": "[登场时]\n选择自己场上的其他角色的1个，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

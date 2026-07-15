@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:26:27.442Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d2dc919c64663255a772",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-017"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ケルシー",
+    "effect": "[登場時]\n自分の場外から〈ケルシー〉以外の必要エナジーが『3以下』のキャラカードを1枚まで手札に加える。APを1支払ってもよい。そうした場合、『4以上』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "凯尔西",
+    "effectZh": "[登场时]\n从自己的场外最多将 1 张除〈凯尔西〉外且必要能量为『3 以下』的角色卡加入手牌。也可支付 1AP，此时视为『4 以上』。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

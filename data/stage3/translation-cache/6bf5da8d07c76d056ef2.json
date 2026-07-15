@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:11:09.240Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6bf5da8d07c76d056ef2",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-088"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "煉󠄁獄 杏寿郎",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炼狱 杏寿郎",
+    "effectZh": "[登场时]\n将自己场上的其他角色中所需能量为 1 以下的角色返回手牌一张。若无法返回，将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:09:14.999Z",
+  "number": "UA32BT/SNF-1-032",
+  "name": "最大火力",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 7,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "相手のフロントLのキャラを1枚選び、退場させる。BP1500以上の相手のフロントLのキャラ全ては、このターン中、BP-1000。",
+  "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA32BT%2FSNF-1-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

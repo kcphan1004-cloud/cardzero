@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:36:32.796Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d8294b5e392adbc2946f",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-012"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "五条 悟",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\nカードを1枚引く。このターン中、次に手札から使用する〈五条 悟〉以外のカードの消費APを-1する。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "五条 悟",
+    "effectZh": "【冲击 (1)】\n（攻击并赢得战斗时，对对方玩家造成 1 点伤害）\n【登场时】\n抽入 1 张牌。本回合中，下次从手牌使用的除〈五条 悟〉以外的卡的消耗 AP-1。",
+    "triggerZh": "【获取】\n将此牌加入手牌。"
+  }
+}

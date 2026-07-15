@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:56:56.298Z",
+  "model": "qwen3.5:9b",
+  "unitId": "85cbf9f0182fd507af44",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02NC/JJK-2-006"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "虎杖 悠仁",
+    "effect": "自分の場外に〈宿儺の指〉がある場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "虎杖 悠仁",
+    "effectZh": "若场外有〈宿傩的指>，该角色的产生能量+\n[青]\n。",
+    "triggerZh": "[颜色]\n选择对方前线 L BP3500 以下的角色最多 1 枚并返回手牌。"
+  }
+}

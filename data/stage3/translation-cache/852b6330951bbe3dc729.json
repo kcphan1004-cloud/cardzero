@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:08:24.802Z",
+  "model": "qwen3.5:9b",
+  "unitId": "852b6330951bbe3dc729",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-045"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ユーフェミア・リ・ブリタニア",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤菲米娅·李·不列颠尼亚",
+    "effectZh": "【启动主阶段】\n[横置]\n[回合 1]\n本回合中，此角色的发生能量+\n[绿]\n。主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

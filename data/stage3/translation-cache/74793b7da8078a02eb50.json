@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:12:16.669Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74793b7da8078a02eb50",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-028"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "銀架城",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：星十字騎士団］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚退場させる。そうした場合、このフィールドの\n[登場時]\nを発動する。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "银架城",
+    "effectZh": "[登场时]\n从自己山札上方查看 3 枚。从中公开［特征：星十字骑士团］至多 1 张并加入手牌，其余按任意顺序置于自己的山札下方。\n[启动 Main]\n[置为横置状态]\n将对方场上的角色退场 1 张。如此情况时，发动该区域的\n[登场时]",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

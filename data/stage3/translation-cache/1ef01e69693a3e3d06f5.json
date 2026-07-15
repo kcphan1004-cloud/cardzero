@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:37:54.828Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1ef01e69693a3e3d06f5",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-079"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "有栖川 夏葉",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有栖川 夏叶",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 或以下的角色中最多 1 张返回手牌。若无法如此操作，则将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

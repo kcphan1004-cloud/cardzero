@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:54:17.038Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1f04c6919482c99e2550",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-089"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "花御",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花御",
+    "effectZh": "对方场上有黄或蓝的卡时，将手牌中这张卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

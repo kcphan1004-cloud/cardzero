@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:29:34.237Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3a86f18056363f33fa07",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-036"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "[自分のターン中]\n自分のリムーブエリアにカードが3枚以上ある場合、このキャラは\n[ダメージ（+1）]\n（このキャラがアタックで直接ダメージを与える時、追加で1ダメージ）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "自己的回合中",
+    "triggerZh": "抽牌"
+  }
+}

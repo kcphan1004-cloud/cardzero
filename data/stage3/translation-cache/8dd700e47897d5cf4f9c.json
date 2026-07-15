@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:17:01.072Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8dd700e47897d5cf4f9c",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-003"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト＆ユージオ",
+    "effect": "このカードは〈キリト〉としても〈ユージオ〉としても扱う。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桐人＆尤吉欧",
+    "effectZh": "此角色作为〈桐人〉和〈尤吉欧>处理。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

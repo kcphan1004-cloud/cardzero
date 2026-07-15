@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:32:24.990Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b548ec6d3727d97c17ae",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-074"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "トンキー",
+    "effect": "[登場時]\nこのターン中、次に手札から使用する元々のBPが3500の［特徴：ALO］の消費APを-1する。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "唐吉诃德",
+    "effectZh": "[登场时]\n在本回合中，下次从手牌使用的原本 BP 为 3500 的［特征：ALO］卡的消耗 AP-1。",
+    "triggerZh": "[激活] 选择自己场上的角色 1 枚并激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:24:54.642Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cab79a1c0149fa99d4fe",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-AP01",
+    "UA03ST/HTR-1-AP02",
+    "UA03BT/HTR-1-AP01",
+    "UA03BT/HTR-1-AP02",
+    "UA03BT/HTR-1-AP03",
+    "UA03BT/HTR-1-AP04",
+    "UA03BT/HTR-1-AP05",
+    "UA03BT/HTR-1-AP06",
+    "EX01BT/HTR-2-AP01",
+    "EX01BT/HTR-2-AP02",
+    "EX01BT/HTR-2-AP03",
+    "EX01BT/HTR-2-AP04"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "アクションポイントカード(HUNTER×HUNTER)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (猎人×猎人)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:16:08.601Z",
+  "model": "qwen3.5:9b",
+  "unitId": "36ca6ce6569ea0685f91",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-077"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[登場時]\n[フロントLにある場合]\n自分のフロントLの他のキャラの数×1000以下のBPの相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "古恩＝弗利克斯",
+    "effectZh": "[登场时]\n[位于前线L的情况下]\n选择对方前线L的、BP为自身前线L的其他角色数量×1000以下的角色至多1张，使其退场。",
+    "triggerZh": "[颜色]\n从自己手牌中选择必要能量为2以下且消耗AP为1的绿色角色卡至多1张，以激活状态登场到自己的场上。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:18.981Z",
+  "number": "EX03BT/IMS-2-029",
+  "name": "大崎 甘奈",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "ALSTROEMERIA",
+  "generatedEnergy": "紫色×1",
+  "effect": "[退場時]\n自分の山札の上から2枚まで場外に置く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX03BT%2FIMS-2-029",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX03BT%2FIMS-2-029",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "purple",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

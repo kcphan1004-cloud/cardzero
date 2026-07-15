@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:24:08.512Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6779d188477950c5bf5",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-004"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "W",
+    "effect": "[レイド]\n〈W〉アクティブにし、フロントLに移動できる\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[ターン1]\nこのキャラがフロントLからエナジーLに移動した時、相手のフロントLのキャラを1枚まで選び、退場させる。BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。\n[退場時]\nカードを2枚引く。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "W",
+    "effectZh": "[Raid]\n〈W〉激活状态，并可以移动到前线 L\n[Step]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[Turn 1]\n当该角色从 frontline L 移动到 Energy Line 时，选择对方 Frontline L 的角色最多一张使其退场。若对方 Frontline L 的角色 BP 为 1500 以上，则选择其最多一张，本回合中 -BP 1000。\n[Retire]\n抽牌 2 张。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量时，发动 Raid。"
+  }
+}

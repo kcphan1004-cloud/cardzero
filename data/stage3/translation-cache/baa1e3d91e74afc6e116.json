@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:32:53.210Z",
+  "model": "qwen3.5:9b",
+  "unitId": "baa1e3d91e74afc6e116",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-032"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "永続調和の契り",
+    "effect": "自分の山札の上から7枚見る。その中から〔〈黎 星刻〉か〈神虎〉〕と〈天子〉をそれぞれ1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "永続调和之契",
+    "effectZh": "查看自己牌库上方 7 张。从中公开至多 1 张〔〈黎·星刻〉或〈神虎〉〕和至多 1 张〈天子〉加入手牌。剩余部分按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

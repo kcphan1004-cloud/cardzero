@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:14:22.038Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0b661e1a83a576b0d379",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-066"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "龍頭戯画",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に［特徴：ゾルディック家］が3枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "龙头戏画",
+    "effectZh": "选择对方前线 L 的 BP3000 以下的角色 1 张并使其退场。若自己场上有［特征：揍敌客家］达到 3 枚以上，则替换为『BP5000以下』。",
+    "triggerZh": "【特殊】\n选择对方前线 L 的角色 1 张并将其退场。"
+  }
+}

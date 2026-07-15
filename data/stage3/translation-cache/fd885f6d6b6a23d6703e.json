@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:29:26.377Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fd885f6d6b6a23d6703e",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-063"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\n自分の場外に〈ユウキ〉と〈マザーズ・ロザリオ〉が合計2枚以上ある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "[步骤]（可从前线 L 移动至能量线）\n[登场时]\n若自己场外有〈优吉欧〉和〈玛尔扎罗》合计 2 张以上，抽牌 1 张。",
+    "triggerZh": ""
+  }
+}

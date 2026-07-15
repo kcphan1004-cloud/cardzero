@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:47:19.628Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9e82911d5ad1a6f47974",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-033"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "郁田 はるき",
+    "effect": "[登場時]\n[エナジーLにある場合]\n自分のリムーブエリアにカードが3枚以上ある場合、このキャラをアクティブにする。\n[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "郁田春希",
+    "effectZh": "[登场时]\n[位于能量线时]\n若场外有 3 张以上的卡，使该角色处于激活状态。\n[启动主阶段]\n[横置]\n选择场上的其他 1 张自己的角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:00:20.127Z",
+  "model": "qwen3.5:9b",
+  "unitId": "80313e38cde250cdcf8d",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-109"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "呪術高専1年",
+    "effect": "カードを3枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "咒术高专 1 年班",
+    "effectZh": "抽牌 3 张，并将自己的手牌中 2 张放置到场外。",
+    "triggerZh": "[Draw]\n抽牌 1 张。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:54.861Z",
+  "number": "UA48BT/KGD-1-017",
+  "name": "臨武君",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 5,
+  "ap": 2,
+  "bp": "4000",
+  "feature": "楚",
+  "generatedEnergy": "黄色×1",
+  "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが2以下の黄の［特徴：楚］を1枚まで自分の場にアクティブで登場させる。\n[起動メイン]\n[ターン1]\nこのキャラのBPが5000以上の場合のみ発動できる。このキャラをアクティブにする。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA48BT%2FKGD-1-017",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA48BT%2FKGD-1-017",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 5
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

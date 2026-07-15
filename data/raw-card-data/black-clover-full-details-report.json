@@ -1,0 +1,655 @@
+{
+  "generatedAt": "2026-07-14T16:21:09.298Z",
+  "status": "aborted",
+  "reason": "成功取得的详细卡号太少，为保护现有卡表，脚本没有修改 black-clover.ts。",
+  "productLinks": 129,
+  "successfulDetails": 0,
+  "failures": [
+    {
+      "number": "UA20ST/BCV-1-103",
+      "url": "https://www.merucarduniari.jp/product/1475",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1475"
+    },
+    {
+      "number": "UA20ST/BCV-1-108",
+      "url": "https://www.merucarduniari.jp/product/1476",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1476"
+    },
+    {
+      "number": "UA20ST/BCV-1-100",
+      "url": "https://www.merucarduniari.jp/product/1477",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1477"
+    },
+    {
+      "number": "UA20ST/BCV-1-101",
+      "url": "https://www.merucarduniari.jp/product/1478",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1478"
+    },
+    {
+      "number": "UA20ST/BCV-1-102",
+      "url": "https://www.merucarduniari.jp/product/1480",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1480"
+    },
+    {
+      "number": "UA20ST/BCV-1-096",
+      "url": "https://www.merucarduniari.jp/product/1481",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1481"
+    },
+    {
+      "number": "UA20ST/BCV-1-068",
+      "url": "https://www.merucarduniari.jp/product/1483",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1483"
+    },
+    {
+      "number": "UA20ST/BCV-1-073",
+      "url": "https://www.merucarduniari.jp/product/1484",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1484"
+    },
+    {
+      "number": "UA20ST/BCV-1-077",
+      "url": "https://www.merucarduniari.jp/product/1485",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1485"
+    },
+    {
+      "number": "UA20ST/BCV-1-085",
+      "url": "https://www.merucarduniari.jp/product/1486",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1486"
+    },
+    {
+      "number": "UA20ST/BCV-1-087",
+      "url": "https://www.merucarduniari.jp/product/1487",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1487"
+    },
+    {
+      "number": "UA20ST/BCV-1-089",
+      "url": "https://www.merucarduniari.jp/product/1488",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1488"
+    },
+    {
+      "number": "UA20ST/BCV-1-091",
+      "url": "https://www.merucarduniari.jp/product/1489",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1489"
+    },
+    {
+      "number": "UA20ST/BCV-1-104",
+      "url": "https://www.merucarduniari.jp/product/1490",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1490"
+    },
+    {
+      "number": "UA20ST/BCV-1-106",
+      "url": "https://www.merucarduniari.jp/product/1491",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1491"
+    },
+    {
+      "number": "UA20ST/BCV-1-107",
+      "url": "https://www.merucarduniari.jp/product/1492",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1492"
+    },
+    {
+      "number": "UA20ST/BCV-1-109",
+      "url": "https://www.merucarduniari.jp/product/1493",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1493"
+    },
+    {
+      "number": "UA20ST/BCV-1-110",
+      "url": "https://www.merucarduniari.jp/product/1471",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1471"
+    },
+    {
+      "number": "UA20ST/BCV-1-111",
+      "url": "https://www.merucarduniari.jp/product/1474",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1474"
+    },
+    {
+      "number": "UA20ST/BCV-1-112",
+      "url": "https://www.merucarduniari.jp/product/1472",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1472"
+    },
+    {
+      "number": "UA20ST/BCV-1-113",
+      "url": "https://www.merucarduniari.jp/product/1473",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1473"
+    },
+    {
+      "number": "UA20ST/BCV-1-105",
+      "url": "https://www.merucarduniari.jp/product/1479",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1479"
+    },
+    {
+      "number": "UA20ST/BCV-1-AP01",
+      "url": "https://www.merucarduniari.jp/product/1482",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/1482"
+    },
+    {
+      "number": "UA20BT/BCV-1-075",
+      "url": "https://www.merucarduniari.jp/product/4411",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4411"
+    },
+    {
+      "number": "UA20BT/BCV-1-037",
+      "url": "https://www.merucarduniari.jp/product/4422",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4422"
+    },
+    {
+      "number": "UA20BT/BCV-1-047",
+      "url": "https://www.merucarduniari.jp/product/4424",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4424"
+    },
+    {
+      "number": "UA20BT/BCV-1-038",
+      "url": "https://www.merucarduniari.jp/product/4458",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4458"
+    },
+    {
+      "number": "UA20BT/BCV-1-054",
+      "url": "https://www.merucarduniari.jp/product/4468",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4468"
+    },
+    {
+      "number": "UA20BT/BCV-1-057",
+      "url": "https://www.merucarduniari.jp/product/4471",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4471"
+    },
+    {
+      "number": "UA20BT/BCV-1-015",
+      "url": "https://www.merucarduniari.jp/product/4404",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4404"
+    },
+    {
+      "number": "UA20BT/BCV-1-042",
+      "url": "https://www.merucarduniari.jp/product/4407",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4407"
+    },
+    {
+      "number": "UA20BT/BCV-1-046",
+      "url": "https://www.merucarduniari.jp/product/4408",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4408"
+    },
+    {
+      "number": "UA20BT/BCV-1-053",
+      "url": "https://www.merucarduniari.jp/product/4409",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4409"
+    },
+    {
+      "number": "UA20BT/BCV-1-058",
+      "url": "https://www.merucarduniari.jp/product/4410",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4410"
+    },
+    {
+      "number": "UA20BT/BCV-1-079",
+      "url": "https://www.merucarduniari.jp/product/4412",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4412"
+    },
+    {
+      "number": "UA20BT/BCV-1-093",
+      "url": "https://www.merucarduniari.jp/product/4414",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4414"
+    },
+    {
+      "number": "UA20BT/BCV-1-006",
+      "url": "https://www.merucarduniari.jp/product/4415",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4415"
+    },
+    {
+      "number": "UA20BT/BCV-1-011",
+      "url": "https://www.merucarduniari.jp/product/4416",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4416"
+    },
+    {
+      "number": "UA20BT/BCV-1-016",
+      "url": "https://www.merucarduniari.jp/product/4417",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4417"
+    },
+    {
+      "number": "UA20BT/BCV-1-031",
+      "url": "https://www.merucarduniari.jp/product/4420",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4420"
+    },
+    {
+      "number": "UA20BT/BCV-1-039",
+      "url": "https://www.merucarduniari.jp/product/4423",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4423"
+    },
+    {
+      "number": "UA20BT/BCV-1-052",
+      "url": "https://www.merucarduniari.jp/product/4425",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4425"
+    },
+    {
+      "number": "UA20BT/BCV-1-067",
+      "url": "https://www.merucarduniari.jp/product/4426",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4426"
+    },
+    {
+      "number": "UA20BT/BCV-1-071",
+      "url": "https://www.merucarduniari.jp/product/4427",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4427"
+    },
+    {
+      "number": "UA20BT/BCV-1-082",
+      "url": "https://www.merucarduniari.jp/product/4428",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4428"
+    },
+    {
+      "number": "UA20BT/BCV-1-088",
+      "url": "https://www.merucarduniari.jp/product/4429",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4429"
+    },
+    {
+      "number": "UA20BT/BCV-1-092",
+      "url": "https://www.merucarduniari.jp/product/4430",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4430"
+    },
+    {
+      "number": "UA20BT/BCV-1-094",
+      "url": "https://www.merucarduniari.jp/product/4431",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4431"
+    },
+    {
+      "number": "UA20BT/BCV-1-100",
+      "url": "https://www.merucarduniari.jp/product/4432",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4432"
+    },
+    {
+      "number": "UA20BT/BCV-1-001",
+      "url": "https://www.merucarduniari.jp/product/4433",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4433"
+    },
+    {
+      "number": "UA20BT/BCV-1-002",
+      "url": "https://www.merucarduniari.jp/product/4434",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4434"
+    },
+    {
+      "number": "UA20BT/BCV-1-003",
+      "url": "https://www.merucarduniari.jp/product/4435",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4435"
+    },
+    {
+      "number": "UA20BT/BCV-1-005",
+      "url": "https://www.merucarduniari.jp/product/4436",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4436"
+    },
+    {
+      "number": "UA20BT/BCV-1-007",
+      "url": "https://www.merucarduniari.jp/product/4437",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4437"
+    },
+    {
+      "number": "UA20BT/BCV-1-008",
+      "url": "https://www.merucarduniari.jp/product/4438",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4438"
+    },
+    {
+      "number": "UA20BT/BCV-1-009",
+      "url": "https://www.merucarduniari.jp/product/4439",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4439"
+    },
+    {
+      "number": "UA20BT/BCV-1-010",
+      "url": "https://www.merucarduniari.jp/product/4440",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4440"
+    },
+    {
+      "number": "UA20BT/BCV-1-012",
+      "url": "https://www.merucarduniari.jp/product/4441",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4441"
+    },
+    {
+      "number": "UA20BT/BCV-1-013",
+      "url": "https://www.merucarduniari.jp/product/4442",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4442"
+    },
+    {
+      "number": "UA20BT/BCV-1-014",
+      "url": "https://www.merucarduniari.jp/product/4443",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4443"
+    },
+    {
+      "number": "UA20BT/BCV-1-017",
+      "url": "https://www.merucarduniari.jp/product/4444",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4444"
+    },
+    {
+      "number": "UA20BT/BCV-1-018",
+      "url": "https://www.merucarduniari.jp/product/4445",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4445"
+    },
+    {
+      "number": "UA20BT/BCV-1-020",
+      "url": "https://www.merucarduniari.jp/product/4446",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4446"
+    },
+    {
+      "number": "UA20BT/BCV-1-021",
+      "url": "https://www.merucarduniari.jp/product/4447",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4447"
+    },
+    {
+      "number": "UA20BT/BCV-1-022",
+      "url": "https://www.merucarduniari.jp/product/4448",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4448"
+    },
+    {
+      "number": "UA20BT/BCV-1-024",
+      "url": "https://www.merucarduniari.jp/product/4449",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4449"
+    },
+    {
+      "number": "UA20BT/BCV-1-025",
+      "url": "https://www.merucarduniari.jp/product/4450",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4450"
+    },
+    {
+      "number": "UA20BT/BCV-1-028",
+      "url": "https://www.merucarduniari.jp/product/4451",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4451"
+    },
+    {
+      "number": "UA20BT/BCV-1-029",
+      "url": "https://www.merucarduniari.jp/product/4452",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4452"
+    },
+    {
+      "number": "UA20BT/BCV-1-030",
+      "url": "https://www.merucarduniari.jp/product/4453",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4453"
+    },
+    {
+      "number": "UA20BT/BCV-1-032",
+      "url": "https://www.merucarduniari.jp/product/4454",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4454"
+    },
+    {
+      "number": "UA20BT/BCV-1-033",
+      "url": "https://www.merucarduniari.jp/product/4455",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4455"
+    },
+    {
+      "number": "UA20BT/BCV-1-034",
+      "url": "https://www.merucarduniari.jp/product/4456",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4456"
+    },
+    {
+      "number": "UA20BT/BCV-1-036",
+      "url": "https://www.merucarduniari.jp/product/4457",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4457"
+    },
+    {
+      "number": "UA20BT/BCV-1-040",
+      "url": "https://www.merucarduniari.jp/product/4459",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4459"
+    },
+    {
+      "number": "UA20BT/BCV-1-041",
+      "url": "https://www.merucarduniari.jp/product/4460",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4460"
+    },
+    {
+      "number": "UA20BT/BCV-1-043",
+      "url": "https://www.merucarduniari.jp/product/4461",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4461"
+    },
+    {
+      "number": "UA20BT/BCV-1-044",
+      "url": "https://www.merucarduniari.jp/product/4462",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4462"
+    },
+    {
+      "number": "UA20BT/BCV-1-045",
+      "url": "https://www.merucarduniari.jp/product/4463",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4463"
+    },
+    {
+      "number": "UA20BT/BCV-1-048",
+      "url": "https://www.merucarduniari.jp/product/4464",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4464"
+    },
+    {
+      "number": "UA20BT/BCV-1-049",
+      "url": "https://www.merucarduniari.jp/product/4465",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4465"
+    },
+    {
+      "number": "UA20BT/BCV-1-050",
+      "url": "https://www.merucarduniari.jp/product/4466",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4466"
+    },
+    {
+      "number": "UA20BT/BCV-1-051",
+      "url": "https://www.merucarduniari.jp/product/4467",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4467"
+    },
+    {
+      "number": "UA20BT/BCV-1-055",
+      "url": "https://www.merucarduniari.jp/product/4469",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4469"
+    },
+    {
+      "number": "UA20BT/BCV-1-056",
+      "url": "https://www.merucarduniari.jp/product/4470",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4470"
+    },
+    {
+      "number": "UA20BT/BCV-1-059",
+      "url": "https://www.merucarduniari.jp/product/4472",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4472"
+    },
+    {
+      "number": "UA20BT/BCV-1-060",
+      "url": "https://www.merucarduniari.jp/product/4473",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4473"
+    },
+    {
+      "number": "UA20BT/BCV-1-061",
+      "url": "https://www.merucarduniari.jp/product/4474",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4474"
+    },
+    {
+      "number": "UA20BT/BCV-1-062",
+      "url": "https://www.merucarduniari.jp/product/4475",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4475"
+    },
+    {
+      "number": "UA20BT/BCV-1-063",
+      "url": "https://www.merucarduniari.jp/product/4476",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4476"
+    },
+    {
+      "number": "UA20BT/BCV-1-064",
+      "url": "https://www.merucarduniari.jp/product/4477",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4477"
+    },
+    {
+      "number": "UA20BT/BCV-1-065",
+      "url": "https://www.merucarduniari.jp/product/4478",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4478"
+    },
+    {
+      "number": "UA20BT/BCV-1-066",
+      "url": "https://www.merucarduniari.jp/product/4479",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4479"
+    },
+    {
+      "number": "UA20BT/BCV-1-068",
+      "url": "https://www.merucarduniari.jp/product/4480",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4480"
+    },
+    {
+      "number": "UA20BT/BCV-1-069",
+      "url": "https://www.merucarduniari.jp/product/4481",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4481"
+    },
+    {
+      "number": "UA20BT/BCV-1-070",
+      "url": "https://www.merucarduniari.jp/product/4482",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4482"
+    },
+    {
+      "number": "UA20BT/BCV-1-072",
+      "url": "https://www.merucarduniari.jp/product/4483",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4483"
+    },
+    {
+      "number": "UA20BT/BCV-1-073",
+      "url": "https://www.merucarduniari.jp/product/4484",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4484"
+    },
+    {
+      "number": "UA20BT/BCV-1-074",
+      "url": "https://www.merucarduniari.jp/product/4485",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4485"
+    },
+    {
+      "number": "UA20BT/BCV-1-076",
+      "url": "https://www.merucarduniari.jp/product/4486",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4486"
+    },
+    {
+      "number": "UA20BT/BCV-1-077",
+      "url": "https://www.merucarduniari.jp/product/4487",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4487"
+    },
+    {
+      "number": "UA20BT/BCV-1-078",
+      "url": "https://www.merucarduniari.jp/product/4488",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4488"
+    },
+    {
+      "number": "UA20BT/BCV-1-080",
+      "url": "https://www.merucarduniari.jp/product/4489",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4489"
+    },
+    {
+      "number": "UA20BT/BCV-1-081",
+      "url": "https://www.merucarduniari.jp/product/4490",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4490"
+    },
+    {
+      "number": "UA20BT/BCV-1-084",
+      "url": "https://www.merucarduniari.jp/product/4491",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4491"
+    },
+    {
+      "number": "UA20BT/BCV-1-085",
+      "url": "https://www.merucarduniari.jp/product/4492",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4492"
+    },
+    {
+      "number": "UA20BT/BCV-1-086",
+      "url": "https://www.merucarduniari.jp/product/4493",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4493"
+    },
+    {
+      "number": "UA20BT/BCV-1-087",
+      "url": "https://www.merucarduniari.jp/product/4494",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4494"
+    },
+    {
+      "number": "UA20BT/BCV-1-089",
+      "url": "https://www.merucarduniari.jp/product/4495",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4495"
+    },
+    {
+      "number": "UA20BT/BCV-1-090",
+      "url": "https://www.merucarduniari.jp/product/4496",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4496"
+    },
+    {
+      "number": "UA20BT/BCV-1-091",
+      "url": "https://www.merucarduniari.jp/product/4497",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4497"
+    },
+    {
+      "number": "UA20BT/BCV-1-095",
+      "url": "https://www.merucarduniari.jp/product/4498",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4498"
+    },
+    {
+      "number": "UA20BT/BCV-1-096",
+      "url": "https://www.merucarduniari.jp/product/4499",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4499"
+    },
+    {
+      "number": "UA20BT/BCV-1-097",
+      "url": "https://www.merucarduniari.jp/product/4500",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4500"
+    },
+    {
+      "number": "UA20BT/BCV-1-098",
+      "url": "https://www.merucarduniari.jp/product/4501",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4501"
+    },
+    {
+      "number": "UA20BT/BCV-1-099",
+      "url": "https://www.merucarduniari.jp/product/4502",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4502"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP01",
+      "url": "https://www.merucarduniari.jp/product/4370",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4370"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP02",
+      "url": "https://www.merucarduniari.jp/product/4371",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4371"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP03",
+      "url": "https://www.merucarduniari.jp/product/4372",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4372"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP04",
+      "url": "https://www.merucarduniari.jp/product/4373",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4373"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP05",
+      "url": "https://www.merucarduniari.jp/product/4374",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4374"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP06",
+      "url": "https://www.merucarduniari.jp/product/4375",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4375"
+    },
+    {
+      "number": "UA20BT/BCV-1-004",
+      "url": "https://www.merucarduniari.jp/product/4403",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4403"
+    },
+    {
+      "number": "UA20BT/BCV-1-083",
+      "url": "https://www.merucarduniari.jp/product/4413",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4413"
+    },
+    {
+      "number": "UA20BT/BCV-1-023",
+      "url": "https://www.merucarduniari.jp/product/4405",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4405"
+    },
+    {
+      "number": "UA20BT/BCV-1-027",
+      "url": "https://www.merucarduniari.jp/product/4406",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4406"
+    },
+    {
+      "number": "UA20BT/BCV-1-019",
+      "url": "https://www.merucarduniari.jp/product/4418",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4418"
+    },
+    {
+      "number": "UA20BT/BCV-1-026",
+      "url": "https://www.merucarduniari.jp/product/4419",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4419"
+    },
+    {
+      "number": "UA20BT/BCV-1-035",
+      "url": "https://www.merucarduniari.jp/product/4421",
+      "error": "商品页无法识别卡号：https://www.merucarduniari.jp/product/4421"
+    }
+  ],
+  "details": []
+}

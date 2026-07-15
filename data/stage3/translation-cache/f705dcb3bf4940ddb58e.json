@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:07:56.877Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f705dcb3bf4940ddb58e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-024"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジーク・イェーガー",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の山札の上から3枚見る。その中からカードを1枚まで場外に置く。残りを望む順で山札の下に置く。\n・このキャラが場外から登場していた場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉克·耶格尔",
+    "effectZh": "[登场时]\n从以下效果中选择 1 个。\n・查看自己牌库上方的 3 张卡。从中选择最多 1 张置为场外，其余的按任意顺序放回牌库底部。\n・如果此角色是从场外登场的，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

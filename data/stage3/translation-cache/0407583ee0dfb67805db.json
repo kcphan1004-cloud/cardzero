@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:01:20.476Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0407583ee0dfb67805db",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-106"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リムル",
+    "effect": "自分の場外にBP4000以上のキャラカードが2枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "如果场外有2张以上BP 4000以上的角色卡，该角色的BP +1000。",
+    "triggerZh": ""
+  }
+}

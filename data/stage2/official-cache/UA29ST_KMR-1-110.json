@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:25.266Z",
+  "number": "UA29ST/KMR-1-110",
+  "name": "仮面ライダーオーズ タトバ コンボ",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "3000+",
+  "feature": "-",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[自分のターン中]\n自分の場外にあるカード名に「メダル」を含むカード1枚につき、このキャラはBP+500。\n[登場時]\n自分のメインフェイズ中の場合、自分の手札の必要エナジーが同じカードを3枚場外に置いてもよい。そうした場合、BP4000以下の相手のフロントLのキャラを1枚まで選び、退場させ、このメインフェイズ終了時、カードを3枚引く。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA29ST%2FKMR-1-110",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29ST%2FKMR-1-110",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

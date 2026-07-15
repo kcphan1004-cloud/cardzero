@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:10:58.175Z",
+  "number": "UA38BT/WBK-1-011",
+  "name": "十亀 条",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 3,
+  "ap": 2,
+  "bp": "3500+",
+  "feature": "獅子頭連",
+  "generatedEnergy": "黄色×3",
+  "effect": "自分の場に〈兎耳山 丁子〉がある場合、手札にあるこのカードの消費APを-1する。\n[自分のターン中]\n自分の場外にキャラカードがない場合、このキャラはBP+500。\n[登場時]\n自分の場外にある［特徴：獅子頭連］を2枚までリムーブエリアに置く。",
+  "trigger": "[ゲット]\nこのカードを手札に加える。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA38BT%2FWBK-1-011",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA38BT%2FWBK-1-011",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 3
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 3
+      }
+    ]
+  }
+}

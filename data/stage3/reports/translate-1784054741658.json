@@ -1,0 +1,10 @@
+{
+  "generatedAt": "2026-07-14T18:45:41.658Z",
+  "model": "qwen3.5:4b",
+  "series": "black-clover",
+  "selected": 20,
+  "cached": 18,
+  "completed": 2,
+  "failed": 0,
+  "failures": []
+}

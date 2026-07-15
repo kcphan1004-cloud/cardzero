@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:18:10.511Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8717eec808db52914f30",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-009"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ（創世神ステイシア）",
+    "effect": "[登場時]\n『カードを1枚引き、自分の手札を1枚場外に置く』。自分のライフが4以下の場合、『カードを1枚引く』に代えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚丝娜（创世神·斯泰西亚）",
+    "effectZh": "[登场时]\n『抽 1 张牌，将手札中的 1 张置入场外』。自己生命值为 4 以下时，也可以代替为『抽 1 张牌』。",
+    "triggerZh": ""
+  }
+}

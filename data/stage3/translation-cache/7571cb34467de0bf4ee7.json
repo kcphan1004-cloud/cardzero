@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:58:55.236Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7571cb34467de0bf4ee7",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-106"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "マグナ・スウィング",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大回旋斩",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

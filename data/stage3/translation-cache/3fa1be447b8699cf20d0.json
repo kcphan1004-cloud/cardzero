@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:46:25.652Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3fa1be447b8699cf20d0",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-105"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "櫻木 真乃",
+    "effect": "[レイド]\n〈櫻木 真乃〉アクティブにし、フロントLに移動できる\n[アタック時]\n自分の場の他の［特徴：illumination STARS］を1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "樱木 真乃",
+    "effectZh": "[Raid]将〈樱木 真乃〉激活并移动至前线 L\n[攻击时]选择自己场上的其他［特征：illumination STARS］最多 1 张，本回合中 BP+2000。",
+    "triggerZh": "[Raid]\n将此牌加入手牌，或满足必要能量条件则发动 Raid。"
+  }
+}

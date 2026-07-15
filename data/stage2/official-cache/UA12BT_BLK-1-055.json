@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:03:13.572Z",
+  "number": "UA12BT/BLK-1-055",
+  "name": "千切 豹馬",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2000+",
+  "feature": "チームZ",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラの下に裏向きのカードがある場合、このキャラをアクティブにする。\n[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+2000され、さらに自分の場に他の［特徴：チームZ］が5枚以上あるなら、カードを1枚引く。",
+  "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA12BT%2FBLK-1-055",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA12BT%2FBLK-1-055",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

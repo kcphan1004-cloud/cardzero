@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:42:14.146Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ee1477f2a6c46c391d06",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-016"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "市川 雛菜",
+    "effect": "[自分のターン中]\n自分の場に〈福丸 小糸〉がある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "市川 雏菜",
+    "effectZh": "[自己的回合中]\n如果自己场上有〈福丸 小糸〉，该角色 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 枚并激活，本回合中，BP+3000。"
+  }
+}

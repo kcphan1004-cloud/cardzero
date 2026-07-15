@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:28:13.025Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c0cc24386d3304891a08",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-001"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "赤青乳",
+    "effect": "自分の場外に［特徴：食べ物］が2枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赤青乳",
+    "effectZh": "若场外有［特征：食物］的卡牌达到或超过 2 张，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

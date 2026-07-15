@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:38:13.780Z",
+  "model": "qwen3.5:9b",
+  "unitId": "568d7f7ff8b8a21603c0",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-058"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "トリスタン",
+    "effect": "[レイド]\n〈ジノ・ヴァインベルグ〉アクティブにし、フロントLに移動できる\n[自分のターン中]\n自分の場に他の［特徴：ナイトオブラウンズ］が3枚以上ある場合、このキャラはBP+500。\n[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特里斯坦",
+    "effectZh": "[Raid]\n〈吉诺·温伯格〉激活并移动至前线 L\n[Own Turn]\n若自身场中存在 3 张以上其他［特征：Nightowl］，该角色 BP+500。\n[登场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

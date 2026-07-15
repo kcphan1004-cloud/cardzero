@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:27:35.361Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c5328430a99f9176e47",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-024"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "「君が望むままに」",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚まで選び、『手札に戻す』。自分の場に〈ロスモンティス〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "「如你所愿」",
+    "effectZh": "选择 BP5000 以下的对方前线 L 的角色至多 1 张，“返回手札”。若自己场上有〈罗斯蒙蒂斯〉，则替换为“使其退场”。“",
+    "triggerZh": "【特殊】\n选择对方前线 L 的角色 1 张，使其退场。"
+  }
+}

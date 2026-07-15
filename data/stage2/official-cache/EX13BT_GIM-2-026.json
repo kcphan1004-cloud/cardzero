@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:32.907Z",
+  "number": "EX13BT/GIM-2-026",
+  "name": "月村 手毬",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000",
+  "feature": "1年生／Re;IRIS",
+  "generatedEnergy": "黄色×1",
+  "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\nこのキャラのアタック終了時、このキャラを自分の山札の下に置いてもよい。そうした場合、カードを1枚引き、相手のフロントLのキャラを1枚まで選び、レストにする。それは次の1回アクティブにならない。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX13BT%2FGIM-2-026",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX13BT%2FGIM-2-026",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

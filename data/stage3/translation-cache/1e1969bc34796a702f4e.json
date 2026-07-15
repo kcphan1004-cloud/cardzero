@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:55:05.267Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1e1969bc34796a702f4e",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-026",
+    "UA09BT/BTR-1-026"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ニョンタ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妮昂塔",
+    "effectZh": "当此角色处于激活状态时，此角色的产生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

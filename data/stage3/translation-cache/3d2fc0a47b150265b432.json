@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:52:00.694Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3d2fc0a47b150265b432",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-018"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "宇髄 天元",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "宇髄 天元",
+    "effectZh": "[阶段] \n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

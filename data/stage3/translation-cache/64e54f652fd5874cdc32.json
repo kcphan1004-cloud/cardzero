@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:27:19.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "64e54f652fd5874cdc32",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-050"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ディアベル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "迪亚贝尔",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n该角色在本回合中，发生能量+\n[紫色]\n并获得“主阶段结束时，将此卡退场。”。",
+    "triggerZh": ""
+  }
+}

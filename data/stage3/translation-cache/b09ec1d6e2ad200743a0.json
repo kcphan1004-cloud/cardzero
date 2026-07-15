@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:21:15.240Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b09ec1d6e2ad200743a0",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-030"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユナ",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤娜",
+    "effectZh": "[登场时]\n查看自己山札上方 2 张。从中按任意顺序将想要的数量放回自己山札上方，其余置为场外。",
+    "triggerZh": ""
+  }
+}

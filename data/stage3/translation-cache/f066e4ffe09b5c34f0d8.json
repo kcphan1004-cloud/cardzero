@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:19:10.636Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f066e4ffe09b5c34f0d8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-014"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "[自分のターン中]\n[ターン1]\n自分の移動フェイズ以外でこのキャラが移動した時、このキャラはこのターン中、「\n[アタック時]\nカードを1枚引く。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "[自己的回合中]\n[第 1 回合]\n除了移动阶段外，当此角色移动时，使此角色在本回合中获得「\n[攻击时]\n抽 1 张牌。」。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

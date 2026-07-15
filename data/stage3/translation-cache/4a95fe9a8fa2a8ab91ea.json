@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:00:20.125Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a95fe9a8fa2a8ab91ea",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-107"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "伏黒 恵",
+    "effect": "[登場時]\nBP3000以下の相手の場のキャラを1枚まで選び、手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伏黑 惠",
+    "effectZh": "[登场时]\n选择对方场上 BP3000 以下的角色最多 1 张，将其返回手牌。",
+    "triggerZh": ""
+  }
+}

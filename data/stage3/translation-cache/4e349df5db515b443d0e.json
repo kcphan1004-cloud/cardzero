@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:19:10.637Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e349df5db515b443d0e",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-015"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "[登场时]\n选择自己场上的其他角色中的最多 1 张，使其在本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色中的 1 张，将其激活，并使其在本回合中 BP+3000。"
+  }
+}

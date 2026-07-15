@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:57:35.949Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2c157b50da87ebef14a1",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-002"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "石田 雨竜",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\n以下から『1つ』選ぶ。自分の場に〈ユーハバッハ〉がある場合、『全て』に代えてもよい。\n・自分のフロントLのキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替える。\n・このキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "石田雨龙",
+    "effectZh": "【启动主】\n【将手牌 1 张置入场外】\n【回合 1】\n从以下选项中『选择 1 个』。若自己的场上有〈友哈巴赫〉，也可改为『全部』。\n・各选自己前线 L 的卡与能量线 L 的卡各 1 张，交换它们的位置。\n・此卡的 BP+1000（本回合中）。",
+    "triggerZh": "【抽牌】\n抽入 1 张牌。"
+  }
+}

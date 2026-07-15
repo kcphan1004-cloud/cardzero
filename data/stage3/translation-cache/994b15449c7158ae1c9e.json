@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:02:08.762Z",
+  "model": "qwen3.5:9b",
+  "unitId": "994b15449c7158ae1c9e",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-029"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "朽木 白哉",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朽木白哉",
+    "effectZh": "如果该角色处于激活状态，则该角色的发生能量+\n[青]。",
+    "triggerZh": ""
+  }
+}

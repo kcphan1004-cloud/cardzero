@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:23:54.146Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a6b33b51a037562ddad9",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08ST/BLC-1-066",
+    "UA08BT/BLC-1-066",
+    "UA08BT/BLC-1-100",
+    "EX07BT/BLC-2-049"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "卍解",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "卍解",
+    "effectZh": "选择最多两张自己的 AP 卡并将其激活。",
+    "triggerZh": "[最终]\n自己没有生命时，将牌库上方的一张卡置入自己的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:08:49.121Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60ec0f11f12224b107a1",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-046"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "切島 鋭児郎",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "切岛 锐儿郎",
+    "effectZh": "【冲击无效化】\n（与此角色进行战斗的角色在本场战斗中，失去\n[冲击]\n）",
+    "triggerZh": ""
+  }
+}

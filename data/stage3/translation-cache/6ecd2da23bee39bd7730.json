@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:21:15.234Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ecd2da23bee39bd7730",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-024"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リーファ",
+    "effect": "自分の他の手札が4枚以上の場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。\n[登場時]\nAPを1支払ってもよい。そうした場合、BP4000以下の相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "黎恩",
+    "effectZh": "若自己其他手牌有 4 张以上，将本卡在手札中的必要能量\n[青×1]\n减少。\n[登场时]\n可以支付 AP1。如此做的话，选择对方前线 L BP4000 以下的角色最多 1 枚放回手牌。",
+    "triggerZh": "[颜色]\n选择对方前线 L BP3500 以下的角色 1 枚，放回手牌。"
+  }
+}

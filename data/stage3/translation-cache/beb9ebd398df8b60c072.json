@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:13:53.735Z",
+  "model": "qwen3.5:9b",
+  "unitId": "beb9ebd398df8b60c072",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-029",
+    "UA05BT/KMY-1-029",
+    "UA05BT/KMY-1-099"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "全集中の呼吸",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "全集中呼吸",
+    "effectZh": "选择至多 2 张自己的 AP 牌并将其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，从自己山札上方取置 1 张到自己的生命区域。"
+  }
+}

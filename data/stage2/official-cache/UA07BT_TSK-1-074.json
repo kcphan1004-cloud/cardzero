@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:01:35.031Z",
+  "number": "UA07BT/TSK-1-074",
+  "name": "シオン",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "3000+",
+  "feature": "鬼人",
+  "generatedEnergy": "绿色×1",
+  "effect": "[自分のターン中]\n自分の場に〈リムル〉がある場合、このキャラはBP+500。\n[登場時]\nこのキャラが自分の「キャラの効果・イベントカードの効果・トリガーの効果」で登場していた場合、このキャラをアクティブにし、このターン中、BP+500。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA07BT%2FTSK-1-074",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA07BT%2FTSK-1-074",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

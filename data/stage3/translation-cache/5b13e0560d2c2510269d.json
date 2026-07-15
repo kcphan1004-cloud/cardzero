@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:03:44.461Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5b13e0560d2c2510269d",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-003"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ドゥーン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杜恩",
+    "effectZh": "当此角色处于激活状态时，该角色的产生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

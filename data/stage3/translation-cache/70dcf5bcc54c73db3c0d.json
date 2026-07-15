@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:55:56.579Z",
+  "model": "qwen3.5:9b",
+  "unitId": "70dcf5bcc54c73db3c0d",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "EX12BT/KMR-2-052"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーＷ ヒートジョーカー",
+    "effect": "[登場時]\n必要エナジーが2以下の自分の場のカード名に「Ｗ」を含むキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士W 热乔克",
+    "effectZh": "[登场时]\n选择自己场上名字包含“W”的且必要能量为2以下的角色卡至多1张，本回合中BP+2000。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

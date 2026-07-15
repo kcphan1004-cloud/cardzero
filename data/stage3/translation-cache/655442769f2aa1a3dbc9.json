@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:35:58.030Z",
+  "model": "qwen3.5:9b",
+  "unitId": "655442769f2aa1a3dbc9",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-016"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "瀬呂 範太",
+    "effect": "[退場時]\n自分の場のキャラを1枚まで選び、別のラインに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "濑户范太",
+    "effectZh": "【退场时】\n选择自己场上的角色至多 1 张，移动到其他线。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

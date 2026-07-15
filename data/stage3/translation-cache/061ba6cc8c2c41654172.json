@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:00:14.751Z",
+  "model": "qwen3.5:9b",
+  "unitId": "061ba6cc8c2c41654172",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-103"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シュナ",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "修纳",
+    "effectZh": "[攻击时]\n抽 1 张牌，将手牌中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

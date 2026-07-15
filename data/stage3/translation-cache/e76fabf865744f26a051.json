@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:41:48.353Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e76fabf865744f26a051",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-016"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ラック・ボルティア",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[登場時]\n自分の場に他の［特徴：黒の暴牛］が6枚以上ある場合、このキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉克·博尔蒂亚",
+    "effectZh": "[自己的回合中]\n本角色的 BP+1000。\n[登场时]\n自己场上有其他［特征：黑之暴牛］的卡 6 张以上的场合，将本角色激活。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌。"
+  }
+}

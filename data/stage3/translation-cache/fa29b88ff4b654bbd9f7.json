@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:02:15.952Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa29b88ff4b654bbd9f7",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "EX10BT/AOT-2-014"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ピーク・フィンガー",
+    "effect": "[登場時]\n[エナジーLにある場合]\n自分の場に［特徴：地鳴らし］以外の黄のキャラのカード名が4種類以上ある場合、このキャラをアクティブにする。\n[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "皮克·芬格",
+    "effectZh": "[登场时]\n[位于能量L时]\n若自己场上除［特征：地鸣］外的黄色角色卡名有4种以上，则激活此角色。\n[启动主阶段]\n[置为横置状态]\n选择己方场上的其他角色卡最多1张，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

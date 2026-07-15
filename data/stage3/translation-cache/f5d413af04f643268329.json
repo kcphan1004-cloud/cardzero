@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:07:40.042Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f5d413af04f643268329",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-035"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "枢木 スザク",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "枢木朱雀",
+    "effectZh": "【登场时】\n抽 1 张牌。",
+    "triggerZh": "【颜色】\n从自己手牌中选择必要能量为 2 以下且消耗 AP 为 1 的绿色角色卡最多 1 张，以激活状态登场到自己的场上。"
+  }
+}

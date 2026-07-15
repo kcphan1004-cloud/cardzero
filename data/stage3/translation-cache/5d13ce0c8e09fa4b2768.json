@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:40:24.689Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5d13ce0c8e09fa4b2768",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-068"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ジノ・ヴァインベルグ",
+    "effect": "[登場時]\nBP3000以下の自分のフロントLの他のキャラを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉诺·温伯格",
+    "effectZh": "[登场时]\n选择自己前线 L 的其他角色中最多 1 张，且必要能量为 BP3000 以下的，激活之。",
+    "triggerZh": ""
+  }
+}

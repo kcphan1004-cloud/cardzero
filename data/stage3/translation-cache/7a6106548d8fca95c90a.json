@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:49:58.677Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7a6106548d8fca95c90a",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-060"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "カイゼル・グランボルカ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯泽尔·格兰博尔克",
+    "effectZh": "[冲击无效]\n（此角色与进行战斗的角色在本场战斗中，\n将 [冲击] 失去）",
+    "triggerZh": ""
+  }
+}

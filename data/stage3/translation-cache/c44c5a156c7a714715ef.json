@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:44:47.435Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c44c5a156c7a714715ef",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02BT/JJK-1-026"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "鵺",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鵺",
+    "effectZh": "[登场时]\n抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

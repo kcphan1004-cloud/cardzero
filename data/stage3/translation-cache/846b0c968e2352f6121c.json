@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:40:19.867Z",
+  "model": "qwen3.5:9b",
+  "unitId": "846b0c968e2352f6121c",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-028"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ジュラ・テンペスト連邦国",
+    "effect": "[ターン1]\n自分の場のキャラがアタックしてバトルに勝利した時、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "尤拉·风暴联邦国",
+    "effectZh": "【回合 1】\n自己场上的角色攻击并在战斗中获胜时，抽 1 张牌。",
+    "triggerZh": "【获得】\n将此卡加入手牌。"
+  }
+}

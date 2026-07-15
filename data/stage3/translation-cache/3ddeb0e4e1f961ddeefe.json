@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:53.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3ddeb0e4e1f961ddeefe",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA01NC/KMY-2-004"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "甘露寺 蜜璃",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nこのキャラはこのターン中、BP+2500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "甘露寺 蜜璃",
+    "effectZh": "启动主效果",
+    "triggerZh": ""
+  }
+}

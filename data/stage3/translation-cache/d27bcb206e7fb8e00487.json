@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:59:47.922Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d27bcb206e7fb8e00487",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-014"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "井上 織姫",
+    "effect": "[登場時]\n必要エナジーが2以下の自分の場のキャラを1枚手札に戻してもよい。そうした場合、自分の場外から必要エナジーが2以下のカードを1枚まで手札に加える。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "井上织姬",
+    "effectZh": "[登场时]\n可以将己方场上必要能量为 2 以下的角色卡返回手牌。如此操作的情况下，从己方场外选择至多 1 张必要能量为 2 以下的卡片加入手牌。",
+    "triggerZh": "[颜色]\n选择对方 BP3500 以下的前线 L 的角色卡，将其返回手牌。"
+  }
+}

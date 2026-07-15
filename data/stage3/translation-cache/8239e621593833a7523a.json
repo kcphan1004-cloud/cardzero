@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:44:37.735Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8239e621593833a7523a",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-059"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "Dr.モッコス",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から〈Dr.モッコス〉以外の［特徴：ロボコの敵］か〈河川敷〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Dr.莫科斯博士",
+    "effectZh": "【登场时】\n查看自己山札上方 5 张。从中公开除〈Dr.莫科斯博士〉以外的［特征：机器子之敌］或〈河川敷〉至多 1 枚并加入手牌，其余按任意顺序置于自己山札下方。",
+    "triggerZh": ""
+  }
+}

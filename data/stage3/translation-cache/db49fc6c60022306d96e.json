@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:07:12.964Z",
+  "model": "qwen3.5:9b",
+  "unitId": "db49fc6c60022306d96e",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-018"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ツェズゲラ",
+    "effect": "[登場時]\n自分の場のキャラ全ては、このターン中、BP+500。\n[起動メイン]\n[APを1支払う]\n[ターン1]\n自分の場のキャラ全ては、このターン中、BP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "铁球兽",
+    "effectZh": "[登场时]\n自己场上的所有角色在本回合中 BP+500。\n[启动主]\n[支付 1 AP]\n[第 1 回合]\n自己场上的所有角色在本回合中 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色，将其激活并使其本回合中 BP+3000。"
+  }
+}

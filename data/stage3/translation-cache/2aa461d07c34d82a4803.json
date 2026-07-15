@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:21:38.388Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2aa461d07c34d82a4803",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-035"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "時透 無一郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "时透 无一郎",
+    "effectZh": "",
+    "triggerZh": "[Get] \n将此卡加入手牌。"
+  }
+}

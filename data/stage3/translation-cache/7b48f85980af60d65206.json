@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:08:34.775Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7b48f85980af60d65206",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-052"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "阿散井 恋次",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿散井恋次",
+    "effectZh": "[登场时]\n抽一张牌，将自己的一张手牌置入场外。",
+    "triggerZh": ""
+  }
+}

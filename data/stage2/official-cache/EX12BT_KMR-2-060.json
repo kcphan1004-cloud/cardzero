@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:21.685Z",
+  "number": "EX12BT/KMR-2-060",
+  "name": "俺に質問するな",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "C",
+  "cost": 0,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "カードを1枚引き、自分の手札から必要エナジーが1以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。この効果で登場したキャラの\n[登場時]\nは発動しない。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-060",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-060",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "green",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

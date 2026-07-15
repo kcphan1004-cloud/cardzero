@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:53:34.805Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e9844b30b5b88b8eb5a9",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-065"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "黛 冬優子",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黛冬优子",
+    "effectZh": "【启动主阶段】\n【横置】\n【回合 1】\n本回合中，该角色的产生能量+\n【红】。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

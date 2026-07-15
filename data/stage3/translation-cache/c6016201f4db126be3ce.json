@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:43:49.432Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6016201f4db126be3ce",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA04NC/BLC-3-009"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "日番谷 冬獅郎",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "日番谷 冬狮郎",
+    "effectZh": "【登场时】\n抽1张牌。",
+    "triggerZh": "【颜色】\n从自己手札中选择必要能量为2以下且消耗AP为1的绿色角色卡，以激活状态登场到自己场上。"
+  }
+}

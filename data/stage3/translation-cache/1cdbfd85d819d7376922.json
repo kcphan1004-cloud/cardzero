@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:24:58.276Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1cdbfd85d819d7376922",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-002"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "[退场时]\n抽牌：抽取1张卡。",
+    "triggerZh": ""
+  }
+}

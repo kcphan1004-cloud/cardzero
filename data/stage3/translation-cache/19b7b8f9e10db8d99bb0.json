@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:18:42.197Z",
+  "model": "qwen3.5:9b",
+  "unitId": "19b7b8f9e10db8d99bb0",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-060"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "家族の誓い",
+    "effect": "自分の山札の上から4枚見る。その中から［特徴：ゾルディック家］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "家族的誓言",
+    "effectZh": "查看自己山牌的上方4张。从中公开最多2张［特征：揍敌客家］并加入手牌。将剩余部分按任意顺序放置于自己的山牌下方。",
+    "triggerZh": "【激活】\n选择自己场上的1张角色，使其处于激活状态，本回合中，BP+3000。"
+  }
+}

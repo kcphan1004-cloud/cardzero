@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:23:52.877Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e38eb907ccfe30a4935",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-027"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "メッサー・イーレフェルト",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梅萨·伊雷费尔特",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中失去冲击）",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:28.358Z",
+  "number": "UA30BT/ARK-1-015",
+  "name": "タルラ",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 6,
+  "ap": 2,
+  "bp": "5000",
+  "feature": "レユニオン",
+  "generatedEnergy": "黄色×1",
+  "effect": "[登場時]\n自分の場のアクティブのキャラを望む枚数レストにし、『BP1000』以下の相手のフロントLのキャラを1枚まで選び、退場させる。この効果でレストにしたキャラ1枚につき、この効果で選べるキャラのBPの範囲+1000。\n[起動メイン]\n[ターン1]\n自分の場のレストの他のキャラを望む枚数退場させ、『BP1000』以下の相手のフロントLのキャラを1枚選び、退場させる。この効果で退場させた自分のキャラ1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+  "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA30BT%2FARK-1-015",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-015",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 6
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

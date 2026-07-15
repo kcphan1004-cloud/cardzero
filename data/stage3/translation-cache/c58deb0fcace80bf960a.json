@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:40:24.688Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c58deb0fcace80bf960a",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "EX02BT/CGH-2-067"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "ジノ・ヴァインベルグ",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉诺·温伯格",
+    "effectZh": "[登场时]\n查看自己山札上方 1 张。将该卡置于自己山札上方或场外。",
+    "triggerZh": ""
+  }
+}

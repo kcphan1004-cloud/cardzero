@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:44:37.732Z",
+  "model": "qwen3.5:9b",
+  "unitId": "190b6d1c645996291cfc",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-057"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "カニオ",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "卡尼奥",
+    "effectZh": "【登场时】\n选择对方场上 BP1500 以上的角色至多 1 枚，本回合中，BP-1000。",
+    "triggerZh": "【激活】\n选择自己场上的角色至多 1 枚并激活，本回合中，BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:59:47.919Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5be7455bd040198e867e",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "EX07BT/BLC-2-012"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "聖隷",
+    "effect": "自分の場にある［特徴：バンビーズ］と〈バンビエッタ・バスターバイン〉の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "圣隶",
+    "effectZh": "选择对方前线L的、特征为「Bambies」与〈班比埃塔·巴斯特绑带〉的数量合计×1000以下的BP 范围内的角色卡，将其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色卡，使其退场。"
+  }
+}

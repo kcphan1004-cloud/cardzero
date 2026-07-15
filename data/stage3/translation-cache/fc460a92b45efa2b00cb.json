@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:29:44.132Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc460a92b45efa2b00cb",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-039"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "田中 摩美々",
+    "effect": "[登場時]\nBP2500以下の相手のフロントLのキャラを1枚まで選び、相手の山札の上か下に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "田中 摩美々",
+    "effectZh": "[登场时]\n选择 BP2500 以下的对方前线 L 的卡最多 1 枚，置入对方的山札上方或下方。",
+    "triggerZh": "[Color]\n选择 BP3500 以下的对方前线 L 的卡 1 枚，返回手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:29:26.379Z",
+  "model": "qwen3.5:9b",
+  "unitId": "37fe46af21caffd8d501",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-065"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "クライン",
+    "effect": "自分の場に〈フレイヤ〉がない場合、このキャラはBP-500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "克莱因",
+    "effectZh": "若自己场上没有〈弗蕾雅》，该角色 BP-500。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

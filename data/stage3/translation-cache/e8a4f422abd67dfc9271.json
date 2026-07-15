@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:56:48.785Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e8a4f422abd67dfc9271",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-AP01/S",
+    "UA20BT/BCV-1-AP02/S"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

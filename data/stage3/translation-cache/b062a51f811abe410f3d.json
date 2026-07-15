@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:32:43.594Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b062a51f811abe410f3d",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-053"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "市川 雛菜",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "市川雏菜",
+    "effectZh": "【登场时】\n将自己场上其他必要能量为 1 以下的角色中最多 1 张返回手牌。无法返回的情况下，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

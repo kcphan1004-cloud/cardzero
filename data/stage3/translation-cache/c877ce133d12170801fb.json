@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:04:18.352Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c877ce133d12170801fb",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-014"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "プーハット",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "普哈特",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

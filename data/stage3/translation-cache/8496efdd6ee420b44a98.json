@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:59:29.451Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8496efdd6ee420b44a98",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "UA02ST/JJK-1-101"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "虎杖 悠仁",
+    "effect": "[相手のターン中]\n自分の場外に〈宿儺の指〉がある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "虎杖 悠仁",
+    "effectZh": "[对方回合中]\n若场外有〈宿傩的指〉，此角色BP+1000。",
+    "triggerZh": "[Active]\n选择自己场上的1张卡牌并使其处于激活状态，本回合内BP+3000。"
+  }
+}

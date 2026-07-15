@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:37:35.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6535a63d18fe3364193d",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-077"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ミレーヌ・フレア・ジーナス",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "米蕾奴·弗莱亚·吉纳斯",
+    "effectZh": "[启动主]\n[横置状态]\n选择自己场上的其他角色 1 张，本回合中 BP+1000。",
+    "triggerZh": "[激活状态]\n选择自己场上的一张角色并使其激活，本回合中 BP+3000。"
+  }
+}

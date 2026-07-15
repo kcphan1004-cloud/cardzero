@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:18:00.578Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa762547960bccee7cb7",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-092"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レオリオ",
+    "effect": "[ターン1]\nこのキャラがアタックしてブロックされなかった時、カードを1枚引く。\n[起動メイン]\n[APを1支払う]\nこのキャラはこのターン中、BP+1500と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "雷欧力",
+    "effectZh": "[回合 1]\n当角色攻击且未被阻挡时，抽 1 张牌。\n[启动主阶段]\n[支付 1 AP]\n本回合中，BP+1500\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并将其置于激活状态，本回合中 BP+3000。"
+  }
+}

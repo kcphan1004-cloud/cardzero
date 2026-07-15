@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:07:09.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c540ce357232e3f00a0",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-074"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "竈門 禰󠄀豆子",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灶门 祢豆子",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

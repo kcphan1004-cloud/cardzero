@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:51:59.815Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1758ec360c7ea15dc9c3",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-096"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ガチゴリラミサイル",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ガチゴリラ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "硬核大猩猩导弹",
+    "effectZh": "选择对方前线 L 的 1 张角色卡并使其离场。若我方场上有〈硬核大猩猩〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色卡并使其离场。"
+  }
+}

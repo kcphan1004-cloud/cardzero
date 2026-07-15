@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:06:04.845Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2655ca2189b808bd7537",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-009"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "No.13",
+    "effect": "[自分のターン中]\nこのキャラの下の裏向きのカード1枚につき、このキャラはBP+1000。\n[登場時]\n自分の場外から［特徴：念獣］を1枚まで裏向きでこのキャラの下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "No.13",
+    "effectZh": "[自己的回合中]\n此角色下方的里侧卡每 1 张，此角色的 BP+1000。\n[登场时]\n从自己场外将［特征：念兽］最多 1 张以里侧状态置于该角色下方。",
+    "triggerZh": ""
+  }
+}

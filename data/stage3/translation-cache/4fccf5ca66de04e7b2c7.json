@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:46:07.907Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4fccf5ca66de04e7b2c7",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-029"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "斑鳩 ルカ",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：CoMETIK］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚リムーブエリアに置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斑鸠露卡",
+    "effectZh": "[登场时]\n查看自己山札上方的3张，公开最多1张［特征：CoMETIK］并加入手札，其余按任意顺序置于山札下方。若成功加入了手札，则将自己的手札中的1张移至移除区。",
+    "triggerZh": "[激活]\n选择自己场上的1张角色卡并激活之，本回合中BP+3000。"
+  }
+}

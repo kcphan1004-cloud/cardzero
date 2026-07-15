@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:06:42.055Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60f292dad144cd6991f1",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-032"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "全力で見逃せ！",
+    "effect": "自分の場の紫のキャラを1枚選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "全力看漏！",
+    "effectZh": "选择自己场上的紫色角色卡1张，给予本回合中「此角色不会被BP 2000以下的角色阻挡。」的效果。抽1张牌。",
+    "triggerZh": "[Draw] \n抽1张牌。"
+  }
+}

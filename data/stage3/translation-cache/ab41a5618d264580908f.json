@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:37:29.828Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ab41a5618d264580908f",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09BT/BTR-1-037"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "ボンド",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "邦德",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从其中选择想要数量的卡，按任意顺序放回自己的牌库上方，将剩余的卡置为场外。",
+    "triggerZh": ""
+  }
+}

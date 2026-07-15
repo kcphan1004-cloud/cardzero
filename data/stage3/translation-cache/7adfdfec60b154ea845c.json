@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:27:22.730Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7adfdfec60b154ea845c",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-046"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "レイナ・プラウラー",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蕾娜·普劳拉",
+    "effectZh": "",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

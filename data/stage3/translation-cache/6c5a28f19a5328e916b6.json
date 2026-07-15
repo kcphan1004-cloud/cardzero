@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:36:08.417Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c5a28f19a5328e916b6",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-067"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ロイ・フォッカー",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[赤×2]\n減らす。\n[起動メイン]\n[ターン1]\nこのキャラのBPが元々のBPより高い場合のみ発動できる。このキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗伊·福卡",
+    "effectZh": "自己场上没有卡片时，将手札中这张卡的必要能量\n[赤×2]\n减少。\n[启动主]\n[回合 1]\n仅当该角色的 BP 高于原本 BP 时可发动。该角色在本回合中，BP+500。",
+    "triggerZh": ""
+  }
+}

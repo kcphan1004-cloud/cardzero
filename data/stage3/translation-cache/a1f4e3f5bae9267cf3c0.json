@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:29:34.237Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a1f4e3f5bae9267cf3c0",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-035"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "[登場時]\n自分の場外のカードを1枚までリムーブエリアに置く。その後、自分のリムーブエリアにカードが3枚以上ある場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "【自己的回合中】\n将自己外场至多一张卡牌移至移除区。之后，若自己移除区的卡牌有 3 张以上，选择自己场上至多一个角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

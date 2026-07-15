@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:39:57.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d8eeeea67081f29cf0c",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-088"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "園田 智代子",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[エナジーLにある場合]\n自分のアタックフェイズ終了時、このキャラをフロントLに移動してもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "园田智代子",
+    "effectZh": "【步骤】\n（在自己的移动阶段可以从前线移动到能量线）\n【在能量线上的情况下】\n自己的攻击阶段结束时，可以将此角色移动到前线。",
+    "triggerZh": ""
+  }
+}

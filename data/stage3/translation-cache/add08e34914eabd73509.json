@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:41:48.356Z",
+  "model": "qwen3.5:4b",
+  "unitId": "add08e34914eabd73509",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-017"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ヴァニカ・ゾグラティス",
+    "effect": "[退場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "瓦妮卡·佐格拉提斯",
+    "effectZh": "[退场时]\n从牌库上方抽取 1 张牌，将手札中的 1 张卡置于场外。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:41:20.810Z",
+  "model": "qwen3.5:9b",
+  "unitId": "991f2e336c1ab8b2ea44",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-002"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "大崎 甜花",
+    "effect": "[自分のターン中]\n自分の場外にあるカードが0枚の場合、このキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大崎甜花",
+    "effectZh": "[自己的回合中]\n如果自己的场外没有卡片，这个角色 BP+1500。",
+    "triggerZh": ""
+  }
+}

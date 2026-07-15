@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:52:15.969Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6b89366c7228e341e8a6",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-074"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "アスタ",
+    "effect": "このキャラの下に裏向きのカードがある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿斯达",
+    "effectZh": "若该角色下方存在横置状态的卡，则该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

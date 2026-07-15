@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:13:53.736Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d56b447b71e0b8b5ef4e",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-033",
+    "UA05BT/KMY-1-033"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "水の呼吸 拾ノ型 生生流転",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈竈門 炭治郎〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "水之呼吸·拾之型·生生流转",
+    "effectZh": "选择对手前线 L 上 BP3000 以下的角色至多 1 枚并将其退场。若自己场上有〈灶门 炭治郎〉，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手前线 L 的角色至多 1 枚并将其退场。"
+  }
+}

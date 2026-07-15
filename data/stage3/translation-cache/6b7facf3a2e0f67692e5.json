@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:44:39.752Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b7facf3a2e0f67692e5",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04ST/IMS-1-017",
+    "UA04BT/IMS-1-017"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "八宮 めぐる",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "八宫 美铃",
+    "effectZh": "",
+    "triggerZh": "【抽牌】\n抽一张牌。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:07.782Z",
+  "number": "PC02BT/NIK-2-032",
+  "name": "リリーバイス",
+  "color": "紫色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "PcC",
+  "cost": 9,
+  "ap": 1,
+  "bp": "5000",
+  "feature": "ピルグリム／ゴッデス",
+  "generatedEnergy": "紫色×1",
+  "effect": "自分の場にある［特徴：ゴッデス］の元々のカード名1種類につき、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=PC02BT%2FNIK-2-032",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=PC02BT%2FNIK-2-032",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "紫",
+        "amount": 9
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "purple",
+        "amount": 1
+      }
+    ]
+  }
+}

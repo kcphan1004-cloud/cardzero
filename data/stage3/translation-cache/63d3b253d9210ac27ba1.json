@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:16:33.444Z",
+  "model": "qwen3.5:9b",
+  "unitId": "63d3b253d9210ac27ba1",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-075"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "C.C.",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "【登场时】\n抽 1 张牌，将手札中的 1 张置为横置状态。",
+    "triggerZh": "【Draw】\n抽 1 张牌。"
+  }
+}

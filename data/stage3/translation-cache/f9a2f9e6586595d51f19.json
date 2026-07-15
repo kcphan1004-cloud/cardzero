@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:47:19.632Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f9a2f9e6586595d51f19",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "PC01BT/IMS-3-037"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "鈴木 羽那",
+    "effect": "自分のリムーブエリアにカードが3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "铃木羽那",
+    "effectZh": "若场外有 3 张以上的卡，该角色的 BP+1000。",
+    "triggerZh": "[激活]\n选择场上的 1 张自己的角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

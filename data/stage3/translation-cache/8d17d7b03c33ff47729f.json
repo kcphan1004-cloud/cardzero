@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:44:47.182Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8d17d7b03c33ff47729f",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-019"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "幽谷 霧子",
+    "effect": "[レイド]\n〈幽谷 霧子〉アクティブにし、フロントLに移動できる\n[登場時]\nこのキャラはこのターン中、「\n[アタック時]\n[ターン1]\n相手のフロントLの元々のBPよりBPが低いキャラを1枚まで選び、退場させる。」を得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "幽谷 雾子",
+    "effectZh": "[Raid]\n〈幽谷 雾子〉可激活并移动至前线 L\n[登场时]\n此角色本回合获得「\n[攻击时]\n选择对方前线 L 的原本 BP 低于自己的角色最多 1 枚，使其退场。」。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

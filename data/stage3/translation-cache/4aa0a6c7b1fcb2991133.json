@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:23:57.587Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4aa0a6c7b1fcb2991133",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-067"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "スクワラ",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "斯库瓦拉",
+    "effectZh": "[登场时]\n选择对方场上 BP 为 1500 以上的角色最多 1 张，本回合中 -BP1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:56:05.558Z",
+  "number": "EX02BT/CGH-2-024",
+  "name": "黎 星刻",
+  "color": "蓝色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3500+",
+  "feature": "中華連邦",
+  "generatedEnergy": "蓝色×1",
+  "effect": "[自分のターン中]\n自分の場に〈天子〉がある場合、このキャラはBP+500。\n[登場時]\nカードを2枚引き、自分の手札を2枚場外に置く。",
+  "trigger": "[ドロー]\nカードを1枚引く。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX02BT%2FCGH-2-024",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX02BT%2FCGH-2-024",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "青",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "blue",
+        "amount": 1
+      }
+    ]
+  }
+}

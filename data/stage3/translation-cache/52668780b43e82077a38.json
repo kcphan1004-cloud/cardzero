@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:56:59.970Z",
+  "model": "qwen3.5:9b",
+  "unitId": "52668780b43e82077a38",
+  "seriesSlug": "me-and-roboco",
+  "series": "我与机器子",
+  "cardNumbers": [
+    "UA09ST/BTR-1-109"
+  ],
+  "source": {
+    "series": "我与机器子",
+    "name": "押忍!!クソ男飯!!",
+    "effect": "自分の場のキャラを1枚選び、このターン中、BP+2000。自分の場に〈ロボコ〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "压忍!!臭男饭!!",
+    "effectZh": "选择自己场上的 1 张角色卡，本回合中 BP+2000。如果自己的场上有〈ロボコ〉，可以选择自己手牌中的最多 1 张 AP 卡牌并激活它。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:04:18.354Z",
+  "model": "qwen3.5:9b",
+  "unitId": "42d6af75ad83d03e8dd9",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-016"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "トラエモン",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚を裏向きでこのキャラの下に置く。\n[退場時]\nこのキャラの下に置かれたカードを見る。その中から1枚までを手札に加え、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特拉埃蒙",
+    "effectZh": "[启动主阶段]\n横置\n从自己的牌库上方取 1 张以背面朝上放置在该角色下方。\n[退场时]\n查看放置在该角色下方的卡片。从中选择至多 1 张加入手牌，其余弃掉。",
+    "triggerZh": ""
+  }
+}

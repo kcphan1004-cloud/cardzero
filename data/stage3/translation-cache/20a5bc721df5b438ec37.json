@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:42:29.741Z",
+  "model": "qwen3.5:9b",
+  "unitId": "20a5bc721df5b438ec37",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "EX03BT/IMS-2-005"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "風野 灯織",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "风野 灯织",
+    "effectZh": "[登场时]\n抽 1 张牌，将自己手札中的 1 张放置于场外。",
+    "triggerZh": "[激活]\n选择自己的场上的卡并激活之，本回合中，BP+3000。"
+  }
+}

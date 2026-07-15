@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:36:05.861Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b6877d54f8e6d382a27",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-001"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ゲルド",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "格尔德",
+    "effectZh": "[阻挡 2 次]\n（当此角色本回合首次进行阻挡时，激活）",
+    "triggerZh": "[激活]\n选择自己场上的一张角色卡并激活。在本回合中，BP+3000。"
+  }
+}

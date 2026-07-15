@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:14:53.298Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40174aee032a01ae4f8f",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-106"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "嘴平 伊之助",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "嘴平 伊之助",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色（1 名），使其激活，本回合中，BP+3000。"
+  }
+}

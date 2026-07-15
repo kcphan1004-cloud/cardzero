@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:09:18.553Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a63ef3c1fec4fea5653e",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-080"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "ムキムキねずみ",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "肌肉老鼠",
+    "effectZh": "对方场上有黄色或紫色的卡时，将手牌中此卡的必要能量 [赤×1] 减少。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:26.443Z",
+  "number": "EX12BT/KMR-2-088",
+  "name": "仮面ライダーナイト",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "R",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500+",
+  "feature": "-",
+  "generatedEnergy": "红色×1",
+  "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[赤×2]\n減らす。\n[アタック時]\n自分の手札の〈ファイナルベント〉を1枚場外に置いてもよい。そうした場合、カードを1枚引き、このキャラはこのターン中、BP+1500。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-088",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-088",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 1
+      }
+    ]
+  }
+}

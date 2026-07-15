@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:11:43.526Z",
+  "model": "qwen3.5:9b",
+  "unitId": "37b06f53216f21be08b2",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-037"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "これが私達の、3年間",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "这就是我们的、三年间",
+    "effectZh": "选择自己的 AP 卡最多 2 张并激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己山札上方将 1 张置于自己的生命区域。"
+  }
+}

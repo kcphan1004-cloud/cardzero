@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:13:31.369Z",
+  "number": "UA47BT/TKG-1-004",
+  "name": "有馬 貴将",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 7,
+  "ap": 1,
+  "bp": "5000",
+  "feature": "CCG",
+  "generatedEnergy": "黄色×1",
+  "effect": "[レイド]\n〈有馬 貴将〉アクティブにし、フロントLに移動できる\n各ターンのこのキャラの1回目のアタック中、このキャラは\n[ダメージ（2）]\nを得る。\n[ターン1]\nこのキャラのアタック終了時、このターン中に相手のキャラが退場している場合、このキャラをアクティブにし、カードを1枚引く。\n[登場時]\nこのキャラは次の自分のターン開始時まで、「相手は効果でこのキャラを選ぶ際に、追加で自身の手札を1枚場外に置かないと選べない。」を得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA47BT%2FTKG-1-004",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA47BT%2FTKG-1-004",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 7
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

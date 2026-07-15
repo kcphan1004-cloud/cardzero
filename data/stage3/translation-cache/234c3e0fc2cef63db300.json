@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:31:44.136Z",
+  "model": "qwen3.5:9b",
+  "unitId": "234c3e0fc2cef63db300",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-047"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "幽谷 霧子",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "幽谷 雾子",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

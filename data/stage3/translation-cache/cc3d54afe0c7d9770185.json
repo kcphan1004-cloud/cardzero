@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:38:46.895Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc3d54afe0c7d9770185",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-021"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ソウエイ",
+    "effect": "[ブロック時]\nこのキャラはこのターン中、『BP-1000』。アタックしている相手のキャラがレイド状態の場合、『BP+1000』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "苍井",
+    "effectZh": "[阻挡时]\n此角色本回合中，『BP-1000』。若攻击中的对方角色处于 Raid 状态，则改为『BP+1000』。\n\n触发器：无",
+    "triggerZh": ""
+  }
+}

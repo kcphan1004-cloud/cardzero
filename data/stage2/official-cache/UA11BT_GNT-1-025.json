@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:02:48.071Z",
+  "number": "UA11BT/GNT-1-025",
+  "name": "山崎 退",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 1,
+  "ap": 1,
+  "bp": "1500",
+  "feature": "真選組",
+  "generatedEnergy": "黄色×1",
+  "effect": "[退場時]\n自分の山札の上から3枚見る。その中から［特徴：真選組］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA11BT%2FGNT-1-025",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA11BT%2FGNT-1-025",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 1
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

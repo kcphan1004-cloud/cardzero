@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:36:58.661Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa0da020b7db2bf60cc5",
+  "seriesSlug": "idolmaster-shiny-colors",
+  "series": "偶像大师 闪耀色彩",
+  "cardNumbers": [
+    "UA04BT/IMS-1-069"
+  ],
+  "source": {
+    "series": "偶像大师 闪耀色彩",
+    "name": "和泉 愛依",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "和泉 爱依",
+    "effectZh": "[登场时]\n抽1张牌，将手牌中的1张置入场外。",
+    "triggerZh": "[Draw]\n抽1张牌。"
+  }
+}

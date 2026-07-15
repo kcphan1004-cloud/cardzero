@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:32:10.373Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74e260b0ce107bf01d45",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-007"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "飯田 天哉",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "饭田天哉",
+    "effectZh": "[步骤]\n（在自己的移动阶段可从前线 L 移至能量线）",
+    "triggerZh": ""
+  }
+}

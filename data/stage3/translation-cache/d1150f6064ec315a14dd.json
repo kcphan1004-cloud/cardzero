@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:06:08.729Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1150f6064ec315a14dd",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-006"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "紫雲 清夏",
+    "effect": "[自分のターン中]\n自分の場に［特徴：1年生］のカード名が4種類以上か〈葛城 リーリヤ〉がある場合、このキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "紫云清夏",
+    "effectZh": "[自己的回合中]\n如果自己场上有［特征：一年级］的 4 种以上卡名或〈葛城莉利亚〉，则该角色 BP+1500。",
+    "triggerZh": ""
+  }
+}

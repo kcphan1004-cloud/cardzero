@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:27:30.475Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c4e7aaa5618af0e89b1",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "EX05BT/KMY-3-053"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "堕姫",
+    "effect": "[起動メイン]\n自分のフロントLの\n[レイド]\nを持ち、レイド状態でない〈堕姫〉を1枚選び、アクティブにし、そのキャラの下にこのキャラを表向きで置く。（レイド状態になる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "堕姬",
+    "effectZh": "【启动主效果】\n选择自己前线 L 的\n【Raid】\n持有且非 Raid 状态的〈堕姬〉中的 1 张，激活它，并将此角色以表向状态放置于该角色下方。（变为 Raid 状态）",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

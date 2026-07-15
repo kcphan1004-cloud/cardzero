@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:18:38.020Z",
+  "model": "qwen3.5:9b",
+  "unitId": "50317c4070ac0920f147",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-074"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "京楽 春水",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "京乐春水",
+    "effectZh": "【伤害（2）】\n（该角色攻击直接造成伤害时，代替造成 2 点伤害）、",
+    "triggerZh": "【Draw】\n抽 1 张牌。"
+  }
+}

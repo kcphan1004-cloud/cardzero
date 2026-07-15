@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:59:29.468Z",
+  "number": "UA01NC/KMY-2-004",
+  "name": "甘露寺 蜜璃",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SP",
+  "cost": 0,
+  "ap": 1,
+  "bp": "1500+",
+  "feature": "柱",
+  "generatedEnergy": "黄色×1",
+  "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nこのキャラはこのターン中、BP+2500。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01NC%2FKMY-2-004",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA01NC%2FKMY-2-004",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "yellow",
+        "amount": 0
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

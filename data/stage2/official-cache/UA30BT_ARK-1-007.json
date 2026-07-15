@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:08:27.065Z",
+  "number": "UA30BT/ARK-1-007",
+  "name": "スカルシュレッダー",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500+",
+  "feature": "レユニオン",
+  "generatedEnergy": "黄色×1",
+  "effect": "場外にあるこのカードの必要エナジーを\n[黄×2]\n減らす。\n[レイド]\n〈ミーシャ〉/〈アレックス〉アクティブにし、フロントLに移動できる\n[自分のターン中]\nこのキャラはBP+1500。\n[退場時]\nこのキャラのレイド元のカードが持つ\n[登場時]\nか\n[退場時]\nをこのキャラが発動してもよい。",
+  "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA30BT%2FARK-1-007",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-007",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

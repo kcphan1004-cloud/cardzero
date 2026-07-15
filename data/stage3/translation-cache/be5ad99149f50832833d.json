@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:10:44.317Z",
+  "model": "qwen3.5:9b",
+  "unitId": "be5ad99149f50832833d",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-050"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "キューエル",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "丘尔",
+    "effectZh": "[无效化冲击]\n（与该角色进行战斗的角色在本场战斗中，\n[冲击]\n将失去）",
+    "triggerZh": ""
+  }
+}

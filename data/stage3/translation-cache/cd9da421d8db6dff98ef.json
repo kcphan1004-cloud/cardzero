@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T23:25:09.153Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cd9da421d8db6dff98ef",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "EX14BT/MCR-2-032"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "フレイア・ヴィオン",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "弗蕾雅·维昂",
+    "effectZh": "[登场]\n抽牌 1 张并将自己的手牌 1 张置入场外。",
+    "triggerZh": "[抽取]\n抽牌 1 张。"
+  }
+}

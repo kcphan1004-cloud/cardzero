@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:27:19.925Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c1ac5b12ef5fb482e0f2",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-053"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ミト",
+    "effect": "[登場時]\n相手の場のキャラを1枚まで選び、このターン中、「このキャラのBPが元々のBPより低い場合、このキャラはブロックできない。」を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "米特",
+    "effectZh": "[登场时]\n选择对方场上的最多 1 张卡，给予“若该角色的 BP 低于原本 BP，则该角色无法阻挡。”的效果。",
+    "triggerZh": "[激活]\n选择自己场上的一张卡，将其激活，该角色在本回合中，BP+3000。"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:57:18.122Z",
+  "number": "EX07BT/BLC-2-067",
+  "name": "更木 剣八",
+  "color": "绿色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "4000+",
+  "feature": "護廷十三隊",
+  "generatedEnergy": "绿色×1",
+  "effect": "[レイド]\n〈更木 剣八〉アクティブにし、フロントLに移動できる\nこのキャラはBPをマイナスする効果を受けない。\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\nこのキャラのレイド元が必要エナジーが4以上のカードの場合、このキャラは以下の効果を全て得る。\n・相手の効果やバトルによってこのキャラが場を離れる場合、代わりに自分の手札を1枚場外に置いてもよい。そうした場合、レイド状態のこのキャラの一番上のカードを自分の場外に置く。\n・\n[登場時]\nこのキャラはこのターン中、BP+1000と\n[ダメージ（2）]\nを得る。",
+  "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX07BT%2FBLC-2-067",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-067",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "green",
+        "amount": 1
+      }
+    ]
+  }
+}

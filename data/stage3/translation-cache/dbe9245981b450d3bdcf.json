@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:48:42.769Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dbe9245981b450d3bdcf",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-073"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ランガ",
+    "effect": "[登場時]\nこのキャラが自分の「キャラの効果・イベントカードの効果・トリガーの効果」で登場していた場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "朗加",
+    "effectZh": "[登场时]\n若此角色是由自己的「角色的效果・事件卡的効果・触发器的效果」登场，则抽牌 1 张。",
+    "triggerZh": "[抽取]\n抽牌 1 张。"
+  }
+}

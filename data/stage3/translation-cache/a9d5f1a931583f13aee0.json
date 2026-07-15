@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:50:13.683Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a9d5f1a931583f13aee0",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20BT/BCV-1-061"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "ジャック・ザリッパー",
+    "effect": "自分の発生エナジーが6以上ある場合、このキャラはBP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "杰克·扎利皮尔",
+    "effectZh": "当你拥有6点以上的发生能量时，本角色BP+1500。",
+    "triggerZh": "[激活]\n选择你场上的1张角色并使其处于激活状态，在本回合中 BP+3000。"
+  }
+}

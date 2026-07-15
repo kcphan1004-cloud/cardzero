@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:12:16.668Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fe3c507b6b6e5deafdb4",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-027"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ロバート・アキュトロン",
+    "effect": "[登場時]\n相手の場にBP4000以上のキャラがある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗伯特·阿克特龙",
+    "effectZh": "[登场时]\n对方场上存在 BP4000 以上的角色的情况下，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

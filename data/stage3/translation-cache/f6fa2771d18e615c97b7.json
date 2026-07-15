@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:22:33.244Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6fa2771d18e615c97b7",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-034"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "エイジ",
+    "effect": "[アタック時]\n自分の山札の上から1枚まで場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾吉",
+    "effectZh": "[攻击时]\n从自己的山札上方将最多 1 张放置到场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色，激活它，本回合中，BP+3000。"
+  }
+}

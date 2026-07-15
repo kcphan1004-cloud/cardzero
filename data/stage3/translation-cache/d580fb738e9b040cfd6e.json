@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:24:58.272Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d580fb738e9b040cfd6e",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-072"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "自分の場にある〈ゴン＝フリークス〉、〈クラピカ〉、〈レオリオ〉のカード名の種類の数により、このキャラは以下の効果を全て得る。\n・2種類以上：\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n・3種類以上：\n[登場時]\nこのキャラをアクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "奇犽·揍敌客",
+    "effectZh": "根据自己场上存在的〈 Gon=Freex 〉、〈 Kurapika 〉、〈 Reorio 〉的卡名种类数量，该角色获得以下所有效果。\n·2种以上：\n[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n·3种以上：\n[登场时]\n激活此角色。",
+    "triggerZh": "[激活]\n选择自己场上的1张卡并激活，本回合中 BP+3000。"
+  }
+}

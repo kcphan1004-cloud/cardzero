@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:04:56.732Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a24cc02b99cb03e6f129",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-003"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "エス・ノト",
+    "effect": "相手のフロントLのレストのキャラ1枚につき、このキャラはBP+1000。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "艾斯·诺特",
+    "effectZh": "对方前线L的横置角色每有 1 张，该角色的 BP+1000。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的角色 1 枚并使其处于横置状态。它在下一次激活前不会变为激活状态。"
+  }
+}

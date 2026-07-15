@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T18:58:07.602Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b803919db613dc57739d",
+  "seriesSlug": "black-clover",
+  "series": "黑色五叶草",
+  "cardNumbers": [
+    "UA20ST/BCV-1-101"
+  ],
+  "source": {
+    "series": "黑色五叶草",
+    "name": "メレオレオナ・ヴァーミリオン",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "梅雷奥莱昂·瓦米尔安",
+    "effectZh": "[伤害（2）]\n（当此角色通过攻击直接造成伤害时，改为造成 2 点伤害）\n［己方回合］\n此角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

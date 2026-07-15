@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:37:51.691Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2cba17230e9b72f9ea5f",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-012"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "リムル",
+    "effect": "[レイド]\n〈リムル〉アクティブにし、フロントLに移動できる\n[アタック時]\nカードを1枚引く。BP3000以上の自分の場の他のキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "[Raid]\n〈利姆鲁〉激活，可移动至前线 L\n[攻击时]\n抽 1 张牌。选择 BP3000 以上的自己场上的其他角色最多 1 枚，本回合中，BP+2000。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

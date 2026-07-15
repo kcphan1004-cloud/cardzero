@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:00:13.122Z",
+  "number": "UA03BT/HTR-1-098",
+  "name": "ドキドキ2択クイズ",
+  "color": "绿色",
+  "type": "事件卡",
+  "typeJa": "イベント",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "-",
+  "feature": "-",
+  "generatedEnergy": "-",
+  "effect": "相手のフロントLのキャラと、相手のエナジーLのキャラをそれぞれ1枚ずつ選ぶ。\n相手は選ばれたキャラのうち1枚を退場させてもよい。相手が選ばれたキャラを退場させなかった場合、自分はカードを1枚引き、自分のAPカードを1枚までアクティブにする。",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA03BT%2FHTR-1-098",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA03BT%2FHTR-1-098",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "緑",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": []
+  }
+}

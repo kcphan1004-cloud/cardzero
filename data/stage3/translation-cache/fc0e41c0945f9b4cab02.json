@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:47:39.264Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc0e41c0945f9b4cab02",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-066"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "操糸妖縛陣",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "操糸妖縛陣",
+    "effectZh": "选择对方前线 L 的角色至多 1 张，使其进入横置状态。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:57:02.837Z",
+  "model": "qwen3.5:9b",
+  "unitId": "63626040c33ce37d5a9f",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07ST/TSK-1-041",
+    "UA07BT/TSK-1-041"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "シズ",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "希兹",
+    "effectZh": "[登场时]\n选择对方场上 BP1500 以上的角色卡最多 1 张，本回合中，BP-1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

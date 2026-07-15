@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:07.264Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0971523354a4b304bbd4",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-097"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "チェス勝負",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場外にイベントカードが3枚以上ある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "国际象棋对决",
+    "effectZh": "选择对方前线 L 的 1 张角色卡并使其退场。若我方场外有 3 张以上事件卡，则改为『BP5000以下』。\n[触发]\n选择对方前线 L 的 1 张角色卡并使其退场。",
+    "triggerZh": "[特殊]"
+  }
+}

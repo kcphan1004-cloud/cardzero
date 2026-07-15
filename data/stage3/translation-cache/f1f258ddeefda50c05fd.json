@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:25:07.262Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1f258ddeefda50c05fd",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-096"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "学園祭",
+    "effect": "自分の山札の上から4枚見る。その中から特徴に「アッシュフォード学園」を持つキャラカードを2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "学园祭",
+    "effectZh": "查看自己牌库上方的 4 张卡。从中公开最多 2 张拥有特征「阿什福德学院」的角色卡加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。",
+    "triggerZh": ""
+  }
+}

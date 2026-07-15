@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:51:02.866Z",
+  "model": "qwen3.5:9b",
+  "unitId": "191ec2b68d5c76e58d05",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "EX06BT/MHA-2-060"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "波動 ねじれ",
+    "effect": "手札にあるこのカードの必要エナジーを\n[緑×2]\n減らす。\n自分の場に必要エナジーが4以上の他のキャラがある場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "波动 扭曲",
+    "effectZh": "将手牌中这张卡的必要能量\n[绿×2]\n减少。\n如果自己的场上有其他必要能量为4以上的角色，该角色的发生能量+\n[绿]。",
+    "triggerZh": ""
+  }
+}

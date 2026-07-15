@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T16:58:14.717Z",
+  "number": "EX12BT/KMR-2-020",
+  "name": "仮面ライダーゼロワン ブレイキングマンモス",
+  "color": "黄色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "U",
+  "cost": 2,
+  "ap": 1,
+  "bp": "2500",
+  "feature": "飛電インテリジェンス",
+  "generatedEnergy": "黄色×1",
+  "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[黄×2]\n減らす。\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+  "trigger": "",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=EX12BT%2FKMR-2-020",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX12BT%2FKMR-2-020",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "黄",
+        "amount": 2
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "yellow",
+        "amount": 1
+      }
+    ]
+  }
+}

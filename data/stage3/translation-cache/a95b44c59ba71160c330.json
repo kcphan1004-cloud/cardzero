@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T13:57:03.908Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a95b44c59ba71160c330",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05BT/KMY-1-037"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "鬼舞辻󠄀無惨(擬態\"少年\")",
+    "effect": "このカードは〈鬼舞辻󠄀 無惨〉としても扱う。\n[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鬼舞辻󠄀无惨 (拟态\"少年\")",
+    "effectZh": "此卡也作为〈鬼舞辻󠄀 无惨〉处理。\n[启动主]\n[横置状态]\n[回合 1]\n本回合中，此角色的发生能量+\n[紫]\n。主阶段结束时，使此角色退场。",
+    "triggerZh": ""
+  }
+}

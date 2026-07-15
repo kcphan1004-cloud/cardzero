@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:59:27.245Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0be3248e6b1d162d35bb",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-021"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "灰原 雄",
+    "effect": "[退場時]\n自分の場に〈七海 建人〉がある場合、カードを1枚まで引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灰原雄",
+    "effectZh": "【退场时】\n若自己场上有〈七海建人〉，可抽至多 1 张牌。",
+    "triggerZh": ""
+  }
+}

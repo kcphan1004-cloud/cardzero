@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T15:58:09.078Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ee98b3f95902fcfcd7d",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-003"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "オール・フォー・ワン",
+    "effect": "自分の場に\n[起動メイン]\nを持つキャラが3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "All For One",
+    "effectZh": "当场上拥有 [启动主] 的角色的数量达到或超过 3 枚时，该角色获得 BP+1000。",
+    "triggerZh": ""
+  }
+}

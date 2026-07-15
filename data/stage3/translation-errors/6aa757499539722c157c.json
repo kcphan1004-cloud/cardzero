@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-15T13:18:27.562Z",
+  "unitId": "6aa757499539722c157c",
+  "cardNumbers": [
+    "EX13BT/GIM-2-057"
+  ],
+  "error": "EX13BT/GIM-2-053 缺少中文效果。"
+}

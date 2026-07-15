@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:25:19.144Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3838b86e48bcbb6adcd3",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-008"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "メフィスト",
+    "effect": "[自分のターン中]\n自分の効果でこのキャラが場を離れた時、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梅菲斯特",
+    "effectZh": "[自己的回合中]\n当此角色因我方效果离场时，抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

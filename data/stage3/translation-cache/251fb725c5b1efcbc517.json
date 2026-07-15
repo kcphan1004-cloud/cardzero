@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T21:19:10.638Z",
+  "model": "qwen3.5:9b",
+  "unitId": "251fb725c5b1efcbc517",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "EX08BT/SAO-2-016"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "クラディール",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克劳迪尔",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:15:46.893Z",
+  "model": "qwen3.5:9b",
+  "unitId": "01f3f682bd89d0824e59",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-AP01",
+    "UA05ST/KMY-1-AP02",
+    "UA05BT/KMY-1-AP01",
+    "UA05BT/KMY-1-AP02",
+    "UA05BT/KMY-1-AP03",
+    "UA05BT/KMY-1-AP04",
+    "UA05BT/KMY-1-AP05",
+    "UA05BT/KMY-1-AP06",
+    "EX05BT/KMY-3-AP01",
+    "EX05BT/KMY-3-AP02",
+    "EX05BT/KMY-3-AP03",
+    "EX05BT/KMY-3-AP04",
+    "UA01NC/KMY-2-AP01"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "アクションポイントカード(鬼滅の刃)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡片（鬼灭之刃）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:33:35.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "73c686c94e64e7d18d08",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06ST/TOA-1-080",
+    "UA06BT/TOA-1-080"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "鉄仮面",
+    "effect": "このカードは〈アルフェン〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "铁面具",
+    "effectZh": "本卡也作为〈阿尔芬〉处理。",
+    "triggerZh": "[获取]\n将本卡加入手牌。"
+  }
+}

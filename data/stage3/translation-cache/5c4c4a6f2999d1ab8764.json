@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T01:08:04.705Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5c4c4a6f2999d1ab8764",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03BT/HTR-1-041"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "パクノダ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "派克诺妲",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

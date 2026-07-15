@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T19:13:41.971Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ae32a9c43965149e641b",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-038"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ゴン＝フリークス",
+    "effect": "[レイド]\n〈ゴン＝フリークス〉アクティブにし、フロントLに移動できる\n[登場時]\nこのターン中、次に手札から使用する[特徴：指定ポケット]の消費APを-1する。\n[退場時]\n自分の場外から[特徴：指定ポケット]を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "贡＝弗里克斯",
+    "effectZh": "[Raid]\n〈贡＝弗里克斯〉激活并可移动至 Front L\n[登场时]\n本回合中，下次从手牌使用［特征：指定口袋］的消耗 AP-1。\n[退场时]\n从自己场外取最多 1 张［特征：指定口袋］加入手牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

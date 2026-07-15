@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T22:27:35.358Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ccf164b9aa15f4ed899",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "EX11BT/ARK-2-022"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ロスモンティス",
+    "effect": "[アタック時]\nBP1500以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗斯蒙蒂斯",
+    "effectZh": "【攻击时】\n选择 BP1500 以下的对方前线 L 的角色至多 1 张，使其横置状态。",
+    "triggerZh": "【激活】\n选择自己场上的角色 1 张，将其激活，本回合中，BP+3000。"
+  }
+}

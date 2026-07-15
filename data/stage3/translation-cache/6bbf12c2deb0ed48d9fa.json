@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T00:08:24.798Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6bbf12c2deb0ed48d9fa",
+  "seriesSlug": "code-geass",
+  "series": "Code Geass 反叛的鲁路修",
+  "cardNumbers": [
+    "UA01BT/CGH-1-041"
+  ],
+  "source": {
+    "series": "Code Geass 反叛的鲁路修",
+    "name": "シュナイゼル・エル・ブリタニア",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "修奈泽尔·埃尔·不列颠尼亚",
+    "effectZh": "【登场时】\n选择自己场上的其他角色至多 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

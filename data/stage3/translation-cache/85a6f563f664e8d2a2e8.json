@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-14T20:05:24.852Z",
+  "model": "qwen3.5:9b",
+  "unitId": "85a6f563f664e8d2a2e8",
+  "seriesSlug": "jujutsu-kaisen",
+  "series": "咒术回战",
+  "cardNumbers": [
+    "EX04BT/JJK-3-058"
+  ],
+  "source": {
+    "series": "咒术回战",
+    "name": "壊相",
+    "effect": "[アタック時]\n同じラインに〈脹相〉と〈血塗〉がある場合、カードを1枚引き、自分の手札を1枚場外に置き、このキャラはこのターン中、BP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "坏相",
+    "effectZh": "【攻击时】\n若同一直线上存在〈胀相〉与〈血涂〉，则抽 1 张牌，将自身手札中的 1 张置入场外，该角色本回合中 BP+500。",
+    "triggerZh": "【激活】\n选择自身场地上的一张角色进行激活，本回合中 BP+3000。"
+  }
+}

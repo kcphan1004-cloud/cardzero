@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:28:49.010Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b81ad2e30aac82859f2",
+  "seriesSlug": "tales-of-arise",
+  "series": "破晓传说",
+  "cardNumbers": [
+    "UA06BT/TOA-1-066"
+  ],
+  "source": {
+    "series": "破晓传说",
+    "name": "ファーストエイド",
+    "effect": "自分の場外からキャラカードを1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "急救包",
+    "effectZh": "从场外最多选择 1 张角色卡加入手牌。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

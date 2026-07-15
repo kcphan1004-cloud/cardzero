@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:13:53.731Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8b417b47c8388c0ffa86",
+  "seriesSlug": "demon-slayer",
+  "series": "鬼灭之刃",
+  "cardNumbers": [
+    "UA05ST/KMY-1-014",
+    "UA05BT/KMY-1-014"
+  ],
+  "source": {
+    "series": "鬼灭之刃",
+    "name": "栗花落 カナヲ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "栗花落 香奈乎",
+    "effectZh": "此角色处于激活状态时，该角色的产生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

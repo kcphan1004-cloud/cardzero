@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "parseVersion": 1,
+  "fetchedAt": "2026-07-14T17:06:37.661Z",
+  "number": "UA23BT/AOT-1-077",
+  "name": "アルミン・アルレルト",
+  "color": "红色",
+  "type": "角色卡",
+  "typeJa": "キャラクター",
+  "rarity": "SR",
+  "cost": 4,
+  "ap": 1,
+  "bp": "3000",
+  "feature": "104期兵／リヴァイ班",
+  "generatedEnergy": "红色×3",
+  "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。\n・このターン中、次に自分が「BPの範囲に指定がある効果」でキャラを選ぶ際、指定できるBPの範囲+1000。（BP2000以下のキャラを選べる効果でBP3000以下を選べるようになる）\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラの\n[登場時]\nを発動する。",
+  "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+  "officialDetailUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA23BT%2FAOT-1-077",
+  "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-077",
+  "raw": {
+    "requiredEnergy": [
+      {
+        "color": "赤",
+        "amount": 4
+      }
+    ],
+    "generatedEnergy": [
+      {
+        "color": "red",
+        "amount": 3
+      }
+    ]
+  }
+}

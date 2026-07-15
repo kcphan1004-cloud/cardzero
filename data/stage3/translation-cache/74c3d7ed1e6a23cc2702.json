@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T14:50:21.415Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74c3d7ed1e6a23cc2702",
+  "seriesSlug": "tensura",
+  "series": "关于我转生变成史莱姆这档事",
+  "cardNumbers": [
+    "UA07BT/TSK-1-083"
+  ],
+  "source": {
+    "series": "关于我转生变成史莱姆这档事",
+    "name": "ミリム",
+    "effect": "自分の発生エナジーが6以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米鲁姆",
+    "effectZh": "自己的产生能量为 6 以上时，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}
