@@ -57,15 +57,15 @@ export default function TierListPage() {
 
   return (
     <main id="top" className="min-h-screen bg-[#070707] text-white">
-      <div className="mx-auto w-full max-w-[1180px] px-4 py-4 sm:px-5 lg:px-6">
-        <header className="rounded-xl border-2 border-zinc-700 bg-[#0d0d0d] px-5 py-4">
-          <div className="flex flex-wrap items-center justify-between gap-4">
+      <div className="mx-auto w-full max-w-[1180px] px-2 py-3 sm:px-5 lg:px-6">
+        <header className="rounded-xl border-2 border-zinc-700 bg-[#0d0d0d] px-3 py-3 sm:px-5 sm:py-4">
+          <div className="flex flex-wrap items-center justify-between gap-3">
             <div>
-              <p className="text-[11px] font-semibold tracking-[0.22em] text-red-400">
+              <p className="text-[9px] font-semibold tracking-[0.2em] text-red-400 sm:text-[11px]">
                 CARDZERO × BEHDECK
               </p>
 
-              <h1 className="mt-1.5 text-2xl font-black tracking-tight sm:text-3xl lg:text-4xl">
+              <h1 className="mt-1 text-xl font-black tracking-tight sm:text-3xl lg:text-4xl">
                 马来西亚 Union Arena 环境 T 表
               </h1>
             </div>
@@ -74,7 +74,7 @@ export default function TierListPage() {
               href={tierData.sourceUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center rounded-md border-2 border-red-500 bg-red-600 px-3 py-1.5 text-[11px] font-bold text-white transition hover:bg-red-500"
+              className="inline-flex items-center rounded-md border-2 border-red-500 bg-red-600 px-2.5 py-1 text-[10px] font-bold text-white transition hover:bg-red-500 sm:px-3 sm:py-1.5 sm:text-[11px]"
             >
               前往 BehDeck
               <span aria-hidden="true" className="ml-1">
@@ -83,7 +83,7 @@ export default function TierListPage() {
             </a>
           </div>
 
-          <div className="mt-3 flex flex-wrap items-center gap-x-5 gap-y-1 border-t-2 border-zinc-800 pt-2 text-[9px] text-zinc-500">
+          <div className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1 border-t-2 border-zinc-800 pt-2 text-[8px] text-zinc-500 sm:text-[9px]">
             <span>
               更新时间：
               <b className="text-zinc-300">
@@ -104,10 +104,6 @@ export default function TierListPage() {
                 {totalItems}
               </b>
             </span>
-
-            <span className="hidden sm:inline">
-              点击图案前往 BehDeck 原始页面
-            </span>
           </div>
         </header>
 
@@ -122,16 +118,16 @@ export default function TierListPage() {
             </p>
           </section>
         ) : (
-          <div className="mt-3 space-y-3">
+          <div className="mt-3 space-y-2.5 sm:space-y-3">
             {tierData.tiers.map((tier) => (
               <section
                 id={tier.id}
                 key={tier.id}
-                className="grid overflow-hidden rounded-xl border-[3px] border-zinc-600 bg-[#0b0b0b] shadow-[0_5px_18px_rgba(0,0,0,0.35)] md:grid-cols-[125px_1fr]"
+                className="overflow-hidden rounded-xl border-[3px] border-zinc-600 bg-[#0b0b0b] shadow-[0_5px_18px_rgba(0,0,0,0.35)] md:grid md:grid-cols-[125px_1fr]"
               >
-                <div className="flex items-center justify-between border-b-[3px] border-zinc-700 bg-[#101010] px-3 py-2.5 md:block md:border-b-0 md:border-r-[3px]">
+                <div className="flex items-center justify-between border-b-[3px] border-zinc-700 bg-[#101010] px-2.5 py-1.5 md:block md:border-b-0 md:border-r-[3px] md:px-3 md:py-2.5">
                   <div
-                    className={`inline-flex min-w-[86px] items-center justify-center rounded-md border-2 px-2 py-1 text-[10px] font-black ${
+                    className={`inline-flex min-w-[76px] items-center justify-center rounded-md border-2 px-2 py-0.5 text-[9px] font-black sm:min-w-[86px] sm:py-1 sm:text-[10px] ${
                       tierAccent[tier.label] ??
                       "border-zinc-500 bg-zinc-900 text-zinc-100"
                     }`}
@@ -139,12 +135,12 @@ export default function TierListPage() {
                     {tier.label}
                   </div>
 
-                  <span className="ml-2 text-[9px] font-semibold text-zinc-500 md:mt-1.5 md:block md:ml-0">
+                  <span className="ml-2 text-[8px] font-semibold text-zinc-500 md:mt-1.5 md:block md:ml-0 md:text-[9px]">
                     {tier.items.length} 个牌组
                   </span>
                 </div>
 
-                <div className="grid grid-cols-[repeat(3,62px)] justify-center gap-1.5 px-3 py-2.5 sm:grid-cols-[repeat(4,62px)] md:grid-cols-[repeat(6,62px)] lg:grid-cols-[repeat(8,62px)] xl:grid-cols-[repeat(10,62px)] 2xl:grid-cols-[repeat(12,62px)]">
+                <div className="grid grid-cols-8 gap-1 px-2 py-2 sm:grid-cols-10 sm:gap-1.5 sm:px-3 sm:py-2.5 md:grid-cols-[repeat(10,54px)] md:justify-center lg:grid-cols-[repeat(12,54px)]">
                   {tier.items.map((item) => (
                     <a
                       key={item.id}
@@ -153,14 +149,14 @@ export default function TierListPage() {
                       rel="noopener noreferrer"
                       title={item.title}
                       aria-label={`${item.title}，前往 BehDeck 原始页面`}
-                      className="group h-[62px] w-[62px] overflow-hidden rounded-md border-2 border-zinc-700 bg-[#111] transition hover:-translate-y-0.5 hover:border-red-500 focus:outline-none focus:ring-2 focus:ring-red-500"
+                      className="group aspect-square w-full overflow-hidden rounded-[4px] border border-zinc-700 bg-[#111] transition hover:-translate-y-0.5 hover:border-red-500 focus:outline-none focus:ring-1 focus:ring-red-500 sm:border-2"
                     >
                       <img
                         src={item.image}
                         alt={item.alt || item.title}
                         loading="lazy"
                         decoding="async"
-                        className="h-full w-full object-contain p-1 transition duration-200 group-hover:scale-[1.04]"
+                        className="h-full w-full object-contain p-0.5 transition duration-200 group-hover:scale-[1.04] sm:p-1"
                       />
                     </a>
                   ))}
@@ -170,7 +166,7 @@ export default function TierListPage() {
           </div>
         )}
 
-        <footer className="mt-3 rounded-lg border-2 border-zinc-800 bg-[#0d0d0d] px-3 py-2 text-center text-[9px] leading-4 text-zinc-500">
+        <footer className="mt-3 rounded-lg border-2 border-zinc-800 bg-[#0d0d0d] px-3 py-2 text-center text-[8px] leading-4 text-zinc-500 sm:text-[9px]">
           图片、T 表排名及分析来源：
           <span className="font-semibold text-zinc-300">
             BehDeck／八脚鱼
