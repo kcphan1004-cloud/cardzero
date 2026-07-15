@@ -1,0 +1,38 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:16:04.303Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5d236302803f86366d11",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-AP01",
+    "UA15ST/SAO-1-AP02",
+    "UA15BT/SAO-1-AP01",
+    "UA15BT/SAO-1-AP02",
+    "UA15BT/SAO-1-AP03",
+    "UA15BT/SAO-1-AP04",
+    "UA15BT/SAO-1-AP05",
+    "UA15BT/SAO-1-AP06",
+    "UA15BT/SAO-1-AP07",
+    "UA15BT/SAO-1-AP08",
+    "UA15BT/SAO-1-AP09",
+    "EX08BT/SAO-2-AP01",
+    "EX08BT/SAO-2-AP02",
+    "EX08BT/SAO-2-AP03",
+    "EX08BT/SAO-2-AP04",
+    "EX08BT/SAO-2-AP05",
+    "EX08BT/SAO-2-AP06"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アクションポイントカード(ソードアート・オンライン)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（刀剑神域）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

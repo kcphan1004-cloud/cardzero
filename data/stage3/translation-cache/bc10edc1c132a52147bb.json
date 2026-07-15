@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:15:12.601Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bc10edc1c132a52147bb",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-103"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、別のラインに移動させる。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "[登场时]\n最多选择自己场上的一张卡并移动至其他线、",
+    "triggerZh": "[颜色]\n选择对手前线 L 中 BP3500 以下的角色一张并将其返回手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:15:12.600Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c5e362ab6a69c39d07ea",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-102"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "エギル",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "埃吉尔",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张卡并将其置于激活状态，本回合中 BP+3000。"
+  }
+}

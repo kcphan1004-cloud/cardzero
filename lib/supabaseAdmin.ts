@@ -1,8 +1,11 @@
-import { createClient } from "@supabase/supabase-js";
+import {
+  createClient,
+  type SupabaseClient,
+} from "@supabase/supabase-js";
 
-let cachedClient: ReturnType<typeof createClient> | null = null;
+let cachedClient: SupabaseClient<any> | null = null;
 
-export function getSupabaseAdmin() {
+export function getSupabaseAdmin(): SupabaseClient<any> {
   if (cachedClient) {
     return cachedClient;
   }
@@ -26,7 +29,7 @@ export function getSupabaseAdmin() {
     );
   }
 
-  cachedClient = createClient(
+  cachedClient = createClient<any>(
     supabaseUrl,
     serviceRoleKey,
     {

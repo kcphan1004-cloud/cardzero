@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:15:12.604Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a3dd2b15f1ebd022db6",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-105"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "サチ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "沙缇",
+    "effectZh": "[退场时]\n抽一张牌、",
+    "triggerZh": ""
+  }
+}

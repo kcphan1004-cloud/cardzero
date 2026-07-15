@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:16:04.308Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8d5b31b192e5f2a60293",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-003"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ノワール",
+    "effect": "[登場時]\nカードを2枚引き、自分の手札を1枚自分の山札の上に置く。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "Noir",
+    "effectZh": "[登场时]\n抽 2 张牌，将自身手札中的 1 张置于自身的山札上方。",
+    "triggerZh": "[Color]\n选择对方的 Front L 的角色 1 枚，使其横置状态。它在下一次激活前不会变为激活状态。"
+  }
+}

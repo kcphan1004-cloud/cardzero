@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:17:17.015Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ab8aeecd903e5dfda8e",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-007"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "デイジーオーガ",
+    "effect": "[レイド]\n〈カナタ〉アクティブにし、フロントLに移動できる\n自分の場に〈ノワール〉がある場合、このキャラは\n[インパクト（1）]\nを得る。\n[起動メイン]\n[フロントLにある場合]\n[手札を2枚場外に置く]\n[ターン1]\n自分の山札の上から1枚を公開し『手札に加える』。公開したカードが必要エナジーを満たし消費APが1のカードの場合、『APを支払わずに使用する』に代えてもよい。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "黛西奥加",
+    "effectZh": "[Raid]\n〈明日〉变为激活状态并移动至前线 L\n当自己的场上有〈诺瓦尔〉时，该角色获得\n[冲击（1）]\n。\n[启动主]\n[位于前线 L 时]\n[将手牌中的 2 张置入场外]\n[回合 1]\n公开自己山札上方的一张并『加入手牌』。若公开的卡满足必要能量且消耗 AP 为 1，可以代替使用『不支付 AP 而使用』。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

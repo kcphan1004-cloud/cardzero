@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:17:17.019Z",
+  "model": "qwen3.5:9b",
+  "unitId": "885156190c72703e1da6",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-011"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "エリー",
+    "effect": "[自分のターン中]\nこのターン中に自分のキャラが場から手札に戻っている場合、このキャラはBP+500と「このキャラがアタックしてブロックされなかった時、自分の手札から必要エナジーが2以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾莉",
+    "effectZh": "[在自己的回合中]\n若本回合内自己的角色从场上返回至手牌，该角色获得 BP+500 和「当该角色攻击未被阻挡时，可以从自己手牌中选择必要能量为 2 以下且消耗 AP 为 1 的黄卡最多 1 张以横置状态登场。」",
+    "triggerZh": ""
+  }
+}

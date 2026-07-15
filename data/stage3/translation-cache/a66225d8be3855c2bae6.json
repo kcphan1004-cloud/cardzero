@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:16:04.300Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a66225d8be3855c2bae6",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-109"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "スイッチ",
+    "effect": "自分のAPカードを1枚まで選び、アクティブにする。以下から1つ選ぶ。\n・自分の場のキャラを1枚まで選び、別のラインに移動させる。\n・自分のフロントLのキャラと自分のエナジーLのキャラを1枚ずつ選び、それらの位置を入れ替えてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "Switch",
+    "effectZh": "选择自身 AP 卡至多 1 张，使其激活。从以下中选择 1 个。\n・选择自身场中的角色至多 1 枚，移动至其他线。\n・可以选择将自身的 Front L 的角色与自身的 Energy L 的角色各选 1 枚的位置互换。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}
