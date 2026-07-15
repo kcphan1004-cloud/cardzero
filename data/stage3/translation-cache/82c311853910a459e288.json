@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:03:00.451Z",
+  "model": "qwen3.5:9b",
+  "unitId": "82c311853910a459e288",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-099"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "デビル因子",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "恶魔因子",
+    "effectZh": "选择自身 AP 卡牌至多 2 张，将其激活。",
+    "triggerZh": "[最终]\n若自身没有生命点数，则从自身山札上方取 1 张放置于自身的生命区域。"
+  }
+}

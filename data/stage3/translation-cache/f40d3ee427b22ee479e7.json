@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:27:05.082Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f40d3ee427b22ee479e7",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-081"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "千切 豹馬",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "千切 豹马",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

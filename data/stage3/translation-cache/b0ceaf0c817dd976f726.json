@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:54:35.145Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b0ceaf0c817dd976f726",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-075"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "キャサリン",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯瑟琳",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

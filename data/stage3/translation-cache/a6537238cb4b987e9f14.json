@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:40:50.956Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a6537238cb4b987e9f14",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-007"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シリカ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "希兹克利夫",
+    "effectZh": "【启动主】\n[横置]\n选择自己场上的其他 1 张角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

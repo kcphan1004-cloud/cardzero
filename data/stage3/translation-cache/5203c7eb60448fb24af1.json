@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:15.031Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5203c7eb60448fb24af1",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-043"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ジョシー・リサール",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "乔西·里萨尔",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

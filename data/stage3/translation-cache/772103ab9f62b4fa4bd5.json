@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:43:03.915Z",
+  "model": "qwen3.5:9b",
+  "unitId": "772103ab9f62b4fa4bd5",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-019"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ（創世神ステイシア）",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "亚丝娜（创世神·斯蒂西亚）",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:29:22.080Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5af3dc17472b50e9695f",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-105"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "爆豪 勝己",
+    "effect": "[アタック時]\nBP2500以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "爆豪胜己",
+    "effectZh": "[攻击时]\n选择 BP2500 以下的对方前线 L 的角色至多 1 枚，使其退场。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

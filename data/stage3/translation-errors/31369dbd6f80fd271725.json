@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-15T17:25:07.596Z",
+  "unitId": "31369dbd6f80fd271725",
+  "cardNumbers": [
+    "UA12BT/BLK-1-076"
+  ],
+  "error": "UA12BT/BLK-1-074 缺少中文 Trigger。"
+}

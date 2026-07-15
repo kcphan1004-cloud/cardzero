@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:40:50.955Z",
+  "model": "qwen3.5:9b",
+  "unitId": "49acee7c46b20dcc5bcc",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-006"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ロニエ・アラベル",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "洛妮埃·阿拉贝尔",
+    "effectZh": "【登场时】\n将自己场上其他角色中能量需求为 1 或更少的 1 张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

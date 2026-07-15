@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:42:15.063Z",
+  "model": "qwen3.5:9b",
+  "unitId": "53352eee3187f7b78f8d",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-016"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "レイ・ウーロン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雷·乌隆",
+    "effectZh": "此角色处于激活状态时，该角色的产生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

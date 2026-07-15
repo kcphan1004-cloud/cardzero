@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:31:40.436Z",
+  "model": "qwen3.5:9b",
+  "unitId": "437a31e7409800c151d8",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-056",
+    "UA12BT/BLK-1-056"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "成早 朝日",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "成早 朝日",
+    "effectZh": "[退场]\n抽一张牌。",
+    "triggerZh": ""
+  }
+}

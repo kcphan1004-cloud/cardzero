@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:09:15.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "708492db66b24deb8bb7",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-011"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "フランソワ",
+    "effect": "[レイド]\n〈フランソワ〉アクティブにし、フロントLに移動できる\n[登場時]\nカードを3枚引き、自分の手札を『2枚』場外に置く。自分の場に〈七海 龍水〉と〈科学船ペルセウス〉がある場合、『1枚』に代えてもよい。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "弗朗索瓦",
+    "effectZh": "【Raid】激活〈弗朗索瓦〉并移动到前线\n【登场时】抽 3 张牌，将手札中的『2 枚』置入场外。如果场上有〈七海龙水〉和〈科学船珀尔修斯〉，也可以改为『1 枚』。",
+    "triggerZh": "【Raid】将此卡加入手札或满足必要能量时发动 Raid。”}},{"
+  }
+}

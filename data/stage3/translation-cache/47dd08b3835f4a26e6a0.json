@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:51:29.914Z",
+  "model": "qwen3.5:9b",
+  "unitId": "47dd08b3835f4a26e6a0",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-065"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "松陽の教え",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "松阳的教诲",
+    "effectZh": "选择自己的 AP 角色卡最多 2 枚并使其激活。",
+    "triggerZh": "【最终】\n如果自己没有生命，从自己牌库上方放置 1 张卡到自己的生命区域。"
+  }
+}

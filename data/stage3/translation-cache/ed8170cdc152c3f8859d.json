@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:30:10.353Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ed8170cdc152c3f8859d",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-106"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "緑谷 出久",
+    "effect": "相手のフロントLにキャラが3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绿谷出久",
+    "effectZh": "对方前线L有 3 张以上角色时，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

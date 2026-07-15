@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:09:34.046Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d22c1d1904389986ed3c",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-034"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "天才との出会い",
+    "effect": "自分の山札の上から7枚見る。その中から〈凪 誠士郎〉と〈御影 玲王〉をそれぞれ1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "与天才的相遇",
+    "effectZh": "查看自己牌库上方的七张。从中公开〈凪诚士郎〉和〈御影玲王〉各至多一张并加入手札，其余按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[抽]"
+  }
+}

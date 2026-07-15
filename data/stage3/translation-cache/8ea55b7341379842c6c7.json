@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:32:28.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ea55b7341379842c6c7",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-002"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "今井 信女",
+    "effect": "[レイド]\n〈今井 信女〉アクティブにし、フロントLに移動できる\n[アタック時]\n[ターン1]\n自分のフロントLにある他のキャラを1枚手札に戻してもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "今井 信女",
+    "effectZh": "【Raid】\n将〈今井 信女〉激活并移动到前线 L\n【攻击时】\n【回合 1】\n可以将自己位于前线 L 的其他角色返回至手牌。若如此做，则将该角色激活。",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

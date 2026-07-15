@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:00:24.203Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c16a26ece76781fd1981",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-101"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "志村 妙",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "志村 妙",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

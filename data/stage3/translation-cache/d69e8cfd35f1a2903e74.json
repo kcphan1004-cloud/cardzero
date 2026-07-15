@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:00:01.140Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d69e8cfd35f1a2903e74",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-089"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "三島 一八",
+    "effect": "[自分のターン中]\nこのキャラの下の裏向きのカード1枚につき、このキャラはBP+500。\n[登場時]\n自分の山札の上から1枚を裏向きでこのキャラの下に置いてもよい。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "三岛 一八",
+    "effectZh": "[自己的回合中]\n此角色下方的里向卡牌每有 1 张，此角色的 BP+500。\n[登场时]\n可以从自己牌库上方选择 1 张以里向状态放置在此角色下方。",
+    "triggerZh": "[颜色]\n选择对方 Front L 的 BP2500 以下的角色 1 枚并使其退场。"
+  }
+}

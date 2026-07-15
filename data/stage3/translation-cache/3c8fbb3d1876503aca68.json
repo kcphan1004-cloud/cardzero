@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:18:32.319Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3c8fbb3d1876503aca68",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-064"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "ファントム・メナス",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈通形 ミリオ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "幻影·梅纳斯",
+    "effectZh": "选择对方前线 L 的 1 名角色并使其离场。若我方场上有〈通形·米利欧〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 枚并使其退场。"
+  }
+}

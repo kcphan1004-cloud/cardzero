@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:24:42.339Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ad05dea7d3560e9c16f2",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-082"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "金狼",
+    "effect": "[自分のターン中]\n自分の場に［特徴：クラフト］が2枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金狼",
+    "effectZh": "[自己的回合中]\n当自己场上有 2 张以上［特征：工艺］时，此角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

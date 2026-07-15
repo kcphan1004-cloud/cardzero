@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:43:38.280Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d3b8e621ab3c44bc34a7",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-029"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "局中法度",
+    "effect": "自分の場の［特徴：真選組］全ては、このターン中、BP+1000。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "局中法度",
+    "effectZh": "自己场上的［特征：真选组］全部在本回合内，BP+1000。抽 1 张牌。",
+    "triggerZh": "[登场时]\n抽 1 张牌。"
+  }
+}

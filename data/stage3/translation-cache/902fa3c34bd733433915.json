@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:50:28.831Z",
+  "model": "qwen3.5:9b",
+  "unitId": "902fa3c34bd733433915",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-058"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "吉田 松陽",
+    "effect": "このカードが手札から場外に置かれた時、自分の場に紫のカードがある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉田 松阳",
+    "effectZh": "当此卡从手牌置入场外时，若场上有紫色卡牌，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

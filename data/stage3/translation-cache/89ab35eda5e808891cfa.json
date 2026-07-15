@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:28:13.756Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89ab35eda5e808891cfa",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-087"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "蜂楽 廻",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "蜂乐 廻",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

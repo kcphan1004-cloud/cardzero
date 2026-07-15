@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:15.028Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ba8431084686c7a26c19",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-041"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ザフィーナ",
+    "effect": "[退場時]\n自分のターン中の場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "扎菲娜",
+    "effectZh": "[退场时]\n若在自身回合中，选择对方前线 L 的角色至多 1 张，此回合中 BP-2000。",
+    "triggerZh": ""
+  }
+}

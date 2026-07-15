@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:32:28.296Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2b3bd23ffcad88469541",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-003"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "佐々木 異三郎",
+    "effect": "[エナジーLにある場合]\n自分の場のキャラが手札に戻った時、このキャラをフロントLに移動させてもよい。",
+    "trigger": "[アクティブ]\n自分の場のキャラクターを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "佐々木 异三郎",
+    "effectZh": "[能量线存在时]\n自己的场角色返回手牌时，可以将该角色移动到前线。",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

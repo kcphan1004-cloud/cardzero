@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:21:04.074Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b6550c2b34f77a08681c",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-067"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "霊長類最強の男",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈獅子王 司〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "人类最强之男",
+    "effectZh": "选择对方前线 L 的 1 名 BP3000 以下的角色并使其退场。若我方场上有〈狮子王 司〉，则改为“BP5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色进行 1 张并使其退场。"
+  }
+}

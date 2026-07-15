@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:36:31.266Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6d992ed0f0dab8a793b4",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-105"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "今村 遊大",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "今村 遊大",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色1张，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

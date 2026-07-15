@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:00:24.199Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9113bba965a2b7131d47",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-092",
+    "UA11BT/GNT-1-092"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "志村 新八",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "志村 新八",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上一张其他角色返回手牌。若无法如此操作，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:39:13.711Z",
+  "model": "qwen3.5:9b",
+  "unitId": "078bc39e8ba49de799fc",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-106"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "石神 千空",
+    "effect": "[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "石神千空",
+    "effectZh": "[启动主]\n[横置状态]\n抽 1 张牌，将自身手牌中任意 1 张移至场外。",
+    "triggerZh": ""
+  }
+}

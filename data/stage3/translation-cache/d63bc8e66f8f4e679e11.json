@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:45:27.581Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d63bc8e66f8f4e679e11",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-039"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "阿伏兎",
+    "effect": "[起動メイン]\n[レストにする]\n相手のフロントLのキャラを1枚選び、このターン中、BP-500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿伏兔",
+    "effectZh": "[横置]\n选择对方前线 L 的角色 1 枚，本回合中 BP-500。",
+    "triggerZh": ""
+  }
+}

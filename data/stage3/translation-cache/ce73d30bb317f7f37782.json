@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:30:54.857Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce73d30bb317f7f37782",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-043",
+    "UA12BT/BLK-1-043"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "潔 世一",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場のキャラの下の裏向きのカードを1枚、裏向きのカードが下にない自分の場のキャラの下に移動させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "洁世一",
+    "effectZh": "[启动主]\n[回合 1]\n将己方场上的角色下方的倒置卡移动至另一张己方场上角色的下方（若该位置无倒置卡）。",
+    "triggerZh": "[获取]\n将此牌加入手牌。"
+  }
+}

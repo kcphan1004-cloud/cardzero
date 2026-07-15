@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:55:14.926Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7911d7a75088f83bb186",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-085"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "アンナ・ウィリアムズ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "安娜·威廉姆斯",
+    "effectZh": "[登场时]\n将自己场上的其他角色中 1 张（必要能量为 1 或以下）返回手牌。若无法如此操作，则将此角色返回手牌、",
+    "triggerZh": ""
+  }
+}

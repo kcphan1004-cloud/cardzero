@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:44:30.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1396cd5aeed9f081bd2",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-036"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "坂本 辰馬",
+    "effect": "[フロントLにある場合]\n自分の\n[退場時]\nが発動する際、自分の手札を1枚場外に置いてもよい。そうした場合、その\n[退場時]\nは発動しない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "坂本辰马",
+    "effectZh": "[位于前线 L 的情况下]\n当 [退场时] 发动，即使将手牌的 1 张卡置在场外也可以。若如此操作，该 [退场时] 不会发动。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

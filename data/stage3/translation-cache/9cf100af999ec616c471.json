@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:13:18.961Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9cf100af999ec616c471",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-049"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "通形 ミリオ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "通形ミリオ",
+    "effectZh": "",
+    "triggerZh": "[触发] 将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:27:05.083Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3914732815d272d3c5c",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-082"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "千切 豹馬",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の赤のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "千切 豹马",
+    "effectZh": "[登场时]\n从自己的手牌中，最多选择 1 张消耗 AP 为 1、必要能量在 2 以下的红色角色卡以横置状态登场。",
+    "triggerZh": "[激活]\n选择自己场上的任意一张角色卡并使其处于激活状态，本回合 BP+3000。"
+  }
+}

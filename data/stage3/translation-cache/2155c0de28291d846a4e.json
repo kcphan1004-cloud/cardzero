@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:09:34.042Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2155c0de28291d846a4e",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-028"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "食堂",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "食堂",
+    "effectZh": "将该区域激活并登场。\n【启动主】\n【横置】\n选择自己场上一张角色，本回合中 BP+500。",
+    "triggerZh": "[Get]"
+  }
+}

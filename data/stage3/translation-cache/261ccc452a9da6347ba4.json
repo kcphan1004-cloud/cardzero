@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:00:24.200Z",
+  "model": "qwen3.5:9b",
+  "unitId": "261ccc452a9da6347ba4",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-096",
+    "UA11BT/GNT-1-096"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "いちごパフェ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "草莓圣代",
+    "effectZh": "选择最多 2 张自己的 AP 卡并使其处于激活状态。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从牌库上方取一张牌放置于自己的生命区域。"
+  }
+}

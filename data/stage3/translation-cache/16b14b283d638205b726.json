@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:29:22.078Z",
+  "model": "qwen3.5:9b",
+  "unitId": "16b14b283d638205b726",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-103"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "切島 鋭児郎",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "切岛锐儿郎",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

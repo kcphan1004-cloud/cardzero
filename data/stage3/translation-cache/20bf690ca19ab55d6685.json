@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:28:13.761Z",
+  "model": "qwen3.5:9b",
+  "unitId": "20bf690ca19ab55d6685",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-091"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "御影 玲王",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "御影 玲王",
+    "effectZh": "[登场时]\n选择己方场上的其他角色中的一张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

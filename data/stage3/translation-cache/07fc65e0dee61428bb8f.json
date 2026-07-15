@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:07:40.925Z",
+  "model": "qwen3.5:9b",
+  "unitId": "07fc65e0dee61428bb8f",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-019"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "馬狼 照英",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "馬狼 照英",
+    "effectZh": "[无效化冲击]\n（与该角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

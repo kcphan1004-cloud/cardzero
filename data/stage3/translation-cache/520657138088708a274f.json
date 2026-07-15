@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:43:18.654Z",
+  "model": "qwen3.5:9b",
+  "unitId": "520657138088708a274f",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-025"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ラース・アレクサンダーソン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "拉斯·亚历山大森",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

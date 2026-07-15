@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:43:18.650Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c7d0325d33c60952d3e3",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-022"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "アリサ・ボスコノビッチ",
+    "effect": "[登場時]\n自分の場の他の［特徴：ヴァイオレット・システムズ］を1枚まで選び、次の自分のターン開始時まで、BP+1000。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "阿丽莎·博斯科维奇",
+    "effectZh": "[登场时]\n选择自己场上的其他 1 张［特征：紫罗兰系统］，直到下一个自己的回合开始为止，BP+1000。",
+    "triggerZh": "[颜色]\n选择 BP3500 以下的对方前线 L 的角色 1 张，返回手牌。"
+  }
+}

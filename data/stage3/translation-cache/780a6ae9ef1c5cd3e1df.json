@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:45.760Z",
+  "model": "qwen3.5:9b",
+  "unitId": "780a6ae9ef1c5cd3e1df",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-076",
+    "UA14BT/DST-1-038",
+    "UA14BT/DST-1-076"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "石神 千空",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "石神千空",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将该卡加入手牌。"
+  }
+}

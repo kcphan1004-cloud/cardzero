@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:38:58.022Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8c5c7f71b1b8d8d3621",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-020"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "佐々木 鉄之助",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐々木 鉄之助",
+    "effectZh": "对方场上有紫色或红色的卡时，将手牌中此卡的必要能量\n[黄×1]\n减少。",
+    "triggerZh": ""
+  }
+}

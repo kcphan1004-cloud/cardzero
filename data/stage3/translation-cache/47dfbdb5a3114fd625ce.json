@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:01:57.106Z",
+  "model": "qwen3.5:9b",
+  "unitId": "47dfbdb5a3114fd625ce",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-AP01",
+    "UA13BT/TKN-1-AP02",
+    "UA13BT/TKN-1-AP03",
+    "UA13BT/TKN-1-AP04",
+    "UA13BT/TKN-1-AP05",
+    "UA13BT/TKN-1-AP06"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "アクションポイントカード(鉄拳7)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (铁拳 7)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

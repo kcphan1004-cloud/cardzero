@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:50:28.834Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7be8c4380f0ac206926f",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-060"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "悪ガキ三人組",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "恶鬼三人组",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，此角色的发生能量+\n[紫]。\n主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

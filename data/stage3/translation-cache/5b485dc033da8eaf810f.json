@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:17:16.544Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5b485dc033da8eaf810f",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-062"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "ゴールの匂い",
+    "effect": "自分の山札の上から5枚見る。その中から［特徴：チームZ］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "进球的味道",
+    "effectZh": "查看自己山札上方的 5 枚卡。从中公开最多 2 张［特征：Team Z］并加入手牌。将剩余的按任意顺序置于自己的山札下方。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:59:35.504Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e10c3dfb82e0e327c759",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-078",
+    "UA11BT/GNT-1-078"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "たま",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "たま (Tama)",
+    "effectZh": "[登场时]\n查看我方牌库上方的 1 张卡，将其置于我方牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

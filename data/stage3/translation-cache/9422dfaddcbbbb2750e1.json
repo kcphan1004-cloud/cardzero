@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:05:36.640Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9422dfaddcbbbb2750e1",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-007"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "剣城 斬鉄",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "剑城 斩铁",
+    "effectZh": "[启动 Main]\n[变为横置状态]\n[将此卡退场]\n抽两张牌，将自己手牌中的一张放置到场外。",
+    "triggerZh": "[Draw] \n抽一张牌。"
+  }
+}

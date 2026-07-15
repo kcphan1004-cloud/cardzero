@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:55:32.967Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e6beab4ef9cc51615f44",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-090"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "定春",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラクターを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "定春",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张角色，将其激活，本回合中 BP+3000。"
+  }
+}

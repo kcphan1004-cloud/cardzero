@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:12:22.600Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c61c08268ae4bd8f6267",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-025"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "ルリ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "琉璃",
+    "effectZh": "【登场时】\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

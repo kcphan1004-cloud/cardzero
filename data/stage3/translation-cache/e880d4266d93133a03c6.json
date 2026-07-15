@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:13:54.297Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e880d4266d93133a03c6",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-042"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "伊右衛門 送人",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伊右卫门 送人",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

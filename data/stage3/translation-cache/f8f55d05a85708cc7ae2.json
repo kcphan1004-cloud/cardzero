@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:56.084Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f8f55d05a85708cc7ae2",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-047"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ブライアン・フューリー",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "布莱恩·劳瑞",
+    "effectZh": "[自己的回合中]\n该角色的 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:51:56.031Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0808c94a8671e2be5296",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-074"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "パンダ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "熊猫",
+    "effectZh": "[登场时]\n抽一张牌，并将自己的一张手牌置入场外。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

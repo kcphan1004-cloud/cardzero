@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:07:04.741Z",
+  "model": "qwen3.5:9b",
+  "unitId": "23f3d8f3e015bad910ce",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-002"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "石神 千空",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "石神千空",
+    "effectZh": "[攻击时]\n抽 1 张牌，将手牌中的 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

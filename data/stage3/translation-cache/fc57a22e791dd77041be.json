@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:05:08.392Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc57a22e791dd77041be",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-104"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "ラース・アレクサンダーソン",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉斯·亚历山大森",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

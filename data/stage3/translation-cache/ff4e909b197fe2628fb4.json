@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:49:16.328Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff4e909b197fe2628fb4",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-051"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "武市 変平太",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "武市变平太",
+    "effectZh": "",
+    "triggerZh": "[登场时] 抽 1 张牌。"
+  }
+}

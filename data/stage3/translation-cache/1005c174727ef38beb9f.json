@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:08:20.648Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1005c174727ef38beb9f",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-009"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "フランソワ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "弗朗索瓦",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色并使其处于激活状态，在本回合中 BP+3000。"
+  }
+}

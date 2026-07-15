@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:12:22.604Z",
+  "model": "qwen3.5:9b",
+  "unitId": "887b585d72736bb181b2",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-028"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "当たるぜ 船乗りのカンは？",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする。それは次の1回アクティブにならない』。自分の場に〈七海 龍水〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "船长的运气会中奖吗？",
+    "effectZh": "选择对方前线L的BP 5000以下的角色一张，使其处于横置状态。该角色在下次激活时不会进入激活状态。若我方场上有〈七海 龙水〉，则改为将其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L的角色一张并让其退场。"
+  }
+}

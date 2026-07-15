@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:20:17.459Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3dd6e74a613a438c9ee5",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-073"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "上鳴 電気",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "上鸣电气",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[红]。\n主阶段结束时，使该角色退场。",
+    "triggerZh": ""
+  }
+}

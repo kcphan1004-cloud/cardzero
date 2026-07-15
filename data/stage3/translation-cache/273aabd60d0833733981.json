@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:41:54.843Z",
+  "model": "qwen3.5:9b",
+  "unitId": "273aabd60d0833733981",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-016"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ファナティオ・シンセシス・ツー",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "法纳提欧·合成·2 级",
+    "effectZh": "[登场时]\n抽 1 张牌，将手札中的 1 张卡置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

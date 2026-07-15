@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:30:54.854Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f8bd2438966a1fc3528",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-100"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "縦直下回転直接弾!!!",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈糸師 凛〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "纵直下旋转直接弹!!!",
+    "effectZh": "选择『BP3000以下』的对方前线L角色1张，使其退场。若己方场上有〈糸师凛〉，则条件变为『BP5000以下〕。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 张，使其退场。"
+  }
+}

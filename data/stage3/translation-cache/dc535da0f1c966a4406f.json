@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:40:29.019Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc535da0f1c966a4406f",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-005"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "キング",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "King",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中选择想要的数量，按任意顺序放回自己牌库上方，剩余的也按任意顺序放回下方。",
+    "triggerZh": ""
+  }
+}

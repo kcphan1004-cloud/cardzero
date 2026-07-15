@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:54:35.147Z",
+  "model": "qwen3.5:9b",
+  "unitId": "17d4c8c82d2b2ec64c17",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-079"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "月詠",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "月咏",
+    "effectZh": "[启动主效果]\n[将手牌中的 1 张卡置入场外]\n[回合 1]\n该角色本回合中，\n获得 [攻击 2 次]（在该角色本回合首次攻击时，激活）的效果。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

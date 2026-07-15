@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:50:53.682Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c69b63a65aa378453054",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-068"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "アリサ・ボスコノビッチ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿丽莎·博斯科维奇",
+    "effectZh": "",
+    "triggerZh": "[抽取]\n抽牌 1 张。"
+  }
+}

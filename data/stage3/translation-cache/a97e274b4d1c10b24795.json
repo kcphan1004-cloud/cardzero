@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:12:22.598Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a97e274b4d1c10b24795",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-024"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "マグマ",
+    "effect": "相手の場に紫か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "岩浆",
+    "effectZh": "对方场上有紫色或绿色的卡时，将手牌中这张卡的必要能量 [黄×1] 减少。",
+    "triggerZh": ""
+  }
+}

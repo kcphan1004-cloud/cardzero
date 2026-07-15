@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:58:47.030Z",
+  "model": "qwen3.5:9b",
+  "unitId": "309ba8cda773bd24e323",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-093"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "志村 新八",
+    "effect": "自分の場にある〈坂田 銀時〉、〈神楽〉、〈定春〉のカード名の種類1枚につきこのキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "志村新八",
+    "effectZh": "自己场上的〈坂田银时〉、〈神乐〉、〈定春〉的卡名种类每有 1 枚，该角色 BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:49:39.722Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c08b735ab1480bb92792",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-034"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ラディアント・ライト",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする。それは次の1回アクティブにならない』。自分のライフが4以下の場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "光辉之光",
+    "effectZh": "选择对方前线 L 的 1 个角色，使其进入横置状态（该角色在下次激活前无法被激活）。若我方生命值为 4 或以下，则改为“退场”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色并令其退场。"
+  }
+}

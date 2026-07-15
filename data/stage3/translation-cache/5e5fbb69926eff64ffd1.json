@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:43:03.917Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5e5fbb69926eff64ffd1",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-021"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ（創世神ステイシア）",
+    "effect": "[登場時]\n自分のライフエリアにあるカードを1枚手札に加えてもよい。そうした場合、カードを1枚引く。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "亚丝娜（创世神·斯蒂西亚）",
+    "effectZh": "[登场]\n可以选择将位于自己生命区域的一张卡加入手牌。若如此操作，则抽一张牌。",
+    "triggerZh": "[颜色]\n选择对方前线L的任意一张角色卡并将其横置。该角色在下一次激活前不会再次被激活。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:07:40.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8c53a631d72bea716733",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-017"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "成早 朝日",
+    "effect": "[退場時]\n自分のフロントLのキャラを1枚まで選び、このターン中、BP+500と\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "成早 朝日",
+    "effectZh": "[退场时]\n选择自己前线 L 的卡最多 1 张，在本回合中给予 BP+500 和 [阻挡 2 次]（该角色本回合首次阻挡时激活）。",
+    "triggerZh": ""
+  }
+}

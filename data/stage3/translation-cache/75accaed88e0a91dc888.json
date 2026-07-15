@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:19:22.988Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75accaed88e0a91dc888",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-069"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "飯田 天哉",
+    "effect": "相手の場に紫か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "饭田天哉",
+    "effectZh": "若对方场上有紫色或绿色的卡，则此手牌中的该卡的必要能量\n[赤×1]\n减少。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:54:35.151Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f4b7ee318a90d423f23",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-083"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "柳生 九兵衛",
+    "effect": "[アタック時]\nこのキャラはBP+1000。\n※このカードには、記載内容の訂正があります。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "柳生九兵卫",
+    "effectZh": "[攻击时]\n该角色 BP+1000。\n※此卡记载内容有误，已更正。",
+    "triggerZh": ""
+  }
+}

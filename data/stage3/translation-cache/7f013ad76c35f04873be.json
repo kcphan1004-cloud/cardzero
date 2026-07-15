@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:22:59.254Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f013ad76c35f04873be",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-093"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "緑谷 出久",
+    "effect": "[フロントLにある場合]\n[ターン1]\n自分の場の〈緑谷 出久〉以外のキャラが相手のキャラの効果で場を離れる場合、代わりに自分のライフエリアにあるカードを1枚場外に置いてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绿谷出久",
+    "effectZh": "[位于前线 L 时]\n[第 1 回合]\n若自己场上的除〈绿谷出久〉以外的角色因对方角色的效果离场，则可以选择将自己生命区域中的 1 张卡放置到场外。",
+    "triggerZh": ""
+  }
+}

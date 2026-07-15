@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:00.121Z",
+  "model": "qwen3.5:9b",
+  "unitId": "43a5bc1c54ef74e9295f",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-095"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "科学王国",
+    "effect": "自分の山札の上から5枚見る。その中から特徴に「科学王国」を持つキャラカードを2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "科学王国",
+    "effectZh": "查看自己牌库上方的 5 张卡。从中公开最多 2 张具有特征“科学王国”的角色卡并加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。",
+    "triggerZh": "抽牌"
+  }
+}

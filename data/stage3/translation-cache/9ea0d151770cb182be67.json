@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:20:17.464Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ea0d151770cb182be67",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-077"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "常闇 踏陰",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "常闇踏阴",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 或以下的角色最多 1 名返回手牌。若无法如此操作，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:00.116Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5185020d2f5c72bd7ffb",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-091"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "スイカ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西瓜",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，失去【冲击】）",
+    "triggerZh": "抽牌"
+  }
+}

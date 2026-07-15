@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:14:47.825Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e80f7313eb88c1e00d85",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-039"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "石神 千空",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から〈あさぎり ゲン〉か〈ケータイ〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "石神 千空",
+    "effectZh": "[登场时]\n查看自己山札上方的5张卡。从中公开〈朝雾 健〉或〈手机〉中的最多1张并加入手牌。将剩余的按任意顺序放置到自己山札的下方。如果加入了手牌，则可以将自己的手牌中的1张放置到场外。\n[颜色]",
+    "triggerZh": ""
+  }
+}

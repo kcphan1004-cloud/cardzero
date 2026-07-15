@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:55:14.928Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f9c0a2cbb9c2ec711930",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-087"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ジャック7",
+    "effect": "このキャラの下に裏向きのカードがある場合、このキャラは\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杰克 7",
+    "effectZh": "若该角色下方有背面朝上的卡，则该角色\n[伤害（2）]\n（当该角色通过攻击直接造成伤害时，代替承受 2 点伤害）、",
+    "triggerZh": ""
+  }
+}

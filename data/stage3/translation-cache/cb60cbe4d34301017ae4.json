@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:29:22.075Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cb60cbe4d34301017ae4",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-101"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "飯田 天哉",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "饭田天哉",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚使其激活，本回合中 BP+3000。"
+  }
+}

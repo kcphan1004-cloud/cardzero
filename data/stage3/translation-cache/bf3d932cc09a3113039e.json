@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:15.030Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bf3d932cc09a3113039e",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-042"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ジュリア・チャン",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "朱莉娅·陈",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自身场上的角色至多 1 张，将其激活，此回合中 BP+3000。"
+  }
+}

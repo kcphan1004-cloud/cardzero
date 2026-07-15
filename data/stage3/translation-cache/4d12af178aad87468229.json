@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:27:05.086Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d12af178aad87468229",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-085"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "時光 青志",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "时光 青志",
+    "effectZh": "对方场上有黄或蓝的卡时，将手牌中这张卡的必要能量\n[赤×1]\n减少。",
+    "triggerZh": ""
+  }
+}

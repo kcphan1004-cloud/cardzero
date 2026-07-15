@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:15.032Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e135163648c78b1371c1",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-044"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "スティーブ・フォックス",
+    "effect": "[登場時]\nAPを1支払ってもよい。そうした場合、BP4500以上の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "史蒂夫·福克斯",
+    "effectZh": "[登场时]\n可以支付 1 AP。若如此，选择对方前线 L 的角色中 BP4500 以上的至多 1 张并使其退场。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

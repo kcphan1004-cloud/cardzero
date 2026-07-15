@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:23:55.336Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5079878fdcf4a939a8fa",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-036",
+    "UA10BT/MHA-1-036"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "蛙吹 梅雨",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蛙吹梅雨",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": ""
+  }
+}

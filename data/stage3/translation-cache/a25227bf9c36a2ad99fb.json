@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:34:26.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a25227bf9c36a2ad99fb",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-102"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "大木 大樹",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[登場時]\nこのキャラは次の自分のターン開始時まで、BP+1000。\n[退場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "大木大树",
+    "effectZh": "【2 回合阻挡】\n（当角色在本回合首次进行阻挡时，将其激活）\n【登场时】\n该角色直到下回合开始为止，BP+1000。\n【退场时】\n选择自己场上的其他角色最多 1 张，本回合中 BP+1000。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

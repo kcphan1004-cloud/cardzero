@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:34:26.548Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12dec2edf5ee9c5464d9",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-090",
+    "UA14BT/DST-1-090"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "スイカ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西瓜",
+    "effectZh": "【启动主】\n【横置状态】\n【回合 1】\n本回合中，该角色的产生能量+\n【绿】。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

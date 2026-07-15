@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:29:05.929Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1fb59a87e2b96cb1014",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-083"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "銀狼",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "银狼",
+    "effectZh": "对方场上有黄或紫的卡时，将手牌中这张卡的必要能量 [绿×1] 减少。",
+    "triggerZh": ""
+  }
+}

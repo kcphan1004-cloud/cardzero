@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:24:42.337Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e639f3de2daf39a7479b",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-081"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "カセキ",
+    "effect": "[自分のターン中]\n[ターン1]\nメインフェイズ中に自分の効果でアクティブのこのキャラをレストにした時、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "化石",
+    "effectZh": "[自己的回合中]\n[第 1 回合]\n主阶段内将效果激活的此角色横置时，可以抽一张牌。若如此操作，可将自己的一张手牌置入场外。",
+    "triggerZh": ""
+  }
+}

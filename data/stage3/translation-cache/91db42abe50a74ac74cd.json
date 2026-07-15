@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:40:50.961Z",
+  "model": "qwen3.5:9b",
+  "unitId": "91db42abe50a74ac74cd",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-010"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アリス・シンセシス・サーティ",
+    "effect": "このカードは〈アリス〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "爱丽丝·辛塞西斯·萨蒂",
+    "effectZh": "将此卡也作为〈爱丽丝〉处理。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

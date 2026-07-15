@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:44:30.876Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b778ac76a06d144a585b",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-034"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "朧",
+    "effect": "[起動メイン]\n[ターン1]\nこのターン中に自分の手札が場外に置かれている場合のみ発動できる。このキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "胧",
+    "effectZh": "[启动主]\n[回合 1]\n仅当本回合中自己的手牌被置在场外时才能发动。此角色在本回合中 BP+1000。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

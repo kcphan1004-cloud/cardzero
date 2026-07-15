@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:34:26.551Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9bc2c274d111bbb3d177",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-097",
+    "UA14BT/DST-1-097"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "唆るぜ これは！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "唆るぜ 这是！",
+    "effectZh": "选择至多2张自己的AP卡，使其激活状态。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置1张到自己的生命区域。"
+  }
+}

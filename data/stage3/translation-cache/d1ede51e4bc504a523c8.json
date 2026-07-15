@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:13:20.615Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1ede51e4bc504a523c8",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-030"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "石油",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "石油",
+    "effectZh": "抽 1 张牌，将我方手札中的 1 张置入场外。选择至多 1 张我的 AP 卡并使其激活。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

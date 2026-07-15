@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:01:57.109Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a659734e714462f84223",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-069"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "風間 仁",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "风间仁",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

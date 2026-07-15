@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:00:01.142Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0d3e79bab8af60830aec",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-090"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "三島 一八",
+    "effect": "[レイド]\n〈三島 一八〉アクティブにし、フロントLに移動できる\n[起動メイン]\n[ターン1]\n自分の場のキャラの下の裏向きのカードを合計3枚場外に置く。そうした場合、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "三岛 一八",
+    "effectZh": "【Raid】\n将〈三岛 一八〉激活并移动至前线 L\n【启动 Main】\n【回合 1】\n将自己场上的角色下方的里向卡合计放置场外 3 张。如此情况，抽牌 1 张。",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

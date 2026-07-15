@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:27:05.081Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a9fb0b3bcde8ac1a4c0",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-080"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "千切 豹馬",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "千切 豹马",
+    "effectZh": "【无效冲击】（与这个角色进行战斗的角色在本场战斗中，失去【冲击】）",
+    "triggerZh": ""
+  }
+}

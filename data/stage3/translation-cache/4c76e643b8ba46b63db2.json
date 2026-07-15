@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:49:39.720Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4c76e643b8ba46b63db2",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-032"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "手作りのパイ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "手工面包",
+    "effectZh": "选择至多 2 张自己的 AP 卡，使其激活状态。",
+    "triggerZh": "[登场时]\n若自己没有生命值，则从牌库上方放置 1 张到自己的生命区域。"
+  }
+}

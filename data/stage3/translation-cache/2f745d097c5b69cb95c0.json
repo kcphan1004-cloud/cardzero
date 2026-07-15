@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:20:17.462Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f745d097c5b69cb95c0",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-075"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "耳郎 響香",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "耳郎响香",
+    "effectZh": "[登场时]\n查看自己的牌库上方 1 张卡牌，然后将其置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

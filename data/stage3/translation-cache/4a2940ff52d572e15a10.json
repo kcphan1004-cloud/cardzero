@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:59:35.502Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a2940ff52d572e15a10",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-077",
+    "UA11BT/GNT-1-077"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "志村 妙",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "志村妙",
+    "effectZh": "若此角色处于激活状态，则此角色的发生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

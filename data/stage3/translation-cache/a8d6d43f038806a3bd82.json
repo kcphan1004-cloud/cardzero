@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:04:35.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8d6d43f038806a3bd82",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-108"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "万事屋銀ちゃん",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：万事屋］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "万事屋银酱",
+    "effectZh": "[登场时]\n查看自己牌库上方的 4 张卡。从中公开最多 1 张［特征：万事屋］并加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

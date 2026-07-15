@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:45.758Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e20601f088c6b39c3d39",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-072",
+    "UA14BT/DST-1-072"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "小川 杠",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小川 杠",
+    "effectZh": "[登场时]\n将自身场上其他能量为 1 以下的角色最多 1 枚返回手牌。若无法返还，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

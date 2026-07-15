@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:01:57.110Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c0a62ef74e545584e804",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-079"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "三島 一美",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三岛一美",
+    "effectZh": "[启动主] \n[横置状态]\n[回合 1]\n本回合中，此角色的发生能量+\n[赤]\n。主阶段结束时，使此角色退场。",
+    "triggerZh": ""
+  }
+}

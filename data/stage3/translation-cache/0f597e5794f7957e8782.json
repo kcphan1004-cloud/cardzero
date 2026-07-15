@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:37:34.780Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f597e5794f7957e8782",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-017"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "近藤 勲",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "近藤勋",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

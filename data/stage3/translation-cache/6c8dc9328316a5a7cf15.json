@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:09:15.841Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c8dc9328316a5a7cf15",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-014"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "銀狼",
+    "effect": "[アタック時]\n自分の場に他の［特徴：石神村］が5枚以上か〈金狼〉がある場合、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "银狼",
+    "effectZh": "【攻击时】\n如果场上有其他［特征：石神村］共 5 张以上或有〈金狼〉，选择自己场上的角色最多 1 个，本回合中 BP+1000。",
+    "triggerZh": "抽牌"
+  }
+}

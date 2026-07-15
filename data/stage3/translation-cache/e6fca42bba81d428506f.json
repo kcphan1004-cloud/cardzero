@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:14:47.828Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e6fca42bba81d428506f",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-041"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "大木 大樹",
+    "effect": "[自分のターン中]\n自分の場に〈ケータイ〉がある場合、このキャラはBP+500。\n[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から〈ケータイ〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大木 大树",
+    "effectZh": "[在自己的回合中]\n如果自己的场上有〈手机〉存在，则此角色BP+500。\n[登场时]\n也可以将自己的手牌中的1张放置到场外。如果是这种情况，可以从自己场外将最多1张〈手机〉加入手牌。\n[Raid]",
+    "triggerZh": "[Raid]"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:30:10.359Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1db4805da11a3686cf7d",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-AP01",
+    "UA10ST/MHA-1-AP02",
+    "UA10BT/MHA-1-AP01",
+    "UA10BT/MHA-1-AP02",
+    "UA10BT/MHA-1-AP03",
+    "UA10BT/MHA-1-AP04",
+    "UA10BT/MHA-1-AP05",
+    "UA10BT/MHA-1-AP06",
+    "EX06BT/MHA-2-AP01",
+    "EX06BT/MHA-2-AP02",
+    "EX06BT/MHA-2-AP03",
+    "EX06BT/MHA-2-AP04",
+    "EX06BT/MHA-2-AP05",
+    "EX06BT/MHA-2-AP06"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "アクションポイントカード(僕のヒーローアカデミア)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (我的英雄学院)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

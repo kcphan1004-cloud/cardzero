@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:51:29.916Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fab134f66ce5873c032f",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-066"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "白夜叉の刀",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈白夜叉〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラクターを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "白夜叉的刀",
+    "effectZh": "选择对方前线 L 的角色中『BP3000 以下』的 1 枚并使其退场。如果自己的场上有〈白夜叉〉，则改为『BP5000 以下』。",
+    "triggerZh": "【特殊】\n选择对方前线 L 的角色 1 枚并使其退场。"
+  }
+}

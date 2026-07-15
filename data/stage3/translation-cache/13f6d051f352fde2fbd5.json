@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:50:53.681Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13f6d051f352fde2fbd5",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-067"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "まだまだ！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "还没完！",
+    "effectZh": "选择自己的 AP 卡至多 2 张并使其激活。",
+    "triggerZh": "[最终]\n若己方没有生命，则从己方的山札上方放置 1 张到己方的生命区域。"
+  }
+}

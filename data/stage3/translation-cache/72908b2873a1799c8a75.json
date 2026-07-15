@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:20:17.463Z",
+  "model": "qwen3.5:9b",
+  "unitId": "72908b2873a1799c8a75",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-076"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "瀬呂 範太",
+    "effect": "[登場時]\n[フロントLにある場合]\n自分のエナジーLのキャラを1枚まで選び、フロントLに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "濑吕范太",
+    "effectZh": "[登场时]\n[若位于前线 L]\n选择自己的能量线角色最多 1 名并移动至前线 L。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

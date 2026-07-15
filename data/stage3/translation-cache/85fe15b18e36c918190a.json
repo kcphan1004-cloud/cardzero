@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:20:17.460Z",
+  "model": "qwen3.5:9b",
+  "unitId": "85fe15b18e36c918190a",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-074"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "切島 鋭児郎",
+    "effect": "[自分のターン中]\n[ターン1]\n相手の効果でこのキャラが場を離れる場合、代わりに場を離れない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "切岛锐二郎",
+    "effectZh": "[在自己的回合中]\n[回合 1]\n当对方的效果导致此角色离场时，改为不使其离场。",
+    "triggerZh": "[激活]\n选择自己场上的任意数量角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

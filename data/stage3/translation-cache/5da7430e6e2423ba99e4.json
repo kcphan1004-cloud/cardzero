@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:46:21.929Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5da7430e6e2423ba99e4",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-047"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "来島 また子",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、相手は自身の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "来岛又子",
+    "effectZh": "[登场时]\n可以将自身手札中的 1 张置入场外。如此做的话，对手必须将自身的手札中的 1 张置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

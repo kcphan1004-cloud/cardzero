@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:49:39.717Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3770c76c308bf3614860",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-030"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "金木犀の剣",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈アリス〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "金木犀之剑",
+    "effectZh": "选择对方前线 L 的 1 个角色并使其离场。若我方场上有〈爱丽丝〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色并使其离场。"
+  }
+}

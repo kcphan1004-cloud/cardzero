@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:10:25.037Z",
+  "model": "qwen3.5:9b",
+  "unitId": "97e8d34c26126c81af79",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-019"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "コハク",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\n相手のフロントLのキャラを1枚まで選び、レストにする。それは次の1回アクティブにならない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "琥珀",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[登场时]\n选择对方前线 L 的角色最多 1 张，使其横置。该角色在下次激活前不会进入激活状态。\n\n[触发器]\n选择自身场上的角色 1 张，将其激活，本回合中 BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

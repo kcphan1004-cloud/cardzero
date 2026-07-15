@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:17:16.542Z",
+  "model": "qwen3.5:9b",
+  "unitId": "27fde07a36cb6b51d9c2",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-061"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "青い監獄",
+    "effect": "[ターン1]\n自分の場のキャラがアタックしてバトルに勝利した時、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蓝色监狱",
+    "effectZh": "[回合 1]\n自己场上的角色攻击并赢得战斗时，抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

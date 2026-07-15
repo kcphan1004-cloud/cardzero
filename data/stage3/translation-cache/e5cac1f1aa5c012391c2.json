@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:31:40.439Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e5cac1f1aa5c012391c2",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-101"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "伊右衛門 送人",
+    "effect": "[相手のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊右衛門 送人",
+    "effectZh": "[对方回合中]该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

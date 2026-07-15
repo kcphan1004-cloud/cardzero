@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:55:32.965Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5dae6de8538dac0e2613",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-088"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "坂田 銀時",
+    "effect": "[登場時]\n[アタック時]\n自分の場の他の［特徴：万事屋］を1枚まで選び、このターン中、BP+500。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラクターを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "坂田银时",
+    "effectZh": "[登场时]\n[攻击时]\n选择自己场上的其他［特征：万事屋］至多 1 张，本回合中 BP+500。",
+    "triggerZh": "[颜色]\n选择对方前线上 BP2500 以下的角色 1 张，使其退场。"
+  }
+}

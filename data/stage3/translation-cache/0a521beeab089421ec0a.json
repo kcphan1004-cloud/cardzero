@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:13:54.290Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0a521beeab089421ec0a",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-037"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "凪 誠士郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "凪诚士郎",
+    "effectZh": "",
+    "triggerZh": "[Get] 将此卡加入手牌。"
+  }
+}

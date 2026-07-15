@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:56.089Z",
+  "model": "qwen3.5:9b",
+  "unitId": "80a2e6f56c7db9625c75",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-051"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "リリ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莉莉",
+    "effectZh": "[启动主效果]\n横置\n选择自己场上的其他 1 张卡，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

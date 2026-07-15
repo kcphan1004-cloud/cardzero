@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:35:01.067Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b48bbfcf5919da61dbb5",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-012"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "松平 片栗虎",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "松平 片栗虎",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 以下的各返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

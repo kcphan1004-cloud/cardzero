@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:40:29.022Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2fc42d3ed487f0f35b1b",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-008"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "シャヒーン",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "沙欣",
+    "effectZh": "[激活主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[青]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:56.088Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5dd53d46e6f7eeb135cf",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-050"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "リリ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莉莉",
+    "effectZh": "[登场时]\n选择自己场上的其他 1 张卡（最多），本回合中，BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

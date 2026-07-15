@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:54:22.720Z",
+  "model": "qwen3.5:9b",
+  "unitId": "22c88fed8ecc1b01c532",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-080"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "三島 一美",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三岛一美",
+    "effectZh": "此角色处于激活状态时，该角色的产生能量 +\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

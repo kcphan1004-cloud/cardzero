@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:12:22.596Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0f61f6bcd6ed2054aca",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-023"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "チョーク",
+    "effect": "[自分のターン中]\n自分の場に他の［特徴：石神村］が5枚以上か〈スイカ〉がある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "粉笔",
+    "effectZh": "[自己的回合]\n如果自己的场上有其他［特征：石神村］的卡有 5 张以上或存在〈西瓜〉，则该角色的 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并使其处于激活状态，该回合中，BP+3000。"
+  }
+}

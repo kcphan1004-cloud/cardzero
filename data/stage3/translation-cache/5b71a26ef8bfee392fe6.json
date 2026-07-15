@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:44:17.537Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5b71a26ef8bfee392fe6",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-028"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "李 超狼",
+    "effect": "自分の場に他の［特徴：ヴァイオレット・システムズ］が4枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "李 超狼",
+    "effectZh": "自己场上有其他「特征：紫罗兰系统」4张以上时，该角色BP+1000。",
+    "triggerZh": ""
+  }
+}

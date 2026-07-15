@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:39:13.707Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dac27517a6b883e2a3a3",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-103"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "小川 杠",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小川 杠",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

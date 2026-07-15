@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:29:05.932Z",
+  "model": "qwen3.5:9b",
+  "unitId": "72bf52cc74cd8ec20b3c",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-085"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "クロム",
+    "effect": "[相手のターン中]\n自分の場に［特徴：クラフト］がある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克罗姆",
+    "effectZh": "[对方回合中]\n若自己场上存在［特征：工艺］，该角色获得 BP+500。",
+    "triggerZh": ""
+  }
+}

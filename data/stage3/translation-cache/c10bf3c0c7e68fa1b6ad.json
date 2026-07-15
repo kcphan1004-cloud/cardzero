@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:09:15.838Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c10bf3c0c7e68fa1b6ad",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-012"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "カセキ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "化石",
+    "effectZh": "【启动主效果】\n置入横置状态\n选择自己场上的其他角色 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

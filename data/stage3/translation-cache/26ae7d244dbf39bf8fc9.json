@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:05:08.395Z",
+  "model": "qwen3.5:9b",
+  "unitId": "26ae7d244dbf39bf8fc9",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-106"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "三島 一八",
+    "effect": "このキャラの下に裏向きのカードが2枚以上ある場合、このキャラはBP+500。\n[登場時]\n自分の山札の上から1枚を裏向きでこのキャラの下に置いてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三岛一八",
+    "effectZh": "若该角色下方有 2 张或更多背面朝上的卡片，则该角色的 BP+500。\n[登场时]\n可以选择将牌库上方的一张卡以背面朝上放置于该角色下方。",
+    "triggerZh": ""
+  }
+}

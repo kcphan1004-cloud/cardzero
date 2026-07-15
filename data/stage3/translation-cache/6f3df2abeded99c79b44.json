@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:45:27.579Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6f3df2abeded99c79b44",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-038"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "阿伏兎",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラクターを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿伏兔",
+    "effectZh": "[启动主]\n[支付1点AP]\n[回合 1]\n抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

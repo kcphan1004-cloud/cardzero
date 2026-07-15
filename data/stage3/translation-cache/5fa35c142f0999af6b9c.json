@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:15:52.248Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5fa35c142f0999af6b9c",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-042"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "小川 杠",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "小川 杠",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己的手牌中任意 1 张置入场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:37:34.783Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc990058f71ed0219c19",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-019"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "斉藤 終",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "齐藤 终",
+    "effectZh": "【无效冲击】（与这个角色进行战斗的角色在本场战斗中，失去【冲击】）",
+    "triggerZh": ""
+  }
+}

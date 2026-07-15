@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:01:11.707Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b42c42662ec422705614",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-096"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "G社",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nカードを1枚引き、自分の手札を1枚場外か、裏向きで自分のフロントLの［特徴：G社］の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "G 社",
+    "effectZh": "[启动主效果]\n[变为横置状态]\n[回合 1]\n抽 1 张牌，将手札中的 1 张放置于场外或里向状态下自己前线 L 的［特征：G 社］的下方。",
+    "triggerZh": "[获取]\n将此卡加入手札"
+  }
+}

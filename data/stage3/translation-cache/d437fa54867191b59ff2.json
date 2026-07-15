@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:18:08.590Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d437fa54867191b59ff2",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-057"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "氷月",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引き、このキャラはこのターン中、BP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "冰月",
+    "effectZh": "[启动主]\n[支付AP 1]\n[回合 1]\n抽 1 张牌，此角色本回合中，BP+1500。",
+    "triggerZh": ""
+  }
+}

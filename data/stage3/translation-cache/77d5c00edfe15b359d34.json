@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:38:32.687Z",
+  "model": "qwen3.5:9b",
+  "unitId": "77d5c00edfe15b359d34",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-002"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "エディ・ゴルド",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾迪·戈尔德",
+    "effectZh": "若对方场上存在紫色或红色的卡片，则减少此卡在手札中的所需能量\n[青×1]\n。",
+    "triggerZh": ""
+  }
+}

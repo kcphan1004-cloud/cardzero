@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:16:22.761Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a0b3b3d4f7535caf4c69",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-058"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "蜂楽 廻",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：チームZ］かフィールドカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蜂乐廻",
+    "effectZh": "[登场时]\n查看自己牌库上方的 3 张卡。从中公开最多 1 张［特征：Team Z］或场地卡并加入手牌，其余的按任意顺序放回下方。若成功加入了卡片，则将自己手牌中的 1 张卡置入场外。",
+    "triggerZh": ""
+  }
+}

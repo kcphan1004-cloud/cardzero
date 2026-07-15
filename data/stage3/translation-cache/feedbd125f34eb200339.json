@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:07:40.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "feedbd125f34eb200339",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-016"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "成早 朝日",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "成早 朝日",
+    "effectZh": "对方场上有蓝色或红色的卡时，将手札中这张卡的必要能量 [黄×1]。",
+    "triggerZh": ""
+  }
+}

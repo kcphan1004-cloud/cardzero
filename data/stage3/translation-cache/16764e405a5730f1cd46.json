@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:45.756Z",
+  "model": "qwen3.5:9b",
+  "unitId": "16764e405a5730f1cd46",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-069",
+    "UA14BT/DST-1-069"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "大木 大樹",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大树 大木",
+    "effectZh": "[2 次阻挡]\n（当该角色本回合首次进行阻挡时，将其激活）",
+    "triggerZh": ""
+  }
+}

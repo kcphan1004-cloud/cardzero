@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:39:56.215Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff8a6b565a3d7e7e6389",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-003"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ティーゼ・シュトリーネン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蒂泽·施特林恩",
+    "effectZh": "如果此角色处于激活状态，则此角色的发生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

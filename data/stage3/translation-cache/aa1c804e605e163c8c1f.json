@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:30:54.853Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa1c804e605e163c8c1f",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-099"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "無減速ドリブル!!!",
+    "effect": "自分の場の〈國神 錬介〉と〈千切 豹馬〉と〈御影 玲王〉の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "无减速盘带!!!",
+    "effectZh": "选择对方前线L 角色 1 张，使其退场（条件：己方场上的〈国神 炼介〉、〈千切豹马〉和〈御影玲王〉的合计数量×1000以下的 BP）。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 张，使其退场。"
+  }
+}

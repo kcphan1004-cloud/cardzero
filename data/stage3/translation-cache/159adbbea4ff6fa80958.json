@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:39:56.210Z",
+  "model": "qwen3.5:9b",
+  "unitId": "159adbbea4ff6fa80958",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-109"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "科学部",
+    "effect": "カードを3枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "科学部",
+    "effectZh": "抽 3 张牌，并将自己的手牌放置至多 2 张到场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

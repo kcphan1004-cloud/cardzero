@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:05:36.641Z",
+  "model": "qwen3.5:9b",
+  "unitId": "22e37e5dc7e3655cbfd3",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-008"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "剣城 斬鉄",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "剑城 斩铁",
+    "effectZh": "[阻挡两次时]\n（该角色本回合首次阻挡时，激活）",
+    "triggerZh": "[Draw] \n抽一张牌。"
+  }
+}

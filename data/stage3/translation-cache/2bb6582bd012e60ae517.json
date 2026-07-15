@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:21:04.079Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2bb6582bd012e60ae517",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-071"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "小川 杠",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "小川杠",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多 1 名，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色进行 1 张并使其激活，本回合中 BP+3000。"
+  }
+}

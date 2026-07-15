@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:45:20.481Z",
+  "model": "qwen3.5:9b",
+  "unitId": "689441c7f797d20d7afe",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-035"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "エリザ",
+    "effect": "[アタック時]\nカードを1枚引いてもよい。そうした場合、このキャラは、次の1回アクティブにならない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾丽莎",
+    "effectZh": "[攻击时]\n可以抽 1 张牌。如此操作的话，本角色在下一回合不会激活。",
+    "triggerZh": "[激活]\n选择自己场上一枚卡并使其处于激活状态，且在本回合中 BP+3000。"
+  }
+}

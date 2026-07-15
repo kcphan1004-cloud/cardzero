@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:47:53.108Z",
+  "model": "qwen3.5:9b",
+  "unitId": "24c50d4d244fb44ae12f",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-056"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "クラウディオ・セラフィーノ",
+    "effect": "このターン中に自分の場のキャラが退場していた場合、手札にあるこのカードの消費APを-1する。\nこのキャラはフロントLにある場合もエナジーを発生させる。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克劳迪奥·塞拉菲诺",
+    "effectZh": "若本回合中自己场上的角色有退场的情况，则手札中的此牌的消耗 AP-1。\n即使该角色位于前线 L 时也会产生能量。\n[登场时] \n抽 1 张牌并将自己的手牌将 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

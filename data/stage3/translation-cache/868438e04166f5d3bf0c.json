@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:51:56.028Z",
+  "model": "qwen3.5:9b",
+  "unitId": "868438e04166f5d3bf0c",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-071"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "カタリーナ・アウヴェス",
+    "effect": "相手の場に青か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡塔莉娜·奥维斯",
+    "effectZh": "当对方场上有蓝色或紫色的卡片时，将手牌中此卡片的必要能量\n[赤×1]\n减少。",
+    "triggerZh": ""
+  }
+}

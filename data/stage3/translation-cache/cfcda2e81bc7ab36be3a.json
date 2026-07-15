@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:00.118Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cfcda2e81bc7ab36be3a",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-092"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "クロスボウ",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "十字弓",
+    "effectZh": "将该字段以激活状态登场。\n【启动主阶段】\n【横置】\n选择自己场上的 1 张角色卡，本回合中 BP+1000。",
+    "triggerZh": "获取"
+  }
+}

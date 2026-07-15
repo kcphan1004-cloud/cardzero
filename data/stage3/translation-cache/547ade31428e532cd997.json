@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:13:20.621Z",
+  "model": "qwen3.5:9b",
+  "unitId": "547ade31428e532cd997",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-034"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "あさぎり ゲン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "朝雾源",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡加入手札。"
+  }
+}

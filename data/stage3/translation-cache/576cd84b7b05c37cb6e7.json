@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:00:24.197Z",
+  "model": "qwen3.5:9b",
+  "unitId": "576cd84b7b05c37cb6e7",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-087",
+    "UA11BT/GNT-1-087"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "坂田 銀時",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "坂田 银时",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

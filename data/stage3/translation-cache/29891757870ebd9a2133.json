@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:41:19.410Z",
+  "model": "qwen3.5:9b",
+  "unitId": "29891757870ebd9a2133",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-013"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ミゲル・カバジェロ・ロホ",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米格尔·卡巴杰罗·洛霍",
+    "effectZh": "[登场时]\n查看自己牌库上方的 1 张卡片，将其置于自己的牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:09:34.044Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e123af1aebae33c98820",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-031"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "\"好奇心\"という名の衝動",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈凪 誠士郎〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "名为\"好奇心\"的冲动",
+    "effectZh": "选择 BP3000 以下的对方前线 L 的角色至多一张，使其退场。若自己场上有〈凪诚士郎〉，则改为 BP5000 以下。",
+    "triggerZh": "[Special]"
+  }
+}

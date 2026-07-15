@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:40:29.023Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cb67b7f9214a4a72185d",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-009"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "セルゲイ・ドラグノフ",
+    "effect": "[起動メイン]\n[ターン1]\n自分の手札を1枚自分の山札の上に置く。そうした場合、このキャラは次の自分のターン開始時まで、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "谢尔盖·德拉古诺夫",
+    "effectZh": "【启动主】\n【回合 1】\n将自身手牌中的 1 张置于自身的山札上方。如此做的话，该角色在下一个自己的回合开始时刻之前，BP+1000。",
+    "triggerZh": "【抽卡】\n抽 1 张牌。"
+  }
+}

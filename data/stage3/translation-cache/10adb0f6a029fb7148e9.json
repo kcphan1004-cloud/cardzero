@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:41:19.409Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10adb0f6a029fb7148e9",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-012"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "マーシャル・ロウ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "马歇尔·劳",
+    "effectZh": "[启动主效果]\n[横置状态]\n查看自己牌库上方的 1 张卡片，将其置于自己的牌库上方或下方。",
+    "triggerZh": "[抽牌]"
+  }
+}

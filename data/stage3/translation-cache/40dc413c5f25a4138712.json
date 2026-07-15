@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:08:41.896Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40dc413c5f25a4138712",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-027"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "鰐間兄弟",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鳄间兄弟",
+    "effectZh": "[阻挡 2 次]\n（当该角色在本回合首次进行阻挡时，激活）",
+    "triggerZh": ""
+  }
+}

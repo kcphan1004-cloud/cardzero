@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:35:01.068Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0d94b31f95b9596e92f",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-013"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "沖田 総悟",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "冲田总悟",
+    "effectZh": "",
+    "triggerZh": "[Get] 将此卡加入手牌。"
+  }
+}

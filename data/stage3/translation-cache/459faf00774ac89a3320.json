@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:56.082Z",
+  "model": "qwen3.5:9b",
+  "unitId": "459faf00774ac89a3320",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-046"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "フェン・ウェイ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "范威",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去\n[冲击]）",
+    "triggerZh": ""
+  }
+}

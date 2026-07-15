@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:17:16.540Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ba01c25c4c8530dfbc35",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-060"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "雷市 陣吾",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雷市 阵吾",
+    "effectZh": "对方场上有黄或红色的卡时，将手牌中这张卡的必要能量\n[青×1]\n减少。",
+    "triggerZh": ""
+  }
+}

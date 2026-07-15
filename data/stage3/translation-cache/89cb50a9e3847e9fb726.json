@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:45:20.483Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89cb50a9e3847e9fb726",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-037"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "風間 飛鳥",
+    "effect": "このターン中にこのキャラが移動している場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "风间 飞鸟",
+    "effectZh": "本回合中若此角色进行了移动，则其在本回合中 BP+1000。",
+    "triggerZh": "[色相]\n从自己场外选择必要能量为 2 以下且消耗 AP 为 1 的紫色角色卡 1 枚，以激活状态登场至自己的前线 L。"
+  }
+}

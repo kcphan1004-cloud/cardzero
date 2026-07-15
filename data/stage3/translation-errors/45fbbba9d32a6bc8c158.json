@@ -1,0 +1,10 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-15T16:28:34.033Z",
+  "unitId": "45fbbba9d32a6bc8c158",
+  "cardNumbers": [
+    "UA10ST/MHA-1-061",
+    "UA10BT/MHA-1-061"
+  ],
+  "error": "UA10ST/MHA-1-063 缺少中文 Trigger。"
+}

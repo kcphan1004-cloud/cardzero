@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:54:22.717Z",
+  "model": "qwen3.5:9b",
+  "unitId": "554fc907c47936dc91f8",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-078"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ポール・フェニックス",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "保罗·费尼克斯",
+    "effectZh": "【离场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

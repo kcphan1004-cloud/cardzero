@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:15:52.251Z",
+  "model": "qwen3.5:9b",
+  "unitId": "803cc685b86e1360c2c0",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-045"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "コハク",
+    "effect": "[自分のターン中]\n自分の効果で自分の手札からこのカードが公開された時、このカードが必要エナジーを満たしている場合、自分の他の手札を1枚場外に置いてもよい。そうした場合、このカードを自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "琥珀",
+    "effectZh": "[在自己的回合中]\n当自己效果将自己的手牌中的此卡公开时，若此卡满足必要能量，可以将自己的其他手牌中任意 1 张置入场外。如此做的话，将此卡在横置状态下登场到自己的场上。",
+    "triggerZh": ""
+  }
+}

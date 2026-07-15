@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:47:53.105Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b38ca7d0a38dd719f3c4",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-054"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "クマ",
+    "effect": "[自分のターン中]\n自分の場外にカードが10枚以上ある場合、このキャラはBP+1000。\n[登場時]\nこのキャラは次の自分のターン開始時まで、BP+2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "熊",
+    "effectZh": "[自己的回合中]\n若场外有 10 张以上的卡，该角色 BP+1000。\n[登场时]\n直到下一个自己回合开始时为止，BP+2000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:08:20.641Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c1e71f9c055e0159bfb4",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-005"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "七海 龍水",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "七海龙水",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:41:19.407Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6de04b52f68109fcd1b3",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-011"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ボブ",
+    "effect": "[登場時]\n相手のフロントLに元々のBPよりBPが低いキャラがある場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鲍勃",
+    "effectZh": "[登场时]\n若对方前线 L 存在原本 BP 低于当前 BP 的角色，则将该角色进行激活。",
+    "triggerZh": ""
+  }
+}

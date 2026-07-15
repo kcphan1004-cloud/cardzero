@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:51:29.918Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89de7554a228e42fde74",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-067"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "高杉の煙管",
+    "effect": "自分の場外からキャラカードを1枚まで手札に加える。自分の場に〈高杉 晋助〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "高杉的烟管",
+    "effectZh": "从自己场外将角色卡最多 1 张加入手牌。如果自己的场上有〈高杉晋助〉，抽 1 张牌。",
+    "triggerZh": "【抽取】\n抽 1 张牌。"
+  }
+}

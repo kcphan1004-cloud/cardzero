@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:18:08.594Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3e1b1ac7ed231b1793cb",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-060"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "紅葉 ほむら",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n[このカードを退場させる]\n自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "红叶 火美良",
+    "effectZh": "[启动主]\n[横置状态]\n[将手牌中 1 张卡置于场外]\n[将此角色退场]\n选择自己的 AP 卡最多 1 枚，使其激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其激活，本回合中 BP+3000。"
+  }
+}

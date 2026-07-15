@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-15T17:03:33.363Z",
+  "unitId": "f39d3ce7f1e042d2bcb8",
+  "cardNumbers": [
+    "UA11ST/GNT-1-103"
+  ],
+  "error": "UA11ST/GNT-1-103 缺少中文 Trigger。"
+}

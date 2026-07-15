@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:19:22.989Z",
+  "model": "qwen3.5:9b",
+  "unitId": "96a5c4b5a14e427d5680",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-070"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "飯田 天哉",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "饭田天哉",
+    "effectZh": "[启动主效果]\n[将 1 张手牌置入场外]\n[回合 1]\n将该角色激活。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

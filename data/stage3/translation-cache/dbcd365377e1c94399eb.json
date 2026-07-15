@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:44:30.875Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dbcd365377e1c94399eb",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-033"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "土方スペシャル",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "土方特别版",
+    "effectZh": "选择最多 2 张自己的 AP 卡并激活。",
+    "triggerZh": "[最终]\n若自己没有生命，将牌库上方的一张卡置于自己的生命区域。"
+  }
+}

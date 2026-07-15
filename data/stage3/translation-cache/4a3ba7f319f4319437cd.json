@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:17:16.547Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a3ba7f319f4319437cd",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-067"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "次俺9作戦",
+    "effect": "自分の場のキャラを望む枚数選び、別のラインに移動させるか入れ替える。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "下次是我第 9 作戦",
+    "effectZh": "选择自己场上的任意数量角色，移动至其他线或进行替换。选择自己的 AP 卡最多 1 枚并激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并将其激活，本回合中 BP+3000。"
+  }
+}

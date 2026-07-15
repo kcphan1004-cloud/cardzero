@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:45.759Z",
+  "model": "qwen3.5:9b",
+  "unitId": "505b6505e56b5fa7594c",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-075",
+    "UA14BT/DST-1-075"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "あさぎり ゲン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朝雾源",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:54:35.146Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a583d5b6e14f8bfbafe7",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-076"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "坂本 辰馬",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂本辰马",
+    "effectZh": "[启动主效果]\n[横置]\n选择自己场上的其他角色 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

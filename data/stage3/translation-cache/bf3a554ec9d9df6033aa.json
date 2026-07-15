@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:09:15.839Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bf3a554ec9d9df6033aa",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-013"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "金狼",
+    "effect": "[登場時]\n自分の場に他の［特徴：石神村］が5枚以上か〈銀狼〉がある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金狼",
+    "effectZh": "【登场时】\n如果场上有其他［特征：石神村］共 5 张以上或有〈银狼〉，可以将手札中的 1 张置入场外。如此做的话，激活此角色。",
+    "triggerZh": ""
+  }
+}

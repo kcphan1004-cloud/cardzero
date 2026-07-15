@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:50:53.675Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9158c0041f738ae3702",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-064"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ウチにも一発殴らせろ！",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈風間 飛鳥〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "给我一拳！",
+    "effectZh": "选择对方前线L的『BP3000以下』的角色 1 张，使其退场。若己方场上有〈风间飞鸟〉，则改为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 张，使其退场。"
+  }
+}

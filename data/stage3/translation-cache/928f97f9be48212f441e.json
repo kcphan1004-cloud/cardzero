@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:43:03.916Z",
+  "model": "qwen3.5:9b",
+  "unitId": "928f97f9be48212f441e",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-020"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ（創世神ステイシア）",
+    "effect": "自分のライフが4以下の場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚丝娜（创世神·斯蒂西亚）",
+    "effectZh": "当自己的生命值在 4 以下时，该角色为+500 BP。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:01:57.112Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40c0701c0921e296bb4a",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-080"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "三島 一美",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三岛一美",
+    "effectZh": "当此角色处于激活状态时，此角色的发生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

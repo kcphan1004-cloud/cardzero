@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:24:42.334Z",
+  "model": "qwen3.5:9b",
+  "unitId": "693affbd5aee21c29c8c",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-079"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "スチームゴリラ号",
+    "effect": "[登場時]\n自分の手札から必要エナジーが4以下で消費APが1の特徴に「科学王国」を持つ緑のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蒸汽大猩猩号",
+    "effectZh": "[登场时]\n从自己手牌中选择至多 1 张拥有“科学王国”特征、消耗 AP 为 1 且必要能量在 4 以下的绿色角色卡，以横置状态登场。",
+    "triggerZh": ""
+  }
+}

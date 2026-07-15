@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:13:18.963Z",
+  "model": "qwen3.5:9b",
+  "unitId": "563f3dabe9856c351dd2",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-050"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "通形 ミリオ",
+    "effect": "手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。\nこのキャラはBP3000以下のキャラにブロックされない。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "通形 ミリオ",
+    "effectZh": "将手牌中这张卡的必要能量\n[绿×1]\n减少。\n该角色不会被 BP 为 3000 以下的角色阻挡。",
+    "triggerZh": "[颜色]\n从自己的手牌中选择至多 1 张必要能量为 2 以下、消耗 AP 为 1 的绿色角色卡，以激活状态登场到自己的场上。"
+  }
+}

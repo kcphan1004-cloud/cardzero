@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:44:17.541Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4062a80b701f8c247661",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-031"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "エクセレント！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "Excellent！",
+    "effectZh": "选择自己的AP卡最多2张并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取1张置于自己的生命区域。"
+  }
+}

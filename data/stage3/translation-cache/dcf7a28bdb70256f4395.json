@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:46:21.930Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dcf7a28bdb70256f4395",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-048"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "高杉 晋助",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "高杉晋助",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:38:58.030Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3b9c21bed3ad001c3102",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-025"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "山崎 退",
+    "effect": "[退場時]\n自分の山札の上から3枚見る。その中から［特徴：真選組］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "山崎 退",
+    "effectZh": "[离场时]\n查看自己牌库上方 3 张，从中公开［特征：真选组］最多 1 张并加入手牌。将剩余部分按任意顺序置于自己牌库下方。",
+    "triggerZh": ""
+  }
+}

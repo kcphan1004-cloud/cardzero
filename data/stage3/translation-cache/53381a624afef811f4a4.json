@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:45:20.479Z",
+  "model": "qwen3.5:9b",
+  "unitId": "53381a624afef811f4a4",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-034"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "目指せ賞金！",
+    "effect": "自分の山札の上から3枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "赏金目标！",
+    "effectZh": "查看自己牌库上方的 3 张卡。从中按任意顺序选择想要的数量放回自己牌库上方，剩余部分也按任意顺序放回下方。抽 1 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

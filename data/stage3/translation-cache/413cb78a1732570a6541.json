@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:38:32.682Z",
+  "model": "qwen3.5:9b",
+  "unitId": "413cb78a1732570a6541",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-108"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "雷市 陣吾",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雷市 阵吾",
+    "effectZh": "【登场时】\n选择对方场上 BP1500 以上的角色至多 1 枚，本回合中将其 BP-1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

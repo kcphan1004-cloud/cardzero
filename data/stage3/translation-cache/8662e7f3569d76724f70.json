@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:03:00.446Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8662e7f3569d76724f70",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-088"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "三島 一八",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "三岛一八",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡牌加入手牌。"
+  }
+}

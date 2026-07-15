@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:05:36.643Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c8bed2eac37edef639f",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-009"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "剣城 斬鉄",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。\n[アタック時]\n相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "剑城 斩铁",
+    "effectZh": "[登场时]\n可以将自己手牌中的一张放置到场外。如此做的话，将该角色激活。\n[攻击时]\n选择对方前线L的角色最多一张并变为横置状态。",
+    "triggerZh": "[Get] \n将此卡加入手牌。"
+  }
+}

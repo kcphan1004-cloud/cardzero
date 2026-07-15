@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:43:38.282Z",
+  "model": "qwen3.5:9b",
+  "unitId": "36d1174ed9984bf503a8",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-031"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "真選組バズーカ",
+    "effect": "自分の場にある［特徴：真選組］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラクターを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "真选组巴祖卡",
+    "effectZh": "选择对方前线 L 的 1 名角色，其 BP 为自身场中［特征：真选组］数量×1000 以下（含）的角色，使其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的 1 名角色，使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:07:04.736Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4cd6e49a764e47a8655",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-109"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "THE KING OF IRON FIST TOURNAMENT",
+    "effect": "自分の山札の上から4枚見る。その中から赤のキャラカードを2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铁拳锦标赛之王",
+    "effectZh": "查看自己山札上方的 4 张牌。从中公开最多 2 张红色角色卡牌并加入手牌，其余的按任意顺序置于自己的山札下方。",
+    "triggerZh": ""
+  }
+}

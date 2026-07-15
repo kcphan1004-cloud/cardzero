@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:40:29.017Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6507f0525a09ad806201",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-004"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "キング",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "King",
+    "effectZh": "[登场时]\n选择对方场上 BP 为 1500 以上的角色最多 1 张，本回合中，BP-1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其处于激活状态，本回合中，BP+3000。"
+  }
+}

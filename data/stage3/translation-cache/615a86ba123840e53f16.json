@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:13:20.617Z",
+  "model": "qwen3.5:9b",
+  "unitId": "615a86ba123840e53f16",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-031"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "パン",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "面包",
+    "effectZh": "选择至多 2 张我的 AP 卡并使其激活。",
+    "triggerZh": "[最终]\n若我方没有生命，则从上方取 1 张牌放入我方的生命区域。"
+  }
+}

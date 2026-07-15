@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:15:05.748Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69a7930c0412173fe421",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-050"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "國神 錬介",
+    "effect": "[アタック時]\n自分の場に他の［特徴：チームZ］が5枚以上ある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "国神 炼介",
+    "effectZh": "[攻击时]\n若自己场上另有［特征：Team Z］5 枚以上，则抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

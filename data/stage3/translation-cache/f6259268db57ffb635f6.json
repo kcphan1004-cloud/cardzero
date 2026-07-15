@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:30:10.358Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6259268db57ffb635f6",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-109"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "1年A組",
+    "effect": "自分の山札の上から5枚見る。その中からキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。公開したカードが〈緑谷 出久〉の場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "1年A组",
+    "effectZh": "查看自己山札上方 5 张。从中公开最多 1 张角色卡并加入手牌，其余按任意顺序置于自己山札下方。若公开的卡片为〈绿谷出久〉，则抽 1 张牌。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

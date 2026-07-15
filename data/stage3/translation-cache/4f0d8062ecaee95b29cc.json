@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:58:47.028Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f0d8062ecaee95b29cc",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-091"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "定春",
+    "effect": "自分の\n[レイド]\nを持つ［特徴：万事屋］はこのキャラにレイドできる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "定春",
+    "effectZh": "拥有［特征：万事屋］的自己的［Raid］角色可以登场到该角色身上。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

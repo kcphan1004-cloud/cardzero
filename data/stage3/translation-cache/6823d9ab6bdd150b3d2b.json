@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:35:01.063Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6823d9ab6bdd150b3d2b",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-010"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "服部 全蔵",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラクターを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "服部全藏",
+    "effectZh": "[登场时]\n选择对方前线 BP 3000 以下的角色至多 1 张，使其进入横置状态。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 张，将其激活，本回合中，BP+3000。"
+  }
+}

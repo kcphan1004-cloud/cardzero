@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:41:54.840Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a0daa598497fc8a832fa",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-014"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "エルドリエ・シンセシス・サーティワン",
+    "effect": "[相手のターン中]\nこのキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "埃尔德里·合成·31 级",
+    "effectZh": "[对方回合中]\n该角色 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

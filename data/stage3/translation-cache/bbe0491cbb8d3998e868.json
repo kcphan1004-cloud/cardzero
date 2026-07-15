@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:03:00.452Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bbe0491cbb8d3998e868",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-101"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "風間 仁",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の特徴を持たない赤のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "风间仁",
+    "effectZh": "[登场时]\n将自身手牌中必要能量为 2 以下、消耗 AP 为 1、且没有特征的红色角色卡选择至多 1 张，以横置状态召唤至自身场上。",
+    "triggerZh": "[激活]\n选择自身场上的 1 张角色卡，将其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:06:44.062Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c9153b19493adb57b54",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-013"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "凪 誠士郎",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凪 诚士郎",
+    "effectZh": "[登场时]\n可以将自己手札中的 1 枚置入场外。若如此做，则选择对方前线 L 的角色至多 1 枚并使其处于横置状态。",
+    "triggerZh": ""
+  }
+}

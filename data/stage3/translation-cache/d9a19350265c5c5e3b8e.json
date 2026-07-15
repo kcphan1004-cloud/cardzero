@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:19:26.670Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d9a19350265c5c5e3b8e",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-066"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "リューさん",
+    "effect": "相手のフロントLのキャラを1枚選び、このターン中、BP-2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "龙酱",
+    "effectZh": "选择对方前线 L 的 1 名角色，本回合中 BP-2000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

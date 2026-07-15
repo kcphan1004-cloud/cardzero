@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:45:20.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "03c89ee5980284ec5ada",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-038"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "風間 飛鳥",
+    "effect": "このターン中にこのキャラが移動した回数1回につき、このキャラはこのターン中、BP+1000。\nこのキャラのBPが4000以上の場合、このキャラは「\n[アタック時]\nカードを1枚引く。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "风间 飞鸟",
+    "effectZh": "本回合中此角色每移动一次，其在本回合中 BP+1000。\n若此角色的 BP 达到或超过 4000，则获得以下效果：\n[攻击时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

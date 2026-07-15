@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:40:29.021Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b9f262c123d198b7b142",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-007"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "クレイグ・マードック",
+    "effect": "[自分のターン中]\n自分のフロントLに〈キング〉がある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克雷格·马多克",
+    "effectZh": "【自己的回合中】\n如果自己的前线 L 有〈King〉，该角色 BP+500。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

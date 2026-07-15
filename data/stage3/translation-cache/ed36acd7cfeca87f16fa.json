@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:39:56.211Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ed36acd7cfeca87f16fa",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-AP01",
+    "UA14ST/DST-1-AP02",
+    "UA14BT/DST-1-AP01",
+    "UA14BT/DST-1-AP02",
+    "UA14BT/DST-1-AP03",
+    "UA14BT/DST-1-AP04",
+    "UA14BT/DST-1-AP05",
+    "UA14BT/DST-1-AP06"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "アクションポイントカード(Dr.STONE)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (Dr.STONE)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

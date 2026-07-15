@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:18:08.591Z",
+  "model": "qwen3.5:9b",
+  "unitId": "32a653d906bb0ce9132c",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-058"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "氷月",
+    "effect": "[レイド]\n〈氷月〉アクティブにし、フロントLに移動できる\n[登場時]\n『BP3000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分のターン中の場合、APを1支払ってもよい。そうした場合、『BP5000以下』に代わる。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "冰月",
+    "effectZh": "[Raid]\n〈冰月〉激活并移动至前线 L\n[登场时]\n选择对方前线 L 中 BP3000 以下的角色最多 1 枚，使其退场。若在自己的回合中，也可以支付 AP 1。如此情况下，BP5000 以下代替生效。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量时，发动 Raid。"
+  }
+}

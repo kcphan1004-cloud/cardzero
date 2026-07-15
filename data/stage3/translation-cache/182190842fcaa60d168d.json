@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:13:20.613Z",
+  "model": "qwen3.5:9b",
+  "unitId": "182190842fcaa60d168d",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-029"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "STONE WARS",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈コハク〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "石神战争",
+    "effectZh": "选择对方前线L的 1 名角色并使其退场。若我方场上有〈琥珀〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 名角色并使其退场。"
+  }
+}

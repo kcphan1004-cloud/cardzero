@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:39:56.214Z",
+  "model": "qwen3.5:9b",
+  "unitId": "124ab8ccab63bab7905b",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-002"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "このキャラはアクティブで場に登場させる。\n自分のフロントLに〈アリス〉と〈ユージオ〉がある場合、このキャラは\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）を得る。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "以激活状态登场此角色。\n如果自己的前线有〈爱丽丝〉和〈尤吉欧〉，则此角色获得\n[两次攻击]\n（当此角色在本回合首次攻击时，将其激活）的效果。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

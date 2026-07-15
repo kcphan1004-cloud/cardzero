@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:34:26.550Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bdc37a3c0faf54474575",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14ST/DST-1-096",
+    "UA14BT/DST-1-096"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "科学で勝ってやんぞ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈石神 千空〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "用科学赢给你看！",
+    "effectZh": "选择对方前线 L 的 1 张角色卡，使其退场。若我方场上有〈石神千空〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色卡，使其退场。"
+  }
+}

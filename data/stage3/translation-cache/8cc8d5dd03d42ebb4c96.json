@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:09:15.843Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8cc8d5dd03d42ebb4c96",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-015"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "クロム",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克罗姆",
+    "effectZh": "【无效冲击】\n（与此角色进行战斗的角色在本场战斗中失去\n【冲击】）",
+    "triggerZh": ""
+  }
+}

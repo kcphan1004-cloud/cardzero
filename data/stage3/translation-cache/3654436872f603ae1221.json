@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:49:16.334Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3654436872f603ae1221",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-055"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "白夜叉",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "白夜叉",
+    "effectZh": "",
+    "triggerZh": "[触发] 将此卡加入手牌。"
+  }
+}

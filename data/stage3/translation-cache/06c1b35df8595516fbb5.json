@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:28:13.758Z",
+  "model": "qwen3.5:9b",
+  "unitId": "06c1b35df8595516fbb5",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-088"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "蜂楽 廻",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蜂乐 廻",
+    "effectZh": "[登场时]\n将己方场中必要能量为 1 以下的其他角色中的一张返回手牌。若无法返回，将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

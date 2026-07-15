@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:45:27.582Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9a537922eb338e243da8",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-040"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "神威",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神威",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中,\n[冲击]\n失效）",
+    "triggerZh": ""
+  }
+}

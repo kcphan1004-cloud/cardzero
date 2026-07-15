@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:44:30.877Z",
+  "model": "qwen3.5:9b",
+  "unitId": "90f391267b47c931222a",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-035"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "坂本 辰馬",
+    "effect": "[登場時]\nカードを1枚引く。\n[退場時]\n自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂本辰马",
+    "effectZh": "[登场时]\n抽 1 张牌。\n[退场时]\n将手牌的 1 张卡置在场外。",
+    "triggerZh": ""
+  }
+}

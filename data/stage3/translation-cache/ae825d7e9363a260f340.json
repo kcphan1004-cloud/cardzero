@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:23:55.332Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ae825d7e9363a260f340",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-099"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "プロミネンスバーン",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の他の手札が3枚以下の場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "普罗米修斯燃烧",
+    "effectZh": "选择 1 张对方『BP3000以下』的前线 L 的角色，使其退场。如果自己的其他手牌为 3 张或更少时，则改为『BP5000以下〕。",
+    "triggerZh": "[特殊]\n选择 1 张对方的前线 L 的角色，使其退场。"
+  }
+}

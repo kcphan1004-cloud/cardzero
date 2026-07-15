@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:27:05.085Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1d62ae38412308d70cbc",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-084"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "帝襟 アンリ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "帝襟アンリ",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[赤]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

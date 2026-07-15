@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:44:30.879Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f43b93c8dd8fb9057a2",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-037"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "徳川 喜々",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "德川喜々",
+    "effectZh": "当对方场上存在黄色或红色的卡时，将手牌中此卡的必要能量减少 [紫×1]。",
+    "triggerZh": ""
+  }
+}

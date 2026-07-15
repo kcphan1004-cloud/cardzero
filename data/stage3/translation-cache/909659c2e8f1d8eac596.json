@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:59:35.500Z",
+  "model": "qwen3.5:9b",
+  "unitId": "909659c2e8f1d8eac596",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-100"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "万事屋への依頼書",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "万事屋委托书",
+    "effectZh": "抽 1 张牌，将我方手札中的 1 张置为场外。选择至多 1 个我的 AP 卡并激活之。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:07:40.927Z",
+  "model": "qwen3.5:9b",
+  "unitId": "143dd61678c58345b3b2",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-021"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "馬狼 照英",
+    "effect": "[フロントLにある場合]\n裏向きのカードが下にある自分の場のキャラは、相手が手札から使用したイベントカードの効果で選ばれない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "馬狼 照英",
+    "effectZh": "[存在于前线 L 时]\n若某张自己场上的角色下方有背面朝上的卡，则不会被对手使用的事件卡效果所选择。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:32:28.298Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e9fad62aaa6f4b5ac5b",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-004"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "猿飛 あやめ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[黄]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "猿飞 菖蒲",
+    "effectZh": "[启动主]\n[横置状态]\n[回合1]\n本回合中，该角色的产生能量+\n[黄]\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

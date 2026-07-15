@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:30:54.855Z",
+  "model": "qwen3.5:9b",
+  "unitId": "368a2cf5c826e2e82821",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-035",
+    "UA12BT/BLK-1-035"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "絵心 甚八",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绘心甚八",
+    "effectZh": "[登场时]\n将己方场上其他角色中能量需求为 1 以下的 1 张返回手牌。若无法返还，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

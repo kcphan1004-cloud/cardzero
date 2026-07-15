@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:03:00.449Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d2228dd71a8b05ad89e7",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-097"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "地獄へ送ってやろう！",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈三島 一八〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "送去地狱吧！",
+    "effectZh": "『BP3000 以下』的对方 Front L 的角色卡选择 1 张，使其退场。若自身场上有〈三岛一八〉，则变更为『BP5000 以下』。",
+    "triggerZh": "[特殊]\n选择对方的 Front L 角色卡中的 1 张，使其退场。"
+  }
+}

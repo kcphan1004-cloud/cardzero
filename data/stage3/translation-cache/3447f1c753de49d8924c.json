@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:36:31.263Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3447f1c753de49d8924c",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-102"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "五十嵐 栗夢",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "五十岚栗梦",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

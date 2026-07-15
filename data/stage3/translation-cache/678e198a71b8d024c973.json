@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:18:08.586Z",
+  "model": "qwen3.5:9b",
+  "unitId": "678e198a71b8d024c973",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-055"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "ニッキー",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妮琪",
+    "effectZh": "对方场上有黄或绿的卡时，将手牌中此卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

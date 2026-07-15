@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:09:34.043Z",
+  "model": "qwen3.5:9b",
+  "unitId": "402a959616525c70d80b",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-029"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "\"潰す\"一択だ",
+    "effect": "相手のフロントLのキャラを1枚まで選び、レストにする。カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "\"只选一个\"的决断",
+    "effectZh": "选择对方前线 L 的角色至多一张，将其横置。抽一张牌，将自己手札中一张置于场外。",
+    "triggerZh": "[激活]"
+  }
+}

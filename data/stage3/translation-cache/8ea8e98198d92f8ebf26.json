@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:14:47.827Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ea8e98198d92f8ebf26",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-040"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "石神 千空",
+    "effect": "自分の効果で自分の手札から公開しているこのカードは必要エナジーを\n[紫×3]\nとしても扱う。\n[レイド]\n〈石神 千空〉アクティブにし、フロントLに移動できる\n[登場時]\n自分の場に〈ケータイ〉がある場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "石神 千空",
+    "effectZh": "通过自己效果从自己手牌中公开的这张卡，将必要能量视为\n[紫×3]\n[Raid]\n〈石神 千空〉激活并移动到Front L\n[登场时]\n如果自己的场上有〈手机〉存在，则从对手的Front L中选择最多1名角色，本回合中BP-2000。\n[获取]\n将此卡加入手牌。",
+    "triggerZh": "[Raid]"
+  }
+}

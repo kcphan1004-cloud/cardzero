@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:09:34.045Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4ce5db67f0f895a35c7a",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-032"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "これが俺の",
+    "effect": "自分の手札を1枚場外に置く。そうした場合、自分の場の〈剣城 斬鉄〉を1枚まで選び、このターン中、\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、指定した場合、相手はブロックできない）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "这就是我的",
+    "effectZh": "将一张手牌置于场外。若如此做，选择自己场上的一张〈剑城斩铁》，本回合中赋予其\n【精准射击】\n（指定对方前线 L 的角色进行攻击，且被指定时对方无法阻挡）。",
+    "triggerZh": ""
+  }
+}

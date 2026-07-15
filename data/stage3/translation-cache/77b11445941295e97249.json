@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:49:39.718Z",
+  "model": "qwen3.5:9b",
+  "unitId": "77b11445941295e97249",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-031"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "三人の思い出",
+    "effect": "自分の山札の上から5枚見る。その中から〈キリト〉か〈アリス〉か〈ユージオ〉を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三人的回忆",
+    "effectZh": "查看自己牌库上方的 5 张卡。从中最多公开 2 张〈桐人〉或〈爱丽丝〉或〈尤吉欧〉加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[登场时]\n抽 1 张牌。"
+  }
+}

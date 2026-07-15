@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:41:19.412Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fd390988921f7fe6bab3",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-015"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "リロイ・スミス",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "里罗伊·史密斯",
+    "effectZh": "[启动主效果]\n[横置状态]\n选择自己场上的其他 1 名角色，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

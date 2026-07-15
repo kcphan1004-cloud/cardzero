@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:06:44.059Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89e2ff41e0d6ccbe3aa6",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-010"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "帝襟 アンリ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "帝襟 安里",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 枚，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

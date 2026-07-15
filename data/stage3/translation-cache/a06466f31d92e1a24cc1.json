@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:31:40.437Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a06466f31d92e1a24cc1",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-064",
+    "UA12BT/BLK-1-033",
+    "UA12BT/BLK-1-064",
+    "UA12BT/BLK-1-098"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "サーロインステーキ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "サーロインステーキ",
+    "effectZh": "选择至多两张自己的 AP 卡片并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，可以将自己牌库上方的一张放置在自己的生命区域。"
+  }
+}

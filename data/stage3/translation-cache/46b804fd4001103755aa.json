@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:22:59.256Z",
+  "model": "qwen3.5:9b",
+  "unitId": "46b804fd4001103755aa",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-094"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "ミルコ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米尔科",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": ""
+  }
+}

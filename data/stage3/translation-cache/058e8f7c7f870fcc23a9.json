@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:29:05.935Z",
+  "model": "qwen3.5:9b",
+  "unitId": "058e8f7c7f870fcc23a9",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-089"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "コハク",
+    "effect": "[自分のターン中]\n自分の場に［特徴：クラフト］が2枚以上ある場合、このキャラはBP+1000。自分の場に［特徴：クラフト］が3枚以上ある場合、さらに\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "琥珀",
+    "effectZh": "[自己的回合中]\n自己场上有 2 张以上［特征：工艺］时，该角色 BP+1000。自己场上有 3 张以上［特征：工艺］时，此外\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": ""
+  }
+}

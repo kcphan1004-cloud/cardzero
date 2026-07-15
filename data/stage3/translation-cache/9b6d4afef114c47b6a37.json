@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:23:55.335Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9b6d4afef114c47b6a37",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-034",
+    "UA10BT/MHA-1-034"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "相澤 消太",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "相泽消太",
+    "effectZh": "当此角色处于激活状态时，此角色的发生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:44:17.542Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d2d7d6bc8698e8b29333",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-032"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "排除します！",
+    "effect": "自分の場の［特徴：ヴァイオレット・システムズ］の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "排除！",
+    "effectZh": "选择对方前线L上BP为（己方场上「特征：紫罗兰系统」的总数量×1000）以下的角色卡最多1张，使其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线L的角色卡最多1张，使其退场。"
+  }
+}

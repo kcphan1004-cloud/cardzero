@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:56.085Z",
+  "model": "qwen3.5:9b",
+  "unitId": "339be7a3dace6a18f191",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-048"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "マスターレイヴン",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大师雷文",
+    "effectZh": "对方场上有蓝色或红色的卡时，手札中该卡的必要能量\n减少 [紫×1]。",
+    "triggerZh": ""
+  }
+}

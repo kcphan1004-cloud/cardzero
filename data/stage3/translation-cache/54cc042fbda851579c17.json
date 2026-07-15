@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:22:01.404Z",
+  "model": "qwen3.5:9b",
+  "unitId": "54cc042fbda851579c17",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-086"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "プレゼント・マイク",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "礼物·麦克",
+    "effectZh": "该角色激活时，该角色的发生能量+\n[红]。",
+    "triggerZh": ""
+  }
+}

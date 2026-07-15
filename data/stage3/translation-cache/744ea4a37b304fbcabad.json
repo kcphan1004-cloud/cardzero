@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:17:14.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "744ea4a37b304fbcabad",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-052"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "獅子王 司",
+    "effect": "自分の場に特徴に「司帝国」を持つフィールドがある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "狮子王 司",
+    "effectZh": "当自己场上存在具有特征「司帝国」的场地时，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

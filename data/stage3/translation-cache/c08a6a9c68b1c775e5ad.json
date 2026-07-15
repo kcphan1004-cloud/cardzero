@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:19:22.985Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c08a6a9c68b1c775e5ad",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-067"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "相澤 消太",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "相泽消太",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去\n[冲击]）",
+    "triggerZh": ""
+  }
+}

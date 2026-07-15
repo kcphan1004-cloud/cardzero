@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:07:04.734Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9280e1b858d4eec3a34",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-108"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "GET READY FOR THE NEXT BATTLE",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引き、自分のAPカードを1枚まで選び、アクティブにする",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "准备好迎接下一场战斗",
+    "effectZh": "[启动主]\n[横置]\n[将此卡退场]\n抽 1 张牌，选择最多 1 张自己的 AP 卡牌并激活。",
+    "triggerZh": "[GET] \n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:22:59.252Z",
+  "model": "qwen3.5:9b",
+  "unitId": "550bac1ac3817eafd6d6",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-091"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "Mt.レディ",
+    "effect": "[アタック時]\n[ブロック時]\n自分のフロントLに空きがある場合、自分の手札を1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雷帝山",
+    "effectZh": "[攻击时]\n[阻挡时]\n若自己的前线 L 有空位，可以将自己手牌中的 1 张卡放置到场外。如此操作的情况下，该角色在本回合中 BP+2000。",
+    "triggerZh": "「抽」\n抽 1 张牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:49:16.329Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c77042dee9d076bffd7a",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-052"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "桂 小太郎",
+    "effect": "このキャラはBP2000以下のキャラにブロックされない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桂·小太郎",
+    "effectZh": "该角色不会被 BP 为 2000 以下的角色阻挡。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:52:30.522Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0ecf4c7fd091acb004f9",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-068"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "エリザベス",
+    "effect": "[起動メイン]\n[ターン1]\nこのターン中に自分がイベントカードを使用している場合のみ発動できる。このキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊丽莎白",
+    "effectZh": "[启动主]\n[回合 1]\n仅在自己本回合使用了事件卡时才能发动。该角色在本回合中，BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:47:53.106Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f2f5914a5e694c7a7d02",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-055"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "クマ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "熊",
+    "effectZh": "[退场时] \n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

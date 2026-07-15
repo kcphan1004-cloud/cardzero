@@ -1,0 +1,30 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:38:32.685Z",
+  "model": "qwen3.5:9b",
+  "unitId": "850df85389b2345d7e7a",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-AP01",
+    "UA12ST/BLK-1-AP02",
+    "UA12BT/BLK-1-AP01",
+    "UA12BT/BLK-1-AP02",
+    "UA12BT/BLK-1-AP03",
+    "UA12BT/BLK-1-AP04",
+    "UA12BT/BLK-1-AP05",
+    "UA12BT/BLK-1-AP06",
+    "UA03NC/BLK-2-AP01"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "アクションポイントカード(ブルーロック)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (蓝色监狱)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:51:56.032Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6f4f0d7e09b6a5b490b5",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-075"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "パンダ",
+    "effect": "[登場時]\n自分の場に〈リン・シャオユウ〉がある場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "熊猫",
+    "effectZh": "[登场时]\n当己方场上有〈林晓雨〉时，抽一张牌。",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并使其激活，且在本回合中 BP+3000。"
+  }
+}

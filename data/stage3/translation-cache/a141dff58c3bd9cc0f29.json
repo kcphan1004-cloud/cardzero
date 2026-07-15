@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:16:22.757Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a141dff58c3bd9cc0f29",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-053"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "千切 豹馬",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "千切 豹马",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中按任意顺序选择想要的数量放回自己牌库上方，其余的也按任意顺序放回下方。",
+    "triggerZh": ""
+  }
+}

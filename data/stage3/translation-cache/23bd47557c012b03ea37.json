@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:29:22.079Z",
+  "model": "qwen3.5:9b",
+  "unitId": "23bd47557c012b03ea37",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-104"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "耳郎 響香",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。それらを望む順で自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "耳朗响香",
+    "effectZh": "[登场时]\n查看自己牌库上方的 3 张卡，按任意顺序将它们置于自己牌库上方。",
+    "triggerZh": ""
+  }
+}

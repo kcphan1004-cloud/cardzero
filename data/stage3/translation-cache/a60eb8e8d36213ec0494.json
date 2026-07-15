@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:43:18.655Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a60eb8e8d36213ec0494",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-026"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ラース・アレクサンダーソン",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "拉斯·亚历山大森",
+    "effectZh": "[阻挡 2 次]\n（当该角色在本回合首次阻挡时，激活）",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，激活并使其在本回合中 BP+3000。"
+  }
+}

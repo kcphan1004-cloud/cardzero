@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:38:32.688Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d6720982e604c411a633",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-003"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "巌竜",
+    "effect": "[自分のターン中]\nこのキャラはBP+1500。\n[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "岩龙",
+    "effectZh": "【己方回合中】\n该角色 BP+1500。\n[启动主]\n[支付 AP 为 1]\n[回合 1]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

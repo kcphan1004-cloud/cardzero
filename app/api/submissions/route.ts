@@ -1,229 +1,188 @@
-import { Buffer } from "node:buffer";
-import { randomUUID } from "node:crypto";
+import crypto from "node:crypto";
 import { NextResponse } from "next/server";
-
-import {
-  createSupabaseAdmin,
-  SUBMISSION_BUCKET,
-} from "../../../lib/supabase-admin";
-import {
-  firstZodError,
-  submissionSchema,
-} from "../../../lib/submission-validation";
+import { getSupabaseAdmin } from "../../../lib/supabaseAdmin";
 
 export const runtime = "nodejs";
 
-const MAX_IMAGE_SIZE = 5 * 1024 * 1024;
+const BUCKET_NAME = "deck-submissions";
+const MAX_FILE_SIZE = 8 * 1024 * 1024;
 
-const ALLOWED_IMAGE_TYPES = new Map([
-  ["image/jpeg", "jpg"],
-  ["image/png", "png"],
-  ["image/webp", "webp"],
-]);
+const supportedTypes: Record<string, string> = {
+  "image/jpeg": "jpg",
+  "image/png": "png",
+  "image/webp": "webp",
+};
 
-function jsonError(message: string, status = 400) {
-  return NextResponse.json(
-    {
-      ok: false,
-      message,
-    },
-    { status },
-  );
-}
-
-function createSlug(deckName: string) {
-  const readable = deckName
-    .normalize("NFKD")
-    .toLowerCase()
-    .replace(/[^a-z0-9\u3400-\u9fff\u3040-\u30ff]+/g, "-")
-    .replace(/^-+|-+$/g, "")
-    .slice(0, 50);
-
-  const suffix = randomUUID().slice(0, 8);
-
-  return `${readable || "deck"}-${suffix}`;
-}
-
-async function verifyTurnstile(
-  token: string,
-  remoteIp?: string,
+function cleanText(
+  value: FormDataEntryValue | null,
+  maxLength: number,
 ) {
-  const secret = process.env.TURNSTILE_SECRET_KEY;
-  const siteKey =
-    process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
-
-  // 本地开发可以暂时不设；正式站建议两个都设定。
-  if (!secret && !siteKey) {
-    return true;
-  }
-
-  if (!secret || !siteKey || !token) {
-    return false;
-  }
-
-  const body = new URLSearchParams({
-    secret,
-    response: token,
-  });
-
-  if (remoteIp) {
-    body.set("remoteip", remoteIp);
-  }
-
-  const response = await fetch(
-    "https://challenges.cloudflare.com/turnstile/v0/siteverify",
-    {
-      method: "POST",
-      body,
-      cache: "no-store",
-    },
-  );
-
-  if (!response.ok) {
-    return false;
-  }
-
-  const result = (await response.json()) as {
-    success?: boolean;
-  };
-
-  return result.success === true;
+  if (typeof value !== "string") return "";
+  return value.trim().slice(0, maxLength);
 }
 
 export async function POST(request: Request) {
-  let formData: FormData;
-
   try {
-    formData = await request.formData();
-  } catch {
-    return jsonError("无法读取投稿资料。");
-  }
+    const formData = await request.formData();
 
-  const parsed = submissionSchema.safeParse({
-    authorName: formData.get("authorName"),
-    contact: formData.get("contact"),
-    deckName: formData.get("deckName"),
-    series: formData.get("series"),
-    color: formData.get("color"),
-    deckType: formData.get("deckType"),
-    deckCode: formData.get("deckCode"),
-    deckLink: formData.get("deckLink"),
-    description: formData.get("description"),
-    strategy: formData.get("strategy"),
-    consent: formData.get("consent"),
-    website: formData.get("website"),
-  });
+    if (cleanText(formData.get("website"), 200)) {
+      return NextResponse.json(
+        { ok: true, message: "投稿成功。" },
+        { status: 200 },
+      );
+    }
 
-  if (!parsed.success) {
-    return jsonError(firstZodError(parsed.error));
-  }
-
-  const remoteIp =
-    request.headers.get("cf-connecting-ip") ||
-    request.headers.get("x-forwarded-for")?.split(",")[0]?.trim();
-
-  const turnstileToken = String(
-    formData.get("cf-turnstile-response") || "",
-  );
-
-  const turnstileValid = await verifyTurnstile(
-    turnstileToken,
-    remoteIp,
-  );
-
-  if (!turnstileValid) {
-    return jsonError(
-      "人机验证失败，请重新验证后再投稿。",
-      403,
+    const deckName = cleanText(
+      formData.get("deckName"),
+      80,
     );
-  }
-
-  const image = formData.get("image");
-
-  if (!(image instanceof File) || image.size === 0) {
-    return jsonError("请上传牌表截图。");
-  }
-
-  const extension = ALLOWED_IMAGE_TYPES.get(image.type);
-
-  if (!extension) {
-    return jsonError(
-      "图片只支持 JPG、PNG 或 WebP。",
+    const series = cleanText(
+      formData.get("series"),
+      100,
     );
-  }
+    const submitterName = cleanText(
+      formData.get("submitterName"),
+      50,
+    );
+    const contact = cleanText(
+      formData.get("contact"),
+      120,
+    );
+    const eventName = cleanText(
+      formData.get("eventName"),
+      100,
+    );
+    const result = cleanText(
+      formData.get("result"),
+      80,
+    );
+    const notes = cleanText(
+      formData.get("notes"),
+      1500,
+    );
+    const consent = cleanText(
+      formData.get("consent"),
+      10,
+    );
+    const image = formData.get("deckImage");
 
-  if (image.size > MAX_IMAGE_SIZE) {
-    return jsonError("图片大小不能超过 5MB。");
-  }
+    if (
+      !deckName ||
+      !series ||
+      !submitterName ||
+      consent !== "yes"
+    ) {
+      return NextResponse.json(
+        {
+          ok: false,
+          message: "请填写所有必填资料。",
+        },
+        { status: 400 },
+      );
+    }
 
-  const submissionId = randomUUID();
-  const imagePath = `submissions/${submissionId}.${extension}`;
-  const supabase = createSupabaseAdmin();
+    if (!(image instanceof File)) {
+      return NextResponse.json(
+        {
+          ok: false,
+          message: "请选择牌组图片。",
+        },
+        { status: 400 },
+      );
+    }
 
-  const imageBuffer = Buffer.from(
-    await image.arrayBuffer(),
-  );
+    const extension = supportedTypes[image.type];
 
-  const { error: uploadError } = await supabase.storage
-    .from(SUBMISSION_BUCKET)
-    .upload(imagePath, imageBuffer, {
-      contentType: image.type,
-      cacheControl: "31536000",
-      upsert: false,
+    if (!extension) {
+      return NextResponse.json(
+        {
+          ok: false,
+          message:
+            "图片格式不受支持，请使用 JPG、PNG 或 WebP。",
+        },
+        { status: 400 },
+      );
+    }
+
+    if (image.size <= 0 || image.size > MAX_FILE_SIZE) {
+      return NextResponse.json(
+        {
+          ok: false,
+          message: "图片大小必须小于 8MB。",
+        },
+        { status: 400 },
+      );
+    }
+
+    const supabase = getSupabaseAdmin();
+    const dateFolder = new Date()
+      .toISOString()
+      .slice(0, 10);
+    const objectPath =
+      `${dateFolder}/${crypto.randomUUID()}.${extension}`;
+
+    const imageBuffer = Buffer.from(
+      await image.arrayBuffer(),
+    );
+
+    const uploadResult = await supabase.storage
+      .from(BUCKET_NAME)
+      .upload(objectPath, imageBuffer, {
+        contentType: image.type,
+        cacheControl: "3600",
+        upsert: false,
+      });
+
+    if (uploadResult.error) {
+      throw uploadResult.error;
+    }
+
+    const imageUrl = supabase.storage
+      .from(BUCKET_NAME)
+      .getPublicUrl(objectPath).data.publicUrl;
+
+    const now = new Date().toISOString();
+
+    const insertResult = await supabase
+      .from("deck_submissions")
+      .insert({
+        deck_name: deckName,
+        series,
+        submitter_name: submitterName,
+        contact: contact || null,
+        event_name: eventName || null,
+        result: result || null,
+        notes: notes || null,
+        image_path: objectPath,
+        image_url: imageUrl,
+        status: "approved",
+        reviewed_at: now,
+      })
+      .select("id")
+      .single();
+
+    if (insertResult.error) {
+      await supabase.storage
+        .from(BUCKET_NAME)
+        .remove([objectPath]);
+      throw insertResult.error;
+    }
+
+    return NextResponse.json({
+      ok: true,
+      id: insertResult.data.id,
+      message:
+        "投稿成功！牌组已经公开显示在牌组分享区。",
     });
+  } catch (error) {
+    console.error("牌组投稿失败：", error);
 
-  if (uploadError) {
-    console.error("投稿图片上传失败：", uploadError);
-
-    return jsonError(
-      "图片上传失败，请稍后重试。",
-      500,
+    return NextResponse.json(
+      {
+        ok: false,
+        message: "投稿暂时失败，请稍后重试。",
+      },
+      { status: 500 },
     );
   }
-
-  const {
-    data: { publicUrl },
-  } = supabase.storage
-    .from(SUBMISSION_BUCKET)
-    .getPublicUrl(imagePath);
-
-  const input = parsed.data;
-
-  const { error: insertError } = await supabase
-    .from("deck_submissions")
-    .insert({
-      id: submissionId,
-      slug: createSlug(input.deckName),
-      author_name: input.authorName,
-      contact: input.contact ?? null,
-      deck_name: input.deckName,
-      series: input.series,
-      color: input.color,
-      deck_type: input.deckType,
-      deck_code: input.deckCode ?? null,
-      deck_link: input.deckLink ?? null,
-      description: input.description,
-      strategy: input.strategy,
-      image_url: publicUrl,
-      image_path: imagePath,
-      status: "pending",
-    });
-
-  if (insertError) {
-    console.error("投稿写入数据库失败：", insertError);
-
-    await supabase.storage
-      .from(SUBMISSION_BUCKET)
-      .remove([imagePath]);
-
-    return jsonError(
-      "投稿储存失败，请稍后重试。",
-      500,
-    );
-  }
-
-  return NextResponse.json({
-    ok: true,
-    submissionId,
-  });
 }

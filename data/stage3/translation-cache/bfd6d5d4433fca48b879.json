@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:15:05.745Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bfd6d5d4433fca48b879",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-045"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "潔 世一",
+    "effect": "[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、カードを1枚引き、さらに自分の場に他の［特徴：チームZ］が5枚以上あるなら、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "洁 世一",
+    "effectZh": "[攻击时]\n可将此角色下方的背面朝上的卡片最多 1 张置入场外。如此操作，则抽 1 张牌；若自己场上另有［特征：Team Z］5 枚以上，则可再抽 2 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

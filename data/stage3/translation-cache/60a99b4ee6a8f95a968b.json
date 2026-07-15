@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:30:10.357Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60a99b4ee6a8f95a968b",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-108"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "雄英高校",
+    "effect": "自分のフロントLにキャラが2枚以上ある場合、このフィールドの発生エナジー+\n[緑]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "雄英高校",
+    "effectZh": "自己前线 L 有 2 张以上角色时，本场地发生能量+\n[绿]\n。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

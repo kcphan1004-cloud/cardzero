@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:15:05.747Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3901d0dbf6e3a8efa92",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-049"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "久遠 渉",
+    "effect": "相手のフロントLにアクティブのキャラがある場合、このキャラは\n[ダメージ（3）]\n（このキャラがアタックで直接ダメージを与える時、代わりに3ダメージ）を得る。\nこのキャラがアタックしてブロックされなかった時、相手はカードを3枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "久远 涉",
+    "effectZh": "若对手前线 L 有激活的角色，则该角色获得 [伤害（3）]。（此角色攻击直接造成伤害时，改为造成 3 点伤害。）\n当此角色攻击未被阻挡时，对手需抽 3 张牌。",
+    "triggerZh": ""
+  }
+}

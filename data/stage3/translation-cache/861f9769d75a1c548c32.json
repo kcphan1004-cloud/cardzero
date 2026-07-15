@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:16:22.760Z",
+  "model": "qwen3.5:9b",
+  "unitId": "861f9769d75a1c548c32",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-057"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "蜂楽 廻",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蜂乐廻",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己手牌中的 1 张卡置入场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

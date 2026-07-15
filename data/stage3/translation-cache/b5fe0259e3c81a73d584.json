@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:21:03.452Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b5fe0259e3c81a73d584",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10BT/MHA-1-082"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "爆豪 勝己",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "爆豪胜己",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

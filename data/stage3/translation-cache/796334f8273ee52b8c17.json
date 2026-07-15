@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:41:54.841Z",
+  "model": "qwen3.5:9b",
+  "unitId": "796334f8273ee52b8c17",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-015"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "デュソルバート・シンセシス・セブン",
+    "effect": "相手の場に青か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "迪索尔巴特·合成·7 级",
+    "effectZh": "对方场上有蓝色或绿色的卡时，手札中此卡的必要能量\n[黄×1]\n减少。",
+    "triggerZh": ""
+  }
+}

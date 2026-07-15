@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:41:54.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4b89bb5c9d68c7de408",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-011"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アリス・シンセシス・サーティ",
+    "effect": "このカードは〈アリス〉としても扱う。\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "爱丽丝·合成·30 级",
+    "effectZh": "这张卡也作为〈爱丽丝〉处理。\n[步骤]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": ""
+  }
+}

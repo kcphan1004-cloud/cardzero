@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:04:35.833Z",
+  "model": "qwen3.5:9b",
+  "unitId": "677e97bb59d2eb008bd1",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-AP01",
+    "UA11ST/GNT-1-AP02",
+    "UA11BT/GNT-1-AP01",
+    "UA11BT/GNT-1-AP02",
+    "UA11BT/GNT-1-AP03",
+    "UA11BT/GNT-1-AP04",
+    "UA11BT/GNT-1-AP05",
+    "UA11BT/GNT-1-AP06"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "アクションポイントカード(銀魂)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (银魂)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

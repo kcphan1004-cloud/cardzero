@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:37:34.778Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0696500fee5fd7a98121",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-016"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "近藤 勲",
+    "effect": "自分の場に他の［特徴：真選組］が5枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "近藤勋",
+    "effectZh": "当角色登场时，若场上存在其他［特征：真选组］的卡达到 5 张以上，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

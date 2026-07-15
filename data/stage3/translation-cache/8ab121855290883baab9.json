@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:30:00.119Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ab121855290883baab9",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-093"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "水力発電所",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "水力发电站",
+    "effectZh": "【登场时】\n抽牌。\n抽 1 张牌。",
+    "triggerZh": "抽牌"
+  }
+}

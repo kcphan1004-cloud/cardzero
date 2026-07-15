@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:05:08.391Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a485f9039bcf14628c9f",
+  "seriesSlug": "tekken",
+  "series": "tekken",
+  "cardNumbers": [
+    "UA13ST/TKN-1-103"
+  ],
+  "source": {
+    "series": "tekken",
+    "name": "三島 平八",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[アタック時]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "三岛平八",
+    "effectZh": "[伤害（2）]\n（当该角色通过攻击直接造成伤害时，改为造成 2 点伤害）\n[攻击时]\n抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

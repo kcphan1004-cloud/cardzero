@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:06:44.060Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a5871cdbd6f19c5e50ae",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-011"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "凪 誠士郎",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "凪 诚士郎",
+    "effectZh": "[登场时]\n抽 1 张牌并将自己手札中的 1 枚置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

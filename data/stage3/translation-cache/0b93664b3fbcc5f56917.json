@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:45:20.482Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0b93664b3fbcc5f56917",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-036"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "風間 飛鳥",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "风间 飞鸟",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

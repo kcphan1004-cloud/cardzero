@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:50:53.678Z",
+  "model": "qwen3.5:9b",
+  "unitId": "042b1e9b003b24b0f4c2",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-065"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "過去との決別",
+    "effect": "自分の場のキャラを1枚退場させる。そうした場合、カードを2枚引き、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "与过去的诀别",
+    "effectZh": "使己方场上的角色 1 张退场。如此则抽牌 2 张，选择至多 1 张自己的 AP 卡并使其激活。",
+    "triggerZh": "[抽取]\n抽牌 1 张。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:09:15.834Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4dfd212cc92120ad7d0d",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-010"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "フランソワ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "弗朗索瓦",
+    "effectZh": "【步骤】（在自己的移动阶段可以从前线移动到能量线）\n【登场时】抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

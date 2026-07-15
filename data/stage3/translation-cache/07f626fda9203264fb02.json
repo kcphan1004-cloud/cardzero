@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:31:40.438Z",
+  "model": "qwen3.5:9b",
+  "unitId": "07f626fda9203264fb02",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-065",
+    "UA12BT/BLK-1-065"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "直撃蹴弾",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に〈潔 世一〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "直撃蹴弾",
+    "effectZh": "选择 BP5000 以下的对方前线 L 的角色一张并『返回手牌』。\n若自己场上有〈洁 世一〕，则改为『强制退场』。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色一张并将其强制退场。"
+  }
+}

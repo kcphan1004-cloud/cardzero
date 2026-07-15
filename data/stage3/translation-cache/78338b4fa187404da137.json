@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:45:27.583Z",
+  "model": "qwen3.5:9b",
+  "unitId": "78338b4fa187404da137",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-041"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "神威",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神威",
+    "effectZh": "该角色处于激活状态时，该角色的发生能量+\n[紫]。\n\n（注：原文此处为“+”，根据上下文通常指获得 1 点特定属性或数值加成，若需具体数字请参照卡牌完整规则书。此处直译为文本描述）",
+    "triggerZh": ""
+  }
+}

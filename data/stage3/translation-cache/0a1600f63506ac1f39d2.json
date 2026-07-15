@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:04:35.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0a1600f63506ac1f39d2",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-002"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "潔 世一",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "洁 世一",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上一张其他角色返回手牌。若无法返还，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:46:56.086Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1091bcfba71b65bb0ae",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-049"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "リディア・ソビエスカ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莉迪亚·索比耶斯卡",
+    "effectZh": "该角色处于激活状态时，该角色的发生能量+\n[紫]。",
+    "triggerZh": ""
+  }
+}

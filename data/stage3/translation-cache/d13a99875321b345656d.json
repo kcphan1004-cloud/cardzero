@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:00:24.202Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d13a99875321b345656d",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-099"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "木刀・洞爺湖",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈坂田 銀時〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "木刀·洞爷湖",
+    "effectZh": "选择对方 BP 在 3000 以下的位于前线的角色并使其退场。若场上有〈坂田 银时〉，则改为“BP 在 5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线上一张角色并使其退场。"
+  }
+}

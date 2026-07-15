@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:54:35.149Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b1c18f2d1a2d8b41d2eb",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-082"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "陸奥",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陆奥",
+    "effectZh": "对方场上存在黄色或紫色的卡片时，减少手牌中该卡的必要能量\n[赤×1]。",
+    "triggerZh": ""
+  }
+}

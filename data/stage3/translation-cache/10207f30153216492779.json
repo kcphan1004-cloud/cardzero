@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:46:21.932Z",
+  "model": "qwen3.5:9b",
+  "unitId": "10207f30153216492779",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-049"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "高杉 晋助",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラクターを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "高杉晋助",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自身的手札中的 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自身场地的角色卡 1 张并使其处于激活状态，直到本回合为止 BP+3000。"
+  }
+}

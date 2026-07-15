@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:46:21.927Z",
+  "model": "qwen3.5:9b",
+  "unitId": "af854d12e03aa944c94a",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-046"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "来島 また子",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "来岛又子",
+    "effectZh": "[登场时]\n将自身场地的其他角色的能量为 1 以下的角色卡 1 张返回手札。若无法如此做，则将该角色返回手札。",
+    "triggerZh": ""
+  }
+}

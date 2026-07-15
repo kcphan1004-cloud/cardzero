@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:08:41.892Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f3afc16bb0bf7f841dad",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-023"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "御影 玲王",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "御影玲王",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此牌加入手牌。"
+  }
+}

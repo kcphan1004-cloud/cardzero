@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T16:51:29.912Z",
+  "model": "qwen3.5:9b",
+  "unitId": "56e8d5a12c8b4ac06a5b",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11BT/GNT-1-064"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "攘夷志士の心得",
+    "effect": "カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "攘夷志士的心得",
+    "effectZh": "抽 2 张牌，将手牌的卡最多 1 张放置到场外。",
+    "triggerZh": "【抽取】\n抽 1 张牌。"
+  }
+}

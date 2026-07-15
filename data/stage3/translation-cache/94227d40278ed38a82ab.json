@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:30:54.858Z",
+  "model": "qwen3.5:9b",
+  "unitId": "94227d40278ed38a82ab",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12ST/BLK-1-047",
+    "UA12BT/BLK-1-047"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "我牙丸 吟",
+    "effect": "[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "我牙丸吟",
+    "effectZh": "[攻击时]\n可选择将己方场上的角色下方的 1 张倒置卡放置到场外。若如此操作，此角色本回合中 BP+2000。",
+    "triggerZh": "[激活]\n选择己方场上的角色 1 张，使其激活，并赋予其本回合中 BP+3000。"
+  }
+}

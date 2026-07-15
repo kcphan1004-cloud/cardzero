@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:10:25.034Z",
+  "model": "qwen3.5:9b",
+  "unitId": "940216f484156a6b8dce",
+  "seriesSlug": "dr-stone",
+  "series": "Dr.STONE",
+  "cardNumbers": [
+    "UA14BT/DST-1-016",
+    "UA14BT/DST-1-044"
+  ],
+  "source": {
+    "series": "Dr.STONE",
+    "name": "クロム",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克罗姆",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 以下的角色各返回至手牌。若无法返回，则将此角色返回至手牌。",
+    "triggerZh": ""
+  }
+}

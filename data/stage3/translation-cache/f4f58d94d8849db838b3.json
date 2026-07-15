@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T17:55:14.927Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f4f58d94d8849db838b3",
+  "seriesSlug": "tekken-7",
+  "series": "铁拳7",
+  "cardNumbers": [
+    "UA13BT/TKN-1-086"
+  ],
+  "source": {
+    "series": "铁拳7",
+    "name": "ギガース",
+    "effect": "[退場時]\nカードを1枚引き、自分の手札を1枚場外か、裏向きで自分のフロントLの［特徴：G社］の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "盖尔斯",
+    "effectZh": "[退场时]\n抽 1 张卡，将自己手牌中的 1 张置为场外或背面朝上置于自己前线的［特征：G 社］下方、",
+    "triggerZh": ""
+  }
+}
