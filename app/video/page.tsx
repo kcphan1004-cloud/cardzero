@@ -20,7 +20,7 @@ export const metadata: Metadata = {
 
 export const revalidate = 3600;
 
-function decodeXml(value: string) {
+function decodeXml(value: string): string {
   return value
     .replace(/&amp;/g, "&")
     .replace(/&lt;/g, "<")
@@ -31,8 +31,10 @@ function decodeXml(value: string) {
     .trim();
 }
 
-function formatPublishedDate(value: string) {
-  if (!value) return "";
+function formatPublishedDate(value: string): string {
+  if (!value) {
+    return "";
+  }
 
   const date = new Date(value);
 
@@ -54,26 +56,41 @@ function parseLatestVideos(xml: string): FeaturedVideo[] {
 
   const videos: FeaturedVideo[] = [];
 
-for (const entry of entries) {
-  // 读取影片资料
+  for (const entry of entries) {
+    const idMatch = entry.match(
+      /<yt:videoId>([^<]+)<\/yt:videoId>/,
+    );
+    const titleMatch = entry.match(
+      /<title>([\s\S]*?)<\/title>/,
+    );
+    const publishedMatch = entry.match(
+      /<published>([^<]+)<\/published>/,
+    );
 
-  if (!id || !title) {
-    continue;
+    const id = idMatch?.[1]?.trim() ?? "";
+    const title = decodeXml(
+      titleMatch?.[1] ?? "",
+    );
+    const published =
+      publishedMatch?.[1]?.trim() ?? "";
+
+    if (!id || !title) {
+      continue;
+    }
+
+    videos.push({
+      id,
+      title,
+      category: "最新影片",
+      badge: formatPublishedDate(published),
+    });
+
+    if (videos.length >= 4) {
+      break;
+    }
   }
 
-  videos.push({
-    id,
-    title,
-    category: "最新影片",
-    badge: formatPublishedDate(published),
-  });
-
-  if (videos.length >= 4) {
-    break;
-  }
-}
-
-return videos;
+  return videos;
 }
 
 async function getLatestVideos(): Promise<FeaturedVideo[]> {
@@ -96,9 +113,11 @@ async function getLatestVideos(): Promise<FeaturedVideo[]> {
     const xml = await response.text();
     const videos = parseLatestVideos(xml);
 
-    return videos.length > 0
-      ? videos
-      : fallbackLatestVideos;
+    if (videos.length > 0) {
+      return videos;
+    }
+
+    return fallbackLatestVideos;
   } catch (error) {
     console.error(
       "读取 YouTube 最新影片失败，使用备用资料：",
@@ -154,9 +173,11 @@ export default async function VideoPage() {
               <p className="text-xs font-bold tracking-[0.2em] text-red-400">
                 LATEST VIDEOS
               </p>
+
               <h2 className="mt-1 text-2xl font-black sm:text-3xl">
                 最新影片
               </h2>
+
               <p className="mt-2 text-xs leading-5 text-zinc-500">
                 自动读取卡零社 YouTube 频道最近上传的影片，
                 每小时检查更新。
@@ -177,9 +198,11 @@ export default async function VideoPage() {
               <p className="text-xs font-bold tracking-[0.2em] text-amber-400">
                 POPULAR VIDEOS
               </p>
+
               <h2 className="mt-1 text-2xl font-black sm:text-3xl">
                 热门影片
               </h2>
+
               <p className="mt-2 text-xs leading-5 text-zinc-500">
                 精选频道中观看表现较好的影片。
               </p>

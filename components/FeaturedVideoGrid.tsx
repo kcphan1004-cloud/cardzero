@@ -7,15 +7,17 @@ type Props = {
   videos: FeaturedVideo[];
 };
 
-export default function FeaturedVideoGrid({ videos }: Props) {
-  const [activeVideoId, setActiveVideoId] = useState<string | null>(
-    null,
-  );
+export default function FeaturedVideoGrid({
+  videos,
+}: Props) {
+  const [activeVideoId, setActiveVideoId] =
+    useState<string | null>(null);
 
   return (
     <div className="grid gap-5 md:grid-cols-2">
       {videos.map((video, index) => {
-        const isActive = activeVideoId === video.id;
+        const isActive =
+          activeVideoId === video.id;
 
         return (
           <article
@@ -34,25 +36,29 @@ export default function FeaturedVideoGrid({ videos }: Props) {
               ) : (
                 <button
                   type="button"
-                  onClick={() => setActiveVideoId(video.id)}
+                  onClick={() =>
+                    setActiveVideoId(video.id)
+                  }
                   className="group relative h-full w-full overflow-hidden text-left focus:outline-none focus:ring-2 focus:ring-inset focus:ring-red-500"
                   aria-label={`播放：${video.title}`}
                 >
                   <img
                     src={`https://i.ytimg.com/vi/${video.id}/hqdefault.jpg`}
                     alt={video.title}
-                    loading={index < 2 ? "eager" : "lazy"}
+                    loading={
+                      index < 2 ? "eager" : "lazy"
+                    }
                     decoding="async"
                     className="h-full w-full object-cover transition duration-300 group-hover:scale-[1.025] group-hover:opacity-80"
                   />
 
-                  <span className="absolute inset-0 bg-gradient-to-t from-black/65 via-transparent to-transparent" />
+                  <span className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
 
                   <span className="absolute left-1/2 top-1/2 flex h-14 w-14 -translate-x-1/2 -translate-y-1/2 items-center justify-center rounded-full border border-white/40 bg-red-600/95 text-xl shadow-xl transition group-hover:scale-110 group-hover:bg-red-500">
                     ▶
                   </span>
 
-                  <span className="absolute bottom-3 left-3 rounded-md bg-black/75 px-2 py-1 text-[10px] font-bold text-white">
+                  <span className="absolute bottom-3 left-3 rounded-md bg-black/80 px-2 py-1 text-[10px] font-bold text-white">
                     点击播放
                   </span>
                 </button>
@@ -60,7 +66,7 @@ export default function FeaturedVideoGrid({ videos }: Props) {
             </div>
 
             <div className="p-4">
-              <div className="flex items-center gap-2">
+              <div className="flex flex-wrap items-center gap-2">
                 <span className="rounded-full border border-red-500/30 bg-red-500/10 px-2 py-1 text-[10px] font-bold text-red-300">
                   {video.category}
                 </span>
