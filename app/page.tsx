@@ -1,13 +1,13 @@
 import Hero from "../components/Hero";
-import FeatureSection from "../components/FeatureSection";
 import FeaturedDecks from "../components/FeaturedDecks";
+import HomeVideoSection from "../components/HomeVideoSection";
 
 export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white">
       <Hero />
-      <FeatureSection />
       <FeaturedDecks />
+      <HomeVideoSection />
     </main>
   );
 }
