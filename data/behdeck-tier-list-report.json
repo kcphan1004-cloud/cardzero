@@ -1,0 +1,45 @@
+{
+  "generatedAt": "2026-07-15T14:46:52.718Z",
+  "sourceUrl": "https://behdeck.com/",
+  "updatedAt": "03/07/2026",
+  "tierCount": 8,
+  "homepageLinks": 381,
+  "uniqueDetailPages": 381,
+  "itemCount": 381,
+  "customNames": 0,
+  "downloadedBytes": 8684776,
+  "tiers": [
+    {
+      "label": "Tier 1",
+      "items": 8
+    },
+    {
+      "label": "Tier 1.5",
+      "items": 23
+    },
+    {
+      "label": "Tier 2",
+      "items": 62
+    },
+    {
+      "label": "Tier 2.5",
+      "items": 76
+    },
+    {
+      "label": "Tier 3",
+      "items": 88
+    },
+    {
+      "label": "Tier 4",
+      "items": 98
+    },
+    {
+      "label": "Tier 5",
+      "items": 20
+    },
+    {
+      "label": "Not Released in Asia",
+      "items": 6
+    }
+  ]
+}

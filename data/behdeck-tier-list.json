@@ -1,0 +1,3104 @@
+{
+  "source": "BehDeck／八脚鱼",
+  "sourceUrl": "https://behdeck.com/",
+  "updatedAt": "03/07/2026",
+  "syncedAt": "2026-07-15T14:46:52.716Z",
+  "tiers": [
+    {
+      "id": "tier-1",
+      "label": "Tier 1",
+      "items": [
+        {
+          "id": "4dfe30097b",
+          "title": "msk",
+          "href": "https://behdeck.com/msk#394_deck",
+          "image": "/tier-list/behdeck/msk-1-dbd04ec141.webp",
+          "alt": "Deck 395_deck",
+          "deckKey": "395_deck"
+        },
+        {
+          "id": "32cfffd4ec",
+          "title": "csm",
+          "href": "https://behdeck.com/csm#387_deck",
+          "image": "/tier-list/behdeck/csm-1-7dd4a312bd.webp",
+          "alt": "Deck 387_deck",
+          "deckKey": "387_deck"
+        },
+        {
+          "id": "53417cdaf9",
+          "title": "sg",
+          "href": "https://behdeck.com/sg#380_deck",
+          "image": "/tier-list/behdeck/sg-1-38f2dacda0.webp",
+          "alt": "Deck 383_deck",
+          "deckKey": "383_deck"
+        },
+        {
+          "id": "62082aee1b",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#360_deck",
+          "image": "/tier-list/behdeck/shinymas-1-037b5fd8cb.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "94f3ffb0ad",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#334_5deck",
+          "image": "/tier-list/behdeck/eva-1-fbe823a96d.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": ""
+        },
+        {
+          "id": "ff283d6161",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#337_deck",
+          "image": "/tier-list/behdeck/eva-1-8c85c1a4e0.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": "337_deck"
+        },
+        {
+          "id": "89b93948e3",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#336_deck",
+          "image": "/tier-list/behdeck/eva-1-33c9e1064c.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": "336_deck"
+        },
+        {
+          "id": "cedfc9e573",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#331_deck",
+          "image": "/tier-list/behdeck/arknights-1-42bee53221.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        }
+      ]
+    },
+    {
+      "id": "tier-1-5",
+      "label": "Tier 1.5",
+      "items": [
+        {
+          "id": "ada188f283",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#398_deck",
+          "image": "/tier-list/behdeck/macross-1-df58bc40d6.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "6c4f6e9d1d",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#397_deck",
+          "image": "/tier-list/behdeck/macross-1-6effe9b0e1.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "5089403079",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#280_deck",
+          "image": "/tier-list/behdeck/macross-1-405f106c4f.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "c4c4ce8ec7",
+          "title": "msk",
+          "href": "https://behdeck.com/msk#395_deck",
+          "image": "/tier-list/behdeck/msk-1-7f9aafab58.webp",
+          "alt": "Deck 395_deck",
+          "deckKey": "395_deck"
+        },
+        {
+          "id": "994c7d50b7",
+          "title": "msk",
+          "href": "https://behdeck.com/msk#393_deck",
+          "image": "/tier-list/behdeck/msk-1-7a09822d1e.webp",
+          "alt": "Deck 395_deck",
+          "deckKey": "395_deck"
+        },
+        {
+          "id": "0f79c477e4",
+          "title": "msk",
+          "href": "https://behdeck.com/msk#392_deck",
+          "image": "/tier-list/behdeck/msk-1-7a77d04297.webp",
+          "alt": "Deck 395_deck",
+          "deckKey": "395_deck"
+        },
+        {
+          "id": "ab090587d6",
+          "title": "iys",
+          "href": "https://behdeck.com/iys#390_deck",
+          "image": "/tier-list/behdeck/iys-1-b94eadb9f5.webp",
+          "alt": "Deck 391_deck",
+          "deckKey": "391_deck"
+        },
+        {
+          "id": "9afb9623d5",
+          "title": "iys",
+          "href": "https://behdeck.com/iys#389_deck",
+          "image": "/tier-list/behdeck/iys-1-2c47cc4295.webp",
+          "alt": "Deck 391_deck",
+          "deckKey": "391_deck"
+        },
+        {
+          "id": "60c17cab93",
+          "title": "iys",
+          "href": "https://behdeck.com/iys#388_deck",
+          "image": "/tier-list/behdeck/iys-1-cd29b640c2.webp",
+          "alt": "Deck 391_deck",
+          "deckKey": "391_deck"
+        },
+        {
+          "id": "90063956ae",
+          "title": "csm",
+          "href": "https://behdeck.com/csm#385_deck",
+          "image": "/tier-list/behdeck/csm-1-5e6222d715.webp",
+          "alt": "Deck 387_deck",
+          "deckKey": "387_deck"
+        },
+        {
+          "id": "9e7f7532c2",
+          "title": "csm",
+          "href": "https://behdeck.com/csm#384_deck",
+          "image": "/tier-list/behdeck/csm-1-765f13bf5a.webp",
+          "alt": "Deck 387_deck",
+          "deckKey": "387_deck"
+        },
+        {
+          "id": "754486ae14",
+          "title": "sg",
+          "href": "https://behdeck.com/sg#381_deck",
+          "image": "/tier-list/behdeck/sg-1-ae256ccd7d.webp",
+          "alt": "Deck 383_deck",
+          "deckKey": "383_deck"
+        },
+        {
+          "id": "271e7d2da9",
+          "title": "gakuen",
+          "href": "https://behdeck.com/gakuen#374_deck",
+          "image": "/tier-list/behdeck/gakuen-1-bdcbbaaf5b.webp",
+          "alt": "Deck 374_deck",
+          "deckKey": "374_deck"
+        },
+        {
+          "id": "1704a3d143",
+          "title": "gakuen",
+          "href": "https://behdeck.com/gakuen#206_deck",
+          "image": "/tier-list/behdeck/gakuen-1-5bcb68d6ed.webp",
+          "alt": "Deck 374_deck",
+          "deckKey": "374_deck"
+        },
+        {
+          "id": "6c25b59ee6",
+          "title": "kingdom",
+          "href": "https://behdeck.com/kingdom#363_deck",
+          "image": "/tier-list/behdeck/kingdom-1-815f790740.webp",
+          "alt": "Deck 366_deck",
+          "deckKey": "366_deck"
+        },
+        {
+          "id": "2a0b51df77",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#357_deck",
+          "image": "/tier-list/behdeck/tyg-1-7de10980ea.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "83371fbf44",
+          "title": "kgr",
+          "href": "https://behdeck.com/kgr#348_deck",
+          "image": "/tier-list/behdeck/kgr-1-10a2778e47.webp",
+          "alt": "Deck 352_deck",
+          "deckKey": "352_deck"
+        },
+        {
+          "id": "410ba2f67d",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#334_deck",
+          "image": "/tier-list/behdeck/eva-1-251cd032b9.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": "334_deck"
+        },
+        {
+          "id": "7402fa352b",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#333_deck",
+          "image": "/tier-list/behdeck/eva-1-7e6d868257.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": "333_deck"
+        },
+        {
+          "id": "79d080f85e",
+          "title": "sakamoto",
+          "href": "https://behdeck.com/sakamoto#325_5deck",
+          "image": "/tier-list/behdeck/sakamoto-1-2455d32601.webp",
+          "alt": "Deck 325_5deck",
+          "deckKey": ""
+        },
+        {
+          "id": "f66620301b",
+          "title": "sakamoto",
+          "href": "https://behdeck.com/sakamoto#324_deck",
+          "image": "/tier-list/behdeck/sakamoto-1-bceeca30b0.webp",
+          "alt": "Deck 325_5deck",
+          "deckKey": "324_deck"
+        },
+        {
+          "id": "44129803da",
+          "title": "kenshin",
+          "href": "https://behdeck.com/kenshin#312_deck",
+          "image": "/tier-list/behdeck/kenshin-1-0cb105c334.webp",
+          "alt": "Deck 317_deck",
+          "deckKey": "317_deck"
+        },
+        {
+          "id": "7098632775",
+          "title": "cgr",
+          "href": "https://behdeck.com/cgr#263_deck",
+          "image": "/tier-list/behdeck/cgr-1-0d54e49902.webp",
+          "alt": "Deck 277_deck",
+          "deckKey": "277_deck"
+        }
+      ]
+    },
+    {
+      "id": "tier-2",
+      "label": "Tier 2",
+      "items": [
+        {
+          "id": "dcbfe11c55",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#396_deck",
+          "image": "/tier-list/behdeck/macross-1-7fd9c5b50e.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "df7406afb2",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#282_deck",
+          "image": "/tier-list/behdeck/macross-1-a80ffa24b4.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "a157ac1506",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#281_deck",
+          "image": "/tier-list/behdeck/macross-1-1278af26ab.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "7671f2e7fe",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#279_deck",
+          "image": "/tier-list/behdeck/macross-1-abbc65a297.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "97e80b97f0",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#278_deck",
+          "image": "/tier-list/behdeck/macross-1-e00d023e79.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "3352aa0dde",
+          "title": "iys",
+          "href": "https://behdeck.com/iys#391_deck",
+          "image": "/tier-list/behdeck/iys-1-14416c8e89.webp",
+          "alt": "Deck 391_deck",
+          "deckKey": "391_deck"
+        },
+        {
+          "id": "9a81a76684",
+          "title": "csm",
+          "href": "https://behdeck.com/csm#386_deck",
+          "image": "/tier-list/behdeck/csm-1-5f32cf3973.webp",
+          "alt": "Deck 387_deck",
+          "deckKey": "387_deck"
+        },
+        {
+          "id": "47ba03f63d",
+          "title": "sg",
+          "href": "https://behdeck.com/sg#383_deck",
+          "image": "/tier-list/behdeck/sg-1-f7aad5d722.webp",
+          "alt": "Deck 383_deck",
+          "deckKey": "383_deck"
+        },
+        {
+          "id": "dc3d641faf",
+          "title": "sg",
+          "href": "https://behdeck.com/sg#382_deck",
+          "image": "/tier-list/behdeck/sg-1-26e643411c.webp",
+          "alt": "Deck 383_deck",
+          "deckKey": "383_deck"
+        },
+        {
+          "id": "211d17b1d2",
+          "title": "solo",
+          "href": "https://behdeck.com/solo#379_deck",
+          "image": "/tier-list/behdeck/solo-1-cb8c29d614.webp",
+          "alt": "Deck 379_deck",
+          "deckKey": "379_deck"
+        },
+        {
+          "id": "0723eded9f",
+          "title": "solo",
+          "href": "https://behdeck.com/solo#376_deck",
+          "image": "/tier-list/behdeck/solo-1-9015207a70.webp",
+          "alt": "Deck 379_deck",
+          "deckKey": "379_deck"
+        },
+        {
+          "id": "f64d814ae2",
+          "title": "solo",
+          "href": "https://behdeck.com/solo#375_deck",
+          "image": "/tier-list/behdeck/solo-1-ebe75d8996.webp",
+          "alt": "Deck 379_deck",
+          "deckKey": "379_deck"
+        },
+        {
+          "id": "e1b801210b",
+          "title": "gakuen",
+          "href": "https://behdeck.com/gakuen#373_deck",
+          "image": "/tier-list/behdeck/gakuen-1-748f5204cf.webp",
+          "alt": "Deck 374_deck",
+          "deckKey": "374_deck"
+        },
+        {
+          "id": "6ca661d932",
+          "title": "gakuen",
+          "href": "https://behdeck.com/gakuen#209_deck",
+          "image": "/tier-list/behdeck/gakuen-1-bd95d8d294.webp",
+          "alt": "Deck 374_deck",
+          "deckKey": "374_deck"
+        },
+        {
+          "id": "f4c47b06f5",
+          "title": "gakuen",
+          "href": "https://behdeck.com/gakuen#208_deck",
+          "image": "/tier-list/behdeck/gakuen-1-2395c04ff0.webp",
+          "alt": "Deck 374_deck",
+          "deckKey": "374_deck"
+        },
+        {
+          "id": "ecc3b8c996",
+          "title": "gakuen",
+          "href": "https://behdeck.com/gakuen#207_deck",
+          "image": "/tier-list/behdeck/gakuen-1-3edf146608.webp",
+          "alt": "Deck 374_deck",
+          "deckKey": "374_deck"
+        },
+        {
+          "id": "8bba1c0a00",
+          "title": "cs",
+          "href": "https://behdeck.com/cs#369_deck",
+          "image": "/tier-list/behdeck/cs-1-b370a09088.webp",
+          "alt": "Deck 371_deck",
+          "deckKey": "371_deck"
+        },
+        {
+          "id": "bcde0f56f2",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#368_deck",
+          "image": "/tier-list/behdeck/nikke-1-a037c4c5fe.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "015518b8ca",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#367_deck",
+          "image": "/tier-list/behdeck/nikke-1-8fcd985d0b.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "3ce7721e7e",
+          "title": "kingdom",
+          "href": "https://behdeck.com/kingdom#365_deck",
+          "image": "/tier-list/behdeck/kingdom-1-c83c5ded5a.webp",
+          "alt": "Deck 366_deck",
+          "deckKey": "366_deck"
+        },
+        {
+          "id": "02ed51cade",
+          "title": "kingdom",
+          "href": "https://behdeck.com/kingdom#364_deck",
+          "image": "/tier-list/behdeck/kingdom-1-315a635c43.webp",
+          "alt": "Deck 366_deck",
+          "deckKey": "366_deck"
+        },
+        {
+          "id": "9c2fef27b5",
+          "title": "kingdom",
+          "href": "https://behdeck.com/kingdom#362_deck",
+          "image": "/tier-list/behdeck/kingdom-1-2643171780.webp",
+          "alt": "Deck 366_deck",
+          "deckKey": "366_deck"
+        },
+        {
+          "id": "56d0f9cd5e",
+          "title": "kingdom",
+          "href": "https://behdeck.com/kingdom#361_deck",
+          "image": "/tier-list/behdeck/kingdom-1-15007300ea.webp",
+          "alt": "Deck 366_deck",
+          "deckKey": "366_deck"
+        },
+        {
+          "id": "36d8259b9e",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#096_deck",
+          "image": "/tier-list/behdeck/shinymas-1-a132d1c9a2.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "51e6161f09",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#354_deck",
+          "image": "/tier-list/behdeck/tyg-1-7163bf3e91.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "1cf79b7702",
+          "title": "tolove",
+          "href": "https://behdeck.com/tolove#346_deck",
+          "image": "/tier-list/behdeck/tolove-1-d6fa7450f0.webp",
+          "alt": "Deck 347_deck",
+          "deckKey": "347_deck"
+        },
+        {
+          "id": "2026f39c29",
+          "title": "tolove",
+          "href": "https://behdeck.com/tolove#344_deck",
+          "image": "/tier-list/behdeck/tolove-1-009f6f6b5c.webp",
+          "alt": "Deck 347_deck",
+          "deckKey": "347_deck"
+        },
+        {
+          "id": "dfae2d6e0b",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#343_deck",
+          "image": "/tier-list/behdeck/kamen-1-c3345e75af.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "4ed514ce2c",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#330_deck",
+          "image": "/tier-list/behdeck/arknights-1-66e869d7e1.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "a70a7a47e8",
+          "title": "sakamoto",
+          "href": "https://behdeck.com/sakamoto#327_deck",
+          "image": "/tier-list/behdeck/sakamoto-1-b9e3354889.webp",
+          "alt": "Deck 325_5deck",
+          "deckKey": "327_deck"
+        },
+        {
+          "id": "a199032c05",
+          "title": "sakamoto",
+          "href": "https://behdeck.com/sakamoto#326_deck",
+          "image": "/tier-list/behdeck/sakamoto-1-e39b6d0fb6.webp",
+          "alt": "Deck 325_5deck",
+          "deckKey": "326_deck"
+        },
+        {
+          "id": "764ed34fba",
+          "title": "sakamoto",
+          "href": "https://behdeck.com/sakamoto#325_deck",
+          "image": "/tier-list/behdeck/sakamoto-1-5e4cdbbc41.webp",
+          "alt": "Deck 325_5deck",
+          "deckKey": "325_deck"
+        },
+        {
+          "id": "ec75fdeadb",
+          "title": "monogatari",
+          "href": "https://behdeck.com/monogatari#320_deck",
+          "image": "/tier-list/behdeck/monogatari-1-bf247a6bce.webp",
+          "alt": "Deck 323_deck",
+          "deckKey": "323_deck"
+        },
+        {
+          "id": "b825b24ebe",
+          "title": "kenshin",
+          "href": "https://behdeck.com/kenshin#316_deck",
+          "image": "/tier-list/behdeck/kenshin-1-1382789e00.webp",
+          "alt": "Deck 317_deck",
+          "deckKey": "317_deck"
+        },
+        {
+          "id": "3013ab5f9e",
+          "title": "re0",
+          "href": "https://behdeck.com/re0#308_deck",
+          "image": "/tier-list/behdeck/re0-1-a5e01e249f.webp",
+          "alt": "Deck 308_deck",
+          "deckKey": "308_deck"
+        },
+        {
+          "id": "a8cb2594a3",
+          "title": "re0",
+          "href": "https://behdeck.com/re0#307_deck",
+          "image": "/tier-list/behdeck/re0-1-6ab2d8daa6.webp",
+          "alt": "Deck 308_deck",
+          "deckKey": "308_deck"
+        },
+        {
+          "id": "1ecf6a53f2",
+          "title": "re0",
+          "href": "https://behdeck.com/re0#305_deck",
+          "image": "/tier-list/behdeck/re0-1-6ecb8604bb.webp",
+          "alt": "Deck 308_deck",
+          "deckKey": "308_deck"
+        },
+        {
+          "id": "77cadc05a5",
+          "title": "re0",
+          "href": "https://behdeck.com/re0#304_deck",
+          "image": "/tier-list/behdeck/re0-1-b3f82800e4.webp",
+          "alt": "Deck 308_deck",
+          "deckKey": "308_deck"
+        },
+        {
+          "id": "d8d892f340",
+          "title": "re0",
+          "href": "https://behdeck.com/re0#303_deck",
+          "image": "/tier-list/behdeck/re0-1-e5cb63a4c2.webp",
+          "alt": "Deck 308_deck",
+          "deckKey": "308_deck"
+        },
+        {
+          "id": "6874e37461",
+          "title": "knk",
+          "href": "https://behdeck.com/knk#299_deck",
+          "image": "/tier-list/behdeck/knk-1-d6e4537115.webp",
+          "alt": "Deck 302_deck",
+          "deckKey": "302_deck"
+        },
+        {
+          "id": "4e8b0165f3",
+          "title": "opm",
+          "href": "https://behdeck.com/opm#267_deck",
+          "image": "/tier-list/behdeck/opm-1-82ab519e0b.webp",
+          "alt": "Deck 270_deck",
+          "deckKey": "270_deck"
+        },
+        {
+          "id": "09b4fb1ca3",
+          "title": "cgr",
+          "href": "https://behdeck.com/cgr#277_deck",
+          "image": "/tier-list/behdeck/cgr-1-b702a8b779.webp",
+          "alt": "Deck 277_deck",
+          "deckKey": "277_deck"
+        },
+        {
+          "id": "ea20053e45",
+          "title": "slf",
+          "href": "https://behdeck.com/slf#246_deck",
+          "image": "/tier-list/behdeck/slf-1-96227d187f.webp",
+          "alt": "Deck 248_deck",
+          "deckKey": "248_deck"
+        },
+        {
+          "id": "c10f76b722",
+          "title": "slf",
+          "href": "https://behdeck.com/slf#244_deck",
+          "image": "/tier-list/behdeck/slf-1-ead4983c63.webp",
+          "alt": "Deck 248_deck",
+          "deckKey": "248_deck"
+        },
+        {
+          "id": "76f76d791d",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#240_deck",
+          "image": "/tier-list/behdeck/madoka-1-853d028faa.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "46e242af0c",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#235_deck",
+          "image": "/tier-list/behdeck/madoka-1-0aa25dde05.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "5d5d58aec8",
+          "title": "kaiju",
+          "href": "https://behdeck.com/kaiju#214_deck",
+          "image": "/tier-list/behdeck/kaiju-1-1a6e2ff14b.webp",
+          "alt": "Deck 216_deck",
+          "deckKey": "216_deck"
+        },
+        {
+          "id": "fe37e3b0e5",
+          "title": "kaiju",
+          "href": "https://behdeck.com/kaiju#213_deck",
+          "image": "/tier-list/behdeck/kaiju-1-609a693d01.webp",
+          "alt": "Deck 216_deck",
+          "deckKey": "216_deck"
+        },
+        {
+          "id": "290c129bca",
+          "title": "shy",
+          "href": "https://behdeck.com/shy#188_deck",
+          "image": "/tier-list/behdeck/shy-1-5dee2bf257.webp",
+          "alt": "Deck 191_deck",
+          "deckKey": "191_deck"
+        },
+        {
+          "id": "d3b01764ba",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#180_deck",
+          "image": "/tier-list/behdeck/aot-1-d0a721627a.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "d5c1b6b279",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#178_deck",
+          "image": "/tier-list/behdeck/aot-1-0bb5de3f35.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "0852d9931c",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#163_deck",
+          "image": "/tier-list/behdeck/yyh-1-04c0c46252.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "f0efdc5bb8",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#226_deck",
+          "image": "/tier-list/behdeck/sao-1-66bf0edadb.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "edc0a27ee9",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#225_deck",
+          "image": "/tier-list/behdeck/sao-1-08a24f0b17.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "c5df3b0e25",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#108_deck",
+          "image": "/tier-list/behdeck/sao-1-ff5e62ea29.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "b0f1ee5807",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#185_deck",
+          "image": "/tier-list/behdeck/mha-1-f6d6b25f17.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "a383dd8535",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#252_deck",
+          "image": "/tier-list/behdeck/slime-1-0fb6016be3.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "dc5b401a0d",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#250_deck",
+          "image": "/tier-list/behdeck/slime-1-6e03005001.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "b2453928c8",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#249_deck",
+          "image": "/tier-list/behdeck/slime-1-dca311289a.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "d9d8767c98",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#041_deck",
+          "image": "/tier-list/behdeck/slime-1-ae4ba97186.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "bcee871194",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#007_deck",
+          "image": "/tier-list/behdeck/jjs-1-4269668d30.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "1d97940782",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#005_deck",
+          "image": "/tier-list/behdeck/cgl-1-0bd7cd5d8d.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        }
+      ]
+    },
+    {
+      "id": "tier-2-5",
+      "label": "Tier 2.5",
+      "items": [
+        {
+          "id": "b9998534fe",
+          "title": "solo",
+          "href": "https://behdeck.com/solo#378_deck",
+          "image": "/tier-list/behdeck/solo-1-e365d0f274.webp",
+          "alt": "Deck 379_deck",
+          "deckKey": "379_deck"
+        },
+        {
+          "id": "d13fdb9d39",
+          "title": "solo",
+          "href": "https://behdeck.com/solo#377_deck",
+          "image": "/tier-list/behdeck/solo-1-cb7b75942c.webp",
+          "alt": "Deck 379_deck",
+          "deckKey": "379_deck"
+        },
+        {
+          "id": "7a8d317d38",
+          "title": "cs",
+          "href": "https://behdeck.com/cs#371_deck",
+          "image": "/tier-list/behdeck/cs-1-90323cb8a0.webp",
+          "alt": "Deck 371_deck",
+          "deckKey": "371_deck"
+        },
+        {
+          "id": "f413dc5050",
+          "title": "cs",
+          "href": "https://behdeck.com/cs#372_deck",
+          "image": "/tier-list/behdeck/cs-1-e679592d0b.webp",
+          "alt": "Deck 371_deck",
+          "deckKey": "371_deck"
+        },
+        {
+          "id": "2122f51bff",
+          "title": "cs",
+          "href": "https://behdeck.com/cs#370_deck",
+          "image": "/tier-list/behdeck/cs-1-98e33ebd10.webp",
+          "alt": "Deck 371_deck",
+          "deckKey": "371_deck"
+        },
+        {
+          "id": "62a5b642f3",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#136_deck",
+          "image": "/tier-list/behdeck/nikke-1-5145c31e65.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "beee535a01",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#134_deck",
+          "image": "/tier-list/behdeck/nikke-1-67c6bddd54.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "5fa5e2a405",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#133_deck",
+          "image": "/tier-list/behdeck/nikke-1-9f6e348ed5.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "e664640001",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#132_deck",
+          "image": "/tier-list/behdeck/nikke-1-7370d9a64f.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "3e0cbe9451",
+          "title": "kingdom",
+          "href": "https://behdeck.com/kingdom#366_deck",
+          "image": "/tier-list/behdeck/kingdom-1-6cfab402fd.webp",
+          "alt": "Deck 366_deck",
+          "deckKey": "366_deck"
+        },
+        {
+          "id": "40176a9ddf",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#031_deck",
+          "image": "/tier-list/behdeck/shinymas-1-8df4658acf.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "92527e5e74",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#028_deck",
+          "image": "/tier-list/behdeck/shinymas-1-659cbd101a.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "fde403b618",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#026_deck",
+          "image": "/tier-list/behdeck/shinymas-1-eeceed3945.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "d50ea28fa9",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#025_deck",
+          "image": "/tier-list/behdeck/shinymas-1-e08efbddee.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "6aadd686e9",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#359_deck",
+          "image": "/tier-list/behdeck/tyg-1-3227cb20b3.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "a13c7c2ff1",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#358_deck",
+          "image": "/tier-list/behdeck/tyg-1-1c1f12248c.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "f10edd0e38",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#356_deck",
+          "image": "/tier-list/behdeck/tyg-1-5e6bbe3abb.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "032044aae7",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#355_deck",
+          "image": "/tier-list/behdeck/tyg-1-0eaccd41a3.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "1bb514a028",
+          "title": "tyg",
+          "href": "https://behdeck.com/tyg#353_deck",
+          "image": "/tier-list/behdeck/tyg-1-c9c746fddc.webp",
+          "alt": "Deck 359_deck",
+          "deckKey": "359_deck"
+        },
+        {
+          "id": "f1c58309e4",
+          "title": "kgr",
+          "href": "https://behdeck.com/kgr#352_deck",
+          "image": "/tier-list/behdeck/kgr-1-87dfc6d65f.webp",
+          "alt": "Deck 352_deck",
+          "deckKey": "352_deck"
+        },
+        {
+          "id": "806acf1074",
+          "title": "kgr",
+          "href": "https://behdeck.com/kgr#350_deck",
+          "image": "/tier-list/behdeck/kgr-1-087def4e5f.webp",
+          "alt": "Deck 352_deck",
+          "deckKey": "352_deck"
+        },
+        {
+          "id": "ec9da81b00",
+          "title": "tolove",
+          "href": "https://behdeck.com/tolove#347_deck",
+          "image": "/tier-list/behdeck/tolove-1-edb4bea2be.webp",
+          "alt": "Deck 347_deck",
+          "deckKey": "347_deck"
+        },
+        {
+          "id": "1123d1b3f0",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#341_deck",
+          "image": "/tier-list/behdeck/kamen-1-1fa13b668c.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "979f66b6fe",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#224_deck",
+          "image": "/tier-list/behdeck/kamen-1-b8876b85e1.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "ff79625486",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#223_deck",
+          "image": "/tier-list/behdeck/kamen-1-76758f1f35.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "0f75b4b44b",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#340_5deck",
+          "image": "/tier-list/behdeck/kamen-1-863a3c363d.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "701385c62d",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#339_deck",
+          "image": "/tier-list/behdeck/kamen-1-c57b79328e.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "20f3d53ac5",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#219_deck",
+          "image": "/tier-list/behdeck/kamen-1-6205c1d039.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "d4d925dbc1",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#218_deck",
+          "image": "/tier-list/behdeck/kamen-1-ab0c368786.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "773af728e4",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#338_deck",
+          "image": "/tier-list/behdeck/eva-1-78ac2a15ea.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": "338_deck"
+        },
+        {
+          "id": "726c3e827a",
+          "title": "eva",
+          "href": "https://behdeck.com/eva#335_deck",
+          "image": "/tier-list/behdeck/eva-1-ea33608078.webp",
+          "alt": "Deck 334_5deck",
+          "deckKey": "335_deck"
+        },
+        {
+          "id": "770da1ff88",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#329_deck",
+          "image": "/tier-list/behdeck/arknights-1-11f45b9b3c.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "7e9020f2c6",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#232_deck",
+          "image": "/tier-list/behdeck/arknights-1-d9ac45394a.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "6047cd49d0",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#229_deck",
+          "image": "/tier-list/behdeck/arknights-1-38bb825096.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "edb2e19d93",
+          "title": "sakamoto",
+          "href": "https://behdeck.com/sakamoto#328_deck",
+          "image": "/tier-list/behdeck/sakamoto-1-17d84c87c6.webp",
+          "alt": "Deck 325_5deck",
+          "deckKey": "328_deck"
+        },
+        {
+          "id": "aa3ebcfe12",
+          "title": "monogatari",
+          "href": "https://behdeck.com/monogatari#319_deck",
+          "image": "/tier-list/behdeck/monogatari-1-e46fe5e7eb.webp",
+          "alt": "Deck 323_deck",
+          "deckKey": "323_deck"
+        },
+        {
+          "id": "f235ec2e24",
+          "title": "kenshin",
+          "href": "https://behdeck.com/kenshin#317_deck",
+          "image": "/tier-list/behdeck/kenshin-1-960bcbfb86.webp",
+          "alt": "Deck 317_deck",
+          "deckKey": "317_deck"
+        },
+        {
+          "id": "69cad7e31b",
+          "title": "knk",
+          "href": "https://behdeck.com/knk#301_deck",
+          "image": "/tier-list/behdeck/knk-1-97359858f9.webp",
+          "alt": "Deck 302_deck",
+          "deckKey": "302_deck"
+        },
+        {
+          "id": "e9e0bdda02",
+          "title": "wb",
+          "href": "https://behdeck.com/wb#293_deck",
+          "image": "/tier-list/behdeck/wb-1-a66bad4177.webp",
+          "alt": "Deck 294_deck",
+          "deckKey": "294_deck"
+        },
+        {
+          "id": "bafcbd6aaf",
+          "title": "wb",
+          "href": "https://behdeck.com/wb#291_deck",
+          "image": "/tier-list/behdeck/wb-1-37b45f93dc.webp",
+          "alt": "Deck 294_deck",
+          "deckKey": "294_deck"
+        },
+        {
+          "id": "6cef8385c2",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#290_deck",
+          "image": "/tier-list/behdeck/fma-1-8f6015b80f.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "43482ca68d",
+          "title": "2ds",
+          "href": "https://behdeck.com/2ds#257_deck",
+          "image": "/tier-list/behdeck/2ds-1-c8b59f920f.webp",
+          "alt": "Deck 255_deck",
+          "deckKey": "255_deck"
+        },
+        {
+          "id": "37c68d4d0a",
+          "title": "slf",
+          "href": "https://behdeck.com/slf#247_deck",
+          "image": "/tier-list/behdeck/slf-1-c06889d99d.webp",
+          "alt": "Deck 248_deck",
+          "deckKey": "248_deck"
+        },
+        {
+          "id": "9b74bb8ef0",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#239_deck",
+          "image": "/tier-list/behdeck/madoka-1-7681c62145.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "90a3514a54",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#238_deck",
+          "image": "/tier-list/behdeck/madoka-1-ca9188b39b.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "a6107db45c",
+          "title": "kaiju",
+          "href": "https://behdeck.com/kaiju#215_deck",
+          "image": "/tier-list/behdeck/kaiju-1-fccbab10d9.webp",
+          "alt": "Deck 216_deck",
+          "deckKey": "216_deck"
+        },
+        {
+          "id": "0fc06b5fbb",
+          "title": "100gf",
+          "href": "https://behdeck.com/100gf#204_deck",
+          "image": "/tier-list/behdeck/100gf-1-3031a7b83a.webp",
+          "alt": "Deck 204_deck",
+          "deckKey": "204_deck"
+        },
+        {
+          "id": "70d3363a55",
+          "title": "100gf",
+          "href": "https://behdeck.com/100gf#202_deck",
+          "image": "/tier-list/behdeck/100gf-1-eac4c9f60c.webp",
+          "alt": "Deck 204_deck",
+          "deckKey": "204_deck"
+        },
+        {
+          "id": "0154b0e374",
+          "title": "shy",
+          "href": "https://behdeck.com/shy#189_deck",
+          "image": "/tier-list/behdeck/shy-1-340b02c3d0.webp",
+          "alt": "Deck 191_deck",
+          "deckKey": "191_deck"
+        },
+        {
+          "id": "1b8363ddc5",
+          "title": "shy",
+          "href": "https://behdeck.com/shy#186_deck",
+          "image": "/tier-list/behdeck/shy-1-ea1bcf5190.webp",
+          "alt": "Deck 191_deck",
+          "deckKey": "191_deck"
+        },
+        {
+          "id": "b96ed082f5",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#181_deck",
+          "image": "/tier-list/behdeck/aot-1-fcbd8fb15b.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "197bf4a3ec",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#165_deck",
+          "image": "/tier-list/behdeck/yyh-1-96848e44f0.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "0eaa2005da",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#160_deck",
+          "image": "/tier-list/behdeck/yyh-1-165697e9c7.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "01d3eff197",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#159_deck",
+          "image": "/tier-list/behdeck/yyh-1-55d2a8d859.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "cfb5a9dd35",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#158_deck",
+          "image": "/tier-list/behdeck/yyh-1-217eff8456.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "c4a4561d8c",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#150_deck",
+          "image": "/tier-list/behdeck/bc-1-f8245defbd.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "71c9ba8254",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#148_deck",
+          "image": "/tier-list/behdeck/bc-1-59c98ea3d3.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "1ba594df4a",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#114_deck",
+          "image": "/tier-list/behdeck/syndruality-1-e597d5084f.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "46ecf5afd2",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#105_deck",
+          "image": "/tier-list/behdeck/sao-1-8b40ebecf0.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "97547ee801",
+          "title": "drstone",
+          "href": "https://behdeck.com/drstone#099_deck",
+          "image": "/tier-list/behdeck/drstone-1-52f91c1f44.webp",
+          "alt": "Deck 103_deck",
+          "deckKey": "103_deck"
+        },
+        {
+          "id": "dbad178753",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#062_deck",
+          "image": "/tier-list/behdeck/gintama-1-3558708bc6.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "cb7428a5dd",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#210_deck",
+          "image": "/tier-list/behdeck/mha-1-6193598fe2.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "e44eb8a069",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#211_deck",
+          "image": "/tier-list/behdeck/bleach-1-28b7faceb4.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "78489cf294",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#075_deck",
+          "image": "/tier-list/behdeck/bleach-1-195398dc3b.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "03ea90312d",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#074_deck",
+          "image": "/tier-list/behdeck/bleach-1-b9cd49d861.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "19b5c36fa6",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#072_deck",
+          "image": "/tier-list/behdeck/bleach-1-407ad94577.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "aeb70e1a29",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#039_deck",
+          "image": "/tier-list/behdeck/slime-1-720b0cf6ba.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "6f3e8a14a6",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#038_deck",
+          "image": "/tier-list/behdeck/slime-1-5b2ba3b514.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "68c497029a",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#022_deck",
+          "image": "/tier-list/behdeck/demon-1-bf0b7c76d2.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "ab1ba66a21",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#019_deck",
+          "image": "/tier-list/behdeck/demon-1-98fc823fe1.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "b0963c68fd",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#018_deck",
+          "image": "/tier-list/behdeck/hxh-1-96998cfefe.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "10a7062ccc",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#012_deck",
+          "image": "/tier-list/behdeck/jjs-1-341f7b32b9.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "ad53c2f261",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#147_deck",
+          "image": "/tier-list/behdeck/jjs-1-7b672d8cfb.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "9d4610c10f",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#008_deck",
+          "image": "/tier-list/behdeck/jjs-1-5d01c932ef.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "97e0f0c1e6",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#001_deck",
+          "image": "/tier-list/behdeck/cgl-1-05c093e2b5.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        },
+        {
+          "id": "41273880b2",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#003_deck",
+          "image": "/tier-list/behdeck/cgl-1-fec772af96.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        }
+      ]
+    },
+    {
+      "id": "tier-3",
+      "label": "Tier 3",
+      "items": [
+        {
+          "id": "b4caf24f8c",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#399_deck",
+          "image": "/tier-list/behdeck/macross-1-20006a08ad.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "115ad053f2",
+          "title": "macross",
+          "href": "https://behdeck.com/macross#283_deck",
+          "image": "/tier-list/behdeck/macross-1-9ce6053ac6.webp",
+          "alt": "Deck 399_deck",
+          "deckKey": "399_deck"
+        },
+        {
+          "id": "b149f6a1b8",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#137_deck",
+          "image": "/tier-list/behdeck/nikke-1-282001f1b1.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "506439d38d",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#135_deck",
+          "image": "/tier-list/behdeck/nikke-1-a4a5541e98.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "ef6fa8600a",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#097_deck",
+          "image": "/tier-list/behdeck/shinymas-1-43b2bb9f78.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "73d3c0bd24",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#030_deck",
+          "image": "/tier-list/behdeck/shinymas-1-eec7cba675.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "7f6644cc44",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#029_deck",
+          "image": "/tier-list/behdeck/shinymas-1-bc0a39c60c.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "3a12755205",
+          "title": "shinymas",
+          "href": "https://behdeck.com/shinymas#027_deck",
+          "image": "/tier-list/behdeck/shinymas-1-8cd66783c1.webp",
+          "alt": "Deck 360_deck",
+          "deckKey": "360_deck"
+        },
+        {
+          "id": "9fc12e32ec",
+          "title": "kgr",
+          "href": "https://behdeck.com/kgr#351_deck",
+          "image": "/tier-list/behdeck/kgr-1-47b0344121.webp",
+          "alt": "Deck 352_deck",
+          "deckKey": "352_deck"
+        },
+        {
+          "id": "1ab951787c",
+          "title": "kgr",
+          "href": "https://behdeck.com/kgr#349_deck",
+          "image": "/tier-list/behdeck/kgr-1-60009e8709.webp",
+          "alt": "Deck 352_deck",
+          "deckKey": "352_deck"
+        },
+        {
+          "id": "769af6fcd9",
+          "title": "tolove",
+          "href": "https://behdeck.com/tolove#345_deck",
+          "image": "/tier-list/behdeck/tolove-1-dd1e496255.webp",
+          "alt": "Deck 347_deck",
+          "deckKey": "347_deck"
+        },
+        {
+          "id": "b7b769ad80",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#342_deck",
+          "image": "/tier-list/behdeck/kamen-1-83bef29c0e.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "892c05963c",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#340_deck",
+          "image": "/tier-list/behdeck/kamen-1-7422d518aa.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "c79ecc90e6",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#221_deck",
+          "image": "/tier-list/behdeck/kamen-1-50554315de.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "2bccd2c889",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#234_deck",
+          "image": "/tier-list/behdeck/arknights-1-83afbe1dca.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "73a72dbfd4",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#230_deck",
+          "image": "/tier-list/behdeck/arknights-1-5e6623469e.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "51fdc765e8",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#228_deck",
+          "image": "/tier-list/behdeck/arknights-1-fbb5a5f260.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "c3d7f41ef7",
+          "title": "monogatari",
+          "href": "https://behdeck.com/monogatari#323_deck",
+          "image": "/tier-list/behdeck/monogatari-1-d010ac6fa0.webp",
+          "alt": "Deck 323_deck",
+          "deckKey": "323_deck"
+        },
+        {
+          "id": "ec9502ddfa",
+          "title": "monogatari",
+          "href": "https://behdeck.com/monogatari#322_deck",
+          "image": "/tier-list/behdeck/monogatari-1-ee31ddbe7e.webp",
+          "alt": "Deck 323_deck",
+          "deckKey": "323_deck"
+        },
+        {
+          "id": "c145ab467e",
+          "title": "monogatari",
+          "href": "https://behdeck.com/monogatari#321_deck",
+          "image": "/tier-list/behdeck/monogatari-1-eb02571d50.webp",
+          "alt": "Deck 323_deck",
+          "deckKey": "323_deck"
+        },
+        {
+          "id": "7713e60b67",
+          "title": "monogatari",
+          "href": "https://behdeck.com/monogatari#318_deck",
+          "image": "/tier-list/behdeck/monogatari-1-b9e121e2a4.webp",
+          "alt": "Deck 323_deck",
+          "deckKey": "323_deck"
+        },
+        {
+          "id": "92d478297c",
+          "title": "kenshin",
+          "href": "https://behdeck.com/kenshin#315_deck",
+          "image": "/tier-list/behdeck/kenshin-1-89d6ccdc26.webp",
+          "alt": "Deck 317_deck",
+          "deckKey": "317_deck"
+        },
+        {
+          "id": "afb95e0f8e",
+          "title": "kenshin",
+          "href": "https://behdeck.com/kenshin#314_deck",
+          "image": "/tier-list/behdeck/kenshin-1-b9995141f8.webp",
+          "alt": "Deck 317_deck",
+          "deckKey": "317_deck"
+        },
+        {
+          "id": "31cacfcbe2",
+          "title": "kenshin",
+          "href": "https://behdeck.com/kenshin#313_deck",
+          "image": "/tier-list/behdeck/kenshin-1-743e77e4dc.webp",
+          "alt": "Deck 317_deck",
+          "deckKey": "317_deck"
+        },
+        {
+          "id": "db80ccff39",
+          "title": "re0",
+          "href": "https://behdeck.com/re0#306_deck",
+          "image": "/tier-list/behdeck/re0-1-c4ed9d8cab.webp",
+          "alt": "Deck 308_deck",
+          "deckKey": "308_deck"
+        },
+        {
+          "id": "84d2fa8c62",
+          "title": "knk",
+          "href": "https://behdeck.com/knk#302_deck",
+          "image": "/tier-list/behdeck/knk-1-36fe0b3755.webp",
+          "alt": "Deck 302_deck",
+          "deckKey": "302_deck"
+        },
+        {
+          "id": "0152a108af",
+          "title": "knk",
+          "href": "https://behdeck.com/knk#300_deck",
+          "image": "/tier-list/behdeck/knk-1-c2526fc6a3.webp",
+          "alt": "Deck 302_deck",
+          "deckKey": "302_deck"
+        },
+        {
+          "id": "dd9910e5f7",
+          "title": "wb",
+          "href": "https://behdeck.com/wb#294_deck",
+          "image": "/tier-list/behdeck/wb-1-a3a261e323.webp",
+          "alt": "Deck 294_deck",
+          "deckKey": "294_deck"
+        },
+        {
+          "id": "dfdea8b694",
+          "title": "wb",
+          "href": "https://behdeck.com/wb#292_deck",
+          "image": "/tier-list/behdeck/wb-1-2a6ebc9c73.webp",
+          "alt": "Deck 294_deck",
+          "deckKey": "294_deck"
+        },
+        {
+          "id": "d99556742f",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#289_deck",
+          "image": "/tier-list/behdeck/fma-1-7af724d892.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "a230c1c866",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#288_deck",
+          "image": "/tier-list/behdeck/fma-1-51cf3ab8da.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "25978458fa",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#286_deck",
+          "image": "/tier-list/behdeck/fma-1-6e6eebf7e8.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "ba41d211ce",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#285_deck",
+          "image": "/tier-list/behdeck/fma-1-f49752edc4.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "89e1f62bb4",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#284_deck",
+          "image": "/tier-list/behdeck/fma-1-07b1faa64a.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "c9d6e89e6d",
+          "title": "opm",
+          "href": "https://behdeck.com/opm#270_deck",
+          "image": "/tier-list/behdeck/opm-1-c17e886f7f.webp",
+          "alt": "Deck 270_deck",
+          "deckKey": "270_deck"
+        },
+        {
+          "id": "5ede7e6769",
+          "title": "opm",
+          "href": "https://behdeck.com/opm#269_deck",
+          "image": "/tier-list/behdeck/opm-1-55c45cf657.webp",
+          "alt": "Deck 270_deck",
+          "deckKey": "270_deck"
+        },
+        {
+          "id": "dce510f1b1",
+          "title": "opm",
+          "href": "https://behdeck.com/opm#266_deck",
+          "image": "/tier-list/behdeck/opm-1-63b949315f.webp",
+          "alt": "Deck 270_deck",
+          "deckKey": "270_deck"
+        },
+        {
+          "id": "1bf4e22fb4",
+          "title": "opm",
+          "href": "https://behdeck.com/opm#265_deck",
+          "image": "/tier-list/behdeck/opm-1-a814fa4b5b.webp",
+          "alt": "Deck 270_deck",
+          "deckKey": "270_deck"
+        },
+        {
+          "id": "9dc6bc915a",
+          "title": "cgr",
+          "href": "https://behdeck.com/cgr#262_deck",
+          "image": "/tier-list/behdeck/cgr-1-195b280949.webp",
+          "alt": "Deck 277_deck",
+          "deckKey": "277_deck"
+        },
+        {
+          "id": "7a89dd7a0d",
+          "title": "2ds",
+          "href": "https://behdeck.com/2ds#255_deck",
+          "image": "/tier-list/behdeck/2ds-1-b296dd73be.webp",
+          "alt": "Deck 255_deck",
+          "deckKey": "255_deck"
+        },
+        {
+          "id": "c0dce72a62",
+          "title": "2ds",
+          "href": "https://behdeck.com/2ds#256_deck",
+          "image": "/tier-list/behdeck/2ds-1-c61c848b3d.webp",
+          "alt": "Deck 255_deck",
+          "deckKey": "255_deck"
+        },
+        {
+          "id": "7a6891c481",
+          "title": "2ds",
+          "href": "https://behdeck.com/2ds#253_deck",
+          "image": "/tier-list/behdeck/2ds-1-4437dfdf2f.webp",
+          "alt": "Deck 255_deck",
+          "deckKey": "255_deck"
+        },
+        {
+          "id": "2f24ae1321",
+          "title": "slf",
+          "href": "https://behdeck.com/slf#248_deck",
+          "image": "/tier-list/behdeck/slf-1-a703bfd987.webp",
+          "alt": "Deck 248_deck",
+          "deckKey": "248_deck"
+        },
+        {
+          "id": "c293852156",
+          "title": "slf",
+          "href": "https://behdeck.com/slf#245_deck",
+          "image": "/tier-list/behdeck/slf-1-4185e1f144.webp",
+          "alt": "Deck 248_deck",
+          "deckKey": "248_deck"
+        },
+        {
+          "id": "305f50b520",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#243_deck",
+          "image": "/tier-list/behdeck/madoka-1-aa93913e8b.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "0a52929bbf",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#242_deck",
+          "image": "/tier-list/behdeck/madoka-1-2feb54cc6f.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "0c561b8659",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#241_deck",
+          "image": "/tier-list/behdeck/madoka-1-036cdf6894.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "32d8cfe149",
+          "title": "madoka",
+          "href": "https://behdeck.com/madoka#236_deck",
+          "image": "/tier-list/behdeck/madoka-1-6fa54010dc.webp",
+          "alt": "Deck 243_deck",
+          "deckKey": "243_deck"
+        },
+        {
+          "id": "3a474e7ef4",
+          "title": "kaiju",
+          "href": "https://behdeck.com/kaiju#212_deck",
+          "image": "/tier-list/behdeck/kaiju-1-12bb503cfd.webp",
+          "alt": "Deck 216_deck",
+          "deckKey": "216_deck"
+        },
+        {
+          "id": "2e5272dfee",
+          "title": "100gf",
+          "href": "https://behdeck.com/100gf#200_deck",
+          "image": "/tier-list/behdeck/100gf-1-1cc5ff5810.webp",
+          "alt": "Deck 204_deck",
+          "deckKey": "204_deck"
+        },
+        {
+          "id": "960e7d5804",
+          "title": "100gf",
+          "href": "https://behdeck.com/100gf#199_deck",
+          "image": "/tier-list/behdeck/100gf-1-4a41090b65.webp",
+          "alt": "Deck 204_deck",
+          "deckKey": "204_deck"
+        },
+        {
+          "id": "205a848fa9",
+          "title": "udul",
+          "href": "https://behdeck.com/udul#198_deck",
+          "image": "/tier-list/behdeck/udul-1-70dfba0638.webp",
+          "alt": "Deck 198_deck",
+          "deckKey": "198_deck"
+        },
+        {
+          "id": "4319d229ef",
+          "title": "udul",
+          "href": "https://behdeck.com/udul#197_deck",
+          "image": "/tier-list/behdeck/udul-1-7c9d5482a6.webp",
+          "alt": "Deck 198_deck",
+          "deckKey": "198_deck"
+        },
+        {
+          "id": "4e16d7a293",
+          "title": "udul",
+          "href": "https://behdeck.com/udul#195_deck",
+          "image": "/tier-list/behdeck/udul-1-aa67d24c70.webp",
+          "alt": "Deck 198_deck",
+          "deckKey": "198_deck"
+        },
+        {
+          "id": "e09886bcf7",
+          "title": "udul",
+          "href": "https://behdeck.com/udul#194_deck",
+          "image": "/tier-list/behdeck/udul-1-4605dc3b55.webp",
+          "alt": "Deck 198_deck",
+          "deckKey": "198_deck"
+        },
+        {
+          "id": "2a0d2c517d",
+          "title": "shy",
+          "href": "https://behdeck.com/shy#191_deck",
+          "image": "/tier-list/behdeck/shy-1-5d9c00d187.webp",
+          "alt": "Deck 191_deck",
+          "deckKey": "191_deck"
+        },
+        {
+          "id": "0a05515142",
+          "title": "shy",
+          "href": "https://behdeck.com/shy#190_deck",
+          "image": "/tier-list/behdeck/shy-1-cd8783a73b.webp",
+          "alt": "Deck 191_deck",
+          "deckKey": "191_deck"
+        },
+        {
+          "id": "2dd1df519f",
+          "title": "shy",
+          "href": "https://behdeck.com/shy#187_deck",
+          "image": "/tier-list/behdeck/shy-1-c2a7af615a.webp",
+          "alt": "Deck 191_deck",
+          "deckKey": "191_deck"
+        },
+        {
+          "id": "dbd86e20e6",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#310_deck",
+          "image": "/tier-list/behdeck/aot-1-928010c1e9.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "c73ed833ad",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#309_deck",
+          "image": "/tier-list/behdeck/aot-1-e68715872b.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "8d7193ba34",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#311_deck",
+          "image": "/tier-list/behdeck/aot-1-26dd8bd363.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "faf1a7663a",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#182_deck",
+          "image": "/tier-list/behdeck/aot-1-45b222f8e0.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "0c76222730",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#179_deck",
+          "image": "/tier-list/behdeck/aot-1-fea7efb28c.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "5574bb31f1",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#177_deck",
+          "image": "/tier-list/behdeck/aot-1-0115f60d18.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "4602e1a948",
+          "title": "gamera",
+          "href": "https://behdeck.com/gamera#173_deck",
+          "image": "/tier-list/behdeck/gamera-1-6c05a1bb04.webp",
+          "alt": "Deck 175_deck",
+          "deckKey": "175_deck"
+        },
+        {
+          "id": "211aa98187",
+          "title": "gamera",
+          "href": "https://behdeck.com/gamera#172_deck",
+          "image": "/tier-list/behdeck/gamera-1-be404629d1.webp",
+          "alt": "Deck 175_deck",
+          "deckKey": "175_deck"
+        },
+        {
+          "id": "521e5e7405",
+          "title": "gamera",
+          "href": "https://behdeck.com/gamera#170_deck",
+          "image": "/tier-list/behdeck/gamera-1-4cb9aaa6fa.webp",
+          "alt": "Deck 175_deck",
+          "deckKey": "175_deck"
+        },
+        {
+          "id": "ab222eb7dd",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#164_deck",
+          "image": "/tier-list/behdeck/yyh-1-d7c1779955.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "549966a2af",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#161_deck",
+          "image": "/tier-list/behdeck/yyh-1-274a00e7e5.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "af9545295c",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#157_deck",
+          "image": "/tier-list/behdeck/yyh-1-9359f190f3.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "cbb91be7de",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#155_deck",
+          "image": "/tier-list/behdeck/bc-1-54509e41e7.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "f2097b70b4",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#154_deck",
+          "image": "/tier-list/behdeck/bc-1-6b155b12eb.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "cd31f917b1",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#152_deck",
+          "image": "/tier-list/behdeck/bc-1-42834b5811.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "5ea4b6402d",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#149_deck",
+          "image": "/tier-list/behdeck/bc-1-d09c579e03.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "1858511ee5",
+          "title": "haikyu",
+          "href": "https://behdeck.com/haikyu#143_deck",
+          "image": "/tier-list/behdeck/haikyu-1-eb8abdd29f.webp",
+          "alt": "Deck 143_deck",
+          "deckKey": "143_deck"
+        },
+        {
+          "id": "c20ab918bf",
+          "title": "haikyu",
+          "href": "https://behdeck.com/haikyu#142_deck",
+          "image": "/tier-list/behdeck/haikyu-1-f1d94ce288.webp",
+          "alt": "Deck 143_deck",
+          "deckKey": "143_deck"
+        },
+        {
+          "id": "9e42f3760c",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#122_deck",
+          "image": "/tier-list/behdeck/syndruality-1-6c8a6b825b.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "b271ef0124",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#120_deck",
+          "image": "/tier-list/behdeck/syndruality-1-7b7218ae15.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "cb7f68c495",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#116_deck",
+          "image": "/tier-list/behdeck/syndruality-1-82f4ca5ad5.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "9f825d1160",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#112_deck",
+          "image": "/tier-list/behdeck/sao-1-bff4a3bcc1.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "427fc56c84",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#111_deck",
+          "image": "/tier-list/behdeck/sao-1-928edb3c1a.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "8d60b7eeaf",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#110_deck",
+          "image": "/tier-list/behdeck/sao-1-0dae67bae9.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "6545e3025c",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#109_deck",
+          "image": "/tier-list/behdeck/sao-1-f27f376e3e.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "07d220381d",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#060_deck",
+          "image": "/tier-list/behdeck/gintama-1-3053277bf3.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "1b0f082e79",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#047_deck",
+          "image": "/tier-list/behdeck/mha-1-33689cfe65.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "929fd3fe73",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#251_deck",
+          "image": "/tier-list/behdeck/slime-1-84e9f39a8c.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "22319bf9a3",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#040_deck",
+          "image": "/tier-list/behdeck/slime-1-68bcc9ea41.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "64a2108988",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#166_deck",
+          "image": "/tier-list/behdeck/demon-1-57c2580c97.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        }
+      ]
+    },
+    {
+      "id": "tier-4",
+      "label": "Tier 4",
+      "items": [
+        {
+          "id": "c095f9acc9",
+          "title": "nikke",
+          "href": "https://behdeck.com/nikke#205_deck",
+          "image": "/tier-list/behdeck/nikke-1-9aac528c63.webp",
+          "alt": "Deck 368_deck",
+          "deckKey": "368_deck"
+        },
+        {
+          "id": "307747aa4d",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#332_deck",
+          "image": "/tier-list/behdeck/arknights-1-75d4337abc.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "e1e8597ae3",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#233_deck",
+          "image": "/tier-list/behdeck/arknights-1-0defa148c5.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "1f819f84cf",
+          "title": "arknights",
+          "href": "https://behdeck.com/arknights#227_deck",
+          "image": "/tier-list/behdeck/arknights-1-c7732ae661.webp",
+          "alt": "Deck 332_deck",
+          "deckKey": "332_deck"
+        },
+        {
+          "id": "a20b540e25",
+          "title": "fma",
+          "href": "https://behdeck.com/fma#287_deck",
+          "image": "/tier-list/behdeck/fma-1-646abf0944.webp",
+          "alt": "Deck 290_deck",
+          "deckKey": "290_deck"
+        },
+        {
+          "id": "ecc55f4863",
+          "title": "cgr",
+          "href": "https://behdeck.com/cgr#261_deck",
+          "image": "/tier-list/behdeck/cgr-1-9caaf686b7.webp",
+          "alt": "Deck 277_deck",
+          "deckKey": "277_deck"
+        },
+        {
+          "id": "11f6600545",
+          "title": "cgr",
+          "href": "https://behdeck.com/cgr#260_deck",
+          "image": "/tier-list/behdeck/cgr-1-7653c760d3.webp",
+          "alt": "Deck 277_deck",
+          "deckKey": "277_deck"
+        },
+        {
+          "id": "4fe9a81a7d",
+          "title": "2ds",
+          "href": "https://behdeck.com/2ds#254_deck",
+          "image": "/tier-list/behdeck/2ds-1-62acdf7e18.webp",
+          "alt": "Deck 255_deck",
+          "deckKey": "255_deck"
+        },
+        {
+          "id": "66408fd7f4",
+          "title": "kaiju",
+          "href": "https://behdeck.com/kaiju#216_deck",
+          "image": "/tier-list/behdeck/kaiju-1-ea01a5fb29.webp",
+          "alt": "Deck 216_deck",
+          "deckKey": "216_deck"
+        },
+        {
+          "id": "31edb00dca",
+          "title": "100gf",
+          "href": "https://behdeck.com/100gf#203_deck",
+          "image": "/tier-list/behdeck/100gf-1-7b67cb7fd6.webp",
+          "alt": "Deck 204_deck",
+          "deckKey": "204_deck"
+        },
+        {
+          "id": "2d614fe831",
+          "title": "aot",
+          "href": "https://behdeck.com/aot#183_deck",
+          "image": "/tier-list/behdeck/aot-1-fb1e5675c3.webp",
+          "alt": "Deck 310_deck",
+          "deckKey": "310_deck"
+        },
+        {
+          "id": "b17844b5b7",
+          "title": "gamera",
+          "href": "https://behdeck.com/gamera#174_deck",
+          "image": "/tier-list/behdeck/gamera-1-e52ee7aa53.webp",
+          "alt": "Deck 175_deck",
+          "deckKey": "175_deck"
+        },
+        {
+          "id": "fb41e2bd67",
+          "title": "gamera",
+          "href": "https://behdeck.com/gamera#171_deck",
+          "image": "/tier-list/behdeck/gamera-1-a46f510a47.webp",
+          "alt": "Deck 175_deck",
+          "deckKey": "175_deck"
+        },
+        {
+          "id": "7fb00b65f6",
+          "title": "yyh",
+          "href": "https://behdeck.com/yyh#162_deck",
+          "image": "/tier-list/behdeck/yyh-1-6c7a56203b.webp",
+          "alt": "Deck 165_deck",
+          "deckKey": "165_deck"
+        },
+        {
+          "id": "5a0fe9c4f5",
+          "title": "bc",
+          "href": "https://behdeck.com/bc#151_deck",
+          "image": "/tier-list/behdeck/bc-1-544e5f6630.webp",
+          "alt": "Deck 155_deck",
+          "deckKey": "155_deck"
+        },
+        {
+          "id": "0eb9baf8cb",
+          "title": "haikyu",
+          "href": "https://behdeck.com/haikyu#141_deck",
+          "image": "/tier-list/behdeck/haikyu-1-2b17234bf1.webp",
+          "alt": "Deck 143_deck",
+          "deckKey": "143_deck"
+        },
+        {
+          "id": "7723b4a56e",
+          "title": "haikyu",
+          "href": "https://behdeck.com/haikyu#139_deck",
+          "image": "/tier-list/behdeck/haikyu-1-ed0159b02a.webp",
+          "alt": "Deck 143_deck",
+          "deckKey": "143_deck"
+        },
+        {
+          "id": "e55dc3a54e",
+          "title": "haikyu",
+          "href": "https://behdeck.com/haikyu#138_deck",
+          "image": "/tier-list/behdeck/haikyu-1-8ce70366ee.webp",
+          "alt": "Deck 143_deck",
+          "deckKey": "143_deck"
+        },
+        {
+          "id": "45f3f715da",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#131_deck",
+          "image": "/tier-list/behdeck/toriko-1-d47421e00e.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "1e1559d94a",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#130_deck",
+          "image": "/tier-list/behdeck/toriko-1-7a389afb19.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "7ce8b164d9",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#129_deck",
+          "image": "/tier-list/behdeck/toriko-1-079d41022d.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "22b4f8b298",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#127_deck",
+          "image": "/tier-list/behdeck/toriko-1-ec04c41876.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "7baec558ad",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#126_deck",
+          "image": "/tier-list/behdeck/toriko-1-5212651113.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "71c8828586",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#123_deck",
+          "image": "/tier-list/behdeck/toriko-1-57eb0bbdcc.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "41c47c9d4b",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#121_deck",
+          "image": "/tier-list/behdeck/syndruality-1-0f304a192b.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "2641f79e0c",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#119_deck",
+          "image": "/tier-list/behdeck/syndruality-1-f578617278.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "ee653a372a",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#118_deck",
+          "image": "/tier-list/behdeck/syndruality-1-535fece431.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "40e55edeb2",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#117_deck",
+          "image": "/tier-list/behdeck/syndruality-1-bf12fd0336.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "d6520976e5",
+          "title": "syndruality",
+          "href": "https://behdeck.com/syndruality#115_deck",
+          "image": "/tier-list/behdeck/syndruality-1-15de46f987.webp",
+          "alt": "Deck 122_deck",
+          "deckKey": "122_deck"
+        },
+        {
+          "id": "8f34d1623f",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#113_deck",
+          "image": "/tier-list/behdeck/sao-1-60656fb4ca.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "6fbde7575a",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#107_deck",
+          "image": "/tier-list/behdeck/sao-1-0e23e603bc.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "535d6141f2",
+          "title": "sao",
+          "href": "https://behdeck.com/sao#106_deck",
+          "image": "/tier-list/behdeck/sao-1-3e6d59fe31.webp",
+          "alt": "Deck 226_deck",
+          "deckKey": "226_deck"
+        },
+        {
+          "id": "cb56290870",
+          "title": "drstone",
+          "href": "https://behdeck.com/drstone#103_deck",
+          "image": "/tier-list/behdeck/drstone-1-563e51432e.webp",
+          "alt": "Deck 103_deck",
+          "deckKey": "103_deck"
+        },
+        {
+          "id": "8d2a7a887d",
+          "title": "drstone",
+          "href": "https://behdeck.com/drstone#102_deck",
+          "image": "/tier-list/behdeck/drstone-1-65691a03d8.webp",
+          "alt": "Deck 103_deck",
+          "deckKey": "103_deck"
+        },
+        {
+          "id": "d3403ac73e",
+          "title": "drstone",
+          "href": "https://behdeck.com/drstone#100_deck",
+          "image": "/tier-list/behdeck/drstone-1-66c31897c9.webp",
+          "alt": "Deck 103_deck",
+          "deckKey": "103_deck"
+        },
+        {
+          "id": "8778cf7929",
+          "title": "tekken",
+          "href": "https://behdeck.com/tekken#089_deck",
+          "image": "/tier-list/behdeck/tekken-1-9401cb9879.webp",
+          "alt": "Deck 090_deck",
+          "deckKey": "090_deck"
+        },
+        {
+          "id": "4e4051c453",
+          "title": "tekken",
+          "href": "https://behdeck.com/tekken#088_deck",
+          "image": "/tier-list/behdeck/tekken-1-8f32933363.webp",
+          "alt": "Deck 090_deck",
+          "deckKey": "090_deck"
+        },
+        {
+          "id": "6034761269",
+          "title": "tekken",
+          "href": "https://behdeck.com/tekken#087_deck",
+          "image": "/tier-list/behdeck/tekken-1-272d8b49b3.webp",
+          "alt": "Deck 090_deck",
+          "deckKey": "090_deck"
+        },
+        {
+          "id": "725485b8d3",
+          "title": "tekken",
+          "href": "https://behdeck.com/tekken#085_deck",
+          "image": "/tier-list/behdeck/tekken-1-f54873339b.webp",
+          "alt": "Deck 090_deck",
+          "deckKey": "090_deck"
+        },
+        {
+          "id": "e8bb8108e5",
+          "title": "bl",
+          "href": "https://behdeck.com/bl#083_deck",
+          "image": "/tier-list/behdeck/bl-1-d2e967083c.webp",
+          "alt": "Deck 083_deck",
+          "deckKey": "083_deck"
+        },
+        {
+          "id": "e50c68dc1a",
+          "title": "bl",
+          "href": "https://behdeck.com/bl#082_deck",
+          "image": "/tier-list/behdeck/bl-1-9a351e6372.webp",
+          "alt": "Deck 083_deck",
+          "deckKey": "083_deck"
+        },
+        {
+          "id": "10390afa54",
+          "title": "bl",
+          "href": "https://behdeck.com/bl#081_deck",
+          "image": "/tier-list/behdeck/bl-1-b68817c78a.webp",
+          "alt": "Deck 083_deck",
+          "deckKey": "083_deck"
+        },
+        {
+          "id": "018db7c0aa",
+          "title": "bl",
+          "href": "https://behdeck.com/bl#080_deck",
+          "image": "/tier-list/behdeck/bl-1-73321c3008.webp",
+          "alt": "Deck 083_deck",
+          "deckKey": "083_deck"
+        },
+        {
+          "id": "8a5f7e9d8d",
+          "title": "bl",
+          "href": "https://behdeck.com/bl#077_deck",
+          "image": "/tier-list/behdeck/bl-1-00c776366c.webp",
+          "alt": "Deck 083_deck",
+          "deckKey": "083_deck"
+        },
+        {
+          "id": "0c0479bf5d",
+          "title": "bl",
+          "href": "https://behdeck.com/bl#076_deck",
+          "image": "/tier-list/behdeck/bl-1-afafa3de84.webp",
+          "alt": "Deck 083_deck",
+          "deckKey": "083_deck"
+        },
+        {
+          "id": "e9f014f0a4",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#066_deck",
+          "image": "/tier-list/behdeck/gintama-1-37c00598cd.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "1cabbfeb45",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#063_deck",
+          "image": "/tier-list/behdeck/gintama-1-65d2b3f4f1.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "c78f2e8f7b",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#064_deck",
+          "image": "/tier-list/behdeck/gintama-1-1709eee438.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "26caede86a",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#061_deck",
+          "image": "/tier-list/behdeck/gintama-1-223c83e572.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "b037dc02a0",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#184_deck",
+          "image": "/tier-list/behdeck/mha-1-38d91291dc.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "39a3ffa45d",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#052_deck",
+          "image": "/tier-list/behdeck/mha-1-a35cfd4ce0.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "97d92a9dd8",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#050_deck",
+          "image": "/tier-list/behdeck/mha-1-99484f155c.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "b8f22a3458",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#049_deck",
+          "image": "/tier-list/behdeck/mha-1-46563380be.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "67dacc7fd4",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#048_deck",
+          "image": "/tier-list/behdeck/mha-1-eb548bd924.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "ade681c630",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#046_deck",
+          "image": "/tier-list/behdeck/mha-1-d7ae81f6c8.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "085eb19867",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#045_deck",
+          "image": "/tier-list/behdeck/mha-1-4cadb8bc8a.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "6e85853eee",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#044_deck",
+          "image": "/tier-list/behdeck/mha-1-4513cbf657.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "d86e79f2f9",
+          "title": "robocco",
+          "href": "https://behdeck.com/robocco#057_deck",
+          "image": "/tier-list/behdeck/robocco-1-1c377a3cd3.webp",
+          "alt": "Deck 059_deck",
+          "deckKey": "059_deck"
+        },
+        {
+          "id": "e0a39f0b31",
+          "title": "robocco",
+          "href": "https://behdeck.com/robocco#056_deck",
+          "image": "/tier-list/behdeck/robocco-1-c14f3a2fc2.webp",
+          "alt": "Deck 059_deck",
+          "deckKey": "059_deck"
+        },
+        {
+          "id": "898454ac11",
+          "title": "robocco",
+          "href": "https://behdeck.com/robocco#055_deck",
+          "image": "/tier-list/behdeck/robocco-1-43553938f1.webp",
+          "alt": "Deck 059_deck",
+          "deckKey": "059_deck"
+        },
+        {
+          "id": "dc1ea5c240",
+          "title": "robocco",
+          "href": "https://behdeck.com/robocco#054_deck",
+          "image": "/tier-list/behdeck/robocco-1-0ad37b63ea.webp",
+          "alt": "Deck 059_deck",
+          "deckKey": "059_deck"
+        },
+        {
+          "id": "b808aa09f0",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#193_deck",
+          "image": "/tier-list/behdeck/bleach-1-5f69ad771a.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "02f908a5a6",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#192_deck",
+          "image": "/tier-list/behdeck/bleach-1-e2bcc26563.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "f8d71d47c1",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#073_deck",
+          "image": "/tier-list/behdeck/bleach-1-e957820131.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "2dfe4d5d44",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#071_deck",
+          "image": "/tier-list/behdeck/bleach-1-769e5f8235.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "d87f5b431d",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#070_deck",
+          "image": "/tier-list/behdeck/bleach-1-074ed3f099.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "f6ed64e17b",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#069_deck",
+          "image": "/tier-list/behdeck/bleach-1-229ba4a444.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "38b03c65a2",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#068_deck",
+          "image": "/tier-list/behdeck/bleach-1-7a79be2456.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "c453d0492c",
+          "title": "bleach",
+          "href": "https://behdeck.com/bleach#067_deck",
+          "image": "/tier-list/behdeck/bleach-1-24d02fdb65.webp",
+          "alt": "Deck 193_deck",
+          "deckKey": "193_deck"
+        },
+        {
+          "id": "05d2df5be5",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#043_deck",
+          "image": "/tier-list/behdeck/slime-1-49b3b75fcc.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "1c5e3976e2",
+          "title": "slime",
+          "href": "https://behdeck.com/slime#042_deck",
+          "image": "/tier-list/behdeck/slime-1-8aaa639e8d.webp",
+          "alt": "Deck 252_deck",
+          "deckKey": "252_deck"
+        },
+        {
+          "id": "24ef5461b1",
+          "title": "toa",
+          "href": "https://behdeck.com/toa#037_deck",
+          "image": "/tier-list/behdeck/toa-1-ed2182caa9.webp",
+          "alt": "Deck 037_deck",
+          "deckKey": "037_deck"
+        },
+        {
+          "id": "0073b10fc4",
+          "title": "toa",
+          "href": "https://behdeck.com/toa#036_deck",
+          "image": "/tier-list/behdeck/toa-1-9fe51fa2ca.webp",
+          "alt": "Deck 037_deck",
+          "deckKey": "037_deck"
+        },
+        {
+          "id": "1983944caa",
+          "title": "toa",
+          "href": "https://behdeck.com/toa#033_deck",
+          "image": "/tier-list/behdeck/toa-1-5c9f4a3184.webp",
+          "alt": "Deck 037_deck",
+          "deckKey": "037_deck"
+        },
+        {
+          "id": "28384004c1",
+          "title": "toa",
+          "href": "https://behdeck.com/toa#032_deck",
+          "image": "/tier-list/behdeck/toa-1-ca7dc5cb41.webp",
+          "alt": "Deck 037_deck",
+          "deckKey": "037_deck"
+        },
+        {
+          "id": "61fa9bb4aa",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#169_deck",
+          "image": "/tier-list/behdeck/demon-1-1ec548cb77.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "91a9ae85c9",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#168_deck",
+          "image": "/tier-list/behdeck/demon-1-d8062aa6d4.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "479fd8c873",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#167_deck",
+          "image": "/tier-list/behdeck/demon-1-927c12b89f.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "854bffe1f8",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#024_deck",
+          "image": "/tier-list/behdeck/demon-1-8d3956c79d.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "5b7a8228a7",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#023_deck",
+          "image": "/tier-list/behdeck/demon-1-07a15970bf.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "fac7a4389f",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#176_deck",
+          "image": "/tier-list/behdeck/demon-1-1f0949bf09.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "8e61f3f146",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#021_deck",
+          "image": "/tier-list/behdeck/demon-1-9e806404b7.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "90f2b9c606",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#091_deck",
+          "image": "/tier-list/behdeck/hxh-1-4d8c0274dc.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "f7c61b209b",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#016_deck",
+          "image": "/tier-list/behdeck/hxh-1-20bfdae050.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "8c3114d72b",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#015_deck",
+          "image": "/tier-list/behdeck/hxh-1-7961d47e21.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "eb864cf86c",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#014_deck",
+          "image": "/tier-list/behdeck/hxh-1-053fe90d7b.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "a0447f7eab",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#013_deck",
+          "image": "/tier-list/behdeck/hxh-1-70a35091dc.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "f2f495c87e",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#146_deck",
+          "image": "/tier-list/behdeck/jjs-1-ae7cb9d517.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "dcf5afc789",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#145_deck",
+          "image": "/tier-list/behdeck/jjs-1-21eb94ee1e.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "41c9b2c7dc",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#144_deck",
+          "image": "/tier-list/behdeck/jjs-1-6e9e104531.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "2bde196f77",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#011_deck",
+          "image": "/tier-list/behdeck/jjs-1-a573bcb604.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "01c1ad977a",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#010_deck",
+          "image": "/tier-list/behdeck/jjs-1-d048fa0365.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "d89f441ef5",
+          "title": "jjs",
+          "href": "https://behdeck.com/jjs#009_deck",
+          "image": "/tier-list/behdeck/jjs-1-099efb3ae8.webp",
+          "alt": "Deck 146_deck",
+          "deckKey": "146_deck"
+        },
+        {
+          "id": "1811e82cd3",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#095_deck",
+          "image": "/tier-list/behdeck/cgl-1-4ca801e69b.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        },
+        {
+          "id": "45aa816b8b",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#094_deck",
+          "image": "/tier-list/behdeck/cgl-1-521ef7ae08.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        },
+        {
+          "id": "03700b0081",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#093_deck",
+          "image": "/tier-list/behdeck/cgl-1-4ce4712de7.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        },
+        {
+          "id": "14788263a8",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#006_deck",
+          "image": "/tier-list/behdeck/cgl-1-b17977c466.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        },
+        {
+          "id": "492ef0a43c",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#004_deck",
+          "image": "/tier-list/behdeck/cgl-1-36b787389a.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        }
+      ]
+    },
+    {
+      "id": "tier-5",
+      "label": "Tier 5",
+      "items": [
+        {
+          "id": "9520ac93fa",
+          "title": "kamen",
+          "href": "https://behdeck.com/kamen#222_deck",
+          "image": "/tier-list/behdeck/kamen-1-720a02ad85.webp",
+          "alt": "Deck 343_deck",
+          "deckKey": "343_deck"
+        },
+        {
+          "id": "333d54e960",
+          "title": "opm",
+          "href": "https://behdeck.com/opm#268_deck",
+          "image": "/tier-list/behdeck/opm-1-bb6cd4cee5.webp",
+          "alt": "Deck 270_deck",
+          "deckKey": "270_deck"
+        },
+        {
+          "id": "386d0737cb",
+          "title": "gamera",
+          "href": "https://behdeck.com/gamera#175_deck",
+          "image": "/tier-list/behdeck/gamera-1-667196199f.webp",
+          "alt": "Deck 175_deck",
+          "deckKey": "175_deck"
+        },
+        {
+          "id": "151b38030b",
+          "title": "haikyu",
+          "href": "https://behdeck.com/haikyu#140_deck",
+          "image": "/tier-list/behdeck/haikyu-1-d2f9e5bdc0.webp",
+          "alt": "Deck 143_deck",
+          "deckKey": "143_deck"
+        },
+        {
+          "id": "78d3b48e27",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#128_deck",
+          "image": "/tier-list/behdeck/toriko-1-d3c90766ec.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "6787600820",
+          "title": "toriko",
+          "href": "https://behdeck.com/toriko#124_deck",
+          "image": "/tier-list/behdeck/toriko-1-008bb1214d.webp",
+          "alt": "Deck 131_deck",
+          "deckKey": "131_deck"
+        },
+        {
+          "id": "1f41189d91",
+          "title": "drstone",
+          "href": "https://behdeck.com/drstone#101_deck",
+          "image": "/tier-list/behdeck/drstone-1-ae0739d970.webp",
+          "alt": "Deck 103_deck",
+          "deckKey": "103_deck"
+        },
+        {
+          "id": "6f2b459b94",
+          "title": "drstone",
+          "href": "https://behdeck.com/drstone#098_deck",
+          "image": "/tier-list/behdeck/drstone-1-d175bb77e4.webp",
+          "alt": "Deck 103_deck",
+          "deckKey": "103_deck"
+        },
+        {
+          "id": "cc1d432cc5",
+          "title": "tekken",
+          "href": "https://behdeck.com/tekken#090_deck",
+          "image": "/tier-list/behdeck/tekken-1-1379b101a4.webp",
+          "alt": "Deck 090_deck",
+          "deckKey": "090_deck"
+        },
+        {
+          "id": "d6db061792",
+          "title": "tekken",
+          "href": "https://behdeck.com/tekken#086_deck",
+          "image": "/tier-list/behdeck/tekken-1-2d3b4ef6b7.webp",
+          "alt": "Deck 090_deck",
+          "deckKey": "090_deck"
+        },
+        {
+          "id": "672e6de930",
+          "title": "gintama",
+          "href": "https://behdeck.com/gintama#065_deck",
+          "image": "/tier-list/behdeck/gintama-1-8662e88347.webp",
+          "alt": "Deck 066_deck",
+          "deckKey": "066_deck"
+        },
+        {
+          "id": "11ec84705e",
+          "title": "mha",
+          "href": "https://behdeck.com/mha#053_deck",
+          "image": "/tier-list/behdeck/mha-1-0281d4cde9.webp",
+          "alt": "Deck 185_deck",
+          "deckKey": "185_deck"
+        },
+        {
+          "id": "083205c5eb",
+          "title": "robocco",
+          "href": "https://behdeck.com/robocco#059_deck",
+          "image": "/tier-list/behdeck/robocco-1-8dd42c7306.webp",
+          "alt": "Deck 059_deck",
+          "deckKey": "059_deck"
+        },
+        {
+          "id": "ee2363f55c",
+          "title": "robocco",
+          "href": "https://behdeck.com/robocco#058_deck",
+          "image": "/tier-list/behdeck/robocco-1-f85763179c.webp",
+          "alt": "Deck 059_deck",
+          "deckKey": "059_deck"
+        },
+        {
+          "id": "1985bc8649",
+          "title": "toa",
+          "href": "https://behdeck.com/toa#035_deck",
+          "image": "/tier-list/behdeck/toa-1-d7aad7c3c5.webp",
+          "alt": "Deck 037_deck",
+          "deckKey": "037_deck"
+        },
+        {
+          "id": "b94ae9e147",
+          "title": "toa",
+          "href": "https://behdeck.com/toa#034_deck",
+          "image": "/tier-list/behdeck/toa-1-446c5a3bd8.webp",
+          "alt": "Deck 037_deck",
+          "deckKey": "037_deck"
+        },
+        {
+          "id": "3f2475842c",
+          "title": "demon",
+          "href": "https://behdeck.com/demon#020_deck",
+          "image": "/tier-list/behdeck/demon-1-82850fa526.webp",
+          "alt": "Deck 169_deck",
+          "deckKey": "169_deck"
+        },
+        {
+          "id": "62d5e6b8b3",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#092_deck",
+          "image": "/tier-list/behdeck/hxh-1-f466aa67b5.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "092e8253a0",
+          "title": "hxh",
+          "href": "https://behdeck.com/hxh#017_deck",
+          "image": "/tier-list/behdeck/hxh-1-3bbb19b28a.webp",
+          "alt": "Deck 092_deck",
+          "deckKey": "092_deck"
+        },
+        {
+          "id": "55a5a5b79d",
+          "title": "cgl",
+          "href": "https://behdeck.com/cgl#002_deck",
+          "image": "/tier-list/behdeck/cgl-1-a72cca4d94.webp",
+          "alt": "Deck 095_deck",
+          "deckKey": "095_deck"
+        }
+      ]
+    },
+    {
+      "id": "not-released-in-asia",
+      "label": "Not Released in Asia",
+      "items": [
+        {
+          "id": "be73a3ff35",
+          "title": "ba",
+          "href": "https://behdeck.com/ba#S006_deck",
+          "image": "/tier-list/behdeck/ba-1-f739beb1eb.webp",
+          "alt": "Deck S006_deck",
+          "deckKey": "006_deck"
+        },
+        {
+          "id": "38f7690bc5",
+          "title": "ba",
+          "href": "https://behdeck.com/ba#S005_deck",
+          "image": "/tier-list/behdeck/ba-1-c483c06717.webp",
+          "alt": "Deck S006_deck",
+          "deckKey": "006_deck"
+        },
+        {
+          "id": "5f6a4dd007",
+          "title": "ba",
+          "href": "https://behdeck.com/ba#S004_deck",
+          "image": "/tier-list/behdeck/ba-1-7c9f975b40.webp",
+          "alt": "Deck S006_deck",
+          "deckKey": "006_deck"
+        },
+        {
+          "id": "569766e13c",
+          "title": "ba",
+          "href": "https://behdeck.com/ba#S003_deck",
+          "image": "/tier-list/behdeck/ba-1-1f511b0d8d.webp",
+          "alt": "Deck S006_deck",
+          "deckKey": "006_deck"
+        },
+        {
+          "id": "c35c311abb",
+          "title": "ba",
+          "href": "https://behdeck.com/ba#S002_deck",
+          "image": "/tier-list/behdeck/ba-1-7fce6f7498.webp",
+          "alt": "Deck S006_deck",
+          "deckKey": "006_deck"
+        },
+        {
+          "id": "fe8b8549e3",
+          "title": "ba",
+          "href": "https://behdeck.com/ba#S001_deck",
+          "image": "/tier-list/behdeck/ba-1-3354b8c79e.webp",
+          "alt": "Deck S006_deck",
+          "deckKey": "006_deck"
+        }
+      ]
+    }
+  ]
+}
