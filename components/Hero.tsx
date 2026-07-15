@@ -1,54 +1,76 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Hero() {
   return (
-    <section className="relative flex min-h-[85vh] items-center overflow-hidden">
-      <Image
-        src="/banner/homebanner.jpg"
-        alt="卡零社首页 Banner"
-        fill
-        priority
-        sizes="100vw"
-        className="object-cover object-center"
-      />
+    <section className="relative overflow-hidden border-b border-red-950/60">
+      <div className="relative min-h-[760px] md:min-h-[620px]">
+        {/* 手机版本 */}
+        <picture>
+          <source
+            media="(max-width: 767px)"
+            srcSet="/images/homebanner-mobile.png"
+          />
 
-      {/* 右侧文字遮罩 */}
-      <div className="absolute inset-0 bg-black/20" />
-      <div className="absolute inset-0 bg-gradient-to-l from-black/90 via-black/40 to-transparent" />
+          {/* 电脑版本 */}
+          <img
+            src="/homebanner.jpg"
+            alt="卡零社 CardZero"
+            loading="eager"
+            className="absolute inset-0 h-full w-full object-cover object-center"
+          />
+        </picture>
 
-      <div className="relative z-10 mx-auto flex w-full max-w-7xl justify-center px-6 py-24 md:justify-end">
-        <div className="max-w-2xl text-center md:ml-auto md:text-right">
-          <p className="text-sm font-bold tracking-[0.4em] text-red-500">
-            EVERY CARD MATTERS
-          </p>
+        {/* 手机底部渐黑；电脑右侧渐黑 */}
+        <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/95 md:bg-gradient-to-l md:from-black/90 md:via-black/30 md:to-transparent" />
 
-          <h1 className="mt-5 text-4xl font-black leading-tight md:text-6xl">
-            卡零社 CardZero
+        <div className="relative z-10 mx-auto flex min-h-[760px] max-w-7xl items-end px-5 pb-9 md:min-h-[620px] md:items-center md:justify-end md:px-8 md:pb-0">
+          <div className="w-full md:max-w-xl">
+            {/* 手机只显示简短说明，避免遮住图片 */}
+            <div className="mb-5 text-center md:hidden">
+              <p className="text-lg font-black text-white">
+                华语 Union Arena 平台
+              </p>
 
-            <span className="block text-red-500">
-              华语 Union Arena 平台
-            </span>
-          </h1>
+              <p className="mt-2 text-xs leading-5 text-zinc-300">
+                浏览卡牌资料、线上组牌、查看 T 表与分享牌组。
+              </p>
+            </div>
 
-          <p className="mt-6 text-lg leading-8 text-gray-200">
-            浏览卡牌资料、线上组牌、查看 T 表、投稿内容并分享你的牌组。
-          </p>
+            {/* 电脑沿用完整标题 */}
+            <div className="hidden md:block">
+              <p className="text-sm font-bold tracking-[0.28em] text-red-400">
+                EVERY CARD MATTERS
+              </p>
 
-          <div className="mt-9 flex flex-wrap justify-center gap-4 md:justify-end">
-            <Link
-              href="/cards"
-              className="rounded-lg bg-red-700 px-8 py-4 font-bold transition hover:bg-red-600"
-            >
-              浏览卡牌
-            </Link>
+              <h1 className="mt-4 text-5xl font-black leading-tight">
+                卡零社 CardZero
+              </h1>
 
-            <Link
-              href="/deck-builder"
-              className="rounded-lg border border-red-600 bg-black/40 px-8 py-4 font-bold text-red-400 transition hover:bg-red-700 hover:text-white"
-            >
-              开始组牌
-            </Link>
+              <h2 className="mt-3 text-4xl font-black text-red-500">
+                华语 Union Arena 平台
+              </h2>
+
+              <p className="mt-7 text-base leading-8 text-zinc-200">
+                浏览卡牌资料、线上组牌、查看 T 表、
+                投稿内容并分享你的牌组。
+              </p>
+            </div>
+
+            <div className="grid gap-3 sm:grid-cols-2 md:mt-8">
+              <Link
+                href="/card"
+                className="flex min-h-14 items-center justify-center rounded-xl bg-red-600 px-6 text-base font-black text-white transition hover:bg-red-500"
+              >
+                浏览卡牌
+              </Link>
+
+              <Link
+                href="/deck-builder"
+                className="flex min-h-14 items-center justify-center rounded-xl border-2 border-red-500 bg-black/60 px-6 text-base font-black text-red-400 backdrop-blur transition hover:bg-red-500/10"
+              >
+                开始组牌
+              </Link>
+            </div>
           </div>
         </div>
       </div>
