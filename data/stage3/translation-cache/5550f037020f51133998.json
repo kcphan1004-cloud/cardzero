@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:09:39.922Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5550f037020f51133998",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-096"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "バギー",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、このフィールドの発生エナジー+\n[緑]\n[緑]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "巴吉",
+    "effectZh": "[启动主]\n[将手牌中的 1 张置入场外]\n[回合 1]\n本回合中，该区域的产生能量+\n[绿]\n[绿]\n。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

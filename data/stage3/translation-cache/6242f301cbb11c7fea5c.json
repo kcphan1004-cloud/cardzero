@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:10:25.920Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6242f301cbb11c7fea5c",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-039",
+    "UA15BT/SAO-1-039"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡加入手牌。"
+  }
+}

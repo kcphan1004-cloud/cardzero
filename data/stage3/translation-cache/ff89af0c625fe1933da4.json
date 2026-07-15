@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:01:38.182Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff89af0c625fe1933da4",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-066"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "妖精たちの国",
+    "effect": "自分の山札の上から4枚見る。その中から［特徴：ALO］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "妖精之国",
+    "effectZh": "查看自己山札上方的 4 张卡。从中公开最多 2 枚［特征：ALO］并加入手牌。将剩余部分按任意顺序置于自己的山札下方。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

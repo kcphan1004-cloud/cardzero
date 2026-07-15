@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:09:39.918Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1fd413c7221b195213fd",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-093"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ゼクシード",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泽希德",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本回合中，该角色的产生能量+\n[绿]\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

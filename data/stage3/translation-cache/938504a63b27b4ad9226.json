@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:01:38.179Z",
+  "model": "qwen3.5:9b",
+  "unitId": "938504a63b27b4ad9226",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-062"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "世界樹",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場の特徴に「ALO」を持つキャラを1枚手札に戻す。そうした場合、自分か相手の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "世界树",
+    "effectZh": "将此卡以激活状态登场至场上。\n[启动主阶段]\n[横置时]\n将拥有「ALO」特征的自己场上的角色返回手牌。若如此做，可选择自己或对手场上的最多 1 名角色，本回合中，BP+1000。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

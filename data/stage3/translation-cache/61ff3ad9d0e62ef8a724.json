@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:05:26.492Z",
+  "model": "qwen3.5:9b",
+  "unitId": "61ff3ad9d0e62ef8a724",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-074",
+    "EX08BT/SAO-2-026"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シノン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "希恩诺",
+    "effectZh": "【无效冲击】（与这个角色进行战斗的角色在本场战斗中，失去【冲击】）",
+    "triggerZh": ""
+  }
+}

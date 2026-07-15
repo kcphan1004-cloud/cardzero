@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:08:40.001Z",
+  "model": "qwen3.5:9b",
+  "unitId": "482034c6b0758c5a8649",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-092"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シュピーゲル",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "施佩格尔",
+    "effectZh": "当对方场上存在黄色或蓝色的卡片时，将手牌中此卡的必要能量\n[Green x1] \n减少。",
+    "triggerZh": ""
+  }
+}

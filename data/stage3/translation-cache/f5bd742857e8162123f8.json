@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:05:26.490Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f5bd742857e8162123f8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-073"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シウネー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西内恩",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:55:21.668Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f45e48b55229a0796695",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-050"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アリシャ・ルー",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿里莎·露",
+    "effectZh": "当对方场上存在黄色或绿色的卡时，手札中的此卡的必要能量\n[青×1]\n减少。",
+    "triggerZh": ""
+  }
+}

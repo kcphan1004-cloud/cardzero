@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:05:26.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c34474101c06a9d298f2",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-070"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "自分の場外にある〈ユウキ〉と〈マザーズ・ロザリオ〉の合計枚数により、このキャラは以下の効果を全て得る。\n・4枚以上：\n[自分のターン中]\nこのキャラはBP+500。\n・6枚以上：\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "根据自己场外持有的〈勇气〉与〈母亲圣剑〉的合计数量，该角色获得以下所有效果。\n·4 张以上：\n[自己的回合中]\nBP+500。\n·6 张以上：\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）、triggerZh:",
+    "triggerZh": ""
+  }
+}

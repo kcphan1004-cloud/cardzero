@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:12:47.811Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1a2bcbf2c5158b45c669",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-047",
+    "UA15BT/SAO-1-047"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リズベット",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莉兹贝特",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

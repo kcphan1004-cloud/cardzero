@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:01:38.181Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6858eb8b3860f8218909",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-064"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "空中戦",
+    "effect": "『BP1000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の手札の枚数と、自分の場の［特徴：ALO］の枚数を合計し、1枚につき、『BP+500』される。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "空中战",
+    "effectZh": "选择对方前线 L 的『BP1000』以下的角色 1 名，使其退场。计算自己手牌的张数与自己场上的［特征：ALO］的数量之和，每有 1 个就获得『BP+500』。",
+    "triggerZh": "[Special]\n选择对方的前线 L 的角色 1 名，使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:59:28.650Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e9b1233fde546b8c23c2",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-057"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユージーン",
+    "effect": "[自分のターン中]\n自分の手札が5枚以上の場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "尤金",
+    "effectZh": "[自己的回合]\n如果自己手牌有 5 张以上，这个角色 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并激活之，本回合中，BP+3000。"
+  }
+}

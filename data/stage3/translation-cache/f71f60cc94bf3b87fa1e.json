@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:07:22.682Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f71f60cc94bf3b87fa1e",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-084"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

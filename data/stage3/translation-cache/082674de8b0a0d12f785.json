@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:55:21.669Z",
+  "model": "qwen3.5:9b",
+  "unitId": "082674de8b0a0d12f785",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-051"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[自分のターン中]\n自分の手札が5枚以上の場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "[无效冲击]（与该角色进行战斗的角色在本场战斗中，\n[冲击]\n将失去）\n\n触发：[自己的回合中]\n当自己手札为 5 张以上时，此角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

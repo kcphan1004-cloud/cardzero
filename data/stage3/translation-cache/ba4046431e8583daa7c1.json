@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:59:28.651Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ba4046431e8583daa7c1",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-058"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リーファ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "莉法",
+    "effectZh": "",
+    "triggerZh": "[触发] 将此卡加入手牌。"
+  }
+}

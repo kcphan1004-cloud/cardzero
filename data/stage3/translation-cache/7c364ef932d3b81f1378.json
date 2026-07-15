@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:55:21.672Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c364ef932d3b81f1378",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-053"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[登場時]\n自分の手札から『必要エナジーが1以下』で消費APが1の特徴に「ALO」を持つ青のキャラカードを1枚まで自分のフロントLにレストで登場させる。自分の手札が5枚以上の場合、『必要エナジーが3以下』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "触发：[登场时]\n从自己手札中选择最多 1 枚必要能量为「1 以下」、消耗 AP 为 1、特征带有「ALO」的青色角色卡，以横置状态登场到自己的前线 L。当自己手札为 5 张以上时，将上述条件变更为「必要能量为 3 以下」。",
+    "triggerZh": "[登场时]"
+  }
+}

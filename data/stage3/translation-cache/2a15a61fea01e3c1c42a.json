@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:09:39.919Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a15a61fea01e3c1c42a",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-094"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "銃士X",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "枪手 X",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中，BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其激活，本回合中，BP+3000。"
+  }
+}

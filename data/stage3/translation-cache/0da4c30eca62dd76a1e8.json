@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:07:22.684Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0da4c30eca62dd76a1e8",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-085"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "キリト",
+    "effect": "[アタック時]\nこのキャラのBPが5000以上の場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "[攻击时]\n此角色的 BP 为 5000 以上时，抽牌 1 张。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:05:26.483Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cf1cb975a67956c567ed",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-068"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "",
+    "triggerZh": "[获得] 将此卡加入手牌。"
+  }
+}

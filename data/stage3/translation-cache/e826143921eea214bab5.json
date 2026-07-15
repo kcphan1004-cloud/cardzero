@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:09:39.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e826143921eea214bab5",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-095"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "闇風",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "暗风",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上的其他角色至多 1 张返回手牌。无法返回的情况下，将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

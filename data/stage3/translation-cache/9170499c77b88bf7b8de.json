@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:10:25.917Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9170499c77b88bf7b8de",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-036",
+    "UA15BT/SAO-1-036"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナ",
+    "effect": "[ターン1]\n自分の移動フェイズ以外でこのキャラが移動した時、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚丝娜",
+    "effectZh": "[回合 1]\n除自己的移动阶段外，当此角色移动时，本回合中该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

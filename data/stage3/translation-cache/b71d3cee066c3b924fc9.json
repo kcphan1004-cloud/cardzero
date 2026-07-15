@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:10:25.916Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b71d3cee066c3b924fc9",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-AP01/S",
+    "UA15BT/SAO-1-AP02/S",
+    "EX08BT/SAO-2-AP01/S",
+    "EX08BT/SAO-2-AP02/S",
+    "EX08BT/SAO-2-AP03/S"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

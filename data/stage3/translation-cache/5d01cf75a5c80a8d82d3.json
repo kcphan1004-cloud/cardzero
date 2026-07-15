@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:06:26.544Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5d01cf75a5c80a8d82d3",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-078"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユウキ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "结城明日奈",
+    "effectZh": "[登场时]\n抽一张牌，并将自己的一张手牌置为场外。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

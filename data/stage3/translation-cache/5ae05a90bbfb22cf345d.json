@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:59:28.652Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5ae05a90bbfb22cf345d",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-059"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リーファ",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP3000以下のキャラにブロックされない。」を与える。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "莉法",
+    "effectZh": "[登场时]\n选择自己场上的 1 名角色，直到本回合为止，“该角色不会被 BP3000 以下的角色阻挡。”给予之。",
+    "triggerZh": "[颜色]"
+  }
+}

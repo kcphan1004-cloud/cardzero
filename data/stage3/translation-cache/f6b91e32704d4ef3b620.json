@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:05:26.488Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6b91e32704d4ef3b620",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-072"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "クライン",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克莱因",
+    "effectZh": "【每回合阻挡 2 次】\n（当本角色在本回合首次进行阻挡时，将其激活）",
+    "triggerZh": "【抽牌】\n从牌库上方抽取 1 张牌。"
+  }
+}

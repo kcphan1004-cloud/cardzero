@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T18:59:28.646Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d5bbbc194890e726fceb",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-054"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "サクヤ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "须香子",
+    "effectZh": "",
+    "triggerZh": "[登场时] 抽1张牌。"
+  }
+}

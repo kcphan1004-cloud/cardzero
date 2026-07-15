@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:09:39.924Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a8dfc4fa639df5cc0ea3",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-098"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "バーベキュー",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "烧烤派对",
+    "effectZh": "选择自己的 AP 卡至多 2 张，激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取置 1 张到自己的生命区域。"
+  }
+}

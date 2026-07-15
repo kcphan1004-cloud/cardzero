@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:12:47.812Z",
+  "model": "qwen3.5:9b",
+  "unitId": "628b5834aba04c070724",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-063",
+    "UA15BT/SAO-1-063"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "アスナのサンドイッチ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "艾恩·李的三明治",
+    "effectZh": "选择至多 2 张自己的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

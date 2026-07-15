@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:12:47.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b9e3a548b96157541b89",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15ST/SAO-1-046",
+    "UA15BT/SAO-1-046"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユイ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "结城明日奈 (尤娜)",
+    "effectZh": "[登场时]\n将自身场上除自己以外的其他角色中，必要能量为 1 以下的角色返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

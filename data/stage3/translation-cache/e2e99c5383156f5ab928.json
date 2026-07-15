@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:08:39.998Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e2e99c5383156f5ab928",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-090"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シノン",
+    "effect": "このキャラのBPが4000以上の場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "希恩诺",
+    "effectZh": "当该角色的 BP 为 4000 以上时，该角色\n[Impact（1）]\n（攻击并在战斗中获胜时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": "[Color] \n从自己手牌中登场一张必要能量在 2 以下、消耗 AP 为 1 的绿色角色卡至场上并激活。"
+  }
+}

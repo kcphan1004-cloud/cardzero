@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:08:39.996Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c8917efe2bcef83d3f3d",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-088"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "シノン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "希恩诺",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将这张卡加入手牌。"
+  }
+}

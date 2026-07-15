@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:06:26.542Z",
+  "model": "qwen3.5:9b",
+  "unitId": "70027fe27ed754c32290",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-077"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユイ",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から緑の［特徴：ALO］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "结城明日奈",
+    "effectZh": "[登场时]\n查看自己牌库上方的 3 张。从中最多公开 1 张绿色的［特征：ALO］并加入手札。其余的按任意顺序放回自己牌库下方。若加入了手札，则将自己的一张手牌置为场外。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

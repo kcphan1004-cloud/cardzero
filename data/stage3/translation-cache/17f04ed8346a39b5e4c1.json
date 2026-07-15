@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:06:26.549Z",
+  "model": "qwen3.5:9b",
+  "unitId": "17f04ed8346a39b5e4c1",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-079"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "ユウキ",
+    "effect": "[退場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "结城明日奈",
+    "effectZh": "[退场时]\n选择自己场上的 1 张角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}
