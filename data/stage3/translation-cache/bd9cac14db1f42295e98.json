@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:59:11.258Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bd9cac14db1f42295e98",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-020"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "ビィラック",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場のキャラ全ては、このターン中、『BP+500』。自分の手札の緑のイベントカードを1枚場外に置いてもよい。そうした場合、『BP+1000』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "比拉克",
+    "effectZh": "【启动主阶段】\n【置为横置状态】\n自己场上的所有角色在本回合中，『BP+500』。也可以将手牌中的绿色事件卡 1 张置入场外。若如此做，则变为『BP+1000』。",
+    "triggerZh": "【抽牌】"
+  }
+}

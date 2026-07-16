@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:42:45.526Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6d13df8ac9b86951bb1a",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-042"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "王賁",
+    "effect": "[アタック時]\nAPを1支払ってもよい。そうした場合、このキャラはこのターン中、BP+1000と「このキャラはBP2000以下のキャラにブロックされない。」を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "王贲",
+    "effectZh": "[攻击时]\n支付 1 AP，也可以。如此的话，本角色在本回合中 BP+1000，并获得「本角色不会被 BP2000 以下的角色阻挡」的效果。\n\n[激活]\n选择自己场上的 1 张卡进行激活，并使其在本回合中 BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:43:34.119Z",
+  "model": "qwen3.5:9b",
+  "unitId": "afc0a48bef6e434ab27b",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-015"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ゼブラ",
+    "effect": "[アタック時]\n自分の手札の［特徴：美食四天王］を1枚場外に置いてもよい。そうした場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斑马",
+    "effectZh": "[攻击时]\n可以将手牌中的［特征：美食四天王］最多放置 1 枚至场外。如此做的话，抽 1 张牌。",
+    "triggerZh": "[激活] \n选择自己场上的角色 1 张，将其激活，本回合中 BP+3000"
+  }
+}

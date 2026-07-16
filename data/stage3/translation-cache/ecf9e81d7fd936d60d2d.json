@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:30:27.658Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ecf9e81d7fd936d60d2d",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-077"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "火焔弾",
+    "effect": "『BP2000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ガメラ〉がある場合、『BP5000以下』に代わる。自分のフロントLに［特徴：海］がある場合、自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "火焰弹",
+    "effectZh": "选择对方 BP2000 以下的 1 张前线 L 角色并使其退场。若自己场上有〈加美拉〉，则改为“BP5000 以下”。若自己的前线 L 具有［特征：海］，则查看自己牌库上方的一张卡，将其置于自己牌库上方或场外。",
+    "triggerZh": "【特殊】\n选择对方的前线 L 角色中的 1 枚并使其退场。"
+  }
+}

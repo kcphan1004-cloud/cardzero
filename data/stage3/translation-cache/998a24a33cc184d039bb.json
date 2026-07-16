@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:39.199Z",
+  "model": "qwen3.5:4b",
+  "unitId": "998a24a33cc184d039bb",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-051"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "ヒナオ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "ヒナオ",
+    "effectZh": "[登场时]\n将必要能量为1或以下自己场上的其他角色1张送回手牌。无法送回的情况，将该角色送回手牌。",
+    "triggerZh": ""
+  }
+}

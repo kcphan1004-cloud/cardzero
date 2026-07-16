@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:43.348Z",
+  "model": "qwen3.5:4b",
+  "unitId": "87ca476800e833f06adb",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-104"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "坂田 銀時",
+    "effect": "[登場時]\nBP3000以下の自分の場の他のキャラを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂田 銀時",
+    "effectZh": "[登场时]\n选择己方场上 BP3000 以下的其他角色一张，使其激活状态。",
+    "triggerZh": ""
+  }
+}

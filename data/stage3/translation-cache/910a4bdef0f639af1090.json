@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:01:33.123Z",
+  "model": "qwen3.5:9b",
+  "unitId": "910a4bdef0f639af1090",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-013"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "バイパー",
+    "effect": "[起動メイン]\n[ターン1]\nこのターン中に自分のフロントLのアクティブのこのキャラが自分の効果でレストにされている場合のみ発動できる。BP1000以上の相手のフロントLのキャラ全ては、このターン中、BP-500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蝰蛇",
+    "effectZh": "[启动主效果]\n[第 1 回合]\n仅当本回合中自己前线 L 的激活状态的这张角色因自己的效果被横置时才能发动。对方 BP1000 以上的所有前线 L 的角色，在本回合中 BP-500。",
+    "triggerZh": ""
+  }
+}

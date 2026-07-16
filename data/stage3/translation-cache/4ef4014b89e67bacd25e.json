@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:21.971Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4ef4014b89e67bacd25e",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-039"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "エドワード・エルリック",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "爱德华·艾尔利克",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+[青]。",
+    "triggerZh": ""
+  }
+}

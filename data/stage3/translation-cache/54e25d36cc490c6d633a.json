@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:00:06.641Z",
+  "model": "qwen3.5:4b",
+  "unitId": "54e25d36cc490c6d633a",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-015",
+    "UA51BT/SLG-1-045"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "水篠 旬",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "水筱 旬",
+    "effectZh": "",
+    "triggerZh": "[激活]将此卡加入手牌。"
+  }
+}

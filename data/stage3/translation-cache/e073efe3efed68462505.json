@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:27.228Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e073efe3efed68462505",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-028"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "イグリット",
+    "effect": "このキャラはアクティブで登場させる。\n[登場時]\n自分の手札か場外から〈影の兵士〉を1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "伊格利特",
+    "effectZh": "本角色为激活状态登场。\n[登场时] 从你的手牌或场外选择至多1张，以横置状态置于你的场上。",
+    "triggerZh": "[获得]\n将此卡加入手牌。"
+  }
+}

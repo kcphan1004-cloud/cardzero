@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:17.583Z",
+  "model": "qwen3.5:4b",
+  "unitId": "68fec10eab628bcc5e4f",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-026"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "神原駿河の部屋",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚を場外に置く。\n[退場時]\n自分の場外から〈神原 駿河〉を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "神原骏河的房间",
+    "effectZh": "[启动主侧]<br>将状态变为横置<br>从自己的牌库上方取一张卡置于场外。<br>[离场时]<br>将自己的场外最多选择 1 张〈神原 骏河〉加入手札。",
+    "triggerZh": "[抽]<br>抽取 1 张卡"
+  }
+}

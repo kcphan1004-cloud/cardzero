@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:18:50.926Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d73b84eefc27f667fca3",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-086"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[退場時]\n自分の場外から〈赤霄・抜刀〉か\n[2回ブロック]\nを持つキャラカードを1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "[伤害（2）]\n（该角色以攻击直接造成伤害时，代替造成 2 点伤害）\n[退场时]\n从自己的场外选择一张拥有〈赤霄・拔刀〉或\n[阻挡 2 次] \n的角色卡加入手牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

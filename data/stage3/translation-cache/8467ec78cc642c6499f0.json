@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:43:30.425Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8467ec78cc642c6499f0",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-093"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "西谷 夕",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[退場時]\n自分のエナジーLのキャラを1枚まで選び、フロントLに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西谷夕",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，失去【冲击】）\n【退场时】选择自己的能量线上的 1 张角色卡并移动到前线。",
+    "triggerZh": "抽牌"
+  }
+}

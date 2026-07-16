@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:27:14.909Z",
+  "model": "qwen3.5:9b",
+  "unitId": "55aeaff7fdc95f8e0c2f",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-061"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "加美拉",
+    "effectZh": "[登场时]\n抽 1 张牌，将自己的一张手牌置入场外。",
+    "triggerZh": "[抽卡]抽 1 张牌。"
+  }
+}

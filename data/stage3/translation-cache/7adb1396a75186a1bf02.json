@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:56:16.100Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7adb1396a75186a1bf02",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-037"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "浦飯 幽助",
+    "effect": "[起動メイン]\n[ターン1]\n以下から1つ選ぶ。\n・次の自分のターン開始時まで、このキャラの発生エナジー+\n[緑]\n。\n・このキャラは次の自分のターン開始時まで、「このキャラはフロントLにある場合もエナジーを発生させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "浦饭·藏助",
+    "effectZh": "[启动主] [第 1 回合]\n从以下选择 1 个。\n・直到自己下一回合开始为止，此角色产生的能量+\n[绿]\n。\n・直到自己下一回合开始为止，此角色获得「即使位于前线 L 也会产生能量。」",
+    "triggerZh": ""
+  }
+}

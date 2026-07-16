@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:34:58.403Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60109bf9d8623b7953eb",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-029"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "こんなの！ 絶対おかしいよ！",
+    "effect": "自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、カードを3枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "这绝对不行！太奇怪了！",
+    "effectZh": "将自身前线 L 的激活角色中的 1 张横置。\n如此操作时，抽牌 3 张。\n\n[触发]\n选择自己场上的 1 名角色并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[触发]"
+  }
+}

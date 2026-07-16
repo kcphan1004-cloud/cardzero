@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:07:04.740Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0500cd8002364ba6d7ab",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-078"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "戦場ヶ原 ひたぎ",
+    "effect": "自分の場外にあるカードが9枚以下の場合、自分の場とレイド元のこのカードの必要エナジーを\n[赤×1]\n減らす。\n[登場時]\n自分の山札の上から1枚見る。そのカードを山札の上か場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战场原 姬乃美",
+    "effectZh": "若己方场外卡牌数少于9张，则己方场地与雷域中本卡的必要能量减少\n[红×1]\n。\n[登场时]从己方卡组上方翻开一张牌。将该卡置于卡组上方或场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:35.962Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1b866bcad24a8f845bb6",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-022"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ユーハバッハ",
+    "effect": "[登場時]\n相手は自身の山札の上から1枚を公開する。自分はこの効果で公開されたカードを相手の山札の上か場外に置く。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "虚白",
+    "effectZh": "[登场时]\n对手从自己的牌库上方翻开一张卡。自己将这张被翻开的卡牌置于对手的牌库上方或场外。",
+    "triggerZh": "[颜色]\n选择对手正面线上的角色一员，将其横置。该角色下一次无法激活。"
+  }
+}

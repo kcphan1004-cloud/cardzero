@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:00.698Z",
+  "model": "qwen3.5:4b",
+  "unitId": "62ef07ae81c12e77ec8d",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-107"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "明神 弥彦",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "明神 弥彦",
+    "effectZh": "[衝擊無效]\n（與此角色戰鬥的角色在本場次中失去 [衝擊]）",
+    "triggerZh": ""
+  }
+}

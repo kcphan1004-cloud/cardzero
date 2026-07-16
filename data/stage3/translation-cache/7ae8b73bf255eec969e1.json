@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:47:41.065Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ae8b73bf255eec969e1",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-113"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "牛島 若利",
+    "effect": "[アタック時]\nカードを1枚引く。\nこのキャラがアタックしてブロックされた時、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "牛岛若利",
+    "effectZh": "[攻击时]\n抽1张牌。\n本角色进行攻击并被阻挡时，将手牌的1张卡置为横置状态。",
+    "triggerZh": ""
+  }
+}

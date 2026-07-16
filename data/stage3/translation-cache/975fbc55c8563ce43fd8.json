@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:30.192Z",
+  "model": "qwen3.5:4b",
+  "unitId": "975fbc55c8563ce43fd8",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-034"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 火憐",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿良々木火怜",
+    "effectZh": "当对手场上有黄色或红色的卡时，将手牌中本卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

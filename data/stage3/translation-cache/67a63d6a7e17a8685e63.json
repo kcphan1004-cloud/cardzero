@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:54:24.883Z",
+  "model": "qwen3.5:4b",
+  "unitId": "67a63d6a7e17a8685e63",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-035"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "斎藤 一",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "斎藤 一",
+    "effectZh": "",
+    "triggerZh": "将这张卡加入手札"
+  }
+}

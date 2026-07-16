@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:30.820Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d525d57db245fa19f89e",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/BLK-AP01",
+    "UAPR/BLK-AP01",
+    "UAPR/BLK-AP02"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(ブルーロック)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡（蓝色监狱）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

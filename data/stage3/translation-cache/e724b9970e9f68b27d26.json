@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:31.795Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e724b9970e9f68b27d26",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-002"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "邪見",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "邪见",
+    "effectZh": "无效化冲击,(与本作战的角色在本作战中失去冲击)",
+    "triggerZh": "[抽牌],抽取 1 张卡。"
+  }
+}

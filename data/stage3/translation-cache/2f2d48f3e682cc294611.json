@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:29:22.647Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f2d48f3e682cc294611",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-070"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "[登場時]\n自分のフロントLに［特徴：子供］がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加美拉",
+    "effectZh": "[登场时]\n若自己的前线 L 有［特征：孩子］，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

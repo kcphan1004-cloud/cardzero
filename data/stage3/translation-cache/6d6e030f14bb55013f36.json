@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:47:26.049Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6d6e030f14bb55013f36",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-110"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "媧燐",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[黄×2]\n減らす。\n[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "媧燐",
+    "effectZh": "若己方场上没有卡片，则把手牌中的此卡所需能量 [黄×2] 减少。\n[己方回合中]\n本角色 BP+1000。",
+    "triggerZh": "抽一张"
+  }
+}

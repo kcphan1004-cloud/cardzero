@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:50:08.272Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ee3ccd6e3e1235ec17d6",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-085"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーファイズ アクセルフォーム",
+    "effect": "このキャラはレイド以外で登場できない。\n[レイド]\nカード名に「ファイズ」を含むキャラアクティブにし、フロントLに移動できる\n自分のアタックフェイズ終了時、レイド状態のこのキャラの一番上のカードを場外に置く。\n[アタック時]\n[ターン1]\nこのキャラをアクティブにし、カードを2枚引く。その後、自分の手札の［特徴：ファイズギア］を1枚場外に置いてもよい。そうした場合、BP1500以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Faiz Accelerator Form",
+    "effectZh": "[object Object],[object Object]",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

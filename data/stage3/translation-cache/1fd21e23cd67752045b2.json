@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:28.277Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1fd21e23cd67752045b2",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-012"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "柏崎 念至",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "柏崎 念至",
+    "effectZh": "当对手场上有紫色或红色的卡片存在时，减少手牌中此卡的\n[青×1]\n必要能量。",
+    "triggerZh": ""
+  }
+}

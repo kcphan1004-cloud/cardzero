@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:46:44.800Z",
+  "model": "qwen3.5:9b",
+  "unitId": "805b2118c8f6ed49272f",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-072"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "暁美 ほむら",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "晓美焰",
+    "effectZh": "",
+    "triggerZh": "[登场时] 将此卡加入手牌。"
+  }
+}

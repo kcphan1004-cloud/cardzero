@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:53:28.276Z",
+  "model": "qwen3.5:9b",
+  "unitId": "df997b10c30219e4ec92",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-073"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "バリーガモン",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "巴利加蒙",
+    "effectZh": "对方场上有黄或蓝的卡时，将手牌中这张卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

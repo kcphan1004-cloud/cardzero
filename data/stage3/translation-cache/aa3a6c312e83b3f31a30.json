@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:06.546Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aa3a6c312e83b3f31a30",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-062"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "ビーム",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場の〈デンジ〉を1枚まで選び、このターン中、「\n[アタック時]\nカードを1枚まで引く。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "光束",
+    "effectZh": "[启动主]\n[变为横置状态]\n[使此卡离场] 选择自己的场上角色一张，本回合给予「\n[攻击时] 最多抽一张牌」。",
+    "triggerZh": ""
+  }
+}

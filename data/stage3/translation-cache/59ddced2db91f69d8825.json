@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:32:06.463Z",
+  "model": "qwen3.5:4b",
+  "unitId": "59ddced2db91f69d8825",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/JJK-1-009"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "五条 悟",
+    "effect": "相手の場に青か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "五条 悟",
+    "effectZh": "若对手场地有青色或紫色卡片，可将手札中此卡所需的能量 [黄×1]减少。",
+    "triggerZh": ""
+  }
+}

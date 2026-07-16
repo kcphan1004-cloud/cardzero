@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:56:26.145Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a090869b4277300aadf",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-003"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "アラミース",
+    "effect": "[登場時]\n自分の場に〈ビィラック〉がある場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿拉米斯",
+    "effectZh": "【登场时】\n若己方场上有〈比拉克〉，则激活此角色。",
+    "triggerZh": ""
+  }
+}

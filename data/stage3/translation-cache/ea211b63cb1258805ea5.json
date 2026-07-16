@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:44:35.377Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ea211b63cb1258805ea5",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-059"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ライナー・ブラウン",
+    "effect": "自分の発生エナジーが6以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莱纳·布朗",
+    "effectZh": "若自己的发生能量为 6 以上，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

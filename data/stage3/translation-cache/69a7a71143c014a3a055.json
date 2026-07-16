@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:53:28.280Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69a7a71143c014a3a055",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-076"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "サニー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑尼",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

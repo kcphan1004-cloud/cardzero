@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:47:53.691Z",
+  "model": "qwen3.5:4b",
+  "unitId": "636f883522747daddd74",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-068"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ナツキ・スバル",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "ナツキ・スバル",
+    "effectZh": "",
+    "triggerZh": "[激活]\n从己方场上的角色中选择一张并使其进入激活状态，于本回合内BP+3000。"
+  }
+}

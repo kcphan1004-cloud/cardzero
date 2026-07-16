@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:00.143Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c73c754ed3b875d5fb4b",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-095"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "整備のお礼",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "整备的谢礼",
+    "effectZh": "选择至多2张自己的AP卡，使其处于激活状态。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置1张到自己的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:22:41.104Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ee6f04fcf0019ffc108",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-035"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "アニメ上映会",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "动画上映会",
+    "effectZh": "选择至多2张自己的AP卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从牌库上方将1张牌置于自己的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:47:35.085Z",
+  "model": "qwen3.5:9b",
+  "unitId": "662e121f60b3387b314e",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-086"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将这张卡加入手牌。"
+  }
+}

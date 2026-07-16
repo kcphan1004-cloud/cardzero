@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:45.342Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fde8893243ecc1174ab3",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-007"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "エシル",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "埃希尔",
+    "effectZh": "[离场时]\n抽一张牌。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

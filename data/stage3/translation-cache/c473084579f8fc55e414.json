@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:31.640Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c473084579f8fc55e414",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-061"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "悠久山 安慈",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "悠久山 安慈",
+    "effectZh": "[无效冲击]\n（本回合与本角色战斗的角色，\n失去 [冲击]）",
+    "triggerZh": "[激活]\n选择己方场上的一个角色进行激活，本回合 BP+3000。"
+  }
+}

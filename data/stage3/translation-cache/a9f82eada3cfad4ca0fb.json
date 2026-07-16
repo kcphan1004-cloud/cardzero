@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:39:48.481Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a9f82eada3cfad4ca0fb",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-017"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "クラッシュマン",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克拉什曼",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌。"
+  }
+}

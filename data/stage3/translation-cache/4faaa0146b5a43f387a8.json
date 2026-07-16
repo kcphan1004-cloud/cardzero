@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:07:26.746Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4faaa0146b5a43f387a8",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-095"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "シマネキ草",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。自分の場に〈蔵馬〉がある場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "牵牛草",
+    "effectZh": "选择对方前线 L 的 1 名角色，使其进入横置状态。若我方场上有〈藏马〉，则抽 1 张牌。",
+    "triggerZh": "[激活]\n选择我方场上的 1 名角色，将其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:22.382Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0a090eda75f052dcfa34",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-077"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "我は姉なり",
+    "effect": "自分の場に〈和倉 青羽〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "我乃姐姐",
+    "effectZh": "若己方场上持有〈和仓青羽〉，则手札中的本卡消耗 AP-1。\n选择对手场上 BP 值在 5000 以下的 Front L 角色 1 张，使其退场。",
+    "triggerZh": "[特殊]\n选择对手的 Front L 角色 1 张，使其退场。"
+  }
+}

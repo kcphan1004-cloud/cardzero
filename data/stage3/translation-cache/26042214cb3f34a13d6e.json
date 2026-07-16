@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:25.915Z",
+  "model": "qwen3.5:4b",
+  "unitId": "26042214cb3f34a13d6e",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-073"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "生き方を選べるということだ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "生き方を選べるということだ",
+    "effectZh": "选择最多 2 张自己的 AP 卡片并激活它们。",
+    "triggerZh": "[最终]若自己生命值为空，从自己牌库上方翻开 1 张并将其放置于自己的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:47:10.416Z",
+  "model": "qwen3.5:9b",
+  "unitId": "27a3cd4613556850e0f8",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-070"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽香里",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "花园 羽香里",
+    "effectZh": "【启动主阶段】\n【位于前线 L 区域时】\n【将一张手牌置入场外】\n【第 1 回合】\n该角色本回合内 BP+1000。",
+    "triggerZh": "【抽牌】\n抽一张卡。"
+  }
+}

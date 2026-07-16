@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:45:33.015Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9c9689acb1c0fc715350",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-066"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "目指すは完全試合だ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場にカード名に「ジーク・イェーガー」を含むキャラがある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "目标是完全比赛吧",
+    "effectZh": "选择对方「BP3000 以下」的前线 L 角色卡 1 枚，使其退场。若自己场上有包含“吉克·耶格尔”字样的角色卡，则改为「BP5000 以下」。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色卡 1 枚，使其退场。"
+  }
+}

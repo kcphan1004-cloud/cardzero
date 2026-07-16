@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:37.491Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6e1dc5dc20df85f12cd2",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/KMR-AP01"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(仮面ライダー)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡（假面骑士）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

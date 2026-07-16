@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:25.203Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8bf31adf1d64589c9774",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-052",
+    "UA10BT/MHA-1-052"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "轟 焦凍",
+    "effect": "[アタック時]\nBP1000以上の相手の場のキャラを1枚まで選び、このターン中、BP-500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "轟 焦凍",
+    "effectZh": "[攻击时]选择对手场上 BP 为 1000 以上的角色最多 1 张，本回合中该角色的 BP-500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:16:13.021Z",
+  "model": "qwen3.5:4b",
+  "unitId": "310a7d1fd49e50432e63",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-026"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "私の歌を聴けー！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "听我的歌吧！",
+    "effectZh": "选择自己场上的AP卡最多2张，变为激活状态。",
+    "triggerZh": "[最终]\n若自己的生命值为0，从自己的牌库上方抽1张置于自己的生命区。"
+  }
+}

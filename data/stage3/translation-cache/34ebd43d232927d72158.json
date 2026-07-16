@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:01:50.354Z",
+  "model": "qwen3.5:9b",
+  "unitId": "34ebd43d232927d72158",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-009"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "クフフ",
+    "effect": "[相手のターン中]\n[フロントLにある場合]\n[ターン1]\n自分のライフエリアから\n[ドロートリガー]\nを持つカードが場外に置かれた時、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "库夫胡夫",
+    "effectZh": "[对方回合中]\n[位于前线L时]\n[第 1 回合]\n从自己的生命区域\n放置带有 [抽取触发器] 的卡片到场外时，可以抽 1 张牌。如此做的话，将手札中的 1 张卡放到场外。",
+    "triggerZh": ""
+  }
+}

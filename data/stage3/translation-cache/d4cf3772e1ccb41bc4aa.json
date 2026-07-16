@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:14.369Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d4cf3772e1ccb41bc4aa",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-055"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "クリストフ・シザーマン",
+    "effect": "[自分のターン中]\nこのターン中に自分の場のキャラが退場している場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "克里斯托夫·齐泽曼",
+    "effectZh": "[自己的回合中]\n若本回合中有自己场上的角色离场，则本角色获得BP+1000的效果。",
+    "triggerZh": "[激活]\n选择自己场上的一张卡并使其激活，在本回合中获得BP+3000的效果。"
+  }
+}

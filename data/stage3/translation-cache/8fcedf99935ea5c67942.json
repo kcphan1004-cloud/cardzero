@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:47:54.865Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8fcedf99935ea5c67942",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-038"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "愚衛門",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "愚卫门",
+    "effectZh": "【每回合限制 2 次】\n（当该角色在本回合首次阻挡时，将其激活）",
+    "triggerZh": "【激活】\n选择自己场上的任意一张角色卡并将其激活。本回合中，BP+3000。"
+  }
+}

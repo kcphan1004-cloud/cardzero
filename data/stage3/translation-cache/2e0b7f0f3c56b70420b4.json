@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:38.542Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2e0b7f0f3c56b70420b4",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-067"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "マジ殴り",
+    "effect": "自分の場に〈サイタマ〉がない場合、このカードは使用できない。\n自分の場外にあるカード5枚につき、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。\n相手のフロントLのキャラとエナジーLのキャラをそれぞれ1枚まで選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "全力殴打",
+    "effectZh": "如果你的场上没有〈赛塔马〉，本卡不能使用。\n对于你场外的每张卡片（最多五张），减少你的手牌中这张卡的必要能量+[绿色×1]。选择对手Front L角色和Energy L角色各一张，使其离场。",
+    "triggerZh": ""
+  }
+}

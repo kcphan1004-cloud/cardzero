@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:16:44.531Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1d174129007ae5334633",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-040"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "赤木 リツコ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赤木 里佐子",
+    "effectZh": "[登场时]\n将自己场上其他角色中能量需求为1以下的最多1张返回手札。无法返还时，将此卡返回手札",
+    "triggerZh": ""
+  }
+}

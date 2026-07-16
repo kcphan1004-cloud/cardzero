@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:39.923Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6790f9f0417803e5b7c2",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-069",
+    "UA44BT/EVA-1-069"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "綾波 レイ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绫波レイ",
+    "effectZh": "[启动主]\n[置横]\n[回合 1]\n该角色本回合发生能量 + [Red]，并获得「主阶段结束时将该角色退场」。",
+    "triggerZh": ""
+  }
+}

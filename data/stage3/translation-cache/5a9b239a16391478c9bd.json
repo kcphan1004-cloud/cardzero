@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:53:55.183Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a9b239a16391478c9bd",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-007"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "紫雲 清夏",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "紫云清夏",
+    "effectZh": "[阻挡 2 次]\n（当此角色在本回合首次阻挡时激活）",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

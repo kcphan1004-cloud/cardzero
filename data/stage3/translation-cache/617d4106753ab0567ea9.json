@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:08:13.531Z",
+  "model": "qwen3.5:9b",
+  "unitId": "617d4106753ab0567ea9",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-044"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "小石川 惟子",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "小石川惟子",
+    "effectZh": "[登场时]\n选择我方场上的其他角色至多 1 张，本回合中其 BP+1000。",
+    "triggerZh": "[激活]\n选择我方场上一名角色并使其激活，本回合中其 BP+3000。"
+  }
+}

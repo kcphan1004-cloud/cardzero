@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:21.421Z",
+  "model": "qwen3.5:4b",
+  "unitId": "abd6a52e76e4e53d8601",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-023"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "六月 透",
+    "effect": "自分の場に［特徴：真戸班］が4枚以上ある場合、このキャラはBP+500。\n[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "六月透",
+    "effectZh": "若自己场上有［特征：真户班］4张或以上，该角色BP+500。\n[启动主手]\n[若位于前线L时]\n[支付1 AP]\n[第1回合]\n抽1张牌。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:25:17.614Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6f0961c70f03b8e15e0b",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-012"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "六平 千鉱",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "六平 千矿",
+    "effectZh": "",
+    "triggerZh": "[激活] \n将这张卡加入手牌。"
+  }
+}

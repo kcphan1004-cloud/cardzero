@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:43.632Z",
+  "model": "qwen3.5:4b",
+  "unitId": "78ca8074e6d8d6182436",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/OPM-1-074"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ガロウ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加洛（Galo）",
+    "effectZh": "[自己的回合中]\n此角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

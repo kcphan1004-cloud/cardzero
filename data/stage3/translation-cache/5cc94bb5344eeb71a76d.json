@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:07:26.750Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5cc94bb5344eeb71a76d",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-100"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "薔薇棘鞭刃",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の他の手札が3枚以下の場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "蔷薇棘鞭刃",
+    "effectZh": "选择对方前线 L 的『BP3000以下』的 1 名角色，使其退场。若我方其他手札为 3 张或更少，则改为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 名角色，使其退场。"
+  }
+}

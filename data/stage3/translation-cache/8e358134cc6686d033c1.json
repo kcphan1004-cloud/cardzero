@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:22.674Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8e358134cc6686d033c1",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-066"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "勢羽 夏生",
+    "effect": "[登場時]\n自分の場の［特徴：LABO］を1枚まで選び、このターン中、BP+1000。\n[アタック時]\n自分の場の［特徴：LABO］全ては、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "勢羽 夏生",
+    "effectZh": "[激活状态]\n选择自己场上的［特征：LABO］最多1张，本回合中，BP+1000。\n[攻击时]\n自己场上的所有［特征：LABO］，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:34:16.887Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c2ffca04bb77060e2e6e",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KJN-1-052"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アルファ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔法",
+    "effectZh": "[登场时]\n抽一张牌，将你的手牌中的一张置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

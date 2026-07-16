@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:30.821Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3db7f93e332c930e4e27",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-011"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "結城 美柑",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "结城 美柑",
+    "effectZh": "",
+    "triggerZh": "[登场时]\n将这张卡加入手牌。"
+  }
+}

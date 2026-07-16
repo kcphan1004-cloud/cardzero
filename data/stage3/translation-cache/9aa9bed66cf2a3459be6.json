@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:45.388Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9aa9bed66cf2a3459be6",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-022"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ランファン",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：シン国］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "兰芳",
+    "effectZh": "[登场时] 从自己的山札上方翻开四张，从中公开至多一张［特征：辛国］并加入手牌。其余的按任意顺序置于自己山札下方。若将卡加入手牌，则将自己的一张牌置出场外。",
+    "triggerZh": "[抽牌] 抽一张牌"
+  }
+}

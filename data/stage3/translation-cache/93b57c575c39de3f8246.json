@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:26:45.338Z",
+  "model": "qwen3.5:9b",
+  "unitId": "93b57c575c39de3f8246",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-019"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "灰羽 リエーフ",
+    "effect": "自分の場の他のカードに、「高校」を含む異なる特徴が3種類以上ある場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "灰羽列鲁芙",
+    "effectZh": "自己场上的其他卡片具有包含“高校”在内的 3 种以上不同特征时，该角色的产生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

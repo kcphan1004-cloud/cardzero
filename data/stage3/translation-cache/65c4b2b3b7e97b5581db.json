@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:50:04.637Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65c4b2b3b7e97b5581db",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-070",
+    "UA31BT/MMM-1-070"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "志筑 仁美",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "志筑仁美",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本角色在本回合中，发生能量+\n[赤]\n并获得「主阶段结束时，使本角色退场。」。",
+    "triggerZh": ""
+  }
+}

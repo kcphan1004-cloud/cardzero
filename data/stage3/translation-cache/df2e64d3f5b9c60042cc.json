@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:51.550Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df2e64d3f5b9c60042cc",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-041"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "有村 麻央",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有村 麻央",
+    "effectZh": "[无效冲击]\n（本角色与对手进行战斗时，\n该战斗中\n对方失去\n【冲击】）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:10:28.646Z",
+  "model": "qwen3.5:9b",
+  "unitId": "74f1f0f2e8dab6ecb9af",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-045",
+    "UA21BT/YYH-1-045"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "幻海",
+    "effect": "[登場時]\nカードを1枚引き、自分の場外から『必要エナジーが3以下』で消費APが1の緑のキャラカードを1枚まで手札に加える。自分の場にBP4000以上の〈幻海〉がある場合、『必要エナジーが4以下』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "幻海",
+    "effectZh": "【登场时】\n抽 1 张牌，从自己的场外将最多选择 1 张“必要能量为 3 以下”且消耗 AP 为 1 的绿色角色卡加入手牌。如果自己的场上有 BP4000 以上的〈幻海〉，“必要能量为 3 以下”改为“必要能量为 4 以下”。",
+    "triggerZh": "【抽】\n抽 1 张牌。"
+  }
+}

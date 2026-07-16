@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:38:00.962Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f2a3d3d61e40898556e4",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-046"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "暁美 ほむら",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "晓美焰",
+    "effectZh": "若该角色处于激活状态，则该角色的发生能量+\n[紫]。",
+    "triggerZh": ""
+  }
+}

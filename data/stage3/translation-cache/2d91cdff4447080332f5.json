@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:06.540Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2d91cdff4447080332f5",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-057"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "パワー",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "力量",
+    "effectZh": "[登场时] 查看自己牌库上方的两张卡片，将一张置于场外，其余按任意顺序放回牌库上方。",
+    "triggerZh": "[激活]\n选择自己的场上角色一张并使其进入激活状态，本回合 BP+3000"
+  }
+}

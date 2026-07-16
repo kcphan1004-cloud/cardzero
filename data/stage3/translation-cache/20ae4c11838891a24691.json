@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:47.464Z",
+  "model": "qwen3.5:9b",
+  "unitId": "20ae4c11838891a24691",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-AP01/S",
+    "UA33BT/NGR-1-AP02/S",
+    "UA33BT/NGR-1-AP03/S",
+    "UA33BT/NGR-1-AP04/S"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

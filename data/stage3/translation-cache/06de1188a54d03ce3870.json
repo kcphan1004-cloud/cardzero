@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:07.895Z",
+  "model": "qwen3.5:4b",
+  "unitId": "06de1188a54d03ce3870",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-080"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ボロス",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "波罗斯",
+    "effectZh": "[登场时]抽取一张卡片，将自己的手牌一张放置到场外。",
+    "triggerZh": "[激活]选择自己场上的角色一张，将其激活，本回合中 BP+3000。"
+  }
+}

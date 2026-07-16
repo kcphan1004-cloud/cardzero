@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:44.620Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bc097e74270dca96a4e8",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-078"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "ボウフウリンが粛清する！！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "博福林进行肃清！！",
+    "effectZh": "选择自己 AP 卡最多两张并使其处于激活状态。",
+    "triggerZh": "[最终]\n若自己的生命值为零，则从己方卡组上方将一张置于己方生命区域中。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:45.776Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8f54cfe03a828bf3a926",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-014",
+    "UA31BT/MMM-1-053"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

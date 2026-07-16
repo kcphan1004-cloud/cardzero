@@ -1,0 +1,1965 @@
+{
+  "generatedAt": "2026-07-16T19:12:24.809Z",
+  "mode": "audit",
+  "generatedFiles": 58,
+  "totalCardRecords": 10525,
+  "uniqueCardNumbers": 8208,
+  "officialHtmlFilesScanned": 20,
+  "officialCardNumbersParsed": 8047,
+  "matchedCardRecords": 10362,
+  "changedCardRecords": 139,
+  "changedFiles": 1,
+  "missingOfficialCardNumbers": 161,
+  "missingNumbers": [
+    "CARD-0144",
+    "CARD-0145",
+    "EX01BT/HTR-1-030",
+    "EX04BT/JJK-1-040",
+    "EX04BT/JJK-3-AP01/S",
+    "EX05BT/KMY-1-017",
+    "EX05BT/KMY-1-022",
+    "EX05BT/KMY-1-026",
+    "EX05BT/KMY-3-AP01/S",
+    "EX06BT/MHA-2-AP01/S/P1",
+    "EX06BT/MHA-2-AP02/S/P1",
+    "EX06BT/MHA-2-AP03/S/P1",
+    "EX07BT/BLC-2-AP01/S",
+    "EX08BT/SAO-2-AP01/S",
+    "EX08BT/SAO-2-AP02/S",
+    "EX08BT/SAO-2-AP03/S",
+    "EX09BT/TSK-2-AP01/S",
+    "UA15BT/SAO-1-AP01/S",
+    "UA15BT/SAO-1-AP02/S",
+    "UA16BT/SYN-1-AP01/S",
+    "UA17BT/TRK-1-AP05/S",
+    "UA18BT/NIK-1-AP06/S",
+    "UA20BT/BCV-1-AP01/S",
+    "UA20BT/BCV-1-AP02/S",
+    "UA22BT/GMR-1-AP01/S",
+    "UA22BT/GMR-1-AP02/S",
+    "UA23BT/AOT-1-AP01/S",
+    "UA23BT/AOT-1-AP02/S",
+    "UA24BT/SHY-1-AP01/S",
+    "UA25BT/AND-1-AP01/S",
+    "UA25BT/AND-1-AP02/S",
+    "UA26BT/RLY-1-AP01/S",
+    "UA26BT/RLY-1-AP02/S",
+    "UA26BT/RLY-1-AP03/S",
+    "UA26BT/RLY-1-AP04/S",
+    "UA26BT/RLY-1-AP05/S",
+    "UA26BT/RLY-1-AP06/S",
+    "UA27BT/GIM-1-AP01/S",
+    "UA27BT/GIM-1-AP02/S",
+    "UA27BT/GIM-1-AP03/S",
+    "UA27BT/GIM-1-AP04/S",
+    "UA27BT/GIM-1-AP05/S",
+    "UA27BT/GIM-1-AP06/S",
+    "UA27BT/GIM-1-AP07/S",
+    "UA27BT/GIM-1-AP08/S",
+    "UA27BT/GIM-1-AP09/S",
+    "UA27BT/GIM-1-AP10/S",
+    "UA27BT/GIM-1-AP11/S",
+    "UA27BT/GIM-1-AP12/S",
+    "UA28BT/KJ8-1-AP01/S",
+    "UA28BT/KJ8-1-AP03/S",
+    "UA29BT/KMR-1-AP01/S",
+    "UA30BT/ARK-1-AP01/S",
+    "UA31BT/MMM-1-AP01/S",
+    "UA31BT/MMM-1-AP02/S",
+    "UA32BT/SNF-1-AP01/S",
+    "UA32BT/SNF-1-AP02/S",
+    "UA33BT/NGR-1-AP01/S",
+    "UA33BT/NGR-1-AP02/S",
+    "UA33BT/NGR-1-AP03/S",
+    "UA33BT/NGR-1-AP04/S",
+    "UA54BT-MST-1-001-エリス",
+    "UA54BT-MST-1-002-エリス",
+    "UA54BT-MST-1-003-エリス",
+    "UA54BT-MST-1-004-エリス",
+    "UA54BT-MST-1-005-エリス",
+    "UA54BT-MST-1-006-エリス",
+    "UA54BT-MST-1-007-エリス",
+    "UA54BT-MST-1-008-エリス",
+    "UA54BT-MST-1-009-エリス",
+    "UA54BT-MST-1-010-キシリカ・キシリス",
+    "UA54BT-MST-1-011-ギレーヌ",
+    "UA54BT-MST-1-012-シルフィエット",
+    "UA54BT-MST-1-013-シルフィエット",
+    "UA54BT-MST-1-014-シルフィエット",
+    "UA54BT-MST-1-015-聖獣",
+    "UA54BT-MST-1-016-ゼニス",
+    "UA54BT-MST-1-017-ノルン＆アイシャ",
+    "UA54BT-MST-1-018-パウロ",
+    "UA54BT-MST-1-019-リーリャ",
+    "UA54BT-MST-1-020-ルイジェルド",
+    "UA54BT-MST-1-021-ルイジェルド",
+    "UA54BT-MST-1-022-ルーデウス",
+    "UA54BT-MST-1-023-ルーデウス",
+    "UA54BT-MST-1-024-ルーデウス",
+    "UA54BT-MST-1-025-ルーデウス",
+    "UA54BT-MST-1-026-ルーデウス",
+    "UA54BT-MST-1-027-ロキシー",
+    "UA54BT-MST-1-028-ロキシー",
+    "UA54BT-MST-1-029-ロキシー",
+    "UA54BT-MST-1-030-ロキシー",
+    "UA54BT-MST-1-031-ロキシー",
+    "UA54BT-MST-1-032-ロキシー",
+    "UA54BT-MST-1-033-デッドエンド",
+    "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "UA54BT-MST-1-035-お前は戦士だ",
+    "UA54BT-MST-1-036-豪雷積層雲",
+    "UA54BT-MST-1-037-ご神体",
+    "UA54BT-MST-1-038-師匠からのおくりもの",
+    "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+    "UA54BT-MST-1-040-私がついていますから",
+    "UA54BT-MST-1-041-アイシャ",
+    "UA54BT-MST-1-042-エリナリーゼ",
+    "UA54BT-MST-1-043-ギース",
+    "UA54BT-MST-1-044-サラ",
+    "UA54BT-MST-1-045-ゼニス",
+    "UA54BT-MST-1-046-タルハンド",
+    "UA54BT-MST-1-047-パウロ",
+    "UA54BT-MST-1-048-パウロ",
+    "UA54BT-MST-1-049-ルーデウス",
+    "UA54BT-MST-1-050-ロキシー",
+    "UA54BT-MST-1-051-ロキシー",
+    "UA54BT-MST-1-052-ロキシー",
+    "UA54BT-MST-1-053-ロキシー",
+    "UA54BT-MST-1-054-ロキシー",
+    "UA54BT-MST-1-055-アリエル",
+    "UA54BT-MST-1-056-エリナリーゼ",
+    "UA54BT-MST-1-057-クリフ",
+    "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+    "UA54BT-MST-1-059-シルフィエット",
+    "UA54BT-MST-1-060-シルフィエット",
+    "UA54BT-MST-1-061-ナナホシ",
+    "UA54BT-MST-1-062-ナナホシ",
+    "UA54BT-MST-1-063-ノルン",
+    "UA54BT-MST-1-064-バーディガーディ",
+    "UA54BT-MST-1-065-フィッツ",
+    "UA54BT-MST-1-066-フィッツ",
+    "UA54BT-MST-1-067-フィッツ",
+    "UA54BT-MST-1-068-フィッツ",
+    "UA54BT-MST-1-069-プルセナ",
+    "UA54BT-MST-1-070-リニアーナ",
+    "UA54BT-MST-1-071-ルーデウス",
+    "UA54BT-MST-1-072-ルーデウス",
+    "UA54BT-MST-1-073-ルーデウス",
+    "UA54BT-MST-1-074-転移の迷宮",
+    "UA54BT-MST-1-075-迷宮都市ラパン",
+    "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+    "UA54BT-MST-1-077-今までありがとう",
+    "UA54BT-MST-1-078-守護術師フィッツ",
+    "UA54BT-MST-1-079-ゼニス救出作戦",
+    "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+    "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UAPR-MST-1-030-ロキシー",
+    "UAPR-MST-1-055-アリエル",
+    "UAPR/IMS/AP04",
+    "UAPR/IMS/AP05",
+    "UAPR/IMS/AP06",
+    "UAPR/IMS/AP07",
+    "UAPR/IMS/AP08",
+    "カードリスト"
+  ],
+  "conflicts": [],
+  "parseWarnings": [],
+  "fetchResult": {
+    "attempted": 8188,
+    "fetched": 8027,
+    "failed": [
+      {
+        "number": "UA26BT/RLY-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA26BT/RLY-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA26BT/RLY-1-AP03/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP03%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA26BT/RLY-1-AP04/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP04%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA26BT/RLY-1-AP05/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP05%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA26BT/RLY-1-AP06/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA26BT%2FRLY-1-AP06%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA33BT/NGR-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA33BT/NGR-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA33BT/NGR-1-AP03/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP03%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA33BT/NGR-1-AP04/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA33BT%2FNGR-1-AP04%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA30BT/ARK-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA30BT%2FARK-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA23BT/AOT-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA23BT/AOT-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA23BT%2FAOT-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA20BT/BCV-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA20BT/BCV-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA20BT%2FBCV-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX07BT/BLC-2-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX07BT%2FBLC-2-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX05BT/KMY-1-017",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-1-017",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX05BT/KMY-1-022",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-1-022",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX05BT/KMY-1-026",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-1-026",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX05BT/KMY-3-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX05BT%2FKMY-3-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP03/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP03%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP04/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP04%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP05/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP05%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP06/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP06%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP07/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP07%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP08/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP08%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP09/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP09%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP10/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP10%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP11/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP11%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA27BT/GIM-1-AP12/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA27BT%2FGIM-1-AP12%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA22BT/GMR-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA22BT/GMR-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA22BT%2FGMR-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX01BT/HTR-1-030",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX01BT%2FHTR-1-030",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX04BT/JJK-1-040",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-1-040",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX04BT/JJK-3-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX04BT%2FJJK-3-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA28BT/KJ8-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA28BT/KJ8-1-AP03/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA28BT%2FKJ8-1-AP03%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA29BT/KMR-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA29BT%2FKMR-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA31BT/MMM-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA31BT/MMM-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA31BT%2FMMM-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "CARD-0144",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=CARD-0144",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "CARD-0145",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=CARD-0145",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-001-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-001-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-002-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-002-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-003-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-003-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-004-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-004-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-005-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-005-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-006-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-006-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-007-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-007-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-008-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-008-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-009-エリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-009-%E3%82%A8%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-010-キシリカ・キシリス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-010-%E3%82%AD%E3%82%B7%E3%83%AA%E3%82%AB%E3%83%BB%E3%82%AD%E3%82%B7%E3%83%AA%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-011-ギレーヌ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-011-%E3%82%AE%E3%83%AC%E3%83%BC%E3%83%8C",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-012-シルフィエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-012-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-013-シルフィエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-013-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-014-シルフィエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-014-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-015-聖獣",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-015-%E8%81%96%E7%8D%A3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-016-ゼニス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-016-%E3%82%BC%E3%83%8B%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-017-ノルン＆アイシャ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-017-%E3%83%8E%E3%83%AB%E3%83%B3%EF%BC%86%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-018-パウロ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-018-%E3%83%91%E3%82%A6%E3%83%AD",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-019-リーリャ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-019-%E3%83%AA%E3%83%BC%E3%83%AA%E3%83%A3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-020-ルイジェルド",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-020-%E3%83%AB%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%89",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-021-ルイジェルド",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-021-%E3%83%AB%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%89",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-022-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-022-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-023-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-023-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-024-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-024-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-025-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-025-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-026-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-026-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-027-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-027-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-028-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-028-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-029-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-029-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-030-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-030-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-031-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-031-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-032-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-032-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-033-デッドエンド",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-033-%E3%83%87%E3%83%83%E3%83%89%E3%82%A8%E3%83%B3%E3%83%89",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-034-%E3%82%A8%E3%83%AA%E3%82%B9%E3%81%AB%E9%AD%94%E8%A1%93%E3%82%92%E6%95%99%E3%81%88%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%83%8B%E3%83%A3%E3%83%B3%E2%98%86",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-035-お前は戦士だ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-035-%E3%81%8A%E5%89%8D%E3%81%AF%E6%88%A6%E5%A3%AB%E3%81%A0",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-036-豪雷積層雲",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-036-%E8%B1%AA%E9%9B%B7%E7%A9%8D%E5%B1%A4%E9%9B%B2",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-037-ご神体",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-037-%E3%81%94%E7%A5%9E%E4%BD%93",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-038-師匠からのおくりもの",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-038-%E5%B8%AB%E5%8C%A0%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E3%81%8F%E3%82%8A%E3%82%82%E3%81%AE",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-039-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9%E3%81%AF%E3%81%99%E3%81%94%E3%81%84%E3%81%AE%E3%82%88%EF%BC%81",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-040-私がついていますから",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-040-%E7%A7%81%E3%81%8C%E3%81%A4%E3%81%84%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B%E3%82%89",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-041-アイシャ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-041-%E3%82%A2%E3%82%A4%E3%82%B7%E3%83%A3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-042-エリナリーゼ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-042-%E3%82%A8%E3%83%AA%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-043-ギース",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-043-%E3%82%AE%E3%83%BC%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-044-サラ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-044-%E3%82%B5%E3%83%A9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-045-ゼニス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-045-%E3%82%BC%E3%83%8B%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-046-タルハンド",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-046-%E3%82%BF%E3%83%AB%E3%83%8F%E3%83%B3%E3%83%89",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-047-パウロ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-047-%E3%83%91%E3%82%A6%E3%83%AD",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-048-パウロ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-048-%E3%83%91%E3%82%A6%E3%83%AD",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-049-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-049-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-050-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-050-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-051-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-051-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-052-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-052-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-053-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-053-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-054-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-054-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-055-アリエル",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-055-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-056-エリナリーゼ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-056-%E3%82%A8%E3%83%AA%E3%83%8A%E3%83%AA%E3%83%BC%E3%82%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-057-クリフ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-057-%E3%82%AF%E3%83%AA%E3%83%95",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-058-%E3%82%B6%E3%83%8E%E3%83%90%EF%BC%86%E3%82%B8%E3%83%A5%E3%83%AA%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-059-シルフィエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-059-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-060-シルフィエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-060-%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-061-ナナホシ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-061-%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-062-ナナホシ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-062-%E3%83%8A%E3%83%8A%E3%83%9B%E3%82%B7",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-063-ノルン",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-063-%E3%83%8E%E3%83%AB%E3%83%B3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-064-バーディガーディ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-064-%E3%83%90%E3%83%BC%E3%83%87%E3%82%A3%E3%82%AC%E3%83%BC%E3%83%87%E3%82%A3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-065-フィッツ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-065-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-066-フィッツ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-066-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-067-フィッツ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-067-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-068-フィッツ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-068-%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-069-プルセナ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-069-%E3%83%97%E3%83%AB%E3%82%BB%E3%83%8A",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-070-リニアーナ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-070-%E3%83%AA%E3%83%8B%E3%82%A2%E3%83%BC%E3%83%8A",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-071-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-071-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-072-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-072-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-073-ルーデウス",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-073-%E3%83%AB%E3%83%BC%E3%83%87%E3%82%A6%E3%82%B9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-074-転移の迷宮",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-074-%E8%BB%A2%E7%A7%BB%E3%81%AE%E8%BF%B7%E5%AE%AE",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-075-迷宮都市ラパン",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-075-%E8%BF%B7%E5%AE%AE%E9%83%BD%E5%B8%82%E3%83%A9%E3%83%91%E3%83%B3",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-076-%E8%BF%B7%E5%AE%AE%E3%81%AE%E5%AE%88%E8%AD%B7%E8%80%85-%E3%83%9E%E3%83%8A%E3%82%BF%E3%82%A4%E3%83%88%E3%83%92%E3%83%A5%E3%83%89%E3%83%A9",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-077-今までありがとう",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-077-%E4%BB%8A%E3%81%BE%E3%81%A7%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-078-守護術師フィッツ",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-078-%E5%AE%88%E8%AD%B7%E8%A1%93%E5%B8%AB%E3%83%95%E3%82%A3%E3%83%83%E3%83%84",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-079-ゼニス救出作戦",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-079-%E3%82%BC%E3%83%8B%E3%82%B9%E6%95%91%E5%87%BA%E4%BD%9C%E6%88%A6",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-080-%E3%81%9D%E3%81%86%E3%80%81%E3%83%9C%E3%82%AF%E3%81%AF%E3%82%B7%E3%83%AB%E3%83%95%E3%82%A3%E3%82%A8%E3%83%83%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP01-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP02-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP03-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP04-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP05-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP06-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP07-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP08-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP09-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP10-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP11-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA54BT-MST-1-AP12-%E3%82%A2%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E3%82%AB%E3%83%BC%E3%83%89(%E7%84%A1%E8%81%B7%E8%BB%A2%E7%94%9F-%EF%BD%9E%E7%95%B0%E4%B8%96%E7%95%8C%E8%A1%8C%E3%81%A3%E3%81%9F%E3%82%89%E6%9C%AC%E6%B0%97%E3%81%A0%E3%81%99%EF%BD%9E)",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR-MST-1-030-ロキシー",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR-MST-1-030-%E3%83%AD%E3%82%AD%E3%82%B7%E3%83%BC",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR-MST-1-055-アリエル",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR-MST-1-055-%E3%82%A2%E3%83%AA%E3%82%A8%E3%83%AB",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "カードリスト",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%AA%E3%82%B9%E3%83%88",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX06BT/MHA-2-AP01/S/P1",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-AP01%2FS%2FP1",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX06BT/MHA-2-AP02/S/P1",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-AP02%2FS%2FP1",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX06BT/MHA-2-AP03/S/P1",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX06BT%2FMHA-2-AP03%2FS%2FP1",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA18BT/NIK-1-AP06/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA18BT%2FNIK-1-AP06%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR/IMS/AP04",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP04",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR/IMS/AP05",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP05",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR/IMS/AP06",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP06",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR/IMS/AP07",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP07",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UAPR/IMS/AP08",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UAPR%2FIMS%2FAP08",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA32BT/SNF-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA32BT/SNF-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA32BT%2FSNF-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA24BT/SHY-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA24BT%2FSHY-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA15BT/SAO-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA15BT%2FSAO-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA15BT/SAO-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA15BT%2FSAO-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX08BT/SAO-2-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX08BT%2FSAO-2-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX08BT/SAO-2-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX08BT%2FSAO-2-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX08BT/SAO-2-AP03/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX08BT%2FSAO-2-AP03%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA16BT/SYN-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA16BT%2FSYN-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "EX09BT/TSK-2-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=EX09BT%2FTSK-2-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA17BT/TRK-1-AP05/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA17BT%2FTRK-1-AP05%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA25BT/AND-1-AP01/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA25BT%2FAND-1-AP01%2FS",
+        "error": "页面内找不到卡号。"
+      },
+      {
+        "number": "UA25BT/AND-1-AP02/S",
+        "url": "https://www.unionarena-tcg.com/jp/cardlist/detail_iframe.php?card_no=UA25BT%2FAND-1-AP02%2FS",
+        "error": "页面内找不到卡号。"
+      }
+    ]
+  },
+  "backupDirectory": "",
+  "changes": [
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-068",
+      "before": "-",
+      "after": "红色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-068.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-073",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-073.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-077",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-077.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-085",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-085.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-087",
+      "before": "-",
+      "after": "红色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-087.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-089",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-089.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-091",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-091.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-101",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-101.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-102",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-102.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-103",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-103.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-104",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-104.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-105",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-105.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-106",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-106.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-107",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-107.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-108",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-108.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-109",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-109.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-110",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-110.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-110",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-110.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-111",
+      "before": "-",
+      "after": "紫色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-111.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-111",
+      "before": "-",
+      "after": "紫色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-111.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-112",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-112.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-112",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-112.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-113",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-113.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20ST/BCV-1-113",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-113.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-001",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-001.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-002",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-002.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-003",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-003.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-004",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-004.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-004",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-004.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-005",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-005.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-006",
+      "before": "-",
+      "after": "紫色×3",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-006.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-006",
+      "before": "-",
+      "after": "紫色×3",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-006.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-007",
+      "before": "-",
+      "after": "紫色×3",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-007.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-008",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-008.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-009",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-009.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-010",
+      "before": "-",
+      "after": "紫色×2",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-010.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-011",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-011.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-011",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-011.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-012",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-012.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-013",
+      "before": "-",
+      "after": "紫色×3",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-013.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-014",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-014.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-014",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-014.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-015",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-015.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-015",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-015.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-016",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-016.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-017",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-017.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-018",
+      "before": "-",
+      "after": "紫色×2",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-018.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-019",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-019.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-019",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-019.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-020",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\official-probe\\html\\UA20BT_BCV-1-020.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-021",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-021.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-022",
+      "before": "-",
+      "after": "紫色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-022.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-023",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-023.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-023",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-023.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-024",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-024.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-025",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-025.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-026",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-026.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-026",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-026.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-027",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-027.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-027",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-027.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-028",
+      "before": "-",
+      "after": "紫色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-028.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-029",
+      "before": "-",
+      "after": "紫色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-029.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-034",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-034.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-035",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-035.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-035",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-035.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-036",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-036.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-037",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-037.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-037",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-037.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-038",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-038.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-038",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-038.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-039",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-039.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-040",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-040.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-041",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-041.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-042",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-042.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-042",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-042.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-043",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-043.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-044",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-044.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-045",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-045.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-046",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-046.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-046",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-046.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-047",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-047.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-047",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-047.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-048",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-048.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-049",
+      "before": "-",
+      "after": "绿色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-049.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-050",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-050.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-051",
+      "before": "-",
+      "after": "绿色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-051.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-052",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-052.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-052",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-052.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-053",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-053.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-053",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-053.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-054",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-054.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-054",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-054.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-055",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-055.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-056",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-056.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-057",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-057.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-057",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-057.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-058",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-058.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-058",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-058.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-059",
+      "before": "-",
+      "after": "绿色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-059.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-060",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-060.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-061",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-061.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-062",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-062.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-063",
+      "before": "-",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-063.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-068",
+      "before": "-",
+      "after": "红色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-068.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-069",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-069.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-070",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-070.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-071",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-071.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-072",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-072.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-073",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-073.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-074",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-074.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-075",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-075.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-075",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-075.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-075",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-075.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-076",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-076.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-077",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-077.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-078",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-078.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-079",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-079.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-079",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-079.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-080",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-080.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-081",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-081.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-081",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-081.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-082",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-082.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-083",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-083.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-083",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-083.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-084",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-084.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-085",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-085.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-086",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-086.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-087",
+      "before": "-",
+      "after": "红色×2",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-087.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-088",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-088.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-089",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-089.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-090",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-090.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-091",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-091.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-091",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-091.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-092",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-092.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-093",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-093.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-093",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-093.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-094",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-094.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-094",
+      "before": "-",
+      "after": "红色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-094.html"
+    },
+    {
+      "file": "black-clover.before-name-enrichment.ts",
+      "number": "UA20BT/BCV-1-095",
+      "before": "-",
+      "after": "红色×3",
+      "source": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-095.html"
+    }
+  ]
+}

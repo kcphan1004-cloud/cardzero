@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:35.343Z",
+  "model": "qwen3.5:4b",
+  "unitId": "91980c2b6074d6050a81",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-062"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "マイルズ",
+    "effect": "自分の場に他の［特徴：ブリッグズ］が3枚以上ある場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "迈尔斯",
+    "effectZh": "自己的场上有其他［特征：布里格斯］3 张以上的场合，此卡的产生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

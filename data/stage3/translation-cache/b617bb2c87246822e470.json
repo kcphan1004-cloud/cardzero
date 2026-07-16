@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:14:38.802Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b617bb2c87246822e470",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-075"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ドラー",
+    "effect": "[登場時]\n自分の場の他の［特徴：テトラライン］を1枚まで選び、このターン中、BP+500し、自分の山札の上から1枚を裏向きで選んだキャラの下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "德拉尔",
+    "effectZh": "[登场时]\n选择自己场上的其他［特征：四行］至多 1 枚，本回合中，BP+500，并从自己牌库上方取 1 张反转后置于所选角色的下方。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:52:04.313Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9a71abefa86ce28a1e90",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-093"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "リュウタロス",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "龙塔罗斯",
+    "effectZh": "[启动主阶段]\n[横置状态]\n[回合 1]\n此角色在本回合中，发生能量+\n[红色]\n并获得“本回合结束时，使此角色退场。”。",
+    "triggerZh": ""
+  }
+}

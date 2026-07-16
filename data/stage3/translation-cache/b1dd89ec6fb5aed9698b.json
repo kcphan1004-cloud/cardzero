@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:43:00.136Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b1dd89ec6fb5aed9698b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SHY-1-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "レディ・ブラック",
+    "effect": "[登場時]\n自分の場外から青の［特徴：ヒーロー］を1枚まで自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蕾迪·布莱克",
+    "effectZh": "[登场时]\n从手札区最多将一张蓝色［特征：英雄］置于自己的山札上方。",
+    "triggerZh": ""
+  }
+}

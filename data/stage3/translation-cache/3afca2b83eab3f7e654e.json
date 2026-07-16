@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:18:41.576Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3afca2b83eab3f7e654e",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-050"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "必殺・竜鳥飛び",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "必杀·龙鸟飞",
+    "effectZh": "可选择最多 2 张自己的 AP 卡，并将其激活。",
+    "triggerZh": "[最终]\n若自己生命值为空，从山札上查看 1 张牌并置于自己的生命区域"
+  }
+}

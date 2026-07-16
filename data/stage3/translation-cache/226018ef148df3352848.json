@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:54:24.885Z",
+  "model": "qwen3.5:4b",
+  "unitId": "226018ef148df3352848",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-037"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "斎藤 一",
+    "effect": "[登場時]\n自分の場の〔〈緋村 剣心〉か〈斎藤 一〉か〈相楽 左之助〉〕を1枚まで選び、別のラインに移動させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斎藤 一",
+    "effectZh": "[登场时]选择自己场上的【绯村 剑心】或【斋藤 一】或【相乐 左之助】中最多1张并使其移动至其他线。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张并将其处于激活状态，本回合中BP+3000"
+  }
+}

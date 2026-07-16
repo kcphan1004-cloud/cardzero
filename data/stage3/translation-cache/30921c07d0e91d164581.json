@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:58.607Z",
+  "model": "qwen3.5:4b",
+  "unitId": "30921c07d0e91d164581",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-022"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "君、面白いね",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。選んだキャラが\n[レイド]\nを持たない場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "你真有趣啊",
+    "effectZh": "选择对手 Front L 中的 1 张卡并横置状态。若选中的卡不持有 [Raid]，则抽取 1 张卡。",
+    "triggerZh": "[Draw]\n抽取 1 张卡。"
+  }
+}

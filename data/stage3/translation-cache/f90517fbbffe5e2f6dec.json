@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:30.076Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f90517fbbffe5e2f6dec",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-060"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "イプシロン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊普西龙",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量 +[紫] 。",
+    "triggerZh": ""
+  }
+}

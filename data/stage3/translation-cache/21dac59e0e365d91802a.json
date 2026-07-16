@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:03.431Z",
+  "model": "qwen3.5:4b",
+  "unitId": "21dac59e0e365d91802a",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-108"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "サイタマの家",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から〈サイタマ〉か〈ジェノス〉か〈キング〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "埼玉的家",
+    "effectZh": "[登场时] 从自己的牌库上方翻开4张。从中公开至多1张〈埼玉〉或〈杰诺斯〉或〈国王〉并加入手札。将剩余的按任意顺序置于自己牌库下方。",
+    "triggerZh": "[获取] 将此卡加入手札"
+  }
+}

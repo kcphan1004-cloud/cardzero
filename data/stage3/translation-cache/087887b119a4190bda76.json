@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:19.692Z",
+  "model": "qwen3.5:4b",
+  "unitId": "087887b119a4190bda76",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-097"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "絶対に負けられねェ！！！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "絶対に負けられねェ！！！",
+    "effectZh": "选择自己的 AP 卡片最多两张并使其处于激活状态。",
+    "triggerZh": "[最终效果]\n若自己没有生命值，则从自己的牌库上方翻开一张并将其置于自己的生命区域"
+  }
+}

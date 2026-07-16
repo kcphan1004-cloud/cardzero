@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:33.518Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8aa406c59de25926098e",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-005"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "呉鳳明",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吴凤明",
+    "effectZh": "[登场时]\n抽取 1 张卡牌，并将自己手札中的 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

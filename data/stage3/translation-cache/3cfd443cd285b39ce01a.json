@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:29:09.737Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3cfd443cd285b39ce01a",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-AP01",
+    "UA30BT/ARK-1-AP01",
+    "UA30BT/ARK-1-AP02",
+    "UA30BT/ARK-1-AP03",
+    "UA30BT/ARK-1-AP04",
+    "UA30BT/ARK-1-AP05",
+    "UA30BT/ARK-1-AP06",
+    "EX11BT/ARK-2-AP01",
+    "EX11BT/ARK-2-AP02",
+    "EX11BT/ARK-2-AP03",
+    "EX11BT/ARK-2-AP04",
+    "EX11BT/ARK-2-AP05",
+    "EX11BT/ARK-2-AP06"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アクションポイントカード(アークナイツ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (Arknights)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:29:38.039Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fd80d07813492f86c7b1",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-068"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリア",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛丽亚",
+    "effectZh": "若该角色处于激活状态，则该角色的发生能量+\n[赤]。",
+    "triggerZh": ""
+  }
+}

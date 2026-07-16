@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:39.200Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4da75952579d4141d0ba",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-052"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "ヒナオ",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、1枚まで山札の上に置き、残りを望む順で下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "ヒナオ",
+    "effectZh": "[登场时]\n从自己的卡组上方看4张卡牌，将其中1张置于卡组之上，其余的按任意顺序置于其下。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取1张卡牌"
+  }
+}

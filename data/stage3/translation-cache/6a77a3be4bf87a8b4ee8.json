@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:56:23.121Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6a77a3be4bf87a8b4ee8",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-055"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "瀬田 宗次郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "濑田宗四郎",
+    "effectZh": "",
+    "triggerZh": "[激活] 将此卡加入手牌。"
+  }
+}

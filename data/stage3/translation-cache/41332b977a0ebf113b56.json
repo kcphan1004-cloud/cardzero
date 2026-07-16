@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:29.109Z",
+  "model": "qwen3.5:4b",
+  "unitId": "41332b977a0ebf113b56",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-040",
+    "UA45BT/TLR-1-079"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "To LOVEる",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "To LOVEる",
+    "effectZh": "选择自己的AP卡最多2张并激活之。",
+    "triggerZh": "[最终]若自己生命值为零，则从自己的牌库上方取一张置于自己的生命区"
+  }
+}

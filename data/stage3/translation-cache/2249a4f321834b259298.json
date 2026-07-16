@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:03:42.174Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2249a4f321834b259298",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-021"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "シャイ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "害羞英雄",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上的其他角色中的 1 张返回手牌。无法返回的情况下，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

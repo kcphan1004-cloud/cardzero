@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:16.499Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7f64f1adc437967b0f1a",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-111"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ロイ・マスタング",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n自分の手札が0枚の場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "罗伊·马斯坦格",
+    "effectZh": "[冲击无效]（与此角色战斗的角色在本场战斗中不会失去 [冲击]）。当此角色的手札为 0 张时，此角色的 BP+1000。",
+    "triggerZh": "[抽牌] 抽取一张卡片"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:07:43.162Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cec58f2100bbf128b6df",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-067"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "花海 咲季",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\n自分の場に〈月村 手毬〉と〈藤田 ことね〉がどちらもある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花海 咲季",
+    "effectZh": "[步骤]\n（在自己的移动阶段可从前线 L 移至能量线）\n[登场时]\n若自己的场地上有〈月村 手毬〉和〈藤田 ことね〉中的任意一张，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

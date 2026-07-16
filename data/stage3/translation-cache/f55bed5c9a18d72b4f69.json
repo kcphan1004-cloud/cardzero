@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:22.384Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f55bed5c9a18d72b4f69",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-080"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "優希は千兆点のイケメンよ!!",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "优希是千兆点的帅哥!!",
+    "effectZh": "选择己方 AP 角色卡最多 2 张，将其激活。",
+    "triggerZh": "[最终]\n若己方生命值为空时，从己方的山札上方取 1 张放置于己方生命区域。"
+  }
+}

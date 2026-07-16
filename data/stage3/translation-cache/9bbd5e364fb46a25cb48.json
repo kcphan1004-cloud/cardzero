@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:23:17.601Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9bbd5e364fb46a25cb48",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-108"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "アーク",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、カードを2枚引く。\n[起動メイン]\n[レストにする]\n[ターン1]\n自分の山札の上から1枚を場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "光轮",
+    "effectZh": "【登场时】\n可以将自己的手牌 1 张置于场外。\n如此做的话，抽 2 张牌。\n【启动主效果】\n【横置状态】\n【回合 1】\n从自己山札上方将 1 张卡置于场外。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

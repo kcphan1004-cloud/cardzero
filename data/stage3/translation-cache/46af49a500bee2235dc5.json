@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:03.436Z",
+  "model": "qwen3.5:4b",
+  "unitId": "46af49a500bee2235dc5",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-111"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "戦慄のタツマキ",
+    "effect": "[登場時]\n自分の場外から〈戦慄のタツマキ〉以外の緑のキャラカードを1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战栗的足木",
+    "effectZh": "[登场时] 从手牌中选取至多一张除「战栗的足木」外的绿色角色卡加入你的手牌。",
+    "triggerZh": "[抽牌]\n抽取1张牌。"
+  }
+}

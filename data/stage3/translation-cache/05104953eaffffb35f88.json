@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:57.784Z",
+  "model": "qwen3.5:4b",
+  "unitId": "05104953eaffffb35f88",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-099"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "風刃脚",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈音速のソニック〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "風刃腳",
+    "effectZh": "「BP3000 以下」的對手前線 L 角色選取一張，使其退場。若己方場地有〈音速的 Sonic〉則改為「BP5000 以下」。",
+    "triggerZh": "[特別]\n對手的正面 L 角色選取一張，使其退場。"
+  }
+}

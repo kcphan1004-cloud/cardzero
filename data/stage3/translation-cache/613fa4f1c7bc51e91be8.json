@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:58.727Z",
+  "model": "qwen3.5:9b",
+  "unitId": "613fa4f1c7bc51e91be8",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-047"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "出雲 ハルイチ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出云 春一",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上的其他角色中的 1 个返回手牌。若无法返回，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

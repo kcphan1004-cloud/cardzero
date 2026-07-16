@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:39:48.479Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fa5c6126dbd6d9d7d355",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-016"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ミスターカーメン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米斯特卡门",
+    "effectZh": "[无效冲击]（本角色与对手进行战斗时，该对手在本战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

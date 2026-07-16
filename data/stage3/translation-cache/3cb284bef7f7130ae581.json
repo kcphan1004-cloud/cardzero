@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:09:16.671Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3cb284bef7f7130ae581",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-064"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "墓守のウェザエモン",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを2枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "墓守的韦泽艾蒙",
+    "effectZh": "[启动主] [横置]\n使这张卡退场。\n抽 2 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:45:29.272Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1a2fedc7bd9ad164b617",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SYN-AP01",
+    "UAPR/SYN-AP02",
+    "UAPR/SYN-AP03",
+    "UAPR/SYN-AP04"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(SYNDUALITY Noir)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (SYNDUALITY Noir)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

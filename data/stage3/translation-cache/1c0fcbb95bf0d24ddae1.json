@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:52:08.529Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c0fcbb95bf0d24ddae1",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-077"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "こっちの方が効率的",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈栄逢 凪乃〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "这个效率更高",
+    "effectZh": "选择对方前线L的『BP3000以下』的角色一张，使其退场。若我方场上有〈荣逢 凪乃〉，则改为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对方前线L的角色一张，使其退场。"
+  }
+}

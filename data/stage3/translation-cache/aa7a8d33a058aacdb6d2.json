@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:00.144Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa7a8d33a058aacdb6d2",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-096"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "高い授業料",
+    "effect": "カードを1枚引く。自分の場に〈クラウディア〉か〈フラム〉か〈グレンシノビ〉がある場合、さらにカードを1枚引き、自分はこのターン中、「自分の効果で相手がカードを引く場合、代わりに自分が同じ枚数カードを引く。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "高昂的学费",
+    "effectZh": "抽 1 张牌。若自己场上有〈克劳迪亚〉或〈弗拉姆〉或〈格伦忍者〉，再额外抽 1 张牌，且本回合中，“当对方因自己的效果被要求抽卡时，改为由自己抽取相同数量的牌。”",
+    "triggerZh": "[登场]\n抽 1 张牌。"
+  }
+}

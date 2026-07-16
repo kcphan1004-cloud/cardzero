@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:08.677Z",
+  "model": "qwen3.5:4b",
+  "unitId": "126fc4f73a3e92a2edc5",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-073"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ベアトリス",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝阿特丽斯",
+    "effectZh": "[登场时]\n抽一张卡，将自己的手札中一张放置在场外。",
+    "triggerZh": "[抽取]\n抽一张卡。"
+  }
+}

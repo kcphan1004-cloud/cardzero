@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:36.976Z",
+  "model": "qwen3.5:4b",
+  "unitId": "23358db23d05478ddf62",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-062"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "最上 真",
+    "effect": "[自分のターン中]\n自分の場に［特徴：第四次架南島レイド］が5枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "最上 真",
+    "effectZh": "[自己的回合中]\n若己方场上有［特征：第四次架南岛雷伊德］卡5张以上，本角色BP+1500。,",
+    "triggerZh": "[抽牌]抽取1张卡牌。"
+  }
+}

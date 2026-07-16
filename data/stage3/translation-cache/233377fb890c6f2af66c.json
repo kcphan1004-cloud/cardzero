@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:58.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "233377fb890c6f2af66c",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-046"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "出雲 ハルイチ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出云 春一",
+    "effectZh": "[无效冲击]（与该角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:36.069Z",
+  "model": "qwen3.5:4b",
+  "unitId": "19be15ac0e6b9e41012f",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-030"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ロキシー",
+    "effect": "[起動メイン]\n[レストにする]\nこのターン中に自分がイベントカードを使用している場合のみ発動できる。以下から1つ選ぶ。\n・自分の場のキャラを1枚選び、このターン中、BP+1000。\n・カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "洛克希斯",
+    "effectZh": "[登场时] [横置状态]<br>本回合中，自己仅在使用过事件卡的情况下才能发动。从以下选项中选一个。<br>・选择场上的角色一张，在本回合内 BP+1000。<br>・抽一张牌，将手札中的一张置于场外。",
+    "triggerZh": ""
+  }
+}

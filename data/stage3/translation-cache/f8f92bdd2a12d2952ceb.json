@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:33.863Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f8f92bdd2a12d2952ceb",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-083"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "桓騎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "桓骑",
+    "effectZh": "",
+    "triggerZh": "[加入]"
+  }
+}

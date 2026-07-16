@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:10:28.645Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ad8973ed64316ee1c8ea",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-035",
+    "UA21BT/YYH-1-035"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "浦飯 幽助",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "户愚吕弟",
+    "effectZh": "",
+    "triggerZh": "[触发] 将此卡加入手牌。"
+  }
+}

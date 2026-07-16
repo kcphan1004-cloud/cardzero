@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:38.541Z",
+  "model": "qwen3.5:4b",
+  "unitId": "afd618edd90f804bae69",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-065"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "立ち向かわなくちゃいけないんだ！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "必须正面迎击！",
+    "effectZh": "选择你的AP卡两张，将其激活。",
+    "triggerZh": "[Final] 如果你的生命值为零，从你牌库上方取一张放到你的生命区。"
+  }
+}

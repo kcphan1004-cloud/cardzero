@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:48.871Z",
+  "model": "qwen3.5:9b",
+  "unitId": "525460567297372a10b5",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-072"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "レディ・ブラック",
+    "effect": "手札にあるこのカードの必要エナジーを\n[赤×2]\n減らす。\n[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑蔷薇女士",
+    "effectZh": "将手札中的这张卡所需能量\n［赤×2］\n减少。\n[启动主]\n[横置状态]\n选择自己场上的一张其他角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

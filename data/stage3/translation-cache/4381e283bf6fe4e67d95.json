@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:47:35.084Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4381e283bf6fe4e67d95",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-084"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "【登场时】\n抽 1 张牌，并将自己的手牌中至多 1 张卡置入场外。",
+    "triggerZh": "【激活】\n选择自己场地上的一张角色，将其激活，并在本回合中 BP+3000。"
+  }
+}

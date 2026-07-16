@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:45:17.926Z",
+  "model": "qwen3.5:9b",
+  "unitId": "08c3ed0f863cd3d2034b",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-073",
+    "UA19BT/HIQ-1-073"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "田中 龍之介",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "田中龙之介",
+    "effectZh": "[步骤]\n（可从前线 L 移动至能量线）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:51:06.631Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0d2fca8fb33422d23d67",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-104"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "このキャラはアクティブで場に登場させる。\n[登場時]\nBP1500以上の相手のフロントLのキャラを2枚まで選び、このターン中、BP-1000。\n[アタック時]\n相手のフロントLに元々のBPよりBPが低いキャラがある場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "本角色为激活状态登场。\n[登场时]\n选择对手场上 BP1500 以上的 Front L 最多 2 张，于本场中 BP-1000。\n[攻击时]\n若对手的 Front L 存在原本 BP 低于当前 BP 的角色，抽卡 1 张。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其为激活状态，并于本场中 BP+3000"
+  }
+}

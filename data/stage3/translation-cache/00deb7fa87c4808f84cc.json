@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:46:59.665Z",
+  "model": "qwen3.5:4b",
+  "unitId": "00deb7fa87c4808f84cc",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-101"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "嬴政",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、「\n[アタック時]\nカードを1枚まで引く。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "嬴政",
+    "effectZh": "[启动主卡]\n[L 区存在时]\n[回合数：1]\n选择自己场上的另一张角色，给予其本回合「\n[攻击时]抽一张牌。」。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:37:36.118Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5d3f8f6814131ce49890",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-038",
+    "UA47BT/TKG-1-038",
+    "UA47BT/TKG-1-068"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "金木 研",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "金木研",
+    "effectZh": "",
+    "triggerZh": "【登场时】\n将这张卡加入手牌。"
+  }
+}

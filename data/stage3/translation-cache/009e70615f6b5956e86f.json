@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:40.293Z",
+  "model": "qwen3.5:4b",
+  "unitId": "009e70615f6b5956e86f",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-042"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "新井 紗弥香",
+    "effect": "[登場時]\n[退場時]\n自分の山札の上から1枚見て、山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "新井 纱弥香",
+    "effectZh": "[登场时]\n[退场时]\n从己方牌库上方翻开一张，置于牌库上方或下方。",
+    "triggerZh": "[激活]\n选择己方场上的一个角色进行激活，本回合中BP+3000"
+  }
+}

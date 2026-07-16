@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:56.455Z",
+  "model": "qwen3.5:9b",
+  "unitId": "16c67bc7a796efe21c47",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-089"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "フラム",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[APを1支払う]\n[ターン1]\nこのターン中にこのキャラが登場している場合のみ発動できる。BP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。自分と相手はカードを1枚引く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "弗拉姆",
+    "effectZh": "[启动主]\n[将手牌中的一张置入场外]\n[支付 1 AP]\n[回合 1]\n仅当本回合中该角色登场时才能发动。选择 BP3000 以下的对方前线 L 的角色的最多一张，使其退场。自己和对方各抽一张牌。",
+    "triggerZh": "[颜色]\n选择 BP2500 以下的对方前线 L 的角色的任意一张，使其退场。"
+  }
+}

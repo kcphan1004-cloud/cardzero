@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:54:58.030Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5d4c0de0e4d637caa417",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-014"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "赤子",
+    "effect": "[退場時]\n自分の山札の上から3枚見て、［特徴：奈落一派］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赤子",
+    "effectZh": "[离场时]\n从己方牌库上方看三张，公开［特征：奈落一派］最多一张加入手札，其余按任意顺序放回牌库下方。",
+    "triggerZh": ""
+  }
+}

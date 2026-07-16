@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:28:12.730Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e895a5f68637620b47ce",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-062"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "このカードはフロントLに登場できず、フロントLに移動できない。\n[登場時]\n自分の山札の下から1枚を公開してもよい。そうした場合、公開したカードを自分の山札の上か下に置く。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "盖亚奥特曼",
+    "effectZh": "这张卡不能登场于前线L，也不能移动至前线L。\n[登场时]\n可以将自己的牌库下方的一张卡公开。如此做的话，将公开的卡置于自己牌库的上方或下方。",
+    "triggerZh": "[颜色]\n从自己手札中选择必要能量为2以下且消耗AP为1的绿色角色卡一张以激活状态登场于自己的场地上。"
+  }
+}

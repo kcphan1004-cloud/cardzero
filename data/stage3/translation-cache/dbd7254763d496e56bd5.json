@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:38:28.683Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dbd7254763d496e56bd5",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MHA-1-053"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "爆豪 勝己",
+    "effect": "[アタック時]\n以下から1つ選ぶ。・このキャラはこのターン中、BP+1000。・このキャラはこのターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "爆豪胜己",
+    "effectZh": "[攻击时]从以下选项中选一张：·本角色在本回合中，BP+1000。·本角色在本回合中获得 [Impact(1)]（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": ""
+  }
+}

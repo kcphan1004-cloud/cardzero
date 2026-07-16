@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:17.821Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7057f125b38681b04d20",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-068"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "楡井 秋彦",
+    "effect": "[登場時]\n自分の場の他の［特徴：ボウフウリン］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "楡井 秋彦",
+    "effectZh": "【登场时】\n选择自己场上的其他［特征：弓吹林］最多1个，本回合BP+1000。",
+    "triggerZh": "【抽牌】\n抽取一张卡片"
+  }
+}

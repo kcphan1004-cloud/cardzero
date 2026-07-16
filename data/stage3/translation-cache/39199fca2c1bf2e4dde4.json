@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:48.775Z",
+  "model": "qwen3.5:9b",
+  "unitId": "39199fca2c1bf2e4dde4",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-041"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "黒仮面",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑面具",
+    "effectZh": "[登场时]\n选择对方前线 L 的 1 张角色，在本回合中 BP-500。",
+    "triggerZh": ""
+  }
+}

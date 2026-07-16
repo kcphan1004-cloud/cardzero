@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:36:37.072Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8c7e84a2e769cf3bd188",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-091"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "永近 英良",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "永近 英良",
+    "effectZh": "[登场时] \n抽一张牌，将手札中的一张置于场外。",
+    "triggerZh": "[抽取]\n从上方抽一张牌。"
+  }
+}

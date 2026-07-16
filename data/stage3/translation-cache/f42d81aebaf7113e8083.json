@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:04.305Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f42d81aebaf7113e8083",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-075"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "エンヴィー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "恩菲",
+    "effectZh": "",
+    "triggerZh": "[获得] 将此卡加入手牌"
+  }
+}

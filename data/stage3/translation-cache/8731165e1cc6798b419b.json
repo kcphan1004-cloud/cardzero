@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:51.647Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8731165e1cc6798b419b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/TSK-AP01"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(転生したらスライムだった件)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡 (转生成为了SLime，这件事)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

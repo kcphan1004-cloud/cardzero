@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:15:08.722Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7fab0737e25c22ea99f5",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-024"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "アヤナミレイ（仮称）",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "绫波丽（暂定）",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入你的手札。"
+  }
+}

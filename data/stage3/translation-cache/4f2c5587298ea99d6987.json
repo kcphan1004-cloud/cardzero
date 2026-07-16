@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:32:16.481Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f2c5587298ea99d6987",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-072"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "デイジーオーガアルター",
+    "effect": "[レイド]\n〈カナタ〉アクティブにし、フロントLに移動できる\n[登場時]\n『BP2000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場の〈ミステル〉を1枚裏向きでこのキャラの下に置いてもよい。そうした場合、『BP4000以下』に代わる。\n[退場時]\nこのキャラの下の裏向きのカードを全て公開し、手札に加える。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "黛西·奥加（Alter）",
+    "effectZh": "[Raid]\n〈Kanata〉激活状态，可移动至前线 L\n[登场时]\n选择对方「BP 2000 以下」的前线 L 角色最多 1 张并使其退场。也可以将己方场上的 1 张〈Misterl〉以背面朝上放置于该角色下方。如此操作的话，替代条件为『BP4000 以下』。\n[退场时]\n公开此角色下方的所有背面朝上的卡，加入手牌。",
+    "triggerZh": "[Raid]\n将此卡加入手牌或满足必要能量时，发动 Raid。"
+  }
+}

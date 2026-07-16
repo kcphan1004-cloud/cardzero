@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:59:08.447Z",
+  "model": "qwen3.5:9b",
+  "unitId": "95e54def486e3f5bfca4",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-003"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "スピリッツ",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "精神体",
+    "effectZh": "【登场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

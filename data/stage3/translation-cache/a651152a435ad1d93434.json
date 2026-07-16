@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:06:50.267Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a651152a435ad1d93434",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-073"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "神原 駿河",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "神原 駿河",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择自己场上的角色一张，将其激活，本回合 BP+3000。"
+  }
+}

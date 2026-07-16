@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:35.106Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1aac779d85ca411c847c",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-017"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ノルン＆アイシャ",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺伦&艾莎（UA54BT/MST-1-017）",
+    "effectZh": "[登场时]\n抽一张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:46.216Z",
+  "model": "qwen3.5:4b",
+  "unitId": "947e3c12701d168118db",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-036"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本家家訓",
+    "effect": "このターンのアタックフェイズ終了時、このターン中に相手のフロントLのキャラが退場していない場合、カードを4枚まで引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "坂本家家训",
+    "effectZh": "在本回合的攻击阶段结束时，如果此回合内对方的前线 L 的角色没有离场，则最多抽四张卡。",
+    "triggerZh": "[抽取]\n抽一张卡"
+  }
+}

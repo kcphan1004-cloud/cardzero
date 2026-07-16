@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:10:28.649Z",
+  "model": "qwen3.5:9b",
+  "unitId": "beb486d2b26ee7326a2d",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-057",
+    "UA21BT/YYH-1-057"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "ぼたん",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。\n・自分の場にBP5000以上のキャラがある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "牡丹花",
+    "effectZh": "[登场时]\n选择以下其中 1 个。\n・从自己场上的其他角色中最多选择 1 张，本回合 BP+1000。\n・如果自己的场上有 BP5000 以上的角色，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

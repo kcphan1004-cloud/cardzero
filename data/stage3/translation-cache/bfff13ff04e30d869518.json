@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:30.190Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bfff13ff04e30d869518",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-033"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "レディとして当然の嗜み",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "理所当然的作为女仆的乐趣",
+    "effectZh": "从手牌中选择最多 2 张 AP 卡并将其变为激活状态。",
+    "triggerZh": "[最终]\n若你的生命值没有，则从你卡组上方抽一张放到你的生命区域"
+  }
+}

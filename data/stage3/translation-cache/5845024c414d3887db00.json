@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:35.932Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5845024c414d3887db00",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-015"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "四乃森 蒼紫",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "四乃森苍紫",
+    "effectZh": "[本家回合] 该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

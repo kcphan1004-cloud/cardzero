@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:53.787Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e3ddd6fabb1210aff48d",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-AP01",
+    "UA46BT/KGR-1-AP02",
+    "UA46BT/KGR-1-AP03",
+    "UA46BT/KGR-1-AP04",
+    "UA46BT/KGR-1-AP05",
+    "UA46BT/KGR-1-AP06",
+    "UA46BT/KGR-1-AP07",
+    "UA46BT/KGR-1-AP08",
+    "UA46BT/KGR-1-AP09",
+    "UA46BT/KGR-1-AP10",
+    "UA46BT/KGR-1-AP11",
+    "UA46BT/KGR-1-AP12",
+    "UA46BT/KGR-1-AP13"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "アクションポイントカード(カグラバチ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片（神乐战）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

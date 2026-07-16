@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:25.836Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bf9fdeab9fd13fd4857d",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-023"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾米莉亚",
+    "effectZh": "[登场时]抽取一张卡牌，将手牌一张置于场外。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

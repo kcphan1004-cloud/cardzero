@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:07.797Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f923ec8397b22a58343c",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-106"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "西尾 錦",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "西尾锦",
+    "effectZh": "[登场时]\n从自己的牌库上方看 1 张，放在牌库上方或场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其进入激活状态，本回合 BP+3000"
+  }
+}

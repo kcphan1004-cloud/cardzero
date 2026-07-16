@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:32:16.487Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d7f8379ae699f8267bfe",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-078"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "クラウディア",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "克劳迪娅",
+    "effectZh": "",
+    "triggerZh": "[登场时] 将此卡加入手牌。"
+  }
+}

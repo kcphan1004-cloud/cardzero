@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:29:21.201Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e470adac2d21fb68d708",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-091"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "キング・ブラッドレイ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "King Bloodrayne",
+    "effectZh": "",
+    "triggerZh": "[获取]将这张卡加入手牌。"
+  }
+}

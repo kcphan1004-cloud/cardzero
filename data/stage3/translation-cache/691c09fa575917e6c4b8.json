@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:52.952Z",
+  "model": "qwen3.5:4b",
+  "unitId": "691c09fa575917e6c4b8",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-103"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择己方场上的角色卡 1 张，将其激活，且本回合内 BP+3000。"
+  }
+}

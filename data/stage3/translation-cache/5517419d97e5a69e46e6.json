@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:56.405Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5517419d97e5a69e46e6",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-083"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ギョロギョロ",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "咕噜咕噜",
+    "effectZh": "[登场时] 从你的牌库上方翻开一张，将该卡置于你的牌库上方或场外。",
+    "triggerZh": ""
+  }
+}

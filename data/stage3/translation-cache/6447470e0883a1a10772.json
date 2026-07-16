@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:12.834Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6447470e0883a1a10772",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-032"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "神無の鏡",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場外から［特徴：奈落一派］か〈四魂のかけら〉を1枚裏向きで自分の場の〈奈落〉1枚の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "神无的镜",
+    "effectZh": "[启动主] \n将状态改为横置\n将自己场外的［特征：奈落一派］或〈四魂之碎片〉一张背面朝上地置于自己场上的〈奈落〉一张之下。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

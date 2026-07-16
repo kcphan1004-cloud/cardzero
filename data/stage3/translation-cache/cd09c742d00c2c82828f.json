@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:48.368Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cd09c742d00c2c82828f",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GIM-2-021",
+    "UAPR/GIM-2-021"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "秦谷 美鈴",
+    "effect": "自分の場に［特徴：1年生］のカード名が4種類以上か〈月村 手毬〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "秦谷美铃",
+    "effectZh": "若己方场上存在 4 种以上［特征：1 年生］的卡名或〈月村手毬〉，本角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

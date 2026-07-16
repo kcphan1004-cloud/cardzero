@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:01.472Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6f2016fbf3ab3e929ac3",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-039"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "金木 研",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブの場合のみ発動できる。自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金木研",
+    "effectZh": "［启动主］若本角色卡在「前线 L」上；\n仅在本回合第 1 次且本角色卡处于激活状态时才能发动。从自己牌库上方翻开一张，将其置于牌库上方或移出场地。",
+    "triggerZh": ""
+  }
+}

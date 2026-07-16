@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:31:02.714Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e4e31ae9d0d1742c5745",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/IMS-2-048"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "三峰 結華",
+    "effect": "このカードが自分の効果で自分の山札から場外に置かれた時、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三峰 结华",
+    "effectZh": "当此卡以自身效果从手牌场外时，选择对手前线L的1张角色，本回合中BP-1000。",
+    "triggerZh": "[抽]"
+  }
+}

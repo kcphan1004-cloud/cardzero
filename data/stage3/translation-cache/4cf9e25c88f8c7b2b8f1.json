@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:55:41.485Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4cf9e25c88f8c7b2b8f1",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-015"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "江間 メイ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[レストにする]\n[ターン1]\n相手のフロントLのキャラを1枚選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "江间 美",
+    "effectZh": "[激活主效果]\n[当前处于正面状态时]\n[改为横置状态]\n[第1回合]\n选择对手场上正面的角色卡一张，将其改为横置状态。",
+    "triggerZh": ""
+  }
+}

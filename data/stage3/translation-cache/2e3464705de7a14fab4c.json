@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:33:08.984Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2e3464705de7a14fab4c",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-074"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "糸師 凛",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "糸师 凛",
+    "effectZh": "[冲击（1）]\n攻击并赢得战斗时，对对手玩家造成1点伤害。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

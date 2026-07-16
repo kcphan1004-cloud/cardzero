@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:35.664Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d3aea50d1e6115729898",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-079"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "鉄砕牙",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈犬夜叉〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "铁碎牙",
+    "effectZh": "选择敌方前线L的BP3000以下的角色卡一张以上至多一张，使其退场。\n若己方场上有〈犬夜叉〉，则改为BP5000以下。",
+    "triggerZh": "[特殊]\n选择敌方前线L的角色卡一张以上至多一张，使其退场。"
+  }
+}

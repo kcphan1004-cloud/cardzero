@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:00:06.642Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db24e9b554b627ead81c",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-016"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "水篠 旬",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\n自分の山札の上から2枚を場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "水篠 旬",
+    "effectZh": "[无效果]\n（本回合与本角色战斗的角色，在本回合中失去冲击）\n[登场时]\n从自己的牌库上方抽两张置于场外。",
+    "triggerZh": ""
+  }
+}

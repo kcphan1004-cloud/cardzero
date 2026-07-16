@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:02.120Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8f0e85e20683fad539a1",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-064"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "花海 咲季",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花海 咲季",
+    "effectZh": "【登场时】从自己的牌库上方翻开一张，将其置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:45:00.562Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df9ca69bfe676497d70b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SYN-1-001"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ノワール",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑龙（未识别系列 570901 UAPR/SYN-1-001）",
+    "effectZh": "[登场时]从牌库上方抽一张牌。",
+    "triggerZh": ""
+  }
+}

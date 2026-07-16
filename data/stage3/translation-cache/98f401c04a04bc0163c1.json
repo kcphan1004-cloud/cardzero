@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:46.829Z",
+  "model": "qwen3.5:4b",
+  "unitId": "98f401c04a04bc0163c1",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-023"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "巻町 操",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卷町 操",
+    "effectZh": "若本角色为激活状态，则本角色的发生能量+[青]。",
+    "triggerZh": ""
+  }
+}

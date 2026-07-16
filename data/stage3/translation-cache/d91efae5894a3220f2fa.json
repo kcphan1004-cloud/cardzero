@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:19.516Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d91efae5894a3220f2fa",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-026"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ジュイス",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朱伊斯",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中按任意顺序将想要的数量放回自己的牌库上方，其余的置入场外。",
+    "triggerZh": ""
+  }
+}

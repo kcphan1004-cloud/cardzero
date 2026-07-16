@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:22:07.458Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5e917296c2d09de1c7ba",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-106"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "クラン・クラン",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克兰·克兰",
+    "effectZh": "[登场时]\\n从己方卡组上方翻开 1 张，将其置于己方卡组的上方或下方。",
+    "triggerZh": "[抽取]\\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:59:32.686Z",
+  "model": "qwen3.5:9b",
+  "unitId": "68aa52bb4ab2f0512116",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-109"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "センチュリースープ",
+    "effect": "カードを4枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "世纪汤",
+    "effectZh": "抽 4 张牌，将自己的一张手牌置入场外。",
+    "triggerZh": "[Draw]\n抽一张牌。"
+  }
+}

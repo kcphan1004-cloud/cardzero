@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:07.380Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d504eefe4d81933bc412",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-058"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ナナ・アスタ・デビルーク",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "娜娜·阿斯塔·德比鲁克",
+    "effectZh": "",
+    "triggerZh": "[抽取]<br><br>抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:20:19.775Z",
+  "model": "qwen3.5:9b",
+  "unitId": "91c8d8141f9c705efda9",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-023"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジャイガー",
+    "effect": "※このカードはデッキに12枚まで入れられる。\n[退場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杰格勒",
+    "effectZh": "※此卡在卡组中最多可放入 12 张。\n[退场时]\n抽 1 张牌，并将自己手牌的 1 张置为场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

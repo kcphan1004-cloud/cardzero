@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:10:19.202Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f920bc3f6dad17ac9422",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-019"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 葵",
+    "effect": "[登場時]\n[エナジーLにある場合]\n自分の場に［特徴：坂本商店］のカード名が3種類以上ある場合、このキャラをアクティブにする。\n[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂本 葵",
+    "effectZh": "[登场时]\n[若位于能量L中]\n若自己场上［特征：坂本商店］的卡名有3种以上，将该角色设为激活。\n[启动主回合]\n[将其横置]\n选择自己场上的其他1张角色，在本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

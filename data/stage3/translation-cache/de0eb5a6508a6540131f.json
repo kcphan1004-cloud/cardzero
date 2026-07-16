@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:15:39.523Z",
+  "model": "qwen3.5:4b",
+  "unitId": "de0eb5a6508a6540131f",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-017"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兰卡·蕾",
+    "effectZh": "如果对手场上有蓝色或红色的卡片，则减少手牌中此卡所需能量的 <br>(黄×1)<br>。",
+    "triggerZh": ""
+  }
+}

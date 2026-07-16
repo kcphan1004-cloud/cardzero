@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:12:56.591Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d9d74588efc2fcd8f388",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-065"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "未知なる技術",
+    "effect": "必要エナジーが3以下の自分の場のキャラを1枚手札に戻す。そうした場合、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "未知技术",
+    "effectZh": "将自身场上必要能量在 3 以下的角色之一返回手牌。如此操作时，抽卡 3 张。",
+    "triggerZh": "[抽取]\n抽 1 张牌"
+  }
+}

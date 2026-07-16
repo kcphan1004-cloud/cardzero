@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:46.144Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1cd341841aa11ab0737c",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-025"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "レゼ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "电锯人：莱泽（基础）",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将本张卡牌加入手牌。"
+  }
+}

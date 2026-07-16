@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:16:06.877Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65e8709209965259cb54",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-011"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "喜咲 アリア",
+    "effect": "[自分のターン中]\nこのターン中に自分のフロントLのキャラが自分の効果でアクティブからレストになったことがある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "喜咲 阿里亚",
+    "effectZh": "[自己的回合]\n本回合内，若自己前线 L 的角色曾通过自身效果从激活变为横置状态，则该角色 BP+500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

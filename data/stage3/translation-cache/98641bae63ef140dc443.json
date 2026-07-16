@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:25:39.296Z",
+  "model": "qwen3.5:9b",
+  "unitId": "98641bae63ef140dc443",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-065"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "古橋 伊春",
+    "effect": "[自分のターン中]\n自分の場に〈市川 レノ〉がある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "古桥 伊春",
+    "effectZh": "[在自己的回合中]\n自己的场上有〈市川 莲〉的情况下，该角色的 BP+500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

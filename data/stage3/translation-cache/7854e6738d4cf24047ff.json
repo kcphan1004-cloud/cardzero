@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:23:52.120Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7854e6738d4cf24047ff",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/CGH-1-007"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "C.C.",
+    "effect": "[登場時]\nカードを1枚引く。このターン中に消費APが2のカードを使用している場合、さらにカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "C.C.",
+    "effectZh": "[登场时]\n抽取一张卡。若本回合中使用过消耗 AP 为 2 的卡，则再额外抽取一张卡。",
+    "triggerZh": "[抽牌]\n抽取一张卡。"
+  }
+}

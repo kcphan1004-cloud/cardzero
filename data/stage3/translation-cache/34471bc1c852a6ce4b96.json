@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:33:23.581Z",
+  "model": "qwen3.5:9b",
+  "unitId": "34471bc1c852a6ce4b96",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-044"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "金田一 勇太郎",
+    "effect": "[登場時]\nBP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金田一 勇太郎",
+    "effectZh": "【登场时】\n选择对方前线L的BP1500以上的角色至多1张，本回合中，-1000 BP。",
+    "triggerZh": ""
+  }
+}

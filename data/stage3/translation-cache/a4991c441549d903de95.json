@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:54:58.025Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a4991c441549d903de95",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-011"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "りん",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凛 (前)",
+    "effectZh": "[登场主] [横置状态][回合 1]\n本角色在本回合中，发生能量+\n[紫]\n并获得「主阶段结束时，使本角色离场。」。",
+    "triggerZh": ""
+  }
+}

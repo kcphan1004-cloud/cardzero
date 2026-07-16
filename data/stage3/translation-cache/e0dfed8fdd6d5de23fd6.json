@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:09:21.504Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0dfed8fdd6d5de23fd6",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-048"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "シャイ",
+    "effect": "[自分のターン中]\n自分の場に〈小石川 惟子〉がある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "腼腆英雄",
+    "effectZh": "[在自己的回合中]\n自己场上有〈小石川 惟子〉的情况下，该角色 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

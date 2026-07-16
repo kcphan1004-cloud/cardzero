@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:37:40.540Z",
+  "model": "qwen3.5:4b",
+  "unitId": "56340d7f54577a68d542",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-026"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "赤葦 京治",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赤苇 京治",
+    "effectZh": "当对手场上有青色或红色的卡时，将手牌中本卡的必要能量减少[黄×1]。",
+    "triggerZh": ""
+  }
+}

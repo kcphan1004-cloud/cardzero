@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:24:23.252Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0e8a8ec01461c004bf93",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-041"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "エミコ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾米子",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的我方场上的其他角色的一张返回手牌。若无法返还，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

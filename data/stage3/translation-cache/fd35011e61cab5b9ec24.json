@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:24:05.509Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fd35011e61cab5b9ec24",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/CGH-1-035"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "枢木 スザク",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "枢木·佐克",
+    "effectZh": "[登场时]\n从卡组上方抽取1张卡牌。",
+    "triggerZh": "[颜色]\n若自身手札中消耗AP为1的绿色角色卡所需能量小于等于2，则将该绿色角色卡以激活状态置于场上。"
+  }
+}

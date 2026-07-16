@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:05:27.727Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e6f60b5c0808caad80d1",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-045"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "天音 永遠",
+    "effect": "このカードは〈アーサー・ペンシルゴン〉としても扱う。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。その後、自分の手札から必要エナジーを満たし消費APが1の赤のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天音 永遠",
+    "effectZh": "这张卡也当作〈亚瑟·铅笔岗〉处理。\n[启动主]\n[横置]\n[将此卡退场]\n抽 1 张牌。之后，从自己的手牌中选择最多 1 张满足必要能量且消耗 AP 为 1 的红色角色卡以横置状态登场或进行 Raid。",
+    "triggerZh": ""
+  }
+}

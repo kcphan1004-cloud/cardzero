@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:48.874Z",
+  "model": "qwen3.5:9b",
+  "unitId": "efcd72ddfa780e134722",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-075"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "睡眠",
+    "effect": "自分のフロントLのアクティブの〈ミェンロン〉を1枚レストにする。そうした場合、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "睡眠",
+    "effectZh": "将自己前线 L 的激活状态的〈眠龙〉横置状态化。如此操作时，抽 3 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:36.224Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f9f55e708ac35bf30aa1",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-027"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 花",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "坂本花",
+    "effectZh": "[登场时]\n选择自己场上的其他角色 1 张，在本回合中 BP+1000。",
+    "triggerZh": "[激活] \n选择自己场上的角色 1 张，将其激活，并在本回合中 BP+3000"
+  }
+}

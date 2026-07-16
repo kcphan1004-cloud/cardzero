@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:36.074Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ee3c04337759cbd89a0a",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-034"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "エリスに魔術を教えてくださいニャン☆",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "请教会魔术吧喵☆艾莉丝",
+    "effectZh": "选择自己的 AP 卡两张并激活之。",
+    "triggerZh": "[最终阶段] <br>当自己的生命值为零时，从自己牌库上方翻开一张置于自己的生命区域"
+  }
+}

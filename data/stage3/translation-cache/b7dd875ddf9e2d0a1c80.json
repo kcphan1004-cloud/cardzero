@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:50.921Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b7dd875ddf9e2d0a1c80",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-100"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "雷光の槍",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。自分の場に〔〈カナタ〉か〈デイジーオーガアルター〉〕と〈ミステル〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "雷光之枪",
+    "effectZh": "选择对方前线 L 的［BP3000 以下］的一名角色最多 1 名使其退场。查看自己牌库上方的一张卡，将其置于自己牌库上方或下方。若自己场上有〈可那塔〉或〈黛西奥加改〉以及〈米斯特鲁〉，则改为［BP5000 以下］。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的一名角色使其退场。"
+  }
+}

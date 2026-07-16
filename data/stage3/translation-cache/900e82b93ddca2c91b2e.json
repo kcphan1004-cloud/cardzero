@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:26.470Z",
+  "model": "qwen3.5:4b",
+  "unitId": "900e82b93ddca2c91b2e",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-042"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "岸辺",
+    "effect": "このキャラはアクティブで登場させる。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラを2枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "岸边、登场效果：BP 3000 以下，能量线：BP 5000 以下",
+    "effectZh": "该角色以激活状态出场。\n[启动主]\n[若位于场上]\n[回合 1]\n选择己方场地其他两张以下的角色卡，本回合内 BP+1000。",
+    "triggerZh": "[主动]\n选择己方场地的一张角色卡，将其激活，本回合内 BP+3000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:57:15.941Z",
+  "model": "qwen3.5:9b",
+  "unitId": "197a7c2d683912fdeec4",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-042"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "桑原 和真",
+    "effect": "[登場時]\n自分の場の他のキャラの最大BPよりBPが低い相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑原和真",
+    "effectZh": "[登场时]\n最多选择对方前线 L 的 1 张角色（其最大 BP 低于自己场上其他角色的最大 BP），并横置。",
+    "triggerZh": ""
+  }
+}

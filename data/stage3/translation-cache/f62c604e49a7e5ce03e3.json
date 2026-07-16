@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:21.975Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f62c604e49a7e5ce03e3",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-043"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ハイマンス・ブレダ",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "海曼斯·布雷达",
+    "effectZh": "若对手场地中有黄色或紫色卡，则手牌中的本卡的必要能量-[青×1]。",
+    "triggerZh": ""
+  }
+}

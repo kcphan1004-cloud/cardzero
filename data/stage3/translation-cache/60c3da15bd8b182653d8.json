@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:04.310Z",
+  "model": "qwen3.5:4b",
+  "unitId": "60c3da15bd8b182653d8",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-078"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "お父様",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：ホムンクルス］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "父亲大人",
+    "effectZh": "[登场时],从自己的山札上方翻开3张。从中公开最多1张 [特征：人类造人] 并加入手牌，其余按任意顺序置于自己山札下方。若将此卡加入手牌，则将手牌一张置于场外",
+    "triggerZh": ""
+  }
+}

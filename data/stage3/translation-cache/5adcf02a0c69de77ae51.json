@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:03:30.706Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5adcf02a0c69de77ae51",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-054"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "篠澤 広",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から1枚を自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "篠泽 广",
+    "effectZh": "【登场时】\n查看自己牌库上方的3张卡。从中选择1张放回自己牌库上方，其余的按任意顺序置于下方。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

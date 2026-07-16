@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:25:55.752Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a6a2b0ceca98a6d3b17d",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-051"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジュンイチ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "纯一",
+    "effectZh": "[启动主阶段]\n[位于前线 L]\n[回合 1]\n抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

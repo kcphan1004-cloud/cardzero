@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:10:00.336Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9294e597e4b4e5ef6c04",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-011"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "南雲",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "南云",
+    "effectZh": "[登场时]\n抽一张牌，并将手札中一张卡放置至场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

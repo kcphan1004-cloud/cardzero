@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:18:30.306Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8d2cd2b23db320552a6e",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-011"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ギャオス",
+    "effect": "[起動メイン]\n[レストにする]\n自分の手札の特徴を持たないキャラカードを1枚場外に置く。そうした場合、カードを1枚引く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "盖奥",
+    "effectZh": "[启动主效果]\n[横置时]\n将自己手札中没有特征的角色卡 1 张放置到场外。如此操作时，抽牌 1 张。",
+    "triggerZh": "[颜色]\n选择对手 BP3500 以下的位于前线 L 的角色的 1 张并返回手牌。"
+  }
+}

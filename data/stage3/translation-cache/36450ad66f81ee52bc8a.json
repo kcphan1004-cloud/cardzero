@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:41:47.555Z",
+  "model": "qwen3.5:4b",
+  "unitId": "36450ad66f81ee52bc8a",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-046"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "キン肉マン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "筋肉人",
+    "effectZh": "",
+    "triggerZh": "[手牌] 将此卡加入手中。"
+  }
+}

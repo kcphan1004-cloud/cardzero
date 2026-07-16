@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:12:53.785Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5b36e7cb0939d8a66505",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-105"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "無免ライダー",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无免ライダー",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

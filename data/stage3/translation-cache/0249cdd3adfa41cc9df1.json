@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:27:51.762Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0249cdd3adfa41cc9df1",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-042"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "鏡凪 シャル",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[退場時]\nこのカードを自分の山札の上に置いてもよい。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "鏡凪シャル",
+    "effectZh": "[无效冲击]\n（此卡与进行战斗的卡牌在本场战斗中失去冲击）\n[离场时]\n可将其置于己方牌库上方。",
+    "triggerZh": "[激活]\n选择己方场地的一张角色卡，使其激活，本回合中该卡的 BP+3000。"
+  }
+}

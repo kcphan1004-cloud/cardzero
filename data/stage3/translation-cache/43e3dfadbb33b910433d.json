@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:10:13.014Z",
+  "model": "qwen3.5:9b",
+  "unitId": "43e3dfadbb33b910433d",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-046"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ノア",
+    "effect": "[相手のターン中]\n自分のライフエリアから\n[トリガー]\nを持たないカードが場外に置かれた時、このキャラをアクティブにし、このターン中、BP+1000。〈ノア〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺亚",
+    "effectZh": "[对方回合中]\n从自己的生命区域\n[触发]\n没有的卡被置入场外时，激活该角色，本回合 BP+1000。〈诺亚〉的这个效果每回合只能发动 1 次。",
+    "triggerZh": ""
+  }
+}

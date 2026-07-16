@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:28:43.422Z",
+  "model": "qwen3.5:9b",
+  "unitId": "679098c3989c1d1434cf",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-002"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーウォズ",
+    "effect": "[自分のターン中]\nこのターン中に自分の山札から\n[レイド]\nを持つ黄以外のカードを公開して手札に加えている場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Woz",
+    "effectZh": "[自己的回合中]\n若本回合中将自己牌库中具有\n[Raid]\n且非黄色的卡片公开并加入手牌，此角色 BP+1500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

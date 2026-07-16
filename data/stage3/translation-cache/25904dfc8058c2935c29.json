@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:57:59.874Z",
+  "model": "qwen3.5:4b",
+  "unitId": "25904dfc8058c2935c29",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-060"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "七宝",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "七宝",
+    "effectZh": "[登场时]\n选择自己场上的一张其他角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

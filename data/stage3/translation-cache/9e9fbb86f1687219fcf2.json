@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:03:38.321Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9e9fbb86f1687219fcf2",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-080"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ノーランドの思惑",
+    "effect": "自分の山札の上から3枚見る。その中からキャラカードを1枚公開し手札に加える。残りを望む順で自分の山札の下に置く。このターン中、次に手札から使用する〈ノーランド・フォン・リューネベルク〉かカード名に「ファウルバウト」を含むカードの消費APを-1する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺兰德的心思",
+    "effectZh": "查看手牌上方3张卡。从中公开并加入手牌的一张角色卡，其余按任意顺序置于你的手牌下方。在本回合中，下次从手牌使用的「诺兰德·冯·吕内贝格」或名称包含“法乌尔巴特”的卡的消耗AP-1。",
+    "triggerZh": ""
+  }
+}

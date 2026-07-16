@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:54:58.028Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9b3badf1153fdb61766d",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-013"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "りん",
+    "effect": "自分のフロントLに〈殺生丸〉がある場合、このキャラの発生エナジー+\n[紫]\n。\n[登場時]\nこのキャラが場外から登場していた場合、自分の場の〈殺生丸〉を1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凛 (前)",
+    "effectZh": "若己方前线 L 上有〈杀生丸〉，本角色的发生能量+\n[紫]。\n[登场时] 若本角色是从场外登场的，则选择己方场上的〈杀生丸>一张并激活。",
+    "triggerZh": ""
+  }
+}

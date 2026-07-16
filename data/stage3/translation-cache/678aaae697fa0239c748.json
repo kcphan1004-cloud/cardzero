@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:19.217Z",
+  "model": "qwen3.5:4b",
+  "unitId": "678aaae697fa0239c748",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-002"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "綾波 レイ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[相手のターン中]\nこのキャラは移動せず、手札に戻らず、BPをマイナスする効果を受けない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绫波 丽",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本战斗中失去\n[冲击]）\n[对手回合中]\n该角色不移动，也不回到手牌，且不受BP减少的效果影响。",
+    "triggerZh": ""
+  }
+}

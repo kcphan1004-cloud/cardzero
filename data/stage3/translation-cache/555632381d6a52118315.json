@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:02.226Z",
+  "model": "qwen3.5:4b",
+  "unitId": "555632381d6a52118315",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-025"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "奈落",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "奈落",
+    "effectZh": "[登场时]\n选择对手的前线 L 的 1 张角色，本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

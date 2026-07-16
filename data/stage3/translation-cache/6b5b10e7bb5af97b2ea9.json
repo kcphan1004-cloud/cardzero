@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:58:32.189Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b5b10e7bb5af97b2ea9",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-010"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "W",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "W",
+    "effectZh": "[登场时]\n将必要能量在 1 及以下的自己场上其他角色中最多 1 枚返回手牌。若无法如此操作，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

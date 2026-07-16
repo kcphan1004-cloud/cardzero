@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:45.384Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8eada15db2ed419f1b41",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-019"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "メイ・チャン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "梅兰·简",
+    "effectZh": "",
+    "triggerZh": "[获得] 将此卡加入手牌"
+  }
+}

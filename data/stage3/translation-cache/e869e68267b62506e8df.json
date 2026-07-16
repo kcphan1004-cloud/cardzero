@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:52:53.049Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e869e68267b62506e8df",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-002"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "葛城 リーリヤ",
+    "effect": "[ブロック時]\nこのキャラはこのターン中、『BP-1000』。アタックしている相手のキャラがレイド状態の場合、『BP+1000』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "葛城 リーリヤ",
+    "effectZh": "[阻挡时]\n此角色本回合为『BP-1000』。若攻击中的对手角色处于 Raid 状态，则改为『BP+1000』。",
+    "triggerZh": ""
+  }
+}

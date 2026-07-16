@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:17.589Z",
+  "model": "qwen3.5:4b",
+  "unitId": "41cd57fe51970e258429",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-031"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "歯磨き",
+    "effect": "自分のフロントLのアクティブの〈阿良々木 火憐〉を1枚レストにする。そうした場合、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "刷牙",
+    "effectZh": "将自己的 Front L 侧激活的〈阿良々木 火憐〉最多选择 1 张设为横置。如此操作后，抽取 3 张卡。<br>[抽]<br>抽取 1 张卡。",
+    "triggerZh": "[抽]<br>抽取 1 张卡"
+  }
+}

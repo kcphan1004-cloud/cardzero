@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:44.755Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c4b8a77ca18812b16ad1",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/TLR-1-019"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "黒咲 芽亜",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "黑咲 芽亚",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，将其激活，本回合中 BP+3000。"
+  }
+}

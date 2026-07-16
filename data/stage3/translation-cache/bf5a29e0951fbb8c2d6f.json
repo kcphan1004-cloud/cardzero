@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:01:07.415Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bf5a29e0951fbb8c2d6f",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-041"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "有村 麻央",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有村 麻央",
+    "effectZh": "[冲击无效化]\n（与该角色进行战斗的角色在本战斗中失去\n[冲击]）、",
+    "triggerZh": ""
+  }
+}

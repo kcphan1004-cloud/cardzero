@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:12.606Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b4600948087cd29f031d",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-005"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "シェリル・ノーム",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "谢莉尔·诺姆",
+    "effectZh": "登场时\n抽 1 张卡，将手札中的 1 张场外放置。",
+    "triggerZh": "[抽取]\n抽 1 张卡。"
+  }
+}

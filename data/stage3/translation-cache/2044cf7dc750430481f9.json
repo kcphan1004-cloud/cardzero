@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:49:23.138Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2044cf7dc750430481f9",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-069",
+    "UA31BT/MMM-1-069"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "キュゥべえ",
+    "effect": "[退場時]\nこのカードを手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "丘比",
+    "effectZh": "[退场时]\n将此卡加入手牌。",
+    "triggerZh": ""
+  }
+}

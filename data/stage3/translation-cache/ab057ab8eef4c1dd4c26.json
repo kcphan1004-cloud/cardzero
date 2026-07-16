@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:39:26.027Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ab057ab8eef4c1dd4c26",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-101"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリア",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛利亚",
+    "effectZh": "[登场时]\n选择自己场上的其他 1 张角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

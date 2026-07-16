@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:00:06.644Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f0400e1f3c3ddf6dd880",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-017"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "水篠 旬",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[紫×2]\n減らす。\n[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "水篠 旬",
+    "effectZh": "若己方场上无牌，则把手札中的此卡所需能量\n[紫×2]\n减少。\n[登场时]\n从己方卡组上方翻开一张，置于卡组上方或场外。",
+    "triggerZh": "[激活]\n选择己方场上的角色进行一回合一次，BP+3000。"
+  }
+}

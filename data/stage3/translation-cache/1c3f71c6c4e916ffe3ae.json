@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:51.007Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1c3f71c6c4e916ffe3ae",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-085",
+    "UA44BT/EVA-1-085"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "葛󠄀城 ミサト",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。\n・自分の場のキャラを1枚まで選び、別のラインに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "葛城 ミサト",
+    "effectZh": "登场时,\n从以下中选择 1 项。\n・选择我方场上的其他角色中最多 1 张，本回合 BP+1000。\n・选择我方场上的角色中最多 1 张，移动至另一条线。",
+    "triggerZh": "[抽牌]\n抽取 1 张卡片。"
+  }
+}

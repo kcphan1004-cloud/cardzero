@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:28.272Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0b08aeec014cb1d1ecfc",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-009"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绯村 剑心",
+    "effectZh": "[冲击无效]\n（与此角色战斗的角色在本战斗中失去\n[冲击]）\n[登场时]\n从自己的牌库上方看2张。从中将想要的数量按你想要的顺序放在自己的牌库上方，其余放到场外。",
+    "triggerZh": ""
+  }
+}

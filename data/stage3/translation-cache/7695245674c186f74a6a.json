@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:47:28.556Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7695245674c186f74a6a",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-086"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ミカサ・アッカーマン",
+    "effect": "[自分のターン中]\n自分の場に他の［特徴：104期兵］が5枚以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三笠·阿克曼",
+    "effectZh": "[在自己的回合中]\n若自己场上有其他［特征：第 104 期兵］达到 5 张以上，该角色获得 BP+1000。",
+    "triggerZh": ""
+  }
+}

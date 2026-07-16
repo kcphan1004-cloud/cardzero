@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:21:58.677Z",
+  "model": "qwen3.5:9b",
+  "unitId": "446fe4df8896f7d47016",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-026"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ボブ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鲍勃",
+    "effectZh": "[无效冲击] \n（与该角色进行战斗的角色在本场战斗中，\n[冲击]\n将失去）",
+    "triggerZh": ""
+  }
+}

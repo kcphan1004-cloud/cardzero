@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:27:00.041Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c32b8ca6e3e80affb39",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-055"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "シエル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "谢尔",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[紫]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

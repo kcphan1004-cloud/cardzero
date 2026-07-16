@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:11:21.831Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1d1ae33e3a1882d4262",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-003"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "亜白 ミナ",
+    "effect": "[登場時]\nこのキャラと同じラインに〈伐虎〉がある場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "亚白 美娜",
+    "effectZh": "[登场时]\n本角色所在的能量线上有〈伐虎〉的情况下，选择对方前线 L 的角色最多 1 张并横置。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张并激活，在本回合中 BP+3000。"
+  }
+}

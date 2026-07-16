@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:07.093Z",
+  "model": "qwen3.5:4b",
+  "unitId": "28cb759b7ac780c9ed98",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-014"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "佐々木 琲世",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\n自分の場外から必要エナジーが2以下の［特徴：真戸班］を1枚手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐々木琲世",
+    "effectZh": "[横置]\n（自己的移动阶段可以从前线线向能量线移动）\n[激活主场]\n[当前处于前线线的情况下]\n[支付1点AP]\n[回合数：1]\n从手牌外将需要的2张或以下的［特征：真户班］加入手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:58.318Z",
+  "model": "qwen3.5:4b",
+  "unitId": "87b963b6ea8b5ac46257",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-072"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ベータ",
+    "effect": "[自分のターン中]\n自分の場に［特徴：七陰］のカード名が5種類以上ある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝塔",
+    "effectZh": "[本回合中]\n若己方场上存在 5 种以上［特征：七阴］的卡名，该角色 BP+1500。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

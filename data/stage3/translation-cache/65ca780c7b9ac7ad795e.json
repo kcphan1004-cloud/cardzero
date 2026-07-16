@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:53:55.187Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65ca780c7b9ac7ad795e",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-010"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "篠澤 広",
+    "effect": "[登場時]\nこのターン中、次に手札から使用するBP2500以下のキャラカードの消費APを-1する。〈篠澤 広〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "篠泽广",
+    "effectZh": "[登场时]\n在本回合中，下次从手牌使用的原本 BP2500 以下的角色卡的消耗 AP-1。<篠泽 广>的此效果每回合仅能发动一次。",
+    "triggerZh": ""
+  }
+}

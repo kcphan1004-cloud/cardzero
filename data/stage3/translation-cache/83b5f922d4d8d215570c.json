@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:45:33.014Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83b5f922d4d8d215570c",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-065"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "マーレの戦士",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "玛雷的战士",
+    "effectZh": "选择最多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，从自己牌库上方取 1 张放入自己的生命区域。"
+  }
+}

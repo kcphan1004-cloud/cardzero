@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:09:25.843Z",
+  "model": "qwen3.5:9b",
+  "unitId": "330a9f45bf27f7e53330",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-040"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ドロシー",
+    "effect": "自分の場に\n[トリガー]\nを持つカードがない場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "多萝西",
+    "effectZh": "若我方场上没有持有 [触发] 的卡牌，该角色获得 BP+500。",
+    "triggerZh": ""
+  }
+}

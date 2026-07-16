@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:20.192Z",
+  "model": "qwen3.5:4b",
+  "unitId": "62fd24dd98dc215d018e",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-050"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分のフロントLのレイド状態でないキャラを1枚まで選び、そのキャラの\n[トリガー]\nを発動する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "坂本太郎",
+    "effectZh": "[登场时]\n可以将自己的手札中一张置于场外。如此操作后，选择自己 Front L 上非雷迪状态的卡最多一张，发动该卡的\n[触发]。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

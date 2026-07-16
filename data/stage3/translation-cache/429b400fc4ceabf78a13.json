@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:48:59.862Z",
+  "model": "qwen3.5:9b",
+  "unitId": "429b400fc4ceabf78a13",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-006"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "鴉",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鸦",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌"
+  }
+}

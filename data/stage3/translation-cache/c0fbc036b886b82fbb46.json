@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:08.796Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c0fbc036b886b82fbb46",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-105"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "レオリオ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "レオリオ",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

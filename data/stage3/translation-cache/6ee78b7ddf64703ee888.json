@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:58.632Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6ee78b7ddf64703ee888",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-084"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "セリム・ブラッドレイ",
+    "effect": "このカードは〈プライド〉としても扱う。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "塞尔姆·布拉德雷",
+    "effectZh": "本卡可视为「骄傲」。",
+    "triggerZh": "[激活]\n选择己方场上的1张角色，将其置为激活状态，本场中 BP+3000。"
+  }
+}

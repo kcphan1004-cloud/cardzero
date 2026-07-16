@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:54:28.625Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0a3570fad94f6e820eb2",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-023"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "戸愚呂（弟）",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場の他のキャラを1枚退場させる。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "户愚吕弟",
+    "effectZh": "[启动主效果]\n[回合 1]\n使自己场上的其他角色 1 枚退场。若如此操作，此角色在本回合中 BP+1000。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

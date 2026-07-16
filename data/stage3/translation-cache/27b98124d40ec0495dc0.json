@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:44:35.379Z",
+  "model": "qwen3.5:9b",
+  "unitId": "27b98124d40ec0495dc0",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-060"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ライナー・ブラウン",
+    "effect": "[登場時]\nカードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "莱纳·布朗",
+    "effectZh": "[登场时]\n抽牌 2 张并将自己的手牌中 1 张置入场外。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

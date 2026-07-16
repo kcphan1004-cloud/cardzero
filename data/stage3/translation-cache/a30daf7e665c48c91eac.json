@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:50.993Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a30daf7e665c48c91eac",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-068"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "K",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "K",
+    "effectZh": "[登场时]将必要的能量为 1 以下的你场上的其他角色 1 张返回手札。若无法返还，则将此卡返回手札。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:59:08.446Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7be21da9a2404f72c5b7",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-001"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "シャイ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "腼腆英雄",
+    "effectZh": "【阶段】\n（在自己的移动相位中可从前线 L 移至能量线）",
+    "triggerZh": "【激活】\n选择自己场上的 1 枚角色并将其激活，本回合中，+3000 BP"
+  }
+}

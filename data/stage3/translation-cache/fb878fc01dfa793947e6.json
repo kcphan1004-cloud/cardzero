@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:15.854Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fb878fc01dfa793947e6",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-100"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "美食會",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の他の手札が3枚以下の場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "美食会",
+    "effectZh": "选择对方 BP3000 以下的角色 L 的 1 名角色并将其退场。若自己其他手牌为 3 张以下，则改为“BP5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的 1 名角色并将其退场。"
+  }
+}

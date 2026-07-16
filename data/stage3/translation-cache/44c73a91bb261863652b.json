@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:48.367Z",
+  "model": "qwen3.5:4b",
+  "unitId": "44c73a91bb261863652b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GIM-2-017"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "姫崎 莉波",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姫崎 莉波",
+    "effectZh": "[无效冲击]\n（本角色与对手战斗时，该对手在本场战斗中失去冲击）",
+    "triggerZh": ""
+  }
+}

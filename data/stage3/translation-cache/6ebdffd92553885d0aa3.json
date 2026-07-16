@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:46:35.842Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ebdffd92553885d0aa3",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-079"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "コニー・スプリンガー",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "康尼·斯普林格",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色最多 1 枚，将其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:47:38.299Z",
+  "model": "qwen3.5:4b",
+  "unitId": "428638c2f1c98128fdf6",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-058"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ブレイズ",
+    "effect": "[登場時]\n自分のエナジーLのキャラを1枚まで選び、このターン中、「このキャラは退場しない。」を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "Blaze",
+    "effectZh": "[登场时]\n选择自己的能量 L 中至多一张角色，给予其本回合内“此角色不会离场”的效果。\n[激活]\n选择自己场地中的一张角色并使其进入激活状态，并给予其本回合 BP+3000。",
+    "triggerZh": "[抽牌]"
+  }
+}

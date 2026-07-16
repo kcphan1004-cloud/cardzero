@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:07:19.353Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6a0c53554f1362f60d91",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-035"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "乾杯",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "干杯",
+    "effectZh": "选择最多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，将自己山札上方 1 张牌放置到自己的生命区域。"
+  }
+}

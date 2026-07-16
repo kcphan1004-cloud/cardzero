@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:28:22.209Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c353a3dfb4187cadd1ae",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-061"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "イデアール機母艦",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場に［特徴：イデアール］が4枚以上ある場合のみ発動できる。相手のフロントLのキャラを1枚選び、このターン中、BP-500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "伊达尔母舰",
+    "effectZh": "这张场地以激活状态登场。\n[启动主]\n[横置]\n仅在自己场上有［特征：伊达尔］的卡 4 枚以上时才能发动。选择对方前线 L 的角色中的 1 枚，本回合中 BP-500。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

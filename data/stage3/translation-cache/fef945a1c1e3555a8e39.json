@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:21:58.676Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fef945a1c1e3555a8e39",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-025"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ドルチェ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "多切",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

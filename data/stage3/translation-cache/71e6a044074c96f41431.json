@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:04:59.752Z",
+  "model": "qwen3.5:4b",
+  "unitId": "71e6a044074c96f41431",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-014"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "戦慄のタツマキ",
+    "effect": "[フロントLにある場合]\n自分の場の〈地獄のフブキ〉は、相手の〔キャラ・トリガー〕の効果で選ばれない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战栗的塔马奇",
+    "effectZh": "[当前位于前线 L]\n若场上存在〈地狱之浮木〉，则其不会被对手角色的〔角色·触发〕效果选中。",
+    "triggerZh": "[抽卡]\n抽卡 1 张"
+  }
+}

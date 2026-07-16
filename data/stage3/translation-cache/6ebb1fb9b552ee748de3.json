@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:56.453Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ebb1fb9b552ee748de3",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-087"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "フラム",
+    "effect": "[登場時]\n「相手はカードを1枚引く。」を自分が選んでもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "弗拉姆",
+    "effectZh": "[登场时]\n可以选择让「对手抽牌。」由自己发动。",
+    "triggerZh": ""
+  }
+}

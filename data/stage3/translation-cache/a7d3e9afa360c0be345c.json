@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:23:52.115Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a7d3e9afa360c0be345c",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/CGD-1-023"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アッシュ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿什",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+\n[黄]。",
+    "triggerZh": ""
+  }
+}

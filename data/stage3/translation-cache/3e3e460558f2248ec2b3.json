@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:31.362Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3e3e460558f2248ec2b3",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-065"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "国家錬金術師",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "国家炼金术师",
+    "effectZh": "选择至多 2 张你的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n如果你的生命值为空，从你牌库上方抽一张牌放到你的生命区域。"
+  }
+}

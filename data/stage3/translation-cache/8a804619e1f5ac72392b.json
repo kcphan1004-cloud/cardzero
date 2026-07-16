@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:49:23.137Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8a804619e1f5ac72392b",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-AP01/S",
+    "UA31BT/MMM-1-AP02/S"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

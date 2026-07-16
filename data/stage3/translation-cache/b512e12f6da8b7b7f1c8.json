@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:10:00.337Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b512e12f6da8b7b7f1c8",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-013"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "朝倉 シン",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを山札の上か下に置く。上に置いた場合、そのカードを表向きにする。（山札の一番上ではなくなった場合は裏向きに戻る）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朝仓 信",
+    "effectZh": "[登场时]\n从己方的牌库上方翻开一张卡。将该卡放置于牌库上方或下方。若置于上方，则该卡片正面朝上。（当不再为牌库最上方的卡牌时变为背面朝上）",
+    "triggerZh": ""
+  }
+}

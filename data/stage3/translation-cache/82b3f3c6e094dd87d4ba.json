@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:33:10.111Z",
+  "model": "qwen3.5:4b",
+  "unitId": "82b3f3c6e094dd87d4ba",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KGD-1-068"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "嬴政",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "嬴政",
+    "effectZh": "[登场时]\n抽一张牌，将一张角色置于自己场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

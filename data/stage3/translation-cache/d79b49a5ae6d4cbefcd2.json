@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:55:25.690Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d79b49a5ae6d4cbefcd2",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-AP01",
+    "UA31BT/MMM-1-AP01",
+    "UA31BT/MMM-1-AP02",
+    "UA31BT/MMM-1-AP03",
+    "UA31BT/MMM-1-AP04",
+    "UA31BT/MMM-1-AP05",
+    "UA31BT/MMM-1-AP06"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "アクションポイントカード(魔法少女まどか☆マギカ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (魔法少女小圆)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:37.590Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2e1bd5b2b771672ca4a2",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-014"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "羽前 京香",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "羽前 京香",
+    "effectZh": "",
+    "triggerZh": "[激活] \n将这张卡加入手牌。"
+  }
+}

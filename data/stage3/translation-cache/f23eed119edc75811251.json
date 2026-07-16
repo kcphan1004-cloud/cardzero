@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:50.856Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f23eed119edc75811251",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-007",
+    "UA37BT/FMA-1-007"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ウィンリィ・ロックベル",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "温莉·洛克贝尔",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合 BP+1000。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张卡。"
+  }
+}

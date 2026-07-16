@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:54.379Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e27e190a4535b512023a",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-070"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "縁下 力",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "缘下 力",
+    "effectZh": "当对手场地上存在黄色或蓝色的卡片时，将手牌中的这张卡片的必要能量\n[赤×1]\n减少。",
+    "triggerZh": ""
+  }
+}

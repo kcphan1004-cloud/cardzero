@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:51.533Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a974f355367206f50222",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-038"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ナツキ・スバル",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "纳奇克·斯巴鲁",
+    "effectZh": "[登场时]\n抽1张卡并将自己手札中的1张卡置于场外。",
+    "triggerZh": "[抽取]\n抽1张卡"
+  }
+}

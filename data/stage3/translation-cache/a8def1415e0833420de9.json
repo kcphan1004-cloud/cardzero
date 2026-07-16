@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:44:57.893Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a8def1415e0833420de9",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-004"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ベアトリス",
+    "effect": "[登場時]\nカードを1枚引く。このターン中に自分がイベントカードを使用している場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝阿特丽斯",
+    "effectZh": "[登场时]\n抽取 1 张卡片。若自己在本回合中使用了事件卡，则选择自己的 AP 角色中的 1 张并激活之。",
+    "triggerZh": "[抽牌]\n抽取 1 张卡片"
+  }
+}

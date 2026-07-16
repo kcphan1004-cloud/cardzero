@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:07.802Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c3028b08f372d15d489e",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-110"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "有馬 貴将",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで与える直接ダメージは2ダメージ）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "有马贵将",
+    "effectZh": "[伤害（2）] （该角色通过攻击造成的直接伤害为 2 点）、",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其进入激活状态，本回合 BP+3000"
+  }
+}

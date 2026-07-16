@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:39:20.391Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b1bf88b892a7218b20e9",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-026"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジャイガー",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場外から必要エナジーが2以下の〈ジャイガー〉を1枚まで自分の場にレストで登場させる。\n・自分の場外から〈ジャイガー〉を1枚まで手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "杰格兽",
+    "effectZh": "[登场时]选择以下之一。\n・从自己的场外将最多1张所需能量为2以下的〈杰格兽〉以横置状态在自己的场上登场。\n・从自己的场外将自己手牌中的1张〈杰格兽〉加入自己手牌。",
+    "triggerZh": "[激活]\n选择自己场上的怪兽，将其激活，本回合BP+3000"
+  }
+}

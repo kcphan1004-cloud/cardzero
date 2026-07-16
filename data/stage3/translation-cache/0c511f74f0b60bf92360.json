@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:14.367Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0c511f74f0b60bf92360",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-053"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "グリード・カークウェイン",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "格莱德·柯克温",
+    "effectZh": "[离场时]\n抽一张卡。",
+    "triggerZh": ""
+  }
+}

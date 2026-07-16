@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:12:57.282Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ac6f1921ea0743ce9abe",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-064"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "天地万物を斬るとはこういうことだ。",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の他の手札が3枚以下の場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "这就是斩断天地万物的意思。",
+    "effectZh": "选择对方前线 L 的 1 名 BP3000 以下的角色并使其退场。若自己其他手牌为 3 张以下，则改为“BP5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 枚并使其退场。"
+  }
+}

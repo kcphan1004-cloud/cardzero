@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:15.637Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4cf176ce3757f5e8d13a",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-072"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ミリア・ファリーナ・ジーナス",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "米莉亚·法里娜·吉纳斯",
+    "effectZh": "",
+    "triggerZh": "[抽卡]\n抽取卡片 1 张"
+  }
+}

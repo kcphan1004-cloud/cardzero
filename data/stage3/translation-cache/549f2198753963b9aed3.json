@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:44:07.399Z",
+  "model": "qwen3.5:4b",
+  "unitId": "549f2198753963b9aed3",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SNF-1-056"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "サンラク",
+    "effect": "自分の場に〈オイカッツォ〉がある場合、このキャラはBP+500。\n自分の場に〈アーサー・ペンシルゴン〉がある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "サンラク",
+    "effectZh": "如果自己的场上有【オイカッツォ】，本角色的 BP+500。\n如果自己的场上有【アーサー・ペンシルゴン】，本角色的 BP+500。",
+    "triggerZh": "[抽] 抽取一张卡牌。"
+  }
+}

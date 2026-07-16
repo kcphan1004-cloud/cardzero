@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:18:50.930Z",
+  "model": "qwen3.5:9b",
+  "unitId": "95893dd5639f08190610",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-090"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ホシグマ",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "星熊",
+    "effectZh": "[阻挡 2 次]\n（该角色本回合首次阻挡时激活）",
+    "triggerZh": ""
+  }
+}

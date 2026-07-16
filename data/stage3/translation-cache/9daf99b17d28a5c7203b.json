@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:10.707Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9daf99b17d28a5c7203b",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-001"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "エリス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "艾莉丝",
+    "effectZh": "",
+    "triggerZh": "[登场] 将此卡加入手牌。"
+  }
+}

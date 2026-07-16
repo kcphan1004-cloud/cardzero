@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:19.848Z",
+  "model": "qwen3.5:4b",
+  "unitId": "25173d250adb8d10a1ac",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-036"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "若狭 サハラ",
+    "effect": "[アタック時]\n自分のフロントLの〈駿河 朱々〉を1枚手札に戻してもよい。そうした場合、相手のフロントLの〔\n[インパクト無効]\nを持つキャラか元々のBPが5000以上のキャラ〕を1枚まで選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "若狭 サハラ",
+    "effectZh": "【攻击时】\n可将被置于前线L的〈骏河 朱々〉1张放回手牌。如此，可选择对方前线L中的\n[无效化]\n持有者或原本BP为5000以上的角色1张进行退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:42:10.230Z",
+  "model": "qwen3.5:4b",
+  "unitId": "26b71059b7875132a23f",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/RLY-1-041"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "大大大大大好きな彼女たち",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "大大大大大喜欢的她们",
+    "effectZh": "选择自己AP卡最多2张并激活。",
+    "triggerZh": "[最终]\n若自己的生命值为零，从自己牌库上方翻开1张置于自己的生命区域"
+  }
+}

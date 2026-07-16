@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:47.463Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bdb4d47f0ba1ee0a9eb7",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-AP01",
+    "UA33BT/NGR-1-AP02",
+    "UA33BT/NGR-1-AP03",
+    "UA33BT/NGR-1-AP04",
+    "UA33BT/NGR-1-AP05",
+    "UA33BT/NGR-1-AP06",
+    "UA33BT/NGR-1-AP07",
+    "UA33BT/NGR-1-AP08",
+    "UA33BT/NGR-1-AP09",
+    "UA33BT/NGR-1-AP10",
+    "UA33BT/NGR-1-AP11",
+    "UA33BT/NGR-1-AP12"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "アクションポイントカード(2.5次元の誘惑)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (2.5 次元的诱惑)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

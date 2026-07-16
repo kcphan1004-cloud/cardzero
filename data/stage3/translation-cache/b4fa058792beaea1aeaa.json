@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:51:00.939Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b4fa058792beaea1aeaa",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-087"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "スネークオルフェノク",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蛇型兽人",
+    "effectZh": "当对方场上存在黄色或蓝色的卡片时，减少此卡在手牌中的必要能量\n[赤×1]",
+    "triggerZh": ""
+  }
+}

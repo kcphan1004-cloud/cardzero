@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:09.646Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0737a5481c75300e3755",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-034"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "アレックス・ルイ・アームストロング",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "亚历克斯·路易·阿姆斯特朗",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 个，将其激活。本回合中 BP+3000"
+  }
+}

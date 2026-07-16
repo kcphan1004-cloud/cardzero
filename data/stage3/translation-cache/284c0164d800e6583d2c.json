@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:39:48.484Z",
+  "model": "qwen3.5:4b",
+  "unitId": "284c0164d800e6583d2c",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-020"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ストロング・ザ・武道",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "强·武道家",
+    "effectZh": "[冲击（1）]（攻击并赢得战斗时，对手玩家受到 1 点伤害）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:05.619Z",
+  "model": "qwen3.5:4b",
+  "unitId": "27d1b9de90fb9775307a",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-103"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "碇 シンジ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "碇 真嗣",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线L移动到能量L）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:28:30.125Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ebcb77a1efd18520c716",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-070"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "フィル",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "菲尔",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": ""
+  }
+}

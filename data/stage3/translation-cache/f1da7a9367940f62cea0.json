@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:39.201Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f1da7a9367940f62cea0",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-053"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "Mr.イナズマ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Mr.イナズマ",
+    "effectZh": "[启动主阶段]\n将角色横置\n本回合中，该角色获得+\n[红色]的效果以及「主阶段结束时将该角色退场」的效果。",
+    "triggerZh": ""
+  }
+}

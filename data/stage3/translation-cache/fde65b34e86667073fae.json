@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:58:32.183Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fde65b34e86667073fae",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-005"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "クラウンスレイヤー",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：レユニオン］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "冠位干将",
+    "effectZh": "[登场时]\n查看自己牌库上方的 3 张卡。从中公开最多 1 张［特征：联合］并加入手牌。将其余的按任意顺序置于自己的牌库下方。若加入了手牌，则将自己的一张手牌置入场外。",
+    "triggerZh": ""
+  }
+}

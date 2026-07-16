@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:21.508Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2dc12108cb12066f8b3c",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-059"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ナナ・アスタ・デビルーク",
+    "effect": "[退場時]\n自分の場に〈モモ・ベリア・デビルーク〉がある場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "七草 阿斯塔·德比鲁克",
+    "effectZh": "[退场时]若己方场上有〈桃井 贝莉亚·德比鲁克〉，抽一张牌。",
+    "triggerZh": "[激活]\n选择己方场上的一个角色并使其处于激活状态，本回合BP+3000"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:59.765Z",
+  "model": "qwen3.5:4b",
+  "unitId": "54ffa156a643ee0a9cb1",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-054",
+    "UA42BT/MGS-1-054"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羽川 翼",
+    "effectZh": "[登场时]\n从己方牌库上方翻看一张卡，将该卡置于牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

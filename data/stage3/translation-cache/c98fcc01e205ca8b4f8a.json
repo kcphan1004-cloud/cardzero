@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:30:10.060Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c98fcc01e205ca8b4f8a",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/IMS-1-050"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "浅倉 透",
+    "effect": "[登場時]\n自分の手札の［特徴：noctchill］を1枚場外に置いてもよい。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "浅仓 透",
+    "effectZh": "[登场时]\n可以将自己的手牌中［特征：noctchill］的卡片一张置于场外。如此操作的话，可以选择自己的一张AP卡并激活之。",
+    "triggerZh": ""
+  }
+}

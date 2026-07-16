@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:07.746Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d8d40ea200ed55da5d74",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-019"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "地獄のフブキ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "地狱的芙露琪",
+    "effectZh": "[登场时] 从牌库上方抽一张卡，将手札中的一张置于场外。",
+    "triggerZh": "[触发]\n从牌库上方抽一张卡。"
+  }
+}

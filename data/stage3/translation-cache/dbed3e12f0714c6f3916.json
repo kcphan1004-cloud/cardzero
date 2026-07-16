@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:58:36.982Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dbed3e12f0714c6f3916",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-062",
+    "UA17BT/TRK-1-062"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "釘パンチ",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に〈トリコ〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "钉拳",
+    "effectZh": "选择对方前线 L 的 BP5000 以下的角色至多 1 张，将其『放回手牌』。若我方场上有〈特瑞科〉存在，则改为使其『退场』。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色至多 1 张并使其退场。"
+  }
+}

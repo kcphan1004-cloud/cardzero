@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:47:15.292Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c0a53bf25c79cab13262",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-069"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーカイザ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士凯撒",
+    "effectZh": "【登场时】\n抽 1 张牌，将自己的手牌将 1 张置到场外。",
+    "triggerZh": "抽取]\n抽 1 张牌。"
+  }
+}

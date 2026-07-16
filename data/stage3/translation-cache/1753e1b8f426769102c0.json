@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:19.693Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1753e1b8f426769102c0",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-098"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "飛天御剣流",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。\nこのカードが自分の場の赤の〈緋村 剣心〉の効果で自分の手札から場外に置かれた時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "飛天御剣流",
+    "effectZh": "选择对手面前线的一张角色并使其处于横置状态。\n当此卡因自己场上的红色<绯村 剑心>的效果从手札被置于场外时，抽一张。",
+    "triggerZh": ""
+  }
+}

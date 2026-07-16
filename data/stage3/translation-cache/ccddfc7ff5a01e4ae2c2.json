@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:10:21.504Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ccddfc7ff5a01e4ae2c2",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-058"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ドクター・シュヴァルツ",
+    "effect": "[登場時]\n[アタック時]\n自分の場外にあるカードを1枚自分の山札の下に置いてもよい。そうした場合、相手は自身の場外にあるカードを1枚自身の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "施瓦茨医生",
+    "effectZh": "【登场时】\n【攻击时】\n可以将己方场外存在的 1 张卡放置于自己山札下方。若如此操作，对手必须将自身场外的 1 张卡放置于其山札下方。",
+    "triggerZh": "【抽卡】\n抽 1 张牌。"
+  }
+}

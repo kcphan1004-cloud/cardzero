@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:17:54.580Z",
+  "model": "qwen3.5:9b",
+  "unitId": "489c70432c11289c5bd9",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-082"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "スワイヤー",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "斯怀耶尔",
+    "effectZh": "【登场时】\n抽 1 张牌，将自身手牌中的 1 张置为横置状态。",
+    "triggerZh": "【触发：抽卡】\n抽 1 张牌。"
+  }
+}

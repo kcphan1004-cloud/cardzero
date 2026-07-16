@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:54:28.623Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9c1992f9302d38532263",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-021"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "Dr.イチガキ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Dr.イチガキ",
+    "effectZh": "若此角色处于激活状态，其产生能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

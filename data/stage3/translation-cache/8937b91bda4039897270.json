@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:36.599Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8937b91bda4039897270",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-008"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "神原 駿河",
+    "effect": "[登場時]\n自分の場外から〈解呪の儀式〉か必要エナジーが1以下の〈千石 撫子〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神原 駿河",
+    "effectZh": "[登場時]\n從場外選擇〈解呪の儀式〉或必要エナジー為1以下的〈千石 撫子>，最多將1張加入手札。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:00.721Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6f33c7d518249ce4ed00",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-032"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "映画館",
+    "effect": "[登場時]\n自分の場に〈マキマ〉がある場合、自分の場外から必要エナジーが3以下の〔〈デンジ〉か〈デート〉〕を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "电影院",
+    "effectZh": "【登场时】\n若己方场上有「玛奇玛」，则从场外消耗 3 点以下能量的〔「电次」或「约会」〕中的 1 张加入手牌。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:53.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "96ccccd16cc751dabc31",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-060"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "[登場時]\n自分の場外から紫の［特徴：魔法少女］を1枚まで手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "[登场时]\n从场外将最多 1 张 [特征：魔法少女]（紫）加入手牌。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡，将其激活，在本回合中，BP+3000。"
+  }
+}

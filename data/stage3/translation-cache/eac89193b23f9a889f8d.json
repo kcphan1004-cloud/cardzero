@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:33:32.632Z",
+  "model": "qwen3.5:4b",
+  "unitId": "eac89193b23f9a889f8d",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KIN-1-056"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "テリーマン",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "テリーマン",
+    "effectZh": "[阶段]\n（可从前线L移动至能量L）",
+    "triggerZh": ""
+  }
+}

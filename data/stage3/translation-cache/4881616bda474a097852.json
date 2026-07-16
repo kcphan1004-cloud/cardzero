@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:00.142Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4881616bda474a097852",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-094"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "この熱はあなたがくれたもの",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『このターン中、「このキャラはブロックできない」を与える』。自分の場に〔〈カナタ〉か〈デイジーオーガ〉〕と〈シエル〉がある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "这份热度是你给予的，",
+    "effectZh": "选择对方前线 L 区域 BP5000 以下的角色 1 张，赋予「本回合中，“该角色无法阻挡”」。若我方场上有〈卡塔〉或〈黛西·奥加〉与〈谢尔〉存在时，效果变为“使其退场”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 区域的角色 1 张并使其退场。"
+  }
+}

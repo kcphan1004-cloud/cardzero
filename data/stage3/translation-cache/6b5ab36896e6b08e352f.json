@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:16:15.945Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b5ab36896e6b08e352f",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-008"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ファン",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "凡恩",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并激活，本回合中 BP+3000。"
+  }
+}

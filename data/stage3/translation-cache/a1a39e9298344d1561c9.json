@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:54:28.912Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a1a39e9298344d1561c9",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-006"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "殺生丸",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[自分のターン中]\nこのターン中に自分のキャラが場外から登場している場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "殺生丸",
+    "effectZh": "[無效化衝擊]\n（與此角色進行戰鬥的角色在本場戰中失去衝擊）\n【本回合期間】\n若本回合內有己方角色從場地外登場，則該角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

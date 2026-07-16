@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:22:07.455Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b17b96c11062512f8fe6",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-102"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[青×2]\n減らす。\n[登場時]\n自分のフロントLにカード名に「アルト」を含むキャラがある場合、BP2500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兰卡·蕾儿",
+    "effectZh": "若己方场上没有卡片，则减少手牌中本卡的必要能量[蓝×2]。\\n[登场时]\\n若己方 Front L 有名字包含“阿尔托”的字符，可选择对方 BP2500 以上的 Front L 中的 1 张角色，该回合内其 BP-2000。",
+    "triggerZh": "[登场时]"
+  }
+}

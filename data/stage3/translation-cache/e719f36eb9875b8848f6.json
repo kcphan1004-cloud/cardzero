@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:44.619Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e719f36eb9875b8848f6",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-077"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "つらかったでちゅねぇ…ボクちゃん",
+    "effect": "自分の場外から〈蘇枋 隼飛〉を1枚まで手札に加える。自分の手札から必要エナジーを満たし消費APが1の〈蘇枋 隼飛〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "很痛啊……笨蛋",
+    "effectZh": "从对手外将最多一张〈苏枋 隼飞〉加入手牌。满足所需能量并消耗 AP 为 1 的〈苏枋 隼飞〉一张，将其以休息状态或雷击方式登场到己方场上。",
+    "triggerZh": ""
+  }
+}

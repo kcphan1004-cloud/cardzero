@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:17.585Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d82afd90a7ba400bddf1",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-028"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "起きろオオオーッ兄ちゃんッ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "起来吧大奥兄啊",
+    "effectZh": "将自己的 AP 卡最多选择 2 张设为激活。<br>[最终]<br>若自己的生命值为空，从自己的牌库上方取一张卡置于自己的生命区。",
+    "triggerZh": "[终结]<br>若自己的生命值为空，从自己的牌库上方取一张卡置于自己的生命区"
+  }
+}

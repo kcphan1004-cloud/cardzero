@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:02.883Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b772347442fc5eccdee3",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-106"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "リザ・ホークアイ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莉莎·霍克艾",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取一张卡片。"
+  }
+}

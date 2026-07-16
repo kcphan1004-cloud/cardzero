@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:29:19.126Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2a92f88b3b9f0817735e",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-074"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "円卓",
+    "effect": "自分の場に他の［特徴：UNION］が3枚以上ある場合、このフィールドの発生エナジー+\n[赤]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "圆桌",
+    "effectZh": "自己场上有其他「特征：UNION」的卡有 3 张以上时，本区域的产生能量 +\n[赤]\n。",
+    "triggerZh": "[GET] \n将此卡加入手牌。"
+  }
+}

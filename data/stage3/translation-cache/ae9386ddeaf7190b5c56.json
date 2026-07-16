@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:18:50.621Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ae9386ddeaf7190b5c56",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-026"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "古橋 伊春",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "古桥伊春",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": ""
+  }
+}

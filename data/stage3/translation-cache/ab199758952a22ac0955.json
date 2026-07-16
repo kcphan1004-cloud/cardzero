@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:53:39.842Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ab199758952a22ac0955",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-013"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "陣",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "阵",
+    "effectZh": "",
+    "triggerZh": "[触发] 将此卡加入手牌。"
+  }
+}

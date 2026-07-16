@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:32:52.766Z",
+  "model": "qwen3.5:4b",
+  "unitId": "abfae27ae45a504aedff",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-011"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "十亀 条",
+    "effect": "自分の場に〈兎耳山 丁子〉がある場合、手札にあるこのカードの消費APを-1する。\n[自分のターン中]\n自分の場外にキャラカードがない場合、このキャラはBP+500。\n[登場時]\n自分の場外にある［特徴：獅子頭連］を2枚までリムーブエリアに置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "十亀 条",
+    "effectZh": "若己方场上有「兎耳山 丁子」，则手牌中本卡的消耗 AP-1。\n[己方回合期间]\n若己方场外无角色卡，则该角色的 BP+500。\n[登场时]\n将最多2张［特征：狮子头连］从弃置区移至回收区。",
+    "triggerZh": "[抽牌]"
+  }
+}

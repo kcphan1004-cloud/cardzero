@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:24.950Z",
+  "model": "qwen3.5:4b",
+  "unitId": "95133ea4ad96c7f0d5ae",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-108"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の山札の上から1枚見る。そのカードを山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羽川翼",
+    "effectZh": "[本角色的回合期间内]\n该角色的BP+1000。\n[启动主场地]\n[当存在前场线时]\n[第1次发动]\n将自己的牌库上方翻开一张，将其置于自己的手札中或牌库下方。",
+    "triggerZh": ""
+  }
+}

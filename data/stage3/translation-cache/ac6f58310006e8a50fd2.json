@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:48:52.363Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ac6f58310006e8a50fd2",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-048"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ラブ",
+    "effect": "このカードは全ての場所で必要エナジーを\n[青×5]\nとしても扱う。\n[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉布",
+    "effectZh": "这张卡在所有场地均作为必要能量为\n[青×5]\n处理。\n[登场时]\n查看自己山札上方 2 张。从中按任意顺序将想要的数量放回自己的山札上方，其余的置入场外。",
+    "triggerZh": ""
+  }
+}

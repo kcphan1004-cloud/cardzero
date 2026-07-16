@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:39:20.395Z",
+  "model": "qwen3.5:4b",
+  "unitId": "33225ec7affaa8e837ff",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-028"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "バイラス",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "病毒兽",
+    "effectZh": "[登场时]\n抽1张，将自己手牌的1张置于自己的场外。",
+    "triggerZh": "[激活]选择自己场上的怪兽，将其激活，本回合BP+3000"
+  }
+}

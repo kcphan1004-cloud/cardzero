@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:10.047Z",
+  "model": "qwen3.5:4b",
+  "unitId": "28ce476d552c52e8f629",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-074"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "ルノー",
+    "effect": "[登場時]\n自分の場の他の［特徴：DFN］を1枚まで選び、このターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雷诺",
+    "effectZh": "【登场时】\n选择己方场上的一个［特征：DFN］（最多 1 个），给予其「本家回合内 [冲击 (1)] （攻击并赢得战斗时，对对手造成 1 点伤害）」的效果。\n\n[抽牌]",
+    "triggerZh": "【抽取】\n从牌库上方抽取一张卡牌。"
+  }
+}

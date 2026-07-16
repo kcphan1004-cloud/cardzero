@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:32.124Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5f02f064faddb3bda876",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-059"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "南雲",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[自分のターン中]\nこのターン中に自分か相手の\n[トリガー]\nが発動している場合、このキャラは「このキャラはBP4000以上のキャラにブロックされない。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "南云",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本战斗中\n失去\n[冲击]）\n[己方回合中]\n若本场或对手场有\n触发\n发动，本卡获得「该角色不会被 BP4000 以上的角色阻挡」的效果。",
+    "triggerZh": ""
+  }
+}

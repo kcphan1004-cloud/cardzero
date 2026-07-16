@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:25.982Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dd914f3b5779cece0d03",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-098"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "何かいいことでもあったのかい？",
+    "effect": "自分の場のキャラを1枚選び、このターン中、「\n[アタック時]\n[ターン1]\nカードを3枚まで引く。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "何かいいことでもあったのかい？",
+    "effectZh": "选择己方场地上的角色一张，给予其本回合中「\n[攻击时]\n[第 1 回合]\n最多抽卡 3 张。」的效果。",
+    "triggerZh": "[抽取]\n抽卡 1 张"
+  }
+}

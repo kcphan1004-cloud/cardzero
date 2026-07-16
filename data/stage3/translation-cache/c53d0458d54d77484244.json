@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:48.919Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c53d0458d54d77484244",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/HTR-1-072"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "クラピカ",
+    "effect": "自分の発生エナジーが6以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克拉皮卡",
+    "effectZh": "若己方产生的能量为 6 以上，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

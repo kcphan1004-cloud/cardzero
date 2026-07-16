@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:18.080Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0e50d0e3ec3fac8e9f03",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-029"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "マーベラス",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛贝拉斯",
+    "effectZh": "当本角色处于激活状态时，本角色的发生能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

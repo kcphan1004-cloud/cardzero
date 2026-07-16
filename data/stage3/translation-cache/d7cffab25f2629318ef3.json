@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:26.465Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d7cffab25f2629318ef3",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-039"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "ボンっ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈レゼ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "电锯人 (邦)、退场效果：BP 3000 以下，能量线：BP 5000 以下",
+    "effectZh": "选择对手场上 BP 3000 以下的角色卡一张并使其离场。若己方场地有〈雷泽〉存在，则变为 BP 5000 以下。",
+    "triggerZh": "[特殊]\n选择对手场上的一张角色卡并使其离场"
+  }
+}

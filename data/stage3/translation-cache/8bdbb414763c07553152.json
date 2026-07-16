@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:12.604Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8bdbb414763c07553152",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-003"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "シェリル・ノーム",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "谢莉尔·诺姆",
+    "effectZh": "[无效冲击] \n（与本角色战斗的角色在本战斗中，\n失去 [冲击]）",
+    "triggerZh": "自己的场上的角色 1 枚选择，激活并本回合中 BP+3000。"
+  }
+}

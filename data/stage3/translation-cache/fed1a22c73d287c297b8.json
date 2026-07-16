@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:20:12.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fed1a22c73d287c297b8",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-001",
+    "UA18BT/NIK-1-001"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "シフティー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[黄]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "希芙蒂",
+    "effectZh": "【启动主阶段】\n【横置状态】\n【回合 1】\n本回合中，该角色的产生能量 +[黄]\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

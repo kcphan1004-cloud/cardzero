@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:54.775Z",
+  "model": "qwen3.5:4b",
+  "unitId": "82015578a7d53269f0bd",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-027"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "金色の闇",
+    "effect": "[自分のターン中]\n自分の場に〈結城 美柑〉がある場合、このキャラはBP+1000。\n[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "金色之暗",
+    "effectZh": "[在自己回合期间]\n若己方场上有「结城 美柑」存在，则该角色的BP+1000。\n[登场时]\n也可以将己方手札中1张卡置于场外。此时使该角色激活。",
+    "triggerZh": "[抽取]\n抽1张牌"
+  }
+}

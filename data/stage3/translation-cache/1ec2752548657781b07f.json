@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:33.041Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1ec2752548657781b07f",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/FMA-1-053"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ロイ・マスタング",
+    "effect": "[登場時]\nBP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗伊·马斯汀",
+    "effectZh": "[登场时] 选择一张 BP1500 以上的对手的前线 L 角色，在本回合中其 BP-1000。",
+    "triggerZh": ""
+  }
+}

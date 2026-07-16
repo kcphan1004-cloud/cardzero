@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:59:52.654Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5dbcb6444f621c812263",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-091"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "明神 弥彦",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "明神弥彦",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择己方场上的一张角色，将其激活，本回合 BP+3000。"
+  }
+}

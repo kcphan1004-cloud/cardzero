@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:59:24.469Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2227eda30f3aebf87242",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-027"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "花海 佑芽",
+    "effect": "自分のフロントLにBP4000以上のキャラがある場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花海佑芽",
+    "effectZh": "当自己的前线 L 存在 BP4000 以上的角色时，该角色的产生能量+\n[青]\n。",
+    "triggerZh": ""
+  }
+}

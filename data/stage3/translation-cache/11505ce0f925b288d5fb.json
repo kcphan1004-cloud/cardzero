@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:12.414Z",
+  "model": "qwen3.5:4b",
+  "unitId": "11505ce0f925b288d5fb",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-002"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "心太",
+    "effect": "このカードは〈緋村 剣心〉としても扱う。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "心太",
+    "effectZh": "本卡可当作〈绯村 剑心〉使用。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其处于激活状态，本回合 BP+3000"
+  }
+}

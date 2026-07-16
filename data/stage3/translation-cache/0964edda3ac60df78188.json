@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:33:23.582Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0964edda3ac60df78188",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-045"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "金田一 勇太郎",
+    "effect": "[登場時]\nBP1500以上の相手のフロントLのキャラを『1枚まで』選び、このターン中、BP-1000。\n[レイド]\n〈金田一 勇太郎〉アクティブにし、フロントLに移動できる\nこのキャラの\n[登場時]\nの『1枚まで』が『2枚まで』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金田一 勇太郎",
+    "effectZh": "【登场时】\n选择对方前线L的BP1500以上的角色至多1张，本回合中，-1000 BP。\n【Raid】\n将〈金田一 勇太郎〉激活并移动至前线L\n该角色的\n【登场时】\n中的“至多1张”变为“至多2张”。",
+    "triggerZh": ""
+  }
+}

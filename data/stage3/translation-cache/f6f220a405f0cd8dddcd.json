@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:36:37.073Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f6f220a405f0cd8dddcd",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-092"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "永近 英良",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "永近 英良",
+    "effectZh": "本角色为激活状态时，获得本角色的发生能量+\n[赤]。",
+    "triggerZh": ""
+  }
+}

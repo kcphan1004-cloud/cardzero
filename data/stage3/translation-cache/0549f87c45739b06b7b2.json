@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:45:25.840Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0549f87c45739b06b7b2",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-056"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーブレイブ クエストゲーマー レベル2",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士Brave Quest Gamer Level 2",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +[蓝]。",
+    "triggerZh": ""
+  }
+}

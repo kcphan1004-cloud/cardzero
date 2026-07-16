@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:01:50.017Z",
+  "model": "qwen3.5:4b",
+  "unitId": "860d8a4b1eff8a2f99ec",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-040"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "絶対遵守のギアス",
+    "effect": "自分の場に〈皇 サクヤ〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "绝对遵守的Geass",
+    "effectZh": "若你场上有〈皇 樱子〉，则你的手牌中本卡的消耗AP为-1。\n选择对手场上BP5000以下的Front L角色卡1枚并让其离场。",
+    "triggerZh": "[特殊]\n选择对手场上的Front L角色卡1枚并让其离场。"
+  }
+}

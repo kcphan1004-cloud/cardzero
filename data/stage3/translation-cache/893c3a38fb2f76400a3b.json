@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:29:22.646Z",
+  "model": "qwen3.5:9b",
+  "unitId": "893c3a38fb2f76400a3b",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-069"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "加美拉",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

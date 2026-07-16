@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:49.843Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f177f7f78e046208aca3",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-041"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "朝比奈 りん",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朝比奈 りん",
+    "effectZh": "若此角色处于激活状态，则此角色的生成能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

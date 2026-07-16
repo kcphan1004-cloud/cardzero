@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:10.891Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bf9517427ae3f0b62cf2",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-014"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "[步骤]\n（可以从前线L移动到能量L）",
+    "triggerZh": ""
+  }
+}

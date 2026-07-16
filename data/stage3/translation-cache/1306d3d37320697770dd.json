@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:30.493Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1306d3d37320697770dd",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-024"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "李牧",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "李牧",
+    "effectZh": "[登场时] 抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[触发]\n抽一张牌。"
+  }
+}

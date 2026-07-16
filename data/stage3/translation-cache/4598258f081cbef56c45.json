@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:39.066Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4598258f081cbef56c45",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-006",
+    "UA37BT/FMA-1-006"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ヴァン・ホーエンハイム",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "范霍恩海姆",
+    "effectZh": "［登场时］\\n将必要能量为 1 以下的自己场上的其他角色中的 1 张加回手札。无法将其加回手札的话，将该角色加回手札。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:35:26.810Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a5d2f82d9bd4a6aedc12",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-016"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "コニー・スプリンガー",
+    "effect": "相手の場に緑か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "康尼·斯普林格",
+    "effectZh": "对方场地有绿色或红色的卡片时，减少此卡在手中时的必要能量\n[青×1] \n的数值。",
+    "triggerZh": ""
+  }
+}

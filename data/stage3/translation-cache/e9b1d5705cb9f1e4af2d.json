@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:33:07.970Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e9b1d5705cb9f1e4af2d",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-013"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "兎耳山 丁子",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "兎耳山 丁子",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n将本张卡加入手札。"
+  }
+}

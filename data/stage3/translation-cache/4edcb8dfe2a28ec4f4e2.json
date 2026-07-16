@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:38.349Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4edcb8dfe2a28ec4f4e2",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-059"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "いいよ、キミとの音…",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "好的，和你共鸣的……",
+    "effectZh": "选择最多 2 张自己的 AP 卡并激活它们。",
+    "triggerZh": "[最终]\n若你的生命值没有数值，从牌库上方抽一张牌放入你的生命区域。"
+  }
+}

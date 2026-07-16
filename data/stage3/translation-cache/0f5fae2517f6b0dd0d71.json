@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:21:03.241Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0f5fae2517f6b0dd0d71",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-017"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "トキオ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "东京",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

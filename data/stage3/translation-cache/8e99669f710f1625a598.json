@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:01.113Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8e99669f710f1625a598",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-110"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "自分のフロントLに〈ナツキ・スバル〉がある場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "若自己的前线 L 存在〈夏吉·斯波达尔〉，则本角色的发生能量 +[青]。",
+    "triggerZh": ""
+  }
+}

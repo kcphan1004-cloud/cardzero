@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:38.303Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a0e994fd27b28118841c",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/HIQ-1-011"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "孤爪 研磨",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "孤爪 研磨",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

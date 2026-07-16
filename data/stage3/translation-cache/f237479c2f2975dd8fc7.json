@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:21.584Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f237479c2f2975dd8fc7",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-AP01",
+    "UA47BT/TKG-1-AP01",
+    "UA47BT/TKG-1-AP02",
+    "UA47BT/TKG-1-AP03",
+    "UA47BT/TKG-1-AP04",
+    "UA47BT/TKG-1-AP05",
+    "UA47BT/TKG-1-AP06"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "アクションポイントカード(東京喰種トーキョーグール)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡(东京喰种Tokyo Ghoul)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

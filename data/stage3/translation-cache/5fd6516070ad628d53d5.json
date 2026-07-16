@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:19.849Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5fd6516070ad628d53d5",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-037"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "七番組寮",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下の［特徴：七番組］を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "七番组寮",
+    "effectZh": "【登场时】\n可将被置于外场的己方手牌1张置入场外。如此，可从己方场外加选能量需求为3以下的［特征：七番组］的卡1张加入手牌。",
+    "triggerZh": "【获得】\n将该卡加入手牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:50.991Z",
+  "model": "qwen3.5:4b",
+  "unitId": "25187a9384be659be77f",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-066"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "イザ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伊扎",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取 1 张卡。"
+  }
+}

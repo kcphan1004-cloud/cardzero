@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:07:10.576Z",
+  "model": "qwen3.5:9b",
+  "unitId": "474eb72935750ff07e54",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-062"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "墓守のウェザエモン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "墓守的韦扎埃蒙",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将这张卡片加入手牌。"
+  }
+}

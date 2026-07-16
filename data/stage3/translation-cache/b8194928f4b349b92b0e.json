@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:26:33.331Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b8194928f4b349b92b0e",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/DST-1-052"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "獅子王 司",
+    "effect": "自分の場に特徴に「司帝国」を持つフィールドがある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "狮子王 司",
+    "effectZh": "若己方场上存在带有「司帝国」特征的场地，此角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

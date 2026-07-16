@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:48:59.857Z",
+  "model": "qwen3.5:9b",
+  "unitId": "90c88916b9a9f9f80f65",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-001"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "美しい魔闘家鈴木",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美丽的魔斗家铃木",
+    "effectZh": "[无效冲击]（与该角色进行战斗的角色在本场战斗中，失去 [冲击]）\n[阻挡 2 次]\n（该角色本回合首次阻挡时，激活）、triggerZh:",
+    "triggerZh": ""
+  }
+}

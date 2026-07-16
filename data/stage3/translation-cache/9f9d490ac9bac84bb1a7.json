@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:32.121Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9f9d490ac9bac84bb1a7",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-057"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "南雲",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "南云",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对手玩家受到 1 点伤害）",
+    "triggerZh": "[激活]\n选择自己场地的一张角色进行激活，本场 BP+3000"
+  }
+}

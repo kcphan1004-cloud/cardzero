@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:14:39.532Z",
+  "model": "qwen3.5:9b",
+  "unitId": "421a029ecede7a13089c",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-AP01/S"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

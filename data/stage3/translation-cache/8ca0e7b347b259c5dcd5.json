@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:18:30.306Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ca0e7b347b259c5dcd5",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-010"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ギャオス",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場の特徴を持たないキャラを1枚退場させる。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "盖奥",
+    "effectZh": "[启动主效果]\n[第 1 回合]\n将自己场上的没有特征的角色退场。如此操作时，该角色在本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

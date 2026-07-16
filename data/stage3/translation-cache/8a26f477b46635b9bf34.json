@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:45.778Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8a26f477b46635b9bf34",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-016"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "[登场时]\n查看自己山札上方的1张卡，将其置于自己的山札上方或场外。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:59:11.256Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2e5494e3bc0d439e8e05",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-017"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "ピーツ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "皮茨",
+    "effectZh": "【登场时】\n将自己场上的其他角色中必要能量为 1 以下的 1 张返回手牌。若无法返回，则将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

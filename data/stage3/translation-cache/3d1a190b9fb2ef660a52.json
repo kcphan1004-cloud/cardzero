@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:20.196Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3d1a190b9fb2ef660a52",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-053"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "神々廻",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神々廻",
+    "effectZh": "当此卡处于激活状态时，将此卡的生成能量+\n[紫]。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:27.226Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2e9e3da492c2392433b7",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-026"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "諸菱 賢太",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "諸菱 賢太",
+    "effectZh": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "triggerZh": ""
+  }
+}

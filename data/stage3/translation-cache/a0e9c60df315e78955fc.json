@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:40.498Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a0e9c60df315e78955fc",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-085"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ミレーヌ・フレア・ジーナス",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米蕾娜·弗莱亚·吉纳斯",
+    "effectZh": "本角色激活时，本角色的发生能量加\n[红]。",
+    "triggerZh": ""
+  }
+}

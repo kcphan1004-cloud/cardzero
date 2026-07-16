@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:15:07.808Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4ac65f3cd58364b40d4e",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-015"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "神楽木 葵",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "神乐木 葵",
+    "effectZh": "[2回阻挡]\n（当角色在本回合首次阻挡时，激活）",
+    "triggerZh": "[激活]\n选择自己场上的1张牌并激活，本回合中BP+3000。"
+  }
+}

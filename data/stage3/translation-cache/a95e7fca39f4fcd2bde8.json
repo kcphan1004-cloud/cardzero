@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:31.230Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a95e7fca39f4fcd2bde8",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-010"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "式波·明日香·兰格雷",
+    "effectZh": "[登场时]\n最多可选择1张己方场上的角色一张，在本回合中\n给予\n[冲击（1）]\n（攻击并战胜战斗时，对对手玩家造成1点伤害）。",
+    "triggerZh": ""
+  }
+}

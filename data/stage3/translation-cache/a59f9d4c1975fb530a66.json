@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:10.706Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a59f9d4c1975fb530a66",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-AP01",
+    "UA53BT/CSM-1-AP02",
+    "UA53BT/CSM-1-AP03",
+    "UA53BT/CSM-1-AP04",
+    "UA53BT/CSM-1-AP05",
+    "UA53BT/CSM-1-AP06",
+    "UA53BT/CSM-1-AP07",
+    "UA53BT/CSM-1-AP08",
+    "UA53BT/CSM-1-AP09",
+    "UA53BT/CSM-1-AP10",
+    "UA53BT/CSM-1-AP11",
+    "UA53BT/CSM-1-AP12"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "アクションポイントカード(チェンソーマン)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（链锯人）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

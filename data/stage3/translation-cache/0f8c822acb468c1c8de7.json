@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:51:11.039Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0f8c822acb468c1c8de7",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-048"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "湯野 波音",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[緑]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "汤野 波音",
+    "effectZh": "[启动主侧]\n[横置状态]\n[回合1]\n本角色于本场中获得发生能量+\n[绿]\n及\n“主侧结束时，令此角色离场”。",
+    "triggerZh": ""
+  }
+}

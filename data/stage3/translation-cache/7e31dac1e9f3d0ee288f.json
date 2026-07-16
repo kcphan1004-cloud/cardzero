@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:12.417Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7e31dac1e9f3d0ee288f",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-003"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "高荷 恵",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[青]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "高荷 惠",
+    "effectZh": "[启动主侧]\n[横置]\n[第 1 回合]\n该角色在本回合中，发生能量+\n[青]并获得「主侧结束阶段，将该角色退场」。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:33.871Z",
+  "model": "qwen3.5:4b",
+  "unitId": "53c9eede8e746a661ec4",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-034"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "スイリュー",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "Sylure",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n从卡组上方抽取 1 张卡牌。"
+  }
+}

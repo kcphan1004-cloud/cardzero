@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:21:29.767Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1cc675e4d6778b0f5c0a",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-053",
+    "UA36BT/MCR-1-053"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "キャサリン・グラス",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[青]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯瑟琳·格拉斯",
+    "effectZh": "发动主,横置状态,回合 1,本角色在本回合中，发生能量 + [青] 和「主阶段结束时，让这个角色离场。」",
+    "triggerZh": ""
+  }
+}

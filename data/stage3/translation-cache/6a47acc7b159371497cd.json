@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:48:52.365Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6a47acc7b159371497cd",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-049"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "リン",
+    "effect": "[登場時]\n自分の場に〈トリコ〉がある場合、BP3000以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "琳",
+    "effectZh": "[登场时]\n如果自己的场地上有〈特瑞科〉，选择对方前线 L 的角色至多 1 张并横置。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

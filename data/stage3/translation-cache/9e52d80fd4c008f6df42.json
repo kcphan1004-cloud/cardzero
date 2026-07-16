@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:36:26.107Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9e52d80fd4c008f6df42",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-017"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "サシャ・ブラウス",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "萨莎·布劳斯",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

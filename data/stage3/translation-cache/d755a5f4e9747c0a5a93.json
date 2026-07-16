@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:38:28.688Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d755a5f4e9747c0a5a93",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MHA-2-005"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "蛙吹 梅雨",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蛙吹梅雨",
+    "effectZh": "[登场时],抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[抽取],抽一张牌。"
+  }
+}

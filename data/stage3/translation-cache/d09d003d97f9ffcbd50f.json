@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:45:25.841Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d09d003d97f9ffcbd50f",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-057"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーブレイブ クエストゲーマー レベル1",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Brave Quest Gamer Level 1",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张角色，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

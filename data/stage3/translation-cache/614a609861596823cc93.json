@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:25:50.459Z",
+  "model": "qwen3.5:9b",
+  "unitId": "614a609861596823cc93",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-008"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "小鹿野 大樹",
+    "effect": "[自分のターン中]\n自分の場の他のカードに、「高校」を含む異なる特徴が3種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "小鹿野 大树",
+    "effectZh": "【自己的回合中】\n如果自己场上的其他卡片拥有包含“高校”的、超过 3 种不同的特征，这张角色 BP+1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

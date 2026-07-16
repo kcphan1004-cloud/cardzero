@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:14:39.526Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f07c698cda2bb6ef5b7a",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-077"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ヒーローの休日",
+    "effect": "カードを2枚引く。自分の場に〈シャイ〉と〈小石川 惟子〉がどちらもある場合、さらにカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "英雄的假日",
+    "effectZh": "抽 2 张牌。如果自己的场上有〈腼腆〉和〈小石川惟子〉其中之一，再抽 1 张牌并将自己手札中的 1 张置入场外。",
+    "triggerZh": "[登场]\n抽 1 张牌。"
+  }
+}

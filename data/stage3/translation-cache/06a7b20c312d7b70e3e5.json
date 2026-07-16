@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:05.615Z",
+  "model": "qwen3.5:4b",
+  "unitId": "06a7b20c312d7b70e3e5",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-101"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "相田 ケンスケ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "相田 健司",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线L移动到能量L）",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其激活，本回合中BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:08.795Z",
+  "model": "qwen3.5:4b",
+  "unitId": "931c401709d687747fd3",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-104"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ミト",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "ミト",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

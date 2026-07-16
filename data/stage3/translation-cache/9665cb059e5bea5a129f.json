@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:21:53.306Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9665cb059e5bea5a129f",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-100"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "龍門幣",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "龙门币",
+    "effectZh": "选择最多 2 张自己的 AP 卡牌并激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，将自己牌库上方的一张卡置于自己的生命区域。"
+  }
+}

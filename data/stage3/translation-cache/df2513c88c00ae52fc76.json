@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:56.375Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df2513c88c00ae52fc76",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-039"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "何て事ない日常",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "没什么大不了的日常",
+    "effectZh": "选择己方AP值为2张以下的角色卡，使其激活状态。",
+    "triggerZh": "[最终]\n若己方生命区域无生命值时，从己方牌库上方抽一张至己方生命区域。"
+  }
+}

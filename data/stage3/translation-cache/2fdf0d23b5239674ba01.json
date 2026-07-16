@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:51:05.875Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2fdf0d23b5239674ba01",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-101"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "暁美 ほむら",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "晓美 焰",
+    "effectZh": "[登场时]\n抽 1 张牌，并将我方手札中的 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

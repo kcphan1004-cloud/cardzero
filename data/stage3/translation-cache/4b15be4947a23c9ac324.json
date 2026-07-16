@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:24.149Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4b15be4947a23c9ac324",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-006"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "神原 駿河",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "神原 骏河",
+    "effectZh": "[登场时]\n抽一张牌，将自己的手札中的1张置于场外。",
+    "triggerZh": "[抽取]抽一张牌"
+  }
+}

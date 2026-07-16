@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:59.818Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d7e23ce7d1742ec19e00",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-036"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "不治",
+    "effect": "相手のフロントLのキャラを1枚選び、次の自分のターン開始時まで、BP-2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "不治",
+    "effectZh": "从对手的 Front L 中选择 1 名角色，直到下一个自己的回合开始为止，BP-2000。",
+    "triggerZh": ""
+  }
+}

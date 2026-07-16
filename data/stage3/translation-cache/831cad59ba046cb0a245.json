@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:03:33.496Z",
+  "model": "qwen3.5:9b",
+  "unitId": "831cad59ba046cb0a245",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-022"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ジャッカル",
+    "effect": "[ターン1]\n自分のフロントLのアクティブのキャラを自分の効果でレストにした時、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "豺狼",
+    "effectZh": "[回合 1]\n当自己的前线 L 的激活角色通过自身效果变为横置状态时，该角色在本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:42.105Z",
+  "model": "qwen3.5:4b",
+  "unitId": "84ced98947fa765bdc6d",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-008"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "篠澤 広",
+    "effect": "[自分のターン中]\n自分のフロントLに元々のBPが2500以下の他のキャラがある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "篠泽 广",
+    "effectZh": "[在自己回合中]\n如果自己的前线 L 有原本 BP 为 2500 以下的其他角色，则该角色的 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 个角色并使其处于激活状态，本回合内 BP+3000。"
+  }
+}

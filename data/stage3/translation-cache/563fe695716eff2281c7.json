@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:25:00.629Z",
+  "model": "qwen3.5:9b",
+  "unitId": "563fe695716eff2281c7",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-003"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "澤村 大地",
+    "effect": "[アタック時]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "泽村大地",
+    "effectZh": "[攻击时]\n该角色在本回合中，BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

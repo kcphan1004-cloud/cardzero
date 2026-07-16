@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:35:32.034Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d9c00130e513b5b5f4af",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KMR-P-001",
+    "UAPR/KMR-P-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "仮面ライダー",
+    "effect": "このカードの色と必要エナジーは、全ての色として扱う。\n自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士",
+    "effectZh": "本卡的颜色与所需能量视为所有颜色。\n选择并激活最多2张你的AP卡片。",
+    "triggerZh": "[最终]\n若你无生命，从牌库上方抽一张置于你的生命区。"
+  }
+}

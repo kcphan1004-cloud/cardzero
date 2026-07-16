@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:48.839Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b41a93153fde5dc31062",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-091"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "雷土",
+    "effect": "自分の場に〈桓騎〉がある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。\n[自分のターン中]\nこのターン中にキャラの効果でキャラが退場していた場合、このキャラはBP+1000と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雷土",
+    "effectZh": "若自己场上有<em style=\"font-family: 'Hiragino Kaku Gothic Pro', sans-serif;\">〈桓骑〉</em>，则减少手牌中本卡所需的能量<span style=\"color:red\">赤×1</span><br/>[在本回合中] 若在角色效果使角色退场时，该角色获得 BP+<strong>1000</strong>和<br/><strong>[冲击（1）]</strong><em>(攻击并战斗胜利时对对手造成 1 点伤害)</em>。",
+    "triggerZh": ""
+  }
+}

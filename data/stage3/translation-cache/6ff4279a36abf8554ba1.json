@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:21.411Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6ff4279a36abf8554ba1",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-028"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "地獄嵐",
+    "effect": "相手のフロントLの〔レストのキャラかBP1500以下のキャラ〕を1枚選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "地獄嵐",
+    "effectZh": "选择对手的前线 L 的一张〔横置角色或 BP1500 以下的角色〕，使其退场。",
+    "triggerZh": "[抽]\n抽取一张"
+  }
+}

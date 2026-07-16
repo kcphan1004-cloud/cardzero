@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:47:13.685Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b15bdc7b5855aae9811c",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-108"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "飛信隊",
+    "effect": "自分の場に［特徴：飛信隊］のカード名が4種類以上ある場合、このフィールドの発生エナジー+\n[青]\n。\n[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "飛信隊",
+    "effectZh": "若你的场上［特征：飞信队］的卡牌名称种类数达到 4 种或以上，本场的生成能量+\n[蓝色]\n。\n[登场时]\n从你山牌上方翻开一张，置于其上方或场外。",
+    "triggerZh": "[获取]\n将此卡牌加入手牌。"
+  }
+}

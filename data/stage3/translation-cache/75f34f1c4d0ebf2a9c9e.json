@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:38:00.963Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75f34f1c4d0ebf2a9c9e",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-047"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "鹿目 まどか",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鹿目圆",
+    "effectZh": "[登场时]\n抽一张牌并将自己的一张手牌置为场外。",
+    "triggerZh": "[抽卡]\n抽一张牌。"
+  }
+}

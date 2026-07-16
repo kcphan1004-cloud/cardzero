@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:03:38.319Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6191d853b77b08f81e6e",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-078"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "シトゥンぺの壁",
+    "effect": "自分の場のキャラ全てに、次の自分のターン開始時まで、「このキャラは相手のキャラの効果で選ばれない。」を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "修坦佩的墙",
+    "effectZh": "给予场上的所有角色，直到下一个自己的回合开始为止「本角色的效果不会被选择」的效果。",
+    "triggerZh": "[激活]\n选择一张场上的卡并使其进入横置状态，在本回合中BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:47:17.184Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cb6d6b2bf35e4e8c6568",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TKN-AP01"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(鉄拳7)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（铁拳 7）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

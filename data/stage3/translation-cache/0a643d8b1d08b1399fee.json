@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:46:49.886Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0a643d8b1d08b1399fee",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-021",
+    "EX13BT/GIM-2-022"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "秦谷 美鈴",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "秦谷 美铃",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取一张卡。"
+  }
+}

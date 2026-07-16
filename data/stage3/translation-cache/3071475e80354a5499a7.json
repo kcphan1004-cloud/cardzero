@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:26.170Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3071475e80354a5499a7",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-027"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ベアトリクス",
+    "effect": "[起動メイン]\n[ターン1]\n相手のフロントLにBP4500以上のキャラがある場合のみ発動できる。このキャラはこのターン中、BP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "贝阿特丽克斯",
+    "effectZh": "[启动主]\n[回合 1]\n仅当对手的前场 L 存在 BP4500 以上的角色时可发动。此角色于本回合中 BP+2000。",
+    "triggerZh": "[激活]\n选择场上的一张角色并使其处于激活状态，于本回合中 BP+3000。"
+  }
+}

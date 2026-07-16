@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:47:05.175Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e017039e27bac7cf04d2",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-032"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "メロウコーラ",
+    "effect": "自分の場のキャラを1枚選び、このターン中、BP+2000。カードを1枚引く。選んだキャラが〈ゼブラ〉の場合、さらにカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梅洛库拉",
+    "effectZh": "选择自己场上的 1 张角色卡，本回合中 BP+2000。抽 1 张牌。若选中的角色是〈斑马〉，再额外抽 1 张牌。",
+    "triggerZh": "[横置]\n抽 1 张牌。"
+  }
+}

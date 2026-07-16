@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:06:38.129Z",
+  "model": "qwen3.5:9b",
+  "unitId": "65ad8f1541ad8afa4529",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-089"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "雪菜",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雪菜",
+    "effectZh": "[启动主]\n[横置]\n选择自己场上的其他角色 1 张，本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

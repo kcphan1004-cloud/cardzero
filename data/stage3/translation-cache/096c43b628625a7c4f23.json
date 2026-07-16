@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:21:53.304Z",
+  "model": "qwen3.5:9b",
+  "unitId": "096c43b628625a7c4f23",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-098"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ペンギン急便",
+    "effect": "自分の山札の上から7枚見る。その中から［特徴：ペンギン急便］とBPが2500のキャラカードをそれぞれ1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "企鹅快递",
+    "effectZh": "查看自己牌库上方的 7 张卡。从中公开最多 1 张具有［特征：企鹅快递］且 BP 为 2500 的角色卡牌并加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

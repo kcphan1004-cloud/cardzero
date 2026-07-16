@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:03.079Z",
+  "model": "qwen3.5:4b",
+  "unitId": "238d51b27da1f3668e31",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-047"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アーノルド・レンク",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿诺尔德·伦克",
+    "effectZh": "[无效化冲击效果]\n（本回合中与该角色战斗的角色，\n失去 [冲击]）",
+    "triggerZh": "[抽牌]\n从卡组上方抽取 1 张卡。"
+  }
+}

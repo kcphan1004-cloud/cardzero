@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:50.920Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d72b91c9517de8e4792f",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-099"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "メラメラバッキューン",
+    "effect": "『BP2500以下』の相手のフロントLのキャラを1枚まで選び、退場させる。カードを1枚引き、自分の手札を1枚場外に置く。自分の場に〔〈クラウディア〉か〈グレンシノビ〉〕と〈フラム〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "烈焰巴基翁",
+    "effectZh": "选择对方前线 L 的［BP2500 以下］的一名角色最多 1 名使其退场。抽 1 张牌，将手牌中 1 张置于场外。若自己场上有〈克劳迪亚〉或〈格伦忍者〉以及〈弗拉姆〉，则改为［BP5000 以下］。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的一名角色使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:48.919Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3ce4900586077287f899",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/HTR-1-042"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ヒソカ",
+    "effect": "[登場時]\n相手の場のキャラを1枚まで選び、このターン中、「最初のアタックをブロックできない」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "一之濑",
+    "effectZh": "[登场时]\n选择对手场上的一张角色，给予其本回合中「无法阻挡最初攻击」的效果。",
+    "triggerZh": ""
+  }
+}

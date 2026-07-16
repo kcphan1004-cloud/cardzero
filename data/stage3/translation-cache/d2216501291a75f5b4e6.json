@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:00:07.696Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d2216501291a75f5b4e6",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-033"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "生徒会室",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLにBP5000以上のキャラがある場合のみ発動できる。カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "生徒会室",
+    "effectZh": "【启动主效果】\n【变为横置状态】\n【回合 1】\n仅当自己前线 L 有 BP5000 以上的角色时才能发动。抽 1 张牌，并将自己的手牌最多 1 张置于场外。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

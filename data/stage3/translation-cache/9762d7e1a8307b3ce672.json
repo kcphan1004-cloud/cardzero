@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:27:55.560Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9762d7e1a8307b3ce672",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-068"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "リリエル 天使空挺隊/リリサ",
+    "effect": "[登場時]\n自分の場の他の［特徴：天使空挺隊］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "莉莉萨 天使空挺队/里莉尔",
+    "effectZh": "[登场时]\n选择自己场上的其他［特征：天使空挺队］最多一张，本回合中 BP+1000。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 BP3500 以下的角色一张，返回手牌。"
+  }
+}

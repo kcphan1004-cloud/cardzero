@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:30.824Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6306abac4adac9a6c5c0",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-013"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "結城 美柑",
+    "effect": "[登場時]\n必要エナジーが3以下の自分の場の他のキャラを1枚まで選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "结城 美柑",
+    "effectZh": "[登场时]\n选择自己场上其他能量为3以下的角色卡至多1张，给予该回合“该角色不会被BP4000以上的角色阻挡。”的效果。",
+    "triggerZh": ""
+  }
+}

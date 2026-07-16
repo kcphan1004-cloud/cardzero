@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:17.877Z",
+  "model": "qwen3.5:4b",
+  "unitId": "03140116ba6c474cf83a",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-010",
+    "UA40BT/REZ-1-010"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ラム",
+    "effect": "[登場時]\n自分の場に〈レム〉か〈ロズワール・L・メイザース〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉姆",
+    "effectZh": "[登场时]若自己场上存在〈蕾姆〉或〈罗兹瓦尔·L·梅萨斯〉，则抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽取 1 张卡片。"
+  }
+}

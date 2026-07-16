@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:43:29.451Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69aedecd5e17432a17db",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-058"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ライナー・ブラウン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "莱纳·布朗",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:24:39.080Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8258756aa4d8d1766e97",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-039",
+    "UA30BT/ARK-1-039",
+    "EX11BT/ARK-2-047"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アーミヤ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "阿米娅",
+    "effectZh": "",
+    "triggerZh": "【获得】\n将此卡加入手牌。"
+  }
+}

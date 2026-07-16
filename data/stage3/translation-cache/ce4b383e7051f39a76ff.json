@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:13:49.729Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce4b383e7051f39a76ff",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-067"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "サクラ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[相手のターン中]\nこのキャラの下に裏向きのカードがある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "樱华",
+    "effectZh": "[无效化冲击]（与该角色进行战斗的角色在本场战斗中，失去 [冲击]\n）\n[对方回合中]\n若该角色下方有背面朝上的卡片存在，则该角色的 BP+500。",
+    "triggerZh": ""
+  }
+}

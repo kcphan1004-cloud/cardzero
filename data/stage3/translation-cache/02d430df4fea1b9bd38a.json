@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:24.339Z",
+  "model": "qwen3.5:4b",
+  "unitId": "02d430df4fea1b9bd38a",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-054"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ロイ・マスタング",
+    "effect": "[自分のターン中]\n自分の手札が2枚以下の場合、このキャラはBP+1000。\n[アタック時]\n自分の手札が0枚の場合、カードを1枚まで引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "罗伊·马斯汀格",
+    "effectZh": "[己方回合时]\n若己方手牌为2张或以下，本角色获得BP+1000。\n[攻击时]\n若己方手牌为空（0张），可抽卡最多1张。",
+    "triggerZh": "[激活] 选择场上任意一张角色并使其进入激活状态，本回合中该角色的BP+3000。"
+  }
+}

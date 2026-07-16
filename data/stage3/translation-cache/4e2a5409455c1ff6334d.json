@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:02:46.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e2a5409455c1ff6334d",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-049"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "倉本 千奈",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "仓本 千奈",
+    "effectZh": "[登场时]\n抽1张牌。",
+    "triggerZh": ""
+  }
+}

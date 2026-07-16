@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:51:05.873Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e34bcbc1f418947c47f3",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-094",
+    "UA31BT/MMM-1-094"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "クラスのみんなには、内緒だよ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈鹿目 まどか〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "对班级里的大家，要保密哦",
+    "effectZh": "选择对方前线 L 的 1 张 BP3000 以下的角色卡使其退场。若我方场上有〈鹿目 圆〉存在，则改为“BP5000 以下”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色卡并使其退场。"
+  }
+}

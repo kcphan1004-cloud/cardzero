@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:28.521Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7c37646d48dab538e94c",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-AP01",
+    "UA44BT/EVA-1-AP01",
+    "UA44BT/EVA-1-AP02",
+    "UA44BT/EVA-1-AP03",
+    "UA44BT/EVA-1-AP04",
+    "UA44BT/EVA-1-AP05",
+    "UA44BT/EVA-1-AP06"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片（《福音战士新剧场版》）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:15:27.893Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cf07b903ea9522128017",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-006"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "シェリル・ノーム",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "谢丽尔·诺姆",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+【黄】。",
+    "triggerZh": ""
+  }
+}

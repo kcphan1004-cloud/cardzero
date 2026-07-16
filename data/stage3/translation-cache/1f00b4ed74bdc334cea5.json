@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:43.349Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1f00b4ed74bdc334cea5",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-106"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "定春",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "定春",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

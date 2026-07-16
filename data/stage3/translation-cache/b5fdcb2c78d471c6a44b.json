@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:59:08.447Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b5fdcb2c78d471c6a44b",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-002"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "レディ・ブラック",
+    "effect": "[登場時]\n自分の場外から青の［特徴：ヒーロー］を1枚まで自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑皇后",
+    "effectZh": "【登场时】\n从自己的场外中选择最多 1 张［特征：英雄］放置于自己牌库上方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:00:22.954Z",
+  "model": "qwen3.5:4b",
+  "unitId": "03f8923f25eaec508870",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-023"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "水篠 潤一郎",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "水筱 润一郎",
+    "effectZh": "[两次阻挡]\n(当该角色在本回合首次阻挡时，激活)",
+    "triggerZh": "[激活]\n选择你场上的1张角色并激活，本回合中BP+3000"
+  }
+}

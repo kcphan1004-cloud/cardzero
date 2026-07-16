@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:30.921Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f8afdcd20294647cc845",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-015"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "暴力の魔人",
+    "effect": "[自分のターン中]\nこのターン中に自分が使用したイベントカード1枚につき、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "暴力魔人",
+    "effectZh": "[本家回合]\n在本家回合中使用过的1张事件卡，该角色BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:50:04.568Z",
+  "model": "qwen3.5:9b",
+  "unitId": "67d40f757091d47a2d92",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-009"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "黒桃太郎",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑桃太郎",
+    "effectZh": "[登场时]\n查看自己牌库上方 1 张卡片。将该卡片置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

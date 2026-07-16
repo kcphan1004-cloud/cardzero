@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:27.996Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8e5858a7984b6df1524d",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-060"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ナラ・ヴォーン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "娜拉·沃恩",
+    "effectZh": "若该角色处于激活状态，则该角色的发生能量+\n[青]。",
+    "triggerZh": ""
+  }
+}

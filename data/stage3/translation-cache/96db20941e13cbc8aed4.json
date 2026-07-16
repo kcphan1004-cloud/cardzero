@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:32.707Z",
+  "model": "qwen3.5:4b",
+  "unitId": "96db20941e13cbc8aed4",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-079"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "ポーション",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "药水",
+    "effectZh": "选择自己场上的AP卡2张或以下，使其激活。<br><br>[最终]<br>当自己的生命值没有时，从自己的牌库上方抽一张，将其置于自己的生命值区域。",
+    "triggerZh": "[最终]<br>当自己的生命值没有时，从自己的牌库上方抽一张，将其置于自己的生命值区域"
+  }
+}

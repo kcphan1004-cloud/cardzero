@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:39.194Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bbc187b80c5d643efeb9",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-049"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "柴 登吾",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\n自分の場の他のキャラ全ては\n[ステップ]\nを得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "柴 登吾",
+    "effectZh": "[横置]\n（本回合可以从前线L将能量线移到后场）\n[本回合中]\n自己场上的其他角色全部获得\n[横置]的效果。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取1张卡牌"
+  }
+}

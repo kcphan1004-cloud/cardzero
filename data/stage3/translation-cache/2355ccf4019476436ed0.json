@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:43.690Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2355ccf4019476436ed0",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-066"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "十本刀集結",
+    "effect": "自分の場にある〈志々雄 真実〉と〈駒形 由美〉と［特徴：十本刀］の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "十本刀集結",
+    "effectZh": "选择对手场上的FRONT L角色最多1张（自己场上〈志々雄 真実〉、〈驹形 由美〉及［特征：十本刀］的总数量×1000以下的BP），使其退场。\n[特殊]选择对手场上的FRONT L角色一张，使其退场。",
+    "triggerZh": "[Special]选择对手场上的FRONT L角色一张，使其退场"
+  }
+}

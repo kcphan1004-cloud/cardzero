@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:42:23.378Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b5c1f25188a0e917b3ab",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SAO-1-036"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アスナ",
+    "effect": "[ターン1]\n自分の移動フェイズ以外でこのキャラが移動した時、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿雪",
+    "effectZh": "[第1回合]\n除了移动阶段外，当此角色移动时，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

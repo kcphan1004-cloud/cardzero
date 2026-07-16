@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:24.337Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b4dea42c676a168f33d1",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-052"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ロイ・マスタング",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "罗伊·马斯汀格",
+    "effectZh": "",
+    "triggerZh": "[获取] 将本卡加入手牌。"
+  }
+}

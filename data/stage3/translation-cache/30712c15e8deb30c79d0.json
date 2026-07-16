@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:03.014Z",
+  "model": "qwen3.5:4b",
+  "unitId": "30712c15e8deb30c79d0",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-020"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 火憐",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿良々木 火怜",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线L移动到能量L）\n[登场时]\n抽一张牌，将手札中的一张置于场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张进行激活，本回合中BP+3000"
+  }
+}

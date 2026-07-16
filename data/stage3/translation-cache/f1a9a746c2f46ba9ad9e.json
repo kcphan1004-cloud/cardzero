@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:24.949Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f1a9a746c2f46ba9ad9e",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-107"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "ドラマツルギー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "戏剧疗法",
+    "effectZh": "[冲击无效]\n（本角色与对手战斗时，该对手在本战斗中失去\n[冲击]）",
+    "triggerZh": "[激活]\n选择自己场上的任意一张角色卡将其激活。在当回合中，其BP+3000。"
+  }
+}

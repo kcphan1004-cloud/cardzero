@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:44.703Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4bd6e006c66bdd04bd91",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-041"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "委員長",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "委员长",
+    "effectZh": "[登场时]\n将自己场上其他需要 1 点以下能量的角色 1 张回手。若无法将其送回，则将该角色回手。",
+    "triggerZh": ""
+  }
+}

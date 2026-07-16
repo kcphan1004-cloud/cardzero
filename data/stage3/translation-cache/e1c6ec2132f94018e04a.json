@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:47:10.413Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1c6ec2132f94018e04a",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-068"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽香里",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "花园 羽香里",
+    "effectZh": "【登场时】\n抽一张卡，并将一张手牌置入场外。",
+    "triggerZh": "【抽牌】\n抽一张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:48.186Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4c484135e0f5117f4645",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-076"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "金色の闇",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "金色之暗",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择场上的1张卡并使其处于激活状态，本回合中BP+3000"
+  }
+}

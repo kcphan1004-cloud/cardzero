@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:53:28.279Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c013766982b834ca08ea",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-075"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ココ",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "可可",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中选择想要的数量，按任意顺序放回自己的牌库上方，将剩余的卡置于场外。",
+    "triggerZh": ""
+  }
+}

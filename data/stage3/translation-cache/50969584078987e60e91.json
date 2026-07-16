@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:46:31.457Z",
+  "model": "qwen3.5:9b",
+  "unitId": "50969584078987e60e91",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-061"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーパラドクス ファイターゲーマー レベル50",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士 Paradox 战斗玩家 Lv.50",
+    "effectZh": "对方场上有黄色或红色的卡时，将手札中这张卡的必要能量 [青×1] 减少。",
+    "triggerZh": ""
+  }
+}

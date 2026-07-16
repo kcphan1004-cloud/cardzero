@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:07.879Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b38b3f12de88314f3ac7",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-080"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "クラウディア",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中に自分がカードを2枚以上引いている場合のみ発動できる。自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "克劳蒂雅",
+    "effectZh": "[启动主阶段]\n[位于前线L的情况下]\n[回合 1]\n仅当本回合中自己抽了至少 2 张牌时才能发动。选择自己场上的角色 1 枚，在本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其激活，并在本回合中 BP+3000。"
+  }
+}

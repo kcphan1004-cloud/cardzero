@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:28.454Z",
+  "model": "qwen3.5:4b",
+  "unitId": "14a0e5216171db725719",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-069"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "美原 多福",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラが登場したターン中のみ発動できる。BP3000以下の相手のフロントLのキャラを1枚と、自分のフロントLの〈香刈 緋雪〉を1枚選ぶ。選んだ相手のキャラはこのターン中、選んだ〈香刈 緋雪〉のアタックを可能ならブロックしなければならない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美原 多福",
+    "effectZh": "[启动主]<br>[第1次]仅在该角色登场的回合中可以发动。选择对手前线线上的BP在3000以下的角色一张和自己前线线上的「<strong>香刈 绯雪</strong>」一张。被选择的对手角色在本回合中必须尽可能阻挡被选择的「<strong>香刈 绯雪</strong>」的攻击",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:30.965Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fc830ff653ac240b2200",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-070"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のエナジーLのキャラを1枚選び、このキャラと位置を入れ替える。\n[アタック時]\n自分の場の〈マキマ〉以外のキャラを1枚退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "玛奇玛（觉醒）",
+    "effectZh": "[启动主阶段]\n[当前手牌有本卡时]\n[第1回合]\n选择自己的能量线上的角色一张，将其与本卡的位置互换。\n[攻击时]\n将场上的〈玛奇玛〉以外的角色一张退场。",
+    "triggerZh": "[抽牌]\n将此卡加入手中"
+  }
+}

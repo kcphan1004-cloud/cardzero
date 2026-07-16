@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:12.378Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6c811c4f4d383ceb441a",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-067",
+    "UA42BT/MGS-1-067"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "妖刀心渡",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈キスショット・アセロラオリオン・ハートアンダーブレード〉か〈忍野 忍〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "妖刀心渡",
+    "effectZh": "选择敌方前线 L 区域 BP3000 以下的角色卡 1 张并使其退场。\n若己方场上存在 [亲吻射击·阿塞罗拉利昂·心脏安德布勒德] 或 [忍野 忍]，则变为选择敌方前线 L 区域 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择敌方前线 L 区域的卡牌 1 张并使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:58:06.607Z",
+  "model": "qwen3.5:9b",
+  "unitId": "df384526ad794af9ebe7",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-111"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エルヴィン・スミス",
+    "effect": "[フロントLにある場合]\n自分のアタックフェイズ開始時、このキャラがアクティブの場合、自分のAPカードを1枚まで選び、アクティブにする。\n[アタック時]\nAPを1支払ってもよい。そうした場合、このキャラはこのターン中、BP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "埃尔文·史密斯",
+    "effectZh": "[在前线 L 存在的情况下]\n自己的攻击阶段开始时，如果该角色处于激活状态，从自己的 AP 卡中最多选择 1 张并将其激活。\n[攻击时]\n支付 AP 也可以。如此做的话，该角色在本回合中 BP+500。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

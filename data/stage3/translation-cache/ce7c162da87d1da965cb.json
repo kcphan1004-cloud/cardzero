@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:17:37.885Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce7c162da87d1da965cb",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-003"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "タザキ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "田崎",
+    "effectZh": "当此角色处于激活状态时，该角色的发生能量+\n[青]\n。",
+    "triggerZh": ""
+  }
+}

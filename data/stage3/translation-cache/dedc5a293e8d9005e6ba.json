@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:35.099Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dedc5a293e8d9005e6ba",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-012"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "シルフィエット",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "风精灵（UA54BT/MST-1-012）",
+    "effectZh": "[攻击时]\n抽一张牌，将手札的一张置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

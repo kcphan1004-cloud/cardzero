@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:54:32.582Z",
+  "model": "qwen3.5:9b",
+  "unitId": "664336391e9d8fe1a8a1",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-015"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "姫崎 莉波",
+    "effect": "[登場時]\nカードを2枚引き、自分の手札を2枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姬崎 莉波",
+    "effectZh": "【登场时】\n抽牌 2 张，将手牌中的 2 张置入场外。",
+    "triggerZh": ""
+  }
+}

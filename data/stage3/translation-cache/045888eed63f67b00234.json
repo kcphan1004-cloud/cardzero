@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:35.337Z",
+  "model": "qwen3.5:4b",
+  "unitId": "045888eed63f67b00234",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-057"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "オリヴィエ・ミラ・アームストロング",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "奥利维·米拉·阿姆斯特朗",
+    "effectZh": "",
+    "triggerZh": "[登场]"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:12.600Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ea0335db73e0dc355334",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-AP01",
+    "UA35BT/OPM-1-AP01",
+    "UA35BT/OPM-1-AP02",
+    "UA35BT/OPM-1-AP03",
+    "UA35BT/OPM-1-AP04",
+    "UA35BT/OPM-1-AP05",
+    "UA35BT/OPM-1-AP06"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "アクションポイントカード(ワンパンマン)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡 (一拳超人)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

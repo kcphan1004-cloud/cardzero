@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:24:23.249Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e2aa044724e3d6e3eb3a",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-038"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "尾棘",
+    "effect": "『BP1000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場外とリムーブエリアにある〈ジャイガー〉1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "尾棘",
+    "effectZh": "选择 BP 为『BP1000』以下的对方前线 L 的角色的任意一张，使其退场。每有一张位于我方场外和移除区的〈贾加〉，此效果可选择的目标角色 BP 范围上限增加 1000。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色的一张，使其退场。"
+  }
+}

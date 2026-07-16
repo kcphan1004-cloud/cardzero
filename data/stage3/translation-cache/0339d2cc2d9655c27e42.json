@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:16.498Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0339d2cc2d9655c27e42",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-110"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "アレックス・ルイ・アームストロング",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚历克斯·路易·阿姆斯特朗",
+    "effectZh": "[伤害（2）] （当此角色通过攻击直接造成伤害时，代替造成 2 点伤害）",
+    "triggerZh": ""
+  }
+}

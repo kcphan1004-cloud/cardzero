@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:37:40.544Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c00b94dd1bcef3670fae",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-029"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "猫又 育史",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このフィールドの発生エナジー+\n[黄]\n。メインフェイズ終了時、このフィールドを退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "猫又 育史",
+    "effectZh": "[激活主效果] [横置状态][回合数：1]<br>本回合中，此场地产生的能量+<span class=\"color\">黄色</span><br>。主阶段结束时，将此场地退场。",
+    "triggerZh": "[抽牌]<br>将这张卡加入手札。"
+  }
+}

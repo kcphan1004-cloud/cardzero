@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:20:12.727Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a6e978bd31194a8b1879",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-002",
+    "UA18BT/NIK-1-002"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ヘルム",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赫尔姆",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +[黄]。",
+    "triggerZh": ""
+  }
+}

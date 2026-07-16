@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:52:17.302Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7b6a1d4e12cf9dd00a5b",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-056"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "備前 銀奈",
+    "effect": "[登場時]\n自分はこのターン中、「自分と相手の場のキャラ全ては、効果で退場しない。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "備前 銀奈",
+    "effectZh": "[登場時]\n本回合中，「自身與對手場地的所有角色均獲得『不受效果退場。』的效果。」",
+    "triggerZh": ""
+  }
+}

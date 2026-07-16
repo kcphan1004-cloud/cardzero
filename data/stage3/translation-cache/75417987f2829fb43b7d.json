@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:04.308Z",
+  "model": "qwen3.5:4b",
+  "unitId": "75417987f2829fb43b7d",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-076"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "エンヴィー",
+    "effect": "自分の\n[レイド]\nを持つキャラカードはこのキャラにレイドできる。\n[登場時]\n自分の場外にカードが10枚以上ある場合、BP3000以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "恩菲",
+    "effectZh": "拥有我方 [雷迪] 的字符卡可对该角色进行雷迪。\n[登场时]\n若我方的场外有10张以上的卡片，可选择对方前线L的角色最多1枚并使其横置。",
+    "triggerZh": ""
+  }
+}

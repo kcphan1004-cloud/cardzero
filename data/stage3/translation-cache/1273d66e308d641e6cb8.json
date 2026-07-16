@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:06:58.770Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1273d66e308d641e6cb8",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-050"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ニュー",
+    "effect": "自分の場外にカードが10枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "新·影之强者！系列 UA52BT/KJN-1-050",
+    "effectZh": "当自己的场外卡有10张以上时，本角色的BP+1500。",
+    "triggerZh": "[激活]\n选择自己场上的角色1张进行激活，本回合中BP+3000"
+  }
+}

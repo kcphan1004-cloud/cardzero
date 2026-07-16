@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:41:28.260Z",
+  "model": "qwen3.5:9b",
+  "unitId": "303d90bcb1e0ffa49860",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-080"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "菅原 孝支",
+    "effect": "[登場時]\n自分のエナジーLのキャラ全てを、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "菅原孝支",
+    "effectZh": "[登场时]\n将自己的能量线的角色全部激活。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张牌，将其激活，本回合中 BP+3000。"
+  }
+}

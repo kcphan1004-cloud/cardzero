@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:31:39.902Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa845d8b1b192e61361b",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-011"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダージオウⅡ",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士时王Ⅱ",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中按任意顺序选择想要的数量放回自己牌库上方，剩余部分也按任意顺序放回下方。",
+    "triggerZh": ""
+  }
+}

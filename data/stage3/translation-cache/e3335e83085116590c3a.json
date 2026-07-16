@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:07.880Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e3335e83085116590c3a",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-081"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "トキオ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[自分のターン中]\n相手のフロントLに\n[レイド]\nを持つキャラがある場合、このキャラはBP+500。(レイド状態かどうかは問わない)",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "时生",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中\n[冲击]\n失效）\n[在自己的回合中]\n当对方的前线 L 存在持有「\n[Raid]」的角色时，该角色的 BP+500。（是否为 Raid 状态不予询问）",
+    "triggerZh": ""
+  }
+}

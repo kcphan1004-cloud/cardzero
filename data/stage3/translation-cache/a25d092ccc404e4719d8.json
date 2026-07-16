@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:57:01.206Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a25d092ccc404e4719d8",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-023"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アッシュ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿修",
+    "effectZh": "当该角色处于激活状态时，给予其产生的能量+\n[黄] \n。",
+    "triggerZh": ""
+  }
+}

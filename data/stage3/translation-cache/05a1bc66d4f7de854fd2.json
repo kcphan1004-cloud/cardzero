@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:59.813Z",
+  "model": "qwen3.5:9b",
+  "unitId": "05a1bc66d4f7de854fd2",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-032"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "フィル",
+    "effect": "このキャラはBPをマイナスする効果を受けない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "菲尔",
+    "effectZh": "不受减少 BP 的效果影响。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

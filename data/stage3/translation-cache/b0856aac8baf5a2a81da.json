@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:11.202Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b0856aac8baf5a2a81da",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GIM-2-009",
+    "UAPR/GIM-2-009"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "雨夜 燕",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、［特徴：3年生］を1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雨夜燕",
+    "effectZh": "[登场时] 从自己的牌库上方看两张，将一张［特征：3年生］置于场外，其余的按任意顺序放回牌库上方。",
+    "triggerZh": ""
+  }
+}

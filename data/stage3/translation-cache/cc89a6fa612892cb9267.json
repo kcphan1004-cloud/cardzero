@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:12.382Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cc89a6fa612892cb9267",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-103"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "キスショット・アセロラオリオン・ハートアンダーブレード",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚退場させてもよい。そうした場合、カードを2枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "亲吻射击·阿塞罗拉利昂·心脏安德布勒德",
+    "effectZh": "[登场时]\n可选择己方场上其他角色卡 1 张并使其退场。若如此，从卡组上方抽取两张卡牌。",
+    "triggerZh": "[激活] \n选择己方场上的角色卡 1 张并激活之，本回合 BP+3000。"
+  }
+}

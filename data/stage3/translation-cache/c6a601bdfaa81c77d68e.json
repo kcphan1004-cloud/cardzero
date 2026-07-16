@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:15:07.811Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6a601bdfaa81c77d68e",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-017"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "四ノ宮 キコル",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "四之宫 基库尔",
+    "effectZh": "[登场时]\n将自身能量为 1 或更少的自己场上的其他角色返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

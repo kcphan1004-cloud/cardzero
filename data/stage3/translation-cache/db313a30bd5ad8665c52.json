@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:29:09.739Z",
+  "model": "qwen3.5:9b",
+  "unitId": "db313a30bd5ad8665c52",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-003"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "キュゥべえ",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から黄のイベントカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "丘比",
+    "effectZh": "[登场时]\n查看自己山札上方 4 张卡片。从中公开最多 1 张黄色事件卡并加入手牌，其余按任意顺序置于自己山札下方。若将此卡加入手牌，将自己手牌中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

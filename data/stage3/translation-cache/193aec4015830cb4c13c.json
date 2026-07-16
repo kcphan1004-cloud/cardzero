@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:32:21.194Z",
+  "model": "qwen3.5:4b",
+  "unitId": "193aec4015830cb4c13c",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-071"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "糸師 冴",
+    "effect": "[登場時]\n自分の山札の上から7枚見る。その中からフィールドカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "糸师冴",
+    "effectZh": "[激活状态] 从牌库上方翻开7张，从中公开至多1张场地卡加入手札。其余的按任意顺序置于自己的山札下方。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

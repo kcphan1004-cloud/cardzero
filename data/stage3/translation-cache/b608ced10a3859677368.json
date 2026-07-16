@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:55:49.923Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b608ced10a3859677368",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-017"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "神楽",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神乐",
+    "effectZh": "当此角色处于激活状态时，本角色的发生能量+[紫]。",
+    "triggerZh": ""
+  }
+}

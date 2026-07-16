@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:26.710Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9cee96d08bfcb69a1422",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GNT-AP01",
+    "UAPR/GNT-AP01",
+    "UAPR/GNT-AP02",
+    "UAPR/GNT-AP04"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(銀魂)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（银魂）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

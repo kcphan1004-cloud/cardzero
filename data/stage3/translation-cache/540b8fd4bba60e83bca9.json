@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:43.470Z",
+  "model": "qwen3.5:4b",
+  "unitId": "540b8fd4bba60e83bca9",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-082"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾米莉亚",
+    "effectZh": "[启动主侧]\n将状态改为横置\n[回合1]\n本回合中，此角色获得能量+\n[紫]以及“当主侧结束时将其离场。”",
+    "triggerZh": ""
+  }
+}

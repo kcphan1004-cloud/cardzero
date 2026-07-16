@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:51.479Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8d16ec49e71e28af6823",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-023",
+    "UA49BT/MSS-1-059"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "大川村 寧",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大川村 宁",
+    "effectZh": "[登场时]\n将满足必要能量为1以下的自己场上的其他一张卡放回手札。若无法将其放回，则将此角色放回手札。",
+    "triggerZh": ""
+  }
+}

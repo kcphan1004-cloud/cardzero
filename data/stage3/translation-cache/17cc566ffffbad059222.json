@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:09.151Z",
+  "model": "qwen3.5:4b",
+  "unitId": "17cc566ffffbad059222",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-050"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "観月 絵里",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から〈水篠 旬〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "观月绘里",
+    "effectZh": "[启动主阶段]\n[横置该角色]\n[使该角色退场]\n从己方场外将一张「水筱旬」加入手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:11:08.210Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d08d1db336176a39f02b",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-053"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "スノーホワイト",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "冰雪女王",
+    "effectZh": "对方场上存在黄或绿色的卡片时，减少本卡在手中的必要能量。\n[紫×1]",
+    "triggerZh": ""
+  }
+}

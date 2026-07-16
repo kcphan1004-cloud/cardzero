@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:37.807Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c8bfe994b7f52f32b893",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-110"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 火憐",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[黄×2]\n減らす。\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿良々木 火怜",
+    "effectZh": "若己方场上无卡，则把手牌中的此卡的必要能量减 [黄×2]。[冲击无效](与此角色战斗的角色在本战斗中失去 [冲击])",
+    "triggerZh": "[抽牌]\n抽取1张"
+  }
+}

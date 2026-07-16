@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:59:32.687Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13662eed286293346b7b",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-AP01",
+    "UA17ST/TRK-1-AP02",
+    "UA17BT/TRK-1-AP01",
+    "UA17BT/TRK-1-AP02",
+    "UA17BT/TRK-1-AP03",
+    "UA17BT/TRK-1-AP04",
+    "UA17BT/TRK-1-AP05",
+    "UA17BT/TRK-1-AP06"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "アクションポイントカード(トリコ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (特瑞科)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

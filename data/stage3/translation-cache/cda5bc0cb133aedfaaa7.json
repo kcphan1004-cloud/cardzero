@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:25.200Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cda5bc0cb133aedfaaa7",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-041",
+    "UA10BT/MHA-1-041"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "麗日 お茶子",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "麗日 お茶子",
+    "effectZh": "[登場時]\n必要エナジーが 1 以下の自分の場の他のキャラを 1 枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "triggerZh": ""
+  }
+}

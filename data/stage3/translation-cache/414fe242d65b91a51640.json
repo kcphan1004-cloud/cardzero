@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:36:22.991Z",
+  "model": "qwen3.5:4b",
+  "unitId": "414fe242d65b91a51640",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KMY-1-089"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "煉󠄁獄 杏寿郎",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\n自分の場のキャラ全ては、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炼狱 杏寿郎",
+    "effectZh": "[启动主]\n[前线上有卡时]\n[将手牌一张置于场外]\n[回合数：1]\n自己场上的角色全部，本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

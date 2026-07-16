@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:00.138Z",
+  "model": "qwen3.5:9b",
+  "unitId": "54424854e5488e481813",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-091"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ミステル",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "米斯特尔",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:49.845Z",
+  "model": "qwen3.5:4b",
+  "unitId": "daa1701e0aef804b8dca",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-042"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "馬淵 勲",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[緑]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马渊 勲",
+    "effectZh": "[启动主] \n[变为休息状态]\n[回合 1]\n此角色在本回合中，获得生成能量+\n[绿]\n以及「在主阶段结束时将此角色退场」。",
+    "triggerZh": ""
+  }
+}

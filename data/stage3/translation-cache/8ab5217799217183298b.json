@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:28:30.128Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ab5217799217183298b",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-073"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ムイ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无依",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:15.850Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0137df19eb443cfca51",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-096"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "千代",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、相手は自身の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "千代",
+    "effectZh": "[登场时]\n可以将自己的手牌 1 张置于场外。如此做的话，对手必须将自己的一张手牌置于场外。\n\n[激活]\n选择自己场上的一名角色并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[触发]\n选择对方前线 L 的 1 名角色并将其退场。"
+  }
+}

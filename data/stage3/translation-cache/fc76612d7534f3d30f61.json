@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:29:09.734Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fc76612d7534f3d30f61",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-112"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "エクシア",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラを別のラインに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "夏亚",
+    "effectZh": "[启动主]\n[回合 1]\n将该角色移动到另一条线。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

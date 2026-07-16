@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:12.950Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2ce8a075f9582bb001fe",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-065"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "ジャンプサーブ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈及川 徹〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "跳跃发球",
+    "effectZh": "选择对方前线 L 的 1 名角色，使其退场。若我方场上有〈及川彻〉，则改为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色并使其退场。"
+  }
+}

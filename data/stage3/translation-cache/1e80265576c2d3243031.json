@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:47:35.081Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1e80265576c2d3243031",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-082"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の赤の［特徴：魔法少女］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "【登场时】\n从自己的手牌中选择至多 1 张消耗 AP 为 1、必要能量在 2 以下的红色［特征：魔法少女］，以横置状态在自己的场地上登场。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

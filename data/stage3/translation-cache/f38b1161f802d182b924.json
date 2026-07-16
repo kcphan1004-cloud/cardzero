@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:52.947Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f38b1161f802d182b924",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-028",
+    "UA40BT/REZ-1-028"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "フェルト",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[黄×2]\n減らす。\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "费尔特",
+    "effectZh": "若己方场上没有卡片，则把手牌中的此卡所需能量 [黄×2] 减少。\n[步骤]\n（可从前线 L 向能源线移动）",
+    "triggerZh": ""
+  }
+}

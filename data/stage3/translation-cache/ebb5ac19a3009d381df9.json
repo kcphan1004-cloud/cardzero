@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:29.988Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ebb5ac19a3009d381df9",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/NIK-P-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ラプンツェル",
+    "effect": "このカードが手札から場外に置かれた時、自分の場に紫のカードがあり、自分の他の手札が2枚以下の場合、自分の場の［特徴：パイオニア］を1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉普恩塞尔",
+    "effectZh": "当该卡从手牌被放置至场外时，若自己的场上存在紫色卡片且自己其他的手牌为 2 张以下，则选择场上的［特征：Pioneer］最多一张并将其设为激活状态。",
+    "triggerZh": ""
+  }
+}

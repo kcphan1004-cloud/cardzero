@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:33.875Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7c0612b72297a2f9d579",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-038"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "アトミック侍",
+    "effect": "[登場時]\n『BP2000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場に他の［特徴：ヒーロー］が6枚以上ある場合、『BP4000以下』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "Atomic Ronin",
+    "effectZh": "[登场时]\n选择对手 Front L「BP2000 以下」的 1 张角色卡，将其退场。若己方场上拥有 6 枚以上的［特征：英雄］，则代替为「BP4000 以下」。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取 1 张卡牌"
+  }
+}

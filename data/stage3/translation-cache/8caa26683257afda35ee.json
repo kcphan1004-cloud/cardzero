@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:45.387Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8caa26683257afda35ee",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-021"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "メイ・チャン",
+    "effect": "[レイド]\n〈メイ・チャン〉アクティブにし、フロントLに移動できる\nこのキャラの発生エナジー+\n[黄]\n。\n[登場時]\n[エナジーLにある場合]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "梅兰·简",
+    "effectZh": "[雷迪] 将〈梅兰·简〉设为激活并移动至前线 L，该角色的发生能量+\n[黄]\n。\n [登场时] 当有能量 L 时抽一张牌。",
+    "triggerZh": "[获得] 将此卡加入手牌"
+  }
+}

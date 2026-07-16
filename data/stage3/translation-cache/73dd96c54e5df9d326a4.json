@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:39:26.029Z",
+  "model": "qwen3.5:9b",
+  "unitId": "73dd96c54e5df9d326a4",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-103"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "カナタ",
+    "effect": "[登場時]\n『自分の場外から〈ノワール〉を1枚手札に加えてもよい。そうした場合、自分の手札を1枚場外に置く』。このキャラが山札から使用されて登場していた場合、『自分の場外から〈ノワール〉を1枚まで手札に加える』に代わる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "カナタ",
+    "effectZh": "[登场时]\n“可从自己场外将〈ノワール〉1 张加入手札”。若如此做，则可将“将自己手札中的 1 张放置到场外”作为替代。此角色从牌库使用时登场，“可从自己场外将〈ノワール〉最多 1 张加入手札”作为替代。",
+    "triggerZh": ""
+  }
+}

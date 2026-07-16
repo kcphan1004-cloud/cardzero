@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:34:33.185Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aae4736a1cb9173c60a7",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-073"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "霧嶋 絢都",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "霧嶋 絢都",
+    "effectZh": "[激活状态]\n（在己方移动阶段，可从前线线移向能量线）",
+    "triggerZh": ""
+  }
+}

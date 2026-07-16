@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:30:30.621Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e504b83f2c59398a1406",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-036"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "京谷 賢太郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "京谷贤太郎",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

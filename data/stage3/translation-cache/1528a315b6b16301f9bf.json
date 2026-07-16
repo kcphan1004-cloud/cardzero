@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:22:52.197Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1528a315b6b16301f9bf",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-040"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ボクのカッコイイヒーロー達",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "我的帅气英雄们",
+    "effectZh": "最多选择自己的 AP 卡 2 张并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取 1 张置于自己的生命区域。"
+  }
+}

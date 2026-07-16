@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:00:25.938Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13a0a8b81dbd92cc42c0",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-010"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ラピ",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉皮",
+    "effectZh": "[登场时]\n查看自己山札上方的 2 枚卡。从中将任意数量的按任意顺序置于自己的山札上方，其余的按任意顺序置于下方。",
+    "triggerZh": ""
+  }
+}

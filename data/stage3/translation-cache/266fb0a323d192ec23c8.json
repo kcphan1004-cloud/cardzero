@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:13.834Z",
+  "model": "qwen3.5:9b",
+  "unitId": "266fb0a323d192ec23c8",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-039"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "隊員募集中",
+    "effect": "自分の山札の上から4枚見る。その中からキャラカードを2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "招募队员中",
+    "effectZh": "查看自己牌库上方的 4 张卡。从中公开最多 2 张角色卡并加入手牌。将剩余的卡按任意顺序放回自己的牌库下方。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

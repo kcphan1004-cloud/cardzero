@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:59.916Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e93e779297287ba3e940",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-027"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "生きようとする意志",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "生存意志",
+    "effectZh": "选择自己的AP卡至多2张并激活之。",
+    "triggerZh": "[最终] 若你的生命值为零，从你的牌库上方取一张置于你的生命区域中。"
+  }
+}

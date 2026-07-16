@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:11:21.833Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f09fc01fa375da73b0dd",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-006"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "五十嵐 ハクア",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "五十岚 白华",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多 1 张，在本回合中 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张并激活，在本回合中 BP+3000。"
+  }
+}

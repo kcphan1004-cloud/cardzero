@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:35.960Z",
+  "model": "qwen3.5:4b",
+  "unitId": "11e364cc8f1a61d96bc7",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-019"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ユーグラム・ハッシュヴァルト",
+    "effect": "相手の場にBP4000以上のキャラが2枚以上ある場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "尤格·哈谢瓦尔特",
+    "effectZh": "对手场上有 2 枚以上 BP4000 以上的角色时，本角色的 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张卡进行激活，该回合中 BP+3000。"
+  }
+}

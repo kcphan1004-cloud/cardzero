@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:23.862Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df2365fde0ac5230ba04",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-035"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "瘴気",
+    "effect": "相手のフロントLのキャラを1枚選び、自分の場の［特徴：奈落一派］1枚につき、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "瘴气",
+    "effectZh": "选择对手前线L的卡，将其置入弃牌堆。从你的场上每1张「特征：奈落一派」中，本回合BP-1000。",
+    "triggerZh": "[特殊]\n选择对手的 frontline L 的一张角色卡，并将其退场"
+  }
+}

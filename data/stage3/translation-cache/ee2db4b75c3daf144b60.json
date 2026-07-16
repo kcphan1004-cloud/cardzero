@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:24:23.254Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ee2db4b75c3daf144b60",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-043"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "佐々木 宗篤",
+    "effect": "[登場時]\n自分のフロントLに〈戦車〉がある場合、相手のエナジーLに空きがあるなら、自分の手札を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚選び、エナジーLに移動させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐々木 宗笃",
+    "effectZh": "[登场时]\n若我方前线 L 有〈战车〉，且对方能量线有空位，则可以将自己手牌中的一张置于场外。如此操作的情况下，选择对方的前线 L 的角色的一张并移动至能量线。",
+    "triggerZh": ""
+  }
+}

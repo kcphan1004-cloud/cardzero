@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:31:00.026Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0e005357683179cad839",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-005"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "院田 唐音",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "院田 唐音",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": "[激活]\n选择自己场上一张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

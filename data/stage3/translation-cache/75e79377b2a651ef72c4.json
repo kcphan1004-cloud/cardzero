@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:04:45.688Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75e79377b2a651ef72c4",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-023"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "スピリッツ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "精灵",
+    "effectZh": "[无效化冲击]\n（与此角色进行战斗的角色在本场战斗中,\n[冲击]\n失效）",
+    "triggerZh": ""
+  }
+}

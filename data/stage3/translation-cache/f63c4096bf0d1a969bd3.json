@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:16:26.415Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f63c4096bf0d1a969bd3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-033"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "What",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。その後、自分の場外から必要エナジーが2以下の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "What",
+    "effectZh": "抽取1张牌，将己方的手札至多1张置于场外。之后，从场外选择能量为2以下的黄色角色卡至多1张以横置状态登场到场上。",
+    "triggerZh": "[激活]\n选择己方场上的卡牌至多1张，将其激活，本回合中BP+3000"
+  }
+}

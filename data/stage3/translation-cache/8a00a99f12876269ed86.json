@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:51:50.844Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8a00a99f12876269ed86",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-064"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "オゾン草",
+    "effect": "カードを2枚引く。自分の手札から必要エナジーを満たし消費APが1の〔〈トリコ〉と〈小松〉〕をそれぞれ1枚までレストで登場させるかレイドさせる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "臭氧草",
+    "effectZh": "抽 2 张牌。从自己的手牌中选择满足必要能量且消耗 AP 为 1 的〔〈特瑞科〉和〈小松〉〕各最多 1 枚，以横置状态登场或进入 Raid。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

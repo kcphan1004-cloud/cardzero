@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:07:10.574Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d342e55a35f0579c172",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-060"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "遠き日のセツナ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "远日之刹那",
+    "effectZh": "【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去\n【冲击】\n）",
+    "triggerZh": "【激活状态】\n选择自己场上的一个角色使其变为激活状态，本回合中 BP+3000。"
+  }
+}

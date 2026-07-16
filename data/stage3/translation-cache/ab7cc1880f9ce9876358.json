@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:25:17.610Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ab7cc1880f9ce9876358",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-009"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "双城 厳一",
+    "effect": "[登場時]\nBP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "双城 严一",
+    "effectZh": "[登场时]\n选择对手场上 BP1500 以上的角色卡至多 1 张，本回合中，BP-1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡至多 1 张，将其激活，本回合中，BP+3000。"
+  }
+}

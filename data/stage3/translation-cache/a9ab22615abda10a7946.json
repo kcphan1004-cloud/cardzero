@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:02:46.729Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9ab22615abda10a7946",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-051"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "紫雲 清夏",
+    "effect": "[自分のターン中]\nこのターン中に自分がイベントカードを使用している場合、このキャラは「このキャラはBP3000以下のキャラにブロックされない。」を得る。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "紫云 清夏",
+    "effectZh": "[自己的回合中]\n如果本回合自己使用了活动卡，此角色获得“此角色不会被BP3000以下的角色阻挡。”\n\n触发条件：[Color]\n选择对方前线L的1个BP2500或更低的角色并退场。",
+    "triggerZh": "[Color]\n选择对方前线L的1个BP2500或更低的角色并退场。"
+  }
+}

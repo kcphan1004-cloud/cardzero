@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:55.803Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4926f6b6fbc232b6a99e",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-037"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "ケンカは",
+    "effect": "自分の場の［特徴：ボウフウリン］を望む枚数選び、このターン中、BP+1000と「このキャラがバトルに勝利した時、カードを1枚まで引く。」を与える。この効果で同じカード名のキャラを選ぶことはできない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "争吵少年",
+    "effectZh": "选择希望数量的「防风少年」，给予该角色 BP+1000 和「当此角色战斗胜利时，抽至多 1 张牌」。本效果不能选择同名卡牌。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

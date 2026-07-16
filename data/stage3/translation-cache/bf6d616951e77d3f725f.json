@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:31.363Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bf6d616951e77d3f725f",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-067"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "焰の錬金術師",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ロイ・マスタング〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "焰之炼金术师",
+    "effectZh": "选择对手场上 BP 值在 3000 以下的角色卡一张，将其退场。若己方手牌中有〈罗伊·马斯坦格〉，则效果变为：选择对手场上 BP 值在 5000 以下的角色卡一张，并将其退场。",
+    "triggerZh": "[特殊]\n选择对手场上的一张角色卡，将其退场。"
+  }
+}

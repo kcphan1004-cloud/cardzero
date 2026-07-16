@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:48:59.861Z",
+  "model": "qwen3.5:9b",
+  "unitId": "31ec2987d028cfad720b",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-004"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "円＆魁＆梁",
+    "effect": "相手の場に緑か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "円＆魁＆梁",
+    "effectZh": "对方场上有绿色或红色的卡时，手牌中的此卡的必要能量减少 [紫×1]。",
+    "triggerZh": ""
+  }
+}

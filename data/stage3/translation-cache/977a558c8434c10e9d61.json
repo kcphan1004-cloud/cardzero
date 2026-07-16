@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:48.288Z",
+  "model": "qwen3.5:4b",
+  "unitId": "977a558c8434c10e9d61",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-003"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "ボイル",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[ブロック時]\nアタックしている相手のキャラの元々のBPが3000以下の場合、このキャラはこのバトル中、BP+2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "ボイル",
+    "effectZh": "[2 次阻挡]\n（当本角色在本回合首次阻挡时，激活）\n[阻挡时]\n攻击方的角色的原本 BP 为 3000 以下的话，本角色在本战斗期间，BP+2000。",
+    "triggerZh": ""
+  }
+}

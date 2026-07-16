@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:17.876Z",
+  "model": "qwen3.5:4b",
+  "unitId": "60183e0c3b5bb80f30b2",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-007",
+    "UA40BT/REZ-1-007"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ラム",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉姆",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取 1 张卡片。"
+  }
+}

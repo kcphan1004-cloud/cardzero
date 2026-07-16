@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:26:26.963Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3524e285e219b74c029a",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-066"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "トップ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "托普",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动至能量线）",
+    "triggerZh": ""
+  }
+}

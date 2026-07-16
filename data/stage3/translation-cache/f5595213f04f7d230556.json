@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:19.520Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f5595213f04f7d230556",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-030"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ニコ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尼古",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[紫]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

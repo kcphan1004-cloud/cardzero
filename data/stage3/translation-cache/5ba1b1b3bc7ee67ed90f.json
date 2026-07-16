@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:19.078Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5ba1b1b3bc7ee67ed90f",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-005"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ティアーユ・ルナティーク",
+    "effect": "[登場時]\n自分の手札から必要エナジーが3以下で消費APが1の黄の〈金色の闇〉を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蒂雅·卢纳提克",
+    "effectZh": "[登场时] 从自己的手札中，若所需能量为3以下且消耗AP为1的黄色「金色之暗」最多选择1张，以横置状态在自己的场地上登场。",
+    "triggerZh": ""
+  }
+}

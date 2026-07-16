@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:18:50.928Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3c6b0da8a72e5e5e20ec",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-088"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ナイン",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "九",
+    "effectZh": "",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

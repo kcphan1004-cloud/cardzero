@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:45:08.426Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8614aa170a15e00e82e3",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-056"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "薬膳 楠莉",
+    "effect": "[自分のターン中]\nこのターン中に自分が使用したイベントカード1枚につき、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "药膳 楠莉",
+    "effectZh": "[在自己的回合内]\n本回合内自己使用的每张事件卡，该角色 BP+500。",
+    "triggerZh": "[激活]\n选择自己的场上的 1 张角色并激活，本回合内，BP+3000。"
+  }
+}

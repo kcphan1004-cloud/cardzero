@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:46:59.663Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4c410ace896fa4967237",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-067",
+    "UA48BT/KGD-1-067"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "ルアア!!",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈信〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "鲁亚阿!!",
+    "effectZh": "选择对手场上的一张［特征：飞信队］角色使其退场。若自己场上有〈信〉，则改为 BP+5000。",
+    "triggerZh": "[特殊]\n选择对手的 L 区一张角色使其退场。"
+  }
+}

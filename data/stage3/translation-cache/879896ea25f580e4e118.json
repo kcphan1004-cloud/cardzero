@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:14:44.679Z",
+  "model": "qwen3.5:9b",
+  "unitId": "879896ea25f580e4e118",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-075"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "テキサス",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から〈テキサス〉以外のBPが2500の赤のキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特锦赛",
+    "effectZh": "【登场时】\n查看自己牌库上方的 5 张卡。从中公开除〈特锦赛〉以外 BP 为 2500 的红色角色卡牌至多 1 张并加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": ""
+  }
+}

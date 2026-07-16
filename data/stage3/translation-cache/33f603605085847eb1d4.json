@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:07:19.356Z",
+  "model": "qwen3.5:9b",
+  "unitId": "33f603605085847eb1d4",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-038"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "母との思い出",
+    "effect": "カードを3枚引き、自分の手札を1枚自分の山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "与母亲的回忆",
+    "effectZh": "抽 3 张牌，将手牌中 1 张放置于自己山札上方。",
+    "triggerZh": "[激活]\n选择自己场上 1 枚角色，使其激活，本回合 BP+3000。"
+  }
+}

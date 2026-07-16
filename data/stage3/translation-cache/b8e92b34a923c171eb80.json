@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:16:15.946Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b8e92b34a923c171eb80",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-009"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ラトラ",
+    "effect": "[起動メイン]\n[ターン1]\n自分のフロントLの他の［特徴：UNDER］を1枚選び、エナジーLに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉特拉",
+    "effectZh": "[启动主]\n[回合 1]\n选择自己前线 L 的其他［特征：UNDER］中的 1 张并移动到能量线。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

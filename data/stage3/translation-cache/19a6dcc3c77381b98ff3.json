@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:31.362Z",
+  "model": "qwen3.5:4b",
+  "unitId": "19a6dcc3c77381b98ff3",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-066"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ブリッグズの北壁",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする。それは次の1回アクティブにならない』。自分の場に〈オリヴィエ・ミラ・アームストロング〉がある場合、『退場させる』に代えてもよい。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "布里格斯的北壁",
+    "effectZh": "BP5000 以下的对手前线 L 的卡牌选一张，将其横置。该卡牌下一次激活状态不生效。若己方场地上有〈奥利维·米拉·阿姆斯特朗〉，可代替其离场。",
+    "triggerZh": "[特殊]\n选择对手的 frontline L 的一张卡牌并将其离场"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:26:26.960Z",
+  "model": "qwen3.5:9b",
+  "unitId": "705352f876527fd873fa",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-063"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "タチアナ",
+    "effect": "このキャラはBP4000以上のキャラにブロックされない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "塔恰娜",
+    "effectZh": "此角色不会被 BP4000 以上的角色阻挡。",
+    "triggerZh": ""
+  }
+}

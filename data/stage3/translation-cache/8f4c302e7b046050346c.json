@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:33.522Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8f4c302e7b046050346c",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-008"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "媧燐",
+    "effect": "[アタック時]\nこのキャラのBPが4000以上の場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "媧燐",
+    "effectZh": "[攻击时]\n如果此角色的 BP 为 4000 以上，则抽取 1 张卡牌。",
+    "triggerZh": ""
+  }
+}

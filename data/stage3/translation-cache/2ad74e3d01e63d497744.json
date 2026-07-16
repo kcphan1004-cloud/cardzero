@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:26:09.330Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2ad74e3d01e63d497744",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-052"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ムートン",
+    "effect": "[登場時]\n自分の手札を2枚まで場外に置いてもよい。そうした場合、この効果で場外に置いたカードと同じ枚数のカードを引く。",
+    "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "穆顿",
+    "effectZh": "[登场时]\n可以将自己的手牌最多 2 枚置于场外。如此操作的话，从效果中置入场外的卡相同数量的抽张数进行抽取。",
+    "triggerZh": "[色相]\n从己方场外选择必要能量为 2 以下且消耗 AP 为 1 的紫色角色卡最多 1 枚，以激活状态登场至自己的前线 L。"
+  }
+}

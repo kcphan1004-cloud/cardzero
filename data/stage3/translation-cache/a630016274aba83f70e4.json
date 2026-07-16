@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:20:19.772Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a630016274aba83f70e4",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-020"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジグラ",
+    "effect": "このキャラはBP3000以下のキャラにブロックされない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉格拉",
+    "effectZh": "此角色不会被 BP 3000 以下的角色阻挡。",
+    "triggerZh": ""
+  }
+}

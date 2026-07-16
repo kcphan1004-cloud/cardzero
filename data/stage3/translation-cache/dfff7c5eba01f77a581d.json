@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:42:38.883Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dfff7c5eba01f77a581d",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SAO-1-103"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "キリト",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、別のラインに移動させる。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "桐人",
+    "effectZh": "[登场时]\n可选择自己场上的一张角色移动至其他线路。",
+    "triggerZh": "[颜色]\n选择对手前线L的BP 3500以下的角色一张，将其送回手牌"
+  }
+}

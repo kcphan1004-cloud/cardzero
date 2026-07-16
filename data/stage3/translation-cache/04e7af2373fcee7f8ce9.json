@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:33.235Z",
+  "model": "qwen3.5:4b",
+  "unitId": "04e7af2373fcee7f8ce9",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-034"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "吸引ブラックホール",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ブラックホール〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "吸引黑洞",
+    "effectZh": "「BP3000 以下」的对方前线 L 角色选一张，让其退场。若己方场地有〈黑洞〉，则变为「BP5000 以下」。",
+    "triggerZh": "[特殊]\n对方前线 L 角色选一张，让其退场"
+  }
+}

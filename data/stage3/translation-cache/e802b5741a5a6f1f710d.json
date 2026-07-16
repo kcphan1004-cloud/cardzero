@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:03.437Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e802b5741a5a6f1f710d",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-112"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "音速のソニック",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。\n[起動メイン]\n[ターン1]\n自分の場外にあるカードを3枚リムーブエリアに置く。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "音速索尼克",
+    "effectZh": "[登场时]\n抽一张牌，将手札中一张卡置于场外。\n[启动主侧][回合 1]\n将自己场上的三张卡移除至雷莫区。如此操作后，本角色在本回合 BP+1000。",
+    "triggerZh": ""
+  }
+}

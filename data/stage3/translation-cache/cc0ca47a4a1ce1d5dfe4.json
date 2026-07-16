@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:04:20.248Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cc0ca47a4a1ce1d5dfe4",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-012"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "クレア・カゲノー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "克莱拉·卡格诺尔",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n将此卡牌加入手牌。"
+  }
+}

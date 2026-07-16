@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:50.989Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e789ebf475750cb79e2e",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-065"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "アーシー",
+    "effect": "[自分のターン中]\n自分の手札が5枚以上の場合、このキャラはBP+1000と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿西儿",
+    "effectZh": "[你的回合中]若你的手札有 5 张以上，此角色 BP+1000。\n[冲击（1）]\n（攻击并战胜战斗时，对对手造成 1 点伤害）。",
+    "triggerZh": "[抽牌]\n抽取 1 张卡。"
+  }
+}

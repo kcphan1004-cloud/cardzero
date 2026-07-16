@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:51.556Z",
+  "model": "qwen3.5:4b",
+  "unitId": "20842ae8048a6cf7d854",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-060"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "月村 手毬",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "月村 手毬",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

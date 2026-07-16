@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:46:35.837Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e035983807e95ea43842",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-073"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "リヴァイ",
+    "effect": "このキャラはアクティブで場に登場させる。\n[2回アタック]\n（このキャラがこのターン初めてアタックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "利威尔兵长",
+    "effectZh": "此角色登场时激活。\n[本回合攻击 2 次]\n（当此角色在本回合首次攻击时，将其激活）",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

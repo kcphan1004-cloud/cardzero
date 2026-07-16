@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:35.963Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f975992bf339ea0f72b4",
+  "seriesSlug": "bleach-thousand-year-blood-war",
+  "series": "BLEACH 千年血战篇",
+  "cardNumbers": [
+    "UA08BT/BLC-1-023"
+  ],
+  "source": {
+    "series": "BLEACH 千年血战篇",
+    "name": "ユーハバッハ",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・相手のフロントLのレイド状態のカードを1枚まで選び、レイド状態の上のカードを1枚場外に置く。\n・BP2000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "虚化崩坏，",
+    "effectZh": "[登场时] 选择以下一项。\n・从对手的前线 L 的雷击状态中选择一张卡，将雷击状态下方的卡片置入场外。\n・从 BP2000 以下的对手前线 L 的角色中选择一张，使其离场。",
+    "triggerZh": "[获取]\n将此牌加入手牌。"
+  }
+}

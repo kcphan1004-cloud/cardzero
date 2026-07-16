@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:23.997Z",
+  "model": "qwen3.5:4b",
+  "unitId": "38c035c715cbbde2292c",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-021"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂本 太郎",
+    "effectZh": "[无效冲击]（此角色与对手进行战斗时，该战斗中对方失去【冲击】）",
+    "triggerZh": ""
+  }
+}

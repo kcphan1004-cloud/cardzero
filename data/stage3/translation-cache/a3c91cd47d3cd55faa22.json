@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:58:49.356Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a3c91cd47d3cd55faa22",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-079"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "関原 妙",
+    "effect": "相手の場に青か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "関原 妙",
+    "effectZh": "若对手场上有青色或紫色的卡片，则从手牌中减少此卡所需的能量[红×1]。",
+    "triggerZh": ""
+  }
+}

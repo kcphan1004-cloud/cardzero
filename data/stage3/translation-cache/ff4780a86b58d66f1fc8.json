@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:51.003Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ff4780a86b58d66f1fc8",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-073",
+    "UA44BT/EVA-1-073"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "碇 シンジ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "碇 シンジ",
+    "effectZh": "",
+    "triggerZh": "[登场]\n将此卡加入手牌。"
+  }
+}

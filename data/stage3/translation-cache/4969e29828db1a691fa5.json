@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:25.980Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4969e29828db1a691fa5",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-054"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "真希波・マリ・イラストリアス",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "真希波·玛丽·伊拉图利亚斯",
+    "effectZh": "",
+    "triggerZh": "[激活]选择自己场上的角色一张，使其激活，本回合BP+3000"
+  }
+}

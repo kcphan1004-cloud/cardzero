@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:02.884Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1d8b876a74de0833d8a3",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-107"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ロイ・マスタング",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、リムーブエリアに置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "罗伊·马斯坦格",
+    "effectZh": "[登场时] 选择对手前线 L BP3000 以下的角色一张，置移除区。",
+    "triggerZh": "[抽牌]\n抽取一张卡片。"
+  }
+}

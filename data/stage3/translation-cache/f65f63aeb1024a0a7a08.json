@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:23:34.495Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f65f63aeb1024a0a7a08",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-032"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "バイラスの死骸",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[ターン1]\n自分の場のキャラが退場した時、アクティブのこのフィールドをレストにしてもよい。そうした場合、自分の山札の上から1枚を場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "病毒之尸骸",
+    "effectZh": "此场地以激活状态登场。\n[回合 1]\n当自己场上的角色退场时，可以将处于激活状态的此场地横置。若如此操作，则从自己的牌库上方将一张卡置于场外。",
+    "triggerZh": "[获取]将此卡加入手牌"
+  }
+}

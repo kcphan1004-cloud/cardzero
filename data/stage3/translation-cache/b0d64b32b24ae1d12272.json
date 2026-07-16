@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:24:34.834Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b0d64b32b24ae1d12272",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-050"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "リリエル 半深淵形態/リリサ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のフロントLにBPが4500以上でカード名に「753♡」を含むキャラがある場合、このキャラはこのターン中、BP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莉莉艾尔 半深渊形态/莉莉莎",
+    "effectZh": "【启动主效果】\n【在场前线时】\n【回合 1】\n若自身场前线的角色中，BP 为 4500 以上且卡名包含「753♡」的角色存在，则该角色在本回合中 BP+1500。",
+    "triggerZh": "【抽卡】\n抽 1 张牌。"
+  }
+}

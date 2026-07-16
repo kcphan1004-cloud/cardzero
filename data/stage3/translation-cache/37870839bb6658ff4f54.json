@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:15:21.790Z",
+  "model": "qwen3.5:9b",
+  "unitId": "37870839bb6658ff4f54",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-009"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "喜咲 アリア",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "喜咲阿里亚",
+    "effectZh": "[自己的回合中]\n此角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

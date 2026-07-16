@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:21:51.984Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b5c250975112e992ad68",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-034"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "漫画研究部",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：コスプレ］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えなかった場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "漫画研究部",
+    "effectZh": "[登场时]\n查看自己山札上方 4 张牌。从中公开［特征：Cosplay］最多一张并加入手牌，其余按任意顺序置于自己山札下方。若未成功加入手牌则抽一张牌。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

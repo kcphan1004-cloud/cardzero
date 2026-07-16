@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:59:12.329Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aeb8bcd3c6f7a279fccf",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-009"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "向坂 雫",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "向坂雫",
+    "effectZh": "[启动主]\n[将一张手牌置于场外]\n[回合 1]\n本角色在本回合中 BP+1500。",
+    "triggerZh": "[激活]\n选择自己的一张场上角色，将其激活，并在本回合中 BP+3000。"
+  }
+}

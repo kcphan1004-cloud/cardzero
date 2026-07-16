@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:02.126Z",
+  "model": "qwen3.5:4b",
+  "unitId": "439a58dd38af3a92e236",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-069"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "藤田 ことね",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "藤田 ことね",
+    "effectZh": "",
+    "triggerZh": "【获取】将此卡牌加入手札。"
+  }
+}

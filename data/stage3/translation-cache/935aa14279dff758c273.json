@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:53:28.278Z",
+  "model": "qwen3.5:9b",
+  "unitId": "935aa14279dff758c273",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-074"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ボギーウッズ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。このカードを手札に戻す。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "波奇伍兹",
+    "effectZh": "【启动主】\n【横置状态】\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。将此卡返回手牌。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:15.856Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa5911f1d92bd35e1035",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-041",
+    "UA17BT/TRK-1-041"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "次郎",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "次郎",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）、",
+    "triggerZh": ""
+  }
+}

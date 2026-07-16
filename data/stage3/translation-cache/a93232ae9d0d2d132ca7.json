@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:38:56.650Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a93232ae9d0d2d132ca7",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-029"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽々里",
+    "effect": "[登場時]\n[エナジーLにある場合]\nこのキャラをアクティブにする。\n[起動メイン]\n[レストにする]\n自分の場の特徴に「花園家」を持つ他のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花园 羽々里",
+    "effectZh": "[登场时]\n[在能量线 L 上的情况]\n将该角色激活。\n[启动主阶段]\n[使其横置]\n选择自己场上的具有「花园家」特征的另 1 枚角色，本回合中，BP+500。",
+    "triggerZh": ""
+  }
+}

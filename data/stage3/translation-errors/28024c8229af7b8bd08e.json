@@ -1,0 +1,16 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-16T16:31:57.212Z",
+  "unitId": "28024c8229af7b8bd08e",
+  "cardNumbers": [
+    "UAPR/IMS/AP04",
+    "UAPR/IMS/AP05",
+    "UAPR/IMS/AP06",
+    "UAPR/IMS/AP07",
+    "UAPR/IMS/AP08",
+    "UAPR/TSK-AP01",
+    "UAPR/TSK-AP02",
+    "UAPR/TSK-AP03"
+  ],
+  "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+}

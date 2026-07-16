@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:18.510Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ac3e9303c2f0c4f24f6c",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-110"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "綾波 レイ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "绫波 丽",
+    "effectZh": "[退场时] 抽一张卡。",
+    "triggerZh": "[获取]\n将此卡牌加入手牌。"
+  }
+}

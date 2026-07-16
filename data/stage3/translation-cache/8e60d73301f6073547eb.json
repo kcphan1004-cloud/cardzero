@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:04:59.753Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8e60d73301f6073547eb",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-016"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "無免ライダー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[黄]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无免ライダー",
+    "effectZh": "[启动主阶段]\n将横置改为激活\n[回合 1]\n此角色在本回合内获得 [能量 +\n[黄]]，并获得「主阶段结束时，将此角色离场」的效果。",
+    "triggerZh": ""
+  }
+}

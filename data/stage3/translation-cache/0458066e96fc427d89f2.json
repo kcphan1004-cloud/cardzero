@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:51.275Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0458066e96fc427d89f2",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-070"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "綾波 レイ",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "绫波 丽",
+    "effectZh": "[登场时]\n查看己方牌库上方的三张卡，其中最多将一张弃置场外，其余按任意顺序放回己方牌库上方。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

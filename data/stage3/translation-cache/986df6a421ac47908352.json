@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:48.628Z",
+  "model": "qwen3.5:4b",
+  "unitId": "986df6a421ac47908352",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-029"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "CCGの死神",
+    "effect": "自分の場に〈有馬 貴将〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "CCG 的死神",
+    "effectZh": "当自己场上有〈有马 贵将〉时，手牌中本卡的消耗AP-1。选择对手前线L的一张BP≤5000的角色并将其退场。抽取一张牌，并将自己的一只手牌置于场外。",
+    "triggerZh": "特殊\n选择对手的 frontline L 中的一张角色并使其退场"
+  }
+}

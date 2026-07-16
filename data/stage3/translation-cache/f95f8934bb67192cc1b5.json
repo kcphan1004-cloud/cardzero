@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:02.124Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f95f8934bb67192cc1b5",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-066"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "花海 咲季",
+    "effect": "[アタック時]\n自分のフロントLに〈花海 佑芽〉がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "花海 咲季",
+    "effectZh": "【攻击时】当己方的 Front L 存在「花海 佑芽」时，抽取一张卡牌，并将己方手札的一张置于场外。",
+    "triggerZh": "【抽牌】抽取一张卡牌。"
+  }
+}

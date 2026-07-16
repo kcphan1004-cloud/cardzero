@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:43.494Z",
+  "model": "qwen3.5:4b",
+  "unitId": "269dc284886d9094b846",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-032"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "万に一つも勝ち目はない",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈李牧〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "万无一胜也无望啊",
+    "effectZh": "选择对方前线 L 角色卡中 BP3000 以下的1张，使其退场。若己方场上有〈李牧〉，则改为「BP5000以下」。",
+    "triggerZh": "[特殊] 选择对方的前线 L 角色卡1张，使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:22:52.198Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ac9c9f7ec8cf9e7cdc9",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-041"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "安野 雲",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "安野云",
+    "effectZh": "[启动主] \n[横置]\n[回合 1]\n本回合中，该角色的发生能量+\n[赤]\n。\n主阶段结束时，使该角色退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:29:19.127Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c2ea2f29312903735da",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-075"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "UMAクローゼス",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "UMA 克洛泽斯",
+    "effectZh": "此字段以激活状态登场。\n[启动主]\n[横置]\n选择自己场上的角色 1 张，本回合中 BP+1000。",
+    "triggerZh": "[GET] \n将此卡加入手牌。"
+  }
+}

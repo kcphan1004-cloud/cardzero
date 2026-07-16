@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:58.265Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2b65653647439cd7c3a9",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-066"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "フィッツ",
+    "effect": "このカードは〈シルフィエット〉としても扱う。\n[自分のターン中]\n自分の発生エナジーが7以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "菲茨",
+    "effectZh": "本卡牌作为〈精灵〉处理。\n[自己的回合期间]\n若己方的发生能量在7以上，则此角色卡BP+1000。",
+    "triggerZh": "[抽取]抽一张卡牌。"
+  }
+}

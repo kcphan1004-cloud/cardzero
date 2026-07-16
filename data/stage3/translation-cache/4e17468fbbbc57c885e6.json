@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:29.164Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4e17468fbbbc57c885e6",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-080"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "熱気 バサラ",
+    "effect": "このキャラがアタックしてバトルに勝利した時、カードを1枚引き、このバトルで敗北した相手のキャラは退場する代わりに、手札に戻る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "热气 巴萨拉",
+    "effectZh": "该角色攻击并赢得战斗时，抽一张卡；败北的对手方角色离场前送回己方手牌。",
+    "triggerZh": "[激活]\n选择己方场上任意一张角色卡进行激活，本回合BP+3000"
+  }
+}

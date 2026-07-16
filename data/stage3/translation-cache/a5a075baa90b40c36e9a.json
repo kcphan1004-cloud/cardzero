@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:37.595Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a5a075baa90b40c36e9a",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-017"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "羽前 京香",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羽前 京香",
+    "effectZh": "当此角色处于激活状态时，本角色的发生能量+1。",
+    "triggerZh": ""
+  }
+}

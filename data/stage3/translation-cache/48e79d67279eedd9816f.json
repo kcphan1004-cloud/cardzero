@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:57:18.075Z",
+  "model": "qwen3.5:9b",
+  "unitId": "48e79d67279eedd9816f",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-012"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "エムル",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾姆鲁",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多1枚，使其本回合BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色1枚并激活之，使其本回合BP+3000。"
+  }
+}

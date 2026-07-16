@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:09.732Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed7ced8c5fc273bdb2a1",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-075"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "秩序の名の下に",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "秩序之名之下",
+    "effectZh": "选择至多 2 张自己的 AP 卡片，并激活它们。",
+    "triggerZh": "[最终]\\n如果自己的生命值为零，从自己牌库上方将一张卡置于自己的生命区域"
+  }
+}

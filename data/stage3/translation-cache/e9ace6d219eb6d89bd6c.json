@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:07.380Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e9ace6d219eb6d89bd6c",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-057"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "天条院 沙姫",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "天条院 沙姬",
+    "effectZh": "[登场时]<br><br>抽一张牌。",
+    "triggerZh": "[获取]<br>将该卡加入手札。"
+  }
+}

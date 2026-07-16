@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:24:34.837Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc13168aa6cd1ec1a053",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-052"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "753♡",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "753♡",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自身场上的角色 1 张，将其激活并赋予本回合中 BP+3000。"
+  }
+}

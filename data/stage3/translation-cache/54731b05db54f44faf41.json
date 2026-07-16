@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:30.080Z",
+  "model": "qwen3.5:4b",
+  "unitId": "54731b05db54f44faf41",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-062"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ガンマ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伽马",
+    "effectZh": "[启动主阶段]\n[横置]\n[回合数：1]\n抽 1 张牌，将己方手札中的 1 张置于敌方场地外。",
+    "triggerZh": ""
+  }
+}

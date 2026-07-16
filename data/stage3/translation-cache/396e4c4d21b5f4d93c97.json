@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:32.708Z",
+  "model": "qwen3.5:4b",
+  "unitId": "396e4c4d21b5f4d93c97",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-080"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "舞姫",
+    "effect": "カードを1枚引く。自分の場の〈向坂 雫〉を1枚まで選び、このターン中、「\n[アタック時]\nカードを1枚まで引く。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "舞姬",
+    "effectZh": "抽取1张卡。选择自己场上的〈向坂 雫〉1张或以下，给予其本回合中「[攻击时] 最多抽取1张卡」的效果。<br><br>（注：原文“至多”统一改写为“至多”，此处逻辑上隐含数量限制）",
+    "triggerZh": "[抽取]<br>抽取1张卡"
+  }
+}

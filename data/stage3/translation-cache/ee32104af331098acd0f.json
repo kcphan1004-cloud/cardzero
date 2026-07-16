@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:07.376Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ee32104af331098acd0f",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-054"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "沢田 未央",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泽田 未央",
+    "effectZh": "[登场时]<br><br>将自己场上其他一张角色（能量为1以下）放回手札；无法放回的情况下，将该卡放入手札。",
+    "triggerZh": ""
+  }
+}

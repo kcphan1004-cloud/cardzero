@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:07:45.148Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8ee3a3b2e60deb2c64fe",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-043"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "グレースロート",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "格蕾丝罗特",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

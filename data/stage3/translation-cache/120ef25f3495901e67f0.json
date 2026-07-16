@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:47.458Z",
+  "model": "qwen3.5:9b",
+  "unitId": "120ef25f3495901e67f0",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-078"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "初めてのイベント",
+    "effect": "自分の場のキャラを1枚選び、このターン中、BP+2000。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "初次活动",
+    "effectZh": "选择自己场上的角色 1 张，本回合中 BP+2000。选择自己的 AP 卡最多 1 张并激活。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张并激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:19.846Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7c26c9f09867ef78780b",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-034"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "東 八千穂",
+    "effect": "自分の手札が2枚以上あり、相手のイベントの効果で自分の場の〈東 日万凛〉が場を離れる場合、代わりに「アクティブのこのキャラをレストにし、自分の手札を2枚場外に置く。」をしてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "东 八千穂",
+    "effectZh": "己方手牌有2张以上且对方事件的效果使己方场上的〈东 日万凛〉离场时，可代替进行「将激活的该角色横置并将己方手牌2张置于场外。」。",
+    "triggerZh": ""
+  }
+}

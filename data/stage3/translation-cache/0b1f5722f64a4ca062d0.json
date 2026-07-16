@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:56:16.094Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0b1f5722f64a4ca062d0",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-031"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "追跡爆弾",
+    "effect": "相手は自身の手札を1枚場外に置く。この効果でキャラカードが場外に置かれた場合、自分はカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "追踪炸弹",
+    "effectZh": "对手将自身手牌中 1 张置入场外。若此效果使角色卡被置入场外，则自己抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并激活之，本回合 BP+3000。"
+  }
+}

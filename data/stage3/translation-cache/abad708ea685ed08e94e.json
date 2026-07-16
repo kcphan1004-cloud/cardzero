@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:52:52.242Z",
+  "model": "qwen3.5:4b",
+  "unitId": "abad708ea685ed08e94e",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-065"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "出雲 天花",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "出雲 天花",
+    "effectZh": "[登場時] \n抽一张牌，将手札的一张置于场外。",
+    "triggerZh": "[触发]\n抽一张牌。"
+  }
+}

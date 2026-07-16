@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:48.840Z",
+  "model": "qwen3.5:4b",
+  "unitId": "29d0e03dae483b39f099",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-093"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "信",
+    "effect": "[自分のターン中]\n自分の場に〈嬴政〉がある場合、このキャラはBP+2000。\n[エナジーLにある場合]\n[ターン1]\n自分のキャラのアタック終了時、このターン中にアタックしていない自分のフロントLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。\n[起動メイン]\n[手札を2枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、\n[インパクト（1）]\nを得る。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "信",
+    "effectZh": "[在本回合中] 若自己场上有<em style=\"font-family: 'Hiragino Kaku Gothic Pro', sans-serif;\">〈嬴政〉</em>，本角色 BP+<strong>2000</strong><br/>[在能量线 L 上时][回合 1]<br/>在本回合中攻击结束时，可选择自己本回合未进行过攻击的前锋线 L 上的 1 张角色与其交换位置<br/><strong>[激活主效果]</strong><br/>将两张手牌置于场外<br/>[回合 1] 本角色在本回合中获得<br/><strong>[冲击（1）]</strong>",
+    "triggerZh": "[颜色]<br/>选择对手 BP<em style=\"color:red\">2500</em>以下的 1 张前锋线 L 上的角色使其退场。"
+  }
+}

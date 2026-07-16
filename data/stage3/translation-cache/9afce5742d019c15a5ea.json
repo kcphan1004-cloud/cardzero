@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:58:06.605Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9afce5742d019c15a5ea",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-109"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "104期訓練兵団",
+    "effect": "自分の場の［特徴：104期兵］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "第 104 期训练兵团",
+    "effectZh": "选择自己场上的［特征：第 104 期兵］数量×1000以下的 BP 的对方前线 L 的角色最多 1 枚并将其退场。",
+    "triggerZh": "[Special]\n从对方的前线 L 中选择角色最多 1 枚并将其退场。"
+  }
+}

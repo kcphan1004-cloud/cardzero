@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:27:00.045Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f54223d31f77283f59da",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-059"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "シュネー",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雪奈",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 以下的任意 1 个角色返回手牌。若无法返回，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

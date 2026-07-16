@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:01:15.467Z",
+  "model": "qwen3.5:9b",
+  "unitId": "299a0b594d89a22ac220",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-051"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "小兎",
+    "effect": "[登場時]\n自分の場に〈樹里〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "小兎",
+    "effectZh": "【登场时】\n自己的场上有〈树里〉的情况下，抽 1 张牌。",
+    "triggerZh": "【抽取】\n抽 1 张牌。"
+  }
+}

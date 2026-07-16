@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:07.656Z",
+  "model": "qwen3.5:4b",
+  "unitId": "da73831d74aa11664647",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-071"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "若狭 サハラ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "若狭 沙哈拉",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取1张卡牌。"
+  }
+}

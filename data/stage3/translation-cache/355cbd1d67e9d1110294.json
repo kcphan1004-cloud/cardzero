@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:30.913Z",
+  "model": "qwen3.5:4b",
+  "unitId": "355cbd1d67e9d1110294",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-041"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "能力の代償だ！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "能力的代价！",
+    "effectZh": "选择己方的两张 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若己方生命值为零，则从己方牌库上方抽取一张置于己方生命区"
+  }
+}

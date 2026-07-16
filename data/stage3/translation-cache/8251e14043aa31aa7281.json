@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:25:39.352Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8251e14043aa31aa7281",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-061"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ジュイス",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "朱伊斯",
+    "effectZh": "[启动主阶段]\n[横置状态]\n选择自己场上的其他角色 1 枚，给予此回合中 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其激活，并赋予此回合中 BP+3000。"
+  }
+}

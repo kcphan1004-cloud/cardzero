@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:20:19.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "31dfcd1c07b86a67df73",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-025"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジャイガー",
+    "effect": "[登場時]\n自分の手札から必要エナジーが0の〈ジャイガー〉を1枚まで自分のフロントLにレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杰格勒",
+    "effectZh": "[登场时]\n从自己手牌中，将必要能量为 0 的〈杰格勒〉最多 1 张以横置状态登场至自己的前线 L。",
+    "triggerZh": ""
+  }
+}

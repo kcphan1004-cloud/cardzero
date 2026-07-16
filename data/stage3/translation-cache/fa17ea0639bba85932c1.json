@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:59:08.445Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa17ea0639bba85932c1",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-AP01",
+    "UA23BT/AOT-1-AP01",
+    "UA23BT/AOT-1-AP02",
+    "UA23BT/AOT-1-AP03",
+    "UA23BT/AOT-1-AP04",
+    "UA23BT/AOT-1-AP05",
+    "UA23BT/AOT-1-AP06",
+    "EX10BT/AOT-2-AP01",
+    "EX10BT/AOT-2-AP02",
+    "EX10BT/AOT-2-AP03",
+    "EX10BT/AOT-2-AP04",
+    "EX10BT/AOT-2-AP05",
+    "EX10BT/AOT-2-AP06"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アクションポイントカード(進撃の巨人)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（进击的巨人）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

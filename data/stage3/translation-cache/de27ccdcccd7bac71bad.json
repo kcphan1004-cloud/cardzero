@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:19.218Z",
+  "model": "qwen3.5:4b",
+  "unitId": "de27ccdcccd7bac71bad",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-004"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "綾波 レイ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绫波 丽",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本战斗中失去\n[冲击]）\n[登场时]\n选择己方场上的1张角色，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

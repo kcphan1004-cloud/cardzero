@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:48.288Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8847b345c95529350632",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-004"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "眞霜 平助",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "眞霜 平助",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

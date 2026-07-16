@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:01:09.424Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7cd8a97a53d3d7d99c69",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-028"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "斎賀 玲",
+    "effect": "このカードは〈サイガ-0〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "斋贺玲",
+    "effectZh": "这张卡也作为〈赛嘉 -0〉处理。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

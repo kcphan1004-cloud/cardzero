@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:51.478Z",
+  "model": "qwen3.5:4b",
+  "unitId": "71459a8f25739af5f1fa",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-022"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "大川村 寧",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[黄]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大川村 宁",
+    "effectZh": "[发动主回合]\n[将其横置]\n[第1回合]\n本角色在本回合中，获得\n[黄]\n与「在主回合结束时，将该角色离场」。",
+    "triggerZh": ""
+  }
+}

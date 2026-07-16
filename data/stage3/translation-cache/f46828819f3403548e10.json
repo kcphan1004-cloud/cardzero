@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:28:30.123Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f46828819f3403548e10",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-069"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ビリー",
+    "effect": "[自分のターン中]\n自分のフロントLの他の［特徴：UNION］1枚につき、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "比利",
+    "effectZh": "【自己的回合中】\n自己前线 L 的其他［特征：UNION］每有 1 张，该角色 BP+500。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:46:02.142Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4a14849fc3b5bce617df",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-096"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "全部上手くいく",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "万事皆宜",
+    "effectZh": "选择至多 2 张你的 AP 卡，并激活它们。",
+    "triggerZh": "[最终]\n若你无生命点数，则从你的手牌上方将一张置于你的生命区。"
+  }
+}

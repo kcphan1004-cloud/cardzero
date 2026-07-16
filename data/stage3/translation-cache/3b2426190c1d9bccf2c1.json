@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:59:08.444Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3b2426190c1d9bccf2c1",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-113"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "超大型巨人",
+    "effect": "このカードはエナジーLに登場できない。\n[フロントLにある場合]\n自分のフロントLに置けるカードの枚数が1枚減る。\n[登場時]\n相手の場のフィールドを1枚まで選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "超大型巨人",
+    "effectZh": "这张卡无法登场于能量线。\n【位于前线 L 时】\n自己可放置在前线 L 的卡片数量减少 1 张。\n【登场时】\n选择对方场上的场地最多 1 枚并使其退场。",
+    "triggerZh": "【抽牌】\n抽 1 张牌"
+  }
+}

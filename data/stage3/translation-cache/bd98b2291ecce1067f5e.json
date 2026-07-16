@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:50:04.639Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bd98b2291ecce1067f5e",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-076",
+    "UA31BT/MMM-1-006",
+    "UA31BT/MMM-1-076"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "鹿目 まどか",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "鹿目圆",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

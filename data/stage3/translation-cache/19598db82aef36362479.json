@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:59.919Z",
+  "model": "qwen3.5:4b",
+  "unitId": "19598db82aef36362479",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-031"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "最強の証",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "最强之证",
+    "effectZh": "选择自己的AP卡至多2张并激活之。",
+    "triggerZh": "[最终] 若你的生命值为零，从你的牌库上方取一张置于你的生命区域中。"
+  }
+}

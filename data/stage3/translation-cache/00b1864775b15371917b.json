@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:43.491Z",
+  "model": "qwen3.5:4b",
+  "unitId": "00b1864775b15371917b",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-029"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "全軍前進です",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "全军前进啊！",
+    "effectZh": "选择己方 AP 卡2张或以下，使其激活状态。",
+    "triggerZh": "[最终] 若己方生命值为空，则从己方牌库上方取1张卡牌放置至己方生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:00:17.563Z",
+  "model": "qwen3.5:4b",
+  "unitId": "05797c31e905f23283da",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-030"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "雪花",
+    "effect": "[レイド]\n［特徴：七煌星団］アクティブにし、フロントLに移動できる\n[自分のターン中]\nこのキャラはBP+500。\n[登場時]\n自分の場に必要エナジーが3以下の他の［特徴：KMF］がある場合、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "雪花",
+    "effectZh": "[雷击] [激活：七煌星团] 可将其置于活动状态并移动至前线 L。\n［在自己回合中］\n本角色 BP+500。\n［登场时］\n若场上存在其他「特征：KMF」且所需能量为3以下，则抽1张牌。",
+    "triggerZh": "[触发] 将此卡加入手札。"
+  }
+}

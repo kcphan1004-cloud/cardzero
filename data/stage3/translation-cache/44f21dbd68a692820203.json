@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:34:58.399Z",
+  "model": "qwen3.5:9b",
+  "unitId": "44f21dbd68a692820203",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-025",
+    "UA31BT/MMM-1-058"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "[登场时]\n将自身场上其他必要能量为 1 或更少的角色中的 1 张返回手牌。若无法如此操作，则将该角色返回手牌。\n\n[触发]",
+    "triggerZh": ""
+  }
+}

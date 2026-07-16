@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:38:59.618Z",
+  "model": "qwen3.5:9b",
+  "unitId": "00d878009ec3b49bc15b",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-031"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "掃除",
+    "effect": "自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。カードを2枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "打扫",
+    "effectZh": "查看自己牌库上方的 2 张卡。从中按任意顺序将想要的数量放回自己牌库上方，其余的置入场外。抽 2 张牌。",
+    "triggerZh": "[激活]\n从自己场上选择 1 张角色并激活之，本回合中 BP+3000。"
+  }
+}

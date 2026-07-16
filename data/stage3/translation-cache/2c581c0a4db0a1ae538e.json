@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:48.285Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2c581c0a4db0a1ae538e",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-002"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "ピー助",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[黄]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "ピー助",
+    "effectZh": "[激活主侧]\n[横置状态]\n[回合 1]\n本角色在本回合中，发生能量+\n[黄]\n并获得「主侧阶段结束时，使本角色离场。」。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:21:03.244Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f091b301a4d463938bf6",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-019"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マイケル",
+    "effect": "[登場時]\nBP2500以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "迈克尔",
+    "effectZh": "[登场时]\n选择对方前线 L 的 BP2500 以下的角色至多 1 张，使其进入横置状态。",
+    "triggerZh": ""
+  }
+}

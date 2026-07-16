@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:24.321Z",
+  "model": "qwen3.5:4b",
+  "unitId": "28c2b1892b531ce35d14",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-011"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ギレーヌ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の〈エリス〉を1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉蕾诺",
+    "effectZh": "[启动主效果]\n[在 Front L 存在的情况下]\n[回合 1]\n选择场上的〈艾莉丝〉，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

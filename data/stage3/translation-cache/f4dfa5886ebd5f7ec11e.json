@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:34:30.763Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f4dfa5886ebd5f7ec11e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-009"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "リヴァイ",
+    "effect": "[アタック時]\nAPを1支払ってもよい。そうした場合、カードを1枚引き、このキャラはこのターン中、BP+1000。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "利威尔兵长",
+    "effectZh": "【攻击时】\n可以支付 1 AP。如此则抽 1 张牌，该角色本回合中 BP+1000。\n【颜色】\n选择对方 Front L 的 BP3500 以下的角色至多 1 张并返回手牌。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

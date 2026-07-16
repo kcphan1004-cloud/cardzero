@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:30.969Z",
+  "model": "qwen3.5:4b",
+  "unitId": "51a083b5777a44893b95",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-072"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "幽霊の悪魔",
+    "effect": "[アタック時]\nこのターン中に自分の移動フェイズ以外でこのキャラが移動していた場合、自分の場外から必要エナジーが2以下の〈早川 アキ〉を1枚まで手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "幽灵恶魔",
+    "effectZh": "[攻击时]\n本回合中除移动阶段外该角色曾进行过移动的情况下，从场外观卡区将需要的能量为2张以下的〈早川 秋〉最多一张加入手中。",
+    "triggerZh": ""
+  }
+}

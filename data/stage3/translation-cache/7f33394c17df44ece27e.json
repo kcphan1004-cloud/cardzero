@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:47:00.717Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f33394c17df44ece27e",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-107"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "山口 忠",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "山口忠",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

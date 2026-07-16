@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:25:29.937Z",
+  "model": "qwen3.5:4b",
+  "unitId": "265ebcf73ba416a3b856",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-016"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "漆羽 洋児",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "漆羽 洋児",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

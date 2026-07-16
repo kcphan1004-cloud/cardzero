@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:44.441Z",
+  "model": "qwen3.5:4b",
+  "unitId": "95c0faf6d5f56aeac844",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-011"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "式波・アスカ・ラングレー",
+    "effectZh": "【登场时】\n将自身能量为 1 或以下的自己场上其他角色送回手牌。若无法送回，则将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

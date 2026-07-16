@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:32.124Z",
+  "model": "qwen3.5:4b",
+  "unitId": "582a49517266b88e4ac0",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-060"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "南雲",
+    "effect": "このカードの\n[ゲット]\nを発動する場合、代わりに\n[ドロートリガー]\nか\n[アクティブ]\nにしてもよい。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "南云",
+    "effectZh": "若发动本卡的\n[抓取]\n，可代替为\n[掉落触发]或\n[激活]。",
+    "triggerZh": "[抓取]\n将这张卡加入手牌"
+  }
+}

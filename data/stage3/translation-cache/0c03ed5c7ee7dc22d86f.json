@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:16:44.530Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0c03ed5c7ee7dc22d86f",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-039"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "渚 カヲル",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+500。\n[起動メイン]\n[エナジーLにある場合]\n自分のエナジーLのレストの〈碇 シンジ〉を1枚選び、アクティブにする。そうした場合、このキャラをアクティブにする。〈渚 カヲル〉のこの効果は1ターンに1回のみ発動できる。",
+    "trigger": "[カラー]\n自分の場外から必要エナジーが2以下で消費APが1の紫のキャラカードを1枚自分のフロントLにアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "渚 香织",
+    "effectZh": "[启动主阶段]\n将状态改为横置\n选择自己场上的其他角色最多1张，本回合中BP+500\n[启动主阶段]<span style=\"color:blue\">蓝</span>或<span style=\"color:red\">红</span><span style=\"color:green\">绿</span>\n若自己的能量L有状态改为横置的〈碇 シンジ〉，选择1张并激活。如此操作后，将此角色激活。<span style=\"color:purple\">紫</span>「渚 香织」此效果每回合仅可发动1次",
+    "triggerZh": "[颜色]\n从自己场外最多消耗2点能量、AP为1的<span style=\"color:blue\">蓝</span><span style=\"color:red\">红</span><span style=\"color:green\">绿</span>角色卡，以激活状态登场至自己的前线L"
+  }
+}

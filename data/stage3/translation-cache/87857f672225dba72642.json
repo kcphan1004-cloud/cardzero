@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:48.183Z",
+  "model": "qwen3.5:4b",
+  "unitId": "87857f672225dba72642",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-073"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ララ・サタリン・デビルーク",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[相手のターン中]\nこのキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉啦·萨塔林·德比鲁克",
+    "effectZh": "[阶段]\n（本角色可以从Front L移动到Energy L）\n[对手回合中]\n本角色的BP+500。",
+    "triggerZh": "[抽取]\n抽1张牌"
+  }
+}

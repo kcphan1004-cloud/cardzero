@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:20:11.657Z",
+  "model": "qwen3.5:4b",
+  "unitId": "83f13df43919bab9f9d5",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-087"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "レイ・ラブロック",
+    "effect": "[起動メイン]\n[レストにする]\n自分の手札が5枚以上の場合のみ発動できる。自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雷·拉布鲁克",
+    "effectZh": "[激活主阶段]\n[横置状态]\n仅在自己手牌有 5 张以上的情况下才能发动。从自己的卡组上方看一张卡，将该卡置于自己卡组上方或下方。",
+    "triggerZh": "[抽牌]\n抽取一张卡。"
+  }
+}

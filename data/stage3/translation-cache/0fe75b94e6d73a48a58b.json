@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:45.772Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0fe75b94e6d73a48a58b",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-012"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "[2回合阻挡]\n（当角色在本回合首次阻挡时，激活）",
+    "triggerZh": "[激活]\n选择自己场上的1张卡并激活，本回合中，BP+3000。"
+  }
+}

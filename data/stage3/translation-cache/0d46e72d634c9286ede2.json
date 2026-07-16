@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:42.859Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0d46e72d634c9286ede2",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-100",
+    "UA41BT/RNK-1-100"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "龍槌閃",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚まで選び、『エナジーLに移動させる』。自分の場に〈緋村 剣心〉がある場合、『相手の山札の下に置く』に代えてもよい。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "龙锤闪",
+    "effectZh": "选择敌方前线L中BP5000以下的角色最多1张，并令其移动至能量L。若本方场上有〈绯村 剑心〉，则可选择将其替换为“放置于对方的牌库下方”。",
+    "triggerZh": "[特殊]\n选择敌方前线L中的角色1张，使其离场。"
+  }
+}

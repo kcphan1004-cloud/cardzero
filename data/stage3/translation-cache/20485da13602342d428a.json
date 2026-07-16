@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:43.490Z",
+  "model": "qwen3.5:4b",
+  "unitId": "20485da13602342d428a",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-028"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "合従軍集結",
+    "effect": "カードを2枚引く。自分の場の黄のカードの特徴が3種類以上ある場合、さらにカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "合纵军集结",
+    "effectZh": "抽2张卡牌。若己方场上黄色卡牌的特征种类达到3种或以上，则再抽1张卡牌。",
+    "triggerZh": "[抽取] 抽1张卡牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:20.081Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7c5249628c6affecb030",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/EVA-1-070"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "綾波 レイ",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "绫波·レイ",
+    "effectZh": "[登场时]从自己卡组上方看三张，最多将其中 1 张置于场外，其余按任意顺序放回卡组上方。",
+    "triggerZh": "draw"
+  }
+}

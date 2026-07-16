@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:22.657Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8306b0fb75329e93febb",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-052"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ゾンビマン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[退場時]\n自分の手札を1枚リムーブエリアに置いてもよい。そうした場合、このカードを手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "僵尸曼",
+    "effectZh": "[冲击无效]\n（与本角色战斗的角色在本战斗中失去［冲击］）\n[离场时]可以将自己的手札中 1 张放置到移除区。如此操作，本卡片进入手札。",
+    "triggerZh": ""
+  }
+}

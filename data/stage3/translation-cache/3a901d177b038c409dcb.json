@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:55:25.689Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3a901d177b038c409dcb",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-112"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "暁美 ほむら",
+    "effect": "[退場時]\n自分の場外から必要エナジーが2以下の〈鹿目 まどか〉を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "晓美焰",
+    "effectZh": "[退场时]\n从自己场外将必要能量为 2 以下的〈鹿目圆〉选择至多 1 张加入手牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

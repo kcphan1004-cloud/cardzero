@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:10.138Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9900eff1b97145721c89",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-072"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ルーデウス",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鲁迪乌斯",
+    "effectZh": "若该角色处于激活状态，则该角色的产生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

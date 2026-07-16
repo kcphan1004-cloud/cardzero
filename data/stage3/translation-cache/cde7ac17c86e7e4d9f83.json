@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:22:52.199Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cde7ac17c86e7e4d9f83",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-042"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "安野 雲",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中からカードを1枚まで場外に置く。残りを望む順で自分の山札の上に置く。\n[退場時]\nカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "安野云",
+    "effectZh": "[登场时] \n查看自己牌库上方的 4 张卡。从中最多将 1 张置于场外。将其余的按任意顺序置于自己的牌库上方。\n[退场时]\n抽 1 张牌。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

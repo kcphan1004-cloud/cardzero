@@ -1,0 +1,10 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-16T16:37:28.349Z",
+  "unitId": "d2cc8f9e3a45a2da3451",
+  "cardNumbers": [
+    "UAPR/MCR-AP02",
+    "UAPR/MCR-AP03"
+  ],
+  "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+}

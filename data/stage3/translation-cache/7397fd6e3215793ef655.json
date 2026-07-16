@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:30:30.618Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7397fd6e3215793ef655",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-034"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "岩泉 一",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "岩泉一",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择我方场上的角色 1 张，使其激活，并在此回合中 BP+3000。"
+  }
+}

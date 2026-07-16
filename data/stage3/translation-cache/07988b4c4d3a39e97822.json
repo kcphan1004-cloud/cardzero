@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:07:22.486Z",
+  "model": "qwen3.5:4b",
+  "unitId": "07988b4c4d3a39e97822",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-085"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "八九寺 真宵",
+    "effect": "このカードが自分の効果でリムーブエリアに置かれた時、自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "八九寺 真宵",
+    "effectZh": "此卡通过自身效果放置至弃牌区时，选择己方场上的一张角色卡，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

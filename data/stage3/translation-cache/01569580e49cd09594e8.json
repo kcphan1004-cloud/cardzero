@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:54:23.829Z",
+  "model": "qwen3.5:9b",
+  "unitId": "01569580e49cd09594e8",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-082"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "小松",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小松",
+    "effectZh": "[启动主效果]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[紫色]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

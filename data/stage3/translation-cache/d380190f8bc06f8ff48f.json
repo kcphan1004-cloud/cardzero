@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:44:01.022Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d380190f8bc06f8ff48f",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-058"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "田有",
+    "effect": "[自分のターン中]\n自分の場に［特徴：飛信隊］のカード名が4種類以上ある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "田有",
+    "effectZh": "[本家回合中]\n若己方场上存在 4 种以上［特征：飞信队］的卡名，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

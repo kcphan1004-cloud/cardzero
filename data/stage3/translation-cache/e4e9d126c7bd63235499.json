@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:28.494Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e4e9d126c7bd63235499",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-058"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ぷりぷりプリズナー",
+    "effect": "[自分のターン中]\n自分の手札が0枚の場合、このキャラはBP+2000。\n[起動メイン]\n[ターン1]\n自分の手札を全て場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "弹跳力囚人者",
+    "effectZh": "[激活状态]\n若己方手牌为 0 张，本角色 BP+2000。\n[启动主阵]\n[回合 1]\n将己方全部手牌置于场外。",
+    "triggerZh": "[激活状态]\n选择己方场上的一张角色进行激活，该角色在本回合中 BP+3000"
+  }
+}

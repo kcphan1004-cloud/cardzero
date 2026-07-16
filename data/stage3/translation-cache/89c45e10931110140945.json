@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:55.060Z",
+  "model": "qwen3.5:4b",
+  "unitId": "89c45e10931110140945",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-075"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "相楽 左之助",
+    "effect": "このキャラがアタックしてブロックされなかった時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "相乐 左之助",
+    "effectZh": "该角色攻击未被阻挡时，抽取卡片 1 张。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:12.662Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fe1d10b0b3d391da2f39",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-068"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "弥勒",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "弥勒",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手札"
+  }
+}

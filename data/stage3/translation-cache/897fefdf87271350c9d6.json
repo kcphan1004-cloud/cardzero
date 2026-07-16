@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:18:22.962Z",
+  "model": "qwen3.5:4b",
+  "unitId": "897fefdf87271350c9d6",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-089"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "ペンペン",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佩佩",
+    "effectZh": "[登场时]\n选择自己场上的其他角色一张，在本回合内BP+1000。",
+    "triggerZh": ""
+  }
+}

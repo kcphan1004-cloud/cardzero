@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:16:06.882Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e12a327170b16f1e6441",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-015"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "橘 美花莉",
+    "effect": "このキャラがアタックしてブロックされた時、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "橘 美花莉",
+    "effectZh": "当该角色攻击并被阻挡时，可以抽 1 张牌。若如此操作，则将自身手牌的 1 张置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

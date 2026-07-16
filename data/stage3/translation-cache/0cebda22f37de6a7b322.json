@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:12.418Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0cebda22f37de6a7b322",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-004"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "高荷 恵",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "高荷 惠",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上的其他角色一张回到手牌。无法回到的情况，将该角色回到手牌。",
+    "triggerZh": ""
+  }
+}

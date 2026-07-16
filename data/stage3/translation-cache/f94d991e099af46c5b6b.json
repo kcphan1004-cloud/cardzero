@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:40.638Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f94d991e099af46c5b6b",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-020"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "黒咲 芽亜",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑咲芽亚",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

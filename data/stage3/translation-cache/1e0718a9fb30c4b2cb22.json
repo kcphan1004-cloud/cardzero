@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:50.858Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1e0718a9fb30c4b2cb22",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-009",
+    "UA37BT/FMA-1-009"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "エドワード・エルリック",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "爱德华·艾尔利克",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡片加入手札。"
+  }
+}

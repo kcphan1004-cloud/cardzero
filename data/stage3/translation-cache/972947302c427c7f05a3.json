@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:09.736Z",
+  "model": "qwen3.5:4b",
+  "unitId": "972947302c427c7f05a3",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-079"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "変装の達人",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、相手の山札の上か下の『相手が選んだ方』に置く。自分の場に〈南雲〉がある場合、『自分が選んだ方』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "变身大师",
+    "effectZh": "选择对手 FRONT L 中 BP5000 以下的角色卡一张。将其置于对手牌库上方或下方「由对方选择的方位」。如果己方有「南雲」，则改为「由我方选择的方位」。",
+    "triggerZh": "[特殊]\\n选择对手 FRONT L 中的一张角色卡片，使其退场"
+  }
+}

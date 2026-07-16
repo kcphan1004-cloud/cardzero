@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:11.480Z",
+  "model": "qwen3.5:4b",
+  "unitId": "98548d3e76dfcbbb3be3",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-050"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "閃光のフラッシュ",
+    "effect": "自分の場に他の［特徴：ヒーロー］が6枚以上ある場合、このキャラは「このキャラはBP3500以上のキャラにブロックされない。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "闪光的闪光",
+    "effectZh": "当己方场上有其他[特征：英雄]卡片达到或超过六张时，本角色获得「本角色不会被 BP 为 3500 以上的角色阻挡。」。",
+    "triggerZh": ""
+  }
+}

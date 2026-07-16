@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:19.083Z",
+  "model": "qwen3.5:4b",
+  "unitId": "be88c0f34398a33b36ff",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-008"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "御門 涼子",
+    "effect": "[登場時]\n自分の手札を全て場外に置き、カードを5枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "御门 凉子",
+    "effectZh": "[登场时]\n将你的手札全部置于场外，并抽5张牌。",
+    "triggerZh": ""
+  }
+}

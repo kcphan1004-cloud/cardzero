@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:17:05.653Z",
+  "model": "qwen3.5:9b",
+  "unitId": "311992318216d2e279c3",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-024"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "日比野 カフカ",
+    "effect": "[登場時]\n自分のターン中の場合、APを1支払ってもよい。そうした場合、カードを1枚引く。その後、自分の手札から必要エナジーが3以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日比野 卡夫卡",
+    "effectZh": "[登场时]\n自己的回合中，可以支付 AP。若如此做，抽 1 张牌。之后，从自己手札中选择至多 1 张消耗 AP 为 1、必要能量在 3 以下的黄色角色卡以横置状态登场。",
+    "triggerZh": ""
+  }
+}

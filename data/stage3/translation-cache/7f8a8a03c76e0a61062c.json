@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:56.377Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7f8a8a03c76e0a61062c",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-041"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "X",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "X",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成1点伤害）",
+    "triggerZh": ""
+  }
+}

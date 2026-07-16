@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:53:55.186Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d3529a2bcc0da353cf3b",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-009"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "篠澤 広",
+    "effect": "[登場時]\n元々のBPが2500以下の自分の場の他のキャラを1枚まで選び、このターン中、BP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "篠泽广",
+    "effectZh": "[登场时]\n选择自己场上原本 BP 为 2500 以下的其他角色至多 1 张，本回合中，BP+1500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:40.292Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2eb9bb2da225f33aa133",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-041"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "美柑の手料理",
+    "effect": "自分のフロントLのキャラ全ては、このターン中、BP+1000。カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "美柑的手料理",
+    "effectZh": "己方前线L的所有角色，本回合中BP+1000。抽一张牌。",
+    "triggerZh": "[激活]\n选择己方场上的一个角色进行激活，本回合中BP+3000"
+  }
+}

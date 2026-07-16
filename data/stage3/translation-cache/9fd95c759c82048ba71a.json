@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:44:07.398Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9fd95c759c82048ba71a",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SMD-P-001"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "SAKAMOTO DAYS",
+    "effect": "このカードの色と必要エナジーは、全ての色として扱う。\n自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "SAKAMOTO DAYS",
+    "effectZh": "本卡牌的颜色和必要能量视为所有颜色。\n选择自己的 AP 卡至多 2 张，使其激活。",
+    "triggerZh": "[最终] 如果自己的生命值为空，从自己牌库上方取一张放到生命区。"
+  }
+}

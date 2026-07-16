@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:48.917Z",
+  "model": "qwen3.5:4b",
+  "unitId": "979b4c0b65d8d69d1b64",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/HTR-1-018"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "キルア＝ゾルディック",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "基拉·佐迪克",
+    "effectZh": "[攻击时]\n抽一张牌，将手札的一张置于场外。",
+    "triggerZh": "[颜色] 选择对手面前线 BP3500 以下的角色一张，将其送回手札。"
+  }
+}

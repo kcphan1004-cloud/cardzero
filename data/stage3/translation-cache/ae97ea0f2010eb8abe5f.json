@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:16:03.815Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ae97ea0f2010eb8abe5f",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-108"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "皿屋敷中学校",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "皿屋敷中学校",
+    "effectZh": "[启动主阶段]\n[横置状态]\n[回合 1]\n抽 1 张牌，并将自己手牌中的 1 张置入场外。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

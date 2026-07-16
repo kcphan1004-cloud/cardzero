@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:28.526Z",
+  "model": "qwen3.5:4b",
+  "unitId": "80b23adfecb997992f48",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-004"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ティアーユ・ルナティーク",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蒂娅·莱纳提克",
+    "effectZh": "[冲击无效]\n（与本角色进行战斗的角色在本战斗中失去冲击）",
+    "triggerZh": ""
+  }
+}

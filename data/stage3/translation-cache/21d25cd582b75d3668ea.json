@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:24:05.508Z",
+  "model": "qwen3.5:4b",
+  "unitId": "21d25cd582b75d3668ea",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/CGH-1-017"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ルルーシュ・ランペルージ",
+    "effect": "このキャラはBP3500以上のキャラにブロックされない。\n[登場時]\n相手は自身の手札を1枚場外に置く。\n[退場時]\nカードを2枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "鲁路修·兰佩露基",
+    "effectZh": "该角色不会被BP 3500以上的角色阻挡。\n[登场时]\n对手将自身手札的卡，最多选1张置于场外。\n[离场时]\n从卡组上方抽取2张卡牌。",
+    "triggerZh": "[获得]\n将此牌加入手札。"
+  }
+}

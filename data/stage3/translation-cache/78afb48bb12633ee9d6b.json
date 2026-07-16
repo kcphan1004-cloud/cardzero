@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:52:08.536Z",
+  "model": "qwen3.5:9b",
+  "unitId": "78afb48bb12633ee9d6b",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-AP01",
+    "UA26BT/RLY-1-AP02",
+    "UA26BT/RLY-1-AP03",
+    "UA26BT/RLY-1-AP04",
+    "UA26BT/RLY-1-AP05",
+    "UA26BT/RLY-1-AP06",
+    "UA26BT/RLY-1-AP07",
+    "UA26BT/RLY-1-AP08",
+    "UA26BT/RLY-1-AP09",
+    "UA26BT/RLY-1-AP10",
+    "UA26BT/RLY-1-AP11",
+    "UA26BT/RLY-1-AP12"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "アクションポイントカード(君のことが大大大大大好きな100人の彼女)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡（大大大大喜欢你的 100 个女朋友）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

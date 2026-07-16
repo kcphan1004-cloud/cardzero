@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:58:32.188Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0e4f2d3727ae48fb71fb",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-009"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "W",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "W",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，激活并使其本回合 BP+3000。"
+  }
+}

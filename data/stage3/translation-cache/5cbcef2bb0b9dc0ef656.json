@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:23:31.771Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5cbcef2bb0b9dc0ef656",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-046"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "橘 美花莉",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "橘 美花莉",
+    "effectZh": "【启动主】\n【支付1点AP】\n【第1回合】\n抽1张牌。",
+    "triggerZh": ""
+  }
+}

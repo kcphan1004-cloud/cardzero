@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:42.105Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3acd7b5cbd4ac486c41b",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-080"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "飛影",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "飞影",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

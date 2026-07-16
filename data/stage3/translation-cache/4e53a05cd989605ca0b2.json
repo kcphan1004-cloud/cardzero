@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:16:15.947Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e53a05cd989605ca0b2",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-010"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ラトラ",
+    "effect": "このキャラは、相手のトリガーの効果で選ばれない。\n[自分のターン中]\n自分のフロントLに他の［特徴：UNDER］が3枚以上あり、その中に〈リップ〉がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉特拉",
+    "effectZh": "该角色不会被对手的 Trigger 效果选中。\n[自己的回合中]\n自己前线 L 有其他［特征：UNDER］达到 3 枚以上，且其中包含〈利普〉时，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:59:12.332Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ef938fdabdcb95df3f88",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-012"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "後藤 清臣",
+    "effect": "[登場時]\n自分の場に〈水篠 旬〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "后藤清臣",
+    "effectZh": "[登场时]\n若自己有〈水筱 旬〉，则抽一张牌。",
+    "triggerZh": ""
+  }
+}

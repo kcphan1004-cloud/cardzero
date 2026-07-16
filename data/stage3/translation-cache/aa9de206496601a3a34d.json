@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:29.107Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aa9de206496601a3a34d",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-038"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "精神侵入",
+    "effect": "カードを2枚引く。相手は自身の手札を全て公開する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "精神入侵",
+    "effectZh": "抽2张牌。对手公开自己手札中的所有卡。",
+    "triggerZh": "[抽取]\n抽1张牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:12:07.400Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4ccee3eb079fbfcb4bd8",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-013"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "小此木 このみ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小此木 知美",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多1张，给予“该角色的BP为4000以上的角色无法阻挡。”的效果直到本回合结束。",
+    "triggerZh": ""
+  }
+}

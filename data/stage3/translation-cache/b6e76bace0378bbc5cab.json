@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:36:15.900Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b6e76bace0378bbc5cab",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-085"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "黒磐 巌",
+    "effect": "自分の場に［特徴：CCG］が4枚以上ある場合、このキャラは\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）と\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑磐 岩",
+    "effectZh": "若己方场上有［特征：CCG］4张以上，此角色获得\n[2回阻挡]\n（本回合首次阻挡时激活）与\n[无效冲击] \n（与本角色战斗的角色在本战斗中失去冲击）。",
+    "triggerZh": "[抽牌]\n抽取1张卡牌。"
+  }
+}

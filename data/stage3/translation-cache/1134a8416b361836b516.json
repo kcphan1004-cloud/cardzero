@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:30.964Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1134a8416b361836b516",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-069"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛奇玛",
+    "effectZh": "当该角色处于激活状态时，将该角色的发生能量+[红]。",
+    "triggerZh": ""
+  }
+}

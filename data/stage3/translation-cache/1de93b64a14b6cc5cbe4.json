@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:12:53.784Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1de93b64a14b6cc5cbe4",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-104"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "戦慄のタツマキ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nBP5000以下の自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战栗的八木崎",
+    "effectZh": "[启动主]\\n[存在前线L时]\\n[第 1 回合]\\n将自己前线 L 中 BP≤5000 的激活角色最多 1 张变为横置状态。此时，可选择对手场上 1 张卡并使其变为横置状态",
+    "triggerZh": "[抽牌]\n抽取 1 张卡片"
+  }
+}

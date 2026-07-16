@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:30:27.659Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9d8f4e9a3256d4913fb4",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-078"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラとの絆",
+    "effect": "自分の場のキャラを1枚選び、アクティブにする。選んだキャラが〈ガメラ〉の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "与加美拉的羁绊",
+    "effectZh": "选择自己场上的 1 张角色并将其激活。若选中的角色为〈加美拉〉，则最多可选择自己的 AP 卡中 1 枚并使其激活。",
+    "triggerZh": "【激活】\n选择自己场上的 1 张角色并将其激活，本回合中 BP+3000。"
+  }
+}

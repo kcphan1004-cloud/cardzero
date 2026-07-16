@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:23:51.722Z",
+  "model": "qwen3.5:9b",
+  "unitId": "47f1cfcc5906e17edb49",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-044"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "アンディ",
+    "effect": "[退場時]\n〈アンディ〉以外の自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが2以下の赤の〈アンディ〉を1枚まで自分の場にアクティブで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "安迪",
+    "effectZh": "[离场时]\n可以将除〈安迪〉以外的自己手牌中的 1 张置入场外。如此做的话，可以从自己的场外将必要能量为 2 以下的红色〈安迪〉最多 1 张以激活状态登场到自己的场上。",
+    "triggerZh": ""
+  }
+}

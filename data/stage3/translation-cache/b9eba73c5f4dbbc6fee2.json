@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:53:37.763Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b9eba73c5f4dbbc6fee2",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-032",
+    "UA29BT/KMR-1-032",
+    "UA29BT/KMR-1-066",
+    "UA29BT/KMR-1-097",
+    "EX12BT/KMR-2-016",
+    "EX12BT/KMR-2-027",
+    "EX12BT/KMR-2-043",
+    "EX12BT/KMR-2-062",
+    "EX12BT/KMR-2-078",
+    "EX12BT/KMR-2-081",
+    "EX12BT/KMR-2-098"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "変身",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "变身",
+    "effectZh": "选择最多2张自己的AP角色并激活它们。",
+    "triggerZh": "[Final]\n若自己没有生命值，则从自己山札上方取1张置于自己的生命区域。"
+  }
+}

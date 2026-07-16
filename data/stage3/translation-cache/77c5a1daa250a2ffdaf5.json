@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:03.913Z",
+  "model": "qwen3.5:9b",
+  "unitId": "77c5a1daa250a2ffdaf5",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-054"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "[冲击无效]\n（与该角色进行战斗的角色在本场战斗中失去\n[冲击]）、",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

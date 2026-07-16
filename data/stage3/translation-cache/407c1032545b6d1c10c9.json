@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:03.076Z",
+  "model": "qwen3.5:4b",
+  "unitId": "407c1032545b6d1c10c9",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-045"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アーノルド・レンク",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿诺尔德·伦克",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，将其激活，本回合中 BP+3000。"
+  }
+}

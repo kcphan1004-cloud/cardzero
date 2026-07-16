@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:25.979Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e3992f1de32a09663074",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-096"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "君が勝手に一人で助かるだけさ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "君が勝手に一人で助かるだけさ",
+    "effectZh": "选择己方 AP 卡最多两张，将其激活。",
+    "triggerZh": "[最终]\n若己方生命值为空，则从己方牌库上方抽一张至己方生命区"
+  }
+}

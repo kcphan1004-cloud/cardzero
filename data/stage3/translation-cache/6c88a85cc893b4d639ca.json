@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:24.000Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6c88a85cc893b4d639ca",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-023"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "坂本 太郎",
+    "effectZh": "[横置]\n（可以从前线线将角色移动到能量线）",
+    "triggerZh": "[激活]\n选择自己场上的1张角色，将其激活，并在此回合中 BP+3000"
+  }
+}

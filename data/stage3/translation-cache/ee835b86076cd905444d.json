@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:06.966Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ee835b86076cd905444d",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-049"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "坂本 太郎",
+    "effectZh": "[登场时]\n从自己的牌库上方看三张卡牌。从中最多将一张放到场外，其余按任意顺序放回牌库上方。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，设为激活状态，在本回合 BP+3000。"
+  }
+}

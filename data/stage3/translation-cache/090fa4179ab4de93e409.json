@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:19:20.479Z",
+  "model": "qwen3.5:9b",
+  "unitId": "090fa4179ab4de93e409",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-019"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "ノノア",
+    "effect": "[登場時]\nBP3500以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺诺亚",
+    "effectZh": "[登场时]\n选择对方前线 L 的 BP3500 以下的角色至多 1 张，使其进入横置状态。",
+    "triggerZh": ""
+  }
+}

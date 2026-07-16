@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:47:54.869Z",
+  "model": "qwen3.5:9b",
+  "unitId": "55035aedf143e4a0000c",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-043"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "テリークロス",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泰利·克罗斯",
+    "effectZh": "【无效化冲击】\n（与该角色进行战斗的角色在本场战斗中，失去\n【冲击】）",
+    "triggerZh": ""
+  }
+}

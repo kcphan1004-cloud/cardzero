@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:30.970Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a73f020ba9ef1bd595b9",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-073"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "早川家",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、〈早川 アキ〉か〈デンジ〉か〈パワー〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "早川家",
+    "effectZh": "[登场时]\n从自己的卡组上方翻开四张，公开并抽入其中一张〈早川 秋〉或〈丹尼〉或〈力量〉。剩余部分按任意顺序置于卡组下方。",
+    "triggerZh": "[抽牌]\n将此卡加入手中"
+  }
+}

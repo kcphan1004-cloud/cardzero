@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:18.082Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f460020db1da27dd8ed9",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-031"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "マックス・ラジアル",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "马克斯·拉吉阿尔",
+    "effectZh": "",
+    "triggerZh": "【激活】\n选择自己场上的1张卡并使其处于激活状态，在本回合中BP+3000。"
+  }
+}

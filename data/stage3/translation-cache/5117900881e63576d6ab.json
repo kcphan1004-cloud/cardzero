@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:25.204Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5117900881e63576d6ab",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-057",
+    "UA10BT/MHA-1-057"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "緑谷 出久",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "绿谷出久",
+    "effectZh": "",
+    "triggerZh": "[激活] 将此卡加入手牌。"
+  }
+}

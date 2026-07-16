@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:00.719Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fbf3d6bf0edd68e526f0",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-029"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "レゼ",
+    "effect": "このキャラのアタックがブロックされなかった時、このターン中に自分の場の〈デンジ〉が退場している場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "电次（攻击未阻挡）",
+    "effectZh": "当此角色的攻击未被阻挡时，若本回合中己方场上的「电次」已离场，则抽 1 张卡。",
+    "triggerZh": "【抽卡】\n抽取 1 张卡牌。"
+  }
+}

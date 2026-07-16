@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:10:13.016Z",
+  "model": "qwen3.5:9b",
+  "unitId": "943f9a11f55b670898e5",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-048"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ハラン",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の\n[トリガー]\nを持たない紫のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "哈兰",
+    "effectZh": "[登场时]\n从手札中选择必要能量为 2 以下、消耗 AP 为 1\n[触发]\n没有的紫色角色卡，最多将 1 张以横置状态召唤至自己的场。",
+    "triggerZh": ""
+  }
+}

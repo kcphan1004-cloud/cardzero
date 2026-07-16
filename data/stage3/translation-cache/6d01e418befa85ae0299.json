@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:25:39.299Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6d01e418befa85ae0299",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-067"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "保科 宗四郎",
+    "effect": "[登場時]\n自分の場の〈保科 宗四郎〉を1枚まで選び、別のラインに移動させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "保科 宗四郎",
+    "effectZh": "[登场时]\n选择自己场上的〈保科 宗四郎〉中的最多 1 张，移动至其他线。\n\n注：原文中“別のラインに移動させる”直译为“移动到另一条线”，在 UNION ARENA TCG 语境下通常指换线。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡片中的 1 张，将其激活，该回合内 BP+3000。"
+  }
+}

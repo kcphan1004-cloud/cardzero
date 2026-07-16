@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:48:59.860Z",
+  "model": "qwen3.5:9b",
+  "unitId": "056f516585d21b184c4f",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-003"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "裏浦島",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "裏浦岛",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，激活，本回合中 BP+3000"
+  }
+}

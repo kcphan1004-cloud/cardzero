@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:53.785Z",
+  "model": "qwen3.5:4b",
+  "unitId": "70bf0625075f953181f0",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-081"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "もう生微温いのはナシだ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "活着的温存已无意义了",
+    "effectZh": "选择己方最多2张AP卡并激活之。",
+    "triggerZh": "[最终]\n若己方生命区为0，从己方山牌区上方翻开1张置于其生命区域中。"
+  }
+}

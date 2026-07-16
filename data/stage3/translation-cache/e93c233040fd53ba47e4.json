@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:36:15.903Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e93c233040fd53ba47e4",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-088"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "鈴屋 什造",
+    "effect": "[自分のターン中]\n自分の場に［特徴：CCG］が4枚以上ある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铃屋什造",
+    "effectZh": "[自己的回合中]\n如果场上有 4 张或以上的［特征：CCG］，该角色的 BP+500。",
+    "triggerZh": ""
+  }
+}

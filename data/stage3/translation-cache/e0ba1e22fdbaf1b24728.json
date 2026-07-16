@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:36:38.530Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e0ba1e22fdbaf1b24728",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KMY-3-031"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "甘露寺 蜜璃",
+    "effect": "[退場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "甘露寺 蜜璃",
+    "effectZh": "[离场时]\n选择己方场地的一张角色，本回合中BP+1000。",
+    "triggerZh": "[激活]\n选择己方场地的一张角色并激活之，本回合中BP+3000。"
+  }
+}

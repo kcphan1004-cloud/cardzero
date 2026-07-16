@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:24:43.091Z",
+  "model": "qwen3.5:9b",
+  "unitId": "70ae8b9365eea53bb013",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-061"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "日比野 カフカ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日比野 加芙卡",
+    "effectZh": "[登场时]\n抽1张牌，将手牌的1张置入场外。",
+    "triggerZh": ""
+  }
+}

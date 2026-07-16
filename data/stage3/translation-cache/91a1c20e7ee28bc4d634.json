@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:08.469Z",
+  "model": "qwen3.5:4b",
+  "unitId": "91a1c20e7ee28bc4d634",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-047"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "マリア・ロス",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛丽亚·罗斯",
+    "effectZh": "[登场时] 将必要能量为 1 或以下的自己场上其他角色一张送回手牌。若无法送回，则将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

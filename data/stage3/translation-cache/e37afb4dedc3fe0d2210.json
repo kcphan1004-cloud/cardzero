@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:03:28.296Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e37afb4dedc3fe0d2210",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-040"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 月火",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿良々木 月火",
+    "effectZh": "[激活主侧]\n[横置状态]\n[回合数：1] \n本角色在本回合中，发生能量+\n[紫]\n以及「主侧结束阶段时，使本角色离场。」。",
+    "triggerZh": ""
+  }
+}

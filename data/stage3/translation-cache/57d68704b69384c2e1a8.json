@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:47.460Z",
+  "model": "qwen3.5:9b",
+  "unitId": "57d68704b69384c2e1a8",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-079"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "私たちは本気だ",
+    "effect": "自分の場にある［特徴：天使空挺隊］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "我们是认真的",
+    "effectZh": "选择对方前线 L 的、［特征：天使空挺队］数量×1000 以下的 BP 的角色 1 张并退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色 1 张并退场。"
+  }
+}

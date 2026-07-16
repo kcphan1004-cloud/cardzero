@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:27.994Z",
+  "model": "qwen3.5:4b",
+  "unitId": "39d1f92d50f699158daa",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-059"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ナラ・ヴォーン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "娜拉·沃恩",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

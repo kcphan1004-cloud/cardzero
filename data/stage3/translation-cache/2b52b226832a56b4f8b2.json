@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:40.297Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2b52b226832a56b4f8b2",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-045"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "古手川 唯",
+    "effect": "自分の場に他のカードが5枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "古手川 唯",
+    "effectZh": "若己方场上其他卡牌数量达到或超过5张，则该角色BP+1000。",
+    "triggerZh": "[抽牌]\n抽一张牌"
+  }
+}

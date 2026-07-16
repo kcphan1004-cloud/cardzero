@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:29.160Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5daef25dc05dc78a2725",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-076"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "マクシミリアン・ジーナス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "马克西米利安·吉纳斯",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

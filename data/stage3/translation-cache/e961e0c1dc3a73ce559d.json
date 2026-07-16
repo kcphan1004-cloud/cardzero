@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:19:29.308Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e961e0c1dc3a73ce559d",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-019"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジグラ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[手札を1枚場外に置く]\n[ターン1]\nBP1500以上の相手の場のキャラを1枚選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "吉格拉",
+    "effectZh": "【启动主效果】\n【位于前线 L 时】\n【将手牌中的 1 张卡置入场外】\n【回合 1】\n选择对手前线的 BP1500 以上的最多 1 张角色卡，使其在本回合中 BP-1000。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

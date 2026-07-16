@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:40.632Z",
+  "model": "qwen3.5:4b",
+  "unitId": "acd4e323fbe93a1bd9cf",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-018"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ルン・エルシ・ジュエリア",
+    "effect": "[アタック時]\n自分のフロントLに〈霧崎 恭子〉がある場合、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "露娜·艾尔·席妮拉",
+    "effectZh": "[攻击时]\n若己方Front L存在〈雾崎 恭子〉，则抽1张牌。",
+    "triggerZh": "[获得]\n将此卡加入手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:01:50.018Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a37ec5ba74f5cf4a6e83",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-041"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ロキ",
+    "effect": "※このカードはデッキに12枚まで入れられる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "罗基",
+    "effectZh": "※本卡的收录上限为12张。",
+    "triggerZh": "[抽牌]\n从牌库上方抽1张。"
+  }
+}

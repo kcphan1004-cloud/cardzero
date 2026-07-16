@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:42:25.305Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ffcc85f830dce3cf9705",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-047"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジーク・イェーガー",
+    "effect": "[自分のターン中]\n自分の場に［特徴：無垢の巨人］が3枚以上ある場合、このキャラはBP+1500。\n[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の［特徴：無垢の巨人］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉克·耶格尔",
+    "effectZh": "[自己的回合中]\n自己场上有 3 枚以上［特征：无垢的巨人］时，这个角色的 BP+1500。\n[登场时]\n从自己手牌中选择必要能量为 2 以下且消耗 AP 为 1 的［特征：无垢的巨人］最多 1 张横置状态登场。",
+    "triggerZh": ""
+  }
+}

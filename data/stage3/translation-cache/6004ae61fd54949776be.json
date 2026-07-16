@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:18.182Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6004ae61fd54949776be",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-013"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "パワー",
+    "effect": "[アタック時]\n自分の場に〈デンジ〉がある場合、このキャラはこのターン中、BP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "链锯人：力量",
+    "effectZh": "【攻击时】\n若己方场地上存在〈电次〉，本角色在本回合中 BP+500。",
+    "triggerZh": "【抽牌】\n从牌库上方抽取 1 张牌。”}]}"
+  }
+}

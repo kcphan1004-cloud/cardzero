@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:06:15.466Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83dfbbdbdc39f3a31d9f",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-053"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "騏驎",
+    "effect": "このカードは全ての場所でイベントカードとしても扱う。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "骐驎",
+    "effectZh": "此卡在所有场地均作为事件卡处理。\n【登场时】\n抽 1 张牌，并将自身手牌中的 1 张置于场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

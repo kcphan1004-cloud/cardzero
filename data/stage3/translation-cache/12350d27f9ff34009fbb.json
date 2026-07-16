@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:06:15.467Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12350d27f9ff34009fbb",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-054"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "騏驎",
+    "effect": "このカードは全ての場所でイベントカードとしても扱う。\n[登場時]\n自分の場にレイド状態の〈墓守のウェザエモン〉がある場合、このキャラをアクティブにする。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "骐驎",
+    "effectZh": "此卡在所有场地均作为事件卡处理。\n【登场时】\n若自身场上有横置状态的〈墓守·韦瑟埃蒙〉，则激活此角色。",
+    "triggerZh": "[颜色]\n选择对手前线 L 中必要能量为 BP2500 以下的角色各 1 张并使其退场。"
+  }
+}

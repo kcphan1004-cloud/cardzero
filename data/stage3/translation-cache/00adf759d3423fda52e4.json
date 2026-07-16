@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:20.022Z",
+  "model": "qwen3.5:4b",
+  "unitId": "00adf759d3423fda52e4",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-053"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "諸菱 賢太",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[登場時]\n自分の場に〈水篠 旬〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "诸菱贤太",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本场战斗中失去冲击）\n[登场时]\n若自己的场上有「水筱旬」，则抽1张牌。",
+    "triggerZh": "[抽取]\n抽1张牌"
+  }
+}

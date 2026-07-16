@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:46:44.805Z",
+  "model": "qwen3.5:9b",
+  "unitId": "22f4ff638be61162cb92",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-077"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "鹿目 まどか",
+    "effect": "このカード以外の自分の場の［特徴：魔法少女］のカード名が3種類以上ある場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "鹿目圆",
+    "effectZh": "自己场上的除这张卡以外的［特征：魔法少女］的卡牌名称有 3 种以上时，该角色的发生能量 +[红]。",
+    "triggerZh": "[颜色]\n选择 BP2500 以下的对方前线 L 的角色 1 枚并使其退场。"
+  }
+}

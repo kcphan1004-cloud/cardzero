@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:05.003Z",
+  "model": "qwen3.5:9b",
+  "unitId": "55ea661fa57378364ce6",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-034"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "デコ",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "装饰",
+    "effectZh": "若对方场上有黄或红色的卡，手札中此卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

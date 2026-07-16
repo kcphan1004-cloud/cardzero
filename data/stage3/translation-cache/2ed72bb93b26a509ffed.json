@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:04.495Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2ed72bb93b26a509ffed",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-034"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "喫茶ポトス",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から［特徴：ボウフウリン］か〈橘 ことは〉を1枚まで公開し手札に加える。残りを山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "喫茶ポトス",
+    "effectZh": "[登场时] 从自己的牌库上方翻开两张，从中公开一张［特征：风之精灵］或〈橘 是花〉加入手札。将剩余的一张按任意顺序放回自己牌库的上方和下方各指定张数。",
+    "triggerZh": "[抽卡]\n抽取1张卡牌"
+  }
+}

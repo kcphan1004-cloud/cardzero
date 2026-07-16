@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:39.976Z",
+  "model": "qwen3.5:4b",
+  "unitId": "873d46c5f0d8ad770fff",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-026"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "[登場時]\nこのターン中に自分がイベントカードを使用している場合、カードを1枚引く。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "艾蜜莉亚",
+    "effectZh": "[登场时]\n如果本回合自己使用了事件卡，则抽 1 张牌。\n\n[横置状态]\n选择对手的前线 L 的角色卡 1 张并使其处于横置状态。该角色下一次无法激活。",
+    "triggerZh": "[颜色]"
+  }
+}

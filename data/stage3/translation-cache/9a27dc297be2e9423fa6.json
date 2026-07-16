@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:43:29.449Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9a27dc297be2e9423fa6",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-056"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ベルトルト・フーバー",
+    "effect": "このキャラはフロントLにある場合もエナジーを発生させる。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "贝尔托特·胡佛",
+    "effectZh": "此角色即使位于前线 L 也会产生能量。",
+    "triggerZh": "[颜色]\n从自己的手牌中选择最多 1 张必要能量为 2 以下且消耗 AP 为 1 的绿色角色卡以激活状态登场到自己的场上。"
+  }
+}

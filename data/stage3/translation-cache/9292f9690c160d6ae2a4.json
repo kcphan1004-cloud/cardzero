@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:35:18.828Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9292f9690c160d6ae2a4",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-058"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "天童 覚",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天童觉",
+    "effectZh": "当此角色处于激活状态时，此角色的产生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

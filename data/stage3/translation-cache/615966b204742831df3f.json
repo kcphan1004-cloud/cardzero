@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:59:31.755Z",
+  "model": "qwen3.5:9b",
+  "unitId": "615966b204742831df3f",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-013"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "タルラ",
+    "effect": "[起動メイン]\n[ターン1]\n自分のエナジーLのキャラを1枚選び、アクティブにするかレストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "塔拉",
+    "effectZh": "[启动主]\n[第 1 回合]\n选择自己能量线上的任意数量的角色，将其激活或横置。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

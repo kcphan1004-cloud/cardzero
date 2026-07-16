@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:49.368Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4948048b6764ff3ff34b",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-041"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "アイシャ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾莎",
+    "effectZh": "启动主,横置状态",
+    "triggerZh": "[抽] 抽取一张卡"
+  }
+}

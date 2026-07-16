@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:43.350Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4a73f69eccb92a91708c",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-107"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "志村 新八",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。\n[起動メイン]\n[APを1支払う]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "志村 新八",
+    "effectZh": "[启动主]\n支付 AP1\n[Turn 1]抽一张牌。\n[启动主]\n支付 AP1\n[Turn 1]选择己方场上其他角色一张，本回合中 BP+1000。",
+    "triggerZh": "[DRAW]抽一张牌。"
+  }
+}

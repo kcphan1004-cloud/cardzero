@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:30.926Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cefed816851c66caaa7b",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-018"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "玛奇马",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取1张卡。"
+  }
+}

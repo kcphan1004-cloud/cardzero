@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:17:37.887Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f1f936e9e0a1a00df29f",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-005"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "評議会",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "评议会",
+    "effectZh": "[登场时]\n将自己场上的其他 1 张必要能量在 1 以下的角色返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

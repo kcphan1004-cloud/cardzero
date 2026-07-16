@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:45:29.281Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd4d8096f564d1a9a831",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TKG-1-039"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "金木 研",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブの場合のみ発動できる。自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金木研",
+    "effectZh": "[启动主]\n[前场 L 存在时]\n[回合 1]\n仅当此角色处于激活状态时可发动。从自己的牌库上方看 1 张，将其置于牌库上方或场外。",
+    "triggerZh": ""
+  }
+}

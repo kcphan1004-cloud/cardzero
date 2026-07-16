@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:47:26.055Z",
+  "model": "qwen3.5:4b",
+  "unitId": "62e380e784403296b126",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-AP01",
+    "UA48BT/KGD-1-AP01",
+    "UA48BT/KGD-1-AP02",
+    "UA48BT/KGD-1-AP03",
+    "UA48BT/KGD-1-AP04",
+    "UA48BT/KGD-1-AP05",
+    "UA48BT/KGD-1-AP06"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "アクションポイントカード(キングダム)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡片 (王国)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

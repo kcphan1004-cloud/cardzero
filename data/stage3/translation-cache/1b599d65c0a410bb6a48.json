@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:17.879Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1b599d65c0a410bb6a48",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-022",
+    "UA40BT/REZ-1-022"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "艾蜜莉亚",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将本卡片加入手牌。"
+  }
+}

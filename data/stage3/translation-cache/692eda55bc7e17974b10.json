@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:33.042Z",
+  "model": "qwen3.5:4b",
+  "unitId": "692eda55bc7e17974b10",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/FMA-P-001"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+    "effect": "このカードの色と必要エナジーは、全ての色として扱う。\n自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "钢之炼金术师 FULLMETAL ALCHEMIST",
+    "effectZh": "本卡的颜色与所需能量视为所有颜色。\n选择并激活最多 2 张自己的 AP 卡片。",
+    "triggerZh": "[最终]\n若你的生命值为零，从牌库上方抽取一张置于你的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:03:19.156Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5c00644fadcf894e0fa6",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-062"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "瑠架",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "琉架",
+    "effectZh": "对方场上有紫色或红色的卡时，将手牌中此卡的必要能量 [绿×1] 减少。",
+    "triggerZh": ""
+  }
+}

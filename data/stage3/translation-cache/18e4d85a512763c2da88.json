@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:03:30.708Z",
+  "model": "qwen3.5:9b",
+  "unitId": "18e4d85a512763c2da88",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-055"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "根緒 亜紗里",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "根绪 亚纱里",
+    "effectZh": "【启动主阶段】\n【横置状态】\n【回合1】\n本角色在本回合中，获得“发生能量+”和「主阶段结束时，使此角色退场。」。",
+    "triggerZh": ""
+  }
+}

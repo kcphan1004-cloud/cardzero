@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:01:50.350Z",
+  "model": "qwen3.5:9b",
+  "unitId": "38c483fe26078bb8dc68",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-005"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "小石川 惟子",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "小石川 惟子",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，\n失去【冲击】）",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

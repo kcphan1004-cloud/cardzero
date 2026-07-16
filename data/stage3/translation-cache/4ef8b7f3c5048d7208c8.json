@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:12.949Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4ef8b7f3c5048d7208c8",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-064"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "コートを制す",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "掌控球场",
+    "effectZh": "选择至多 2 张自己的 AP 卡，使其处于激活状态。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

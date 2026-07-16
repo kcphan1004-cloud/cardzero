@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:06:58.872Z",
+  "model": "qwen3.5:9b",
+  "unitId": "46d33fa91b04a2448068",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-034"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フロストノヴァ",
+    "effect": "[登場時]\nこのキャラはこのターン中、「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "霜星",
+    "effectZh": "【登场时】\n本角色在本回合中，获得「主阶段结束时，使本角色退场。」。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

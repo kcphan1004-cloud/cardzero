@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:58:36.986Z",
+  "model": "qwen3.5:9b",
+  "unitId": "caccb62dc418fa1c1095",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-103"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "マッチ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "马奇",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择我方场上的角色至多 1 张并使其激活，在本回合中给予其 BP+3000。"
+  }
+}

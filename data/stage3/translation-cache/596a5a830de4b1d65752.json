@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:24:58.248Z",
+  "model": "qwen3.5:4b",
+  "unitId": "596a5a830de4b1d65752",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-030"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "シン国からの旅人",
+    "effect": "自分の場にある［特徴：シン国］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "来自辛国的旅人",
+    "effectZh": "选择我方场上拥有［特征：辛国］的卡牌数量×1000以下BP的对手前线L角色一张，将其退场。",
+    "triggerZh": "[特殊] 选择对手前线L角色一张，使其退场。"
+  }
+}

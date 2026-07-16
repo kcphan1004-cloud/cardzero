@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:27.227Z",
+  "model": "qwen3.5:4b",
+  "unitId": "74a79ec77af5b7c535b4",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-027"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "アイアン",
+    "effect": "[自分のターン中]\n元々のBPが2500以下の自分の場のレストの［特徴：影の軍団］1枚につき、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铁人",
+    "effectZh": "[本家回合] 元 BP2500 以下的自己场上横置的［特征：影之军团］1 张每，该角色 BP+500。",
+    "triggerZh": ""
+  }
+}

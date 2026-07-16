@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:51:50.847Z",
+  "model": "qwen3.5:9b",
+  "unitId": "206e6b071e14f1d54121",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-068"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ジャイアントパラサイト",
+    "effect": "このキャラが退場する場合、代わりにリムーブエリアに置かれる。\n自分の場外とリムーブエリアに［特徴：寄生昆虫］が合計3枚以上ある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "巨型寄生虫",
+    "effectZh": "如果该角色退场，则代替其被放置到移除区。\n如果自己场外和移除区的［特征：寄生昆虫］合计有 3 枚以上时，该角色的 BP+500。",
+    "triggerZh": ""
+  }
+}

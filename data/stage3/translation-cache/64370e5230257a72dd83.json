@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:24:00.104Z",
+  "model": "qwen3.5:4b",
+  "unitId": "64370e5230257a72dd83",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-080"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "楽園計画",
+    "effect": "自分の山札の上から5枚見て、異なるカード名のキャラカードをそれぞれ1枚ずつ合計3枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "楽園計画",
+    "effectZh": "从自己的牌库上方看5张，将不同名称的角色卡各1张合计最多3张公开并加入手札。剩余的按任意顺序置于牌库下方。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

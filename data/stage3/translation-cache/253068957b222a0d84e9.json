@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:33:43.885Z",
+  "model": "qwen3.5:9b",
+  "unitId": "253068957b222a0d84e9",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-004"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エルド・ジン",
+    "effect": "[自分のターン中]\nこのターンのアタックフェイズ中に自分がAPを支払っている場合、このキャラはBP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾尔多·津",
+    "effectZh": "[自己的回合]\n在自己的攻击阶段中，如果自己支付了AP，则该角色BP+2000。",
+    "triggerZh": "[激活]\n选择自己场上的1张牌并使其处于激活状态，在本回合中，BP+3000。"
+  }
+}

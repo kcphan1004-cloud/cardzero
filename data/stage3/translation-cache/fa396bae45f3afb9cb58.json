@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:33:43.884Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fa396bae45f3afb9cb58",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-003"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ハンジ・ゾエ",
+    "effect": "[登場時]\n自分か相手の場のアクティブの〔［特徴：巨人継承者］か［特徴：無垢の巨人］〕を1枚選び、レストにしてもよい。そうした場合、この効果でキャラがレストになったプレイヤーはカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "汉吉·佐耶",
+    "effectZh": "[登场时]\n选择自己或对方场上的激活的〔［特征：巨人继承者］或［特征：无垢之巨人］〕中的 1 张，可以将其横置。如此做的情况下，由该效果使角色进入横置状态的玩家可以抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

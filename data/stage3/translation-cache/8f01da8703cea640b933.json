@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:06:50.265Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8f01da8703cea640b933",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-071"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 メメ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "忍野梦",
+    "effectZh": "[无效化冲击]（本角色与对手进行战斗时，该对手在本场战斗中失去 [冲击]）",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张卡。"
+  }
+}

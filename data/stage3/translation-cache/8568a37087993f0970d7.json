@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:43:30.429Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8568a37087993f0970d7",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-097"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "最強の囮",
+    "effect": "相手は自身のフロントLのキャラを望む枚数レストにする。その後、相手のフロントLのアクティブのキャラ1枚につき、自分はカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "最强诱饵",
+    "effectZh": "对方将自身前线上的角色横置至期望的数量。之后，针对对方前线上每 1 张激活的角色卡，自己抽 1 张牌。",
+    "triggerZh": "抽牌"
+  }
+}

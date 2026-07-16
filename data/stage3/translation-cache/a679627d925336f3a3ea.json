@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:39.925Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a679627d925336f3a3ea",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-072",
+    "UA44BT/EVA-1-072"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "碇 ゲンドウ＆冬月 コウゾウ",
+    "effect": "[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "碇源堂&冬月耕造",
+    "effectZh": "[启动主]\n[置横]\n抽一张牌，将你的手札中一张置于场外。",
+    "triggerZh": ""
+  }
+}

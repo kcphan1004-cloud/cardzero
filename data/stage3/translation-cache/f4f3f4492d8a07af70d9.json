@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:32:16.483Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f4f3f4492d8a07af70d9",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-074"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "エリー",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾莉",
+    "effectZh": "",
+    "triggerZh": "[登场时] 抽1张牌。"
+  }
+}

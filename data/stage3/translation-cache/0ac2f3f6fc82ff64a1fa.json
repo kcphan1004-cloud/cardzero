@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:00:09.114Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0ac2f3f6fc82ff64a1fa",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-026"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サイガ-100",
+    "effect": "[登場時]\nこのターン中に自分が元々の必要エナジーが6以上のイベントカードを使用している場合、このキャラをアクティブにしてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赛嘉 -100",
+    "effectZh": "[登场时]\n若本回合中使用过原本所需能量为 6 或以上的自身事件卡，则可将该角色激活。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:23.390Z",
+  "model": "qwen3.5:4b",
+  "unitId": "463489bb99a1e0d45fa9",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-078"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "守護術師フィッツ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈シルフィエット〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "守护术师菲茨",
+    "effectZh": "『BP3000以下』的对手的Front L中的角色最多1张退场。当场上存在〈丝菲埃特〉时，以『BP5000以下』代替。\n,",
+    "triggerZh": "[特殊]\n选择对手的Front L中的角色并退场。"
+  }
+}

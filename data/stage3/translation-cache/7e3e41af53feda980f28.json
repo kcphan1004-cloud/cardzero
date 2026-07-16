@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:03.020Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7e3e41af53feda980f28",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-024"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 月火",
+    "effect": "[アタック時]\nカードを1枚まで引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿良々木 月火",
+    "effectZh": "[攻击时]\n抽一张牌。",
+    "triggerZh": ""
+  }
+}

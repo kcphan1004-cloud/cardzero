@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:42.858Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7247239e2c99c2f76ed4",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-096",
+    "UA41BT/RNK-1-096"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "不殺の誓い",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "不杀の誓い",
+    "effectZh": "选择最多两张本方的AP卡，并激活它们。",
+    "triggerZh": "[最终]\n若我方生命值为0，则从牌库上方抽一张至我方生命区。"
+  }
+}

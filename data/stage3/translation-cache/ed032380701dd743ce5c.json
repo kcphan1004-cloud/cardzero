@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:43.452Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed032380701dd743ce5c",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-070"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ベータ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "贝塔",
+    "effectZh": "[发动主阶段]\n将横置。\n[回合数：1]\n选择己方前线 L 中的 1 张激活角色卡，将其变为横置。如此时，该角色于本次回合中获得发生能量+\n[紫]。",
+    "triggerZh": ""
+  }
+}

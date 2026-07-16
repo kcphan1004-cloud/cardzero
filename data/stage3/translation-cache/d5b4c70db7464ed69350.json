@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:51.645Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d5b4c70db7464ed69350",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/TLR-1-073"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ララ・サタリン・デビルーク",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[相手のターン中]\nこのキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉拉·萨塔林·德比鲁克",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线 L 移动到能量 L）\n[对手回合中]\n该角色 BP+500。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张卡牌。"
+  }
+}

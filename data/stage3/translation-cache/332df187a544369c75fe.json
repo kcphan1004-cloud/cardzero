@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:37:50.826Z",
+  "model": "qwen3.5:4b",
+  "unitId": "332df187a544369c75fe",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-103"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "霧嶋 董香",
+    "effect": "[自分のターン中]\nこのキャラはBP+500。\n[登場時]\n必要エナジーが4以下の自分のフロントLのアクティブの〈金木 研〉を1枚レストにしてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雾嶋 董香",
+    "effectZh": "[在自己的回合中],该角色BP+500。\n[登场时],将必要能量为4以下的自己Front L的激活状态的<金木 研>至多1张横置。如此操作后，使该角色进入激活状态。,",
+    "triggerZh": ""
+  }
+}

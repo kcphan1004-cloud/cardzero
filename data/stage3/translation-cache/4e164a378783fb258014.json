@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:59.816Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e164a378783fb258014",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-034"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "不死",
+    "effect": "自分の場外からキャラカードを1枚まで手札に加える。自分の場に〈アンディ〉か〈ヴィクトル〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "不死",
+    "effectZh": "从自己场外将拥有特征“UNDER”的角色卡最多加入至手牌。若自己的场上有〈安迪〉或〈维克多〉，则抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

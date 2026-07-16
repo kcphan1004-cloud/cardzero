@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:22.659Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2c3498661d375aefc1f4",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-054"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "超合金クロビカリ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "超合金小栗卡利",
+    "effectZh": "[冲击无效]\n（与本角色战斗的角色在本战斗中失去［冲击］）",
+    "triggerZh": "[激活]选择自己场上的 1 个角色并使其进入激活状态，在本回合 BP+3000"
+  }
+}

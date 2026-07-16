@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:17.127Z",
+  "model": "qwen3.5:4b",
+  "unitId": "85320d4ad0de249efe81",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-057"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "イータ",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊塔牌组，选择至多 1 张",
+    "effectZh": "[登场时]\n从自己的卡组上方看 1 张，将其置于自己卡组的上方或场外。\n\n[启动主阶段]\n将横置状态改为激活状态。",
+    "triggerZh": ""
+  }
+}

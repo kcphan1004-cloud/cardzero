@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:32:39.322Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d4d9b803f18ecd8343da",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-043"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "矢巾 秀",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "矢巾秀",
+    "effectZh": "【登场时】\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:21:29.765Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fefc73dfaf8986391d60",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-099"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "突撃ラブハート",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、相手の山札の上か下の『相手が選んだ方』に置く。自分の場にカード名に「バサラ」を含むキャラがある場合、『自分が選んだ方』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "突撃ラブハート",
+    "effectZh": "BP5000 以下的对手的 Front L 的卡选一张，放在对手牌库的上或下『被对方选择的一方』。己方场有卡片名包含「巴萨拉」的角色时，改为『自己被选择的一方』。",
+    "triggerZh": "[特殊]\n对手的 Front L 的卡选一张，让其离场"
+  }
+}

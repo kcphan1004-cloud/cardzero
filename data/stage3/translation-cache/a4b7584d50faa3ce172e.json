@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:56:23.119Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a4b7584d50faa3ce172e",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-053"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "沢下条 張",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "沢下条 张",
+    "effectZh": "[登场时]从牌库上方抽一张卡，将手札中一张卡置于场外。",
+    "triggerZh": "[触发]\n从牌库上方抽一张卡。"
+  }
+}

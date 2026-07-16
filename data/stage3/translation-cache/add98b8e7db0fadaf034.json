@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:51:06.636Z",
+  "model": "qwen3.5:4b",
+  "unitId": "add98b8e7db0fadaf034",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-108"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ロズワール邸",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分の山札の上から1枚見る。そのカードを山札の上か下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "罗兹瓦尔宅邸",
+    "effectZh": "[启动主]\n[变为横置状态]\n[回合 1]\n从自己场上方取 1 张，置于场上或下方。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

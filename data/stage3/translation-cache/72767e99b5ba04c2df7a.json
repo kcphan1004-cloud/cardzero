@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:32:06.468Z",
+  "model": "qwen3.5:4b",
+  "unitId": "72767e99b5ba04c2df7a",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/JJK-1-040"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "虎杖 悠仁",
+    "effect": "[レイド]\n〈虎杖 悠仁〉アクティブにし、フロントLに移動できる\n[登場時]\nBP4000以下の相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "虎杖 悠仁",
+    "effectZh": "[雷队]激活〈虎杖 悠仁〉并移动至前线L，可选择对手BP4000以下的 frontal L中的一张角色将其送回手札。 [登场时]",
+    "triggerZh": "[雷队]将此卡加入手札或满足所需能量时可进行雷队"
+  }
+}

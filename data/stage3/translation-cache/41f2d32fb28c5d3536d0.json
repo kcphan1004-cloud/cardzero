@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:14.365Z",
+  "model": "qwen3.5:4b",
+  "unitId": "41f2d32fb28c5d3536d0",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-051"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "キャサリン・サバスラ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の山札の上から1枚を公開し、そのカードを自分の山札の上か下に置く。公開したカードの必要エナジーが4の場合、このキャラはこのターン中、「このキャラはBP3000以下のキャラにブロックされない。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯瑟琳·萨巴斯拉",
+    "effectZh": "[启动主阶段]\n[前线L存在时]\n[回合1]\n从自己的牌库上方公开一张卡，并将该卡置于自己牌库的上方或下方。若公开的卡的必要能量为4，本角色在本回合中获得「本角色不会被BP3000以下的角色阻挡」的效果。",
+    "triggerZh": ""
+  }
+}

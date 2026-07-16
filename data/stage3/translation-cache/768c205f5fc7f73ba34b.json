@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:58:36.984Z",
+  "model": "qwen3.5:9b",
+  "unitId": "768c205f5fc7f73ba34b",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-101"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ゾンゲ",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "僵尸肉",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

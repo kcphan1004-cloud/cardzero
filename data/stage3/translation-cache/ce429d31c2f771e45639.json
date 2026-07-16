@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:14:03.655Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce429d31c2f771e45639",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-002"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "天乃 リリサ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天乃莉莉莎",
+    "effectZh": "[登场时]\n抽 1 张牌，将手牌中任意 1 张置为横置状态。",
+    "triggerZh": ""
+  }
+}

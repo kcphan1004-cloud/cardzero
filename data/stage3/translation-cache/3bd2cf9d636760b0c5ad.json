@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:20:59.253Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3bd2cf9d636760b0c5ad",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-029",
+    "UA18BT/NIK-1-029",
+    "UA18BT/NIK-1-063",
+    "UA18BT/NIK-1-098"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "エンカウンター",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "遭遇者",
+    "effectZh": "选择至多 2 张自己的 AP 卡，激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从牌库上方放置 1 张到自己的生命区域。"
+  }
+}

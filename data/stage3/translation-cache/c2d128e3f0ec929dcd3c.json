@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:38:47.250Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c2d128e3f0ec929dcd3c",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-005"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "サンシャイン",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のエナジーLにあるカードが2枚以下の場合のみ発動できる。このキャラはこのターン中、BP+500と「このキャラはフロントLにある場合もエナジーを発生させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阳光",
+    "effectZh": "【启动主侧】【前侧L有卡时】【回合1】仅当己方能量L中的卡片为2张及以下时可发动。本角色在本回合中，BP+500并获得「即使在前侧L也有发生能量的效果」。",
+    "triggerZh": ""
+  }
+}

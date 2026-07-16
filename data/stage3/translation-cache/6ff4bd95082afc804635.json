@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:49:58.854Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6ff4bd95082afc804635",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TSK-2-031"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ヒナタ",
+    "effect": "[登場時]\n自分の場の〈ヒナタ〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "希娜塔",
+    "effectZh": "[登场时]\n将自己场上的〈希娜塔〉最多一张选中，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

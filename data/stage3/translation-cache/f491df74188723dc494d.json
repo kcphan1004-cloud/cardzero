@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:26.470Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f491df74188723dc494d",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-043"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "コベニ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "コベニ、抽牌效果：BP 5000 以下",
+    "effectZh": "",
+    "triggerZh": "[抽取]\n从卡组上方抽取一张卡"
+  }
+}

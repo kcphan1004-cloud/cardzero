@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:11:22.996Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b54b00afe4241f25de08",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-061"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ミェンロン",
+    "effect": "[自分のターン中]\n自分の場に必要エナジーが4以上の［特徴：ヒーロー］がある場合、このキャラはBP+1000。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "缅伦",
+    "effectZh": "[在本回合中]\n如果自己的场上存在必要能量为 4 以上的［特征：英雄］，这张角色 BP+1000。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 1 张 BP2500 以下的角色，使其退场。"
+  }
+}

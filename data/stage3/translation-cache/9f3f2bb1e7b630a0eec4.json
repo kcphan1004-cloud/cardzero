@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:13:52.012Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f3f2bb1e7b630a0eec4",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-070"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "エクシア",
+    "effect": "[登場時]\n元々のBPが2500の自分の場のキャラを1枚まで選び、このターン中、BP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "埃克西亚",
+    "effectZh": "【登场时】\n选择原本 BP 为 2500 的场上最多 1 名角色，该角色在本回合中 BP+1500。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

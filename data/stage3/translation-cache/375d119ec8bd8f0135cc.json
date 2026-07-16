@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:13.040Z",
+  "model": "qwen3.5:4b",
+  "unitId": "375d119ec8bd8f0135cc",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-112"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "志々雄 真実",
+    "effect": "[登場時]\n自分の手札を1枚自分の山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "志々雄 真实",
+    "effectZh": "[登场时]\n将自己的手牌1张置于自己牌库上方。",
+    "triggerZh": "[抽卡]\n抽取1张卡片。"
+  }
+}

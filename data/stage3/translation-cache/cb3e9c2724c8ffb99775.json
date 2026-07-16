@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:06.541Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cb3e9c2724c8ffb99775",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-058"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "パワー",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "力量",
+    "effectZh": "[离场时] 抽一张牌。",
+    "triggerZh": ""
+  }
+}

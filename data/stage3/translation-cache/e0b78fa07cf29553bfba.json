@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:00.699Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e0b78fa07cf29553bfba",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-108"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "神谷道場",
+    "effect": "[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "神谷道場",
+    "effectZh": "[啟動主線]\n將狀態改為橫置\n抽一張卡片，並將自己手牌上一張置於場外。",
+    "triggerZh": "[獲得]將其加入手牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:18.081Z",
+  "model": "qwen3.5:4b",
+  "unitId": "63265a6f75a82f9dbad5",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-030"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "マーリンマン",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马林曼",
+    "effectZh": "【启动主】\n【改为横置】\n【回合1】\n本角色在本回合中，发生能量+\n[紫]\n并获得「在主阶段结束时，使本角色离场。」。",
+    "triggerZh": ""
+  }
+}

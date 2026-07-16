@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:45:58.519Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6d19289409010c085aa3",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-073"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽々里",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "花園 羽々里",
+    "effectZh": "[衝擊（1）]\n對戰時，若攻擊並獲勝，對手玩家受到1點傷害。",
+    "triggerZh": "[激活]\n選擇自己場上一張角色卡進行激活，本回合BP+3000。"
+  }
+}

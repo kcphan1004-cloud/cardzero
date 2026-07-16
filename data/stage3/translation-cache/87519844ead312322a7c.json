@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:03.081Z",
+  "model": "qwen3.5:4b",
+  "unitId": "87519844ead312322a7c",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-050"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "キャサリン・サバスラ",
+    "effect": "[起動メイン]\n[ターン1]\n自分の手札を1枚自分の山札の上に置く。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "凯瑟琳·萨巴斯拉",
+    "effectZh": "[启动主阶段]\n[回合 1]\n将手札中的一张置于自己卡组上方。如此操作时，本角色在本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，将其激活，本回合中 BP+3000。"
+  }
+}

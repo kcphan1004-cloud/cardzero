@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:40:31.175Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9b7564d761d474675f0",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-044"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ユミル",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "尤弥尔",
+    "effectZh": "[无效冲击] \n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": "[激活]\n选择自身场上的角色中的 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:04:06.113Z",
+  "model": "qwen3.5:4b",
+  "unitId": "10eb94426c9d110a1cd3",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-052"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "戦場ヶ原 ひたぎ",
+    "effect": "このキャラがアタックしてブロックされた時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "战场原黑仪",
+    "effectZh": "当该角色攻击并被阻挡时，抽一张牌。",
+    "triggerZh": ""
+  }
+}

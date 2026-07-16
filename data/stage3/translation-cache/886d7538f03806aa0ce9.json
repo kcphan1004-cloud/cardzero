@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:39.978Z",
+  "model": "qwen3.5:4b",
+  "unitId": "886d7538f03806aa0ce9",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-030"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "鬼の姉妹",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "鬼之姐妹",
+    "effectZh": "选择自己的 AP 角色卡至多 2 张并使其处于激活状态。\n\n[最终]\n如果自己的生命值为零，则从自己的牌库上方将 1 张置于自己的生命区域。",
+    "triggerZh": "[最终]"
+  }
+}

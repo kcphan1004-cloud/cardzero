@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:15:08.726Z",
+  "model": "qwen3.5:4b",
+  "unitId": "edcf070ab69da6629efb",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-027"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "碇 シンジ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "碇 シンジ",
+    "effectZh": "[登场时]\n抽取 1 张卡，并将你的手札中 1 张置于场外区域。",
+    "triggerZh": "[抽牌] 抽取 1 张卡"
+  }
+}

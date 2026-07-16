@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:40.296Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e169f1affddeeec2a123",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-044"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "古手川 唯",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "古手川 唯",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择己方场上的一个角色进行激活，本回合中BP+3000"
+  }
+}

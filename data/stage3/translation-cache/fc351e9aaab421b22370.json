@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:37:40.546Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fc351e9aaab421b22370",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-031"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "強豪校との合宿",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする』。自分の場に「高校」を含む異なる特徴が3種類以上ある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "强豪校合宿",
+    "effectZh": "BP 5000 以下的对手前线 L 角色选一张，将其横置。己方场上存在「高中」等三种以上不同特征时，可替代【退场】效果。",
+    "triggerZh": "[特殊]\n选择对手的 frontline L 角色一名并使其离场"
+  }
+}

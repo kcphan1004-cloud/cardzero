@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:53:14.751Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a7416c477996d476868",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-087",
+    "UA23BT/AOT-1-087"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ミカサ・アッカーマン",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三笠·阿克曼",
+    "effectZh": "当此角色处于激活状态时，此角色的产生能量+\n[红]\n。",
+    "triggerZh": ""
+  }
+}

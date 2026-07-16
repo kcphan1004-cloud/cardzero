@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:47:54.867Z",
+  "model": "qwen3.5:9b",
+  "unitId": "475bddf15e7c6f33ab85",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-040"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "初代メルク",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "初代梅尔克",
+    "effectZh": "",
+    "triggerZh": "【抽牌】\n抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:45.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0e2476eccc21647f0ef4",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-015"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "[登场时]\n抽1张牌，将手牌的1张置入场外。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

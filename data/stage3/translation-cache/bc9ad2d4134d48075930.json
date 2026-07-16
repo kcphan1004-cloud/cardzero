@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:57:59.878Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bc9ad2d4134d48075930",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-064"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "日暮 かごめ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日暮 戈薇",
+    "effectZh": "若此卡处于激活状态，则将此卡的生成能量+\n[红]\n。",
+    "triggerZh": ""
+  }
+}

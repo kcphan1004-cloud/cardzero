@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:36.030Z",
+  "model": "qwen3.5:4b",
+  "unitId": "85700342b5c89393f5e0",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-017"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "シャオメイ",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から〈メイ・チャン〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "小梅、Sho Mei",
+    "effectZh": "[登场时]\n从自己牌库上方查看 3 张，从中公开「梅·赞」1 张并加入手札。其余按顺序置于自己牌库下方。若将卡加入手札，则将自己的手札中的 1 张置于场外。",
+    "triggerZh": "[抽牌]\n抽取 1 张牌。"
+  }
+}

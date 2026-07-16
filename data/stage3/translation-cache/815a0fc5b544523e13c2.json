@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:56.379Z",
+  "model": "qwen3.5:4b",
+  "unitId": "815a0fc5b544523e13c2",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-043"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "大佛",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "大佛",
+    "effectZh": "[登场时]\n将己方场上其他BP值在1以下的角色卡一张回至己方手牌。若无法将其送回，则将此角色卡回至己方手牌。",
+    "triggerZh": ""
+  }
+}

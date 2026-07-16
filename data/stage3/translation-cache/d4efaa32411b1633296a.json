@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:07.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d4efaa32411b1633296a",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-079"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "クラウディア",
+    "effect": "[登場時]\nこのキャラはこのターン中、「\n[自分のターン中]\n自分の効果で相手がカードを引く場合、代わりに自分が同じ枚数カードを引く。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克劳蒂雅",
+    "effectZh": "[登场时]\n该角色在本回合中获得「\n[在自己的回合中]\n当对方因自己的效果抽牌时，改为自己抽取相同数量的牌。」。",
+    "triggerZh": ""
+  }
+}

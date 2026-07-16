@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:56.408Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4873f3d334b9f310871b",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-085"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ゴウケツ",
+    "effect": "相手の場に黄か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "狂怒",
+    "effectZh": "当对手场地上有黄色或绿色卡片时，将手牌中本卡的必要能量减少[红×1]。",
+    "triggerZh": ""
+  }
+}

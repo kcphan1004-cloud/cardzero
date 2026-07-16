@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:58.123Z",
+  "model": "qwen3.5:4b",
+  "unitId": "48c4a70f71caa554d0bb",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-073"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "LABO",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n自分の場の［特徴：LABO］を1枚選び、このターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "LABO",
+    "effectZh": "[启动主阶段]\n[设为横置]\n将一张牌置于自己场外\n选择自己的场上［特征：LABO］的一张，本回合内给予「此角色不会被BP为4000以上的角色阻挡」的效果。",
+    "triggerZh": "[获取]将这张牌加入自己的手札。"
+  }
+}

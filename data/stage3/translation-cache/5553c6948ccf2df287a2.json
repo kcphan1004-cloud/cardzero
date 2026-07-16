@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:35:26.808Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5553c6948ccf2df287a2",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-013"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ユミル",
+    "effect": "[相手のターン中]\n自分の場に〈ヒストリア・レイス〉がある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "尤弥尔",
+    "effectZh": "[对方回合中] \n若己方场地上有〈希斯特莉亚·雷斯〉，此角色 BP+1000。",
+    "triggerZh": "[激活]\n选择己方场地上的 1 张卡并激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:35.104Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6a9023091bcb6d3f896b",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-015"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "聖獣",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "圣兽（UA54BT/MST-1-015）",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本战斗中失去冲击）",
+    "triggerZh": "[激活]\n选择己方场上的一张卡，将其激活，本回合 BP+3000。"
+  }
+}

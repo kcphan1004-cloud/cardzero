@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:14:44.677Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8e52a43ea6839a4d24f4",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-074"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "テキサス",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特锦赛",
+    "effectZh": "【步骤】\n（在自己的移动阶段可以从前线移动到能量线）",
+    "triggerZh": ""
+  }
+}

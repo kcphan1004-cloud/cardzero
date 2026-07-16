@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:05:43.706Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d4e258b2ae6ffb2a4918",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-028"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ペペシャ",
+    "effect": "このカードは〈スピリッツ〉としても扱う。\n[登場時]\n自分の場に他の［特徴：ヒーロー］がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佩佩夏",
+    "effectZh": "这张卡也作为〈精灵〉处理。\n[登场时]\n如果自己的场上有其他［特征：英雄］，抽 1 张牌并将自己手札中的 1 张置入场外。",
+    "triggerZh": ""
+  }
+}

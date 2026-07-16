@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:29.982Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dd6caf82c5ad692892d1",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/NGR-P-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "753♡",
+    "effect": "[登場時]\nカードを1枚引く。自分の場外からカード名に「753♡」を含む［特徴：コスプレ］を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "753♡",
+    "effectZh": "[登场时]\n抽一张牌。从手牌中最多选择 1 张，将名称包含「753♡」的［特征：Cosplay］卡加入手牌。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

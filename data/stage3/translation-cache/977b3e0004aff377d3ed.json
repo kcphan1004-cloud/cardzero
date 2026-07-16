@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:46.217Z",
+  "model": "qwen3.5:4b",
+  "unitId": "977b3e0004aff377d3ed",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-037"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "超能力",
+    "effect": "カードを2枚引く。相手は自身の手札を全て公開する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "超能力",
+    "effectZh": "抽两张卡。对手公开己方的手札。",
+    "triggerZh": "[抽取]\n抽一张卡"
+  }
+}

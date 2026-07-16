@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:19:50.918Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f66ed60d638062eb25e2",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-036"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "これが今の私",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "这就是现在的我",
+    "effectZh": "选择自己的 AP 卡片至多 2 张并使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命，将自己牌库上方的 1 张卡置于自己的生命区域。"
+  }
+}

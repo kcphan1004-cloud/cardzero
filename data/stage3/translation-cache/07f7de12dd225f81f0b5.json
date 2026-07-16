@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:10:22.170Z",
+  "model": "qwen3.5:9b",
+  "unitId": "07f7de12dd225f81f0b5",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-074"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "乾坤一擲!!",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈アーサー・ペンシルゴン〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "乾坤一掷!!",
+    "effectZh": "选择对方 Front L 的角色中「BP3000 以下」的卡片最多 1 张，使其退场。若自己场上有〈亚瑟·潘西尔贡〉，则条件变为「BP5000 以下」。",
+    "triggerZh": "[Special]\n选择对方的 Front L 角色中最多 1 张，使其退场。"
+  }
+}

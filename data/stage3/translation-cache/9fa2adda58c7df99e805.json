@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:55:49.928Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9fa2adda58c7df99e805",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-020"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "獣郎丸&影郎丸",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兽郎丸&影郎丸",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为1或以下的，将其一张回复至手牌。若无法回复该角色，则将该角色回复至手牌。",
+    "triggerZh": ""
+  }
+}

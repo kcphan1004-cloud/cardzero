@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:37:27.156Z",
+  "model": "qwen3.5:9b",
+  "unitId": "30a3453d1b0fe125abf4",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-042"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーオーズ ラトラーター コンボ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1500。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の手札の必要エナジーが同じカードを3枚場外に置く。そうした場合、このキャラをアクティブにし、このメインフェイズ終了時、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Ouz-Ratratat Combo",
+    "effectZh": "【自己的回合中】\n此角色为 BP+1500。\n【启动主阶段】\n[若位于前线L]\n[第1轮]\n将自己手牌中必要能量相同的3张卡置入场外。如此则激活此角色，且本主阶段结束时抽3张卡。",
+    "triggerZh": "【抽牌】\n抽1张卡。"
+  }
+}

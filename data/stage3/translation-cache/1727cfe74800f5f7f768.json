@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:03.912Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1727cfe74800f5f7f768",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-052"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラのBPが5000以上の場合のみ発動できる。このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "[启动主]\n[回合1]\n仅在该角色 BP 为 5000 以上时才能发动。激活该角色。",
+    "triggerZh": ""
+  }
+}

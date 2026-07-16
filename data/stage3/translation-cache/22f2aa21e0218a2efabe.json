@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:07.014Z",
+  "model": "qwen3.5:4b",
+  "unitId": "22f2aa21e0218a2efabe",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-045"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "杏西 雅紀",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[緑]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杏西 雅纪",
+    "effectZh": "[启动主侧][横置状态][回合1]本角色在本回合中，发生能量+\\n[绿色]并获得「主侧结束阶段，将此角色离场」。",
+    "triggerZh": ""
+  }
+}

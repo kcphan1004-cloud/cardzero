@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:37:32.321Z",
+  "model": "qwen3.5:9b",
+  "unitId": "19651c13cd4c9b41134c",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-010",
+    "UA16BT/SYN-1-010"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "エリー",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾莉",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从 Front L 移动到 Energy L）",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

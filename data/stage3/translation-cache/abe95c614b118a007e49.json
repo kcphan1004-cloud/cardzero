@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:24.948Z",
+  "model": "qwen3.5:4b",
+  "unitId": "abe95c614b118a007e49",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-106"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "ギロチンカッター",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "断头台切割者",
+    "effectZh": "[离场时]\n将一张牌从卡组上方翻开，将其置于自己的手中。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:40:05.627Z",
+  "model": "qwen3.5:4b",
+  "unitId": "010f451042a6c9086c00",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-024"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ミカサ・アッカーマン",
+    "effect": "自分の場外にあるイベントカードの枚数により、このキャラは以下の効果を全て得る。\n・2枚以上：このキャラの発生エナジー+\n[青]\n。\n・4枚以上：このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "米卡莎·阿克曼",
+    "effectZh": "根据你场外的事件卡片数量，该角色获得以下全部效果。\n・2 张以上：本角色的发生能量+\n[青]\n。\n・4 张以上：本角色 BP+1000。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

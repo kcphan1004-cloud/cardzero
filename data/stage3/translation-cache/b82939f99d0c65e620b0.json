@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:14:44.681Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b82939f99d0c65e620b0",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-077"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アーミヤ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿米娅",
+    "effectZh": "当此角色处于激活状态时，该角色的产生能量+\n【红色】\n。",
+    "triggerZh": ""
+  }
+}

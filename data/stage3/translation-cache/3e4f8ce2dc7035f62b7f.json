@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:58.725Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3e4f8ce2dc7035f62b7f",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-045"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "斑鳩 亮",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斑鸠 亮",
+    "effectZh": "[启动主]\n[横置时]\n[使这张卡退场]\n抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色中的 1 个，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

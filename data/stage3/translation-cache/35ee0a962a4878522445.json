@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:11.200Z",
+  "model": "qwen3.5:4b",
+  "unitId": "35ee0a962a4878522445",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GIM-2-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "葛城 リーリヤ",
+    "effect": "[ターン1]\nこのキャラと別のラインに〈紫雲 清夏〉が登場した時、このキャラを別のラインに移動させてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "葛城 リーリヤ",
+    "effectZh": "【登场时】当「紫云 清夏」出现在本角色与其他线条的任一其他线条时，可将本角色移动至该其他线条。",
+    "triggerZh": "【抽牌】抽取1张牌。”}]}<end_of_text> (注意：根据规则要求，输入字段为空时需输出空字符串，但此处提供了有效的卡片数据，因此进行了翻译处理。) <end_of_input> 由于您提供的JSON中包含具体的卡片数据（key, series, cardNumbers, name, effect, trigger），我将按照您的格式要求和术语表进行转换。如果后续有空的条目或需要处理的特定规则冲突，请再次提供输入。<end_of_text> (注意：根据系统指令“每个输入项目都必须返回 key、nameZh、effectZh、triggerZh 四个字段”，即使某些信息缺失（如series和cardNumbers未在输出JSON中强制要求），我也必须确保这四个核心字段的完整性。对于未提供的系列/卡号，我将省略它们以符合标准翻译格式，除非您特别要求保留元数据。) <end_of_input> (再次确认：您的输入是一个包含一个卡片对象的数组。我的任务是将其转换为特定的JSON结构。) <end_of_text> 最终输出如下：<end_of_output> {"
+  }
+}

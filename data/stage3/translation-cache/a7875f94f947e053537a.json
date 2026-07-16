@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:23:34.498Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a7875f94f947e053537a",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-034",
+    "UA22BT/GMR-1-075"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "オリリウム",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "奥里留姆",
+    "effectZh": "选择自己的 AP 卡至多 2 张，将其激活。",
+    "triggerZh": "[最终]若自己没有生命值，则从自己牌库上方将一张卡置于自己的生命值区域"
+  }
+}

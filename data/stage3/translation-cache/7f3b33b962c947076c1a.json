@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:13:32.610Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7f3b33b962c947076c1a",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-079"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "約束だったじゃろ。",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "约定吧，对吧。",
+    "effectZh": "选择至多 2 张你的 AP 卡并激活它们。",
+    "triggerZh": "[最终]\n若你无生命点数，则从牌库上方抽一张置于你的手牌区。"
+  }
+}

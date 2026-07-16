@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:48.875Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef4c047389ec8f812bd2",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-076"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "転心輪",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "转心轮",
+    "effectZh": "选择自己的 AP 卡最多两张，使其激活状态化。",
+    "triggerZh": "[最终]\n如果自己没有生命值存在，则从自己山札的上方放置一张到自己的生命值区域。"
+  }
+}

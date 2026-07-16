@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:14.160Z",
+  "model": "qwen3.5:4b",
+  "unitId": "505ee8788dc83ac4f616",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-038"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "デンジ君の心臓貰うね・・・",
+    "effect": "このカードは自分の場に〈レゼ〉がある場合のみ使用できる。\n自分の場のキャラを1枚退場させる。そうした場合、自分のAPカードを1枚アクティブにし、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "收下健君的心脏呢……",
+    "effectZh": "本卡仅在己方场上存在〈雷泽〉时才能使用。\n使自己场上的角色卡退场。如此操作后，激活自己的 1 张 AP 卡，并抽取 2 张卡。",
+    "triggerZh": "【抽牌】抽取 1 张卡。"
+  }
+}

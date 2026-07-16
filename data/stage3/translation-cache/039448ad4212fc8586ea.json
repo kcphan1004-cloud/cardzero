@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:48:59.744Z",
+  "model": "qwen3.5:9b",
+  "unitId": "039448ad4212fc8586ea",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-095"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "地下室",
+    "effect": "自分の場外に〈地下室の鍵〉がある場合、手札にあるこのカードの必要エナジーを\n[赤×2]\n減らす。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "地下室",
+    "effectZh": "自己场外有〈地下室的钥匙〉的情况下，此卡在手中的必要能量\n[红色×2]\n减少。\n[登场时] \n抽牌 1 张，将手牌中的卡最多 1 枚放置到场外。",
+    "triggerZh": "[Get] \n将此卡加入手牌。"
+  }
+}

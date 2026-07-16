@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:57:18.073Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5778e1775a38dfbdce3f",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-010"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "ヴァイスアッシュ",
+    "effect": "[相手のターン中]\nこのターンの移動フェイズで相手のキャラが移動していない場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "白灰",
+    "effectZh": "[对方回合中]\n若本回合的移动阶段对方的角色未移动，则该角色的BP+1000。",
+    "triggerZh": ""
+  }
+}

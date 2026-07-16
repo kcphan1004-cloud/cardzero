@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:29:19.131Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d3f262eb8508640350aa",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-079"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "不運",
+    "effect": "このカードは自分の場に〈出雲 風子〉がある場合のみ使用できる。\nBP5000以下の相手のフロントLのキャラを1枚か自分の場の〈アンディ〉を1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "不幸",
+    "effectZh": "此卡仅在自场上有「出云 风子」时可使用。\n选择 BP5000 以下的对方 Front L 的角色 1 张或自己场上的「安迪」1 张，使其退场。",
+    "triggerZh": "[SPECIAL]\n选择对方的 Front L 角色 1 张，使其退场。"
+  }
+}

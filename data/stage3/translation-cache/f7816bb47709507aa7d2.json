@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:24.951Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f7816bb47709507aa7d2",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-109"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "学習塾跡",
+    "effect": "[登場時]\n自分の山札の上から3枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "学习塾旧址",
+    "effectZh": "[登场时]\n将三张牌从自己的牌库上方翻开并置于场外。",
+    "triggerZh": "[抽卡]\n将此卡片加入手札。"
+  }
+}

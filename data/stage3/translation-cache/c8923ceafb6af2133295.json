@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:06:58.868Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c8923ceafb6af2133295",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-031"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "Lullabye",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする。それは次の1回アクティブにならない』。自分の場に〈フロストノヴァ〉がある場合、『退場させる』に代えてもよい。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "摇篮曲",
+    "effectZh": "选择对方前线 L 的 BP5000 以下的角色 1 张，使其进入横置状态。该角色在下一回合无法激活。若我方场上有〈霜星〉存在，也可以改为“将其退场”。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 张并让其退场。"
+  }
+}

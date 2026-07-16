@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:44.447Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f8046dd1ad0e98a03c1f",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-016"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "真希波・マリ・イラストリアス",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "真希波・マリ・イラストリアス",
+    "effectZh": "【阶段】\n（若可以从前线 L 区移动至自身能量 L 区）",
+    "triggerZh": "【抽牌】\n抽 1 张牌"
+  }
+}

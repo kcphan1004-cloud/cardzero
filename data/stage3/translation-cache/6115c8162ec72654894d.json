@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:23:42.142Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6115c8162ec72654894d",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/BTR-AP01",
+    "UAPR/BTR-AP02",
+    "UAPR/BTR-AP03"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(僕とロボコ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡（我与 RoboCop）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

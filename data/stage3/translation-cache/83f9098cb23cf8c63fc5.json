@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:17:37.886Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83f9098cb23cf8c63fc5",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-004"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ノーラ",
+    "effect": "[自分のターン中]\nこのカードが手札から場外に置かれた時、このターン中、次に手札から使用する特徴に「怪獣」を持つ青のキャラカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺拉",
+    "effectZh": "[自己的回合中]\n当这张卡从手牌置入场外时，本回合内，下次从手牌使用的具有「怪兽」特征的青色角色卡的必要能量为\n[青×1]\n减少。",
+    "triggerZh": ""
+  }
+}

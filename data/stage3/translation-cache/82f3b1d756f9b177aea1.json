@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:22.655Z",
+  "model": "qwen3.5:4b",
+  "unitId": "82f3b1d756f9b177aea1",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-051"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "戦慄のタツマキ",
+    "effect": "[登場時]\n自分の手札の［特徴：ヒーロー］を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "战栗的塔马奇",
+    "effectZh": "[登场时]\n可以将自己的手札中 1 张［特征：英雄］放置到场外。如此操作，本角色变为激活状态。",
+    "triggerZh": "[激活]选择自己场上的 1 个角色并使其进入激活状态，在本回合 BP+3000"
+  }
+}

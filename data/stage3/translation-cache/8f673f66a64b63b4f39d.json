@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:20:12.731Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8f673f66a64b63b4f39d",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-016",
+    "UA18BT/NIK-1-016"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "アニス",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尼斯",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

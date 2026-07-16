@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:56.180Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed12be40f3333538b4c3",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-052"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "早川 アキ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "早川 秋",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的任意一张卡片，使其进入激活状态，本回合 BP+3000。"
+  }
+}

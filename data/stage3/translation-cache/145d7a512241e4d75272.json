@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:37.291Z",
+  "model": "qwen3.5:4b",
+  "unitId": "145d7a512241e4d75272",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-045"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から特徴を持たない紫のカードを1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绯村 剑心",
+    "effectZh": "[登场时]\n从己方卡组上方取两张查看，从中选择无特征且紫色的卡片最多一张置于场外，其余按任意顺序放回卡组上方。",
+    "triggerZh": ""
+  }
+}

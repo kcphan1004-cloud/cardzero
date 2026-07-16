@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:38.351Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0987be8ac59817551d04",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-061"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "仰せのとおりに――お姫様！",
+    "effect": "相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "照您的吩咐——公主！",
+    "effectZh": "选择最多 1 张对手的 Front L 中的 Character，本回合中 BP-3000；再选择最多 1 张对手的 Front L 中的 Character，本回合中 BP-1000。",
+    "triggerZh": "[特殊]\n选择对手的一张 Front L 中的 Character 并将其退场。"
+  }
+}

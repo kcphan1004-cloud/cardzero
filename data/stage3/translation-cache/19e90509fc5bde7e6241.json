@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:51:00.943Z",
+  "model": "qwen3.5:9b",
+  "unitId": "19e90509fc5bde7e6241",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-090"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "キンタロス",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金塔罗斯",
+    "effectZh": "[无效化冲击]\n（与此角色战斗的角色在本场战斗中\n[冲击]）",
+    "triggerZh": ""
+  }
+}

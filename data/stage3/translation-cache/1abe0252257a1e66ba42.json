@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:18:34.879Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1abe0252257a1e66ba42",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-021"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "一心",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "一心",
+    "effectZh": "[阻挡 2 次]\n（当该角色在本回合首次进行阻挡时，将其激活）",
+    "triggerZh": "[激活]\n选择自己场上的任意 1 枚角色卡并将其激活，使其在本回合中 BP+3000。"
+  }
+}

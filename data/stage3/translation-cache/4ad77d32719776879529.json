@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:19.080Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4ad77d32719776879529",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-007"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "マジカルキョーコ",
+    "effect": "このカードは〈霧崎 恭子〉としても扱う。\n[登場時]\n相手のライフが4以上の場合、APを1支払ってもよい。そうした場合、相手に1ダメージ。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "出包王女 魔法少女奈叶（雾崎恭子）",
+    "effectZh": "本卡可视为〈雾崎恭子〉。\n[登场时]\n若对方生命值≥4，可选择支付 AP+1。如此操作后，对对手造成 1 点伤害。",
+    "triggerZh": "[抽牌]"
+  }
+}

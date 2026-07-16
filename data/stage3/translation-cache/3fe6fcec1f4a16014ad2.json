@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:48.872Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3fe6fcec1f4a16014ad2",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-073"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "宇宙船",
+    "effect": "自分の場に必要エナジーが4以上の［特徴：ヒーロー］がある場合、このフィールドの発生エナジー+\n[赤]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "宇宙船",
+    "effectZh": "如果自己的场地上有［特征：英雄］且所需能量为 4 以上的卡存在，则本区域的产生能量+\n［赤］\n。",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

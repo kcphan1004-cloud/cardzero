@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:21:29.770Z",
+  "model": "qwen3.5:4b",
+  "unitId": "62ee41ffba2c86f3d591",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-056",
+    "UA36BT/MCR-1-056"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "早乙女 アルト",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "早乙女 阿尔托",
+    "effectZh": "",
+    "triggerZh": "获得,这张卡加入手札。"
+  }
+}

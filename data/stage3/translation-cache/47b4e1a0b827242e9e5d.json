@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:28.457Z",
+  "model": "qwen3.5:4b",
+  "unitId": "47b4e1a0b827242e9e5d",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-071"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "笠原 誠",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\n自分の場に［特徴：神奈備］が4枚以上ある場合のみ発動できる。このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "笠原 诚",
+    "effectZh": "[启动主]<br>[将手札一张置于场外]<br>[第1次]仅在自己场上拥有［特征：神奈备］4张以上时可以发动。本角色在本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

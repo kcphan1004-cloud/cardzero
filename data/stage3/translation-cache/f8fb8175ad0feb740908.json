@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:06:45.236Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f8fb8175ad0feb740908",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-061"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "月村 手毬",
+    "effect": "自分の場に〈花海 咲季〉と〈藤田 ことね〉がどちらもある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "月村 手毬",
+    "effectZh": "当场上存在〈花海咲季〉与〈藤田事乃〉其中任意一张时，该角色 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

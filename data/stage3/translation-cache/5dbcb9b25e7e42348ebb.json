@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:43:11.357Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5dbcb9b25e7e42348ebb",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-048"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "羌瘣",
+    "effect": "[登場時]\nこのキャラが自分の効果で登場していた場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "羌瘣",
+    "effectZh": "[登场时] 若本角色是通过我方效果登场的，则抽1张牌。",
+    "triggerZh": "[抽取]"
+  }
+}

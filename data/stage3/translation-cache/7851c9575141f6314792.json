@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:34:33.044Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7851c9575141f6314792",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-050"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "牛島 若利",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "牛岛若利",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）、triggerZh:",
+    "triggerZh": ""
+  }
+}

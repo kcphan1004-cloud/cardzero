@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:42:31.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dbbd70980c3e416ec330",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-011"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "サニー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "桑尼",
+    "effectZh": "[无效冲击]\n（与这个角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": "[激活]\n选择自己场上的 1 张牌并激活之，本回合中 BP+3000。"
+  }
+}

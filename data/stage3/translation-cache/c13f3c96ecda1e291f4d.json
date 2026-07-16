@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:19.518Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c13f3c96ecda1e291f4d",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-028"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "タチアナ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "塔恰娜",
+    "effectZh": "[登场时]\n将自身场上除自己以外的其他角色中能量为 1 以下的各返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

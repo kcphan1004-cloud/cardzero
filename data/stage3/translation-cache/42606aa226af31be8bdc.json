@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:42:30.195Z",
+  "model": "qwen3.5:9b",
+  "unitId": "42606aa226af31be8bdc",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-087"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "日向 翔陽",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[エナジーLにある場合]\n[ターン1]\nこのキャラをフロントLに移動させ、このキャラはこのターン中、BP+1000。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "日向 翔阳",
+    "effectZh": "[步骤]\n（在自己的移动阶段可从前线 L 移动到能量线）\n[启动主]\n[在能量线上存在时]\n[回合 1]\n将该角色移动到前线 L，该角色在本回合中 BP+1000。",
+    "triggerZh": "[Color]\n选择对手的前线 L 的 1 张 BP2500 以下的角色并使其退场。"
+  }
+}

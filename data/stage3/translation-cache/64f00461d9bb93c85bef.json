@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:56.409Z",
+  "model": "qwen3.5:4b",
+  "unitId": "64f00461d9bb93c85bef",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-086"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "疾風のウィンド",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "疾风之龙",
+    "effectZh": "[登场时] 将我方场上其他角色中能量需求为 1 或以下的角色一张送回手牌。若无法将其送回，则将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

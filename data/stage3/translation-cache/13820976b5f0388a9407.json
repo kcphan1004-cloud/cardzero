@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:47:41.062Z",
+  "model": "qwen3.5:9b",
+  "unitId": "13820976b5f0388a9407",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-110"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "孤爪 研磨",
+    "effect": "[登場時]\n自分の山札の上から7枚見る。その中から黄のフィールドカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "孤爪研磨",
+    "effectZh": "[登场时]\n查看自己牌库上方的7张卡。从中公开最多1张黄属性场地卡加入手牌，其余按任意顺序放回自己牌库下方。",
+    "triggerZh": ""
+  }
+}

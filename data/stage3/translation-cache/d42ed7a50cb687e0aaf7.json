@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:33:08.989Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d42ed7a50cb687e0aaf7",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-077"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "國神 錬介",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "国神 錬介",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

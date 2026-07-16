@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:34:24.227Z",
+  "model": "qwen3.5:9b",
+  "unitId": "83229003bded0f48c104",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-018"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "好本 静",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "好本 静",
+    "effectZh": "【登场时】\n选择自己场上的其他角色的最多一张，此回合中，BP+1500。",
+    "triggerZh": "激活状态"
+  }
+}

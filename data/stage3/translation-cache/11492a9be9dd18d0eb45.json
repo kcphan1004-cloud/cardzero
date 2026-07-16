@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:47:15.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "11492a9be9dd18d0eb45",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-070"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーカイザ",
+    "effect": "自分のフロントLに空きがある場合、このキャラはBP+1000。\n[アタック時]\n自分のフロントLのキャラを1枚退場させてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士凯撒",
+    "effectZh": "自己的前线 L 有空位时，该角色 BP+1000。\n【攻击时】\n也可以将自己的前线 L 的角色将 1 枚退场。",
+    "triggerZh": "抽取]\n抽 1 张牌。"
+  }
+}

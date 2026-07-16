@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:53.786Z",
+  "model": "qwen3.5:4b",
+  "unitId": "59fe8c3b69723edf5c3d",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-082"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "淵天 涅",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈六平 千鉱〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "渊天 涅",
+    "effectZh": "『BP3000以下』时，选择对手的Front L区域1张角色卡并将其退场。若己方场上有〈六平 千矿〉，则变为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对手的Front L区域1张角色卡并将其退场。"
+  }
+}

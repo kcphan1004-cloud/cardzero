@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:40:54.007Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fadfc5112a0ff7744aaf",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-006"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ココ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "可可",
+    "effectZh": "[登场时]\n抽 1 张牌，将自身手牌中一张置为场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

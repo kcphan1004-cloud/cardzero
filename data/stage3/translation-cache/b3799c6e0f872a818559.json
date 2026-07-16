@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:40:01.185Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3799c6e0f872a818559",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-107"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリアの汎用メイガス",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛利亚的通用魔法师",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

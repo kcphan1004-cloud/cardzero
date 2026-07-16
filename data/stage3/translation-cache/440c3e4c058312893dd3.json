@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:46:59.661Z",
+  "model": "qwen3.5:4b",
+  "unitId": "440c3e4c058312893dd3",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-059",
+    "UA48BT/KGD-1-059"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "尾平",
+    "effect": "[登場時]\n自分の場の他の［特徴：飛信隊］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "尾平",
+    "effectZh": "[登场时]\n选择自己场上的一张［特征：飞信队］，本回合 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其进入激活状态，本回合 BP+3000。"
+  }
+}

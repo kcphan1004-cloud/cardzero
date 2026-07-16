@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:55.806Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c40f417201961315c669",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-039"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "自分を曲げたりしねぇ！！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "拒绝屈服！！",
+    "effectZh": "选择至多 2 张你的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若你无生命点数，则从牌库上方抽一张置于你的手牌区。"
+  }
+}

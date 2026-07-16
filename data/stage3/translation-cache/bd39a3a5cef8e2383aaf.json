@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:15.039Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd39a3a5cef8e2383aaf",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-061"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "薊 奏士郎",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "薊 奏士郎",
+    "effectZh": "当该角色处于激活状态时，获得等于（红色）数量的能量。",
+    "triggerZh": ""
+  }
+}

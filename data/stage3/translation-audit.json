@@ -1,0 +1,478 @@
+{
+  "generatedAt": "2026-07-16T17:02:42.533Z",
+  "translationUnits": 7049,
+  "cachedUnits": 6989,
+  "missingUnits": 60,
+  "errorFiles": 60,
+  "coverage": 0.9914881543481345,
+  "series": [
+    {
+      "seriesSlug": "100-girlfriends",
+      "units": 82,
+      "cached": 82,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "2-5-dimensional-seduction",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "arknights",
+      "units": 187,
+      "cached": 187,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "attack-on-titan",
+      "units": 185,
+      "cached": 185,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "black-clover",
+      "units": 113,
+      "cached": 113,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "bleach-thousand-year-blood-war",
+      "units": 192,
+      "cached": 192,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "blue-lock",
+      "units": 119,
+      "cached": 119,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "chained-soldier",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "chainsaw-man",
+      "units": 81,
+      "cached": 79,
+      "missingUnitIds": [
+        "ae301511061c9d6a1591",
+        "d50d2ef4b5ba12d8efaa"
+      ],
+      "coverage": 0.9753086419753086
+    },
+    {
+      "seriesSlug": "code-geass",
+      "units": 181,
+      "cached": 181,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "code-geass-roze",
+      "units": 80,
+      "cached": 80,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "demon-slayer",
+      "units": 196,
+      "cached": 196,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "dr-stone",
+      "units": 107,
+      "cached": 107,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "eminence-in-shadow",
+      "units": 81,
+      "cached": 77,
+      "missingUnitIds": [
+        "9e2d8c4bbd957794b1aa",
+        "47e259e127f0c920e0ca",
+        "a2e0d71a1a95ec5da15a",
+        "04d83d1a05892e8c2059"
+      ],
+      "coverage": 0.9506172839506173
+    },
+    {
+      "seriesSlug": "evangelion",
+      "units": 114,
+      "cached": 114,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "fullmetal-alchemist",
+      "units": 114,
+      "cached": 109,
+      "missingUnitIds": [
+        "7aab07efe98ce1bd73a4",
+        "6c27243aa987b4868082",
+        "597a38748ce89b29b3d6",
+        "4a44c91fa146c9340530",
+        "9d7ce433e6a013e14c25"
+      ],
+      "coverage": 0.956140350877193
+    },
+    {
+      "seriesSlug": "gakuen-idolmaster",
+      "units": 151,
+      "cached": 151,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "gamera-rebirth",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "gintama",
+      "units": 112,
+      "cached": 112,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "haikyu",
+      "units": 115,
+      "cached": 115,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "hunter-x-hunter",
+      "units": 181,
+      "cached": 181,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "idolmaster-shiny-colors",
+      "units": 230,
+      "cached": 230,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "inuyasha",
+      "units": 81,
+      "cached": 75,
+      "missingUnitIds": [
+        "986b9ab0efc77092358c",
+        "1a7163246902b741adae",
+        "aceb1029d74a3dd5cbe8",
+        "826681068950a1d24f8e",
+        "a000c8baf5e22ee79aa9",
+        "ab43bb1a8b9a75581e04"
+      ],
+      "coverage": 0.9259259259259259
+    },
+    {
+      "seriesSlug": "jujutsu-kaisen",
+      "units": 189,
+      "cached": 189,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "kagurabachi",
+      "units": 83,
+      "cached": 83,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "kaiju-no",
+      "units": 82,
+      "cached": 82,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "kamen-rider",
+      "units": 206,
+      "cached": 206,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "kingdom",
+      "units": 115,
+      "cached": 109,
+      "missingUnitIds": [
+        "36cefbaaad0787c844f1",
+        "37c2233c84431e7ff99f",
+        "6dacd9543f25459d4939",
+        "19c0ddfdce2555d3c47b",
+        "0d4047ad5805e4df8254",
+        "4fb16082ee1066ff734f"
+      ],
+      "coverage": 0.9478260869565217
+    },
+    {
+      "seriesSlug": "kinnikuman",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "macross",
+      "units": 191,
+      "cached": 190,
+      "missingUnitIds": [
+        "9f815d708731e604819c"
+      ],
+      "coverage": 0.9947643979057592
+    },
+    {
+      "seriesSlug": "madoka-magica",
+      "units": 109,
+      "cached": 109,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "me-and-roboco",
+      "units": 110,
+      "cached": 110,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "monogatari-series",
+      "units": 114,
+      "cached": 114,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "mushoku-tensei",
+      "units": 81,
+      "cached": 75,
+      "missingUnitIds": [
+        "df7679e4587457a326f7",
+        "6a6b0f31b49f41dc83e3",
+        "0f714a241fd5b648cb57",
+        "80f707d5dad6e45c49b8",
+        "b2baa0fb8c1c1a791d7b",
+        "1e7aa0026ddd52890423"
+      ],
+      "coverage": 0.9259259259259259
+    },
+    {
+      "seriesSlug": "my-hero-academia",
+      "units": 183,
+      "cached": 183,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "nikke",
+      "units": 164,
+      "cached": 164,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "one-punch-man",
+      "units": 114,
+      "cached": 114,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "re-zero",
+      "units": 113,
+      "cached": 113,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "rurouni-kenshin",
+      "units": 114,
+      "cached": 114,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "sakamoto-days",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "series-570801",
+      "units": 6,
+      "cached": 6,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "series-570901",
+      "units": 448,
+      "cached": 430,
+      "missingUnitIds": [
+        "2093676416a9f12a23c8",
+        "c6b6a06bc90294f6685e",
+        "77c4744e33798e8a78cf",
+        "28024c8229af7b8bd08e",
+        "7a01ed57ccccbba50874",
+        "765ce9a7131e07a73a27",
+        "6e7e7093f33c34b5cff8",
+        "8cd445751cfca1db5670",
+        "816491b88ab0b66b2c45",
+        "639a7feb2ef611629a90",
+        "d2cc8f9e3a45a2da3451",
+        "2aebd8bee1f1d6afe3ff",
+        "16968a5d0a1e5c187e3e",
+        "d113a43b00b44def6e95",
+        "3464db9b9914fa892df1",
+        "9e360c066c2fbdd0660c",
+        "ccb13ad31f981842a34c",
+        "a67df204f95fe6febaa8"
+      ],
+      "coverage": 0.9598214285714286
+    },
+    {
+      "seriesSlug": "shangri-la-frontier",
+      "units": 82,
+      "cached": 82,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "shy",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "solo-leveling",
+      "units": 80,
+      "cached": 80,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "sword-art-online",
+      "units": 183,
+      "cached": 183,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "synduality-noir",
+      "units": 110,
+      "cached": 110,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "tales-of-arise",
+      "units": 108,
+      "cached": 108,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "tekken",
+      "units": 19,
+      "cached": 19,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "tekken-7",
+      "units": 101,
+      "cached": 101,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "tensura",
+      "units": 179,
+      "cached": 179,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "to-love-ru",
+      "units": 82,
+      "cached": 82,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "tokyo-ghoul",
+      "units": 113,
+      "cached": 101,
+      "missingUnitIds": [
+        "8e00003094f7af140700",
+        "cf9946ef3545807d1a39",
+        "0c5303629e5e6f8be298",
+        "074dc671a03953b78162",
+        "e40cf7f727a71e1a53ee",
+        "e10b0d6c031eedf06f4b",
+        "b1d737c6d2822a6d907d",
+        "83bee108301df9f4f4da",
+        "cf1e4b069da7e94cd44e",
+        "390fa2a8057be964ef3b",
+        "19a6beceba82229374bf",
+        "5c2c578fcbcce723dca9"
+      ],
+      "coverage": 0.8938053097345132
+    },
+    {
+      "seriesSlug": "toriko",
+      "units": 108,
+      "cached": 108,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "undead-unluck",
+      "units": 81,
+      "cached": 81,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "wind-breaker",
+      "units": 80,
+      "cached": 80,
+      "missingUnitIds": [],
+      "coverage": 1
+    },
+    {
+      "seriesSlug": "yu-yu-hakusho",
+      "units": 113,
+      "cached": 113,
+      "missingUnitIds": [],
+      "coverage": 1
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:25:01.003Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cbe28878920eb3a32b5c",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-043"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "黒仮面",
+    "effect": "[アタック時]\n自分の手札を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000し、このキャラは次の1回アクティブにならない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "黑面具",
+    "effectZh": "[攻击时]\n可以将自己的一张手牌置入场外。如此做的话，选择对方前线 L 的至多 1 名角色，本回合中 BP-2000，且该角色在接下来的一次激活不会发生。\n\n触发：\n选择自己场上一张角色卡并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[激活]\n将这张卡加入手牌。"
+  }
+}

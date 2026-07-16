@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:38:47.252Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7abc0df7ad643f7a65ef",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-007"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "スプリングマン",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "弹簧人",
+    "effectZh": "【登场时】从自己的牌库上方看两张卡。从中将任意张数按任意顺序置于牌库上方，其余的置于场外。",
+    "triggerZh": ""
+  }
+}

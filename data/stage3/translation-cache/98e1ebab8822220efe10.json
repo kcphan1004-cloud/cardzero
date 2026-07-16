@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:18:19.012Z",
+  "model": "qwen3.5:9b",
+  "unitId": "98e1ebab8822220efe10",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-095"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "N102",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "N102",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本回合中，该角色的产生能量+\n[绿]\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

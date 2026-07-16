@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:24:11.999Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9dd80d1a04aa61ea6818",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-AP01",
+    "UA18BT/NIK-1-AP01",
+    "UA18BT/NIK-1-AP02",
+    "UA18BT/NIK-1-AP03",
+    "UA18BT/NIK-1-AP04",
+    "UA18BT/NIK-1-AP05",
+    "UA18BT/NIK-1-AP06",
+    "PC02BT/NIK-AP01",
+    "PC02BT/NIK-AP02",
+    "PC02BT/NIK-AP03",
+    "PC02BT/NIK-AP04",
+    "PC02BT/NIK-AP05",
+    "PC02BT/NIK-AP06"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "アクションポイントカード(勝利の女神：NIKKE)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (胜利女神：NIKKE)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

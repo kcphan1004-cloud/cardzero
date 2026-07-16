@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:30:50.361Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b42b911c06106c987cf7",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/IMS-2-045"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "月岡 恋鐘",
+    "effect": "[登場時]\n以下から１つ選ぶ。\n・自分の山札の上から1枚まで場外に置く。\n・自分の場外から［特徴：L'Antica］を1枚まで自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "月冈 恋钟",
+    "effectZh": "[登场时]从以下选项中任选一项。\n・将己方牌库上方至多1张卡放置场外。\n・将己方场外至多1张［特征：L'Antica］的卡片放回己方牌库上方。",
+    "triggerZh": ""
+  }
+}

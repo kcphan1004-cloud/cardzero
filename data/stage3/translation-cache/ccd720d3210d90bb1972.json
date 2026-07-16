@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:44:13.226Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ccd720d3210d90bb1972",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-068"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "嬴政",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "嬴政",
+    "effectZh": "[登场时]抽一张卡，将手牌中最多一张置于场外。",
+    "triggerZh": "[抽]\n抽一张卡"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:41:28.261Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a42031588e8dee464d61",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-081"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "月島 蛍",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "月岛萤",
+    "effectZh": "",
+    "triggerZh": "[Get] 将此卡加入手牌。"
+  }
+}

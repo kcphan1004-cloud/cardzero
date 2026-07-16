@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:18:30.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "48930b5e7de3afeb581f",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-012"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ギャオス",
+    "effect": "[レイド]\n〈ギャオス〉アクティブにし、フロントLに移動できる\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の特徴を持たないキャラを1枚退場させる。そうした場合、カードを1枚引き、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "盖奥",
+    "effectZh": "[雷伊]\n〈盖奥〉激活并可以移动到前线 L\n[启动主效果]\n[位于前线 L 时]\n[第 1 回合]\n将自己场上的没有特征的角色退场。如此操作时，抽牌 1 张，选择自己的 AP 卡最多 1 张并激活。",
+    "triggerZh": "[雷伊]\n将这张卡加入手札或满足必要能量条件时，发动雷伊。"
+  }
+}

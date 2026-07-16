@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:51.530Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3c7fbe47dd8223a11a16",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-036"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "テレシア・ヴァン・アストレア",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "泰蕾西亚·范阿斯崔亚",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的1张角色并使其处于激活状态，本回合内BP+3000"
+  }
+}

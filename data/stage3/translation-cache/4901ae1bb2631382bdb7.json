@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:32:02.190Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4901ae1bb2631382bdb7",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-AP01",
+    "UA37BT/FMA-1-AP01",
+    "UA37BT/FMA-1-AP02",
+    "UA37BT/FMA-1-AP03",
+    "UA37BT/FMA-1-AP04",
+    "UA37BT/FMA-1-AP05",
+    "UA37BT/FMA-1-AP06"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "アクションポイントカード(鋼の錬金術師)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（钢之炼金术师）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

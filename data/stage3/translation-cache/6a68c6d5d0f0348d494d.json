@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:15:07.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6a68c6d5d0f0348d494d",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-016"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "四ノ宮 キコル",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "四之宫 基库尔",
+    "effectZh": "",
+    "triggerZh": "[触发]：将此卡加入手牌。"
+  }
+}

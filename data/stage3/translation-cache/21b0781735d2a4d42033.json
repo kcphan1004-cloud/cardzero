@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:30.927Z",
+  "model": "qwen3.5:4b",
+  "unitId": "21b0781735d2a4d42033",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-019"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "玛奇马",
+    "effectZh": "[启动主]\n[改为横置状态]\n选择己方场上的其他角色，本家回合中BP+1000。",
+    "triggerZh": "[抽牌]\n抽取1张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:16.942Z",
+  "model": "qwen3.5:4b",
+  "unitId": "10620fc82ad551cbe4d4",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-049"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "桐生 三輝",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。このカードを手札に戻す。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桐生 三辉",
+    "effectZh": "[启动主阵]\n[变为横置状态]\n选择自己场上的一张其他角色，本回合中 BP+1000。将此卡回到手牌。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

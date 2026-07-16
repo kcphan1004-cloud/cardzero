@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:29.291Z",
+  "model": "qwen3.5:4b",
+  "unitId": "66b9ba0e16667a80262c",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-081",
+    "UA41BT/RNK-1-081"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "高荷 恵",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "高荷惠",
+    "effectZh": "若此角色处于激活状态，则将此角色的发生能量+\n[赤]。",
+    "triggerZh": ""
+  }
+}

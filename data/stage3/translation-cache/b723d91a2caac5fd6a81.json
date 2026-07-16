@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:41:33.928Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b723d91a2caac5fd6a81",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-054"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダースナイプ シューティングゲーマー レベル2",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Snipe 射击玩家 Lv.2",
+    "effectZh": "[无效冲击]\n（与此角色进行战斗的角色在本场战斗中，\n[冲击]\n失去）",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其激活，本回合中 BP+3000。"
+  }
+}

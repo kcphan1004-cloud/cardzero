@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:48:31.487Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3c0317b25d7a53146c2a",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-108"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ロドス・アイランド製薬",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場の［特徴：ロドス・アイランド製薬］全ては、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "罗德岛制药厂",
+    "effectZh": "该区域处于激活状态，可将其部署至场上。\\n[启动主回合]\\n[变为横置状态]\\n自身场上的所有［特性：罗德岛制药厂］角色在本回合中BP值+500。",
+    "triggerZh": "[获取]\\n将此卡牌加入手牌。"
+  }
+}

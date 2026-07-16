@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:58.633Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4511e1589318f9498803",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-085"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "プライド",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "傲慢",
+    "effectZh": "[登场时] 将自身场上其他角色中能量需求为 1 或以下的角色一张送回手牌。若无法执行，则将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:44.446Z",
+  "model": "qwen3.5:4b",
+  "unitId": "60009908063a323538b7",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-015"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "真希波・マリ・イラストリアス",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "真希波・マリ・イラストリアス",
+    "effectZh": "若对手场上有紫色或红色的卡，则减少手牌中此卡的必要能量\n【黄×1】",
+    "triggerZh": ""
+  }
+}

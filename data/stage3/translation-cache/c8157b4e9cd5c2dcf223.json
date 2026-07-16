@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:00:22.955Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c8157b4e9cd5c2dcf223",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-024"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "道門 泰星",
+    "effect": "このキャラはBP4000以上のキャラにブロックされない。\n[退場時]\n相手は自身の場のキャラを1枚まで選ぶ。選んだキャラにこのターン中、「このキャラはBP4000以上のキャラにブロックされない。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "道门 泰星",
+    "effectZh": "该角色不会被BP4000以上的角色阻挡。\n[离场时]\n对手选择自己场上的最多1张角色。给予被选中的角色在本回合中“该角色不会被BP4000以上的角色阻挡”。",
+    "triggerZh": ""
+  }
+}

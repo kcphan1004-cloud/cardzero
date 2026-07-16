@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:25:18.048Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d518c3799eec987a222",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-059"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "アリエル 天使空挺隊/アリア",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾莉尔 天使空挺队/阿利亚",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

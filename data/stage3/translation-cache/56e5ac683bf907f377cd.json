@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:33:55.063Z",
+  "model": "qwen3.5:4b",
+  "unitId": "56e5ac683bf907f377cd",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KJ8-1-061"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "日比野 カフカ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日比野 卡夫卡",
+    "effectZh": "选择至多 1 张卡。\n抽取 1 张牌。将手札中 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

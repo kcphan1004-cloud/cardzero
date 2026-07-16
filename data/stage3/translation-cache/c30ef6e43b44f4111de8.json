@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:40:05.629Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c30ef6e43b44f4111de8",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-026"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エレン・イェーガー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾伦·耶格尔",
+    "effectZh": "该角色处于激活状态时，本角色的发生能量+\n[青]\n。",
+    "triggerZh": ""
+  }
+}

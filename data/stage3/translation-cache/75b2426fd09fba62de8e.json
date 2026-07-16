@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:40:54.005Z",
+  "model": "qwen3.5:9b",
+  "unitId": "75b2426fd09fba62de8e",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-004"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "テリークロス",
+    "effect": "自分のフロントLに〈トリコ〉がある場合、手札にあるこのカードの消費APを-1する。\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "泰利克罗斯",
+    "effectZh": "自己的前线有〈特瑞科〉时，手牌中这张卡的消耗 AP-1。\n[冲击（1）]\n（攻击并赢得战斗时，对对方玩家造成 1 点伤害）、",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

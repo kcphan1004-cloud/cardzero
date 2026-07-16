@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:53.292Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0dc8ecf3fd6ea9303d2f",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-057"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n该角色在本回合中，发生能量+\n[紫]\n并获得「主阶段结束时，将该角色退场。」。",
+    "triggerZh": ""
+  }
+}

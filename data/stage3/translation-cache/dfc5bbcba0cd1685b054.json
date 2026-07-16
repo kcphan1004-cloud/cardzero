@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:06:15.465Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dfc5bbcba0cd1685b054",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-052"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "キョージュ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "基尔优古",
+    "effectZh": "【登场时】\n将自身场上其他必要能量为 1 以下的角色返回手牌各 1 张。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

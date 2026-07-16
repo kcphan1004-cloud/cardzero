@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:05:48.120Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dd318f11236dd216d8be",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-057"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羽川 翼",
+    "effectZh": "[登场时]\n将我方场上其他角色中能量为1或以下的，选择至多1张将其回复到手中。若无法回复该角色，则将该角色回复到手中。",
+    "triggerZh": ""
+  }
+}

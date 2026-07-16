@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:06.542Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6e3142e8cdf5670c34c9",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-059"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "パワー",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\n。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "力量",
+    "effectZh": "[启动主]\n[将手札一张置于场外]\n[回合一]\n本角色在本回合中，发生能量+\n[赤]。",
+    "triggerZh": "[抽牌]\n抽一张牌"
+  }
+}

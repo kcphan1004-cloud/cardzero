@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:59:11.255Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c93acd3c9a85d3b18f7d",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-016"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "エルク",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[緑]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "埃鲁克",
+    "effectZh": "【启动主阶段】\n【置为横置状态】\n【回合 1】\n这张角色在本回合中，发生能量+\n[绿色]\n并获得“主阶段结束时，将此卡退场。”的效果。",
+    "triggerZh": ""
+  }
+}

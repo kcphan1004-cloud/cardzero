@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:27:14.904Z",
+  "model": "qwen3.5:9b",
+  "unitId": "886e22b6187b2204d438",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-056"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ボコ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "波库",
+    "effectZh": "[无效冲击]（与这个角色进行战斗的角色在本场战斗中，失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

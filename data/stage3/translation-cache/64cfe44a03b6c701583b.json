@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:01.607Z",
+  "model": "qwen3.5:4b",
+  "unitId": "64cfe44a03b6c701583b",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-044"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "葛󠄀城 ミサト",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "葛城 美里",
+    "effectZh": "[登场时]\n选择己方场上的其他角色中的1张，本场中BP+1000。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

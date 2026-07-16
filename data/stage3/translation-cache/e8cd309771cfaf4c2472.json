@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:13:49.727Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e8cd309771cfaf4c2472",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-065"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "巡礼者",
+    "effect": "このターンのアタックフェイズ終了時、カードを3枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "巡礼者",
+    "effectZh": "本回合的攻击阶段结束时，可以抽 3 张牌。如此做的情况下，将手札中的 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，在本回合中 BP+3000。"
+  }
+}

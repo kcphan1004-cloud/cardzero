@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:33.868Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c99e0742b7fe0dec7555",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-087"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "黒桜",
+    "effect": "[登場時]\n自分の場の他の［特徴：桓騎軍］を1枚退場させてもよい。そうした場合、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑樱",
+    "effectZh": "[登场时]\n可以将你的场上的其他［特征：桓骑军］退场。如此情况，抽两张牌。",
+    "triggerZh": "[抽牌]"
+  }
+}

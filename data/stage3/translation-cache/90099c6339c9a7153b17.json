@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:38.544Z",
+  "model": "qwen3.5:4b",
+  "unitId": "90099c6339c9a7153b17",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-068"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "音速のソニック",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "音速索尼克",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将这张卡加入你的手牌。"
+  }
+}

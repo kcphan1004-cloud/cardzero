@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:58.605Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9a6942b7d18247c73323",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-019"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "第3新東京市立第壱中学校",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下の黄のキャラカードを1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "第 3 新东京市立第一中学校",
+    "effectZh": "[登场时]\n可将自己手札中 1 张置场外。如此则从自己牌库上方抽取黄卡角色卡片最多 1 张，且所需能量为 3 以下并加入手札。",
+    "triggerZh": "[Draw]\n抽取 1 张卡。"
+  }
+}

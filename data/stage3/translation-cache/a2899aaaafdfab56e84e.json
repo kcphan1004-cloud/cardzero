@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:00:07.695Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a2899aaaafdfab56e84e",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-032"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "藤田 ことね",
+    "effect": "[起動メイン]\n[レストにする]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "藤田 ことね",
+    "effectZh": "【启动主效果】\n【变为横置状态】\n抽 1 张牌，并将自己的手牌最多 1 张置于场外。",
+    "triggerZh": ""
+  }
+}

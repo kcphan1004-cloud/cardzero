@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:42:30.199Z",
+  "model": "qwen3.5:9b",
+  "unitId": "45298cc4c44fa1c12349",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-090"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "山口 忠",
+    "effect": "[登場時]\n自分の場に〈月島 蛍〉がある場合、カードを1枚引く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "山口 忠",
+    "effectZh": "[登场时]\n若自己的场上存在〈月岛 萤〉，则抽 1 张牌。",
+    "triggerZh": "[Color]\n选择对手的前线 L 的 1 张 BP2500 以下的角色并使其退场。"
+  }
+}

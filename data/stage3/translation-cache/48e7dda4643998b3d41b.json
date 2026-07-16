@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:01:15.464Z",
+  "model": "qwen3.5:9b",
+  "unitId": "48e7dda4643998b3d41b",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-046"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "幻海",
+    "effect": "[登場時]\n必要エナジーが2以下の自分のエナジーLのキャラを1枚まで選び、アクティブにする。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "幻海",
+    "effectZh": "[登场时]\n选择自己能量线中必要能量为 2 以下的角色至多 1 枚，使其进入激活状态。",
+    "triggerZh": "[颜色]\n从自己的手牌中选择必要能量为 2 以下且消耗 AP 为 1 的绿色角色卡 1 张，以激活状态登场到自己的场上。"
+  }
+}

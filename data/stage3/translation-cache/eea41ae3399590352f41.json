@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:45.779Z",
+  "model": "qwen3.5:9b",
+  "unitId": "eea41ae3399590352f41",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-017"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[自分のターン中]\n自分の場外にイベントカードが2枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "[在自己的回合中]\n若自己场外的事件卡有2枚以上，该角色BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的1张卡并激活，本回合中，BP+3000。"
+  }
+}

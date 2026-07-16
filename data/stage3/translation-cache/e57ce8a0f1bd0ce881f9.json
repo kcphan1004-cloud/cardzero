@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:08.277Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e57ce8a0f1bd0ce881f9",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-076"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "決めポーズ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "定式姿势",
+    "effectZh": "从自己 AP 卡中选择最多两张，变为激活状态。",
+    "triggerZh": "[Final]\n若自己没有生命值，将自己山札上方的一张放置于自己的生命区域。"
+  }
+}

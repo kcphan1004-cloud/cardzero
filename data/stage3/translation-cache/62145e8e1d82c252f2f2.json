@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:17:15.355Z",
+  "model": "qwen3.5:9b",
+  "unitId": "62145e8e1d82c252f2f2",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-015",
+    "UA25BT/AND-1-043"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "アンディ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "安迪",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

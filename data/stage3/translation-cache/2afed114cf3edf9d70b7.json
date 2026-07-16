@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:25.914Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2afed114cf3edf9d70b7",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-072"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "骨喰いの井戸",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、〈犬夜叉〉か〈日暮 かごめ〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "骨喰いの井戸",
+    "effectZh": "[登场时]\n从自己牌库上方翻开 4 张，公开并加入手札最多 1 张〈犬夜叉〉或〈日暮 かごめ〉。其余按任意顺序放回自己牌库下方。",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

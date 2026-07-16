@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:19.514Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0dced613736ebc3de18c",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-025"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ジュイス",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "朱伊斯",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其置于激活状态，本回合中 BP+3000。"
+  }
+}

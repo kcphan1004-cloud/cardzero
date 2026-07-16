@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:25:39.297Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5c9a47712f46ccd95ff9",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-066"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "保科 宗四郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "保科 宗四郎",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

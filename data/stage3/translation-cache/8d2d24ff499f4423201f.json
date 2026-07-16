@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:01:07.413Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8d2d24ff499f4423201f",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-039"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "わたしたち、やればできる",
+    "effect": "自分の場の元々のBPが2500以下のキャラの合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "我们、只要做就能做到",
+    "effectZh": "选择对方前线 L 的角色至多 1 张（其原本 BP 为“自己场上原本 BP 为 2500 以下的角色总数×1000”以下），使其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色至多 1 张，使其退场。"
+  }
+}

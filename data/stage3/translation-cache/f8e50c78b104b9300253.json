@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:39:33.516Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f8e50c78b104b9300253",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-010"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "汗明",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "汗明",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择己方场上的一张角色，将其激活，本回合 BP+3000。"
+  }
+}

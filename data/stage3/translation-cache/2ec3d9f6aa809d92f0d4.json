@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:07.098Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2ec3d9f6aa809d92f0d4",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-017"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "真戸 暁",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "真户 晓",
+    "effectZh": "当该角色处于激活状态时，将该角色的发生能量+[黄]。",
+    "triggerZh": ""
+  }
+}

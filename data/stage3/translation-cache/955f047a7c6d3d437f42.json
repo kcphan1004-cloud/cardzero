@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:00:07.697Z",
+  "model": "qwen3.5:9b",
+  "unitId": "955f047a7c6d3d437f42",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-034"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "新たな挑戦の成功ですわ！",
+    "effect": "カードを3枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "新たな挑戦の成功ですわ！",
+    "effectZh": "抽 3 张牌，并将自己的手牌最多 2 张置于场外。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

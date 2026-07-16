@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:15:07.807Z",
+  "model": "qwen3.5:9b",
+  "unitId": "074586e8d9cda64eec91",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-014"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "神楽木 葵",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "神乐木 葵",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

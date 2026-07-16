@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:08.275Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f95368112766640f693",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-074"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "コススト会場",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "Cosst 会场",
+    "effectZh": "此场地以激活状态登场至场上。\n[启动主]\n[变为横置]\n从自己的场上的角色中选择一张，本回合中，BP+500。",
+    "triggerZh": "[Gett]\n将此卡加入手牌。"
+  }
+}

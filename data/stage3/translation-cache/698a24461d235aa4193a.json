@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:08.680Z",
+  "model": "qwen3.5:4b",
+  "unitId": "698a24461d235aa4193a",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-075"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ベアトリス",
+    "effect": "[登場時]\nこのキャラが自分の効果で登場していた場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝阿特丽斯",
+    "effectZh": "[登场时]\n若该角色是因自己的效果而登场的情况，则抽一张卡。",
+    "triggerZh": "[抽取]\n抽一张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:35.665Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df267100cc25e652a8bf",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-080"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "飛来骨",
+    "effect": "相手のフロントLのキャラを1枚選び、レストにする。\nこのカードが自分の効果によって手札から場外に置かれた時、自分の場に〈珊瑚〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "飞来骨",
+    "effectZh": "选择敌方前线L的角色卡一张以上至多一张，将其横置。\n本卡因己方效果从手牌置于场外时，若己方场上有〈珊瑚〉，则抽一张牌。",
+    "triggerZh": ""
+  }
+}

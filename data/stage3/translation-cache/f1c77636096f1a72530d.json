@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:07.800Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f1c77636096f1a72530d",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-108"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "金木のマスク",
+    "effect": "カードを3枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金木的假面",
+    "effectZh": "抽 3 张，将自己的手牌最多选择 1 张放在场外。",
+    "triggerZh": ""
+  }
+}

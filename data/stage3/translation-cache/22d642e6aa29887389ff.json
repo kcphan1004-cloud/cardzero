@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:09:21.506Z",
+  "model": "qwen3.5:9b",
+  "unitId": "22d642e6aa29887389ff",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-049"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "シャイ",
+    "effect": "[登場時]\nこのキャラが自分のキャラの効果で登場していた場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "腼腆英雄",
+    "effectZh": "[登场时]\n如果此角色是通过自己角色的效果登场的，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

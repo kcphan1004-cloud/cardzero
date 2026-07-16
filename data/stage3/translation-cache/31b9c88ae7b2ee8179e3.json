@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:10:00.334Z",
+  "model": "qwen3.5:4b",
+  "unitId": "31b9c88ae7b2ee8179e3",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-010"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "陸 無糖",
+    "effect": "[登場時]\n自分の場に〈陸 少糖〉がある場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陆 无糖",
+    "effectZh": "[登场时]\n当己方场区存在「陆 少糖」时，将本角色激活。",
+    "triggerZh": ""
+  }
+}

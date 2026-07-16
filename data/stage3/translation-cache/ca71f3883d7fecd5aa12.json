@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:33:23.586Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ca71f3883d7fecd5aa12",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-048"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "照島 遊児",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "照岛 游儿",
+    "effectZh": "若对方场上存在黄色或红色的卡片，则减少手牌中该卡片的\n【青×1】\n所需能量。",
+    "triggerZh": ""
+  }
+}

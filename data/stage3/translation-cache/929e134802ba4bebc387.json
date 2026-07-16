@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:14:38.796Z",
+  "model": "qwen3.5:9b",
+  "unitId": "929e134802ba4bebc387",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-071"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "シュガー",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "糖",
+    "effectZh": "对方场上有黄色或紫色的卡时，将手牌中此卡的必要能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

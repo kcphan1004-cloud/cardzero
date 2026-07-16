@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:09.649Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3d5def6d27b900d30bf3",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-036"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "アレックス・ルイ・アームストロング",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "亚历克斯·路易·阿姆斯特朗",
+    "effectZh": "[无效化冲击]\n（与该角色战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 个，将其激活。本回合中 BP+3000"
+  }
+}

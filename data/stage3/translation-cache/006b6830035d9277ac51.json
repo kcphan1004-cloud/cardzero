@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:30:06.901Z",
+  "model": "qwen3.5:9b",
+  "unitId": "006b6830035d9277ac51",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-AP01/S",
+    "UA25BT/AND-1-AP02/S"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

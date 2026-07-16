@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:37:08.084Z",
+  "model": "qwen3.5:9b",
+  "unitId": "11eb25f42976881b314c",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-038"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "べべ",
+    "effect": "このカードは〈百江 なぎさ〉としても扱う。\n[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝贝",
+    "effectZh": "这张卡也作为〈百江 なぎさ〉处理。\n[登场时]\n选择自己场上的其他角色最多 1 枚，本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

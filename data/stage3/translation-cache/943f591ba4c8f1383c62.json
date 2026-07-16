@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:44.525Z",
+  "model": "qwen3.5:4b",
+  "unitId": "943f591ba4c8f1383c62",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-069"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ショウ・タッカー",
+    "effect": "[登場時]\n自分の手札を2枚場外に置いてもよい。そうした場合、自分の場外から〈ニーナ＆アレキサンダー〉を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尚·塔克",
+    "effectZh": "[登场时]\n可以将自己的手札 2 张置于场外。如此操作，可以从你的场外将〈妮娜&亚历山大〉最多 1 张以休息状态或雷德方式登场。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张卡。"
+  }
+}

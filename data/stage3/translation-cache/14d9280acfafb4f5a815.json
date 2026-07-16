@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:19.217Z",
+  "model": "qwen3.5:4b",
+  "unitId": "14d9280acfafb4f5a815",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-003"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "綾波 レイ",
+    "effect": "[自分のターン中]\nこのターン中に自分の場に\n[ゲット]\nを持つキャラが登場している場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "绫波 丽",
+    "effectZh": "[自己的回合中]\n若本回合中有\n[获取]\n的角色登场到己方场上，则该角色BP+1000。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张卡"
+  }
+}

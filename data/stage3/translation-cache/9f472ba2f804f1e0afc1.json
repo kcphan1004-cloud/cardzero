@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:21:03.239Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f472ba2f804f1e0afc1",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-015"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "カナタ",
+    "effect": "[自分のターン中]\nこのターン中に自分が山札からカードを使用している場合、このキャラはBP＋500。\n[登場時]\nこのキャラが山札から使用されて登場していた場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡纳塔",
+    "effectZh": "[自己的回合中]\n本回合内自己从牌库使用卡牌时，该角色获得 BP+500。\n[登场时]\n当该角色从牌库使用时登场，将其激活。",
+    "triggerZh": ""
+  }
+}

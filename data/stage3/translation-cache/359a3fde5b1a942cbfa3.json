@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:19.084Z",
+  "model": "qwen3.5:4b",
+  "unitId": "359a3fde5b1a942cbfa3",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-009"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "村雨 静",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、BP4000以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "村雨 静",
+    "effectZh": "[登场时]\n可以将自己的手札一张置于场外。如此，选择对手 BP4000 以下的 Front L 的一张角色并置为横置状态。",
+    "triggerZh": "[激活]\n选择一个场上的角色并设为激活状态，本回合中 BP+3000。"
+  }
+}

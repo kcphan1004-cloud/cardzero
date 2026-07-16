@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:50:04.642Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c910ba56c008491e713f",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-085",
+    "UA31BT/MMM-1-085"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "[登场时]\n将自身场上除本角色外的其他 1 张卡（必要能量为 1 以下）返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

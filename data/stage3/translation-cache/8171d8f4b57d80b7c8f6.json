@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:00.140Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8171d8f4b57d80b7c8f6",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-092"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ミステル",
+    "effect": "[アタック時]\n[ターン1]\n以下から1つ選ぶ。\n・このキャラはこのターン中、BP+1000。\n・自分の手札を1枚場外に置いてもよい。そうした場合、BP1500以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "米斯特尔",
+    "effectZh": "[攻击时]\n[回合 1]\n从以下中选择一项。\n・该角色在本回合中，BP+1000。\n・可以将自己的手牌最多选择一张放置到场外。如此做的话，可以选择对方前线 L BP1500 以下的角色最多一张并使其退场。",
+    "triggerZh": "[颜色]\n选择对方前线 L BP2500 以下的角色最多一张并使其退场。"
+  }
+}

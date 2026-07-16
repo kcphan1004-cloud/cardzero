@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:37:36.125Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2cbdde7a521898bcf696",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-056",
+    "UA47BT/TKG-1-056"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "笛口 リョーコ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "笛口凉子",
+    "effectZh": "【激活主侧】\n【横置状态】\n【第 1 回合】\n本角色在本回合中，发生能量+<紫>并获得「当此角色离场时结束主侧。」。",
+    "triggerZh": ""
+  }
+}

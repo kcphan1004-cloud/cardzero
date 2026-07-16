@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:55.060Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0b7898aa447431033370",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-076"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "相楽 左之助",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[エナジーLにある場合]\n[ターン1]\n自分の場のキャラのアタック終了時、自分の手札を1枚場外に置いてもよい。そうした場合、このターン中にアタックしていない自分のフロントLのキャラを1枚選び、このキャラと位置を入れ替えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "相乐 左之助",
+    "effectZh": "自己的回合中\n,本角色的 BP+1000。\n,[能量 L 中的情况]\n[回合 1]\n,",
+    "triggerZh": ""
+  }
+}

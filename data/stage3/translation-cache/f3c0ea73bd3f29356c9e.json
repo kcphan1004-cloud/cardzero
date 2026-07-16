@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:47:00.714Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f3c0ea73bd3f29356c9e",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-105"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "日向 翔陽",
+    "effect": "このキャラのBPが4000以上の場合、このキャラはBP3000以下のキャラにブロックされない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "日向翔阳",
+    "effectZh": "当此角色的 BP 为 4000 以上时，该角色不会被 BP3000 以下的角色阻挡。",
+    "triggerZh": "【抽牌】\n抽入 1 张牌。"
+  }
+}

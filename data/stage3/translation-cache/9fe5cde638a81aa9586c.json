@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:36:50.998Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9fe5cde638a81aa9586c",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MCR-1-014"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ランカ・リー",
+    "effect": "自分の場外に黄の［特徴：歌（ランカ）］のカード名が3種類以上ある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "兰卡·蕾",
+    "effectZh": "当自己场外有黄色的［特征：歌（兰）］的卡牌名称种类达到3种以上时，本角色BP+1500。",
+    "triggerZh": "抽卡\n抽取一张牌"
+  }
+}

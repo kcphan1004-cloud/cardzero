@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:42.102Z",
+  "model": "qwen3.5:9b",
+  "unitId": "62f467d1bb9e2d4104c8",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-077"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "剛鬼",
+    "effect": "相手の場に紫か緑のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "刚鬼",
+    "effectZh": "对方场上有紫色或绿色的卡时，将手札中这张卡的必要能量\n[赤×1]\n减少。",
+    "triggerZh": ""
+  }
+}

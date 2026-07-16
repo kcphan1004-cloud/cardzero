@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:01:33.572Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c7e72881275c74a2b4bf",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-036"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "俺達は”ナナシの傭兵”だ！",
+    "effect": "自分の山札の上から6枚見る。その中から黄の［特徴：ナナシの傭兵］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "我们是\"纳尼什的雇佣兵\"！",
+    "effectZh": "从你的牌库上方翻开 6 张。从中公开并加入手札至多 1 张黄色的［特征：纳尼什的雇佣兵］，其余按你希望的顺序置于你的牌库下方。抽一张卡。",
+    "triggerZh": "[激活]\n选择场上的角色 1 枚进行激活，本回合 BP+3000"
+  }
+}

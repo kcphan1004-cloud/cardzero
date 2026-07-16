@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:25.202Z",
+  "model": "qwen3.5:4b",
+  "unitId": "40b86385701ecb80a042",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-044",
+    "UA10BT/MHA-1-044"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "オールマイト",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "欧尔迈特",
+    "effectZh": "[激活主侧]\n[横置状态]\n[回合 1]\n本回合中，该角色的生成能量+\n[绿]。主侧阶段结束时，将该角色离场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:42:25.308Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a60bf06b0edad77a57d8",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-049"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "無垢の巨人（くつろいでいる巨人）",
+    "effect": "[退場時]\n自分の手札から必要エナジーが2以下で消費APが1の［特徴：無垢の巨人］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无垢的巨人（休息中的巨人）",
+    "effectZh": "[退场时]\n从自己手牌中选择必要能量为 2 以下且消耗 AP 为 1 的［特征：无垢的巨人］最多 1 张横置状态登场。",
+    "triggerZh": ""
+  }
+}

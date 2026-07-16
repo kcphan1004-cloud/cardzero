@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:07.016Z",
+  "model": "qwen3.5:4b",
+  "unitId": "67d0984aae552cf29383",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-046"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "榎本 健史",
+    "effect": "[登場時]\n自分の場の〈梶 蓮〉を1枚まで選び、このターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "榎本 健史",
+    "effectZh": "[登场时]选择自己场上的〈梶 莲〉1张，本回合中给予\\n[冲击（1）]\\n（攻击并战斗胜利时，对对手玩家造成1点伤害）。",
+    "triggerZh": "[抽牌]\n抽取1张卡"
+  }
+}

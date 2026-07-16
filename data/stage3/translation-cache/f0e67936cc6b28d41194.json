@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:51.529Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f0e67936cc6b28d41194",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-035"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "オットー・スーウェン",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "奥托·苏文",
+    "effectZh": "[登场时]\n抽1张卡并将自己手札中的1张卡置于场外。",
+    "triggerZh": "[抽取]\n抽1张卡"
+  }
+}

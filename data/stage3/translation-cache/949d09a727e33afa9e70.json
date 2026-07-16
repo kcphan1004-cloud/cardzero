@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:58.630Z",
+  "model": "qwen3.5:4b",
+  "unitId": "949d09a727e33afa9e70",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-083"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "スロウス",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "斯路乌丝",
+    "effectZh": "当对手场上有黄或蓝卡时，将手牌中本卡的必要能量减少[紫×1]。",
+    "triggerZh": ""
+  }
+}

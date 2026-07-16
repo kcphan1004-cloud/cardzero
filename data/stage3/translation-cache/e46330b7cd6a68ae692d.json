@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:55.745Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e46330b7cd6a68ae692d",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-083"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾蜜莉亚",
+    "effectZh": "[登场时]\n从自己的牌库上方看 2 张。从中选择至多 1 张置于场外，其余按任意顺序放回自己牌库上方。",
+    "triggerZh": "[激活]\n选择场上的角色卡 1 张并使其处于激活状态，本回合 BP+3000"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:31.792Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5d87ff204172f02ce021",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-AP01",
+    "UA49BT/MSS-1-AP02",
+    "UA49BT/MSS-1-AP03",
+    "UA49BT/MSS-1-AP04",
+    "UA49BT/MSS-1-AP05",
+    "UA49BT/MSS-1-AP06",
+    "UA49BT/MSS-1-AP07",
+    "UA49BT/MSS-1-AP08",
+    "UA49BT/MSS-1-AP09",
+    "UA49BT/MSS-1-AP10",
+    "UA49BT/MSS-1-AP11",
+    "UA49BT/MSS-1-AP12"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "アクションポイントカード(魔都精兵のスレイブ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡 (魔都精兵的奴隶)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

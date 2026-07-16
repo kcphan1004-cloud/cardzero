@@ -1,9 +1,0 @@
-{
-  "status": "error",
-  "failedAt": "2026-07-15T18:47:57.070Z",
-  "unitId": "e416e91fb7b7e6f9a523",
-  "cardNumbers": [
-    "UA15BT/SAO-1-024"
-  ],
-  "error": "UA15BT/SAO-1-027 缺少中文 Trigger。"
-}

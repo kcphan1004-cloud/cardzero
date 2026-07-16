@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:15:23.691Z",
+  "model": "qwen3.5:9b",
+  "unitId": "60e791b8d53c18a5b9fc",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-080"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "エクシア",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾克西亚",
+    "effectZh": "【登场时】\n查看自己山札上方的 1 张卡牌。将该卡置于自己的山札上方或下方。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

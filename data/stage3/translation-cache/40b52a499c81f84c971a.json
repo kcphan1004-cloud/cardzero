@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:44:02.122Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40b52a499c81f84c971a",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-049"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "栄逢 凪乃",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "荣逢 凪乃",
+    "effectZh": "[登场时]\n查看自己山札上方的2张卡。从中选择想要的数量按任意顺序放回自己山札上方，其余置入场外。",
+    "triggerZh": ""
+  }
+}

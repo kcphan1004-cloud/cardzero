@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:34:24.231Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4fd76ce18f86c1a9865f",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-021"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽香里",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花园 羽香里",
+    "effectZh": "该角色处于激活状态时，该角色的产生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

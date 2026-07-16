@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:11:21.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ab8cb765047ecfa234d6",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-002"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "亜白 ミナ",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から〈亜白 ミナ〉か〈伐虎〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "亚白 美娜",
+    "effectZh": "[登场时]\n查看自己牌库上方的 4 张卡。从中公开最多 1 张〈亚白 美娜〉或〈伐虎〉并加入手牌。将剩余的卡按任意顺序置于自己的牌库下方。若加入了手牌，则将 1 张自己的手牌置为场外。",
+    "triggerZh": ""
+  }
+}

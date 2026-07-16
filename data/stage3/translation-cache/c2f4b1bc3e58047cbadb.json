@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:03:17.408Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2f4b1bc3e58047cbadb",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-028"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "廃都市",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n相手の場にレストのキャラが2枚以上ある場合のみ発動できる。自分の場のキャラを1枚選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "废都市",
+    "effectZh": "【启动主】\n【横置状态】\n【将手牌 1 张置于场外】\n仅当对方场上有 2 枚以上处于横置状态的卡时才能发动。选择自己场上的 1 枚卡，使其进入激活状态。",
+    "triggerZh": "获取"
+  }
+}

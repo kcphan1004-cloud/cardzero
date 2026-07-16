@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:13.042Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d021b5dc0636fe8ba1bc",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-AP01",
+    "UA41BT/RNK-1-AP01",
+    "UA41BT/RNK-1-AP02",
+    "UA41BT/RNK-1-AP03",
+    "UA41BT/RNK-1-AP04",
+    "UA41BT/RNK-1-AP05",
+    "UA41BT/RNK-1-AP06"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "アクションポイントカード(るろうに剣心 －明治剣客浪漫譚－)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡(浪客剑心 - 明治剑客浪漫谭-)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

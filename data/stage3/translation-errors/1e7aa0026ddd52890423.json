@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-16T16:16:17.875Z",
+  "unitId": "1e7aa0026ddd52890423",
+  "cardNumbers": [
+    "UA54BT/MST-1-047"
+  ],
+  "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+}

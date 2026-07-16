@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:58.258Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5fdf8ef35bd194d0cdc5",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-061"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ナナホシ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "七色星轮",
+    "effectZh": "[登场时]选择自己场上的一张其他角色卡，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

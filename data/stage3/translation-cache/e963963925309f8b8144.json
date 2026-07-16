@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:48:59.551Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e963963925309f8b8144",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-078"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダー電王 プラットフォーム",
+    "effect": "自分の\n[レイド]\nを持つカード名に「電王」を含むキャラカードはこのキャラにレイドできる。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "假面骑士电王 Platform 形态",
+    "effectZh": "拥有 [雷击] 且卡名为“电王”的角色卡可以以此角色为对象进行雷击。\n[登场时]\n抽 1 张牌，并将手牌中的 1 张置入场外。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

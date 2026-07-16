@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:50:08.268Z",
+  "model": "qwen3.5:9b",
+  "unitId": "437f88a51571b79cda4e",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-081"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーネクストファイズ",
+    "effect": "[自分のターン中]\n[フロントLにある場合]\n自分のキャラの効果で自分の手札から［特徴：ファイズギア］を場外に置いた時、そのカードを自分の山札の上に置いてもよい。\n[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、次に自分が「BPの範囲に指定がある効果」でキャラを選ぶ際、指定できるBPの範囲+1000。（BP3000以下のキャラを選べる効果でBP4000以下を選べるようになる）\n[アタック時]\nこのターン中に自分の効果で自分の手札を場外に置いている場合、カードを1枚まで引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Next Faiz",
+    "effectZh": "[object Object],[object Object]",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

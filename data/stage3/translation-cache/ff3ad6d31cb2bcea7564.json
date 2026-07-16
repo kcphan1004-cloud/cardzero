@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:27.992Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ff3ad6d31cb2bcea7564",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-057"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ディボック・メルテ",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）\n[相手のターン中]\n自分の場に〈天空要塞ダモクレス〉がある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "迪布洛克·梅尔特",
+    "effectZh": "[两次封锁]\n（本回合首次进行封锁时，激活）\n[对手回合中]\n若己方场上有「天空要塞达莫克勒斯」，该角色BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:47:41.066Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7a033ef4f89e191bc8c5",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-AP01"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "アクションポイントカードハイキュー‼)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡片排球少年！！)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

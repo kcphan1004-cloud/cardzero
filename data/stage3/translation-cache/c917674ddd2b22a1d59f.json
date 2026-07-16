@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:55:20.622Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c917674ddd2b22a1d59f",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-027"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "武威",
+    "effect": "このキャラは相手の効果でレストにならず、移動せず、手札に戻らない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "武威",
+    "effectZh": "该角色不会因对手的效果而变为横置状态、移动或返回手牌。",
+    "triggerZh": "[激活]\n选择自己场上一张卡，将其激活并使其在本回合中 BP+3000"
+  }
+}

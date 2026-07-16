@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:18:10.882Z",
+  "model": "qwen3.5:4b",
+  "unitId": "790c6818eeb646a7b248",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-042"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ルーシー・マクミラン",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "露西·麦克米兰",
+    "effectZh": "当对手场上有黄或赤卡时，将手牌中本卡的必要能量减少[蓝×1]。",
+    "triggerZh": ""
+  }
+}

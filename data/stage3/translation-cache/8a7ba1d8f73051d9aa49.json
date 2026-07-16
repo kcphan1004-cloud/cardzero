@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:44.755Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8a7ba1d8f73051d9aa49",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/TLR-1-025"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "金色の闇",
+    "effect": "相手の場にBP4000以上のキャラがある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金色的暗",
+    "effectZh": "如果对手场上有 BP 为 4000 以上的角色存在的话，该角色的 BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:27:52.929Z",
+  "model": "qwen3.5:4b",
+  "unitId": "657e0c961491bd03400c",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-028",
+    "EX01BT/HTR-2-071"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "奇拉·揍敌客",
+    "effectZh": "[激活状态]\n（在己方移动阶段，可从前线线移至能量线）",
+    "triggerZh": ""
+  }
+}

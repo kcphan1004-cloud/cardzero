@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:54:39.940Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3de97460a626e2012b4",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-107"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:07.017Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2187668b7dc6f735624a",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-047"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "梶 蓮",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梶 莲",
+    "effectZh": "[阶段]（本角色的移动侧可以向Front L向Energy L移动）",
+    "triggerZh": "[抽牌]\n抽取1张卡"
+  }
+}

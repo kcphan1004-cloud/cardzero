@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:16.642Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e75f8d52233b64c97631",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-034"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ネメシス",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "涅墨西斯",
+    "effectZh": "[登场时]\n抽一张牌。",
+    "triggerZh": "[颜色]\n选择对手的前线 L 中的一张角色，将其设为横置状态。该角色下一次无法激活。"
+  }
+}

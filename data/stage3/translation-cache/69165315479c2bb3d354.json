@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:38:23.709Z",
+  "model": "qwen3.5:4b",
+  "unitId": "69165315479c2bb3d354",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-061",
+    "UA21BT/YYH-1-061"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "雪村 螢子",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雪村 萤子",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上其他角色一张送回手牌。无法回送的情况，将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

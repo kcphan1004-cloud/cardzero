@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:18.179Z",
+  "model": "qwen3.5:4b",
+  "unitId": "223cbfdc598e4937716b",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-011"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "早川 アキ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "早川 秋",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多1张，本回合 BP+1000。",
+    "triggerZh": ""
+  }
+}

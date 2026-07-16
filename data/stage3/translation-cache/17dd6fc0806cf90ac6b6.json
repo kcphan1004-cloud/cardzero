@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:16:44.529Z",
+  "model": "qwen3.5:4b",
+  "unitId": "17dd6fc0806cf90ac6b6",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-038"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "渚 カヲル",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から〈碇 シンジ〉か〈エヴァンゲリオン第13号機〉か〈リリス〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "渚 香织",
+    "effectZh": "[登场时]\n从自己牌库上方翻开4张，从中公开最多1张〈碇 シンジ〉、<span style=\"color:blue\">蓝</span>或<span style=\"color:red\">红</span><span style=\"color:green\">绿</span>的「EVA初号机」或「莉莉丝」加入手札。其余按任意顺序置于牌库下方。将卡加入手札时，将1张手札置于场外",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:01:50.349Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6739dce165dc19c4e019",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-004",
+    "UA24BT/SHY-1-045"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "小石川 惟子",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "小石川 惟子",
+    "effectZh": "",
+    "triggerZh": "[抽牌] \n抽1张牌。"
+  }
+}

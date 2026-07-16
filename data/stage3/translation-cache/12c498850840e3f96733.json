@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:29:08.278Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12c498850840e3f96733",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-077"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "負けられないのよっ!!!",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場にカード名に「753♡」を含むキャラがある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "绝不能输啊!!!",
+    "effectZh": "选择对方前线 L 的『BP3000 以下』的角色一张，使其退场。若自己的场上有名为「753♡」的角色，则改为『BP5000 以下』。",
+    "triggerZh": "[Special]\n从对方的前线 L 角色中选择一张，使其退场。"
+  }
+}

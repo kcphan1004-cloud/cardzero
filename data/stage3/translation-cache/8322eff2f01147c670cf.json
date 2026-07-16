@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:42:30.194Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8322eff2f01147c670cf",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-086"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "日向 翔陽",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日向 翔阳",
+    "effectZh": "[自己的回合中]\n该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

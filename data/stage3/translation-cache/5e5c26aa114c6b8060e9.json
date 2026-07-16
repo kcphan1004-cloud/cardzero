@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:02:13.462Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5e5c26aa114c6b8060e9",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-038"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "フレンド申請",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "好友申请",
+    "effectZh": "选择自己的 AP 卡至多 2 枚，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命点数，则从自己牌库上方取置 1 张到自己的生命点数区域。"
+  }
+}

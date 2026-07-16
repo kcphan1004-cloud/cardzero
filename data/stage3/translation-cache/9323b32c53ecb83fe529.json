@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:54.381Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9323b32c53ecb83fe529",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-071"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "澤村 大地",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "泽村 大地",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

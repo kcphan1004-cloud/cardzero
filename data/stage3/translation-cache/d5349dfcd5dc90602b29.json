@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:17:19.000Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d5349dfcd5dc90602b29",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-038"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ヤン・ノイマン",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "扬·诺伊曼",
+    "effectZh": "[激活主效果]\n将卡片横置。\n从牌库上方翻开1张。将该卡置于你的牌库上方或下方。",
+    "triggerZh": "[抽牌]\n抽取1张牌。"
+  }
+}

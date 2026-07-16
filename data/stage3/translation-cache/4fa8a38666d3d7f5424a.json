@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:45.201Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4fa8a38666d3d7f5424a",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-005"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "アレクシア・ミドガル",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "亚历克西亚·米多加尔",
+    "effectZh": "[登场时]\n查看自己山札上方一张牌，置于山札上方或下方。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色，将其设为激活状态，且在该回合中 BP+3000。"
+  }
+}

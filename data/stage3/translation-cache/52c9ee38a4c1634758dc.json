@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:04:59.751Z",
+  "model": "qwen3.5:4b",
+  "unitId": "52c9ee38a4c1634758dc",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-013"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "戦慄のタツマキ",
+    "effect": "[自分のターン中]\nこのターン中に自分がイベントカードを使用している場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "战栗的塔马奇",
+    "effectZh": "[自己的回合中]\n若本回合内自己使用了事件卡，则此角色 BP+1000\nBP 增加效果处理顺序与日文原文一致。",
+    "triggerZh": "[激活]\n选择自己场上的角色最多 1 张，使其激活，并赋予该角色「本回合中 BP+3000」的效果"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:21.511Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2ef77f00e81fd8a795c9",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-068"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "[退場時]\n自分の手札のキャラカードを2枚かイベントカードを1枚場外に置いてもよい。そうした場合、このカードを手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "玛奇玛",
+    "effectZh": "[退场时] 可选择将己方手札的两个角色卡或一个事件卡置于场外；如此时，本卡加入己方手札。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

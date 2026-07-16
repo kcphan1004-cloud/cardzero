@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:17:15.352Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12d16895017063606299",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-013"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "リップ",
+    "effect": "[アタック時]\n自分の場の他の［特徴：UNDER］を1枚まで選び、このターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "利普",
+    "effectZh": "[攻击时]\n选择自己场上其他［特征：UNDER］最多 1 张，在本回合中赋予\n[冲击（+1）]\n（给予的冲击伤害 +1，若无冲击则获得\n[冲击（1）]）。",
+    "triggerZh": ""
+  }
+}

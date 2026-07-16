@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:41:47.557Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed7d1d09327ad7f47761",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-048"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "キン肉マン",
+    "effect": "このカードはフロントLに登場できない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "筋肉人",
+    "effectZh": "本卡不能登场至前线线。",
+    "triggerZh": ""
+  }
+}

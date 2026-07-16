@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:45.272Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a62f09118dc043ce6abe",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-023"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ルーデウス",
+    "effect": "[登場時]\nこのキャラが自分の効果で登場していた場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鲁德乌斯",
+    "effectZh": "[登场时]\n若该角色是以自己的效果登场所需场，则抽一张牌。",
+    "triggerZh": ""
+  }
+}

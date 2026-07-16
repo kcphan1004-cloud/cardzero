@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:25.831Z",
+  "model": "qwen3.5:4b",
+  "unitId": "babf3c036e15f6a2fd30",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-018"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "[登場時]\nBP2500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-2000。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "[登场时]\n选择对手 BP 2500 以上的 Front L 角色最多 1 张，本回合中 BP-2000。",
+    "triggerZh": "[颜色]\n选择对手的 Front L 角色一张，将其横置。它下一次无法激活。"
+  }
+}

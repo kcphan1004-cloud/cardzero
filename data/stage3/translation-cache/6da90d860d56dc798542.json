@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:11.199Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6da90d860d56dc798542",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/EVA-AP01"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(ヱヴァンゲリヲン新劇場版)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（新世纪福音战士剧场版）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

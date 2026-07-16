@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:36.975Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ab2b879f1f4ca99bbaa2",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-060"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "町田 堂玄",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[エナジーLにある場合]\n自分のアタックフェイズ終了時、自分のフロントLの「次の1回アクティブにならない」キャラを1枚選び、このキャラと位置を入れ替えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "町田 堂玄",
+    "effectZh": "无效冲击（与本角色战斗的角色在本战斗中失去冲击）\n\n[能量L存在时]\n于己方攻击阶段结束时，可从己方前线L中选择「下次1回无法被激活」的角色最多1张，可与本角色交换位置。,",
+    "triggerZh": ""
+  }
+}

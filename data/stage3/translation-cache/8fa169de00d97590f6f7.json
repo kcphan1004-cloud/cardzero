@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:27:14.907Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8fa169de00d97590f6f7",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-059"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "戦闘機",
+    "effect": "[起動メイン]\n[エナジーLにある場合]\n[ターン1]\nこのキャラをフロントLに移動させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "战斗机",
+    "effectZh": "[启动主]\n[位于能量 L 时]\n[回合 1]\n将该角色移动至前线 L。",
+    "triggerZh": ""
+  }
+}

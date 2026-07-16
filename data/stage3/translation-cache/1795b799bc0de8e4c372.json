@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:38.353Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1795b799bc0de8e4c372",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-062"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "おかえり、碇シンジ君。待っていたよ",
+    "effect": "自分の場外から紫の〈碇 シンジ〉を1枚自分の場にレストで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "欢迎回来，碇シンジ君。我一直在等你哦",
+    "effectZh": "从你的场外区域将一张紫色的〈碇 シンジ〉以横置状态登场到你的场上。",
+    "triggerZh": "[激活]\n选择你的一张场上的 Character 并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

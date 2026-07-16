@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:31:00.029Z",
+  "model": "qwen3.5:9b",
+  "unitId": "721c3f65a56041e7f2e7",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-007"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "院田 唐音",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "院田 唐音",
+    "effectZh": "[伤害（2）]\n（当该角色通过攻击直接造成伤害时，代替造成 2 点伤害）",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

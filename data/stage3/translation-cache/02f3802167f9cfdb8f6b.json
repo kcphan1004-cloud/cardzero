@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:52.871Z",
+  "model": "qwen3.5:4b",
+  "unitId": "02f3802167f9cfdb8f6b",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-057"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "六平 千鉱",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1000と「このキャラの発生エナジー+\n[赤]\n」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "六平 千鉱",
+    "effectZh": "[激活主阶段]\n[将手札中一张卡置于场外]\n[回合一]\n本角色在本回合中获得 BP+1000 和「获得本角色的发生能量+[赤]」。",
+    "triggerZh": ""
+  }
+}

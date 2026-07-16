@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:24:39.085Z",
+  "model": "qwen3.5:9b",
+  "unitId": "540953ca79286e4681f8",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-062",
+    "UA30BT/ARK-1-062"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "初級理性回復剤",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "初级理性回复剂",
+    "effectZh": "选择至多 2 张自己的 AP 卡，将其激活。",
+    "triggerZh": "[登场时]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命值区域。"
+  }
+}

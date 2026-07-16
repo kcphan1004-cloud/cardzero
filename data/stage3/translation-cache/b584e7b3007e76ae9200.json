@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:10.046Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b584e7b3007e76ae9200",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-072"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "ミズア",
+    "effect": "[登場時]\n自分の場に［特徴：DFN］が3枚以上ある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "水亚",
+    "effectZh": "【登场时】\n若己方场上有 3 张或以上的［特征：DFN］，则从牌库上方抽取一张卡牌。",
+    "triggerZh": ""
+  }
+}

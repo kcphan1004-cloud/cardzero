@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:06.965Z",
+  "model": "qwen3.5:4b",
+  "unitId": "646a4e3934bd08179dbe",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-048"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "このターン中に自分か相手の\n[トリガー]\nが発動している場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂本 太郎",
+    "effectZh": "如果自己在本回合或对手有\n[触发]发动，该角色 BP 加 1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:36:15.902Z",
+  "model": "qwen3.5:4b",
+  "unitId": "023d6e210be747ce540b",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-087"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "鈴屋 什造",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "铃屋什造",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择己方场上的角色一张，将其激活，本回合 BP+3000。"
+  }
+}

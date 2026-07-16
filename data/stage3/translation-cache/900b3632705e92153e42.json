@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:10:18.624Z",
+  "model": "qwen3.5:9b",
+  "unitId": "900b3632705e92153e42",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-078"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "第2回教室パーティー！",
+    "effect": "自分の山札の上から3枚見る。その中からカードを2枚手札に加える。残りを自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "第 2 回教室派对！",
+    "effectZh": "查看自己牌库上方的 3 张卡。从中选择 2 张加入手牌，将剩余的放回自己牌库下方。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

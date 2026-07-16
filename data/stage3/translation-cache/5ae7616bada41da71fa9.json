@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:55:25.691Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5ae7616bada41da71fa9",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-001"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "アーサー・ペンシルゴン",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[緑×2]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚瑟·潘西尔贡",
+    "effectZh": "若自己场上没有卡片，将手牌中该张卡的必要能量\n[绿×2]\n减少。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:46:06.458Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3bf2dccb5b3555c9ee0c",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-100",
+    "UA19BT/HIQ-1-100"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "ドンピシャ!!!",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈日向 翔陽〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "ドンピシャ!!!",
+    "effectZh": "选择对方『BP 3000 以下』的前线 L 的角色各一张并退场。若自己场上有〈日向翔阳〉，则改为『BP 5000 以下』。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色各一张并退场。"
+  }
+}

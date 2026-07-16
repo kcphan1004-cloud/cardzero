@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:37:50.824Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9337f39d7f67f53f109e",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-061",
+    "UA47BT/TKG-1-061"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "珈琲",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "咖啡",
+    "effectZh": "选择自己的AP卡至多2张，使其进入激活状态。",
+    "triggerZh": "[最终]当你的生命区域没有生命值时，从你牌库上方抽1张牌放入你的生命区域。"
+  }
+}

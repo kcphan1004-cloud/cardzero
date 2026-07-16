@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:03:42.173Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b9d558f9296080f9f179",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-020"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "シャイ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "害羞英雄",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择自己场上的 1 名角色并激活状态，本回合中 +BP3000。"
+  }
+}

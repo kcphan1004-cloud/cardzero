@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:11.348Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b482a3a04817e8a3520c",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-048"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "式波・アスカ・ラングレー",
+    "effectZh": "",
+    "triggerZh": "[GET]\n将这张卡加入手牌。"
+  }
+}

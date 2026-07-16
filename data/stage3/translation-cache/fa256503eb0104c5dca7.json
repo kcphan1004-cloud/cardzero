@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:36.029Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fa256503eb0104c5dca7",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-014"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ティム・マルコー",
+    "effect": "相手の場に青か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蒂姆·马克罗、Tim Marco",
+    "effectZh": "若对手场上存在蓝色或紫色卡片，可将手札中的该卡所需能量\n[黄×1]减少。",
+    "triggerZh": ""
+  }
+}

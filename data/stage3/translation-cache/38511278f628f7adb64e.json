@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:05:31.674Z",
+  "model": "qwen3.5:9b",
+  "unitId": "38511278f628f7adb64e",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-087"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "南野 秀一",
+    "effect": "このカードは〈蔵馬〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "南野秀一",
+    "effectZh": "此卡也作为《藏马》处理。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

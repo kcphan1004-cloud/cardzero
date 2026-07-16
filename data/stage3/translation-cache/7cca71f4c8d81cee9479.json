@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:44:57.898Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7cca71f4c8d81cee9479",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-008"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ラム",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "拉姆",
+    "effectZh": "[步骤]\n（可从前线 L 向能源 L 移动）\n\n[激活时]\n选择自己场上的角色中的 1 张并激活之，本回合中 BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的角色中的 1 张并激活之，本回合中 BP+3000"
+  }
+}

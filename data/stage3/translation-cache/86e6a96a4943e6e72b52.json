@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:43.469Z",
+  "model": "qwen3.5:4b",
+  "unitId": "86e6a96a4943e6e72b52",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-081"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾米莉亚",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽一张牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:48:36.514Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e0c7c9b5cdba9bcef22f",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-093"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "奇跡も、魔法も、あるんだよ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈美樹 さやか〉があり、自分のライフが5以下の場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "奇迹也好、魔法也罢，都是有的哦",
+    "effectZh": "选择对方 BP3000 以下的角色 1 枚并退场。自己场上有〈美树沙耶香〉且自己的生命值在 5 以下时，变为『BP5000 以下』。\n[特殊]\n选择对方的前线 L 的角色 1 枚并退场。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 枚并退场。"
+  }
+}

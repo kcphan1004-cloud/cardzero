@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:25:00.632Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c8ef243ce6a8752f78e4",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-006"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "日向 翔陽",
+    "effect": "[アタック時]\n[ブロック時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日向翔阳",
+    "effectZh": "[攻击时] [阻挡时]\n选择自己场上的一张其他角色，本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:34.589Z",
+  "model": "qwen3.5:4b",
+  "unitId": "eb1926afc3bef118c50e",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-070"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "結城 美柑",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "结城 美柑",
+    "effectZh": "[冲击无效]（与此角色战斗的角色在本战斗中失去冲击）",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

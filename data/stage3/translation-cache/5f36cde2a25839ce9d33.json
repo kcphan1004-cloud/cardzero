@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:39:20.399Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5f36cde2a25839ce9d33",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-031"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "月面基地",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：怪獣］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "月球基地",
+    "effectZh": "[登场时]\n从自己的牌库上方看4张。从中公开最多1张［特征：怪兽］并加入自己手牌，其余按任意顺序置于自己牌库下方。",
+    "triggerZh": "[获取]将此卡加入自己手牌"
+  }
+}

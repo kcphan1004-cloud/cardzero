@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:43:30.423Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e8e9cb0a93c5b1406cb",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-091"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "西谷 夕",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西谷夕",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，失去【冲击】）",
+    "triggerZh": ""
+  }
+}

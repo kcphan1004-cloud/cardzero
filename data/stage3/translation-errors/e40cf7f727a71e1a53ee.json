@@ -1,0 +1,9 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-16T15:35:36.302Z",
+  "unitId": "e40cf7f727a71e1a53ee",
+  "cardNumbers": [
+    "UA47BT/TKG-1-082"
+  ],
+  "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+}

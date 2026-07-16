@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:30.493Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5e83a570d26990bb42a9",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-025"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "李牧",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "李牧",
+    "effectZh": "[登场时]\n从自己的牌库上方看 2 张，将看到的数量分别放在牌库的上面和下面。",
+    "triggerZh": ""
+  }
+}

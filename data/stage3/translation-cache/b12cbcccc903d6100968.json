@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:59.815Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b12cbcccc903d6100968",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-033"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "UMAカイン",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下で特徴に「UNDER」を持つキャラカードを1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "UMA·凯恩",
+    "effectZh": "[登场时]\n可以将自己的手牌中最多选择 1 张置入场外。如此操作的情况下，从自己场外将拥有特征“UNDER”且必要能量为 3 以下的角色卡最多加入至手牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

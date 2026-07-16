@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:47:54.870Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0000273ffebdd555b85",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-044"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "十夢",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "十梦",
+    "effectZh": "【登场时】\n抽一张牌，并将自己的任意一张手牌放置到场外。",
+    "triggerZh": "【抽牌】\n抽一张牌。"
+  }
+}

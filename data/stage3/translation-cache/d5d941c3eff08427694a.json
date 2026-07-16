@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:07.749Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d5d941c3eff08427694a",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-024"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "マツゲ＆山猿",
+    "effect": "相手の場に緑か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马尾&山猿",
+    "effectZh": "若对手场地上有绿色或红色的卡片，则从手牌中消耗此卡所需的能量时减少[黄×1]。",
+    "triggerZh": ""
+  }
+}

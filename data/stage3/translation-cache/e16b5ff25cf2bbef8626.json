@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:26:09.324Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e16b5ff25cf2bbef8626",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-048"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "トキオ",
+    "effect": "[自分のターン中]\nこのターン中に自分か相手の効果で自分か相手が手札を場外に置いている場合、このキャラはBP+1000。\n[退場時]\n自分の場に〈ムートン〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "时欧",
+    "effectZh": "[自己的回合中]\n本回合内，若自己或对方通过效果将手牌置于场外，该角色获得 BP+1000。\n[退场时]\n若己方场上有〈穆顿〉，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

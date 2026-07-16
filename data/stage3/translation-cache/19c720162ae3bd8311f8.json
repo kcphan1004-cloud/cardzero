@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:23:31.770Z",
+  "model": "qwen3.5:9b",
+  "unitId": "19c720162ae3bd8311f8",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-045"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "喜咲 アリア",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "喜咲 阿里亚",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中失去“[冲击]”）\n【登场时】\n查看自己牌库上方顶部的1张卡。将该卡置于自己牌库的顶部或底部。",
+    "triggerZh": ""
+  }
+}

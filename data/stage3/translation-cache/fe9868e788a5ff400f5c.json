@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:24:18.002Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fe9868e788a5ff400f5c",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-004"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "座村 イヲリ",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "座村 伊织里",
+    "effectZh": "[登场时]\n从自己的牌库上方看3张，将最多1张置于场外，剩余部分按任意顺序置于牌库上方。",
+    "triggerZh": "[抽牌]\n抽取1张卡。"
+  }
+}

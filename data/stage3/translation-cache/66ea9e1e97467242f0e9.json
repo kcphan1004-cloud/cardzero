@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:02.225Z",
+  "model": "qwen3.5:4b",
+  "unitId": "66ea9e1e97467242f0e9",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-024"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "琥珀",
+    "effect": "[退場時]\nこのカードを手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "琥珀",
+    "effectZh": "[横置状态]\n将该卡片加入手札。",
+    "triggerZh": ""
+  }
+}

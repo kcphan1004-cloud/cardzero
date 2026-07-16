@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:48.870Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a019e8e959e0c0aa153a",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-071"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "レディ・ブラック",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑蔷薇女士",
+    "effectZh": "[登场时]\n选择自己场上的一张其他角色，本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

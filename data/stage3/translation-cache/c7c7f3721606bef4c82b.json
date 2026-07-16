@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:33:18.724Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c7c7f3721606bef4c82b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KGD-P-001"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "キングダム",
+    "effect": "このカードの色と必要エナジーは、全ての色として扱う。\n自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "王国",
+    "effectZh": "本卡的颜色与所需能量视为所有颜色。\n选择并激活最多 2 张你的 AP 卡。",
+    "triggerZh": "[最终]\n若你无生命，从牌库上方抽一张置于你的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:47:38.326Z",
+  "model": "qwen3.5:4b",
+  "unitId": "23b503a5114790736a2d",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-061"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "一から……いいえ、ゼロから！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "一から……いいえ、ゼロから！",
+    "effectZh": "选择自己AP卡最多2张，使其激活。",
+    "triggerZh": "[最终]\n若自己的生命值为零，则从自己的山牌上方取一张置于自己的生命区域。"
+  }
+}

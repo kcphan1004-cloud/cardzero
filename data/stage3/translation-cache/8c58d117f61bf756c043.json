@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:21:43.077Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8c58d117f61bf756c043",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-061",
+    "UA36BT/MCR-1-061"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "クラン・クラン",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "克兰·克兰",
+    "effectZh": "[登场时]<br>从自己的山牌上方看一张卡。将该卡置于自己山牌的上方或下方。<br><br>[激活状态]<br>选择自己场上的角色一张，使其处于激活状态，本回合 BP+3000。",
+    "triggerZh": "[激活状态]"
+  }
+}

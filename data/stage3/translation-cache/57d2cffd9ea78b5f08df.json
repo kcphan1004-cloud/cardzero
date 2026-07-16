@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:03.018Z",
+  "model": "qwen3.5:4b",
+  "unitId": "57d2cffd9ea78b5f08df",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-022"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 月火",
+    "effect": "[登場時]\n自分の場の他の［特徴：ファイヤーシスターズ］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿良々木 月火",
+    "effectZh": "[登场时]\n选择自己场上的其他［特征：火焰姐妹］一张，本回合中BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张进行激活，本回合中BP+3000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:33:48.313Z",
+  "model": "qwen3.5:9b",
+  "unitId": "948d78775563a2071c6c",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-011"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "栄逢 凪乃",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "荣逢 凪乃",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 以下的任意一张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

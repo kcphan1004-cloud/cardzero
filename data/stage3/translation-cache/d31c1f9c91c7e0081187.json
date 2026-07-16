@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:11:22.993Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d31c1f9c91c7e0081187",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-059"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ピルツ",
+    "effect": "このカードは〈レディ・ブラック〉としても扱う。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から\n[レイド]\nを持つ赤のキャラカードを1枚手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "皮尔茨",
+    "effectZh": "这张卡也作为〈蕾迪·布莱克〉处理。\n[启动主]\n[横置]\n[将此卡退场]\n从自己的场外\n[Raid]\n拥有 1 张红色角色卡。",
+    "triggerZh": ""
+  }
+}

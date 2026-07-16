@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:46.138Z",
+  "model": "qwen3.5:4b",
+  "unitId": "02010ef46222e229e850",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-021"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "电锯人：玛奇马（基础）",
+    "effectZh": "[登场时]\n从自己的牌库上方看3张，将其中一张置于场外，其余的按任意顺序放回牌库上方。",
+    "triggerZh": "[抽卡]\n抽取1张卡牌。"
+  }
+}

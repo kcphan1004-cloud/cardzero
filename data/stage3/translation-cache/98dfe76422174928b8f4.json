@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:23:51.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "98dfe76422174928b8f4",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-047"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "出雲 風子",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "出云 风子",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己手牌中的 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色最多 1 张并激活，本回合中 BP+3000。"
+  }
+}

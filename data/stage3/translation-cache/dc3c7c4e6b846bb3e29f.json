@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:21:53.305Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dc3c7c4e6b846bb3e29f",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-099"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "龍門近衛局",
+    "effect": "自分の場の\n[ダメージ（2）]\nか\n[2回ブロック]\nを持つキャラ全てに、このターン中、「このキャラはBP3000以下のキャラにブロックされない。」を与える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "龙门近卫局",
+    "effectZh": "给予自己场上所有拥有\n［伤害（2）］\n或\n［阻挡 2 次］\n的角色，本回合中「该角色不会被 BP3000 以下的角色阻挡。」的效果。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡并激活，本回合中，BP+3000。"
+  }
+}

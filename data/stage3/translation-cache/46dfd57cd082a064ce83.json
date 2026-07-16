@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:53.539Z",
+  "model": "qwen3.5:4b",
+  "unitId": "46dfd57cd082a064ce83",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-048"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "古手川 唯",
+    "effect": "[レイド]\n〈古手川 唯〉アクティブにし、フロントLに移動できる\n[登場時]\nこのキャラはこのターン中、「\n[アタック時]\nこのキャラよりBPが低い相手のフロントLのキャラを1枚まで選び、退場させる。」を得る。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "古手川唯",
+    "effectZh": "[雷击]\n将〈古手川唯〉激活并移动至 Front L\n\n[登场时] 本回合内获得：\n\n[攻击时] 选择一张 BP 低于该角色的对手 Front L，将其退场。",
+    "triggerZh": "[雷击] 将此卡加入手中或满足必要能量时发动雷击"
+  }
+}

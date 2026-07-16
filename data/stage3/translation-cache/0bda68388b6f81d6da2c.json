@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:52:50.100Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0bda68388b6f81d6da2c",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-100"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "スパークルカット",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+2000。BP2000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "火花切割",
+    "effectZh": "选择我方场上的 1 张角色卡，本回合中 BP+2000。\n选择对方前线 L 的『BP2000以下』的角色卡至多 1 张，使其退场。",
+    "triggerZh": "[激活]\n选择我方场上的 1 张角色卡，将其激活，本回合中 BP+3000。"
+  }
+}

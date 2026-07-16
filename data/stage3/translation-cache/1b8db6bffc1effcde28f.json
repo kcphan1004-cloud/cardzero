@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:40.289Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1b8db6bffc1effcde28f",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-041"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "阿波の八衛門狸",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、赤のイベントカードを1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿波の八衛門狸",
+    "effectZh": "[登場時]\n從牌庫上方看 4 張，公開並加入手札最多 1 張紅色事件卡。將剩餘的按任意順序放回牌庫下方。\n若已加入手札，則將自己的手札中 1 張置於場外。",
+    "triggerZh": ""
+  }
+}

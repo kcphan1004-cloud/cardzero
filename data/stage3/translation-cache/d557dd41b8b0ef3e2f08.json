@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:38:23.712Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d557dd41b8b0ef3e2f08",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-065",
+    "UA21BT/YYH-1-065"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "霊丸",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈浦飯 幽助〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "灵丸",
+    "effectZh": "选择对手 FRONT L 的 BP3000 以下的角色一张，让其退场。若自己场上有〈浦饭 幽助〉，则变为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手的 FRONT L 的角色一张，使其退场。"
+  }
+}

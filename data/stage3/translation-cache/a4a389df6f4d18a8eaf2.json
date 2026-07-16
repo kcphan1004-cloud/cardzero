@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:07.379Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a4a389df6f4d18a8eaf2",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-056"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "セリーヌ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "塞琳",
+    "effectZh": "[启动主]<br><br>[横置状态]<br><br>[回合1]<br>该角色在本回合中，获得“能量+<span class=\"highlight\">红色</span>”的效果；并获得在「主阶段结束时将其离场」的效力。",
+    "triggerZh": ""
+  }
+}

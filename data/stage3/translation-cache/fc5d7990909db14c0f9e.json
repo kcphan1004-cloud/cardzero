@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:00.693Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fc5d7990909db14c0f9e",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-104"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "関原 妙＆三条 燕",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "関原 妙＆三条 燕",
+    "effectZh": "[登場時]從牌庫上方抽一張，將該卡片置於牌庫上方或下方。",
+    "triggerZh": "[激活]\n選擇自己場上一張角色並使其處於激活狀態，本回合 BP+3000"
+  }
+}

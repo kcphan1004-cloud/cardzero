@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:06:00.392Z",
+  "model": "qwen3.5:4b",
+  "unitId": "67b89e7d0417e7ce825e",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-070"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 忍",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "忍野 忍",
+    "effectZh": "[登场时]\n若自己场上的其他角色卡所需能量为1以下，则将其一张返回手牌。无法返还时，将本角色返回手牌。",
+    "triggerZh": ""
+  }
+}

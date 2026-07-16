@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:44:57.896Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ee0e6809d006cc8e1b11",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-005"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ペトラ・レイテ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "佩特拉·雷特",
+    "effectZh": "[登场时]\n选择自己场上的其他角色中的 1 张，本回合中 BP+1000。\n\n[激活时]\n选择自己场上的角色中的 1 张并激活之，本回合中 BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的角色中的 1 张并激活之，本回合中 BP+3000"
+  }
+}

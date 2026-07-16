@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:12.377Z",
+  "model": "qwen3.5:4b",
+  "unitId": "22295078bbd35b023baf",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-064",
+    "UA42BT/MGS-1-064"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "何でもは知らないわよ、知ってることだけ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "什么都不知道哦，只知道这些",
+    "effectZh": "选择至多 2 张己方 AP 卡并激活之。",
+    "triggerZh": "[最终]\n若己方生命值为空时，从己方卡组上方将一张卡牌置于己方生命区中。"
+  }
+}

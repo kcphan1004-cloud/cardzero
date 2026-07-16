@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:26:45.335Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bcd8590a14405a045cf5",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-016"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "黒尾 鉄朗",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑尾铁朗",
+    "effectZh": "【登场时】\n抽牌 1 张。",
+    "triggerZh": ""
+  }
+}

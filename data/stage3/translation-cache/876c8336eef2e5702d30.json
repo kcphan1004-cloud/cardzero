@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:48.289Z",
+  "model": "qwen3.5:4b",
+  "unitId": "876c8336eef2e5702d30",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-005"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "眞霜 平助",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "眞霜 平助",
+    "effectZh": "当本角色为激活状态时，本角色的发生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

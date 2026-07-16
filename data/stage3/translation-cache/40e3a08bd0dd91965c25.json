@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:56:26.147Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40e3a08bd0dd91965c25",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-004"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サンラク",
+    "effect": "[アタック時]\n[ブロック時]\n自分の手札の緑のイベントカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+2500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "三乐克",
+    "effectZh": "【攻击时】\n【阻挡时】\n可将己方手牌中的绿色事件卡最多 1 张置入场外。如此操作，此角色本回合 BP+2500。\n\n【激活】\n选择己方场上的 1 名角色并激活之，使其本回合 BP+3000。",
+    "triggerZh": "【激活】"
+  }
+}

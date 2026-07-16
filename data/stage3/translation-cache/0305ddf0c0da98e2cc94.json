@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:07.566Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0305ddf0c0da98e2cc94",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-097"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "怪人細胞",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "怪人细胞",
+    "effectZh": "可选择两张己方 AP 卡并使其激活。",
+    "triggerZh": "[最终] 若自己生命为 0，可从自己的牌库上方取一张卡置于自己的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:26.134Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5d59a1dca60f9410bbdf",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-042"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "相楽 左之助",
+    "effect": "[登場時]\nAPを1支払ってもよい。そうした場合、相手の場のフィールドを1枚まで選び、退場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "相乐 左之助",
+    "effectZh": "[登场时]\n支付 AP 为 1，即可。如此的话，选择对手场上的场地至多 1 张，使其退场。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，将其激活，本回合中 BP+3000。"
+  }
+}

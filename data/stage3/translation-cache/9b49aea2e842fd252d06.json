@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:07:26.749Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9b49aea2e842fd252d06",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-099"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "闇の三大秘宝",
+    "effect": "カードを3枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "闇之三大秘宝",
+    "effectZh": "抽 3 张牌，将我方手札中的最多 1 张置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

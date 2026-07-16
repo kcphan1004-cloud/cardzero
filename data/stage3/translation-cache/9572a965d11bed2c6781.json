@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:29:54.215Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9572a965d11bed2c6781",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-007"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーゲイツ ゴーストアーマー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Gaius Ghost Armor",
+    "effectZh": "[冲击无效]\n（与此角色战斗的角色在本场战斗中失去 [冲击]）。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

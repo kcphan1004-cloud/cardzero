@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:40.296Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cad52eb45ab51d954194",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-045"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "犬夜叉",
+    "effect": "[起動メイン]\n[ターン1]\nこのターン中にこのキャラが自分の効果でアクティブからレストになったことがある場合のみ発動できる。このキャラをアクティブにする。\n[アタック時]\nこのキャラのBPが4000以上の場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "犬夜叉",
+    "effectZh": "[啟動主]\n[回合 1]\n僅在該角色曾通過自身效果從激活狀態變為橫置狀態的當次回合內方可發動。將此角色置於激活狀態。\n[攻擊時]\n若本角色的 BP 大於或等於 4000，則抽取一張卡。",
+    "triggerZh": ""
+  }
+}

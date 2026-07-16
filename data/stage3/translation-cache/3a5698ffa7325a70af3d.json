@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:30.967Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3a5698ffa7325a70af3d",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-071"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "未来の悪魔",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見て、山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "未来的恶魔",
+    "effectZh": "[启动主阶段]\n[横置状态]\n从自己的卡组上方翻开一张，置于卡组上方或下方。",
+    "triggerZh": "[抽牌]\n抽取一张卡"
+  }
+}

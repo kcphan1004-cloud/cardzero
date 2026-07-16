@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:25.983Z",
+  "model": "qwen3.5:4b",
+  "unitId": "18e5ba58e0bd6e22d489",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-057"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "真希波・マリ・イラストリアス",
+    "effect": "[アタック時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下で消費APが1の紫の〈碇 シンジ〉を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "真希波·玛丽·伊拉图利亚斯",
+    "effectZh": "[攻击时]可将自己手札一张置出场外。如此，从自己的场外消耗AP为1、必要能量3以下、紫色的〈碇 シンジ〉最多一张以横置状态登场至自己场上。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:12.835Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7ed53996e4a22b30b535",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-033"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "最猛勝",
+    "effect": "カードを2枚引く。自分の場に〈奈落〉がある場合、相手は自身の場外にあるイベントカードを2枚望む順で自身の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "最猛胜",
+    "effectZh": "从卡组上方抽取两张卡牌。\n若自己场上存在〈奈落〉，则对手将自身场外的事件卡按顺序置于自己的卡组下方。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

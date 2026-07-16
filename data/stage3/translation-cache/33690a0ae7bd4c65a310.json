@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:42:32.197Z",
+  "model": "qwen3.5:4b",
+  "unitId": "33690a0ae7bd4c65a310",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-052"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ジェロニモ",
+    "effect": "[登場時]\nこのキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杰罗尼莫",
+    "effectZh": "[登场时] 本角色处于激活状态，则本角色的发生能量+ [赤]",
+    "triggerZh": ""
+  }
+}

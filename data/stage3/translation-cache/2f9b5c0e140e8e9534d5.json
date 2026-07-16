@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:16:54.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2f9b5c0e140e8e9534d5",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-001"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "エミコ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾米子",
+    "effectZh": "【启动主】\n【置为横置状态】\n【第 1 回合】\n本回合中，该角色的发生能量+\n[青]\n。主阶段结束时将该角色退场。",
+    "triggerZh": ""
+  }
+}

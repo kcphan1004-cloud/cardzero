@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:25:50.463Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3afa86b81ec28e331939",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-011"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "孤爪 研磨",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "孤爪 研磨",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将这张卡片加入手牌。"
+  }
+}

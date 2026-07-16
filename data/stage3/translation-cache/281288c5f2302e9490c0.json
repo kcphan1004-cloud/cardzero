@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:28:43.419Z",
+  "model": "qwen3.5:9b",
+  "unitId": "281288c5f2302e9490c0",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-AP01",
+    "UA28BT/KJ8-1-AP02",
+    "UA28BT/KJ8-1-AP03",
+    "UA28BT/KJ8-1-AP04",
+    "UA28BT/KJ8-1-AP05",
+    "UA28BT/KJ8-1-AP06",
+    "UA28BT/KJ8-1-AP07",
+    "UA28BT/KJ8-1-AP08",
+    "UA28BT/KJ8-1-AP09",
+    "UA28BT/KJ8-1-AP10",
+    "UA28BT/KJ8-1-AP11"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "アクションポイントカード(怪獣８号)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡片 (怪兽 8 号)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

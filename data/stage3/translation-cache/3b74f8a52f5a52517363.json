@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:07.561Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3b74f8a52f5a52517363",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-093"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ジーナス博士",
+    "effect": "[登場時]\n自分のライフエリアにあるカードを1枚手札に加えてもよい。そうした場合、自分の手札から必要エナジーを満たし消費APが1の赤の［特徴：進化の家］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉野博士",
+    "effectZh": "[登场时] 可将自己生命区的一张卡加入手牌。如此，可从自己的手牌中选择满足所需能量的、AP为1的红色「特征：进化之家」一张以横置状态登场。",
+    "triggerZh": ""
+  }
+}

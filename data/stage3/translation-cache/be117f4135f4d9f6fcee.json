@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:04:45.230Z",
+  "model": "qwen3.5:4b",
+  "unitId": "be117f4135f4d9f6fcee",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-AP01",
+    "UA34BT/CGD-1-AP02",
+    "UA34BT/CGD-1-AP03",
+    "UA34BT/CGD-1-AP04",
+    "UA34BT/CGD-1-AP05",
+    "UA34BT/CGD-1-AP06",
+    "UA34BT/CGD-1-AP07",
+    "UA34BT/CGD-1-AP08",
+    "UA34BT/CGD-1-AP09",
+    "UA34BT/CGD-1-AP10",
+    "UA34BT/CGD-1-AP11",
+    "UA34BT/CGD-1-AP12"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アクションポイントカード(コードギアス 奪還のロゼ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（Code Geass 夺还的罗赛）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

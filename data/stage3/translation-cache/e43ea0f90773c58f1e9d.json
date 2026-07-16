@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:58.322Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e43ea0f90773c58f1e9d",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-076"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "アイ・アム……",
+    "effect": "自分の場に〈シド・カゲノー〉がある場合、手札にあるこのカードの必要エナジーを\n[紫×2]\n減らす。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "我是……",
+    "effectZh": "若己方场上存在〈西德·卡格诺〉，将手牌中该卡的所需能量\n[紫×2]。\n选择敌方前线 L 的一张角色且 BP5000 以下，将其退场。",
+    "triggerZh": "[特殊]\n选择敌方的前线 L 中的一张卡牌并将其退场。"
+  }
+}

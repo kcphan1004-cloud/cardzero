@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:17:54.582Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a43aa1f58f60db76bdc8",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-084"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "",
+    "triggerZh": "【获得】\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:04.496Z",
+  "model": "qwen3.5:4b",
+  "unitId": "721c50e66c841d68e948",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-035"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "オレは100％負けない",
+    "effect": "自分の場の［特徴：ボウフウリン］の枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "我是绝对不会输的",
+    "effectZh": "选择我方场上［特征：防风少年］数量×1000以下BP的对手前线L角色一张，使其退场。",
+    "triggerZh": "[特殊]\n选择对手前线L角色一张，使其退场。"
+  }
+}

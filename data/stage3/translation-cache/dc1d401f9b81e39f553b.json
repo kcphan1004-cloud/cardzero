@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:56.378Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dc1d401f9b81e39f553b",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-042"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "大佛",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "大佛",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入己方手牌。"
+  }
+}

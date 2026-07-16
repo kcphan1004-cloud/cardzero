@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:03:17.404Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ae5538b6e137e46b622",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-025"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フロストノヴァ",
+    "effect": "[登場時]\n自分の手札か自分の場外から〈スノーデビル小隊〉を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "霜星",
+    "effectZh": "[登场时]\n从自己的手牌或自己场外选择至多 1 张〈雪魔小队〉以横置状态登场。",
+    "triggerZh": ""
+  }
+}

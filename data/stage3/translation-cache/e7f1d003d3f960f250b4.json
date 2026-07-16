@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:02.803Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e7f1d003d3f960f250b4",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-072"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "蔵馬",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "藏马",
+    "effectZh": "[登场时]\n抽 1 张牌。",
+    "triggerZh": "[颜色]\n选择 BP2500 以下的对手前线 L 的角色 1 枚，使其退场。"
+  }
+}

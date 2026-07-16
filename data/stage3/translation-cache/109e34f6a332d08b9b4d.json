@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:52:52.243Z",
+  "model": "qwen3.5:4b",
+  "unitId": "109e34f6a332d08b9b4d",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-066"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "出雲 天花",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出雲 天花",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+[绿]。",
+    "triggerZh": ""
+  }
+}

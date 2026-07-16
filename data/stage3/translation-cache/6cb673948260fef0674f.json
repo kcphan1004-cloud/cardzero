@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:46:04.024Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6cb673948260fef0674f",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-041"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "パトラッシュ",
+    "effect": "[自分のターン中]\n自分のフロントLに必要エナジーが0の青の〈ナツキ・スバル〉がある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "帕特拉修",
+    "effectZh": "[本回合中]\n若己方前线L有BP+0的蓝色〈纳奇·斯波义林〉，则该角色BP+1000。",
+    "triggerZh": "[激活]\n选择场地一张角色进行激活，本回合内BP+3000。"
+  }
+}

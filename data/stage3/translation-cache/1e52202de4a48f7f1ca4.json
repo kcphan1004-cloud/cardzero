@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:46.212Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1e52202de4a48f7f1ca4",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-032"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "朝倉",
+    "effect": "[登場時]\nカードを1枚引き、自分の山札の上から1枚を表向きにする。この効果で表向きではないカードを引いた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "朝仓",
+    "effectZh": "[登场时] 抽一张卡，从自己的牌库上方翻开一张表侧放的卡。若此效果抽到的不是表侧放的卡，则把手札的一张卡放到场外。",
+    "triggerZh": "[抽取]\n抽一张卡"
+  }
+}

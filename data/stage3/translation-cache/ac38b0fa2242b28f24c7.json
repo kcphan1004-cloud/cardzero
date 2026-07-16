@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:26:42.156Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ac38b0fa2242b28f24c7",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-072"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "水無瀬 あかり",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[緑]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "水无濑明里",
+    "effectZh": "【启动主阶段】\n[变为横置]\n[回合 1]\n本回合中，该角色获得 [绿色] \n以及“主阶段结束时，将该角色退场。”",
+    "triggerZh": ""
+  }
+}

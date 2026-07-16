@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:59:52.647Z",
+  "model": "qwen3.5:4b",
+  "unitId": "998b188e4e2b675a5ca2",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-087"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "[自分のターン中]\nこのキャラとのバトルで敗北した相手のキャラは、退場する代わりにエナジーLに移動する。（移動させる時にエナジーLに空きがない場合、相手はエナジーLのカードを1枚選んでリムーブエリアに置いてから移動させる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "緋村 剣心",
+    "effectZh": "[本家回合]\n与本家的战斗败北的对方角色，以离场代替移动到能量线 L。（移动时若能量线 L 没有空位，则让对方从能量线 L 选择一张卡移至弃牌区后再移动）",
+    "triggerZh": ""
+  }
+}

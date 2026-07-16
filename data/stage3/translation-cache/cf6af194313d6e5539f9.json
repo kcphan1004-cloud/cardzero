@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:13.833Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cf6af194313d6e5539f9",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-038"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "選別試験",
+    "effect": "自分の山札の上から4枚見る。その中から必要エナジーが4以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させるかレイドさせる。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "筛选测试",
+    "effectZh": "查看自己牌库上方的 4 张卡。从中选择最多 1 张消耗 AP 为 1、所需能量在 4 以下的黄色角色卡，以横置状态登场或进入 Raid。将剩余的卡按任意顺序放回自己的牌库下方。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:25.978Z",
+  "model": "qwen3.5:4b",
+  "unitId": "48a2c5548f31df1e7108",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-095"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "嚙みまみた",
+    "effect": "カードを2枚引く。\nこのカードが自分の効果でリムーブエリアに置かれた時、カードを1枚まで引く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "嚙みまみた",
+    "effectZh": "抽卡 2 张。\n本卡片因己方效果放置至弃牌区时，可额外抽卡 1 张。",
+    "triggerZh": "[颜色]\n选择敌方 BP2500 以下的正面 L 位角色一张并使其离场"
+  }
+}

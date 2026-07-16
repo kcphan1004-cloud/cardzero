@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:08:46.840Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc209e2f7878110c9b71",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-053"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ニアール",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尼尔尔",
+    "effectZh": "【无效冲击】（与此角色进行战斗的角色在本战斗中失去【冲击】）",
+    "triggerZh": ""
+  }
+}

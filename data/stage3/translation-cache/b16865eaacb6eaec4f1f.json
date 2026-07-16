@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:59.817Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b16865eaacb6eaec4f1f",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-035"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "不公平だろう？",
+    "effect": "カードを1枚引く。自分の場に特徴に「UNDER」を持つ〈ビリー〉がある場合、相手は自身の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "这不公平吧？",
+    "effectZh": "抽 1 张牌。若自己的场上有特征“UNDER”的〈比利〉，则对手必须将自身的手牌中最多选择 1 张置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

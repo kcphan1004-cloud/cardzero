@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:51:50.849Z",
+  "model": "qwen3.5:9b",
+  "unitId": "89e87aaac6affab50415",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-070"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "鉄平",
+    "effect": "[登場時]\n相手の場のキャラを1枚まで選び、次の自分のターン開始時まで、「このキャラは移動できない。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铁平",
+    "effectZh": "[登场时]\n选择对方场上的角色最多 1 枚，直到下一个自己回合开始为止给予“该角色无法移动。”",
+    "triggerZh": ""
+  }
+}

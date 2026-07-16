@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:09.147Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ce368f25f022a13175bd",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-046"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "水篠 旬",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、〈水篠 旬〉か〈デイリークエスト〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "水筱旬",
+    "effectZh": "[登场时]\n从己方山牌上方翻开四张，将「水筱旬」或「每日挑战」中的一张公开并加入手牌。其余的按任意顺序置于山牌下方。将该卡加入手牌后，将己方手牌中一张卡置于场外。",
+    "triggerZh": ""
+  }
+}

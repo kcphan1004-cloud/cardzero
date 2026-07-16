@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:04:45.686Z",
+  "model": "qwen3.5:9b",
+  "unitId": "88ae10e9b70a7ce2ca79",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-022"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "シャイ",
+    "effect": "このキャラは相手の効果でレストにならず、BPをマイナスする効果を受けない。\n[自分のターン中]\n自分の場に〈スピリッツ〉がある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "腼腆英雄·夏伊",
+    "effectZh": "此角色不会被对手的效果置为横置状态，也不会受到减少 BP 的效果。\n[自己的回合中]\n自己场上有〈精灵〉时，此角色的 BP+500。",
+    "triggerZh": ""
+  }
+}

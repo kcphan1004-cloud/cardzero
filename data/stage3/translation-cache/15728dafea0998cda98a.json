@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:23.869Z",
+  "model": "qwen3.5:4b",
+  "unitId": "15728dafea0998cda98a",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-040"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "りんの命と引きかえに得るものなど―なにもない!!",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "以琳之命换取之物等——一无所有!!",
+    "effectZh": "选择你的两张 AP 卡，并将其激活。",
+    "triggerZh": "[最终]\n如果你的生命值为零，从你卡组上方取一张牌并放置到你的生命区域"
+  }
+}

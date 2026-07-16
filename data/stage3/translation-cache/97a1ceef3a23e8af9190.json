@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:10:21.503Z",
+  "model": "qwen3.5:9b",
+  "unitId": "97a1ceef3a23e8af9190",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-057"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ディヴィー",
+    "effect": "このカードは〈スターダスト〉としても扱う。\n[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "迪维",
+    "effectZh": "将此卡作为〈星尘〉处理。\n【启动主阶段】\n【将手札中的 1 张置入场外】\n【回合 1】\n该角色在本回合中 BP+1500。",
+    "triggerZh": "【抽卡】\n抽 1 张牌。"
+  }
+}

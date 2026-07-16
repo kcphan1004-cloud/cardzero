@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:14.368Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3a34b952b1bebf24714a",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-054"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "クリストフ・シザーマン",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場の他のキャラを1枚退場させる。そうした場合、このキャラはこのターン中、BP+2500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克里斯托夫·齐泽曼",
+    "effectZh": "[启动主阶段]\n[回合1]\n将自己场上的其他角色中的一张离场。如此，本角色在本回合中获得BP+2500的效果。",
+    "triggerZh": "[抽牌]\n抽一张卡。"
+  }
+}

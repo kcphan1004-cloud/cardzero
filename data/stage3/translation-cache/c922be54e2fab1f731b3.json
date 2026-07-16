@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:14:12.605Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c922be54e2fab1f731b3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-004"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "シェリル・ノーム",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から〈シェリル・ノーム〉を望む枚数場外に置く。残りを望む順で自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "谢莉尔·诺姆",
+    "effectZh": "[登场时]\n从自己牌库上方看 2 张卡。从中望向〈谢莉尔·诺姆〉的枚数场外放置。剩余按愿望顺序放在自己的牌库上方。",
+    "triggerZh": ""
+  }
+}

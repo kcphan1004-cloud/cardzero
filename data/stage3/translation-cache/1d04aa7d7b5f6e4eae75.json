@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:16:06.878Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1d04aa7d7b5f6e4eae75",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-012"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "瀧 翠理",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泷 翠理",
+    "effectZh": "[登场时]\n将自身场上其他能量为 1 以下的角色返回手牌。若无法返回，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

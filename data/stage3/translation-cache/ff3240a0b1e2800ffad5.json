@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:48.370Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ff3240a0b1e2800ffad5",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GIM-2-027"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "花海 咲季",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花海 咲季",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+【黄】。",
+    "triggerZh": ""
+  }
+}

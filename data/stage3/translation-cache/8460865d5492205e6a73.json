@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:05.395Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8460865d5492205e6a73",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-024"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ネメシス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "涅墨西斯",
+    "effectZh": "",
+    "triggerZh": "[获取]将此卡加入手札。"
+  }
+}

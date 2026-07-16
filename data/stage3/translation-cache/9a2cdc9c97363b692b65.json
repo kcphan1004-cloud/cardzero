@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:12:57.279Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9a2cdc9c97363b692b65",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-060"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "モダニア",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "莫迪亚娜",
+    "effectZh": "[登场时]\n选择对方前线L的1名角色，本回合中BP-1000。",
+    "triggerZh": "[激活]\n选择自己场上的1名角色并使其处于激活状态，本回合中BP+3000。"
+  }
+}

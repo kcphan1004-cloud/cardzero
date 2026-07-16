@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:03:30.709Z",
+  "model": "qwen3.5:9b",
+  "unitId": "abe0af5b1f8e0274f329",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-056"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "姫崎 莉波",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姬崎 莉波",
+    "effectZh": "【登场时】\n将自己场上的其他必要能量为1以下的角色选至多1张放回手牌。若无法如此操作，则将此角色放回手牌。",
+    "triggerZh": ""
+  }
+}

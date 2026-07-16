@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:20:23.716Z",
+  "model": "qwen3.5:4b",
+  "unitId": "acc0d4cee427e2900fcf",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/AOT-1-075"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アルミン・アルレルト",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔敏·阿勒福特",
+    "effectZh": "[登场时]\n抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

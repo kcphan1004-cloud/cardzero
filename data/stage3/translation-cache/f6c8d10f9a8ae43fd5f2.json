@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:42.106Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6c8d10f9a8ae43fd5f2",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-081"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "飛影",
+    "effect": "[自分のターン中]\nこのターン中に自分が使用したイベントカード1枚につき、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "飞影",
+    "effectZh": "[在自己的回合中]\n本回合内，每使用 1 张事件卡，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

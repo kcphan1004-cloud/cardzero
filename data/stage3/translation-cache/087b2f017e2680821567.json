@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:01.776Z",
+  "model": "qwen3.5:9b",
+  "unitId": "087b2f017e2680821567",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-069"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ユニロード",
+    "effect": "[登場時]\n自分の場の必要エナジーが4以上のアクティブの［特徴：ヒーロー］を1枚レストにしてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "尤尼罗德",
+    "effectZh": "[登场时]\n可选择将场上必要能量为4以上的激活的［特征：英雄］横置。如此做的话，选择对方前线L的角色最多1张并使其横置。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

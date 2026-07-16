@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:57.787Z",
+  "model": "qwen3.5:4b",
+  "unitId": "30d29a8f30826c8fc521",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-001",
+    "UA35BT/OPM-1-001"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ボンブ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "邦布",
+    "effectZh": "[登场时]\n选择自己场上的一张其他角色，本回合 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上一张角色，将其激活，本回合 BP+3000。"
+  }
+}

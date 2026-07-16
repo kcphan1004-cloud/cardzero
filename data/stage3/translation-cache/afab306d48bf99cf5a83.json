@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:45:17.929Z",
+  "model": "qwen3.5:9b",
+  "unitId": "afab306d48bf99cf5a83",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-085",
+    "UA19BT/HIQ-1-085"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "日向 翔陽",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "日向翔阳",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

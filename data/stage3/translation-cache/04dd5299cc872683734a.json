@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:21:28.333Z",
+  "model": "qwen3.5:4b",
+  "unitId": "04dd5299cc872683734a",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/ARK-1-045"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ケルシー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "凯尔西",
+    "effectZh": "",
+    "triggerZh": "[抽牌] 将此卡加入手牌。"
+  }
+}

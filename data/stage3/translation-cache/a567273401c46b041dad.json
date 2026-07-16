@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:12.660Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a567273401c46b041dad",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-067"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "冥加",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "冥加",
+    "effectZh": "[登场时]\n将自己场上其他一张角色卡（需消耗1点以下能量）送回手札。若无法执行，则将此卡片送回手札。",
+    "triggerZh": ""
+  }
+}

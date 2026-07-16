@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:43.687Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0eeddd37bda9f5834305",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-063"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "悪・即・斬",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "悪・即・斬",
+    "effectZh": "选择自己场上的AP角色最多2张，将其激活。",
+    "triggerZh": "[最终]若自己的生命值为空，从你的牌库上方抽一张卡放入自己的生命区"
+  }
+}

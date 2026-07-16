@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:02:47.648Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5cfb433719ca480f9c94",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-010"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "クフフ",
+    "effect": "[自分のターン中]\nこのターン中に自分がイベントカードを使用している場合、このキャラは「このキャラはBP3000以下のキャラにブロックされない。」を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "库夫库夫",
+    "effectZh": "【自己的回合中】\n本回合内自己使用了事件卡的情况下，该角色获得「不会被 BP 3000 以下的角色阻挡。」。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:51:50.845Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e253e5b851b1f08e48a7",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-066"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "BBコーン",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+2000。自分の場に〈トリコ〉か〈テリークロス〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "BB 玉米",
+    "effectZh": "选择自己场上的角色最多 1 枚，本回合中 BP+2000。如果自己的场上有〈特瑞科〉或〈特里克罗斯〉，从自己的 AP 卡中选择最多 1 枚并激活。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:27:55.556Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1ba452ec2f3782fec6ed",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-066"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "ミリエラ 天使空挺隊/美花莉",
+    "effect": "[起動メイン]\n[レストにする]\n自分のフロントLとエナジーLの［特徴：天使空挺隊］を1枚ずつ選び、それらの位置を入れ替える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "美花莉 天使空挺队/米蕾拉",
+    "effectZh": "[启动主]\n[横置]\n选择自己前线 L 和能量线 L 的［特征：天使空挺队］各一张，交换它们的位置。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

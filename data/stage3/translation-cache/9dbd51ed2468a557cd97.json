@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:42:31.481Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9dbd51ed2468a557cd97",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-008"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ココ",
+    "effect": "[登場時]\n自分の山札の上から1枚を公開する。公開したカードが［特徴：美食四天王］の場合、そのカードを手札に加える。公開したカードが［特徴：美食四天王］以外の場合、自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "可可",
+    "effectZh": "[登场时]\n从自己的牌库上方公开 1 张卡。若公开的卡为［特征：美食四天王］，则将该卡加入手牌。若公开的卡并非［特征：美食四天王］，则将其置于自己牌库的上方。",
+    "triggerZh": ""
+  }
+}

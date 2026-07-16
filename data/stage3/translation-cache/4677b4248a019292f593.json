@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:05.399Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4677b4248a019292f593",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-027"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ピークア・ブー",
+    "effect": "[自分のターン中]\n相手の場外に\n[スペシャルトリガー]\nを持つカードが2枚以上ある場合、このキャラはBP+2500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "皮克·布",
+    "effectZh": "[在自己的回合中]\n若对手的场外拥有 2 张以上持有［Special Trigger（特殊触发）］的卡牌，则该角色的 BP+2500。",
+    "triggerZh": "[Active]选择自己场上的角色一张，设为 Active（激活），本回合内给予其『BP+3000』。"
+  }
+}

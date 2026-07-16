@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:57:01.207Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4f7bb13e84860b8f4ade",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-024"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アッシュ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n自分の場に〈ラズベリー〉がある場合、このキャラは「\n[アタック時]\nカードを1枚まで引く。」を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿修",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本场战斗中失去\n[冲击]）\n若自己场上存在「覆面少女」，则该角色获得「\n[攻击时]\n抽一张牌。」。",
+    "triggerZh": "[激活状态]\n选择自己场上的一个角色进行激活，本回合中给予 BP+3000。"
+  }
+}

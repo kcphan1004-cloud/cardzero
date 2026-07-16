@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:54:58.027Z",
+  "model": "qwen3.5:4b",
+  "unitId": "356e546c357926429047",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-012"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "りん",
+    "effect": "[登場時]\n自分の場に〈殺生丸〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "凛 (后)",
+    "effectZh": "[登场时] 若己方场上有〈杀生丸〉，则抽一张牌。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

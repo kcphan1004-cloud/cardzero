@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:09:40.304Z",
+  "model": "qwen3.5:9b",
+  "unitId": "41b4282afd7662b4e220",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-073"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "初星学園",
+    "effect": "[登場時]\n自分の山札の上から6枚見る。その中から必要エナジーが3以下のキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "初星学園",
+    "effectZh": "[登场时]\n查看自己山札上方的 6 张卡。从中最多公开一张必要能量在 3 以下的角色卡并加入手牌。将剩余的卡按任意顺序置于自己的山札下方。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

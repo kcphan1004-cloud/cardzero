@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:10.137Z",
+  "model": "qwen3.5:4b",
+  "unitId": "952aba6bc3a68a70b9ce",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-071"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ルーデウス",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鲁迪乌斯",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本场战斗中失去冲击）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:58.119Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a418351de861a6ab931b",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-070"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "田中",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "田中",
+    "effectZh": "[无效化冲击]\n（此角色与此角色战斗期间，\n[冲击]无法失去）",
+    "triggerZh": "[抽牌]抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:51.331Z",
+  "model": "qwen3.5:4b",
+  "unitId": "299e4ddb460cf93ed7db",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-043"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "金属バット",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "金属棒 (OPM-043)",
+    "effectZh": "[步骤]\n（可将自己的移动阶段中从前线 L 移动到能量 L）",
+    "triggerZh": "[颜色]"
+  }
+}

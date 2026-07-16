@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:39.386Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cb2c250b1798432db93f",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-037"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "命の神水",
+    "effect": "自分の場外から元々のBPが4000以下のキャラカードを1枚まで手札に加える。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "神之命水",
+    "effectZh": "从自己的场外观卡最多将原本BP为4000以下的角色卡1张加入手札。抽1张牌。",
+    "triggerZh": "[抽取] 抽1张牌"
+  }
+}

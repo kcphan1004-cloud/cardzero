@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:45:17.928Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1387ceff2f10098473d7",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-083",
+    "UA19BT/HIQ-1-083"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "月島 蛍",
+    "effect": "[ブロック時]\n自分の手札が1枚以下の場合、このキャラはこのターン中、BP+2000。〈月島 蛍〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "月岛萤",
+    "effectZh": "[阻挡时]\n若自己手牌为 1 张或更少，则该角色在本回合 BP+2000。<月岛 萤>的此效果每回合仅能发动一次。",
+    "triggerZh": ""
+  }
+}

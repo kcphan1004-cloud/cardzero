@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:26:37.968Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c7f6647d81ca2ef102f",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-065"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "ミリエラ 天使空挺隊/美花莉",
+    "effect": "[自分のターン中]\n自分の場に他の［特徴：天使空挺隊］が3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "米莉艾拉 天使空挺队/美花莉",
+    "effectZh": "[自己的回合中]\n自己场上有其他［特征：天使空挺队］3 枚以上存在的情况下，该角色 BP+1000。",
+    "triggerZh": "[抽牌]\n抽牌 1 张。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:25:01.002Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2137710c522fae648d75",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-042"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "黒仮面",
+    "effect": "[アタック時]\n相手のフロントLのキャラを1～2枚選び、このターン中、BP-500してもよい。そうした場合、このキャラは次の1回アクティブにならない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑面具",
+    "effectZh": "[攻击时]\n选择对方前线 L 的 1～2 名角色，本回合中即使 BP-500 也可以。如此做的话，该角色在接下来的一次激活不会发生。\n\n触发：\n抽牌。\n从牌库上方抽取一张牌。",
+    "triggerZh": "[抽]\n将这张卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:01:53.700Z",
+  "model": "qwen3.5:9b",
+  "unitId": "eb20faf93ec705cd9712",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-042"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "有村 麻央",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有村麻央",
+    "effectZh": "当角色处于激活状态时，该角色的产生能量 +\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

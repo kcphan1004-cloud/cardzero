@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:07.374Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5b355287a45862d0489f",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-053"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "西連寺 春菜",
+    "effect": "[レイド]\n〈西連寺 春菜〉アクティブにし、フロントLに移動できる\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n〈西連寺 春菜〉以外の自分のフロントLのキャラを1枚選ぶ。そうした場合、そのキャラをこのターン中、BP+1000し、カードを1枚引く。",
+    "trigger": "[レイド]\nこのカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。"
+  },
+  "translation": {
+    "nameZh": "西连寺 春菜",
+    "effectZh": "[雷击]<br>将「<span class=\"highlight\">西连寺 春菜</span>」激活，可将其移动至前线L。<br><br>[启动主]<br><br>[当前位于前线L时]<br><br>[回合1]<br>选择自己除<span class=\"highlight\">西连寺 春菜</span>外的其他一张前线L角色。如此操作的话，该角色的BP+1000，并抽一张牌。",
+    "triggerZh": "[雷击]<br>将该卡加入手札或满足必要能量的情况下，进行雷击。"
+  }
+}

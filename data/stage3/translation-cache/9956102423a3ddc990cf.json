@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:33:48.314Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9956102423a3ddc990cf",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-012"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "栄逢 凪乃",
+    "effect": "自分の場にキャラが3枚以上ある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "荣逢 凪乃",
+    "effectZh": "自己场上有3张以上角色时，将手牌中这张卡的必要能量\n[黄×1]\n减少。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

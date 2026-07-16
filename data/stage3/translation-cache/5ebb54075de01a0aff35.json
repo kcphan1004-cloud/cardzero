@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:42:45.525Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5ebb54075de01a0aff35",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-041"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "王賁",
+    "effect": "[アタック時]\nAPを1支払ってもよい。そうした場合、このキャラはこのターン中、BP+2500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "王贲",
+    "effectZh": "[攻击时]\n支付 1 AP，也可以。如此的话，本角色在本回合中 BP+2500。",
+    "triggerZh": ""
+  }
+}

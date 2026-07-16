@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:01.651Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3998734834c2f3f440ae",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-056"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "プロデュースって大変ね",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "制作真的很辛苦呢",
+    "effectZh": "选择至多2张你的AP卡并激活它们。",
+    "triggerZh": "[最终]\n若你无生命点数，则从牌库上方抽一张置于你的生命区。"
+  }
+}

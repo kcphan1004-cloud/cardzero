@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:25:18.041Z",
+  "model": "qwen3.5:9b",
+  "unitId": "39f222e83204fc88c5a8",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-054"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "753♡",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "753♡",
+    "effectZh": "当角色处于激活状态时，该角色的产生能量 +[蓝]。",
+    "triggerZh": ""
+  }
+}

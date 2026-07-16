@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:39:49.258Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6af9cac61fded8528df3",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-039"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "車力の巨人",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "车力巨人",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上的其他角色至多一张返回手牌。若无法返回，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

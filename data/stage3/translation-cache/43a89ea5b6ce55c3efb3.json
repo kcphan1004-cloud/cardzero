@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:15:39.522Z",
+  "model": "qwen3.5:4b",
+  "unitId": "43a89ea5b6ce55c3efb3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-015"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中からイベントカードを1枚まで場外に置く。残りを望む順で自分の山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兰卡·蕾",
+    "effectZh": "登场时,<br>从自己的牌库上方看2张，从中选择1张事件卡将其放置于场外。将剩余的按任意顺序放回自己牌库上方。",
+    "triggerZh": ""
+  }
+}

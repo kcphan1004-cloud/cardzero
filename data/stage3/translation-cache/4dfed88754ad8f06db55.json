@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:49.800Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4dfed88754ad8f06db55",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-058"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "蘇枋 隼飛",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[自分のターン中]\n自分の場に\n[インパクト無効]\nを持つ他のキャラがある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "苏枋 隼飞",
+    "effectZh": "[冲击无效](与该角色战斗的角色在本场战斗中失去 [冲击])<br>[己方回合中]若己方场上存在拥有 [冲击无效]的其他角色，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

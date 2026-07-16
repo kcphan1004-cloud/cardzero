@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:45:00.564Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b37f324a90e726ba9914",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SYN-1-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ノワール",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑龙（诺拉）",
+    "effectZh": "[登场时] 抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[触发]\n抽一张牌。"
+  }
+}

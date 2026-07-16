@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:29.285Z",
+  "model": "qwen3.5:4b",
+  "unitId": "780aa9e2336817f3cc2a",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-068",
+    "UA41BT/RNK-1-068"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "神谷 薫",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "神谷薰",
+    "effectZh": "[登场时] 抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:07.620Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c5228e4ad55105bf8fe",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-004"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "早乙女 和子",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "早乙女 和子",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 枚，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

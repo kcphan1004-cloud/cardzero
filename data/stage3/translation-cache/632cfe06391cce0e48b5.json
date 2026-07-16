@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:11.477Z",
+  "model": "qwen3.5:4b",
+  "unitId": "632cfe06391cce0e48b5",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-047"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ジェノス",
+    "effect": "[自分のターン中]\n自分の手札にある全ての〈サイタマ〉の必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杰诺斯",
+    "effectZh": "[己方回合中],减少自己手牌中的所有<埼玉>的必要能量[绿×1]。",
+    "triggerZh": "[抽取],抽一张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:42:25.310Z",
+  "model": "qwen3.5:9b",
+  "unitId": "739fd696a2705b169a29",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-052"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アニ・レオンハート",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尼·莱昂哈特",
+    "effectZh": "这个角色激活时，该角色的发生能量+\n[绿]\n。",
+    "triggerZh": ""
+  }
+}

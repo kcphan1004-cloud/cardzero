@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:04:02.056Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f3fce610a68acde2e77c",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-010"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "アンネローゼ・フシアナス",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "安妮罗泽·菲亚努萨斯",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取一张卡牌"
+  }
+}

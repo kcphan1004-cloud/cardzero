@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:51.532Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd58d6a7c32dda3934bd",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-037"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ナツキ・スバル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[青]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "纳奇克·斯巴鲁",
+    "effectZh": "[启动主侧]\n将横置改为\n[第1回合]\n该角色在本回合中获得发生能量+\n[青]以及「在主侧阶段结束时，将该角色离场」的效果。",
+    "triggerZh": ""
+  }
+}

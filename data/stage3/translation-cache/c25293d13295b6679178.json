@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:35:18.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c25293d13295b6679178",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-060"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "山形 隼人",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "山形隼人",
+    "effectZh": "[无效冲击]\n（与此角色进行战斗的角色在本场战斗中失去\n[Impact]）",
+    "triggerZh": ""
+  }
+}

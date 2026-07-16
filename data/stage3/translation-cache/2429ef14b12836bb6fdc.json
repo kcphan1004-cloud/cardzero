@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:09:30.097Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2429ef14b12836bb6fdc",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-004"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "デンジ",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[紫×2]\n減らす。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "电次",
+    "effectZh": "若己方场上无卡，则减少手牌中此卡的必要能量\n[紫×2]\n。\n[登场时] 抽一张牌，将己方手牌的一张置于场外。",
+    "triggerZh": "[激活状态]\n选择己方场上的一个角色进行激活，本回合 BP+3000。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:17.878Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dad8eace892ff7948ea1",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-016",
+    "UA40BT/REZ-1-016"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+[黄]。",
+    "triggerZh": ""
+  }
+}

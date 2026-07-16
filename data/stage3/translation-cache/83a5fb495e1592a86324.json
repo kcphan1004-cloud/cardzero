@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:47:26.051Z",
+  "model": "qwen3.5:4b",
+  "unitId": "83a5fb495e1592a86324",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-111"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "李牧",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。\n[起動メイン]\n[レストにする]\n[ターン1]\n自分のエナジーLのカードを1枚選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "李牧",
+    "effectZh": "登场时\n从牌库上方抽取一张，将手牌中的一张置于场外。\n启动主阶段\n[横置]\n[回合 1]\n选择己方能量 L 的一张卡并激活。",
+    "triggerZh": "抽一张"
+  }
+}

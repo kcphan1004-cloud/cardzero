@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:33:32.629Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b5dbfc5d72b4cd6b14de",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KIN-1-048"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "キン肉マン",
+    "effect": "このカードはフロントLに登場できない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "キン肉マン",
+    "effectZh": "本卡不能登场至前线L。",
+    "triggerZh": ""
+  }
+}

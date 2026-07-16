@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:47:28.555Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aeb0c0c96d05581574c5",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-083"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジャン・キルシュタイン",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "让·基尔希斯坦",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽一张卡。"
+  }
+}

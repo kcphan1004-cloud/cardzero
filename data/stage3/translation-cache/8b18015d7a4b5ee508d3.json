@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:12.948Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8b18015d7a4b5ee508d3",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-063"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "鷲匠 鍛治",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このフィールドの発生エナジー+\n[青]\n。メインフェイズ終了時、このフィールドを退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "鹰匠 锻治",
+    "effectZh": "【启动主】\n【横置状态】\n【回合1】\n本回合中，该场地的发生能量+\n【青】。\n主阶段结束时，将该场地退场。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

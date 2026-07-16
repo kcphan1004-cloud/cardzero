@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:32:02.195Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f2b5be39e6943024ae3c",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-004"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "鹿沼 稔",
+    "effect": "[起動メイン]\n[レストにする]\nこのカードと自分の場外にある〈有馬 雪成〉を1枚リムーブエリアに置く。そうした場合、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鹿沼 稔",
+    "effectZh": "[激活主效果]\n将横置状态\n从这张卡与手牌中的〈有马 雪成〉1张移动到场地外。如此操作，抽至多1张牌。",
+    "triggerZh": "[触发]\n抽1张牌"
+  }
+}

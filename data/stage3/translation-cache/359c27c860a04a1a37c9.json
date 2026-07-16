@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:57:03.649Z",
+  "model": "qwen3.5:9b",
+  "unitId": "359c27c860a04a1a37c9",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-097",
+    "UA23BT/AOT-1-097"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "心臓を捧げよ！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "献出心脏！",
+    "effectZh": "选择至多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方取 1 张牌放置于自己的生命区域。"
+  }
+}

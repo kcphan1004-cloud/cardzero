@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:15:39.521Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c4ad59375938f363a42a",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-014"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "自分の場外に黄の［特徴：歌（ランカ）］のカード名が3種類以上ある場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "兰卡·蕾",
+    "effectZh": "如果自己的场外拥有3种以上黄色的 [特征：歌（兰）] 卡片名称，该角色获得 BP+1500。",
+    "triggerZh": "[抽]<br>抽取一张牌"
+  }
+}

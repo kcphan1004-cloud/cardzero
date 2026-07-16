@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:54.773Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5bb3a0188eb45272d36f",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-025"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "金色の闇",
+    "effect": "相手の場にBP4000以上のキャラがある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金色之暗",
+    "effectZh": "若对手场上有BP为4000以上的角色，则该角色的BP+500。",
+    "triggerZh": ""
+  }
+}

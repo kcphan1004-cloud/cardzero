@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:02.333Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d0d1aa90e85ccb28ac46",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-100"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "もう逃がしてあげないから！",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈エミリア〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "不再放过你！",
+    "effectZh": "选择对手场上 BP3000 以下的角色卡一张，将其离场。若己方场地上有〈艾蜜莉亚〉存在，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手场上的角色卡一张，使其离场。"
+  }
+}

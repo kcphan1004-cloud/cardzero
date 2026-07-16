@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:33.237Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a0b6451fa90ad1378333",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-036"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "すべてはあの",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "皆为那个",
+    "effectZh": "选择己方 AP 卡至多两张并激活。",
+    "triggerZh": "[最终]\n若己方生命值为零，则从己方牌库上方取一张置于己方生命区"
+  }
+}

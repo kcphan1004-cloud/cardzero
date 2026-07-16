@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:01:50.016Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c6baebf435c75e9617b4",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-039"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "七煌星団のエース",
+    "effect": "『BP2000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈琉高 ハルカ〉か〈蛍雪〉がある場合、『BP4000以下』に代わり、さらに自分の場に必要エナジーが3以下の［特徴：KMF］があるなら、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "七煌星团王牌",
+    "effectZh": "选择对手场上BP2000以下的Front L角色卡1枚并让其离场。\n若你场上有〈琉高 春香〉或〈萤雪〉，则『BP2000以下』改为『BP4000以下』；且若你的场上还有必要能量为3以下的［特征：KMF］，则『BP4000以下』再改为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对手场上的Front L角色卡1枚并让其离场。"
+  }
+}

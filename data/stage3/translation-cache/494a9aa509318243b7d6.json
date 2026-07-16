@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:09:30.094Z",
+  "model": "qwen3.5:4b",
+  "unitId": "494a9aa509318243b7d6",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-003"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "デンジ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "电次",
+    "effectZh": "[激活主阵] [横置状态][回合 1]\n本角色在本回合中，发生能量+\n[紫]\n并获得「主阵结束时，使本角色离场」。",
+    "triggerZh": ""
+  }
+}

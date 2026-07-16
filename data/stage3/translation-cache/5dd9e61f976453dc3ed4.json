@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:51:28.118Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5dd9e61f976453dc3ed4",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-052"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "和倉 青羽",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "和仓 青羽",
+    "effectZh": "[登场时]\n从己方卡组上方翻开一张，置于卡组上方或场外。",
+    "triggerZh": ""
+  }
+}

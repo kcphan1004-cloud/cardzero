@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:56.559Z",
+  "model": "qwen3.5:4b",
+  "unitId": "88902f1126fa7c655b90",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/REZ-1-086"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "エミリア",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾米莉亚",
+    "effectZh": "当该角色处于激活状态时，将该角色的生成能量+\n[紫]。",
+    "triggerZh": ""
+  }
+}

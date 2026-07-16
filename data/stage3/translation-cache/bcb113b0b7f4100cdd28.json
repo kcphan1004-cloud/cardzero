@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:17.129Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bcb113b0b7f4100cdd28",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-059"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "イプシロン",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、望む順で山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊普西龙牌组，置于卡组上方",
+    "effectZh": "[登场时]\n从自己的卡组上方看 3 张，按任意顺序将其置于自己卡组的上方。\n\n[启动主阶段]",
+    "triggerZh": ""
+  }
+}

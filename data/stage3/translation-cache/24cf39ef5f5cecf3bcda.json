@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:47:41.015Z",
+  "model": "qwen3.5:4b",
+  "unitId": "24cf39ef5f5cecf3bcda",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TOA-1-016"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "フルル",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "芙萝拉",
+    "effectZh": "[登场时],抽一张卡，将你的手牌中一张卡置于场外。,",
+    "triggerZh": "[抽取]\n抽一张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:26:42.157Z",
+  "model": "qwen3.5:9b",
+  "unitId": "795fd50bbad858071f73",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-073"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "モンスタースイーパー（株）",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下の〔〈日比野 カフカ〉か〈市川 レノ〉〕を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "怪兽清扫（株）",
+    "effectZh": "【登场时】\n也可将自己的一张手牌置为场外。如此操作时，可从自己场外将 [〈日比野カフカ〉或〈市川レノ〉] 中最多 1 张且必要能量在 3 以下的卡加入手牌。",
+    "triggerZh": "获取"
+  }
+}

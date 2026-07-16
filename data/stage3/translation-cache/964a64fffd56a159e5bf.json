@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:54:23.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "964a64fffd56a159e5bf",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-083"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ブランチ",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "布兰奇",
+    "effectZh": "[登场时]\n选择对方前线 L 的角色最多一张，本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

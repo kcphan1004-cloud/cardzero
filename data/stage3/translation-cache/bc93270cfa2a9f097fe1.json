@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:16.501Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bc93270cfa2a9f097fe1",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-113"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "キング・ブラッドレイ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、「このキャラは、相手のトリガーの効果で選ばれない。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "金·布拉德雷",
+    "effectZh": "[登场时] 从自己的场上最多选择一名其他角色，给予其「在本回合中不会被对手的触发器效果选中」的效果。",
+    "triggerZh": "[抽牌] 抽取一张卡片"
+  }
+}

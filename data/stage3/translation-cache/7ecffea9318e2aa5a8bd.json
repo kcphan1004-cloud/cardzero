@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:43:29.448Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ecffea9318e2aa5a8bd",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-054"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ベルトルト・フーバー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "贝尔托特·胡佛",
+    "effectZh": "[启动主效果]\n[横置状态]\n[回合 1]\n本回合中，此角色的产生能量增加。\n[绿]\n主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

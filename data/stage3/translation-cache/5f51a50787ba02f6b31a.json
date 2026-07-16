@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:46:49.887Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5f51a50787ba02f6b31a",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-023"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "秦谷 美鈴",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "秦谷 美铃",
+    "effectZh": "[登场时]\n抽取一张卡。",
+    "triggerZh": "[颜色]\n选择对手前线L的一张BP在3500以下的角色并将其返回手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:19:29.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "315bca5f58de149876d5",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-018"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジグラ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "吉格拉",
+    "effectZh": "",
+    "triggerZh": "【获取】\n将此牌加入手牌。"
+  }
+}

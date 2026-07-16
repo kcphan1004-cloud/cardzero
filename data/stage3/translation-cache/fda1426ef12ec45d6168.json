@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:40.497Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fda1426ef12ec45d6168",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-083"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ビヒーダ・フィーズ",
+    "effect": "自分の手札が5枚以上の場合、このキャラはBP+1500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "比希达·菲兹",
+    "effectZh": "在手牌 5 张以上的情况下，本角色 BP 加 1500。",
+    "triggerZh": "[抽]\n抽一张卡"
+  }
+}

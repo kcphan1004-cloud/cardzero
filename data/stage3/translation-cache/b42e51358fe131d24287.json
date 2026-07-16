@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:53.135Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b42e51358fe131d24287",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-047",
+    "UA17BT/TRK-1-047"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ユン",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "云",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[青]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

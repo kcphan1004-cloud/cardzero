@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:20:11.659Z",
+  "model": "qwen3.5:4b",
+  "unitId": "67d9509295fc56dd13ff",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-089"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ガムリン木崎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "加姆林木崎",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n将该卡加入手牌。"
+  }
+}

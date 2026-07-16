@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:12:56.593Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e2e95bf2c5d2021dd716",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-067"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ジェシカ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n元々のBPが2500の自分の場の他のキャラを1枚まで選び、このターン中、BP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "杰西卡",
+    "effectZh": "[启动主效果]\n[横置时]\n[第 1 回合]\n选择自身场上原本 BP 为 2500 的其他角色之一，该角色在本回合中获得 BP+1500。",
+    "triggerZh": "[激活]\n选择自身场上的角色之一并使其激活，该角色在本回合中获得 BP+3000"
+  }
+}

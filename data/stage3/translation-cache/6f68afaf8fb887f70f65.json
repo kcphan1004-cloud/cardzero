@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:37.595Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6f68afaf8fb887f70f65",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-018"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "羽前 京香",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、［特徴：七番組］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羽前 京香",
+    "effectZh": "[登场时]\n从自己的牌库上方翻开4张，公开至多1张［特征：七番组］并加入手札。将剩余的按任意顺序置于自己牌库下方。若将该卡加入手札，则将自己手札中的1张放置于场外。",
+    "triggerZh": ""
+  }
+}

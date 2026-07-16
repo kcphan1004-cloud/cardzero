@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:02.877Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d3bb95189f2dedd0e391",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-102"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "エドワード・エルリック",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "爱德华·艾尔利克",
+    "effectZh": "[登场时] 从自己的牌库上方看两张，从中将任意张数的卡片按任意顺序置于自己牌库上方，其余的置场外。",
+    "triggerZh": ""
+  }
+}

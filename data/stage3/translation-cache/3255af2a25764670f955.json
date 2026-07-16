@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:25:17.609Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3255af2a25764670f955",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-008"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "双城 厳一",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "双城 严一",
+    "effectZh": "",
+    "triggerZh": "[激活]将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:22:41.106Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b7ed7d831e3fc41d4fce",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-036"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "回復します!!",
+    "effect": "カードを2枚引く。その後、自分のライフが6以下の場合、自分の手札の\n[トリガー]\nを持たないカードを1枚まで自分のライフエリアに表向きで置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "我会恢复!!",
+    "effectZh": "抽2张牌。之后，若自己的生命值在6以下，则将手札中不含[触发]的卡至多1张以表侧形式置于自己的生命区域。",
+    "triggerZh": ""
+  }
+}

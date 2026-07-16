@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:39.059Z",
+  "model": "qwen3.5:4b",
+  "unitId": "32c0eb1929e8e1afea97",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-099"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ホムンクルス",
+    "effect": "自分の山札の上から2枚を場外に置く。その後、自分の場外から紫の［特徴：ホムンクルス］を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "人偶",
+    "effectZh": "从自己的牌库上方将 2 张置于场外。之后，从自己的场外最多选择 1 张紫色的［特征：人偶］加到手札。",
+    "triggerZh": "[抽]\\n抽取一张卡"
+  }
+}

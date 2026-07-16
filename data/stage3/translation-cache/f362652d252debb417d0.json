@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:11.349Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f362652d252debb417d0",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-049"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "式波・アスカ・ラングレー",
+    "effectZh": "[无效化冲击效果]\n（与该角色进行战斗的角色在本场战斗中，失去[冲击]）",
+    "triggerZh": "[DRAW]\n抽一张牌。"
+  }
+}

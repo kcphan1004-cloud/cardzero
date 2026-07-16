@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:43.347Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f39d3ce7f1e042d2bcb8",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-103"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "神楽",
+    "effect": "このキャラはアクティブで場に登場させる。\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "神楽",
+    "effectZh": "此角色为激活状态且可登场。\n[インパクト（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）",
+    "triggerZh": "[GET]将此卡加入手札。"
+  }
+}

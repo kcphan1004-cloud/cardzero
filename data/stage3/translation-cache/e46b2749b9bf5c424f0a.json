@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:37.496Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e46b2749b9bf5c424f0a",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/SAO-AP01",
+    "UAPR/SAO-AP02",
+    "UAPR/SAO-AP03"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(ソードアート・オンライン)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡（刀剑神域）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

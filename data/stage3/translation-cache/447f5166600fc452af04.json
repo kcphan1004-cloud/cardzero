@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:49:58.845Z",
+  "model": "qwen3.5:4b",
+  "unitId": "447f5166600fc452af04",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TSK-1-012"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "リムル",
+    "effect": "[レイド]\n〈リムル〉アクティブにし、フロントLに移動できる\n[アタック時]\nカードを1枚引く。BP3000以上の自分の場の他のキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "利姆鲁",
+    "effectZh": "[雷击]\n将〈利姆鲁〉激活并移至前线L\n[攻击时]\n抽一张牌。选择BP3000以上的自己场上其他角色最多一张，本回合中BP+2000。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:22.431Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd9b58e3e66dc2af2d03",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-079"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "呂不韋",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、カードを『1枚』引く。場外に置いたカードが〈嬴政〉の場合、『2枚』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "吕不韦",
+    "effectZh": "[登场时]\n可将自己手札中的 1 张置于场外。\n如此从牌库上方抽 1 张卡。\n若置于场外的卡片为〈嬴政〉，则改为抽 2 张。",
+    "triggerZh": "[抽取]\n从牌库上方抽 1 张卡。"
+  }
+}

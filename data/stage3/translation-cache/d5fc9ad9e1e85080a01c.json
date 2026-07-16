@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:15:39.520Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d5fc9ad9e1e85080a01c",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-013"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "兰卡·蕾",
+    "effectZh": "",
+    "triggerZh": "[抽]<br>将此卡加入手牌。"
+  }
+}

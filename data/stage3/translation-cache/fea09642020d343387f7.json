@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:56:26.148Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fea09642020d343387f7",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-005"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サンラク",
+    "effect": "[相手のターン中]\nこのキャラはBP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三乐克",
+    "effectZh": "【对方回合中】\n此角色为 BP-1000。",
+    "triggerZh": ""
+  }
+}

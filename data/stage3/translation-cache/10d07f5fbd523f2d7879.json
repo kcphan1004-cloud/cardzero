@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:13:32.611Z",
+  "model": "qwen3.5:4b",
+  "unitId": "10d07f5fbd523f2d7879",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-080"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "悪いヤツぁ好きだぜ～？",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈デンジ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "喜欢坏家伙吗～？",
+    "effectZh": "选择对手场上 BP 值在 3000 以下的角色卡一张，将其退场。若己方手牌中有〈电次〉，则改为 BP 值在 5000 以下。",
+    "triggerZh": "[特殊]\n选择对手场上的一张角色卡，将其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:55:15.528Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d7af91ceaba8e932cebb",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-101"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダー001",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士001",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

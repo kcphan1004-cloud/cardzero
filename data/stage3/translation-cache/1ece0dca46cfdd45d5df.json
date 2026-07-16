@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:28.322Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1ece0dca46cfdd45d5df",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GNT-1-104"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "坂田 銀時",
+    "effect": "[登場時]\nBP3000以下の自分の場の他のキャラを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "坂田 银时",
+    "effectZh": "[登场时]选择自己场上BP3000以下的其他角色最多1张，激活。",
+    "triggerZh": ""
+  }
+}

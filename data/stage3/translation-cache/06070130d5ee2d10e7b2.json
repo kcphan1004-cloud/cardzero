@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:25:00.630Z",
+  "model": "qwen3.5:9b",
+  "unitId": "06070130d5ee2d10e7b2",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-004"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "影山 飛雄",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "影山飞雄",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

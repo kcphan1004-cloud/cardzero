@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:24:00.103Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7f13fc10c3d67ae42116",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-078"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "キャノンフラワー",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈モモ・ベリア・デビルーク〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "キャノンフラワー",
+    "effectZh": "BP为3000以下的对手的Front L的角色最多选择1张，使其退场。自己的场上有〈桃井 爱莉・德比鲁克〉的情况下，变为BP为5000以下。",
+    "triggerZh": "[特殊]\n对手的Front L的角色最多选择1张，使其退场。"
+  }
+}

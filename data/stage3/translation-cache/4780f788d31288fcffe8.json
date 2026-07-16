@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:33:08.989Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4780f788d31288fcffe8",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-078"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "國神 錬介",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。自分の場のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "国神 錬介",
+    "effectZh": "[启动主位]\n支付AP为1。\n[回合1]\n从卡组上方抽取一张卡牌。选择场上的角色最多一张，本回合中BP+500。",
+    "triggerZh": "[激活状态]\n选择场上的角色最多一张并设为激活状态，本回合中BP+3000。"
+  }
+}

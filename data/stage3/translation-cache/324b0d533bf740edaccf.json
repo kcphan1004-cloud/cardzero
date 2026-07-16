@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:44:30.755Z",
+  "model": "qwen3.5:9b",
+  "unitId": "324b0d533bf740edaccf",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-023"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ユダ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤达",
+    "effectZh": "当此角色处于激活状态时，该角色的产生能量+\n【黄】\n。",
+    "triggerZh": ""
+  }
+}

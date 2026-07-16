@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:25.918Z",
+  "model": "qwen3.5:4b",
+  "unitId": "435311eb41e0ab75b91a",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-075"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "おらがしっかりせねば",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+2000。自分の場に〈七宝〉がある場合、自分のAPカードを1枚アクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "おらがしっかりせねば",
+    "effectZh": "选择自己场上的最多 1 张角色，在本回合中 BP+2000。若场上有〈七宝〉，则激活自己的 1 张 AP 卡片。",
+    "triggerZh": "[激活]选择自己场上的 1 张角色并激活之，本回合中 BP+3000。"
+  }
+}

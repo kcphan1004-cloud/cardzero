@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:25:50.460Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a2cad4f7373470aeadfb",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-009"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "山本 猛虎",
+    "effect": "[ブロック時]\nこのキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "山本 猛虎",
+    "effectZh": "【阻挡时】\n这张角色在本回合中，BP+500。",
+    "triggerZh": ""
+  }
+}

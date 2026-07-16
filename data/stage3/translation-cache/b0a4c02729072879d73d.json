@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:47:38.324Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b0a4c02729072879d73d",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-059"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "プリシラ・バーリエル",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[青×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "プリシラ・バーリエル",
+    "effectZh": "当对手场地上存在黄色或紫色卡片时，将手牌中本卡的必要能量减少[青×1]。",
+    "triggerZh": ""
+  }
+}

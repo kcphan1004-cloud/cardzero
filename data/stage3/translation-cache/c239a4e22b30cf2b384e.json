@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:38:59.621Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c239a4e22b30cf2b384e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-034"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "リヴァイの連撃",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈リヴァイ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "利威尔的连击",
+    "effectZh": "选择对方前线 LBP3000 或更低的角色并使其退场。若自己场上有〈利威尔〉，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n从对方前线 L 的角色中选择 1 张并使其退场。"
+  }
+}

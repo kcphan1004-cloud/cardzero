@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:43.346Z",
+  "model": "qwen3.5:4b",
+  "unitId": "330c2b03bae7c403a3aa",
+  "seriesSlug": "gintama",
+  "series": "银魂",
+  "cardNumbers": [
+    "UA11ST/GNT-1-102"
+  ],
+  "source": {
+    "series": "银魂",
+    "name": "長谷川 泰三",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "長谷川 泰三",
+    "effectZh": "[登場時]抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": ""
+  }
+}

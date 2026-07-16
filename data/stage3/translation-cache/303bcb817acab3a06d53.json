@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:54:39.937Z",
+  "model": "qwen3.5:9b",
+  "unitId": "303bcb817acab3a06d53",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-105",
+    "UA31BT/MMM-1-009",
+    "UA31BT/MMM-1-050"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张角色，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

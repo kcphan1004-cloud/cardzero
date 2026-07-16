@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:31:00.027Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6ad4b6e4b1be5e3ecd67",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-006"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "院田 唐音",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・BP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。\n・カードを2枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "院田 唐音",
+    "effectZh": "[登场时]\n从以下选项中选择一个。\n·选择对方前线 BP3000 以下的角色最多一张，使其退场。\n·抽牌两张。",
+    "triggerZh": "[激活]\n选择自己场上一张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

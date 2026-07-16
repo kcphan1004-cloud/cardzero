@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:33:43.880Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e52f29bfe750d3fac5aa",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-AP01/S",
+    "UA22BT/GMR-1-AP02/S"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

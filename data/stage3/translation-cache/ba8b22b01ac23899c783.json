@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:47:17.187Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ba8b22b01ac23899c783",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TLR-1-072"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ララ・サタリン・デビルーク",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉拉·萨塔林·德比鲁克",
+    "effectZh": "[登场时]\n从自己的牌库上方看两张，将希望的数量张数按希望的顺序放置在牌库的上面和下面。",
+    "triggerZh": ""
+  }
+}

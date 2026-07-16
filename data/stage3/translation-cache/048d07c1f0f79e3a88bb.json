@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:01.650Z",
+  "model": "qwen3.5:4b",
+  "unitId": "048d07c1f0f79e3a88bb",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-055"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "夏を楽しみましょう！",
+    "effect": "自分の場の元々のBPが2500以下のキャラを1枚まで選び、このターン中、BP+1500。自分のAPカードを1枚アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "让我们享受夏天吧！",
+    "effectZh": "选择至多1张你场上原本BP为2500或以下的角色，该回合中其BP+1500。激活你的AP卡一张。",
+    "triggerZh": "[抽牌]\n抽取一张牌。"
+  }
+}

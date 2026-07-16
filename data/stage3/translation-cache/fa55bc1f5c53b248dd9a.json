@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:34.585Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fa55bc1f5c53b248dd9a",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-067"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "モモ・ベリア・デビルーク",
+    "effect": "自分の場に〈ナナ・アスタ・デビルーク〉がある場合、このキャラは\n[2回ブロック]\nと\n[インパクト無効]\nを得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "贝利亚·德比鲁克 桃井",
+    "effectZh": "若自己的场上存在「七夜·阿斯塔·德比鲁克」，此角色获得\n[2回阻挡]\n与\n[冲击无效]。",
+    "triggerZh": "[激活时]\n选择自己场上的1张角色并使其激活，本回合中BP+3000。"
+  }
+}

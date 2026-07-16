@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:30.082Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ffd27e7a7ffa5797cf24",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-064"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ガンマ",
+    "effect": "[登場時]\nカードを1枚引く。\n[起動メイン]\n[レストにする]\n[ターン1]\n自分の場に［特徴：七陰］のカード名が7種類以上ある場合、自分のフロントLの他の［特徴：七陰］を1枚選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伽马",
+    "effectZh": "[登场时]\n抽 1 张牌。\n[启动主阶段]\n[横置]\n[回合数：1]\n若己方场上［特征：七阴］卡中的种类在 7 种以上，选择己方前场 L 的其他［特征：七阴］中的一张并使其处于激活状态。",
+    "triggerZh": "[抽牌]\n抽 1 张牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:42.106Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8a9f8ded68d789856495",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-082"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "飛影",
+    "effect": "[アタック時]\n『カードを1枚引き、自分の手札を1枚場外に置く』。このターン中に自分がイベントカードを2枚以上使用している場合、『カードを1枚引く』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "飞影",
+    "effectZh": "[攻击时]\n『抽 1 张牌，将手札中的 1 张卡置入场外』。若本回合内使用了 2 张以上的事件卡，则改为『抽 1 张牌』。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

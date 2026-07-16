@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:44:35.380Z",
+  "model": "qwen3.5:9b",
+  "unitId": "acbb0bf4e293b6bd61fb",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-062"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "巨大樹の森",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n[ターン1]\nこのターン中、このフィールドの発生エナジー+\n[緑]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "巨树之森",
+    "effectZh": "[启动主]\n[置为横置状态]\n[将 1 张手牌置入场外]\n[回合 1]\n本回合中，该区域的产生能量+\n[绿]。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

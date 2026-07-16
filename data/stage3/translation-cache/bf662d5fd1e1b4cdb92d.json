@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:30:40.594Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bf662d5fd1e1b4cdb92d",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-004"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "新城 陽子",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラが登場したターン中のみ発動できる。自分の場の他の［特徴：七煌星団］を1枚選び、このターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "新城 阳子",
+    "effectZh": "[启动主]\n[回合 1]\n仅在此角色登场的回合中可发动。选择自己场上的其他［特征：七煌星团］，在本回合中，\n[冲击（1）]\n（攻击并赢得战斗时，给予对手玩家 1 点伤害）。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

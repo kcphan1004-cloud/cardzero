@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:02.808Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1eb9ea4377fb29b83d24",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-076"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "桑原 和真",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・発生エナジーが1以下の相手の場のフィールドを1枚まで選び、退場させる。\n・自分の手札が2枚以下の場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑原和真",
+    "effectZh": "[登场时]\n从以下中选择 1 个。\n・选择对手场地的产生能量为 1 以下的场地最多 1 张，使其退场。\n・若自己的手牌在 2 张或更少，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

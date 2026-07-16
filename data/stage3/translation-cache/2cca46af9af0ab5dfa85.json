@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:15:08.721Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2cca46af9af0ab5dfa85",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-023"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "風呂は命の洗濯よ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "浴室是生命的洗涤，",
+    "effectZh": "选择至多 1 张自己的 AP 卡并激活之。",
+    "triggerZh": "[最终]\n若你的生命区域无牌，从你手札上方抽 1 张牌置于你的生命区域中"
+  }
+}

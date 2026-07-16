@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:25:16.002Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6bd110b6b7429a8bfcfa",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-044"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "タザキ",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から［特徴：子供］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "塔崎",
+    "effectZh": "【登场时】\n查看自己牌库上方的5张卡。从中公开最多1张［特征：孩子］加入手牌。将剩余的按任意顺序置于自己的牌库下方。\n若加入了手牌，可将自己的一张手牌置入场外。",
+    "triggerZh": "【激活】\n选择自己场上的一张角色并使其处于激活状态，本回合中BP+3000。"
+  }
+}

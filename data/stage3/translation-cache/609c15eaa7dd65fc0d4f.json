@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:43:00.135Z",
+  "model": "qwen3.5:4b",
+  "unitId": "609c15eaa7dd65fc0d4f",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SHY-1-001"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "シャイ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "害羞",
+    "effectZh": "[步骤]\n（本角色可从前线 L 移动至能量 L）",
+    "triggerZh": "[激活]\n选择自己场上的一张牌并激活，本回合中 BP+3000"
+  }
+}

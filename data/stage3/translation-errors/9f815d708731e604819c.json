@@ -1,0 +1,22 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-16T14:23:22.096Z",
+  "unitId": "9f815d708731e604819c",
+  "cardNumbers": [
+    "UA36ST/MCR-1-AP01",
+    "UA36BT/MCR-1-AP01",
+    "UA36BT/MCR-1-AP02",
+    "UA36BT/MCR-1-AP03",
+    "UA36BT/MCR-1-AP04",
+    "UA36BT/MCR-1-AP05",
+    "UA36BT/MCR-1-AP06",
+    "EX14BT/MCR-2-AP01",
+    "EX14BT/MCR-2-AP02",
+    "EX14BT/MCR-2-AP03",
+    "EX14BT/MCR-2-AP04",
+    "EX14BT/MCR-2-AP05",
+    "EX14BT/MCR-2-AP06",
+    "EX14BT/MCR-2-AP07"
+  ],
+  "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+}

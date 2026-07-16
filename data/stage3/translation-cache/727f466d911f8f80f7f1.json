@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:27:44.987Z",
+  "model": "qwen3.5:9b",
+  "unitId": "727f466d911f8f80f7f1",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-074"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "あとは俺に任せろ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "剩下的就交给我吧",
+    "effectZh": "选择最多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:21:56.114Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aaa9392cbbcf0a0a7532",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/BLC-1-046"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "阿散井 恋次",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の山札の上から1枚を場外に置く。そうした場合、自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿散井恋次",
+    "effectZh": "[启动主回合]\n[当前位于前线L时]\n[第1回合]\n从自己的牌库上方取出一张卡片置于场外。如此，选择自己场上的其他角色卡中的1张，本回合中BP+500",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:54:23.826Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9bf22c5dcbcb7a199317",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-079"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "トリコ",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特瑞科",
+    "effectZh": "[抵挡 2 次]\n（该角色在本回合首次进行抵挡时，将其置于激活状态）",
+    "triggerZh": ""
+  }
+}

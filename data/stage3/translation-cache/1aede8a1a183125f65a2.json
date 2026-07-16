@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:43:34.117Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1aede8a1a183125f65a2",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-014"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "ゼブラ",
+    "effect": "[アタック時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "斑马",
+    "effectZh": "[攻击时]\n选择自己场上的其他角色至多 1 张，本回合中 BP+500。",
+    "triggerZh": ""
+  }
+}

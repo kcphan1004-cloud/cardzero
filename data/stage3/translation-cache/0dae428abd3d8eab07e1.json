@@ -1,0 +1,35 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:24:00.108Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0dae428abd3d8eab07e1",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-AP01",
+    "UA45BT/TLR-1-AP02",
+    "UA45BT/TLR-1-AP03",
+    "UA45BT/TLR-1-AP04",
+    "UA45BT/TLR-1-AP05",
+    "UA45BT/TLR-1-AP06",
+    "UA45BT/TLR-1-AP07",
+    "UA45BT/TLR-1-AP08",
+    "UA45BT/TLR-1-AP09",
+    "UA45BT/TLR-1-AP10",
+    "UA45BT/TLR-1-AP11",
+    "UA45BT/TLR-1-AP12",
+    "UA45BT/TLR-1-AP13",
+    "UA45BT/TLR-1-AP14"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "アクションポイントカード(To LOVEる-とらぶる-)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡(To LOVEる-とらぶる-)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

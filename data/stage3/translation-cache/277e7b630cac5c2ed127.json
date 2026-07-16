@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:29:21.202Z",
+  "model": "qwen3.5:4b",
+  "unitId": "277e7b630cac5c2ed127",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-092"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "キング・ブラッドレイ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "King Bloodrayne",
+    "effectZh": "若该角色处于激活状态，则该角色的生成能量+\n［紫］。",
+    "triggerZh": ""
+  }
+}

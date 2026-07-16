@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:40:01.186Z",
+  "model": "qwen3.5:9b",
+  "unitId": "383a4ee9cca16f31bbd4",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-108"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ロックタウン",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "洛克镇",
+    "effectZh": "[启动主]\n[置为横置状态]\n查看自己牌库上方的1张卡。将该卡牌放回自己牌库上方或下方。",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

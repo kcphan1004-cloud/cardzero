@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:38:56.649Z",
+  "model": "qwen3.5:9b",
+  "unitId": "58625e06db79a5790f8e",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-028"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽々里",
+    "effect": "自分の場に他の［特徴：花園家］が3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "花园 羽々里",
+    "effectZh": "自己场上有其他［特征：花园家］3 张以上时，该角色 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 枚角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:21.407Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ef43d1fe411676fc333b",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-025"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "フブキ組",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\nこのターン中に自分がイベントカードを使用している場合のみ発動できる。自分の場のキャラ全ては、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "フブキ組",
+    "effectZh": "本场地为激活状态，可将其置于场上。\n[启动主]\n[改为横置]\n仅在自己回合中使用过事件卡时才能发动。自己场上的所有角色在本回合中 BP+1000。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:28:22.210Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e652c2a2139669ec0496",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-062"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "一攫千金",
+    "effect": "自分の山札の上から3枚を公開する。『その中からカードを1枚手札に加え、残りを望む順で自分の山札の下に置く』。公開した3枚のカードの必要エナジーの数が全て同じか、連続する3つの数だった場合、『公開したカードを全て手札に加える』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "一攫千金",
+    "effectZh": "公开自己山札上方的 3 张卡。“从其中将 1 张卡加入手牌，其余的按任意顺序置于自己的山札下方”。若公开的 3 张卡的必要能量数全部相同或是连续的 3 个数，“公开了的所有卡均加入手牌”代替上述效果。",
+    "triggerZh": "[抽]\n抽入 1 张牌。"
+  }
+}

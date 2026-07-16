@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:07.658Z",
+  "model": "qwen3.5:4b",
+  "unitId": "413cdfe956ec1bf291c2",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-072"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "若狭 サハラ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[APを1支払う]\n[ターン1]\nこのキャラか、自分のエナジーLの［特徴：魔防隊］を1枚選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "若狭 沙哈拉",
+    "effectZh": "[激活主]\n[当处于前线线时]\n[支付AP为1]\n[回合1]\n选取该角色或我方能量线的［特征：魔防队］1张，设为激活状态。",
+    "triggerZh": "[抽牌]\n抽取1张卡牌。"
+  }
+}

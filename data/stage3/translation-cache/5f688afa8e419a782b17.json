@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:59:11.257Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5f688afa8e419a782b17",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-018"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "ビィラック",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "比拉克",
+    "effectZh": "",
+    "triggerZh": "抽牌"
+  }
+}

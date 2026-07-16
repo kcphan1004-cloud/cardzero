@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:54:24.882Z",
+  "model": "qwen3.5:4b",
+  "unitId": "81415072831eba22f306",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-034"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "駒形 由美",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。\n[退場時]\n自分のフロントLに〈志々雄 真実〉がある場合、相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "駒形 由美",
+    "effectZh": "[登场时]抽取一张卡牌并将自己的手札最多1张置于场外。\n[退场时]若自己场上的【志々雄 真実】存在，则选择对手场上L的角色的角色1张并使其处于横置状态。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取1张卡牌"
+  }
+}

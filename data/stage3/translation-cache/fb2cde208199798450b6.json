@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:58.604Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fb2cde208199798450b6",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-018"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "真希波・マリ・イラストリアス",
+    "effect": "[相手のターン中]\n[フロントLにある場合]\n自分の\n[ドロートリガー]\nか\n[アクティブ]\nを発動する場合、代わりに\n[ゲット]\nにしてもよい。\n[アタック時]\nAPを1支払ってもよい。そうした場合、カードを1枚引き、〈真希波・マリ・イラストリアス〉以外の自分の場のキャラを1枚まで選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "真希波·玛丽·伊拉图利亚斯",
+    "effectZh": "[对手的回合中]\n若 [Front L] 存在\n发动自己的 [Draw Trigger] 或 [Active]，可代替将其设为 [GET]。\n[Attack时]\n支付 AP1。如此则抽取 1 张卡，选择自己场上除〈真希波·玛丽·伊拉图利亚斯〉外的最多 1 张卡并激活状态。",
+    "triggerZh": "[Get]\n将这张卡加入手札。"
+  }
+}

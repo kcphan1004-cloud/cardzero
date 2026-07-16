@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:38:23.713Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2902c28a84aebf73a4d6",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-101"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "浦飯 温子",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "浦饭 温子",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

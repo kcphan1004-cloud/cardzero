@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:04.013Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1e58cf4538f6f382f644",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-064"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "杉下 京太郎",
+    "effect": "このキャラがアタックしてブロックされた時、カードを1枚引いてもよい。そうした場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杉下 京太郎",
+    "effectZh": "本角色攻击并被布阵时，也可选择抽取一张卡牌。如此情况下，将自身手牌1张置于场外。<br>",
+    "triggerZh": "[抽牌]<br>抽取一张卡牌。"
+  }
+}

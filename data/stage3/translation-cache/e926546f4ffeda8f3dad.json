@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:23:51.726Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e926546f4ffeda8f3dad",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-048"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "出雲 風子",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から〈アンディ〉を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "出云 风子",
+    "effectZh": "[登场时]\n查看自己的牌库上方 4 张卡。从中最多公开 1 张〈安迪〉并加入手牌。将剩余的按任意顺序置于自己牌库下方。如果加入了手牌，将自己手牌中的 1 张置入场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

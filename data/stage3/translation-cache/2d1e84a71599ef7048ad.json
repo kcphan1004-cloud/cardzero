@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:34.583Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2d1e84a71599ef7048ad",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-065"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "モモ・ベリア・デビルーク",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "贝利亚·德比鲁克 桃井",
+    "effectZh": "",
+    "triggerZh": "[登场时]\n将此卡加入手牌。"
+  }
+}

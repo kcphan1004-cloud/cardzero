@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:35.660Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2668ea09d673091cccef",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-077"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "風穴",
+    "effect": "自分の場に〈弥勒〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "风穴",
+    "effectZh": "若己方场上有〈弥勒〉，则手牌中本卡的消耗AP-1。\n选择敌方前线L的BP5000以下的角色卡一张以上至多一张，将其退场。",
+    "triggerZh": "[特殊]\n选择敌方前线L的角色卡一张以上至多一张，使其退场。"
+  }
+}

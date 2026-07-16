@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:14:03.654Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7a1e2bbf10c76fb70498",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-001",
+    "UA33BT/NGR-1-041"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "天乃 リリサ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "天乃莉莉莎",
+    "effectZh": "",
+    "triggerZh": "[登场时] 将此卡加入手牌。"
+  }
+}

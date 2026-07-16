@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:27:41.887Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5107d2635d9c00c1e05b",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-023"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "木兎 光太郎",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "木兎 光太郎",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将本卡牌加入手牌。"
+  }
+}

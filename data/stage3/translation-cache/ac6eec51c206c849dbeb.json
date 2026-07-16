@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:27:52.925Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ac6eec51c206c849dbeb",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "EX01BT/HTR-2-027"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "キルア＝ゾルディック",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "奇犽·揍敌客",
+    "effectZh": "[登场时] 从牌库上方抽一张卡，将手札中一张卡置于场外。",
+    "triggerZh": "[触发]\n从牌库上方抽一张卡。"
+  }
+}

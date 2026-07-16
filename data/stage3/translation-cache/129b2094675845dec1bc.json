@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:22.672Z",
+  "model": "qwen3.5:4b",
+  "unitId": "129b2094675845dec1bc",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-064"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "侵入者排除システム",
+    "effect": "[登場時]\n相手のフロントLにBP4000以上のキャラが4枚以上ある場合、カードを1枚引き、このキャラをアクティブにし、このキャラは次の自分のターン開始時まで、BP+2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "入侵者排除系统",
+    "effectZh": "[登场时]\n若对方前线线拥有 4 枚或以上 BP4000 以上的角色，则抽一张牌，将该角色激活，该角色在下一个自己回合开始之前，BP+2000。",
+    "triggerZh": ""
+  }
+}

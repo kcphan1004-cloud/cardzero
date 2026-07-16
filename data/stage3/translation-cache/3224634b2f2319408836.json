@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:01:15.462Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3224634b2f2319408836",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-044"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "幻海",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "幻海",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上一张角色，将其置为激活状态，本回合中 BP+3000。"
+  }
+}

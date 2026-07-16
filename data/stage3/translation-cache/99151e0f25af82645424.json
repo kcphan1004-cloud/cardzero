@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:02:46.730Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99151e0f25af82645424",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-052"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "紫雲 清夏",
+    "effect": "[登場時]\nこのターン中に自分がイベントカードを使用している場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "紫云 清夏",
+    "effectZh": "[登场时]\n如果本回合自己使用了活动卡，抽1张牌。",
+    "triggerZh": ""
+  }
+}

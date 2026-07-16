@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:12.430Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7f1e4a21a0f3a048c605",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-020"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "シド・カゲノー",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西德·卡格诺尔",
+    "effectZh": "[登场时] 从牌库上方抽一张，将手札中一张置于场外。",
+    "triggerZh": "[触发]\n从牌库上方抽一张"
+  }
+}

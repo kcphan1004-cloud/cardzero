@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:43.631Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e6675a39bd40de85d71b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/OPM-1-051"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "戦慄のタツマキ",
+    "effect": "[登場時]\n自分の手札の［特徴：ヒーロー］を1枚場外に置いてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "战栗的塔马奇（Tatsumaki）",
+    "effectZh": "[登场时]\n可将手牌的［特性：英雄］ 1 张放入场外。如此操作后，将此角色进行激活。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色进行激活，本回合 BP+3000"
+  }
+}

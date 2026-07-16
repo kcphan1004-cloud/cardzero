@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:57:01.201Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e5b5bc5cc5a9917dc2ab",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-020"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ナタリア・ルクセンブルグ",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、見たカードが［特徴：喫茶シュマリ］の場合、公開し手札に加えてもよい。手札に加えない場合、そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "纳塔莉亚·卢森堡",
+    "effectZh": "[登场时]\n从自己的牌库上方翻开一张，若翻开的卡片为「特征：喫茶シュマリ」，可以公开并加入手札。若不加入手札，则将该卡片置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

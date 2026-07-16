@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:39.921Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1e86bd69c0778f810ee7",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-098"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "超電磁洋弓銃",
+    "effect": "『BP2000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場の\n[トリガー]\nを持たないカード1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "超电磁洋弓枪",
+    "effectZh": "选择对手 Front L 的一张 BP2000 以下的角色卡并将其退场。你场上每有一张无 [Trigger] 的卡片，本效果可选择角色的 BP 范围 +1000。",
+    "triggerZh": "[Special]\n选择对手的 Front L 的一张角色卡并将其退场"
+  }
+}

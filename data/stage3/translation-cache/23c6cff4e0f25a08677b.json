@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:39:49.255Z",
+  "model": "qwen3.5:9b",
+  "unitId": "23c6cff4e0f25a08677b",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-037"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ロッド・レイス",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "罗德·雷斯",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多一张，使其在本回合中，BP+1000。",
+    "triggerZh": "[抽牌] \n抽 1 张牌。"
+  }
+}

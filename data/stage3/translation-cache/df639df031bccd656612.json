@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:21:51.983Z",
+  "model": "qwen3.5:9b",
+  "unitId": "df639df031bccd656612",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-033"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "羽生 まゆり",
+    "effect": "[登場時]\n自分の山札の上から5枚見る。その中から必要エナジーが1以下の黄のキャラカードを1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "羽生真由梨",
+    "effectZh": "[登场时]\n查看自己山札上方 5 张牌。从中公开必要能量为 1 以下的黄角色卡最多一张并加入手牌，其余按任意顺序置于自己山札下方。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

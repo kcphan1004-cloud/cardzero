@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:39:33.519Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df57c4758a17d7c82d27",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-013"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "項翼",
+    "effect": "このキャラのBPが4000以上の場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "项翼",
+    "effectZh": "当该角色的 BP 为 4000 以上时，获得 [冲击（1）]（攻击并赢得战斗时，对对手造成 1 点伤害）。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色进行激活，本回合中 BP+3000。"
+  }
+}

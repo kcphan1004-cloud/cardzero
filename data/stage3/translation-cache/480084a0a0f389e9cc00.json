@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:37:08.083Z",
+  "model": "qwen3.5:9b",
+  "unitId": "480084a0a0f389e9cc00",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-037"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "キュゥべえ",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "丘比",
+    "effectZh": "对方场上有黄或红色的卡时，将手札中这张卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

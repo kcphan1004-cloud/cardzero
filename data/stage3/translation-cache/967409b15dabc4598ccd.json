@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:48.836Z",
+  "model": "qwen3.5:4b",
+  "unitId": "967409b15dabc4598ccd",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-089"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "那貴",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "那贵",
+    "effectZh": "[激活主效果] [变为横置状态][回合 1]本角色在本回合中，发生能量+<span style=\"color:red\">赤</span>并获得「在主阶段结束时，使本角色退场。」。",
+    "triggerZh": ""
+  }
+}

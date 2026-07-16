@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:01.799Z",
+  "model": "qwen3.5:4b",
+  "unitId": "00280180e898db79f883",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-071"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "蕞の住民",
+    "effect": "[退場時]\n自分の場に〈嬴政〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绝民",
+    "effectZh": "[离场时] 若己方场地上有〈嬴政〉，抽一张牌。",
+    "triggerZh": ""
+  }
+}

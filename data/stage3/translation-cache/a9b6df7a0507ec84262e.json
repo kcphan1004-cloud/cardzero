@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:28.277Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a9b6df7a0507ec84262e",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-013"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "式尉",
+    "effect": "[自分のターン中]\n[フロントLにある場合]\n自分の場の〈四乃森 蒼紫〉が相手の効果によって場を離れる場合、代わりにアクティブのこのキャラを退場させてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "式尉",
+    "effectZh": "[在自己的回合中]\n[在前线L存在时]\n当自己的场上的〈四乃森 苍紫〉因对手的效果离开场地时，可以代替将激活的此角色退场。",
+    "triggerZh": "[抽卡]\n抽1张"
+  }
+}

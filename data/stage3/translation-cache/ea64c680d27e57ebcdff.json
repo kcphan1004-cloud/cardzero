@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:26:26.965Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ea64c680d27e57ebcdff",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-067"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "トップ",
+    "effect": "このキャラのアタック終了時、このキャラをエナジーLに移動させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "托普",
+    "effectZh": "此角色攻击结束时，将此角色移动至能量线。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色并激活，本回合中 BP+3000。"
+  }
+}

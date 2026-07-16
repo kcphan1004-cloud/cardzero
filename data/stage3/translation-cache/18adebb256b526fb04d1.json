@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:46:08.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "18adebb256b526fb04d1",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-029"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "モウルドスピア",
+    "effect": "BP3000以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ココ〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "莫尔德斯之矛",
+    "effectZh": "选择 BP3000 以下的对方前线 L 角色 1 张，使其退场。若自己场上有〈可可〉，还可以选择自己的 AP 卡最多 1 张，将其激活。”",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 张，使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:47:53.686Z",
+  "model": "qwen3.5:4b",
+  "unitId": "65c62ac695112efaff14",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-065"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "化け物風情が――！",
+    "effect": "自分の効果で自分の手札から公開しているこのカードは元々のBPが4000のキャラカードとしても扱う。\nBP4500以上の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "化け物風情が――！",
+    "effectZh": "自己的效果使这张在自己手牌中公开的卡作为原本BP为4000的角色卡处理。\n选择对手场上Front L的1张角色卡，使其退场。",
+    "triggerZh": "[抽]\n从牌库上方抽取一张卡牌。"
+  }
+}

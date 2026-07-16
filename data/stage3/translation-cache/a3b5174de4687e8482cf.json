@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:30:27.660Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a3b5174de4687e8482cf",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-079"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "コミュニケーター",
+    "effect": "自分の山札の上から7枚見る。その中から［特徴：子供］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "通讯员",
+    "effectZh": "查看自己牌库上方的 7 张卡。从中公开最多 2 张具有［特征：孩子］的卡并加入手牌，其余的按任意顺序置于自己牌库下方。",
+    "triggerZh": "【抽】\n抽 1 张牌。"
+  }
+}

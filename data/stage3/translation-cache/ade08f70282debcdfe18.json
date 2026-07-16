@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:30.928Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ade08f70282debcdfe18",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-020"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "マキマ",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "玛奇马",
+    "effectZh": "[登场时]\n选择己方场上的其他角色最多1张，本家回合中BP+1000。\n\n[激活状态]\n选择己方场上的角色，将其激活为本家回合中BP+3000。",
+    "triggerZh": "[激活状态]\n将己方场上的角色选为1张并激活。"
+  }
+}

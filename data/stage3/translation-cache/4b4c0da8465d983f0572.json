@@ -1,0 +1,29 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:16:54.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4b4c0da8465d983f0572",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-AP01",
+    "UA21BT/YYH-1-AP01",
+    "UA21BT/YYH-1-AP02",
+    "UA21BT/YYH-1-AP03",
+    "UA21BT/YYH-1-AP04",
+    "UA21BT/YYH-1-AP05",
+    "UA21BT/YYH-1-AP06",
+    "UA21BT/YYH-1-AP07"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "アクションポイントカード(幽☆遊☆白書)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (幽☆游☆白书)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

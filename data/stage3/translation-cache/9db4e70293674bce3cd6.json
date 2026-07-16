@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:07.563Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9db4e70293674bce3cd6",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-095"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "モスキート娘",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。\n[起動メイン]\n[ターン1]\n自分のライフエリアにあるカードを1枚手札に加える。そうした場合、このキャラはこのターン中、BP+2500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蚊子娘",
+    "effectZh": "[登场时] 可选择自己场上的一张其他角色，使其在本回合内 BP+1000。\n[启动主]\n[第1回合]\n可将自己的生命区一张卡加入手牌。如此，本角色在本回合内 BP+2500。",
+    "triggerZh": "[抽]"
+  }
+}

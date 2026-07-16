@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:32:21.195Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f03a6592356e7898400d",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-072"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "糸師 凛",
+    "effect": "このキャラの下に裏向きのカードがあり、自分の場に赤以外の色のカードがない場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "糸师凛",
+    "effectZh": "若该角色下方有背向面的卡牌，且己方场上无红色以外的颜色卡牌时，本角色的发生能量+[赤]。",
+    "triggerZh": ""
+  }
+}

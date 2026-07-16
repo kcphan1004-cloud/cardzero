@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:37:36.124Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e537b7768553465c5cf8",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-054",
+    "UA47BT/TKG-1-054"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "笛口 雛実",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "笛口雏实",
+    "effectZh": "【登场时】\n选择自己场上其他 1 张角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:30.193Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9417704037e45be78d07",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-037"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 暦",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿良々木历",
+    "effectZh": "当该角色处于激活状态时，将该角色的生成能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

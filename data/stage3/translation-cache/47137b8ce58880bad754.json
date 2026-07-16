@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:55.057Z",
+  "model": "qwen3.5:4b",
+  "unitId": "47137b8ce58880bad754",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-072"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "斎藤 一",
+    "effect": "[登場時]\n自分の場の〈緋村 剣心〉を1枚まで選び、このターン中、\n[自分のターン中]\nの効果を失わせる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "斋藤 一",
+    "effectZh": "[登场时]\n选择自己场上的〈绯村 剑心〉1 张，本回合中 [自己的回合]的效果无效化。",
+    "triggerZh": "[抽]\n抽取卡片 1 张。"
+  }
+}

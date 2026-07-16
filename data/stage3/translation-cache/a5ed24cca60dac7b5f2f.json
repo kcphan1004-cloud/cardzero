@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:44.531Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a5ed24cca60dac7b5f2f",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-074"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ニーナ＆アレキサンダー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妮娜&亚历山大",
+    "effectZh": "[启动主回合阶段]\n[设为休息状态]\n[第 1 次]\n该角色在本回合中获得：发生能量+\n\n[紫]，以及\"主回合阶段结束时，将该角色退场。\"",
+    "triggerZh": ""
+  }
+}

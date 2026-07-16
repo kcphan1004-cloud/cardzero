@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:25:16.007Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f07d7b6dfa1ecad73f92",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-048"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "このカードはフロントLに登場できず、このカードの効果以外でフロントLに移動できない。\n[エナジーLにある場合]\n自分のキャラのアタック終了時、自分のフロントLのアクティブの［特徴：子供］を1枚選び、このキャラと位置を入れ替えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加美拉",
+    "effectZh": "此卡无法登场于前线L，除该卡效果外也无法移动至前线L。\n[位于能量线时]\n自己角色的攻击结束时，可选择自己前线L的激活状态的［特征：孩子］中的一张，与其交换位置。",
+    "triggerZh": ""
+  }
+}

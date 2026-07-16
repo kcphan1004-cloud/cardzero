@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:48:59.862Z",
+  "model": "qwen3.5:9b",
+  "unitId": "232eee93009535db211d",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-005"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "怨爺",
+    "effect": "このカードは〈美しい魔闘家鈴木〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "怨爷",
+    "effectZh": "将此卡作为〈美丽的魔斗家铃木〉处理。",
+    "triggerZh": "[Get]\n将此卡加入手牌"
+  }
+}

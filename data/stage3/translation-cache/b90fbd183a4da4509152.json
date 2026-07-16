@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:58.723Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b90fbd183a4da4509152",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-044"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "亜白 ミナ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラがアクティブの場合のみ発動できる。自分の場のこのターン中にアクティブからレストになった他のキャラを1枚選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚白 美奈",
+    "effectZh": "[启动主]\n[位于前线 L 时]\n[回合 1]\n仅当该角色处于激活状态时可发动。选择自己场上本回合内从横置变为激活的其他角色中的 1 张，使其进入激活状态。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

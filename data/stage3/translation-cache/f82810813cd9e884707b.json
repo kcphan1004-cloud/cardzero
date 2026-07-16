@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:44:13.224Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f82810813cd9e884707b",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-065"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "戦友の形",
+    "effect": "自分の山札の上から6枚見て、〈信〉と〈王賁〉と〈蒙恬〉をそれぞれ1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战友之形",
+    "effectZh": "从牌库上方看6张，最多公开手牌中的〈信〉、〈王贲〉和〈蒙恬〉各1张。其余按任意顺序放回牌库下方。",
+    "triggerZh": "[抽]\n抽一张卡"
+  }
+}

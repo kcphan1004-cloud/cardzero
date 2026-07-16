@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:25:29.933Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e730c090cbeaed6c06ab",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-013"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "六平 千鉱",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚自分の山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "六平 千鉱",
+    "effectZh": "[登场时]\n抽一张牌，将手札的一张置于自己的山札之上或之下。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡一张进行激活，本回合 BP+3000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:21:58.671Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c82ad38ce75175e21adf",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-020"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ランゲ",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兰格",
+    "effectZh": "对方场上有紫色或红色的卡时，将手札中此卡的必要能量\n[黄×1]\n减少。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:48.291Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7593c8bb8e3dca334468",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-007"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "眞霜 平助",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、相手のライフエリアに表向きで置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "眞霜 平助",
+    "effectZh": "[登场时]\n选择对手的 Front L 的角色最多 1 张，将其正面朝向置于对手的生命区域。",
+    "triggerZh": "[抽牌]\n抽取卡片 1 张。"
+  }
+}

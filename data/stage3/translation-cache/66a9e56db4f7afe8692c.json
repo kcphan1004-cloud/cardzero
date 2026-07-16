@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:54:39.940Z",
+  "model": "qwen3.5:9b",
+  "unitId": "66a9e56db4f7afe8692c",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-108"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "見滝原中学校",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、自分の場外から必要エナジーが3以下で消費APが1の［特徴：魔法少女］を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "见泷原中学",
+    "effectZh": "【登场时】\n可以将自己的手牌中 1 张置为场外。如此做的话，从自己场外将消耗 AP 为 1、必要能量在 3 以下的［特征：魔法少女］最多 1 张加入手牌。",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

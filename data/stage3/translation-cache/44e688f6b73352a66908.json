@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:24.145Z",
+  "model": "qwen3.5:4b",
+  "unitId": "44e688f6b73352a66908",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-003"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "斧乃木 余接",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斧乃木 余接",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的1张角色，将其激活，本回合中BP+3000。"
+  }
+}

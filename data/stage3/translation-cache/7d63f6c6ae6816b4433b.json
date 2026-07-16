@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:31.227Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7d63f6c6ae6816b4433b",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-007"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "葛󠄀城 ミサト",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "葛城 美里",
+    "effectZh": "当此角色为激活状态时，此角色的发生能量+\n[黄色]。",
+    "triggerZh": ""
+  }
+}

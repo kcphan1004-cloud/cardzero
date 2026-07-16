@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:22:06.785Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bac8da91cdb67230271e",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/BLC-1-103"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "黒崎 一護",
+    "effect": "[アタック時]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "黑崎 一护",
+    "effectZh": "[攻击时]本角色在本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:04.615Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1edba88249976398f9ef",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-029"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "駿河 朱々",
+    "effect": "[退場時]\n自分の手札から必要エナジーが3以下で消費APが1の黄の［特徴：七番組］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "骏河 朱々",
+    "effectZh": "[退场时]\n从手牌中选择一张消耗AP为1且颜色为黄的「特征：七番组」，在横置状态下登场到己方场上（所需能量需小于等于3）。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

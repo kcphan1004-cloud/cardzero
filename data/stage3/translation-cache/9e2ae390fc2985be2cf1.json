@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:20.037Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9e2ae390fc2985be2cf1",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-043"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "神代 利世",
+    "effect": "[退場時]\n裏向きのカードが下にない自分の場の〈金木 研〉を1枚まで選び、このカードを裏向きで選んだキャラの下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "神代利世",
+    "effectZh": "[退场时]\n从己方没有背面朝上卡牌的场上选择一张〈金木研>，将此卡置于所选角色的背面下方。",
+    "triggerZh": ""
+  }
+}

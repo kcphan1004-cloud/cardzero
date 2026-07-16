@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:15.636Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c67854a446768e578a17",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-070"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "グババ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "古巴巴",
+    "effectZh": "[激活主战]\n[横置状态]\n[回合 1]\n本角色在本回合中，获得发生能量+\n[红]”\n以及“在主战阶段结束时，使本角色离场。”的效果。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:10:43.998Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a4229f7ca43e640f1642",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-087"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "弩S",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "弩 S",
+    "effectZh": "[激活主阵]\n[横置状态]\n[回合 1]\n本角色在本回合中，发生能量+\n[红]”，并获取“在主阵结束阶段时，使本角色离场。”。",
+    "triggerZh": ""
+  }
+}

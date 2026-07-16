@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:52:53.046Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0443d4b45704c0c5fb8",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-AP01/S",
+    "UA26BT/RLY-1-AP02/S",
+    "UA26BT/RLY-1-AP03/S",
+    "UA26BT/RLY-1-AP04/S",
+    "UA26BT/RLY-1-AP05/S",
+    "UA26BT/RLY-1-AP06/S"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "资料待补",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "资料待补",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

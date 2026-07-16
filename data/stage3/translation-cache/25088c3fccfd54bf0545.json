@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:02.123Z",
+  "model": "qwen3.5:4b",
+  "unitId": "25088c3fccfd54bf0545",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-065"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "花海 咲季",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "花海 咲季",
+    "effectZh": "【阶段】【若己方移动阶段的 Front L 可移向 Energy L】",
+    "triggerZh": "【抽牌】抽取一张卡牌。"
+  }
+}

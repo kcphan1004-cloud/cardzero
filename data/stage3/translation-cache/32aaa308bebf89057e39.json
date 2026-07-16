@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:01:53.703Z",
+  "model": "qwen3.5:9b",
+  "unitId": "32aaa308bebf89057e39",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-045"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "葛城 リーリヤ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "葛城莉里亚",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

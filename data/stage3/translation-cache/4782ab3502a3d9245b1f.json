@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:31:35.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4782ab3502a3d9245b1f",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-013"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ヴァレン・スターク",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "瓦伦·斯塔克",
+    "effectZh": "[登场时]\n选择自己场上的其他角色最多1张，本回合中，BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色1张，将其激活，本回合中，BP+3000。"
+  }
+}

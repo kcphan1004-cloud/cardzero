@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:04.617Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ebd3837ccc957e7a3a1c",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-031"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "駿河 朱々",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）\n[自分のターン中]\n自分の場に［特徴：七番組］のカード名が4種類以上ある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "骏河 朱々",
+    "effectZh": "[冲击无效]\n（与本角色战斗的角色在本战斗中失去冲击）\n[己方回合中]\n当己方场上有「特征：七番组」卡名种类数达到4种以上时，本角色的BP+500。",
+    "triggerZh": ""
+  }
+}

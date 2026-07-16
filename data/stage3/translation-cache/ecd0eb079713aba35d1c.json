@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:53.295Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ecd0eb079713aba35d1c",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-061"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "ほむらの武器",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "晓美焰的武器",
+    "effectZh": "[启动主]\n[横置]\n[将手牌中的 1 张卡置于场外]\n抽 1 张牌。",
+    "triggerZh": "[获取]\n将该卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:00:09.110Z",
+  "model": "qwen3.5:9b",
+  "unitId": "46966cbb34db0531fef9",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-022"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サイガ-0",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "赛嘉 -0",
+    "effectZh": "[步骤]\n（可在前线 L 向能量线移动）",
+    "triggerZh": "[激活]\n选择自身场上一张角色，将其激活，本回合中 BP+3000。"
+  }
+}

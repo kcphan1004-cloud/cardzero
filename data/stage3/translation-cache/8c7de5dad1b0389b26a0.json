@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:23.762Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8c7de5dad1b0389b26a0",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-098"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "最強の眼",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈キング・ブラッドレイ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "最强之眼",
+    "effectZh": "选择对手前线 L 中 BP3000 以下的角色一枚进行退场处理。若己方有「血之国王」，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手的前线 L 中的一张卡进行退场处理。"
+  }
+}

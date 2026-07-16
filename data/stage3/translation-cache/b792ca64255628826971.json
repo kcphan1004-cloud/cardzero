@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:02:47.652Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b792ca64255628826971",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-014"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "スティグマ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他の［特徴：アマラリルク］を1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "斯提格玛",
+    "effectZh": "[启动主]\n[置为横置状态]\n选择自己场上的其他［特征：阿马拉利鲁克］中的 1 张，本回合内 BP+1000。",
+    "triggerZh": ""
+  }
+}

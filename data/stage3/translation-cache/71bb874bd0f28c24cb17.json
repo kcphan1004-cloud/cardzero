@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:08:13.529Z",
+  "model": "qwen3.5:9b",
+  "unitId": "71bb874bd0f28c24cb17",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-042"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "えびお",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "虾子",
+    "effectZh": "[启动主] [横置][第 1 回合]\n本回合中，该角色的产生能量 +\n[红]\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

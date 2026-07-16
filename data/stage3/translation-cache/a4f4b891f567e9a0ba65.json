@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:32:16.485Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a4f4b891f567e9a0ba65",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-076"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "カナタ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卡纳塔",
+    "effectZh": "[自己的回合中]\n该角色 BP 为 +1000。",
+    "triggerZh": ""
+  }
+}

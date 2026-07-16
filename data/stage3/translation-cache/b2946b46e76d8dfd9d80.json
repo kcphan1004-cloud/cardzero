@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:30:27.655Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b2946b46e76d8dfd9d80",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-074"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "セルケト号",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の山札の下を1枚公開し、自分の山札の上か下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "塞尔凯托号",
+    "effectZh": "【登场时】\n查看自己牌库上方的 2 张卡。从中按任意顺序将想要的数量放回自己牌库上方，其余的置入场外。\n【启动主效果】\n【横置】\n【使这张卡退场】\n公开自己牌库下方的一张卡，并将其置于自己牌库上方或下方。",
+    "triggerZh": "【获取】\n将此卡加入手牌。"
+  }
+}

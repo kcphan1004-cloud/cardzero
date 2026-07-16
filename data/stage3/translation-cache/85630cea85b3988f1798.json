@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:40.292Z",
+  "model": "qwen3.5:4b",
+  "unitId": "85630cea85b3988f1798",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-042"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "犬夜叉",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "犬夜叉",
+    "effectZh": "",
+    "triggerZh": "[獲得]\n將此卡加入手札。"
+  }
+}

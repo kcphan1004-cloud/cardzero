@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:33:23.585Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b6590bda4e22c7b269c1",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-047"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "百沢 雄大",
+    "effect": "レストのこのキャラがアクティブになった時、このキャラを退場させるか、自分の手札を1枚場外に置く。\n[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "百沢 雄大",
+    "effectZh": "横置状态的该角色激活时，选择将其退场或放置自身手牌的任意一张卡至场外。\n【登场时】\n抽1张牌。",
+    "triggerZh": ""
+  }
+}

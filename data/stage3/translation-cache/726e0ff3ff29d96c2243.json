@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:15.045Z",
+  "model": "qwen3.5:4b",
+  "unitId": "726e0ff3ff29d96c2243",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-064"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "香刈 緋雪",
+    "effect": "[自分のターン中]\n自分の場に［特徴：神奈備］が4枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "香刈 緋雪",
+    "effectZh": "[本回合中]\n当自己的场上［特征：神奈备］有4张以上时，该角色BP+1000。",
+    "triggerZh": "[抽牌]\n抽一张卡。"
+  }
+}

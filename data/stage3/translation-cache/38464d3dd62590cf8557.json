@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:15.280Z",
+  "model": "qwen3.5:4b",
+  "unitId": "38464d3dd62590cf8557",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/NGR-1-002"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "天乃 リリサ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天乃 莉莉萨",
+    "effectZh": "[登场时]\n抽一张牌，将手札的一张置于场外。",
+    "triggerZh": ""
+  }
+}

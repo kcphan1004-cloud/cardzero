@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:51:54.447Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0dc21224033d1a1b34c6",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-022"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "百江 なぎさ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[登場時]\nこのキャラがリムーブエリアから登場していた場合、カードを1枚引く。〈百江 なぎさ〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "百江 结华",
+    "effectZh": "[本家回合中]\n该角色 BP+1000。\n[登场时]\n若该角色是从移除区登场的，则抽一张牌。〈百江 结华〉的此效果每回合仅能发动一次。",
+    "triggerZh": ""
+  }
+}

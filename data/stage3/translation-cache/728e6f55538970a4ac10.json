@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:51.553Z",
+  "model": "qwen3.5:4b",
+  "unitId": "728e6f55538970a4ac10",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-050"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "紫雲 清夏",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "紫雲 清夏",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

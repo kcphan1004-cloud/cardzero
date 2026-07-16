@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:24:34.832Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d0d6fd7ff1f9e573721e",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-048"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "エルフェン/エリ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "精灵/艾莉",
+    "effectZh": "【登场时】\n将自身场上除外的其他角色中，必要能量为 1 以下的其中一张返回手牌。若无法返回则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

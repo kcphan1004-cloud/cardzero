@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:05:27.732Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2406b59bc13a902bc4fd",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-048"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "オイカッツォ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "欧伊卡特佐",
+    "effectZh": "当此角色处于激活状态时，该角色的产生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

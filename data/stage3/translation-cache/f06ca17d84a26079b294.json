@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:45.271Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f06ca17d84a26079b294",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-022"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ルーデウス",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "鲁德乌斯",
+    "effectZh": "[登场时]\n抽一张牌，将手札的一张卡置于场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张进行激活，本回合 BP+3000"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:31:39.905Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c7661383a938364b1ac2",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-015"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーツクヨミ",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士月读",
+    "effectZh": "对方场上有蓝色或红色的卡时，将手牌中这张卡的必要能量\n[黄×1]\n减少。",
+    "triggerZh": ""
+  }
+}

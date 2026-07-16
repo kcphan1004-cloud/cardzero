@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:10:00.333Z",
+  "model": "qwen3.5:4b",
+  "unitId": "214515cb64995446c762",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-009"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "陸 無糖",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陆 无糖",
+    "effectZh": "[登场时]\n抽一张牌。",
+    "triggerZh": ""
+  }
+}

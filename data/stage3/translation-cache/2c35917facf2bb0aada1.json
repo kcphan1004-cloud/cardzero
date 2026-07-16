@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:59:31.752Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2c35917facf2bb0aada1",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-011"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "W",
+    "effect": "このキャラがアタックしてブロックされなかった時、手札が2枚になるようにカードを引いてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "W",
+    "effectZh": "当角色攻击且未被阻挡时，可以抽牌使手牌变为 2 张。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

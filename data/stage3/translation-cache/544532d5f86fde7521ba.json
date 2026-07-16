@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:50.918Z",
+  "model": "qwen3.5:9b",
+  "unitId": "544532d5f86fde7521ba",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-097"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "My dear…",
+    "effect": "自分の山札の上から6枚見る。その中から〔［特徴：ドリフター］か［特徴：クレイドルコフィン］〕と［特徴：メイガス］をそれぞれ1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "我亲爱的…",
+    "effectZh": "查看自己牌库上方的 6 张卡。从中公开最多 1 张［特征：流浪者］或［特征：摇篮棺］以及最多 1 张［特征：魔女］加入手牌。将剩余的卡按任意顺序置于自己牌库下方。",
+    "triggerZh": "[激活]\n选择自己场上一名角色，将其激活，本回合中 BP+3000。"
+  }
+}

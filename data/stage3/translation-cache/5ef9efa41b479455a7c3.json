@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:16:29.387Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5ef9efa41b479455a7c3",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-029"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "碇 シンジ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "碇 シンジ",
+    "effectZh": "本キャラ为激活状态时，本卡的生成能量+[紫]。",
+    "triggerZh": ""
+  }
+}

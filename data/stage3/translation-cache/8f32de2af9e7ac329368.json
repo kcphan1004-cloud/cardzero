@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:12.662Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8f32de2af9e7ac329368",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-069"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "弥勒",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "弥勒",
+    "effectZh": "[登场时]\n抽一张牌，并将一张手札置入场外区域。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色卡进行激活，本回合BP+3000"
+  }
+}

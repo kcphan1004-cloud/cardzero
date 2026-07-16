@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:10.889Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4e4bf6ffa8bbfff836df",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-012",
+    "UA40BT/REZ-1-048"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "",
+    "triggerZh": "[获取] 将此卡加入手牌。"
+  }
+}

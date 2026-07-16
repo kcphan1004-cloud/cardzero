@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:29:19.128Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d9a3cdca4efaf1556a6a",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-076"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "黙示録",
+    "effect": "カードを『1枚』引き、自分のライフエリアにあるカードを1枚まで手札に加える。自分の場に必要エナジーが5以上のキャラがある場合、『2枚』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "启示录",
+    "effectZh": "抽「1 张」牌，将位于自己生命区域的卡最多 1 张加入手牌。若自己场上有必要能量为 5 以上的角色时，变为「2 张」。",
+    "triggerZh": "[DRAW] \n抽 1 张牌。"
+  }
+}

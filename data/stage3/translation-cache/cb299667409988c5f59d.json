@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:16:06.881Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cb299667409988c5f59d",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-014"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "橘 美花莉",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "橘 美花莉",
+    "effectZh": "[阶段]\n（可在自己的移动阶段从前线 L 移至能量线）",
+    "triggerZh": ""
+  }
+}

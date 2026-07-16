@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:24.320Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dc6d9cf711f7c47cd64e",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-010"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "キシリカ・キシリス",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "希里卡·希里斯",
+    "effectZh": "[登场时]\n从牌库上方最多选择 3 张查看，按愿望的顺序置于牌库上方。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:20:19.773Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b6148127e488dced1ce6",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-021"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジグラ",
+    "effect": "[アタック時]\n相手のフロントLに元々のBPよりBPが低いキャラがある場合、このキャラはこのターン中、\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "吉格拉",
+    "effectZh": "[攻击时]\n若对方前线 L 存在原本 BP 低于当前角色的角色，则此角色在本回合中,\n[伤害（2）]\n(当此角色通过直接攻击造成伤害时，改为承受 2 点伤害)。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的 1 张 BP 3500 以下的角色牌并放回手牌。"
+  }
+}

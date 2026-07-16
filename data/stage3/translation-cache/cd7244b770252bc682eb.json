@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:31:04.411Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cd7244b770252bc682eb",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-013"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "佐々木 琲世",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "佐々木琲世",
+    "effectZh": "",
+    "triggerZh": "[登场] 将此卡加入手牌。"
+  }
+}

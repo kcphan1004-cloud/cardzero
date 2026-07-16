@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:43.260Z",
+  "model": "qwen3.5:4b",
+  "unitId": "537423ca5bbf74aa41b3",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-035"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "闘技場",
+    "effect": "このフィールドはアクティブで登場させる。\n[起動メイン]\n[レストにする]\n自分のフロントLのキャラとBP3500以上の相手のフロントLのアクティブのキャラをそれぞれ1枚ずつ選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "竞技场",
+    "effectZh": "此场地为激活状态登场。\n[启动主]\n[横置状态]}\n选择自己的前线 L 角色卡一张与 BP3500 以上的对手的前线 L 的激活角色卡各一张，本回合BP+1000。",
+    "triggerZh": "[获取]\n将本卡牌加入手牌"
+  }
+}

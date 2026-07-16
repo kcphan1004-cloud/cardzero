@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:15:57.132Z",
+  "model": "qwen3.5:4b",
+  "unitId": "56f5546e360f34e36e18",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-018"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ランカ・リー",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兰卡·里",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上其他角色 1 张送回手牌。无法回送时，将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

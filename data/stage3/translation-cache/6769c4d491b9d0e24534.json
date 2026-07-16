@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:27:51.754Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6769c4d491b9d0e24534",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-037"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "毘灼",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "毘灼",
+    "effectZh": "选择至多 2 张自己的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若你的生命值不足，从你牌库上方抽一张置于你的生命区。"
+  }
+}

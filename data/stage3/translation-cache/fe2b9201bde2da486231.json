@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:08.798Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fe2b9201bde2da486231",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-107"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "ヒソカ",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "ヒソカ",
+    "effectZh": "[冲击（1）]\n（攻击并战斗胜利时，对对手玩家造成 1 点伤害）\n[伤害（2）]\n（该角色通过攻击直接造成伤害时，代替其造成 2 点伤害）",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

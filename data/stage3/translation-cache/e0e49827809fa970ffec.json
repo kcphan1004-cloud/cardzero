@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:19.692Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e0e49827809fa970ffec",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-095"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "悪一文字",
+    "effect": "自分の場の〈相楽 左之助〉を1枚まで選び、このターン中、BP+1500と\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を与え、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "悪一文字",
+    "effectZh": "选择自己场上最多一张<相乐 左之助>，给予 BP+1500\n冲击（1）\n(攻击并赢得战斗时，对对手玩家造成 1 点伤害)，抽卡。",
+    "triggerZh": "[抽取]\n抽卡"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:55:25.689Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6123fbf7e0a61ed6ab6f",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-113"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "自分の場に他の［特徴：ピュエラ・マギ・ホーリー・クインテット］が4枚以上ある場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "若自己场上存在其他［特征：普耶拉·玛吉·霍利·昆泰特］4 张以上，该角色 BP+500。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并激活，本回合中 BP+3000。"
+  }
+}

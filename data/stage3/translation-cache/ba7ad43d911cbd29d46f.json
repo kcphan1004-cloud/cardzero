@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:26.133Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ba7ad43d911cbd29d46f",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-041"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "相楽 左之助",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "相乐 左之助",
+    "effectZh": "[登场时]将自身场上其他角色中能量为1或以下的，将其一张回复至手牌。若无法回复该角色，则将该角色回复至手牌。",
+    "triggerZh": ""
+  }
+}

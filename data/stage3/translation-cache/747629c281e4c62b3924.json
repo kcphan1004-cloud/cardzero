@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:16:15.949Z",
+  "model": "qwen3.5:9b",
+  "unitId": "747629c281e4c62b3924",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-012"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "リップ",
+    "effect": "[自分のターン中]\n自分のフロントLに他の［特徴：UNDER］が2枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "利普",
+    "effectZh": "[自己的回合中]\n自己前线 L 有其他［特征：UNDER］达到 2 枚以上时，该角色 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并激活，本回合中 BP+3000。"
+  }
+}

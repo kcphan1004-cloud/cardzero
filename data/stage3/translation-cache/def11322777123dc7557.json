@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:23:31.769Z",
+  "model": "qwen3.5:9b",
+  "unitId": "def11322777123dc7557",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-044"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "オギノ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[青]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小日向",
+    "effectZh": "【启动主】\n【横置时】\n【第1回合】\n该角色在本回合中获得“发生能量+\n[蓝]”和“结束阶段，将该角色退场。”的效果。",
+    "triggerZh": ""
+  }
+}

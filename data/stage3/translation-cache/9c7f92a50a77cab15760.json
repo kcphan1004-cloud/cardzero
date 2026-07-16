@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:22:41.109Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9c7f92a50a77cab15760",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-039"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "私リリエルが大好きなんです",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場にカード名に「リリサ」を含むキャラがある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "我最喜欢莉莉艾尔了",
+    "effectZh": "选择BP 3000以下的对方前线L角色1枚并使其退场。若自己场上存在卡名包含「莉丽莎」的角色，则条件改为『BP 5000以下』。",
+    "triggerZh": "[特殊]\n选择对方的前线L角色1枚并使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:38.541Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2de97d886af26bdc36d1",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-066"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "怒羅厳シバき",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈金属バット〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "怒罗严シバき",
+    "effectZh": "选择对手Front L角色的一张，使其离场（BP为3000以下）。如果你的场上有〈金属棒〉，则变为BP5000以下。",
+    "triggerZh": "[Special]\n选择对手Front L角色的一张，使其离场。"
+  }
+}

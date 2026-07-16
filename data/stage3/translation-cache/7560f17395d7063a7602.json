@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:02.807Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7560f17395d7063a7602",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-075"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "桑原 和真",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桑原和真",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本战斗中,\n[冲击]）",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:55:25.692Z",
+  "model": "qwen3.5:9b",
+  "unitId": "86acf6d471ae1e4ab78d",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-002"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "Animalia",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラと別のラインに［特徴：ヴォーパルバニー］がある場合、このキャラを別のラインに移動させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "Animalia",
+    "effectZh": "[启动主]\n[回合 1]\n若该角色与其他线存在［特征：沃帕尔巴尼］，将该角色移动至其他线。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并激活，本回合中 BP+3000。"
+  }
+}

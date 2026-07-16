@@ -1,0 +1,26 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:30.818Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ee66bab37d557f4fb9f7",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/BLC-AP01",
+    "UAPR/BLC-AP01",
+    "UAPR/BLC-AP02",
+    "UAPR/BLC-AP03",
+    "UAPR/BLC-AP04"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(BLEACH 千年血戦篇)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡（BLEACH 千年血战篇）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

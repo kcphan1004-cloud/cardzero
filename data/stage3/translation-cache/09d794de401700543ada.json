@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:19.615Z",
+  "model": "qwen3.5:4b",
+  "unitId": "09d794de401700543ada",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-027",
+    "UA54BT/MST-1-050"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ロキシー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "洛克希斯",
+    "effectZh": "",
+    "triggerZh": "[登场] 将此卡加入手牌。"
+  }
+}

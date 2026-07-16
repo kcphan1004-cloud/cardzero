@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:21:51.982Z",
+  "model": "qwen3.5:9b",
+  "unitId": "820101c56d80d1a3c1bd",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-032"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "羽生 まゆり",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "羽生真由梨",
+    "effectZh": "[启动主效果]\n[横置]\n选择自己场上的另一张角色卡，本回合中其 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色卡，将其激活，本回合中 BP+3000。"
+  }
+}

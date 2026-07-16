@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:31:35.828Z",
+  "model": "qwen3.5:9b",
+  "unitId": "405ee2bd31accce652aa",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-011"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "琉高 ハルカ",
+    "effect": "[自分のターン中]\n自分の場に必要エナジーが3以下の［特徴：KMF］がある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "琉高 晴香",
+    "effectZh": "[在自己回合中]\n如果自己的场上有［特征：KMF］且必要能量为3以下的角色存在，该角色的BP+500。",
+    "triggerZh": ""
+  }
+}

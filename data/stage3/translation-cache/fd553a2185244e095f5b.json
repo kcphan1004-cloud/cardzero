@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:35:26.809Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fd553a2185244e095f5b",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-015"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アルミン・アルレルト",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尔敏·阿诺德特",
+    "effectZh": "[登场时]\n将己方场地上的其他角色中 1 张（必要能量为 1 及以下）返回手牌。若无法返还，则将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

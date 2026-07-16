@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:35.666Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2c4bfeaa830193e96441",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-001"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "朝比奈 りん",
+    "effect": "[自分のターン中]\n自分の場外にカードが5枚以上ある場合、このキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "朝比奈 琳",
+    "effectZh": "[己方回合中]\n若场外有5张以上卡牌，则该角色BP+500。",
+    "triggerZh": ""
+  }
+}

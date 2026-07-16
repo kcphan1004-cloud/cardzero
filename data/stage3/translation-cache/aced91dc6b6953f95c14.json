@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:13:49.731Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aced91dc6b6953f95c14",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-069"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "アリス",
+    "effect": "[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "爱丽丝",
+    "effectZh": "[攻击时]\n可以将该角色下方的背面朝上的卡片 1 张置入场外。如此做的情况下，该角色在本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:13.007Z",
+  "model": "qwen3.5:4b",
+  "unitId": "78548c32836d56d45917",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-091"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "お化け屋敷",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n自分の場のキャラ全ては、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "妖怪屋敷",
+    "effectZh": "本场地为激活状态，可将其召唤至场上。\n[启动主回合]\n[变为横置态]\n己方场上的所有角色在本回合中 BP+500。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

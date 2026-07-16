@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:16.947Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7b3bc31d6b7a5ba47206",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-053"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "桜 遥",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "樱 遥",
+    "effectZh": "该角色处于激活状态时，该角色的发生能量+\n[绿色]。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:22.668Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e81e82d317b746542b5e",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-062"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "豹",
+    "effect": "[登場時]\n自分の山札の上から3枚見る。その中から［特徴：ORDER］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "豹子",
+    "effectZh": "[登场时]\n从自己的牌库上方翻开 3 张。从中公开至多 1 张［特征：ORDER］并加入手札，其余的按任意顺序置于自己牌库下方。将卡牌加入手札时，将自己手札中的 1 张放置到场外。",
+    "triggerZh": ""
+  }
+}

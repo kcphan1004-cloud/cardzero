@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:49:23.132Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2419f01af9ff250dcc8b",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-097"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "ソウルジェム（美樹 さやか）",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "灵魂宝石（美树沙耶香）",
+    "effectZh": "选择最多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，从自己牌库上方放置 1 张到自己的生命值区域。"
+  }
+}

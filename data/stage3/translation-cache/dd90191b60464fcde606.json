@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:47:41.061Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dd90191b60464fcde606",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-109"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "烏野高校排球部",
+    "effect": "自分の山札の上から5枚見る。その中から［特徴：烏野高校］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "乌野高校排球部",
+    "effectZh": "查看自己牌库上方的5张卡。从中公开最多2张［特征：乌野高校］加入手牌，其余按任意顺序放回自己牌库下方。",
+    "triggerZh": "[抽]\n抽1张牌。"
+  }
+}

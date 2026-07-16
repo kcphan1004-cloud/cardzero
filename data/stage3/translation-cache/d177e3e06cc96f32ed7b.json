@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:56:28.838Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d177e3e06cc96f32ed7b",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-092"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "三虎",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三虎",
+    "effectZh": "[登场时]\n抽 1 张牌，将手牌中的 1 张置于场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

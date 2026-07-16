@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:02.806Z",
+  "model": "qwen3.5:9b",
+  "unitId": "638e3d378b522f4eae5e",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-074"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "桑原 和真",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[赤]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑原和真",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[红色]。\n主阶段结束时，使该角色退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:30:40.593Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2775210879bdeda8e12",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-003",
+    "UA34BT/CGD-1-043"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "春柳宮 サクラ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "春柳宫 樱",
+    "effectZh": "[登场时]\n将自己场上其他必要能量为 1 以下的角色返回至手牌。若无法返回，则将此角色返回至手牌。",
+    "triggerZh": ""
+  }
+}

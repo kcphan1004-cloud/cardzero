@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:01.652Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6aa757499539722c157c",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "EX13BT/GIM-2-057"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "葛城 リーリヤ",
+    "effect": "自分のフロントLに〈紫雲 清夏〉がある場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "葛城 莉里雅",
+    "effectZh": "若你的前线L有〈紫云 清夏〉，则该角色发生能量+[红]。",
+    "triggerZh": ""
+  }
+}

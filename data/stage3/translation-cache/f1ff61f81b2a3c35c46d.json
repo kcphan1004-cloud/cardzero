@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:29.106Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f1ff61f81b2a3c35c46d",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-036"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ルナティーク号",
+    "effect": "自分のフロントLに〈金色の闇〉がある場合、このフィールドの発生エナジー+\n[黄]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "鲁纳蒂克号",
+    "effectZh": "若自己的前线L有〈金色之暗〉，则本场地产生的能量+\n[黄]\n。",
+    "triggerZh": "[获取]\n将此卡加入手札"
+  }
+}

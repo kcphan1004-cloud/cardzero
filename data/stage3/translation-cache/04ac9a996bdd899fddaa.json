@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:10:21.499Z",
+  "model": "qwen3.5:9b",
+  "unitId": "04ac9a996bdd899fddaa",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-053"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "スターダスト",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "星尘",
+    "effectZh": "【无效冲击】\n（与该角色进行战斗的角色在本场战斗中，\n失去\n【冲击】）",
+    "triggerZh": "【激活】\n选择自己场上的 1 张卡并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

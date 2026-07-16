@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:40:31.178Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7bdcfef0d2424a69c045",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-046"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジーク・イェーガー",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の［特徴：無垢の巨人］を1枚選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "吉克·耶格尔",
+    "effectZh": "[启动主] \n[横置状态]\n选择自身场上的［特征：无垢的巨人］中的 1 枚，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自身场上的角色中的 1 枚，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

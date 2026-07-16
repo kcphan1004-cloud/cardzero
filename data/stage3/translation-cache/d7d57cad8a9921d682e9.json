@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:51:54.445Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d7d57cad8a9921d682e9",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-021"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "百江 なぎさ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "百江 なぎさ",
+    "effectZh": "【无效冲击】（本角色与对手进行战斗时，该对手在本场战斗中失去[冲击]）",
+    "triggerZh": ""
+  }
+}

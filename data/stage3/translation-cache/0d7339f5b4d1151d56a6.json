@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:38:23.714Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0d7339f5b4d1151d56a6",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-102",
+    "UA21BT/YYH-1-068"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "浦飯 幽助",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "浦饭 幽助",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其激活，本回合 BP+3000。"
+  }
+}

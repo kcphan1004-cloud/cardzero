@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:04:06.112Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b10a0c1e3c2c0a2c756a",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-051"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "戦場ヶ原 ひたぎ",
+    "effect": "[起動メイン]\n[ターン1]\n自分の手札を1枚自分の山札の上に置く。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "战场原 姬子",
+    "effectZh": "[激活主侧]\n[回合1]\n将手札中的1张牌置于自己的山札上方。如此操作时，本角色在本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择场上的1个角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

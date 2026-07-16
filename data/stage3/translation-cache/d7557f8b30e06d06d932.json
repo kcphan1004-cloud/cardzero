@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:25:18.045Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d7557f8b30e06d06d932",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-057"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "羽生 まゆり",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "羽生真由梨",
+    "effectZh": "[无效化冲击]（与该角色进行战斗的角色在本场战斗中，\n\n失去 [冲击]\n）",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

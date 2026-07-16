@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:04.614Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ac3256b4afc7ffe4afa4",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-028"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "駿河 朱々",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "骏河 朱々",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择己方场上的一个角色进行激活，本回合中BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:23.387Z",
+  "model": "qwen3.5:4b",
+  "unitId": "69665ed8a53bf0746b9c",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-075"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "迷宮都市ラパン",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。\n[退場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "迷宫都市拉潘",
+    "effectZh": "登场时\n抽1张牌，并将手牌中的1张置于场外。\n退场时\n抽1张牌。",
+    "triggerZh": "[获取]\n将本卡置于手牌。"
+  }
+}

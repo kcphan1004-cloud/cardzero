@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:49:11.222Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c72683bf2e8ab9937dc6",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-092"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エキドナ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾克朵娜",
+    "effectZh": "[登场]抽1张牌并将自己的手札中的1张置于场外。<br><br>",
+    "triggerZh": "[抽取]<br>抽1张牌"
+  }
+}

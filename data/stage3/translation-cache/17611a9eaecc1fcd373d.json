@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:08.471Z",
+  "model": "qwen3.5:4b",
+  "unitId": "17611a9eaecc1fcd373d",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-049"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "リザ・ホークアイ",
+    "effect": "[登場時]\n自分の場に〈ロイ・マスタング〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "丽莎·霍克艾",
+    "effectZh": "[登场时] 若己方场地上有〈罗伊·马斯廷〉，则抽一张牌。",
+    "triggerZh": ""
+  }
+}

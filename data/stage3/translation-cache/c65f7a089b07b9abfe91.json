@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:39:49.252Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c65f7a089b07b9abfe91",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-035"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ケニー・アッカーマン",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯尼·阿克曼",
+    "effectZh": "对方场上有蓝色或红色的卡时，将手牌中这张卡的必要能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

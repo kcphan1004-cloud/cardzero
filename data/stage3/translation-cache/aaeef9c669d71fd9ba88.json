@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:02:20.184Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aaeef9c669d71fd9ba88",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-053"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "飛影",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "飞影",
+    "effectZh": "【阶段】\n（在自己的移动阶段可从前线 L 移至能量线）",
+    "triggerZh": "【激活】\n选择自己场上的角色 1 张并激活之，本回合中 BP+3000。"
+  }
+}

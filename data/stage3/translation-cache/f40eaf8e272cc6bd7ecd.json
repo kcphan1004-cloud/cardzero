@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:42:10.232Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f40eaf8e272cc6bd7ecd",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/RNK-1-014"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "四乃森 蒼紫",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "四乃森苍紫",
+    "effectZh": "[登场时]\n抽1张。将1张卡置于自己场外。\n[激活时]\n选择自己的场上角色1张，将其激活，本回合BP+3000。",
+    "triggerZh": "[激活]\n选择自己的场上角色1张，将其激活，本回合BP+3000"
+  }
+}

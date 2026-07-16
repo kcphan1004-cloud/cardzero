@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:06.964Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a165934a16eb153d6527",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-047"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "坂本 太郎",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

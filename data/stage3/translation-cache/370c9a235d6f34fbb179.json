@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:16:44.527Z",
+  "model": "qwen3.5:4b",
+  "unitId": "370c9a235d6f34fbb179",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-037"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "渚 カヲル",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "渚 香织",
+    "effectZh": "[启动主阶段]\n将状态改为横置\n[回合数：1]此角色在本回合中，发生能量+<span style=\"color:purple\">紫</span>并获得「在主阶段结束时将此卡退场」的效果。",
+    "triggerZh": ""
+  }
+}

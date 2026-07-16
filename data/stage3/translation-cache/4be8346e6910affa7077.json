@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:15:08.723Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4be8346e6910affa7077",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-025"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "アヤナミレイ（仮称）",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绫波丽（暂定）",
+    "effectZh": "[登场时] 从你的牌库上方抽 1 张，将其置于你手札或场外区域。",
+    "triggerZh": ""
+  }
+}

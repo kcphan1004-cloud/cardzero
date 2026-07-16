@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:24.148Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1517e27f47e36daf0280",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-005"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "影縫 余弦",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "影缝 余弦",
+    "effectZh": "如果对方场上有紫色或红色的卡，则手札中此卡的必要能量减少\n[黄×1]。",
+    "triggerZh": ""
+  }
+}

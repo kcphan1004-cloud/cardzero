@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:36:51.001Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5bd2ccb7f92c3128f77d",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MCR-1-067"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "リン・ミンメイ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラ全ては、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "琳·明美",
+    "effectZh": "阶段（当可以从前线移至能量线时）\n启动主回合\n当前位于前线时\n第1回合\n自己场上的其他所有角色本场中BP+1000。",
+    "triggerZh": "获取\n将本卡牌加入手牌"
+  }
+}

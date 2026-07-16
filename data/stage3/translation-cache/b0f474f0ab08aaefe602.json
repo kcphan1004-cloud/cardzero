@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:48:31.489Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b0f474f0ab08aaefe602",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-110"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "タルラ",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "塔拉",
+    "effectZh": "[冲击（1）]\\n（攻击并赢得战斗时，对对手造成1点伤害）",
+    "triggerZh": "[抽牌]\\n从牌库上方抽取1张卡牌。"
+  }
+}

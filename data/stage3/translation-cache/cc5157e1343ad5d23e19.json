@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:58.320Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cc5157e1343ad5d23e19",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-073"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ベータ",
+    "effect": "自分のフロントLに〈シド・カゲノー〉がある場合、このキャラの発生エナジー+\n[紫]\n。\n[登場時]\n自分の山札の上から2枚まで場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "贝塔",
+    "effectZh": "若己方前线 L 存在〈西德·卡格诺〉，该角色发生能量+\n[紫]。\n[登场时]\n从己方牌库上方抽取最多两张置于场外。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:37:32.323Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ca22e32da518c996a41",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-014",
+    "UA16BT/SYN-1-014"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "カナタ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "空汰",
+    "effectZh": "[无效化冲击]\n（与此角色进行战斗的角色在本场战斗中，\n失去\n[冲击]）",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:21:20.528Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0e562e5b7f0f70890ff7",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/ARK-1-040"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アーミヤ",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\n自分のエナジーLのキャラを1枚選び、このターン中、「このキャラは退場しない。」を与える。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "阿米娅",
+    "effectZh": "[激活主侧]\n将一张牌置于场外。\n回合1\n选择你的能量L的一张角色，给予该角色“本回合内不会离场”。",
+    "triggerZh": "[颜色]"
+  }
+}

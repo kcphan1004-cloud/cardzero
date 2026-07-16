@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:25:01.007Z",
+  "model": "qwen3.5:9b",
+  "unitId": "53c412dfe58d7deafa17",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-047"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "トキオ",
+    "effect": "自分の場に〈ムートン〉がある場合、このキャラはBP+500と\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "东京",
+    "effectZh": "自己场上有〈穆顿〉时，该角色获得 BP+500 以及\n[冲击无效]\n（与该角色进行战斗的角色在本场战斗中失去 [冲击]）。\n\n触发：\n选择自己场上一张角色卡并使其处于激活状态，本回合中 BP+3000。",
+    "triggerZh": "[激活]\n将这张卡加入手牌或满足必要能量时使其进入雷德状态。"
+  }
+}

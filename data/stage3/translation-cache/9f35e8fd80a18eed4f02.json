@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:47:17.181Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9f35e8fd80a18eed4f02",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/TKN-1-106"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "三島 一八",
+    "effect": "このキャラの下に裏向きのカードが2枚以上ある場合、このキャラはBP+500。\n[登場時]\n自分の山札の上から1枚を裏向きでこのキャラの下に置く。\n※このカードには、記載内容の訂正があります。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三岛 一八",
+    "effectZh": "当此角色下方有背向的卡片2枚以上时，此角色的BP+500。\n[登场时]\n从自己的牌库上方抽一张并背向置于此角色下方。",
+    "triggerZh": ""
+  }
+}

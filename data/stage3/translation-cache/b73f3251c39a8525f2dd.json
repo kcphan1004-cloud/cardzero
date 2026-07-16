@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:16.945Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b73f3251c39a8525f2dd",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-050"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "桐生 三輝",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桐生 三辉",
+    "effectZh": "[无效冲击]\n（与该角色战斗的角色在本战斗中\n[失去冲击]）\n[登场时]\n选择自己场上的一张其他角色，本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

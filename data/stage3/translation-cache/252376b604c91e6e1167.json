@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:54:32.584Z",
+  "model": "qwen3.5:9b",
+  "unitId": "252376b604c91e6e1167",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-017"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "十王 星南",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "十王 星南",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此牌加入手牌。"
+  }
+}

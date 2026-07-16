@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:00.694Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f858e8b0ad8ef80c6fbf",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-105"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "[自分のターン中]\nこのキャラはBP-1000。\n[自分のターン中]\nこのキャラとのバトルで敗北した相手のキャラは、退場する代わりにエナジーLに移動する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "緋村 剣心",
+    "effectZh": "[自己的回合中]此角色的 BP-1000。\n[自己的回合中]\n與此角色戰鬥並敗北的對手角色，以退場為代價移動至能量 L。",
+    "triggerZh": "[抽牌]\n抽一張卡片"
+  }
+}

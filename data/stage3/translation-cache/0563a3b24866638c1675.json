@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:21.505Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0563a3b24866638c1675",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-063"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "姫野",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "姫野",
+    "effectZh": "[登场时] 抽一张牌，将手札的一张卡置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

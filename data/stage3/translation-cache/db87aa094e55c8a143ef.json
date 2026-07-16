@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:38.538Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db87aa094e55c8a143ef",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-063"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ヒーロー協会",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の手札から必要エナジーが3以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "英雄协会",
+    "effectZh": "[启动主] [变为横置状态] 使这张卡离场。\n从你的手牌中，选择必要能量为3以下、AP为1的绿色角色卡一张，以横置状态登场到你的场上。",
+    "triggerZh": "[抽牌]\n抽取一张卡片。"
+  }
+}

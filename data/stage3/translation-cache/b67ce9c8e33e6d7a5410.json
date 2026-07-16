@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:04:59.751Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b67ce9c8e33e6d7a5410",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-011"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "戦慄のタツマキ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "战栗的塔马奇",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡片加入手牌"
+  }
+}

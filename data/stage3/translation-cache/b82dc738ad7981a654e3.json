@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:22.658Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b82dc738ad7981a654e3",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-053"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "タンクトップマスター",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "背心大师",
+    "effectZh": "当此角色处于激活状态时，将此角色的产生能量+[绿]。",
+    "triggerZh": ""
+  }
+}

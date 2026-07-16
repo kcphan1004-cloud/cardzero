@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:14:44.682Z",
+  "model": "qwen3.5:9b",
+  "unitId": "25fab6ee55954c41914d",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-078"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ケルシー",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯尔希",
+    "effectZh": "对方场上存在黄色或蓝色的卡牌时，将此卡在手牌中的必要能量\n【红色×1】\n减少。",
+    "triggerZh": ""
+  }
+}

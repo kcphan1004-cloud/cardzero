@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:31.796Z",
+  "model": "qwen3.5:4b",
+  "unitId": "baadde45e4207820aa55",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-004"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "殺生丸",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "杀生丸",
+    "effectZh": "",
+    "triggerZh": "[获取],将这张卡加入手札。"
+  }
+}

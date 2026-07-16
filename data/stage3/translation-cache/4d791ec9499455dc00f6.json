@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:57:27.213Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d791ec9499455dc00f6",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-002"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ミーシャ",
+    "effect": "[登場時]\n必要エナジーが2以下の自分の場のキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "米莎",
+    "effectZh": "【登场时】\n选择自己场上必要能量为 2 以下的角色最多 1 枚，本回合中 BP+2000。",
+    "triggerZh": "【激活】\n选择自己场上的角色 1 枚，将其激活，本回合中 BP+3000。"
+  }
+}

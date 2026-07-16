@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:22.661Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1f7cd1575bd832ad800f",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-056"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "番犬マン",
+    "effect": "このキャラは移動できない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "番犬曼",
+    "effectZh": "本角色无法移动。",
+    "triggerZh": "[激活]选择自己场上的 1 个角色并使其进入激活状态，在本回合 BP+3000"
+  }
+}

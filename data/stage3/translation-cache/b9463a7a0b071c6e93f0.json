@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:07.883Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b9463a7a0b071c6e93f0",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-084"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "シエル",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "希尔",
+    "effectZh": "[登场时]\n选择自己场上的其他角色 1 枚，在本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，将其激活，并在本回合中 BP+3000。"
+  }
+}

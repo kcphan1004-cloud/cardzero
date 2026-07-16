@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:55.059Z",
+  "model": "qwen3.5:4b",
+  "unitId": "45f53a71935440f397c1",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-073"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "相楽 左之助",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "相乐 左之助",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将该卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:07:19.354Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef055d0cecef05deec1c",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-036"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "心の結晶",
+    "effect": "自分の場外から［特徴：アマラリルク］を1枚まで手札に加える。自分の場に［特徴：ヒーロー］がない場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "心之结晶",
+    "effectZh": "从场外选择最多 1 张［特征：阿马拉利鲁］加入手牌。若场上没有［特征：英雄］，抽 1 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

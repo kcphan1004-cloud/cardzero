@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:28:30.127Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9e0ef37ea68d464e169b",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-072"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ムイ",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラが登場したターン中のみ発動できる。自分の場の他のキャラを1枚選び、このターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无依",
+    "effectZh": "[启动主]\n[回合 1]\n仅在本角色登场的回合中发动。选择自己场上的其他角色 1 张，本回合中给予\n[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）、triggerZh:",
+    "triggerZh": ""
+  }
+}

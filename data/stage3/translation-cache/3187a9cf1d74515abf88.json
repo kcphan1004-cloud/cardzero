@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:48.772Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3187a9cf1d74515abf88",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-038"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "イデアール",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伊达尔",
+    "effectZh": "",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

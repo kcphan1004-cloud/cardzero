@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:43.468Z",
+  "model": "qwen3.5:4b",
+  "unitId": "08da01e4e90b490121c9",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-080"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ラム",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉姆",
+    "effectZh": "[登场时]\n选择己方场地的一张其他角色，若其满足条件则将其返回手牌；否则将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

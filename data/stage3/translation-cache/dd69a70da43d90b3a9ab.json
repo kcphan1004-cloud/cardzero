@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:21.512Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dd69a70da43d90b3a9ab",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-061"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ナナ・アスタ・デビルーク",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\n自分の場に〈モモ・ベリア・デビルーク〉がある場合、このキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "七草 阿斯塔·德比鲁克",
+    "effectZh": "[步骤]（在己方的移动阶段可从前线L移至能量线）\n[己方回合中]\n若己方场上有〈桃井 贝莉亚·德比鲁克〉，该角色BP+1500。",
+    "triggerZh": ""
+  }
+}

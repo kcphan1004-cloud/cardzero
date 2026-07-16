@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:05:27.729Z",
+  "model": "qwen3.5:9b",
+  "unitId": "82e425405b8c806f2f73",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-046"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "魚臣 慧",
+    "effect": "このカードは〈オイカッツォ〉としても扱う。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "鱼臣 慧",
+    "effectZh": "这张卡也当作〈欧伊卡特佐〉处理。",
+    "triggerZh": "[激活]\n选择自己场上的角色中的 1 张，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

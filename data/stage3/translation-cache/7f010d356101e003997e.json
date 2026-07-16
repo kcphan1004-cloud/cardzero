@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:46:06.456Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f010d356101e003997e",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-095",
+    "UA19BT/HIQ-1-095"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "烏養 繋心＆武田 一鉄",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このフィールドの発生エナジー+\n[赤]\n。メインフェイズ終了時、このフィールドを退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "乌养系心＆武田一铁",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本回合中，此区域的产生能量+\n[红]。\n主阶段结束时，将此区域退场。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

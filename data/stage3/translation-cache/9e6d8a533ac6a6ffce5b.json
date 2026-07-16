@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:31.226Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9e6d8a533ac6a6ffce5b",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-006"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "葛󠄀城 ミサト",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場の黄のキャラを1枚選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "葛城 美里",
+    "effectZh": "[启动主效果]\n将横置\n使离场\n选择己方场上的黄色角色一张，以激活状态登场。",
+    "triggerZh": "[抽牌]\n将此卡加入手札"
+  }
+}

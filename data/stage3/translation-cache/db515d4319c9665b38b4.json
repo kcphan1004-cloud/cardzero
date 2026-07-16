@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:58.263Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db515d4319c9665b38b4",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-064"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "バーディガーディ",
+    "effect": "このキャラはアクティブで登場させる。\n[退場時]\nこのカードを手札に加えてもよい。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "巴迪加德",
+    "effectZh": "本角色卡作为活跃状态登场。\n[离场时]\n可将其加入手牌。",
+    "triggerZh": "[激活]选择自己场上的一张角色卡，使其成为活跃状态，本回合中BP+3000。"
+  }
+}

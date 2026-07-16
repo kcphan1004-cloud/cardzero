@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:29.108Z",
+  "model": "qwen3.5:4b",
+  "unitId": "41f0affb13ea6ea4fbb0",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-039"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ダークマター",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、リムーブエリアに置く。自分の場に〈ネメシス〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "暗物质",
+    "effectZh": "选择对手前线L中BP 3000以下的角色1张，将其置于移除区。若自己场地有〈复仇女神〉，则代替『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对手前线L中的一张角色，使其退场"
+  }
+}

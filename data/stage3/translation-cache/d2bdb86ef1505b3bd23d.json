@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:04:02.805Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d2bdb86ef1505b3bd23d",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-073"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "蔵馬",
+    "effect": "このキャラはアクティブで場に登場させる。\n[登場時]\n手札が3枚になるようにカードを引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "藏马",
+    "effectZh": "本角色以激活状态登场。\n[登场时]\n抽卡使手牌变为 3 张。",
+    "triggerZh": "[获取]\n将此卡片加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:27.993Z",
+  "model": "qwen3.5:4b",
+  "unitId": "815466ca1bafa64d0e5c",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-058"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ナタリア・ルクセンブルグ",
+    "effect": "[起動メイン]\n[ターン1]\n自分のフロントLの他の［特徴：ネオ・ブリタニア帝国］を1枚選び、エナジーLに移動させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "娜塔莉亚·卢森堡格",
+    "effectZh": "[启动主侧]\n[回合 1]\n选择己方 FRONT L 的其他一张［特征：新不列颠帝国］，移动至能量 L。",
+    "triggerZh": "[抽牌]\n抽取一张卡。"
+  }
+}

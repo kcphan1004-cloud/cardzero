@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:40:31.174Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a382627b184f59b76c74",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-043"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "無垢の巨人（髭がある巨人）",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "无垢的巨人（有胡子的巨人）",
+    "effectZh": "",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:30.488Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cdaf396cae821856ff34",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-021"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "傅抵",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "傅抵",
+    "effectZh": "[登場時]\n選擇自己場上一張角色，本回合 BP+1000。",
+    "triggerZh": ""
+  }
+}

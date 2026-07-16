@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:48.838Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1078f0f1bcdf250860a5",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-090"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "摩論",
+    "effect": "[登場時]\n〈摩論〉以外の自分の場の［特徴：桓騎軍］を1枚まで選び、このターン中、「\n[退場時]\nこのカードを手札に加える。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "摩论",
+    "effectZh": "[登场时]选择自己场上除<em style=\"font-family: 'Hiragino Kaku Gothic Pro', sans-serif;\">〈摩论〉</em>以外的 1 张［特征：桓骑军］，本回合中给予其「在退场时，将此卡加入手牌。」。",
+    "triggerZh": "[抽]<br/>抽取一张卡牌。"
+  }
+}

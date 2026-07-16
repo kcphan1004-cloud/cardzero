@@ -1,9 +1,0 @@
-{
-  "status": "error",
-  "failedAt": "2026-07-15T13:21:40.257Z",
-  "unitId": "754eff509b014af6de96",
-  "cardNumbers": [
-    "UA03ST/HTR-1-108"
-  ],
-  "error": "UA03ST/HTR-1-107 缺少中文 Trigger。"
-}

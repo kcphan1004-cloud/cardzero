@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:22.673Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4f9b05e93934df2772e7",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-065"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "勢羽 夏生",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "势羽 夏生",
+    "effectZh": "",
+    "triggerZh": "【登场时】将这张卡加入手牌。"
+  }
+}

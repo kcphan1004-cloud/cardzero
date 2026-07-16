@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:27:39.622Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b54db408e103ec518179",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-031"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "炭",
+    "effect": "[登場時]\n自分の場の〈六平 千鉱〉か〈座村 イヲリ〉か［特徴：居合白禊流］を1枚まで選び、別のラインに移動させるか、別のラインのキャラ1枚と位置を入れ替える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炭",
+    "effectZh": "[登场时]选择自己场上的「六平 千矿」或「座村 イヲリ」（特征：居合白禊流）中的一张，将其移动至另一条线，或者与另一条线的角色一张进行位置互换。",
+    "triggerZh": ""
+  }
+}

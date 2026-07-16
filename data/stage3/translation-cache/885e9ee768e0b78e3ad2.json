@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:48.180Z",
+  "model": "qwen3.5:4b",
+  "unitId": "885e9ee768e0b78e3ad2",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-071"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ララ・サタリン・デビルーク",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "拉啦·萨塔林·德比鲁克",
+    "effectZh": "[登场时]\n抽1张牌，将手札中的1张卡置于场外。",
+    "triggerZh": "[抽取]\n抽1张牌"
+  }
+}

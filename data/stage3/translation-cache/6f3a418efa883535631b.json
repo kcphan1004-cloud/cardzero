@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:54:28.915Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6f3a418efa883535631b",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-010"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "殺生丸の母",
+    "effect": "[登場時]\n自分の場外から必要エナジーが4以下で特徴を持たない紫のキャラカードを1枚まで手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "殺生丸之母",
+    "effectZh": "[登場時]\n從牌庫上方選擇至多 1 張，滿足以下條件的紫角色卡加入手札：\n- 需要能量為 4 或更少\n- 無特徵",
+    "triggerZh": "[激活]\n選擇自己場上的 1 張角色並將其激活，本回合 BP+3000。"
+  }
+}

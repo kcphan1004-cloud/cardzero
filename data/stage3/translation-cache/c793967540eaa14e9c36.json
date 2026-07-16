@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:10:28.648Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c793967540eaa14e9c36",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-055",
+    "UA21BT/YYH-1-055"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "プー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "普鲁士",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[绿]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

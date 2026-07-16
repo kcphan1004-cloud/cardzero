@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:24.338Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dcd1d477ae2dc017ab52",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-053"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ロイ・マスタング",
+    "effect": "[登場時]\nBP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "罗伊·马斯汀格",
+    "effectZh": "[登场时]\n选择对手BP1500以上的任一前置线角色（最多1张），本回合中，该角色的BP-1000。",
+    "triggerZh": ""
+  }
+}

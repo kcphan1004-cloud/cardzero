@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:26:22.783Z",
+  "model": "qwen3.5:4b",
+  "unitId": "02193d2152ad42e5056c",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-019"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "座村 清市",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "座村 清市",
+    "effectZh": "当此角色处于激活状态时，本角色的发生能量+[紫]。",
+    "triggerZh": ""
+  }
+}

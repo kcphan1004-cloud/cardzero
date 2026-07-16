@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:24:23.250Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5931ed9d12764305c907",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-039"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "非対称性透過シールド",
+    "effect": "自分の場のキャラを1枚選び、次の自分のターン開始時まで、BP+1000。自分の場に〈バイラス〉がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "非对称性透过护盾",
+    "effectZh": "选择我方场上的一张角色，直到下一个我方回合开始为止，BP+1000。若我方场上有〈维拉斯〉，抽一张牌并将我方的手牌中的一张置于场外。",
+    "triggerZh": "[激活]\n选择我方场上一张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

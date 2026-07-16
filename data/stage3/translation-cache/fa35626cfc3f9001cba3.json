@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:04.015Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fa35626cfc3f9001cba3",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-066"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "柘浦 大河",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "柘浦 大河",
+    "effectZh": "",
+    "triggerZh": "[抽牌] <br>抽取一张卡牌。"
+  }
+}

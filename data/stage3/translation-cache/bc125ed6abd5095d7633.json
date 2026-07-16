@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:52:53.051Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bc125ed6abd5095d7633",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-004"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "倉本 千奈",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[アタック時]\nこのキャラのBPが4000以上の場合、カードを1枚まで引く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "倉本 千奈",
+    "effectZh": "[无效化冲击]（与此角色进行战斗的角色在本场战斗中失去 [冲击]）\n[攻击时]\n若此角色的 BP 为 4000 以上，最多抽 1 张牌。",
+    "triggerZh": "[颜色]\n选择对手 Front L 中 BP3500 以下的角色卡至多 1 张并返回手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:45:33.017Z",
+  "model": "qwen3.5:9b",
+  "unitId": "72b9b05ffb37e9a06826",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-069"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ハンジ・ゾエ",
+    "effect": "[登場時]\n自分の場に［特徴：巨人継承者］がある場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "韩吉·佐耶",
+    "effectZh": "[登场时]\n若自己场上有［特征：巨人继承者］，则抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡 1 枚，使其激活，本回合中 BP+3000。"
+  }
+}

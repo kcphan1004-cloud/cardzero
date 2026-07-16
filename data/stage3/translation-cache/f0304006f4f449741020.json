@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:00:07.692Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0304006f4f449741020",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-030"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "月村 手毬",
+    "effect": "[登場時]\n自分の場の〈秦谷 美鈴〉を1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "月村 手毬",
+    "effectZh": "【登场时】\n选择自己场上的〈秦谷美铃〉最多 1 张，使其处于激活状态。",
+    "triggerZh": ""
+  }
+}

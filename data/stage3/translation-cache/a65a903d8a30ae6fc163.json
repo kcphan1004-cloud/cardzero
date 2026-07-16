@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:45.775Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a65a903d8a30ae6fc163",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-013"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线L移动到能量线）",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

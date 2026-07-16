@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:11:22.995Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b1fa13719c23aa57ca7b",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-060"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ペペシャ",
+    "effect": "このカードは〈スピリッツ〉としても扱う。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "佩佩夏",
+    "effectZh": "这张卡也作为〈精灵〉处理。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

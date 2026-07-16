@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:10:21.502Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0db04552beced29f9c20",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-056"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "スピリッツ",
+    "effect": "[アタック時]\n自分の場に必要エナジーが4以上の他の［特徴：ヒーロー］がある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "精灵",
+    "effectZh": "【攻击时】\n当己方场上存在必要能量为 4 以上的其他［特征：英雄］时，抽 1 张牌并将自己手札中的 1 张置入场外。",
+    "triggerZh": "【抽卡】\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:48.365Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b9a1f30a0e2796c6ca11",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/GIM-2-013"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "有村 麻央",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有村 麻央",
+    "effectZh": "[登场时]\n抽一张牌，将手札一张置于场外。",
+    "triggerZh": ""
+  }
+}

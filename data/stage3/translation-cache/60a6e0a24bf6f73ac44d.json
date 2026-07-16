@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:19.214Z",
+  "model": "qwen3.5:4b",
+  "unitId": "60a6e0a24bf6f73ac44d",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-AP01",
+    "UA43BT/SMD-1-AP02",
+    "UA43BT/SMD-1-AP03",
+    "UA43BT/SMD-1-AP04",
+    "UA43BT/SMD-1-AP05",
+    "UA43BT/SMD-1-AP06",
+    "UA43BT/SMD-1-AP07",
+    "UA43BT/SMD-1-AP08",
+    "UA43BT/SMD-1-AP09",
+    "UA43BT/SMD-1-AP10",
+    "UA43BT/SMD-1-AP11",
+    "UA43BT/SMD-1-AP12"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "アクションポイントカード(SAKAMOTO DAYS)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡(坂本日常)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

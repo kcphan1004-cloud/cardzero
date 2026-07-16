@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:34:58.401Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0c818e38730cce11adf0",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-027"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "マミの家",
+    "effect": "[起動メイン]\n[ターン1]\n自分の手札のイベントカードを1枚場外に置く。そうした場合、このターン中、自分の手札にある全ての〈巴 マミ〉の必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "鹿目家的家",
+    "effectZh": "[启动主效果]\n[回合 1]\n将手牌中的事件卡中的 1 张置入场外。如此操作时，本回合中，手牌中的所有〈巴·美树〉的必要能量\n[黄×1]\n减少。\n\n[获取]\n将此卡加入手牌。",
+    "triggerZh": "[触发]"
+  }
+}

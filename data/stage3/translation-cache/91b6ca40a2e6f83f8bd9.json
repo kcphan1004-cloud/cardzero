@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:43:11.362Z",
+  "model": "qwen3.5:4b",
+  "unitId": "91b6ca40a2e6f83f8bd9",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-054"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "信",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[青×2]\n減らす。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "信",
+    "effectZh": "若我方场上没有卡片，则可将手札中的本角色所需能量\n[蓝×2]\n减少。\n[登场时] 抽 1 张牌，并将我方手札的 1 张牌置于场外。",
+    "triggerZh": "[激活]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:04.492Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3abe2cba365d2087c9c1",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-031"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "柊 登馬",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "柊 登马",
+    "effectZh": "当该角色处于激活状态时，将该角色的发生能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

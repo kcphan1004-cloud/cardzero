@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:17:05.652Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c43b840207b464a4d25",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-023"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "伐虎",
+    "effect": "[相手のターン中]\n[フロントLにある場合]\n自分の場の〈亜白 ミナ〉は「相手はキャラの効果やイベントカードの効果でこのキャラを選ぶ際に、追加で自身の手札を1枚場外に置かないと選べない。」を得る。〈伐虎〉のこの効果は重複しない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伐虎",
+    "effectZh": "【对手的回合中】\n【位于前线L时】\n自己场上的〈亚白 米娜〉获得“当对手选择该角色时，若不在额外牌组放置1张手牌则不能选择。”的效果。《伐虎》的此效果不重复叠加。",
+    "triggerZh": "抽牌"
+  }
+}

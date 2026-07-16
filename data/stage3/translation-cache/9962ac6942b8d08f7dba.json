@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:56:23.119Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9962ac6942b8d08f7dba",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-052"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "佐渡島 方治",
+    "effect": "自分の場に〈志々雄 真実〉か〈駒形 由美〉か他の［特徴：十本刀］が合計3枚以上ある場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐渡岛 方治",
+    "effectZh": "若己场有「志々雄 真実」或「驹形 由美」或其他［特征：十本刀］合计3张以上，此角色发生能量+1。",
+    "triggerZh": ""
+  }
+}

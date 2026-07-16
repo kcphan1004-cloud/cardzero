@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:30:12.499Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5a8dcc9666df1a627038",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-007"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "鈴屋 什造",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "铃屋什造",
+    "effectZh": "",
+    "triggerZh": "[抽牌] 抽一张牌。"
+  }
+}

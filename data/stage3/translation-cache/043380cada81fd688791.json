@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:53.140Z",
+  "model": "qwen3.5:9b",
+  "unitId": "043380cada81fd688791",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-061",
+    "UA17BT/TRK-1-025",
+    "UA17BT/TRK-1-061",
+    "UA17BT/TRK-1-098"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "いただきます",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "我开动了",
+    "effectZh": "选择自己的 AP 卡至多 2 张并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

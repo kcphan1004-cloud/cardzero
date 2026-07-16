@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:49.799Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dc79d33aa6c3cbd999f5",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-057"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "蘇枋 隼飛",
+    "effect": "[起動メイン]\n[エナジーLにある場合]\n[ターン1]\nこのキャラがレストの場合のみ発動できる。自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "苏枋 隼飞",
+    "effectZh": "[启动主)<b>[当前位于能量 L 时]</b><br>[回合 1]仅当该角色处于横置状态时可发动。从己方牌库上方翻开一张卡，将该卡置于己方牌库上方或场外。",
+    "triggerZh": ""
+  }
+}

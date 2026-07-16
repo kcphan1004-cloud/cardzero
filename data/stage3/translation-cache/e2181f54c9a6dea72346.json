@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:01.775Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e2181f54c9a6dea72346",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-068"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ユニロード",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤尼罗德",
+    "effectZh": "此角色处于激活状态时，该角色的产生能量+\n[红色]。\n\n（注：原文中“+”后直接接了颜色描述，此处保留原意）",
+    "triggerZh": ""
+  }
+}

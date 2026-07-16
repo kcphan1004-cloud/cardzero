@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:55:20.621Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f8a325a87b535b928b9",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-026"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "白虎",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "白虎",
+    "effectZh": "[离场]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

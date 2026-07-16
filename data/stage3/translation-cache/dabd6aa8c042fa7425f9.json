@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:30:06.898Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dabd6aa8c042fa7425f9",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-080"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "UNIONの力",
+    "effect": "自分の場の［特徴：UNION］の合計枚数×1000以下のBPの相手のフロントLのキャラを1枚選び、『退場させる』。自分の場に〈ジュイス〉がある場合、『リムーブエリアに置く』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "UNION之力",
+    "effectZh": "选择对方前线L的1张角色，使其『退场』。若自己场上有〈ジュイス〉（Juis），则改为将其放置于「移除区」。",
+    "triggerZh": "[特殊]\n选择对方的前线L的角色1枚并使其退场。"
+  }
+}

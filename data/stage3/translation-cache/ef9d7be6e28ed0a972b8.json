@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:06:55.144Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ef9d7be6e28ed0a972b8",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-032"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ご褒美",
+    "effect": "自分のフロントLのアクティブの〔［特徴：エキゾチック］か［特徴：ワードレス］〕を1枚レストにしてもよい。そうした場合、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "奖励",
+    "effectZh": "可以将自己前线L的激活状态的〔［特征：异国情调］或［特征：无词］〕横置。如此做的话，抽3张牌。",
+    "triggerZh": "[登场]\n抽1张牌。"
+  }
+}

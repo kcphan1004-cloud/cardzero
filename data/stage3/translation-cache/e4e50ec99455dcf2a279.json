@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:41:43.629Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e4e50ec99455dcf2a279",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/NIK-P-004"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "勝利の女神：NIKKE",
+    "effect": "このカードの色と必要エナジーは、全ての色として扱う。\n自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "胜利女神：NIKKE（VICTORY DEITY: NIKKE）",
+    "effectZh": "此卡的颜色与所需能量视为所有颜色。\n选择自己 AP 卡最多 2 张进行激活。",
+    "triggerZh": "[最终]\n若自己的生命值为空，则从自己牌库上方抽 1 张放入自己的生命区"
+  }
+}

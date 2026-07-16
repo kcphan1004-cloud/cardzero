@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:56.454Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7f4774f6edef6a8337a6",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-088"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "フラム",
+    "effect": "[登場時]\n自分と相手はカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "弗拉姆",
+    "effectZh": "[登场时]\n自己和对方各抽一张牌。",
+    "triggerZh": "[激活]\n选择自己场上的角色的一张，使其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:01.118Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f208ac2def05e4941c03",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-AP01",
+    "UA40BT/REZ-1-AP01",
+    "UA40BT/REZ-1-AP02",
+    "UA40BT/REZ-1-AP03",
+    "UA40BT/REZ-1-AP04",
+    "UA40BT/REZ-1-AP05",
+    "UA40BT/REZ-1-AP06"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (Re:从零开始的异世界生活)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:09:16.670Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d8e6d5b1d241885101d3",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-063"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "墓守のウェザエモン",
+    "effect": "[起動メイン]\n[レストにする]\nこのキャラを退場させる。\n[退場時]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "墓守的韦扎埃蒙",
+    "effectZh": "[启动主]\n[横置状态]\n将该角色退场。\n[退场时]\n抽 1 张牌。",
+    "triggerZh": "[激活]\n选择自己场上的 1 个角色，将其变为激活状态，本回合中 BP+3000。"
+  }
+}

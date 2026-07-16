@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:40:21.717Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c2aaeef228c60aac7937",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MST-1-055"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アリエル",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：ラノア魔法大学］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾丽尔",
+    "effectZh": "登场时",
+    "triggerZh": "[抽牌]抽取一张卡片。"
+  }
+}

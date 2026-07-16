@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:40.767Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8b169838eef9bdc47436",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-075"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "真智 カザネ",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：神奈備］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "真智 カザネ",
+    "effectZh": "[登场时]\n从场上查看 3 张卡，公开［特征：神奈备］一张并加入手札。剩余的按任意顺序放回场下。若将卡加入手札，则将该角色的一张置于场外。",
+    "triggerZh": "[抽牌]\n抽取一张卡。"
+  }
+}

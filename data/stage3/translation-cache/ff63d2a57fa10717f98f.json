@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:27:39.628Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ff63d2a57fa10717f98f",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-036"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "血鶴",
+    "effect": "自分の場に〈昼彦〉がある場合、手札にあるこのカードの必要エナジーを\n[紫×2]\n減らす。\n『BP4000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。このターン中に自分のキャラの効果でAPを支払っている場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "血鹤",
+    "effectZh": "若己方场上有「昼彦」，则减少手牌中本卡的必要能量[紫×2]。选择对手场上的 1 张 Front L 角色使其离场。若在己方回合内通过角色的效果支付了 AP，则以『BP5000 以下』为准。",
+    "triggerZh": "[特殊]\n选择对手的 1 张 Front L 角色使其离场"
+  }
+}

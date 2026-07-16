@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:22.382Z",
+  "model": "qwen3.5:4b",
+  "unitId": "af9f9c570efb8ce47533",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-078"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "魔都交流戦",
+    "effect": "自分の場外から［特徴：六番組］を1枚まで手札に加える。自分の手札から必要エナジーを満たし消費APが1の［特徴：六番組］を1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "魔都交流战",
+    "effectZh": "从己方场外将［特征：六番组］最多 1 张加入手札。\n从己方手札中，满足必要能量且消耗 AP 为 1 的［特征：六番组］最多 1 张进行横置登场或雷击登场。",
+    "triggerZh": ""
+  }
+}

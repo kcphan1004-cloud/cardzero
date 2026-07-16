@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:32:02.193Z",
+  "model": "qwen3.5:4b",
+  "unitId": "126c2396399c3b8aedb0",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-002",
+    "UA38BT/WBK-1-042"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "橘 ことは",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "橘 ことは",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为1或以下的，将其一张回复至手牌。若无法回复该角色，则将该角色回复至手牌。",
+    "triggerZh": ""
+  }
+}

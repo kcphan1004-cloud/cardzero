@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:33.874Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bf913ec6e022552ba0d5",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-037"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "デスガトリング",
+    "effect": "[退場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Death Gatling",
+    "effectZh": "[离场时]\n选择己方场上的 1 张其他角色卡，本回合 BP+500。",
+    "triggerZh": ""
+  }
+}

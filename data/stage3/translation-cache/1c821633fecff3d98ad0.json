@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:24:00.102Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1c821633fecff3d98ad0",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-077"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "彩南高校",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。その後、自分の手札から必要エナジーが3以下で消費APが1の赤のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "彩南高校",
+    "effectZh": "[启动主]\n[变为横置状态]\n[使此卡退场]\n抽一张牌。之后，从自己的手札中消费AP为1、红色、能量线在3以下的角色卡最多选择1张在自己的场上以横置状态登场。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

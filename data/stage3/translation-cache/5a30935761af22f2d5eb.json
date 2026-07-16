@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:07.801Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5a30935761af22f2d5eb",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-109"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "ここに てめえのものなんか... ひとつもねえんだよ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈霧嶋 董香〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "这里连你的东西……一个都没有啊",
+    "effectZh": "选择对手场上 Front L 的 BP3000 以下的角色一张，使其退场。如果自己的场上有〈雾岛董香〉的话，改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手的 Field L 的角色一张，使其退场"
+  }
+}

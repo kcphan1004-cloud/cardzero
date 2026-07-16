@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:39.923Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7b8279daee126bb2ca0b",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-068",
+    "UA44BT/EVA-1-068"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "赤木 リツコ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赤木丽子",
+    "effectZh": "若该角色处于激活状态，则该角色的发生能量 + [Red]。",
+    "triggerZh": ""
+  }
+}

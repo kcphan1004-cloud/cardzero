@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:03.081Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7d10ba45c8eb2c58b000",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-049"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "キャサリン・サバスラ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "凯瑟琳·萨巴斯拉",
+    "effectZh": "[登场时]\n从卡组上方抽取一张卡，将手札中的一张置于场外。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取 1 张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:03:19.158Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d1fa7759081e89af790f",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-063"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "選考会",
+    "effect": "このフィールドはアクティブで場に登場させる。\n[起動メイン]\n[レストにする]\n[ターン1]\n必要エナジーが2以下の自分のエナジーLのキャラを1枚選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "选考会",
+    "effectZh": "以激活状态登场于本场地。\n[启动主]\n[横置]\n[回合 1]\n选择自己能量线中必要能量为 2 以下的角色卡 1 张，使其处于激活状态。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

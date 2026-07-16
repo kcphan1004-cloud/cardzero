@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:01.610Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0497941ef99ecb07f168",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-046"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "葛󠄀城 ミサト",
+    "effect": "[起動メイン]\n[レストにする]\n自分の手札の［特徴：WILLE］を1枚場外に置く。そうした場合、カードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "葛城 美里",
+    "effectZh": "[启动主回合]\n[改为横置状态]\n将己方手牌的［特征：WILLE］中的1张放置于场外。如此时，抽1张牌。",
+    "triggerZh": "[激活]\n选择己方场上的角色中的1张，将其激活，本场中BP+3000。"
+  }
+}

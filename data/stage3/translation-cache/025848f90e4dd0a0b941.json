@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:04.012Z",
+  "model": "qwen3.5:4b",
+  "unitId": "025848f90e4dd0a0b941",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-062"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "杉下 京太郎",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杉下 京太郎",
+    "effectZh": "",
+    "triggerZh": "[抽牌] <br>抽取一张卡牌。"
+  }
+}

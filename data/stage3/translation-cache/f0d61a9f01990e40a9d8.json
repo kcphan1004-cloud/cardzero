@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:47:05.176Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f0d61a9f01990e40a9d8",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-033"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "薬膳餅",
+    "effect": "カードを1枚引く。自分の場のキャラ全ては、次の自分のターン開始時まで、「このキャラはBPをマイナスする効果を受けない。」を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "药膳饼",
+    "effectZh": "抽 1 张牌。自己场上的所有角色直到下回合开始为止获得“此角色的效果不会减少 BP。”的效果。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡，将其激活，本回合中 BP+3000。"
+  }
+}

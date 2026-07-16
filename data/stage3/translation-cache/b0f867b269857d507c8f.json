@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:44.617Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b0f867b269857d507c8f",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-075"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "大人の階段上ろうか",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、相手の山札の上か下の『相手が選んだ方』に置く。自分の場に〈蘇枋 隼飛〉がある場合、『自分が選んだ方』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "大人的阶梯上吧？",
+    "effectZh": "选择对手 FRONT L 中 BP5000 以下的角色一张，置于“对方选择的”对手的卡组上方或下方（若自己场上有〈苏枋 隼飞〉，则置于“己方选择的”位置）。",
+    "triggerZh": "[特殊]\n选择对手 FRONT L 中的一个角色并使其退场。"
+  }
+}

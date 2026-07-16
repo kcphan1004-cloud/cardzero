@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:25.835Z",
+  "model": "qwen3.5:4b",
+  "unitId": "14c6fa4e7fcdaeb0a7d2",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-021"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ロズワール・L・メイザース",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場に〈ラム〉と〈レム〉がある場合のみ発動できる。カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "罗兹瓦尔·L·梅瑟斯",
+    "effectZh": "[启动主回合]\n[Front L 存在的情况下]\n[第 1 回合]仅在己方场上有<拉姆>和<蕾姆>时才能发动。抽取一张卡牌，将手牌一张置于场外。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

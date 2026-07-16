@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:33:23.587Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3cef0ebf1dea2e6224d5",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-049"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "牛島 若利",
+    "effect": "自分の場に他の［特徴：白鳥沢学園高校］が5枚以上ない場合、このキャラはアタックできない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "牛岛 若利",
+    "effectZh": "自身场地上其他［特征：白鸟泽学园高校］的卡片不足5张时，该角色无法攻击。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

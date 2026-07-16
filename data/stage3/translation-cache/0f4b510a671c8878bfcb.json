@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:39.063Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0f4b510a671c8878bfcb",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-001",
+    "UA37BT/FMA-1-001"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "アルフォンス・エルリック",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿尔冯斯·艾尔利克",
+    "effectZh": "[无效化冲击]\\n（与该角色战斗的该角色在本回合中\\n失去［冲击］）",
+    "triggerZh": "[激活]\\n选择自己场上的 1 张角色，使其激活，本回合 BP+3000"
+  }
+}

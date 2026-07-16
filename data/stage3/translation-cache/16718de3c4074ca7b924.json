@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:55.807Z",
+  "model": "qwen3.5:4b",
+  "unitId": "16718de3c4074ca7b924",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-040"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "全部いらない",
+    "effect": "自分の場に〈兎耳山 丁子〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "全部不要",
+    "effectZh": "若己方场地上有「兎耳山 丁子」，则手牌中本卡的消耗 AP -1。\n选择敌方场上 BP5000 以下的任意一张 Front L 角色卡并使其离场。",
+    "triggerZh": "[特殊]\n选择敌方场上的任意一张角色卡并使其离场。"
+  }
+}

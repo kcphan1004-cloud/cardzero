@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:04:45.236Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fb7ed50362f350218455",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-009"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "シルバーファング",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "银牙战士",
+    "effectZh": "【无效化】（本回合与本角色战斗的角色，失去所有[冲击]）",
+    "triggerZh": ""
+  }
+}

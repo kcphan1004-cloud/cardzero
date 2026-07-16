@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:25:39.350Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a5a1c64d4b8e68c77ca9",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-058"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "重野 力",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、このターン中、「このキャラはブロックできない。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "重野力",
+    "effectZh": "[登场时]\n选择对方前线 L 中 BP3000 以下的角色至多 1 枚，给予此回合中「该角色无法阻挡。」。",
+    "triggerZh": ""
+  }
+}

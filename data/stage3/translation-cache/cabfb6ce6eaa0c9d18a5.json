@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:29:22.648Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cabfb6ce6eaa0c9d18a5",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-071"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "[登場時]\n自分のフロントLのアクティブの［特徴：子供］を1枚レストにしてもよい。そうした場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "加美拉",
+    "effectZh": "[登场时]\n可选择将对方前线 L 的激活状态的［特征：孩子］最多 1 张变为横置状态。如此做的话，选择自己的 AP 卡最多 1 张并使其激活。",
+    "triggerZh": "[Color]\n从自己手牌中消耗能量为 2 以下、消费 AP 为 1 的绿色角色卡中选择 1 张，以激活状态登场到自己的场上。"
+  }
+}

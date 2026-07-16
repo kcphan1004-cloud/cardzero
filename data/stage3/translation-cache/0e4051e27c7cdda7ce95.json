@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:39:26.030Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0e4051e27c7cdda7ce95",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-104"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "トキオ",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）\n[登場時]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "时生",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对对方玩家造成 1 点伤害）\n[登场时]\n抽牌。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色使其激活，本回合中 BP+3000。"
+  }
+}

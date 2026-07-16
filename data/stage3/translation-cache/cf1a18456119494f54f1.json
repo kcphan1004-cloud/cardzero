@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:09.650Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cf1a18456119494f54f1",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-038"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "イズミ・カーティス",
+    "effect": "このキャラがアタックしてブロックされなかった時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊兹米·卡特斯",
+    "effectZh": "当该角色通过攻击未被阻挡时，抽卡 1 张。",
+    "triggerZh": ""
+  }
+}

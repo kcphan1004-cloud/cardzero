@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:18.181Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2af67c60f6571d2dcfc9",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-012"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "パワー",
+    "effect": "このキャラがアタックしてバトルに勝利した時、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "力量",
+    "effectZh": "本角色攻击并赢得战斗时，将己方手札一张置于场外。",
+    "triggerZh": ""
+  }
+}

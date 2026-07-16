@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:35.101Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fc5b86fd84ec988b1a31",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-013"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "シルフィエット",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "风精灵（UA54BT/MST-1-013）",
+    "effectZh": "[离场时]\n抽一张牌。",
+    "triggerZh": ""
+  }
+}

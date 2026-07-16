@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:36:26.109Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cbc865f3d0f291c17949",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-019"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ヒストリア・レイス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "希斯特莉亚·雷斯",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

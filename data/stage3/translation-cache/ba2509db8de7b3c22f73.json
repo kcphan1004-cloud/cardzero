@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:55.749Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ba2509db8de7b3c22f73",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-086"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾蜜莉亚",
+    "effectZh": "若该角色卡处于激活状态，则该角色卡的生成能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

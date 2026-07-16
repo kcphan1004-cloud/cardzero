@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:07:45.145Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3138ea7b67dbba734625",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-040"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アーミヤ",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\n自分のエナジーLのキャラを1枚選び、このターン中、「このキャラは退場しない。」を与える。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "阿米娅",
+    "effectZh": "[启动主] \n[将手牌中的 1 张卡置入场外]\n[回合 1]\n选择自己能量线的角色 1 枚，在本回合中给予「该角色不会退场。」\n\n触发：[颜色]\n选择 BP3500 以下的对方前线 L 的角色 1 枚，将其返回手牌。",
+    "triggerZh": "[颜色]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:23.759Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e299316bf149715bfa9d",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-095"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "国土錬成陣",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分の山札の上から1枚を場外に置く。その後、自分の場外にカードが20枚以上ある場合、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "国土炼金阵",
+    "effectZh": "[启动主阶段]\n[改为横置状态]\n[第 1 回合]\n从己方牌库上方取一张卡置于场外。之后，若己方场外有 20 张以上的卡，则抽一张卡。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

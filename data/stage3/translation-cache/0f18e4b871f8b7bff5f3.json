@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:29.163Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0f18e4b871f8b7bff5f3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-078"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "美保 美穂",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美保 美穗",
+    "effectZh": "若对手场上存在黄色或蓝色的卡片，则己方手牌中本卡的必要能量\n[红×1]\n减少。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:59.764Z",
+  "model": "qwen3.5:4b",
+  "unitId": "72710aa8aadefc2766c0",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-041",
+    "UA42BT/MGS-1-041"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 忍",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "忍野 忍",
+    "effectZh": "[登场时]\n抽 1 张卡，将己方手牌中一张置于场外。",
+    "triggerZh": "[抽取]\n抽 1 张卡。"
+  }
+}

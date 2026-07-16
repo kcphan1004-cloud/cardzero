@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:37.592Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e22dab1079c2b3933969",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-015"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "羽前 京香",
+    "effect": "[登場時]\n自分の山札の上から2枚まで場外に置く。自分の場外に〈羽前 京香〉と〈和倉 優希（無窮の鎖）〉が合計5枚以上ある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "羽前 京香",
+    "effectZh": "[登場時] \n從牌庫上方抽選最多 2 張，將之置於場外。若己方場外的「羽前 京香」與「和倉優希（無窮的鎖）」合計有 5 張以上，則抽取 1 張牌。",
+    "triggerZh": "[觸發] \n抽取 1 張牌。"
+  }
+}

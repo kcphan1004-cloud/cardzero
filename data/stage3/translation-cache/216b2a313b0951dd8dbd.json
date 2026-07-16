@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:52.870Z",
+  "model": "qwen3.5:4b",
+  "unitId": "216b2a313b0951dd8dbd",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-056"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "六平 千鉱",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "六平 千鉱",
+    "effectZh": "[登场时]\n抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": ""
+  }
+}

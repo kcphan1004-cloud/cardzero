@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:45.194Z",
+  "model": "qwen3.5:4b",
+  "unitId": "22f940b27bdb1540de6c",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-AP01",
+    "UA51BT/SLG-1-AP02",
+    "UA51BT/SLG-1-AP03",
+    "UA51BT/SLG-1-AP04",
+    "UA51BT/SLG-1-AP05",
+    "UA51BT/SLG-1-AP06",
+    "UA51BT/SLG-1-AP07",
+    "UA51BT/SLG-1-AP08",
+    "UA51BT/SLG-1-AP09",
+    "UA51BT/SLG-1-AP10",
+    "UA51BT/SLG-1-AP11",
+    "UA51BT/SLG-1-AP12"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "アクションポイントカード(俺だけレベルアップな件)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（我独自升级）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

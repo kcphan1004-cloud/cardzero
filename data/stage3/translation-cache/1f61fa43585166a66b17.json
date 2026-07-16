@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:19.085Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1f61fa43585166a66b17",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-010"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "モモ・ベリア・デビルーク",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出包王女 贝利亚·恶魔克",
+    "effectZh": "[登场时]从自己牌库上方看一张，置于其上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:47.379Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6e0eaf8825ae16d0cf54",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-056"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "エリナリーゼ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、このキャラはこのターン中、発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾琳丽泽",
+    "effectZh": "[启动主侧]\n将［横置状态］\n第1回合\n将自己的前场L中处于激活状态的卡角色1张变为横置。如此，该卡在本回合内，发生能量+\n[绿] 。",
+    "triggerZh": ""
+  }
+}

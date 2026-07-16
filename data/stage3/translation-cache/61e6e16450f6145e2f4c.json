@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:14.370Z",
+  "model": "qwen3.5:4b",
+  "unitId": "61e6e16450f6145e2f4c",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-056"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "スタンリー・フォンブラウン",
+    "effect": "[登場時]\n自分の手札から〈ロキ〉を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "斯坦利·冯布朗",
+    "effectZh": "[登场时]\n从自己的手札中最多选择一张〈洛克〉并使其以横置状态登场于自己场上。",
+    "triggerZh": ""
+  }
+}

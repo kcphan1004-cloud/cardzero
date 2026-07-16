@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:51:54.437Z",
+  "model": "qwen3.5:4b",
+  "unitId": "51c96396d46c336fefde",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-018"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "巴 マミ",
+    "effect": "[登場時]\n自分の場外にイベントカードが2枚以上ある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "巴麻美",
+    "effectZh": "[登场时] 若你的场外有2张或以上的卡片，则抽一张牌。",
+    "triggerZh": ""
+  }
+}

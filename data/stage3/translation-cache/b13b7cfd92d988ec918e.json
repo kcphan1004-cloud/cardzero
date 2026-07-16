@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:07.562Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b13b7cfd92d988ec918e",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-094"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "獣王",
+    "effect": "[自分のターン中]\nこのキャラはBP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "兽王",
+    "effectZh": "[己方回合中] 本角色BP+500。",
+    "triggerZh": ""
+  }
+}

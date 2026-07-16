@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:44:01.020Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bf4183eaf83c7c48c2ea",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-056"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "楚水",
+    "effect": "[登場時]\n『カードを1枚引き、自分の手札を1枚場外に置く』。自分の場に［特徴：飛信隊］のカード名が4種類以上ある場合、『カードを1枚引く』に代えてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "楚水",
+    "effectZh": "[登場時]\n抽 1 张牌，将手札中一张卡置于场外。若己方场上拥有［特征：飞信队］的卡片名称种类数达到 4 种以上，则可将“抽 1 张牌”改为其他效果。”}]}<end> <start><end> {",
+    "triggerZh": ""
+  }
+}

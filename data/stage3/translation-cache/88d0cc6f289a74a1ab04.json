@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:44.700Z",
+  "model": "qwen3.5:4b",
+  "unitId": "88d0cc6f289a74a1ab04",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-040"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "惑わされるなと言っておるーっ！！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "别被迷惑了——！！",
+    "effectZh": "选择自己最多 2 张 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若自己的生命值为空，从牌库上方抽一张置于自己的生命区域"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:02:13.461Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a66cdfbecf480976c55e",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-037"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "双貌の鎧(天帝魔王)",
+    "effect": "カードを1枚引く。自分のフロントLのキャラを1枚まで選び、アクティブにする。相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "双貌之铠 (天帝魔王)",
+    "effectZh": "抽 1 张牌。选择自己前线 L 的角色至多 1 枚，使其激活。选择对方前线 L 的角色至多 1 枚，使其横置。",
+    "triggerZh": "[激活]\n选择自己场上的角色至多 1 枚，使其激活，本回合中，BP+3000。"
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "generatedAt": "2026-07-16T16:50:37.896Z",
+  "model": "qwen3.5:4b",
+  "series": "all",
+  "selected": 7049,
+  "cached": 4502,
+  "completed": 2487,
+  "failed": 60,
+  "failures": [
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T14:23:22.096Z",
+      "unitId": "9f815d708731e604819c",
+      "cardNumbers": [
+        "UA36ST/MCR-1-AP01",
+        "UA36BT/MCR-1-AP01",
+        "UA36BT/MCR-1-AP02",
+        "UA36BT/MCR-1-AP03",
+        "UA36BT/MCR-1-AP04",
+        "UA36BT/MCR-1-AP05",
+        "UA36BT/MCR-1-AP06",
+        "EX14BT/MCR-2-AP01",
+        "EX14BT/MCR-2-AP02",
+        "EX14BT/MCR-2-AP03",
+        "EX14BT/MCR-2-AP04",
+        "EX14BT/MCR-2-AP05",
+        "EX14BT/MCR-2-AP06",
+        "EX14BT/MCR-2-AP07"
+      ],
+      "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T14:23:22.097Z",
+      "unitId": "7aab07efe98ce1bd73a4",
+      "cardNumbers": [
+        "UA37BT/FMA-1-002"
+      ],
+      "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T14:23:22.097Z",
+      "unitId": "6c27243aa987b4868082",
+      "cardNumbers": [
+        "UA37BT/FMA-1-004"
+      ],
+      "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T14:23:22.099Z",
+      "unitId": "597a38748ce89b29b3d6",
+      "cardNumbers": [
+        "UA37BT/FMA-1-008"
+      ],
+      "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T14:23:22.100Z",
+      "unitId": "4a44c91fa146c9340530",
+      "cardNumbers": [
+        "UA37BT/FMA-1-010"
+      ],
+      "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T14:23:22.100Z",
+      "unitId": "9d7ce433e6a013e14c25",
+      "cardNumbers": [
+        "UA37BT/FMA-1-011"
+      ],
+      "error": "UA37BT/FMA-1-008 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:35:36.297Z",
+      "unitId": "8e00003094f7af140700",
+      "cardNumbers": [
+        "UA47BT/TKG-1-078"
+      ],
+      "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:35:36.298Z",
+      "unitId": "cf9946ef3545807d1a39",
+      "cardNumbers": [
+        "UA47BT/TKG-1-079"
+      ],
+      "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:35:36.299Z",
+      "unitId": "0c5303629e5e6f8be298",
+      "cardNumbers": [
+        "UA47BT/TKG-1-080"
+      ],
+      "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:35:36.301Z",
+      "unitId": "074dc671a03953b78162",
+      "cardNumbers": [
+        "UA47BT/TKG-1-081"
+      ],
+      "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:35:36.302Z",
+      "unitId": "e40cf7f727a71e1a53ee",
+      "cardNumbers": [
+        "UA47BT/TKG-1-082"
+      ],
+      "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:35:36.302Z",
+      "unitId": "e10b0d6c031eedf06f4b",
+      "cardNumbers": [
+        "UA47BT/TKG-1-083"
+      ],
+      "error": "Expected ',' or '}' after property value in JSON at position 212 (line 1 column 213)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:37:27.957Z",
+      "unitId": "b1d737c6d2822a6d907d",
+      "cardNumbers": [
+        "UA47BT/TKG-1-096"
+      ],
+      "error": "UA47BT/TKG-1-096 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:37:27.959Z",
+      "unitId": "83bee108301df9f4f4da",
+      "cardNumbers": [
+        "UA47BT/TKG-1-097"
+      ],
+      "error": "UA47BT/TKG-1-096 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:37:27.960Z",
+      "unitId": "cf1e4b069da7e94cd44e",
+      "cardNumbers": [
+        "UA47BT/TKG-1-098"
+      ],
+      "error": "UA47BT/TKG-1-096 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:37:27.961Z",
+      "unitId": "390fa2a8057be964ef3b",
+      "cardNumbers": [
+        "UA47BT/TKG-1-099"
+      ],
+      "error": "UA47BT/TKG-1-096 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:37:27.961Z",
+      "unitId": "19a6beceba82229374bf",
+      "cardNumbers": [
+        "UA47BT/TKG-1-100"
+      ],
+      "error": "UA47BT/TKG-1-096 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:37:27.962Z",
+      "unitId": "5c2c578fcbcce723dca9",
+      "cardNumbers": [
+        "UA47ST/TKG-1-036",
+        "UA47BT/TKG-1-036"
+      ],
+      "error": "UA47BT/TKG-1-096 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:46:50.022Z",
+      "unitId": "36cefbaaad0787c844f1",
+      "cardNumbers": [
+        "UA48ST/KGD-1-034",
+        "UA48BT/KGD-1-034"
+      ],
+      "error": "UA48ST/KGD-1-049 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:46:50.024Z",
+      "unitId": "37c2233c84431e7ff99f",
+      "cardNumbers": [
+        "UA48ST/KGD-1-036",
+        "UA48BT/KGD-1-036"
+      ],
+      "error": "UA48ST/KGD-1-049 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:46:50.026Z",
+      "unitId": "6dacd9543f25459d4939",
+      "cardNumbers": [
+        "UA48ST/KGD-1-045",
+        "UA48BT/KGD-1-045"
+      ],
+      "error": "UA48ST/KGD-1-049 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:46:50.026Z",
+      "unitId": "19c0ddfdce2555d3c47b",
+      "cardNumbers": [
+        "UA48ST/KGD-1-049"
+      ],
+      "error": "UA48ST/KGD-1-049 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:46:50.028Z",
+      "unitId": "0d4047ad5805e4df8254",
+      "cardNumbers": [
+        "UA48ST/KGD-1-051",
+        "UA48BT/KGD-1-051"
+      ],
+      "error": "UA48ST/KGD-1-049 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:46:50.030Z",
+      "unitId": "4fb16082ee1066ff734f",
+      "cardNumbers": [
+        "UA48ST/KGD-1-052",
+        "UA48BT/KGD-1-052"
+      ],
+      "error": "UA48ST/KGD-1-049 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:57:49.438Z",
+      "unitId": "986b9ab0efc77092358c",
+      "cardNumbers": [
+        "UA50BT/IYS-1-053"
+      ],
+      "error": "UA50BT/IYS-1-056 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:57:49.441Z",
+      "unitId": "1a7163246902b741adae",
+      "cardNumbers": [
+        "UA50BT/IYS-1-054"
+      ],
+      "error": "UA50BT/IYS-1-056 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:57:49.442Z",
+      "unitId": "aceb1029d74a3dd5cbe8",
+      "cardNumbers": [
+        "UA50BT/IYS-1-055"
+      ],
+      "error": "UA50BT/IYS-1-056 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:57:49.442Z",
+      "unitId": "826681068950a1d24f8e",
+      "cardNumbers": [
+        "UA50BT/IYS-1-056"
+      ],
+      "error": "UA50BT/IYS-1-056 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:57:49.443Z",
+      "unitId": "a000c8baf5e22ee79aa9",
+      "cardNumbers": [
+        "UA50BT/IYS-1-057"
+      ],
+      "error": "UA50BT/IYS-1-056 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T15:57:49.443Z",
+      "unitId": "ab43bb1a8b9a75581e04",
+      "cardNumbers": [
+        "UA50BT/IYS-1-058"
+      ],
+      "error": "UA50BT/IYS-1-056 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:09:03.300Z",
+      "unitId": "9e2d8c4bbd957794b1aa",
+      "cardNumbers": [
+        "UA52BT/KJN-1-078"
+      ],
+      "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:09:03.301Z",
+      "unitId": "47e259e127f0c920e0ca",
+      "cardNumbers": [
+        "UA52BT/KJN-1-079"
+      ],
+      "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:09:03.302Z",
+      "unitId": "a2e0d71a1a95ec5da15a",
+      "cardNumbers": [
+        "UA52BT/KJN-1-080"
+      ],
+      "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:09:03.303Z",
+      "unitId": "04d83d1a05892e8c2059",
+      "cardNumbers": [
+        "UA52BT/KJN-1-AP01",
+        "UA52BT/KJN-1-AP02",
+        "UA52BT/KJN-1-AP03",
+        "UA52BT/KJN-1-AP04",
+        "UA52BT/KJN-1-AP05",
+        "UA52BT/KJN-1-AP06",
+        "UA52BT/KJN-1-AP07",
+        "UA52BT/KJN-1-AP08",
+        "UA52BT/KJN-1-AP09",
+        "UA52BT/KJN-1-AP10",
+        "UA52BT/KJN-1-AP11",
+        "UA52BT/KJN-1-AP12",
+        "UA52BT/KJN-1-AP13",
+        "UA52BT/KJN-1-AP14"
+      ],
+      "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:09:03.304Z",
+      "unitId": "ae301511061c9d6a1591",
+      "cardNumbers": [
+        "UA53BT/CSM-1-001"
+      ],
+      "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:09:03.304Z",
+      "unitId": "d50d2ef4b5ba12d8efaa",
+      "cardNumbers": [
+        "UA53BT/CSM-1-002"
+      ],
+      "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:16:17.870Z",
+      "unitId": "df7679e4587457a326f7",
+      "cardNumbers": [
+        "UA54BT/MST-1-042"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:16:17.873Z",
+      "unitId": "6a6b0f31b49f41dc83e3",
+      "cardNumbers": [
+        "UA54BT/MST-1-043"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:16:17.873Z",
+      "unitId": "0f714a241fd5b648cb57",
+      "cardNumbers": [
+        "UA54BT/MST-1-044"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:16:17.874Z",
+      "unitId": "80f707d5dad6e45c49b8",
+      "cardNumbers": [
+        "UA54BT/MST-1-045"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:16:17.874Z",
+      "unitId": "b2baa0fb8c1c1a791d7b",
+      "cardNumbers": [
+        "UA54BT/MST-1-046"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:16:17.875Z",
+      "unitId": "1e7aa0026ddd52890423",
+      "cardNumbers": [
+        "UA54BT/MST-1-047"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 217 (line 2 column 2)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:31:57.206Z",
+      "unitId": "2093676416a9f12a23c8",
+      "cardNumbers": [
+        "UAPR/IMS-P-002"
+      ],
+      "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:31:57.209Z",
+      "unitId": "c6b6a06bc90294f6685e",
+      "cardNumbers": [
+        "UAPR/IMS-P-003"
+      ],
+      "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:31:57.210Z",
+      "unitId": "77c4744e33798e8a78cf",
+      "cardNumbers": [
+        "UAPR/IMS-P-004"
+      ],
+      "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:31:57.212Z",
+      "unitId": "28024c8229af7b8bd08e",
+      "cardNumbers": [
+        "UAPR/IMS/AP04",
+        "UAPR/IMS/AP05",
+        "UAPR/IMS/AP06",
+        "UAPR/IMS/AP07",
+        "UAPR/IMS/AP08",
+        "UAPR/TSK-AP01",
+        "UAPR/TSK-AP02",
+        "UAPR/TSK-AP03"
+      ],
+      "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:31:57.213Z",
+      "unitId": "7a01ed57ccccbba50874",
+      "cardNumbers": [
+        "UAPR/IYS-1-006"
+      ],
+      "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:31:57.214Z",
+      "unitId": "765ce9a7131e07a73a27",
+      "cardNumbers": [
+        "UAPR/IYS-1-046"
+      ],
+      "error": "UAPR/IMS/AP04 ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:37:28.344Z",
+      "unitId": "6e7e7093f33c34b5cff8",
+      "cardNumbers": [
+        "UAPR/MCR-2-025"
+      ],
+      "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:37:28.346Z",
+      "unitId": "8cd445751cfca1db5670",
+      "cardNumbers": [
+        "UAPR/MCR-2-035"
+      ],
+      "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:37:28.347Z",
+      "unitId": "816491b88ab0b66b2c45",
+      "cardNumbers": [
+        "UAPR/MCR-2-042"
+      ],
+      "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:37:28.348Z",
+      "unitId": "639a7feb2ef611629a90",
+      "cardNumbers": [
+        "UAPR/MCR-AP01"
+      ],
+      "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:37:28.349Z",
+      "unitId": "d2cc8f9e3a45a2da3451",
+      "cardNumbers": [
+        "UAPR/MCR-AP02",
+        "UAPR/MCR-AP03"
+      ],
+      "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:37:28.350Z",
+      "unitId": "2aebd8bee1f1d6afe3ff",
+      "cardNumbers": [
+        "UAPR/MCR-P-001"
+      ],
+      "error": "UAPR/MCR-2-025 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:40:12.400Z",
+      "unitId": "16968a5d0a1e5c187e3e",
+      "cardNumbers": [
+        "UAPR/MHA-P-003"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 212 (line 3 column 5)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:40:12.402Z",
+      "unitId": "d113a43b00b44def6e95",
+      "cardNumbers": [
+        "UAPR/MMM-1-002"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 212 (line 3 column 5)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:40:12.403Z",
+      "unitId": "3464db9b9914fa892df1",
+      "cardNumbers": [
+        "UAPR/MMM-1-007"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 212 (line 3 column 5)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:40:12.404Z",
+      "unitId": "9e360c066c2fbdd0660c",
+      "cardNumbers": [
+        "UAPR/MMM-1-040"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 212 (line 3 column 5)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:40:12.405Z",
+      "unitId": "ccb13ad31f981842a34c",
+      "cardNumbers": [
+        "UAPR/MMM-P-001"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 212 (line 3 column 5)"
+    },
+    {
+      "status": "error",
+      "failedAt": "2026-07-16T16:40:12.406Z",
+      "unitId": "a67df204f95fe6febaa8",
+      "cardNumbers": [
+        "UAPR/MSS-1-009"
+      ],
+      "error": "Expected ',' or ']' after array element in JSON at position 212 (line 3 column 5)"
+    }
+  ]
+}

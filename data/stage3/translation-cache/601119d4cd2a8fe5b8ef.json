@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:28:22.211Z",
+  "model": "qwen3.5:9b",
+  "unitId": "601119d4cd2a8fe5b8ef",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-063"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "エネルギー・インパクト・ブレード",
+    "effect": "相手のフロントLのキャラを1枚選び、このターン中、『BP-3000』。自分の場に〔〈黒仮面〉か〈ギルボウ〉〕と〈シュネー〉がある場合、『BP-5000』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "能源冲击刃",
+    "effectZh": "选择对方前线 L 的角色中的 1 枚，本回合中『BP-3000』。若自己场上有〔〈黑面具〉或〈吉尔鲍〉〕和〈雪奈〉，“『BP-5000』”代替上述效果。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色中的 1 枚并退场。"
+  }
+}

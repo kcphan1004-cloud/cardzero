@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:37.295Z",
+  "model": "qwen3.5:4b",
+  "unitId": "880deb08748d4cf9eb35",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-048"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "このキャラはアクティブで場に登場させる。\n[登場時]\nこのターン中、次に手札から使用する必要エナジーが3以下の〈斎藤 一〉の消費APを-1する。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "绯村 剑心",
+    "effectZh": "将本角色以激活状态登场。\n[登场时]\n在本回合中，下次从手牌使用的所需能量为3以下的「斋藤一」的消耗AP-1。",
+    "triggerZh": "[获取]\n将本卡加入手牌。"
+  }
+}

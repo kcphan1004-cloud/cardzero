@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:57:15.940Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c1b11ec84ddb9a4b30b7",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-040"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "桑原 和真",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "桑原和真",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

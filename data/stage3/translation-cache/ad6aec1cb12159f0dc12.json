@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:21:43.078Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ad6aec1cb12159f0dc12",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-066",
+    "UA36BT/MCR-1-066"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ライオン",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "狮子",
+    "effectZh": "选择自己的 AP 角色两张，使其处于激活状态。<br><br>[最终]<br>当自己的生命值为空时，从自己的山牌上方取一张卡置于自己的生命区域。",
+    "triggerZh": "[最终]"
+  }
+}

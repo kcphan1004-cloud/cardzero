@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:26:11.695Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6d5282d25ba9db026d6b",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-064",
+    "UA30BT/ARK-1-064"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ソウルブースト",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈アーミヤ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "灵魂增幅",
+    "effectZh": "选择对方前线L的 1 名【BP3000以下】的角色，使其退场。若我方场上有〈阿米娅〉，则改为【BP5000以下】。\n[特殊]\n选择对方前线 L 的 1 名角色，使其退场。",
+    "triggerZh": "[特殊]"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:21.515Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f63523e89f8a7d07d328",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-064"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "籾岡 里紗",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "籾冈 里纱",
+    "effectZh": "若该角色处于激活状态，则该角色的产生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

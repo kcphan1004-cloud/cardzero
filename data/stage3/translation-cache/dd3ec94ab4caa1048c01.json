@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:07.798Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dd3ec94ab4caa1048c01",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-107"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "あんていく",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、アクティブにする。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場のキャラを1枚選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "安藤葵",
+    "effectZh": "[登场时]\n选择自己场上的一张角色，使其进入激活状态。\n[横置] 将这张卡退场。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

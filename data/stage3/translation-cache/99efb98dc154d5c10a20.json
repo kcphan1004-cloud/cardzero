@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:20:19.776Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99efb98dc154d5c10a20",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-024"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジャイガー",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "杰格勒",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

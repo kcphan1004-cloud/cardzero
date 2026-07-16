@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:07:43.164Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9523ad99999aa34f6b57",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-069"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "藤田 ことね",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "藤田 ことね",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:51:00.944Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f76f7cb68cf269374107",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-091"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "デネブイマジン",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天鵝座伊魔珍",
+    "effectZh": "[登场时]\n将自身场上的其他必要能量为 1 以下的角色之一返回手牌。若无法如此操作，则将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

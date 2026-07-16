@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:08.471Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2edfe491411edba86129",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-050"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "リザ・ホークアイ",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。それらを山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "丽莎·霍克艾",
+    "effectZh": "[登场时] 从自己的牌库上方翻开两张，然后将它们按照翻开的顺序以任意数量置于牌库的上方和下方。",
+    "triggerZh": "[抽卡]\n抽取一张卡牌。"
+  }
+}

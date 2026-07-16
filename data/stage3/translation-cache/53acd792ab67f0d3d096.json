@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:31.790Z",
+  "model": "qwen3.5:4b",
+  "unitId": "53acd792ab67f0d3d096",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-081"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "私達とお義姉さんの未来",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "我们和义姐的未来",
+    "effectZh": "选择至多 1 张自己的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若自己没有生命点，则从牌库上方抽取 1 张置于自己的生命区。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:07:04.737Z",
+  "model": "qwen3.5:4b",
+  "unitId": "39e03756874275b4b7fe",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-077"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "戦場ヶ原 ひたぎ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战场原 姬乃美",
+    "effectZh": "[登场时]抽一张牌，将手卡中的一张置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

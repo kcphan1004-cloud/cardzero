@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:03:38.316Z",
+  "model": "qwen3.5:4b",
+  "unitId": "53ea4bdb1f701fa57cb5",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-075"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "いいだろう。好きにやってみろ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "不错吧，随便你试试",
+    "effectZh": "选择至多2张自己的激活状态卡牌并使其进入横置状态。",
+    "triggerZh": "[最终]\n若你的生命区域为空，则将你的手牌上方的一张卡置于你的生命区域。"
+  }
+}

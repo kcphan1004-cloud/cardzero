@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:23.761Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7bec3e15af90313b2386",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-097"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "賢者の石",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "贤者之石",
+    "effectZh": "选择己方的两张 AP 卡进行激活。",
+    "triggerZh": "[最终阶段]\n若己方生命值为零，则从己方牌库上方取一张卡置于己方生命区。"
+  }
+}

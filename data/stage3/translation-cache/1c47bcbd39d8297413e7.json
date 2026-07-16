@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:27:41.886Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c47bcbd39d8297413e7",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-022"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "夜久 衛輔",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夜久 卫辅",
+    "effectZh": "[登场时]\n将必要能量为1或以下的自己场上的其他角色最多一张返回手牌。若无法返还，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

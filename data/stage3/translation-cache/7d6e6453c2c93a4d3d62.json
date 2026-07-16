@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:12.432Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7d6e6453c2c93a4d3d62",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-021"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "シド・カゲノー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西德·卡格诺尔",
+    "effectZh": "当该角色处于激活状态时，该角色的发生能量+[黄]。",
+    "triggerZh": ""
+  }
+}

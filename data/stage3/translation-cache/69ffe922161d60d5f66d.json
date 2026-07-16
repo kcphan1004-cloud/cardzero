@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:09.735Z",
+  "model": "qwen3.5:4b",
+  "unitId": "69ffe922161d60d5f66d",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-078"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "そろそろ定時なんで上がらせてもらうわ",
+    "effect": "相手のフロントLのキャラを1枚選び、自分の場にある［特徴：LABO］1枚につき、このターン中、BP-1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "差不多该下班了所以先告辞啦",
+    "effectZh": "选择对手 FRONT L 中的一张角色卡。对于己方场上每张［特征：LABO］，本回合中 BP-1000。",
+    "triggerZh": "[特殊]\\n选择对手 FRONT L 中的一张角色卡片，使其退场"
+  }
+}

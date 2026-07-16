@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:39:49.259Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2dceee1acbca9b78bda8",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-040"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "無垢の巨人（小柄な巨人）",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无垢巨人（矮小巨人）",
+    "effectZh": "[登场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

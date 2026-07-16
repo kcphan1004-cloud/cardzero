@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:12:42.527Z",
+  "model": "qwen3.5:4b",
+  "unitId": "918ba45a2c16c928d67e",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-101"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ジェノス",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杰诺斯",
+    "effectZh": "[两次封锁]（本回合首次进行封锁时，激活）",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张牌。"
+  }
+}

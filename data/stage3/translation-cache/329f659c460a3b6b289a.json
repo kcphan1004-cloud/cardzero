@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:01.772Z",
+  "model": "qwen3.5:9b",
+  "unitId": "329f659c460a3b6b289a",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-065"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "紅葉山 テル",
+    "effect": "このカードは〈シャイ〉としても扱う。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "红叶山 特尔",
+    "effectZh": "这张卡也作为〈腼腆〉处理。\n[登场时]\n抽1张牌，将手札中的1张置入场外。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

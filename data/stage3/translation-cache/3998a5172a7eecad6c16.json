@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:40.639Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3998a5172a7eecad6c16",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-021"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "黒咲 芽亜",
+    "effect": "[登場時]\n自分の場に〈ネメシス〉がある場合、BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑咲芽亚",
+    "effectZh": "[登场时]\n若己方场上存在〈涅墨西斯〉，则选择对手Front L中BP≥1500的1张角色卡并使其处于激活状态，本回合中BP-1000。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

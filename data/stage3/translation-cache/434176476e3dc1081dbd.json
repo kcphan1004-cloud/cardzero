@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:43:30.430Z",
+  "model": "qwen3.5:9b",
+  "unitId": "434176476e3dc1081dbd",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-098"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "同時多発位置差攻撃",
+    "effect": "カードを1枚引く。自分のエナジーLのキャラを望む枚数フロントLに移動させる。この効果で移動させたキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "同时多发动作差攻击",
+    "effectZh": "抽 1 张牌。将能量线上的角色移动到前线至期望的数量。从以此效果移动的角色中选择最多 1 张，赋予其“直到本阶段为止：BP+2000。”",
+    "triggerZh": "抽牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:56:16.099Z",
+  "model": "qwen3.5:9b",
+  "unitId": "45b0f2010bae1ab9df02",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-036"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "浦飯 幽助",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、自分の山札の上から1枚を裏向きでそのキャラの下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "浦饭·藏助",
+    "effectZh": "[登场时]\n最多选择自己场上的 1 张角色，从牌库上方取 1 张以背面朝上置于该角色下方。",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色并激活之，本回合 BP+3000。"
+  }
+}

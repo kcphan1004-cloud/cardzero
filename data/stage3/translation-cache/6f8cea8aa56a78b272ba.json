@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:13.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6f8cea8aa56a78b272ba",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-041"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "亜白 ミナ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚白·美奈",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己手牌的 1 张置入场外。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

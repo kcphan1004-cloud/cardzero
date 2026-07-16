@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:44:57.892Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c7a3b33414e40f3f91fa",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-003"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "フレデリカ・バウマン",
+    "effect": "相手の場に青か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "弗雷德里卡·鲍曼",
+    "effectZh": "若对手场上有蓝色或紫色的卡片，则将自己手札中的本卡片所需能量\n[黄×1]\n减少。",
+    "triggerZh": ""
+  }
+}

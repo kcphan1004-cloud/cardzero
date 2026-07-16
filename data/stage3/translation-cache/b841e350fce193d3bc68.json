@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:12.433Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b841e350fce193d3bc68",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-022"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ナツメ・カフカ",
+    "effect": "このカードは〈ベータ〉としても扱う。\n[登場時]\nこのカードをリムーブエリアから使用していた場合、自分の場のキャラを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夏目·卡芙卡",
+    "effectZh": "本卡可视为〈贝塔〉。\n[登场时]\n若从移除区使用此卡，选择自己场上的角色最多 1 张并激活。",
+    "triggerZh": ""
+  }
+}

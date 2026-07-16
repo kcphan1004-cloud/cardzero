@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:01:09.427Z",
+  "model": "qwen3.5:9b",
+  "unitId": "03622eddc7ce5a5cc92a",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-031"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "リュカオーンの呪い",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n[このカードを退場させる]\n自分のアクティブのAPカードの枚数分、カードを引く。自分はこのターン中、手札からイベントカードを使用できない。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "利库奥恩的诅咒",
+    "effectZh": "[启动主阶段]\n[横置状态]\n[将一张手牌置入场外]\n[将该卡退场]\n根据自己激活状态的 AP 卡牌数量抽牌。本回合中，不能使用事件卡从自己的手牌中使用。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

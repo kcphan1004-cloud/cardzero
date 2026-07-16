@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:09:16.674Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e15699b8f1568605cbe7",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-068"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "陽務 楽郎",
+    "effect": "このカードは〈サンラク〉としても扱う。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阳务 乐郎",
+    "effectZh": "这张卡也作为〈桑拉克〉处理。\n[登场时]\n抽 1 张牌，将手札中的 1 张置入场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

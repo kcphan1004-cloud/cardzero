@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:50:04.570Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4e78aa12d1c472cbecea",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-012"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "死々若丸",
+    "effect": "[自分のターン中]\nこのキャラはBP+500。\n[登場時]\n相手のエナジーLに空きがある場合、自分の手札を1枚場外に置いてもよい。そうした場合、相手のフロントLのキャラを1枚まで選び、エナジーLに移動させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "死々若丸",
+    "effectZh": "[自己回合中]\n此角色的 BP+500。\n[登场时]\n若对方能量线有空位，也可将手札中的 1 张置于场外。若如此做，可选择对方前线 L 的角色最多 1 名并移动至能量线。",
+    "triggerZh": ""
+  }
+}

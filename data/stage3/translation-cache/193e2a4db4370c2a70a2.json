@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:59.766Z",
+  "model": "qwen3.5:4b",
+  "unitId": "193e2a4db4370c2a70a2",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-055",
+    "UA42BT/MGS-1-055"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを山札の上か下に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "羽川 翼",
+    "effectZh": "[登场时]\n从己方牌库上方翻看一张卡，将该卡置于牌库上方或下方。",
+    "triggerZh": "[激活状态]\n选择己方场上的一张角色将其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:52:52.243Z",
+  "model": "qwen3.5:4b",
+  "unitId": "46ca84f0eae5260eaaa5",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-067"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "出雲 天花",
+    "effect": "[登場時]\n自分の山札の上から4枚見て、［特徴：六番組］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出雲 天花",
+    "effectZh": "[激活状态]\n从自己的牌库上方看4张，公开至多1张［特征：六番組］并加入手札。将剩余的按任意顺序置于自己牌库下方。若已加入手札，则将自己手札中一张置场外。",
+    "triggerZh": ""
+  }
+}

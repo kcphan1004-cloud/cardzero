@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:45:58.520Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d5ad251d39295a28b8b2",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-074"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "化学室",
+    "effect": "[起動メイン]\n[レストにする]\nこのターン中に自分がイベントカードを使用している場合のみ発動できる。カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "化学室",
+    "effectZh": "[激活主效果]\n[横置状态]\n仅在自己本回合使用过事件卡时才能发动。从牌库上方抽一张牌。",
+    "triggerZh": "[触发]\n将此卡片加入手札。"
+  }
+}

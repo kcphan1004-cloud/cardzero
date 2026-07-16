@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:01.466Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd8dcda9b95d26a27d59",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-032"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "僕に...勇気を...。",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈佐々木 琲世〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "给我……勇气……。",
+    "effectZh": "选择对手场上的一张「前线 L」角色卡，将其移出场地（BP3000 以下）。若自己场地上有〈佐々木 琲世〉，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手场上的一张「前线 L」角色卡，并将其移出场地"
+  }
+}

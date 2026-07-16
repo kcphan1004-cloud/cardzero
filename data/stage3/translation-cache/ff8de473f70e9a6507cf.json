@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:56:41.651Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ff8de473f70e9a6507cf",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-112"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーゼロノス ベガフォーム",
+    "effect": "[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）\n[登場時]\n自分の手札を1枚場外に置く。\n[アタック時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Zeros Vega Form",
+    "effectZh": "[Damage（2）]\n（当此角色通过攻击直接造成伤害时，代替造成 2 点伤害）\n[登场时]\n将一张手牌置于场外。\n[攻击时]\n选择己方场上的一个角色，使其在此回合中 BP+1000。",
+    "triggerZh": "[Active]\n选择己方场上的一个角色进行激活，并在此回合中 BP+3000。"
+  }
+}

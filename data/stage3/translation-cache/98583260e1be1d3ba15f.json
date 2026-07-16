@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:03:30.712Z",
+  "model": "qwen3.5:9b",
+  "unitId": "98583260e1be1d3ba15f",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-059"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "花海 佑芽",
+    "effect": "[自分のターン中]\n自分のフロントLに〈花海 咲季〉がある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "花海 佑芽",
+    "effectZh": "【自己的回合中】\n若自己前线 L 有〈花海 咲季〉存在，此角色的 BP+1000。",
+    "triggerZh": "【抽牌】\n抽1张牌。"
+  }
+}

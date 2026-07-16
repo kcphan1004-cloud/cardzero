@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:54.378Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a43f165c8da3695ea99b",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-069"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "東峰 旭",
+    "effect": "自分の手札の枚数が相手より少ない場合、このキャラはBP3000以下のキャラにブロックされない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "东峰 旭",
+    "effectZh": "当自己手牌数量少于对手时，该角色不会被 BP3000 以下的角色阻挡。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色并使其处于激活状态，本回合中，BP+3000。"
+  }
+}

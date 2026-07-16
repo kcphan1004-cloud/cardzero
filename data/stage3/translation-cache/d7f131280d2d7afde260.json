@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:05.004Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d7f131280d2d7afde260",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-035"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリア",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "玛丽亚",
+    "effectZh": "[登场时]\n抽 1 张牌，将 1 张自己的手牌置于场外。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

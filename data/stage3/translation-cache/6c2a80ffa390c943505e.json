@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:43:56.784Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6c2a80ffa390c943505e",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SMD-1-022"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "坂本 太郎",
+    "effect": "[自分のターン中]\n自分の場に［特徴：坂本商店］のカード名が3種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "坂本太郎",
+    "effectZh": "【在自己的回合中】\n如果场上有 3 种以上名为［特征：坂本商店］的卡片，该角色的 BP+1000。",
+    "triggerZh": "【抽牌】\n从牌库上方抽取一张卡。”}]}"
+  }
+}

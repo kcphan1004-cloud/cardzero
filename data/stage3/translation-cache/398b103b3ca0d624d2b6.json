@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:21.583Z",
+  "model": "qwen3.5:4b",
+  "unitId": "398b103b3ca0d624d2b6",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-113"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "鈴屋 什造",
+    "effect": "自分の場に［特徴：CCG］が4枚以上ある場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手に1ダメージ）を得る。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "铃屋 什造",
+    "effectZh": "当自己的场上有［特征：CCG］4张以上时，此角色获得\n[冲击（1）]\n（攻击并战斗胜利时，对对手造成1点伤害）。",
+    "triggerZh": "[激活]\n选择自己场上的1个角色进行激活，本回合中BP+3000。"
+  }
+}

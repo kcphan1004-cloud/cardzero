@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:43:11.400Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f72eed576720cf15644e",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-041",
+    "UA26BT/RLY-1-082"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "大大大大大好きな彼女たち",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "大大大大喜欢她们",
+    "effectZh": "选择最多 2 张自己的 AP 卡并激活它们。",
+    "triggerZh": "[最终]\n如果你没有生命值，将自己牌库上方的一张卡放置到你的生命区域。"
+  }
+}

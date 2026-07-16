@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:09.733Z",
+  "model": "qwen3.5:4b",
+  "unitId": "81773e917133c200b33c",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-076"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "ゲン担ぎ",
+    "effect": "〈ゲン担ぎ〉は1ターンに1枚のみ使用できる。\nカードを1枚引く。このターン中に自分がエクストラドローしている場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "赌气",
+    "effectZh": "「赌气」一回合只能使用一次。\\n抽取一张卡。如果本回合中己方进行了额外抽牌，则选择至多 1 张自己的 AP 卡片并激活它们。",
+    "triggerZh": "[抽]\\n抽取一张卡"
+  }
+}

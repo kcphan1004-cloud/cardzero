@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:13:01.777Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7657af5e5b51536eed15",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-070"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "リー＝ミンミン",
+    "effect": "このカードは〈ミェンロン〉としても扱う。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "莉＝敏敏",
+    "effectZh": "这张卡也作为〈缅龙〉处理。",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:53:37.762Z",
+  "model": "qwen3.5:9b",
+  "unitId": "95f65eddfe601cc35417",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-027",
+    "UA29BT/KMR-1-027"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダー滅",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1000。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士灭",
+    "effectZh": "[启动Main]\n[将手牌中的1张置入场外]\n[Turn 1]\n此角色在本回合中，BP+1000。\n[启动Main]\n[位于前线L时]\n[Turn 1]\n查看自己山札上方的1张。将该卡置于自己的山札上方或场外。",
+    "triggerZh": ""
+  }
+}

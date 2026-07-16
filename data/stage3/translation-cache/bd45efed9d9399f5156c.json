@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:53.137Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bd45efed9d9399f5156c",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-052",
+    "UA17BT/TRK-1-052",
+    "UA17BT/TRK-1-078"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "トリコ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "特瑞科",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

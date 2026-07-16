@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:19:20.478Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ea1618788323d292e0e6",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-018"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "ノノア",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[相手のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺诺亚",
+    "effectZh": "[无效冲击]（与这个角色进行战斗的角色在本场战斗中，失去 [冲击]）\n[对方回合中]\n这个角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

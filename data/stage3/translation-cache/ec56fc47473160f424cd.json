@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:01:50.353Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ec56fc47473160f424cd",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-008"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "レターナ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "信使纳恩",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

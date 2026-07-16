@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:16.639Z",
+  "model": "qwen3.5:4b",
+  "unitId": "731fe3717dc8c32d81b2",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-031"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ネメシス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "涅墨西斯",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡加入手札。"
+  }
+}

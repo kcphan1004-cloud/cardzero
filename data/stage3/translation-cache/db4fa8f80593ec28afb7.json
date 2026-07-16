@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:35.930Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db4fa8f80593ec28afb7",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-014"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "四乃森 蒼紫",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "四乃森苍紫",
+    "effectZh": "[登场时]\n抽一张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[激活]\n选择自己场上的一张角色进行激活，本回合 BP+3000"
+  }
+}

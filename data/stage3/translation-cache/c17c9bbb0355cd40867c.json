@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:36:50.996Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c17c9bbb0355cd40867c",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MCR-1-005"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "シェリル・ノーム",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "雪莉·诺姆",
+    "effectZh": "登场时\n抽取一张牌并将自己的手牌1张置场外。",
+    "triggerZh": "抽卡\n抽取一张牌"
+  }
+}

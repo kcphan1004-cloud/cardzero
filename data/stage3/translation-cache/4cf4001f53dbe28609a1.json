@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:53:37.758Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4cf4001f53dbe28609a1",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-023",
+    "UA29BT/KMR-1-023"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーゼロワン ライジングホッパー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "假面骑士Zero-One Rising Hopper",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

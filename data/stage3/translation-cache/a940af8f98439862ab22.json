@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:57:03.653Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a940af8f98439862ab22",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-103"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ライナー・ブラウン",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莱纳·布朗",
+    "effectZh": "[步骤]（在自己的移动阶段可从前线 L 移至能量线 L）",
+    "triggerZh": ""
+  }
+}

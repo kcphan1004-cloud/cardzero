@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:52:50.103Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d640f2c43031d35b0e89",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-017",
+    "UA29BT/KMR-1-017"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーバルカン シューティングウルフ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士巴尔坎 射击狼",
+    "effectZh": "[步骤]\n（可从前线 L 移动至能量线）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:20.080Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9b6e96f9b60200c0b9cd",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/EVA-1-016"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "真希波・マリ・イラストリアス",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "真希波·玛丽·伊拉苏西亚",
+    "effectZh": "[步骤]\n（可以从前线 L 移动到能量 L）",
+    "triggerZh": "draw"
+  }
+}

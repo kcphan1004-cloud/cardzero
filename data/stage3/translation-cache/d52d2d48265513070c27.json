@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:45:17.927Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d52d2d48265513070c27",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-078",
+    "UA19BT/HIQ-1-078"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "菅原 孝支",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "菅原孝支",
+    "effectZh": "若该角色处于激活状态，则其产生的能量+\n[红]\n。",
+    "triggerZh": ""
+  }
+}

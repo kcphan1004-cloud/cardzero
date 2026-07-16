@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:25:29.936Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9d229d9ebf145197d6a2",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-014"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "六平 千鉱",
+    "effect": "[登場時]\n自分の場の〈六平 千鉱〉を1枚まで選び、このターン中、BP+1000と\n[インパクト（1）]\nを与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "六平 千鉱",
+    "effectZh": "[登场时]\n选择自己场上的一张〈六平 千鉱〉，本回合 BP+1000\n并给予 [冲击 (1)]。",
+    "triggerZh": ""
+  }
+}

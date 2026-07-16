@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:33:48.307Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e8c6dc2c3bca8a7cd040",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-010"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "栄逢 凪乃",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "荣逢 凪乃",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色1张，使其进入激活状态，本回合中BP+3000。"
+  }
+}

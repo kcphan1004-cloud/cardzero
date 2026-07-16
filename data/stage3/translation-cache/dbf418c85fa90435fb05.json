@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:03.078Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dbf418c85fa90435fb05",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-046"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アーノルド・レンク",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿诺尔德·伦克",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n从卡组上方抽取 1 张卡。"
+  }
+}

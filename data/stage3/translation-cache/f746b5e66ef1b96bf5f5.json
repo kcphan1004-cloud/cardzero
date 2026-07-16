@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:18:22.959Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f746b5e66ef1b96bf5f5",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-086"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "式波·明日香·兰格雷",
+    "effectZh": "[冲击无效]\n（与本角色进行战斗的角色在本战斗中失去[冲击]）",
+    "triggerZh": ""
+  }
+}

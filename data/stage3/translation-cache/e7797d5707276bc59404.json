@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:15:25.153Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e7797d5707276bc59404",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-003"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "バックス",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴克斯",
+    "effectZh": "[登场时]\n选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽入一张牌。"
+  }
+}

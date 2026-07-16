@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:56.376Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d2b5baa38870180b52a2",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-040"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "丸聞こえだぜ…",
+    "effect": "自分の場に〈朝倉 シン〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "全听到了啊…",
+    "effectZh": "若己方手牌中有「朝仓 真」，则本张卡消耗AP-1。\n选择对手场上BP值在5000以下的Front L角色卡一张，将其退场。",
+    "triggerZh": "[特殊]\n选择对手场上Front L的角色卡一张，将其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:49.363Z",
+  "model": "qwen3.5:4b",
+  "unitId": "63a9c2ad33dceba53ae8",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-037"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ご神体",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "御神体",
+    "effectZh": "选择己方AP卡最多两张并激活之。",
+    "triggerZh": "[最终] 若我方生命值为零，则从己方牌库上方取一张置于我方生命区"
+  }
+}

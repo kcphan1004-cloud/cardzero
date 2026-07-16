@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:02.229Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cdbc585ed87e267bca0d",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-027"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "奈落",
+    "effect": "[起動メイン]\n[ターン1]\n相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000し、このキャラをアクティブにし、このキャラはこのターン中、\n[インパクト（1）]\nを得る。自分の場の［特徴：奈落一派］を1枚退場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "奈落",
+    "effectZh": "[启动主]\n[回合 1]\n选择对手的前线 L 的 1 张角色，本回合中 BP-1000，将该角色激活，该角色在本回合中获得\n[冲击（1）]。\n使己方场上的［特征：奈落一派］离场。",
+    "triggerZh": "[获取]\n加入手札"
+  }
+}

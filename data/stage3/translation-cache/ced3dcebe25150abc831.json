@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:05.000Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ced3dcebe25150abc831",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-029"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ガツンとアタック大作戦",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚まで選び、退場させる。自分の場に〔〈エリー〉か〈リアリド〉〕と〈アンジェ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "全力突击大作战",
+    "effectZh": "选择对方 BP3000 以下的战线 L 的角色至多 1 枚，使其退场。若自己场上有〔〈艾莉〉或〈里亚里德〉〕和〈安洁〉，“BP3000以下”变更为“BP5000以下”。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色 1 枚，使其退场。"
+  }
+}

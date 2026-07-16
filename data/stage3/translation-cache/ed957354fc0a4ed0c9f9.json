@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:51:11.037Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed957354fc0a4ed0c9f9",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-045"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "銭函 ココ",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "銭函 可可",
+    "effectZh": "[离场时]\n抽卡1张。",
+    "triggerZh": "[激活]\n选择己方场上的1只角色进行激活，并令其于本场中获得BP+3000。"
+  }
+}

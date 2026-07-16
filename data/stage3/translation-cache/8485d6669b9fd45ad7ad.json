@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:30.911Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8485d6669b9fd45ad7ad",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-039"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "無窮の鎖",
+    "effect": "このカードは自分の場に〈羽前 京香〉がある場合のみ使用できる。\n自分の山札の上から3枚まで場外に置く。自分の場外から〈和倉 優希（無窮の鎖）〉を1枚まで手札に加える。自分のAPカードを1枚アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "无尽的锁链",
+    "effectZh": "本卡片仅在己方场上有〈羽前 京香〉时才能使用。\n从己方牌库上方最多抽取三张置于场外。从己方场外将一张〈和仓 优希（无尽之锁）》加入手札。激活己方的一张 AP 卡。",
+    "triggerZh": ""
+  }
+}

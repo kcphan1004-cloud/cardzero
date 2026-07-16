@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:25.830Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c496a1736d4f80c4e2e4",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-017"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "[无效冲击]（与本作战的角色在本作战中失去 [冲击]）",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

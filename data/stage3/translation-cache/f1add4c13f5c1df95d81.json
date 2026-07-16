@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:48:31.484Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f1add4c13f5c1df95d81",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-106"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "Ace",
+    "effect": "[フロントLにある場合]\n〈Ace〉以外の自分の場のキャラがBPが0以下になること以外で退場する場合、代わりにこのキャラを退場させてもよい。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "王牌",
+    "effectZh": "当此角色位于前线线时\\n除自身场上其他角色的BP降至0或以下导致退场外，若该角色因其他原因退场，可将其替换为离场。",
+    "triggerZh": ""
+  }
+}

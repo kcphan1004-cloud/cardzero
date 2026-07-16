@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:18:11.198Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8ec37b2b4d06df07d16a",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/CGH-AP04",
+    "UAPR/CGH-AP01",
+    "UAPR/CGH-AP02",
+    "UAPR/CGH-AP03",
+    "UAPR/CGH-AP04",
+    "UAPR/CGH-AP05"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(コードギアス 反逆のルルーシュ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（Code Geass: Lelouch of the Rebellion）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

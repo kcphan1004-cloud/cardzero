@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:15.044Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5cd9184d91d7543985b2",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-063"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "香刈 緋雪",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、［特徴：神奈備］を1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "香刈 緋雪",
+    "effectZh": "[登场时]\n从自己的山札上方看两张，最多一张具有［特征：神奈备］的卡置于场外，其余按任意顺序放回山札上方。",
+    "triggerZh": ""
+  }
+}

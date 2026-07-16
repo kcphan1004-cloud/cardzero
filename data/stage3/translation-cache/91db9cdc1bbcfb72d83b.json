@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:51:00.941Z",
+  "model": "qwen3.5:9b",
+  "unitId": "91db9cdc1bbcfb72d83b",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-089"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "ウラタロス",
+    "effect": "このキャラはBP2000以下のキャラにブロックされない。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "乌拉塔罗斯",
+    "effectZh": "此角色不会被 BP2000 以下的角色阻挡。",
+    "triggerZh": "[激活]\n选择自己场上的角色之一进行激活，并在本回合内 BP+3000。"
+  }
+}

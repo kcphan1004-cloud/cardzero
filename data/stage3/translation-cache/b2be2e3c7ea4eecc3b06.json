@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:10:18.626Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b2be2e3c7ea4eecc3b06",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-079"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "ほら、一緒に持と♪",
+    "effect": "カードを1枚引く。このターン中、次に手札から使用する〈葛城 リーリヤ〉か〈紫雲 清夏〉の消費APを-1する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "来吧，一起拿♪",
+    "effectZh": "抽 1 张牌。本回合中，下次从手牌使用的〈葛城莉利亚〉或〈紫云清夏〉的消耗 AP-1。",
+    "triggerZh": ""
+  }
+}

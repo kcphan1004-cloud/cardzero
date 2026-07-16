@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:22:07.456Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5ecb5382bb3547a6dbfe",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-103"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ボビー・マルゴ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "鲍比·马尔戈",
+    "effectZh": "[冲击无效]\\n（与该字符战斗的字符在本战斗中失去\\n[冲击]）",
+    "triggerZh": "[激活]\\n选择己方场上的 1 张角色，使其进入激活状态，该回合内其 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:38:37.260Z",
+  "model": "qwen3.5:4b",
+  "unitId": "70c0d478b224822a1bc0",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-079"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "街の見回り",
+    "effect": "自分の山札の上から6枚見る。その中から緑の［特徴：ボウフウリン］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "街の見回り",
+    "effectZh": "从牌库上方看6张卡。从中公开至多1张绿色［特征：防风少年］的卡片并加入手札，其余按任意顺序置于自己牌库下方。抽一张牌。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

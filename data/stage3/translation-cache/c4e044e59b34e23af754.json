@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:10:19.198Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c4e044e59b34e23af754",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-015"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "朝倉 シン",
+    "effect": "[アタック時]\n自分の場に［特徴：坂本商店］のカード名が3種類以上ある場合、以下から1つまで選ぶ。\n・カードを1枚引く。\n・このキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "朝仓 心",
+    "effectZh": "[攻击时]\n若自己场上［特征：坂本商店］的卡名有3种以上，可从以下中选择1项。\n・抽取1张卡牌。\n・该角色在本回合中BP+1000。",
+    "triggerZh": "[抽牌]\n抽取1张卡牌。"
+  }
+}

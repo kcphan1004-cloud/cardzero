@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:44.613Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e430185a9417b6bf2f74",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-073"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "柊 登馬",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "柊 登马",
+    "effectZh": "[两次封锁]\n（本角色首次进行封锁时，激活）",
+    "triggerZh": "[激活]\n选择自己场上的一个角色并使其处于激活状态，在本回合中 BP+3000。"
+  }
+}

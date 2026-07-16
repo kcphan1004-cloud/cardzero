@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:21:13.837Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f1d894cfa21049e337b",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-042"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "亜白 ミナ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚白·美奈",
+    "effectZh": "[阶段]\n（可在自己的移动阶段从前线 L 移动到能量线）",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

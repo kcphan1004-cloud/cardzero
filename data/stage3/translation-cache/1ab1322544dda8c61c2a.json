@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:10:44.002Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1ab1322544dda8c61c2a",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-091"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "アーマードゴリラ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "武装猿人",
+    "effectZh": "[无效化冲击]（本回合内，与本角色战斗的角色会失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:23.867Z",
+  "model": "qwen3.5:4b",
+  "unitId": "059007dc2f94e79d7086",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-038"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "風刃の舞",
+    "effect": "BP3000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "风刃之舞",
+    "effectZh": "选择对手前线 L 中「BP3000以下」的一张卡片并退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:28:12.735Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f9ad84856540cbaa8f89",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-067"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ガメラ",
+    "effect": "[アタック時]\n相手のフロントLにレイド状態のキャラがない場合、カードを1枚引く。",
+    "trigger": "[カラー]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚自分の場にアクティブで登場させる。"
+  },
+  "translation": {
+    "nameZh": "盖亚奥特曼",
+    "effectZh": "[攻击时]\n若对方的前线L没有处于雷击状态的角色，则抽一张卡。",
+    "triggerZh": "[颜色]\n从自己手札中选择必要能量为2以下且消耗AP为1的绿色角色卡一张以激活状态登场于自己的场地上。"
+  }
+}

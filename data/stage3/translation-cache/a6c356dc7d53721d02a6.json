@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:26:22.787Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a6c356dc7d53721d02a6",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-022"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "漣 円慈",
+    "effect": "[登場時]\nこのターン中に自分のキャラの効果でAPを支払っている場合、自分の場の〈漣 京羅〉か［特徴：濤］を1枚まで選び、このターン中、BP+2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "漣 円慈",
+    "effectZh": "[登场时]\n本回合中，若己方角色已支付AP，则从己方场上的「漣 京罗」或［特征：濤］中选择至多1张，本回合BP+2000。",
+    "triggerZh": ""
+  }
+}

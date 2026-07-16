@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:58.605Z",
+  "model": "qwen3.5:4b",
+  "unitId": "54557a9a0c21d497e01c",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-020"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "あんたバカぁ？",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈式波・アスカ・ラングレー〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "你真是笨蛋啊？",
+    "effectZh": "选择对手 Front L 中 BP3000 以下的 1 张卡并退场状态。若自己场上存在〈式波·明日香·兰格雷〉，则改为 BP5000 以下。",
+    "triggerZh": "[Special]\n选择对手的 Front L 中的 1 张卡并使其退场。"
+  }
+}

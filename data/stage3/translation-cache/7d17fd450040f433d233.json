@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:17:37.888Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7d17fd450040f433d233",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-006"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ユースタス財団研究員",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤斯塔斯财团研究员",
+    "effectZh": "[退场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

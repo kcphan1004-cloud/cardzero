@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:56.404Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9dd9300752e688cc4cba",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-081"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ボロス",
+    "effect": "[登場時]\n自分のライフエリアにあるカードを1枚手札に加えてもよい。そうした場合、カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "波罗斯",
+    "effectZh": "[登场时] 可将己方生命区中的卡片一张加入手牌。如此，抽两张卡，并将己方手牌中的一张置于场外。",
+    "triggerZh": ""
+  }
+}

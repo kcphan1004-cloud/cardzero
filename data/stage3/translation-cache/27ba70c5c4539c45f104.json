@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:33:59.493Z",
+  "model": "qwen3.5:4b",
+  "unitId": "27ba70c5c4539c45f104",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-023"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "桜 遥",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "樱 遥",
+    "effectZh": "[升场时]\n（本回合可以从前线线移往能量线）",
+    "triggerZh": ""
+  }
+}

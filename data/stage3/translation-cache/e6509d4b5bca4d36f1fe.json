@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:23.390Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e6509d4b5bca4d36f1fe",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-077"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "今までありがとう",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "感谢至今为止的一切",
+    "effectZh": "将自己的AP卡最多2张激活。\n,",
+    "triggerZh": "[最终]\n当自己的生命为0时，从自己牌库上方将1张置于自己的生命区域。"
+  }
+}

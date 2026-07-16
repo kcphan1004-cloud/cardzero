@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:46:04.025Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6031bda5c656940529a3",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-042"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "フェリス",
+    "effect": "[登場時]\n自分か相手の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "费里斯",
+    "effectZh": "[登场时]\n选择己方或敌方场地的其他角色最多一张，该角色在本回合中BP+1000。",
+    "triggerZh": "[激活]\n选择场地一张角色进行激活，本回合内BP+3000。"
+  }
+}

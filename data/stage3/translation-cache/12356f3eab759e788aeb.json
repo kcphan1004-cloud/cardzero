@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:14:03.656Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12356f3eab759e788aeb",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-003"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "天乃 リリサ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "天乃 莉莉莎",
+    "effectZh": "当此角色处于激活状态时，本角色的产生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

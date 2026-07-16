@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:16:26.417Z",
+  "model": "qwen3.5:4b",
+  "unitId": "059142c95e837d082e31",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-035"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ガルド・ゴア・ボーマン",
+    "effect": "[登場時]\n自分の場にカード名に「イサム」を含むキャラがある場合、自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加尔迪·戈亚·波曼",
+    "effectZh": "登场时",
+    "triggerZh": ""
+  }
+}

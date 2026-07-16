@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:01:33.126Z",
+  "model": "qwen3.5:9b",
+  "unitId": "307191d6d0d7f01705c3",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-017"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "アニス",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "阿尼斯",
+    "effectZh": "[阶段]\n（在自己的移动阶段可以从前线 L 移动到能量线）",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色，使其处于激活状态，本回合中 BP+3000。"
+  }
+}

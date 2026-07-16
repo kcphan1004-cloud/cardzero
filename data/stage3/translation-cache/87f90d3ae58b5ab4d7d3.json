@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:27:44.992Z",
+  "model": "qwen3.5:9b",
+  "unitId": "87f90d3ae58b5ab4d7d3",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-079"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "保科流刀伐術6式 八重討ち",
+    "effect": "『BP3000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場の〈保科 宗四郎〉1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "保科流刀伐术第六式·八重讨",
+    "effectZh": "选择对方前线 L 的 BP3000 以下的角色中的 1 枚并使其退场。自己场上的〈保科 宗四郎〉每有 1 张，此效果可选择角色的 BP 范围上限增加 +1000。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的角色中的 1 枚并使其退场。"
+  }
+}

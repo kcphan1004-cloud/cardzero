@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:13:49.728Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0d6d5b5e467533a45b6a",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-066"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "楽園の翼",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ドロシー〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "乐园之翼",
+    "effectZh": "选择对方前线 L 的『BP3000以下』的角色 1 枚并使其退场。若自己场上有〈多萝西〉，则改为『BP5000以下』。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色 1 枚并使其退场。"
+  }
+}

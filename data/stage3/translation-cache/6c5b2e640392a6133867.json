@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:59:11.257Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6c5b2e640392a6133867",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-019"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "ビィラック",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "比拉克",
+    "effectZh": "当这张角色处于激活状态时，此角色的发生能量+\n[绿色]\n。",
+    "triggerZh": ""
+  }
+}

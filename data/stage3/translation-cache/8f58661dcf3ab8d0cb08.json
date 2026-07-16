@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:49.299Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8f58661dcf3ab8d0cb08",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-019"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 火憐",
+    "effect": "[登場時]\n自分の場の［特徴：ファイヤーシスターズ］を1枚まで選び、別のラインに移動させる。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "阿良々木火怜",
+    "effectZh": "[登场时]\n选择自己场上的［特征：火焰姐妹］中的一张，移动至其他侧线。",
+    "triggerZh": "[颜色]\n选择对手的前线 L 中的一张角色卡，将其横置。该角色下一次无法激活。"
+  }
+}

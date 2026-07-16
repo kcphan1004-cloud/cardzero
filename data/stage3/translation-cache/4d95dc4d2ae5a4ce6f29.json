@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:06:42.833Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4d95dc4d2ae5a4ce6f29",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-046"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "シド・カゲノー",
+    "effect": "このキャラがレイドされた時、レイドしたキャラにこのターン中、\n[インパクト（1）]\nか\n[ダメージ（2）]\nを与える。（レイドしたキャラの\n[登場時]\nとこの効果は望む順で処理する）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "西德·卡格诺尔",
+    "effectZh": "本角色被雷击时，给予该回合中雷击的本方角色\n[冲击（1）]\n或\n[伤害（2）]。（雷击方的\n[登场时]\n与本效果按任意顺序处理）",
+    "triggerZh": ""
+  }
+}

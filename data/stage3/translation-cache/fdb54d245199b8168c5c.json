@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:53.540Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fdb54d245199b8168c5c",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-049"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "西連寺 春菜",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "西连寺春菜",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手中。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:53:37.759Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cdd918fbbafe633e77c2",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-025",
+    "UA29BT/KMR-1-025"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダー迅 バーニングファルコン",
+    "effect": "[フロントLにある場合]\n〈仮面ライダー迅 バーニングファルコン〉以外の自分の場のキャラが相手のキャラの効果によって退場する場合、代わりにこのキャラを退場させてもよい。\n[退場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士迅 Burning Falcon",
+    "effectZh": "[位于前线L时]\n除〈假面骑士迅 Burning Falcon〉外的自己场上的角色因对方角色的效果而退场时，也可以代替将其此角色退场。\n[退场时]\n抽1张牌，将手牌中的1张置入场外。",
+    "triggerZh": "[Draw]\n抽1张牌。"
+  }
+}

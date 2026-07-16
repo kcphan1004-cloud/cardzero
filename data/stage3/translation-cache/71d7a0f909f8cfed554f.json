@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:35.267Z",
+  "model": "qwen3.5:4b",
+  "unitId": "71d7a0f909f8cfed554f",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-051"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ロキシー",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "罗琪希",
+    "effectZh": "[登场时]\n抽取一张卡，将己方的手牌一张放到场外。",
+    "triggerZh": "[抽入]\n抽取一张卡。"
+  }
+}

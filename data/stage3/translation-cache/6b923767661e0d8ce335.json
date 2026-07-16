@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:30:10.054Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6b923767661e0d8ce335",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/IMC-1-027"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "本田 未央",
+    "effect": "自分の場に［特徴：ポジティブパッション］が4枚以上ある場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "本田 未央",
+    "effectZh": "本家场上有4张以上［特征：积极热情］时，此角色发生能量+【黄】。",
+    "triggerZh": ""
+  }
+}

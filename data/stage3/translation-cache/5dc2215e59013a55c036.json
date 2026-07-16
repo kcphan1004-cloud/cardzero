@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:03:17.402Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5dc2215e59013a55c036",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-024"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フロストノヴァ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "霜星",
+    "effectZh": "【登场时】抽 1 张牌，将手牌中的 1 张置为横置状态。",
+    "triggerZh": "【触发：抽卡】抽 1 张牌。"
+  }
+}

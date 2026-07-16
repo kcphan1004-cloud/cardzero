@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:03:38.319Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ba28302baba8de53b98c",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-077"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ザコはゆっくりおやすみなさい♪",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈キャサリン・サバスラ〉か〈クインクラカ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "杂鱼慢慢睡吧♪",
+    "effectZh": "选择1张对方生命区域上方BP值为3000以下的角色并使其进入横置状态。若自己的场上存在「凯瑟琳·萨巴斯拉」或「昆克拉卡」，则将其效果变更为：针对BP值5000以下。",
+    "triggerZh": "[特殊]\n选择对手的生命区域上的一张卡并将其置于横置状态。"
+  }
+}

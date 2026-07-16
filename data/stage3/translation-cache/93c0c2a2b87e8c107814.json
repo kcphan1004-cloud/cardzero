@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:30.187Z",
+  "model": "qwen3.5:4b",
+  "unitId": "93c0c2a2b87e8c107814",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-032"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "プラチナむかつく",
+    "effect": "自分の手札から必要エナジーが3以下で消費APが1の［特徴：ファイヤーシスターズ］を1枚まで自分の場にアクティブで登場させる。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "白金·令人烦躁的",
+    "effectZh": "从手牌中选择必要能量为 3 以下且消耗 AP 为 1 的一张［特征：火之姐妹］，将其以激活状态登场到场上。",
+    "triggerZh": "[激活]\n选择场上的角色一张并使其进入激活状态，本回合 BP+3000"
+  }
+}

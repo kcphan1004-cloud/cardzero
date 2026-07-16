@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:03:42.167Z",
+  "model": "qwen3.5:9b",
+  "unitId": "82d7322cb38fb28322b7",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-016"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ツィベタ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "茨贝塔",
+    "effectZh": "",
+    "triggerZh": "[登场]\n将此卡加入手牌。"
+  }
+}

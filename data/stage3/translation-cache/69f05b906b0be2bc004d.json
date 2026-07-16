@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:29:54.214Z",
+  "model": "qwen3.5:9b",
+  "unitId": "69f05b906b0be2bc004d",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-006"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーゲイツ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Gaius",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的 1 枚角色并激活，本回合中 BP+3000。"
+  }
+}

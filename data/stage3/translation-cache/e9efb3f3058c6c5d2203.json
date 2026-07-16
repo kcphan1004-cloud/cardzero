@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:52:17.308Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e9efb3f3058c6c5d2203",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-062"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "東 八千穂",
+    "effect": "[登場時]\n自分のフロントLに［特徴：六番組］が3枚以上ある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "東 八千穂",
+    "effectZh": "[激活狀態]\n自己的前線 L 上有［特徵：六番組］的卡片達到或超過 3 張時，抽一張牌。",
+    "triggerZh": ""
+  }
+}

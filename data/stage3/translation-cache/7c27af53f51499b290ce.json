@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:20:59.255Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7c27af53f51499b290ce",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18ST/NIK-1-031",
+    "UA18BT/NIK-1-031"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "「コードネーム・レッドフード」",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ラピ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "「代号·红帽」",
+    "effectZh": "【BP3000以下】选择对方前线 L 的角色中的 1 枚并使其退场。若自己场上有〈拉皮〉，则改为【BP5000以下】。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色中的 1 枚并使其退场。"
+  }
+}

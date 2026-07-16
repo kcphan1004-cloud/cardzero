@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:56:23.118Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a3c49e6d6a1c94dcadcb",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-051"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "刈羽 蝙也",
+    "effect": "相手の場に青か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "刈羽 蝙也",
+    "effectZh": "若对手场上有青色或红色的卡，则从手牌中减少这张卡的必要能量[紫×1]。",
+    "triggerZh": ""
+  }
+}

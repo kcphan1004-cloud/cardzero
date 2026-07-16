@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:17.587Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cf34c4b9a5e13a88786d",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-029"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "解呪の儀式",
+    "effect": "自分の場のフィールドを1枚退場させる。そうした場合、カードを1枚引き、このターン中、次に手札から使用する〈千石 撫子〉の消費APを‐1する。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "解咒的仪式",
+    "effectZh": "将自己的场上的 Field 最多选择 1 张使其离场。如此操作后，抽取 1 张卡，本回合中，下次从手札使用的〈千石 抚子〉消耗 AP -1。<br>[获得]<br>将此卡加入手札。",
+    "triggerZh": "[获取]<br>将此卡加入手札"
+  }
+}

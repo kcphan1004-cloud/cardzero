@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:23:34.500Z",
+  "model": "qwen3.5:9b",
+  "unitId": "63f3945a055012af3fee",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-036"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "超音波メス",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、相手の山札の上か下の『相手が選んだ方』に置く。自分の場に〈ギャオス〉か〈エスギャオス〉がある場合、『自分が選んだ方』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "超声波手术刀",
+    "effectZh": "选择 BP5000 以下的对方前线 L 的角色 1 张，将其置于对方的牌库上方或下方（由对手决定）。若自己场上有〈ギャオス〉（Gyaos）或〈エスギャオス〉（Es Gyaos），则改为“由自己决定”。",
+    "triggerZh": "[特殊]选择对方前线 L 的角色 1 张并使其退场"
+  }
+}

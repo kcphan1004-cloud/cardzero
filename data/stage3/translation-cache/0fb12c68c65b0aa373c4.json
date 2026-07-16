@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:47.382Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0fb12c68c65b0aa373c4",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-059"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "シルフィエット",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・カードを1枚引き、自分の手札を1枚場外に置く。\n・自分のフロントLの他の［特徴：ラノア魔法大学］を1枚まで選び、このターン中、「このキャラはフロントLでもエナジーを発生させる。」を与える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "丝菲埃特",
+    "effectZh": "[登场时]\n从以下中选择1项。\n・抽取1张卡牌，将自己手札中的1张置场外。\n・选择自己的前场L中至多1张［特征：拉诺亚魔法大学］的卡，给予本卡“本卡也能在前场L中产生能量”的效果。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:43:34.122Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2216fcd15598939b31a",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-018"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "トリコ",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特瑞科",
+    "effectZh": "[无效化冲击]\n（与该角色进行战斗的角色在本场战斗中会\n失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:42:38.881Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5fd13cb8473f36bd4194",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SAO-1-089"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "シノン",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "雪莉",
+    "effectZh": "[阶段]\n（本角色可在移动阶段从前线L移至能量L）\n[登场时]\n从自己牌库上方翻看一张卡，将其置于自己牌库上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:16:03.810Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d0445026f2ba4162de4e",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-105"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "桑原 和真",
+    "effect": "[アタック時]\nこのキャラの下の裏向きのカードを1枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "桑原和真",
+    "effectZh": "[攻击时]\n可以从该角色下方的背面朝上的卡片中放置 1 张至场外。如此操作的话，该角色在本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

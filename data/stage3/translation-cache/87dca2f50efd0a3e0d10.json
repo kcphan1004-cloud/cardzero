@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:31:02.716Z",
+  "model": "qwen3.5:4b",
+  "unitId": "87dca2f50efd0a3e0d10",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/IMS-3-033"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "郁田 はるき",
+    "effect": "[登場時]\n[エナジーLにある場合]\n自分のリムーブエリアにカードが3枚以上ある場合、このキャラをアクティブにする。\n[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "郁田 春树",
+    "effectZh": "[登场]\n[能量线有能量的情况下]\n当自身移除区卡数大于等于3时，将此角色激活。\n[启动主] \n[横置]\n选择自己场上其他1张角色，本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

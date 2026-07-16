@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:02.332Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8a2cafb360f466dff018",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-099"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "――二人とも、大好き",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "――二人とも、大好き",
+    "effectZh": "选择至多 2 张你的 AP 卡，将其激活。",
+    "triggerZh": "[最终]\n若你无生命点，则从牌库上方抽一张置于你的生命区。"
+  }
+}

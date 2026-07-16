@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:25:55.757Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f7c9cecb1cae81601b24",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-055"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ブロディ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のエナジーLの緑のキャラを1枚選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "布罗迪",
+    "effectZh": "[启动主阶段]\n[位于前线 L]\n[回合 1]\n选择自己能量线上的绿色角色卡，将其激活。",
+    "triggerZh": ""
+  }
+}

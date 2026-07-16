@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:53:37.764Z",
+  "model": "qwen3.5:9b",
+  "unitId": "67f6f9fac8bd007526c9",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-033",
+    "UA29BT/KMR-1-033"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "ライジングインパクト",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『レストにする。それは次の1回アクティブにならない』。自分の場にカード名に「ゼロワン」を含むキャラがある場合、『退場させる』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "Rising Impact",
+    "effectZh": "选择对方前线L上BP 5000或以下的角色中的1张，并执行『使其横置。它在下一次激活前不会再次激活』。若自己场上有包含「Zero-One」字样的角色名称的角色，则改为『使其退场』。",
+    "triggerZh": "[Special]\n选择对方前线L上的角色中的1张并将其退场。"
+  }
+}

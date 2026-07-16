@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:12.833Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9b1587cf50a3a77e5163",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-031"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "夢幻の白夜",
+    "effect": "[退場時]\n自分の山札の上から2枚まで場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梦幻的白夜",
+    "effectZh": "[离场时] \n将两张或更少数量的卡牌置于场外，顺序为：自己的卡组上方的第一张和第二张。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

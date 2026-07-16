@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:26:08.468Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8647bb7611b5e2e86806",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-046"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "マース・ヒューズ",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1000。\n[退場時]\n自分の手札が2枚以下の場合、カードを1枚引く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "马尔斯·休斯",
+    "effectZh": "[激活主侧]\n将一张手牌置于场外。\n[回合 1]\n本角色在本回合中，BP+1000。\n[离场时]\n若自己的手牌为 2 张或以下，抽一张卡。",
+    "triggerZh": "[颜色]\n选择 BP3500 以下的对手前侧 L 的一张角色并返回其手牌。"
+  }
+}

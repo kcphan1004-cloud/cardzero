@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:40.769Z",
+  "model": "qwen3.5:4b",
+  "unitId": "957703e16f2f90dbf758",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-077"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "“あの日”は俺の原動力だ より鮮明になった",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "“あの日”は俺の原動力だ より鮮明になった",
+    "effectZh": "选择两张 AP 卡，使其进入激活状态。",
+    "triggerZh": "[最终]\n当生命值为零时，从场上查看一张卡并将其置于生命区。"
+  }
+}

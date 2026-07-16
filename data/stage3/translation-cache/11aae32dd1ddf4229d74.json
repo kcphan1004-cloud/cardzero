@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:06:42.827Z",
+  "model": "qwen3.5:4b",
+  "unitId": "11aae32dd1ddf4229d74",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-042"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "665",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "665",
+    "effectZh": "[激活主侧]\n[横置状态]\n[回合 1]\n本角色在本回合中，发生能量+\n[紫] 能量\n并「主边相æœŸç»æ—¶ï¼Œè¿™ä¸ªå±‹è§€é€ç½®ã€\"",
+    "triggerZh": ""
+  }
+}

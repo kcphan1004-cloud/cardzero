@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:12.381Z",
+  "model": "qwen3.5:4b",
+  "unitId": "edfc79da55670e547b5b",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-102"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "エピソード",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "Episode",
+    "effectZh": "",
+    "triggerZh": "[抽牌] \n从卡组上方抽取一张卡牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:33:08.987Z",
+  "model": "qwen3.5:4b",
+  "unitId": "31369dbd6f80fd271725",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-076"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "絵心 甚八",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から必要エナジーが2以下で赤のキャラカードを1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "绘心甚八",
+    "effectZh": "[启动主位]\n[设为横置状态]\n[使此卡离场]\n从场外抽取所需能量为2以下的红色角色卡牌最多一张加入手牌。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:35.105Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a9355d3459ac94a4bda5",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-016"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ゼニス",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[青]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "泽尼斯（UA54BT/MST-1-016）",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本角色在本回合中获得能量+\n[蓝]，并获得「结束主阶段时将该角色离场」。",
+    "triggerZh": ""
+  }
+}

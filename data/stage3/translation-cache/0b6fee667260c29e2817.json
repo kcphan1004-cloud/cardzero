@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:13.008Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0b6fee667260c29e2817",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-092"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "I LOVE YOU",
+    "effect": "自分の山札の上から2枚場外に置く。その後、自分の場外から〈戦場ヶ原 ひたぎ〉を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "我愛你",
+    "effectZh": "從你的牌庫上方置 2 張場外。接著，將你的場外至多 1 張〈戰場ヶ原 ひたぎ〉加入手札。",
+    "triggerZh": "[抽卡]\n抽 1 張牌"
+  }
+}

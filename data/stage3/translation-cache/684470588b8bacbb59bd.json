@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:17.825Z",
+  "model": "qwen3.5:4b",
+  "unitId": "684470588b8bacbb59bd",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-072"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "柊 登馬",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "柊 登马",
+    "effectZh": "【启动主侧】\n若处于前场L\n回合1\n选择自己场上的其他角色一张，本回合BP+500。",
+    "triggerZh": "【抽牌】\n抽取一张卡片"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:30.084Z",
+  "model": "qwen3.5:4b",
+  "unitId": "070a30a9f2cf129456ef",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-065"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ゼータ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "泽塔",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择己方场上的一张角色，使其处于激活状态，本回合 BP+3000"
+  }
+}

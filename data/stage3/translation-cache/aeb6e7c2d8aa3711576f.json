@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:36.075Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aeb6e7c2d8aa3711576f",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-035"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "お前は戦士だ",
+    "effect": "以下から3つまで選ぶ。\n・自分の場に〈ルーデウス〉がある場合、カードを1枚引く。\n・自分の場に〈エリス〉がある場合、カードを1枚引く。\n・自分の場に〈ルイジェルド〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "你是战士啊",
+    "effectZh": "从以下选项中选三个。<br><strong>[鲁德乌斯]</strong> 在场上的情况下，抽一张牌。<br><strong>[艾莉丝]</strong> 在场上的情况下，抽一张牌。<br><strong>[路易杰尔德]</strong> 在场上的情况下，抽一张牌。",
+    "triggerZh": "[抽牌]<br>抽一张牌"
+  }
+}

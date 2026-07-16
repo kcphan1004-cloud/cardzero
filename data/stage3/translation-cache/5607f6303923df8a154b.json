@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:26:11.697Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5607f6303923df8a154b",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-101"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "アーミヤ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿米娅",
+    "effectZh": "[本回合中]\n该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

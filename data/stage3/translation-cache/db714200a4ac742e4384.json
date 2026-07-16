@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:16:26.416Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db714200a4ac742e4384",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-034"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ガルド・ゴア・ボーマン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "加尔迪·戈亚·波曼",
+    "effectZh": "",
+    "triggerZh": "get"
+  }
+}

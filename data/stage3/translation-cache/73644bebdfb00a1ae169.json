@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:07:22.660Z",
+  "model": "qwen3.5:4b",
+  "unitId": "73644bebdfb00a1ae169",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-055"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "童帝",
+    "effect": "[登場時]\n自分の場に他の［特徴：ヒーロー］が3枚以上ある場合、以下から1つ選ぶ。\n・カードを1枚引く。\n・自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "童帝",
+    "effectZh": "[登场时]\n当自己的场上存在其他［特征：英雄］达到或超过 3 张时，从以下选项中任选 1 个。\n・抽 1 张牌\n・选择自己场上的其他角色最多 1 个并使其在本回合 BP+1000",
+    "triggerZh": "[抽取]抽 1 张牌"
+  }
+}

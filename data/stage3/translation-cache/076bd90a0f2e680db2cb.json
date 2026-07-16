@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:59.812Z",
+  "model": "qwen3.5:9b",
+  "unitId": "076bd90a0f2e680db2cb",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-031"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ビリー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "比利",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

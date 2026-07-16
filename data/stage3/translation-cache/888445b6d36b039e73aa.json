@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:40.768Z",
+  "model": "qwen3.5:4b",
+  "unitId": "888445b6d36b039e73aa",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-076"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "神奈備本部",
+    "effect": "このフィールドはアクティブで登場させる。\n[起動メイン]\n[レストにする]\n自分の場の特徴に「神奈備」を持つキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "神奈备本部",
+    "effectZh": "本场地为激活状态登场。\n[激活主]\n[横置时]\n选择场上拥有「神奈备」特征的角色一张，本回合中 BP+1000。",
+    "triggerZh": "[获取]\n将该卡加入手札。"
+  }
+}

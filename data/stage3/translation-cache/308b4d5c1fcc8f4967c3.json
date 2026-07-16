@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:16:13.022Z",
+  "model": "qwen3.5:4b",
+  "unitId": "308b4d5c1fcc8f4967c3",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-027"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "射手座☆午後九時Don",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈シェリル・ノーム〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "射手座☆晚上九点Don",
+    "effectZh": "选择对手场上Front L的角色卡中BP值在3000以下的角色1张，使其退场。若自己场上的〈谢丽尔·诺姆〉存在，则改为BP值在5000以下。",
+    "triggerZh": "[特殊]\n选择对手的Front L的角色卡1张，使其退场。"
+  }
+}

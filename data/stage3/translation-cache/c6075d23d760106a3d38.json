@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:50:08.271Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6075d23d760106a3d38",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-084"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーファイズ",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、カードを2枚引く。\n[自分のターン中]\nこのターン中に自分が手札から［特徴：ファイズギア］を使用している場合、このキャラはBP+500。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "假面骑士 Faiz",
+    "effectZh": "[object Object]",
+    "triggerZh": "[颜色选择]\n选择对方前线 L 的 1 个 BP2500 以下的角色并使其退场"
+  }
+}

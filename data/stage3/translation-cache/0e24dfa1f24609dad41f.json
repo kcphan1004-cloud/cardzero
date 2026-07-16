@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:22.432Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0e24dfa1f24609dad41f",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-080"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "バジオウ",
+    "effect": "[自分のターン中]\n自分の場に〈楊端和〉がある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "巴久乌",
+    "effectZh": "[自身回合中]\n当己方场上存在〈杨端和〉时，本角色 BP+1000。",
+    "triggerZh": "[抽取]\n从牌库上方抽 1 张卡。"
+  }
+}

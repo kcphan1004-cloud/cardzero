@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:55:41.487Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5d6dede04752425f9201",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-017"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "皇 サクヤ",
+    "effect": "このカードは〈ロゼ〉としても扱う。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "皇 樱子",
+    "effectZh": "本卡可当作〈罗泽〉使用。\n[登场时]\n抽一张牌，将手札中一张牌置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

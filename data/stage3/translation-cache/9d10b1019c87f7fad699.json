@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:21.975Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9d10b1019c87f7fad699",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-042"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ジャン・ハボック",
+    "effect": "[退場時]\n自分の手札から〈ジャン・ハボック〉以外の必要エナジーが3以下で消費APが1の青のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "让·哈博克",
+    "effectZh": "[离场时]\n从己方手牌中，将必要能量为 3 以下且消耗 AP 为 1 的青色角色卡（非〈让·哈博克〉）最多 1 张以横置状态登场至己方场地。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:51.005Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4bd84fbc4fb58288aa1e",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-076",
+    "UA44BT/EVA-1-076"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "伊吹 マヤ",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊吹 マヤ",
+    "effectZh": "若对方场上有黄色或紫色的卡片，则减少手中此卡的必要能量\n[红×1]",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:51.480Z",
+  "model": "qwen3.5:4b",
+  "unitId": "398666cc3af2018ffd1d",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-024"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "大川村 寧",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "大川村 宁",
+    "effectZh": "[登场时]\n选择自己场上的一张卡，在本回合中其BP+1000。\n\n触发条件：\n处于激活状态时，可选择自己场上的另一张卡将其激活，并在本回合中使其BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

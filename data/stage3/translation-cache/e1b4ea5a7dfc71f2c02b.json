@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:38:59.616Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e1b4ea5a7dfc71f2c02b",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-030"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "全然なってない すべてやり直せ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "完全不成样子，全部重来吧！",
+    "effectZh": "从自己场上最多选择 2 张 AP 卡并激活之。",
+    "triggerZh": "[最终]\n若自己没有生命值，则将自己牌库上方顶部的 1 张置入自己的生命区域。"
+  }
+}

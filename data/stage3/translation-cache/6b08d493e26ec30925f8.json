@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:06:15.468Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b08d493e26ec30925f8",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-055"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サイガ-0",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。この効果で必要エナジーが0のキャラを退場させた場合、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "赛加 -0",
+    "effectZh": "【登场时】\n选择对手前线 L 中必要能量为 BP3000 以下的角色至多 1 张并使其退场。若以此效果使必要能量为 0 的角色退场，则抽 2 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:21:08.785Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7ae2979d52841470abe8",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-097"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "バラージュ！",
+    "effect": "『BP2000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場の元々のBPが2500のキャラ1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "巴莱尔！",
+    "effectZh": "选择对方前线 L 的 1 名 BP 为『BP2000』以下的角色并使其退场。自己场上原本 BP 每有 1 名 2500 的角色，此效果可选择角色的 BP 范围 +1000。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 名角色并使其退场。"
+  }
+}

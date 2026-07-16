@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:17:05.654Z",
+  "model": "qwen3.5:9b",
+  "unitId": "30ca2851df7c7e63fb5f",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-025"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "日比野 カフカ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "日比野 卡芙卡",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量 +\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

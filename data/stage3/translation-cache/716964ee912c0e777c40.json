@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:30:12.493Z",
+  "model": "qwen3.5:4b",
+  "unitId": "716964ee912c0e777c40",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-002"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "有馬 貴将",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "有马贵将",
+    "effectZh": "",
+    "triggerZh": "[登场时] 将此卡加入手牌。"
+  }
+}

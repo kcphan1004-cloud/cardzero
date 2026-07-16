@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:07:26.748Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8aeae27e67a40fc0cf20",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-098"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "邪眼の力をなめるなよ",
+    "effect": "自分の場のキャラを1枚まで選び、このターン中、BP+1000。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "别小看邪眼的力量",
+    "effectZh": "选择我方场上的最多 1 名角色，本回合中 BP+1000。选择我方 AP 卡的最多 1 张，将其激活。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

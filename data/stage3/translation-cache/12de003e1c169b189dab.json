@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:10:22.168Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12de003e1c169b189dab",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-072"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "旅狼",
+    "effect": "自分の山札の上から5枚見る。その中から〈サンラク〉か〈オイカッツォ〉か〈アーサー・ペンシルゴン〉を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "旅狼",
+    "effectZh": "查看自己山牌上方最多 5 张。从中公开最多 2 张〈桑拉克〉或〈欧伊卡特佐〉或〈亚瑟·潘西尔贡〉并加入手牌。将剩余部分按任意顺序置于自己山牌的下方。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

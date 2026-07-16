@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:31:02.718Z",
+  "model": "qwen3.5:4b",
+  "unitId": "185994c0ae20f8635d6e",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/IMS-3-037"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "鈴木 羽那",
+    "effect": "自分のリムーブエリアにカードが3枚以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "铃木 羽那",
+    "effectZh": "当自身移除区卡数大于等于3时，此角色BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上1张角色，将其激活，本回合中BP+3000。"
+  }
+}

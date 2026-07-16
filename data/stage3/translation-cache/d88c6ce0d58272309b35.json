@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:47:26.308Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d88c6ce0d58272309b35",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-054"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "アナスタシア・ホーシン",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "安娜斯塔西娅·霍辛",
+    "effectZh": "[登场时]\n将能量为1以下的自己场上的其他角色最多1张返回手牌。无法返还的情况下，将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

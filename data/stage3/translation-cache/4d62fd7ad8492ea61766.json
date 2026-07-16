@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:37.294Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4d62fd7ad8492ea61766",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-047"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "绯村 剑心",
+    "effectZh": "本角色处于激活状态时，本角色的生成能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

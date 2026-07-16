@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:22:16.641Z",
+  "model": "qwen3.5:4b",
+  "unitId": "627e4150d26eb0e7b42b",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-032"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "ネメシス",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：変身兵器］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "涅墨西斯",
+    "effectZh": "[登场时]\n从自己的牌库上方翻开三张，最多公开一张「特征：变身兵器」并加入手札。其余按任意顺序放回自己牌库下方。若将此卡加入手札，则将自己的一张牌置于场外。",
+    "triggerZh": ""
+  }
+}

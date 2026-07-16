@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:28.518Z",
+  "model": "qwen3.5:4b",
+  "unitId": "73c425cae5f2c82aefd8",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-113"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "このキャラがレイドされた時、以下から1つ選ぶ。（レイドしたキャラの\n[登場時]\nとこの効果は望む順で処理する）\n・カードを1枚引く。\n・相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "式波·明日香·兰格雷",
+    "effectZh": "当此角色被雷击时，从以下选项中选1个处理。（被雷击角色的[登场时]效果与此效果的顺序由你决定）\n- 抽卡。\n- 选择对手前线左侧的任意1张角色，本回合中BP-1000。",
+    "triggerZh": ""
+  }
+}

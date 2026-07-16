@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:15:25.154Z",
+  "model": "qwen3.5:9b",
+  "unitId": "595793ed8c496bb34bfe",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-004"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "バックス",
+    "effect": "[登場時]\n相手のフロントLのキャラを1枚まで選び、このターン中、元々の効果を全て失わせる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "巴克斯",
+    "effectZh": "[登场时]\n选择对方前线 L 的角色至多 1 张，使其失去原本的所有效果。",
+    "triggerZh": ""
+  }
+}

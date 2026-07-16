@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:05.002Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a7f7fbf926df3f78bead",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-033"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ヨシヲちゃんキーホルダー",
+    "effect": "自分のフロントLのキャラを1枚選び、このターン中、BP+2000。自分の場に〈エリー〉か〈リアリド〉がある場合、さらにこのターン中、\n[インパクト（+1）]\n（インパクトの与えるダメージが+1され、インパクトを持たない場合、\n[インパクト（1）]\nを得る）を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "义生酱钥匙扣",
+    "effectZh": "选择自己的前线 L 的角色 1 枚，本回合中 BP+2000。若自己场上有〈艾莉〉或〈里亚里德〉，此外在本回合中，\n[冲击（+1）]\n（给予的冲击伤害 +1；若无冲击时，获得\n[冲击（1）]）。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

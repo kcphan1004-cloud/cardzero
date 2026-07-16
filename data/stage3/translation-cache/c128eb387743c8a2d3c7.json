@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:06:00.387Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c128eb387743c8a2d3c7",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-063"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "食い殺されたいのかにゃん？",
+    "effect": "『BP3000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場の〈羽川 翼〉1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "想吃掉你吗？喵，",
+    "effectZh": "选择对手场上BP 3000或以下的角色卡一张并使其离场。每拥有自己场上的〈羽川翼〉一张时，本效果可选择的角色的BP范围+1000。",
+    "triggerZh": "[特殊]\n选择对手场上的一张角色卡并使其离场"
+  }
+}

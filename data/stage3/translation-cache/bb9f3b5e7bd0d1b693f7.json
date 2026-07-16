@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:07:10.571Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bb9f3b5e7bd0d1b693f7",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-057"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サンラク",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[ブロック時]\nこのキャラはこのターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "桑拉克",
+    "effectZh": "【步骤】\n（在自己的移动阶段可以从前线移动到能量线）\n【无效冲击】\n（与这个角色进行战斗的角色在本场战斗中，\n失去\n【冲击】\n）\n【阻挡时】\n这个角色本回合中，BP+500。",
+    "triggerZh": ""
+  }
+}

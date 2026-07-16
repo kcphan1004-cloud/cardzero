@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:47:28.554Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f89b0041f3c716333e35",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-082"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "サシャ・ブラウス",
+    "effect": "[登場時]\n自分の場の［特徴：104期兵］を1枚まで選び、このターン中、BP+1000。このターン中に自分が［特徴：食材］を使用している場合、このキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "萨莎·布劳斯",
+    "effectZh": "[登场时]\n选择自己场上最多 1 张［特征：第 104 期兵］，在本回合中 BP+1000。若本回合内自己使用了［特征：食材］，将该角色激活。",
+    "triggerZh": "[抽牌]\n抽一张卡。"
+  }
+}

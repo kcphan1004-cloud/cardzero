@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:36.224Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8f1a7c319283540a14a7",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-028"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "陸 少糖",
+    "effect": "[自分のターン中]\n自分の場に［特徴：坂本商店］のカード名が3種類以上ある場合、このキャラはBP+2000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "陆少糖",
+    "effectZh": "[在自己的回合期间]\n如果自己的场上有「特征：坂本商店」的卡片名称 3 种以上，该角色 BP+2000。",
+    "triggerZh": "[激活] \n选择自己场上的角色 1 张，将其激活，并在本回合中 BP+3000"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:31.982Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a45eec12dde1c23b2313",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/IMS-AP01",
+    "UAPR/IMS-AP01",
+    "UAPR/IMS-AP02",
+    "UAPR/IMS-AP10"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(アイドルマスター シャイニーカラーズ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡（偶像大师 闪耀色彩）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

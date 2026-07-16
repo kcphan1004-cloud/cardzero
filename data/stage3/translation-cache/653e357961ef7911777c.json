@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:10.041Z",
+  "model": "qwen3.5:4b",
+  "unitId": "653e357961ef7911777c",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-069"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "ケン",
+    "effect": "[自分のターン中]\n自分の手札が5枚以上の場合、このキャラはBP+1500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "肯",
+    "effectZh": "【本家回合中】\n若己方手牌为 5 张以上，该角色 BP+1500。",
+    "triggerZh": ""
+  }
+}

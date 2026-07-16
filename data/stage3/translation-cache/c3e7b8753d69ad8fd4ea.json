@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:32:52.765Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c3e7b8753d69ad8fd4ea",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-010"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "十亀 条",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。それらを山札の上と下に望む枚数ずつ望む順で置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "十亀 条",
+    "effectZh": "[登场时]\n从自己的牌库上方看2张，将它们按照期望的顺序和数量放置在牌库的上方与下方。",
+    "triggerZh": ""
+  }
+}

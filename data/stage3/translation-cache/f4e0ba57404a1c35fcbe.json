@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:27:44.988Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f4e0ba57404a1c35fcbe",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-075"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "あの日の約束",
+    "effect": "自分の場のキャラを1枚選び、アクティブにする。選んだキャラが〈日比野 カフカ〉か〈怪獣8号〉か〈亜白 ミナ〉の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "那天的约定",
+    "effectZh": "选择自己的场上角色中的 1 枚使其激活。选定的角色为〈日比野 カフカ〉或〈怪獣8号〉或〈亜白 ミナ〉时，可选择最多 1 张自己的 AP 卡并使其激活。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

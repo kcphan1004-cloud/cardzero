@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:28.495Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d3a451675010a5e9b045",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-059"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "メタルナイト",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の緑のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "金属骑士",
+    "effectZh": "[登场时] 从自己的手牌中，选择能量为2以下、AP消耗为1的绿色角色卡一张，以横置状态置于自己场地上。",
+    "triggerZh": ""
+  }
+}

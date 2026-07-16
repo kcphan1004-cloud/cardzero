@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:16:47.380Z",
+  "model": "qwen3.5:4b",
+  "unitId": "981e3336beda21c797dd",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-057"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "クリフ",
+    "effect": "このキャラはフロントLでもエナジーを発生させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克里夫",
+    "effectZh": "本卡角色也能在前场L中产生能量。",
+    "triggerZh": "[抽] 从自己的牌库上方抽取1张卡牌。"
+  }
+}

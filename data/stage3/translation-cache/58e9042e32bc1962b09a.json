@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:48.774Z",
+  "model": "qwen3.5:9b",
+  "unitId": "58e9042e32bc1962b09a",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-039"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ヴァイスハイト",
+    "effect": "自分の場に他の［特徴：イデアール］が4枚以上ある場合、このキャラは\n[インパクト（1）]\nを得る。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の〈シエル〉を1枚退場させる。そうした場合、自分の場外から〈シエル〉を1枚まで手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "白高特",
+    "effectZh": "当自己场上存在其他［特征：伊达尔］达到 4 枚以上时，该角色获得\n[冲击（1）]\n。\n[启动主]\n[位于前线 L 的情况下]\n[回合 1]\n将自场上的〈谢尔〉退场。如此操作的话，从自己场外选择最多 1 张〈谢尔〉加入手牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

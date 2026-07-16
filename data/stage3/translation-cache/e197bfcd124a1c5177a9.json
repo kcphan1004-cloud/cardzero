@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:29:19.129Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e197bfcd124a1c5177a9",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-077"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "君に伝われ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "传于你",
+    "effectZh": "选择自己 AP 卡最多 2 张，使其激活。",
+    "triggerZh": "[FINAL]\n若自己没有生命时，从自己的山札上方将 1 张置于自己的生命区域。"
+  }
+}

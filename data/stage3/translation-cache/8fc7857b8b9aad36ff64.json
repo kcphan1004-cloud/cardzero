@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:24:43.089Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8fc7857b8b9aad36ff64",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-059"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "四ノ宮 キコル",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。\n[起動メイン]\n[エナジーLにある場合]\n[ターン1]\n自分の発生エナジーが6以上ある場合のみ発動できる。フロントLにある自分のキャラを1枚選び、このキャラと位置を入れ替える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "四之宫 基科尔",
+    "effectZh": "[自己的回合中]\n该角色BP+1000。\n[启动主阶段]\n[在能量线L上的情况]\n[第1回合]\n仅在自己产生能量为6以上时才能发动。选择自己位于前线的1张卡，与该角色的位置互换。",
+    "triggerZh": ""
+  }
+}

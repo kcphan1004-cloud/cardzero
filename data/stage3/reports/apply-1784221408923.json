@@ -1,0 +1,523 @@
+{
+  "generatedAt": "2026-07-16T17:03:28.922Z",
+  "series": "all",
+  "dryRun": false,
+  "overwrite": false,
+  "translationCardNumbers": 8108,
+  "overrides": 0,
+  "total": 10362,
+  "matched": 10239,
+  "unmatched": 123,
+  "changed": 10213,
+  "changedFiles": 57,
+  "seriesReports": [
+    {
+      "file": "100-girlfriends.ts",
+      "rows": 126,
+      "matched": 126,
+      "changed": 126,
+      "missingNumbers": []
+    },
+    {
+      "file": "2-5-dimensional-seduction.ts",
+      "rows": 118,
+      "matched": 118,
+      "changed": 118,
+      "missingNumbers": []
+    },
+    {
+      "file": "arknights.ts",
+      "rows": 269,
+      "matched": 269,
+      "changed": 269,
+      "missingNumbers": []
+    },
+    {
+      "file": "attack-on-titan.ts",
+      "rows": 268,
+      "matched": 268,
+      "changed": 268,
+      "missingNumbers": []
+    },
+    {
+      "file": "black-clover.ts",
+      "rows": 163,
+      "matched": 163,
+      "changed": 137,
+      "missingNumbers": []
+    },
+    {
+      "file": "bleach-thousand-year-blood-war.ts",
+      "rows": 262,
+      "matched": 262,
+      "changed": 262,
+      "missingNumbers": []
+    },
+    {
+      "file": "blue-lock.ts",
+      "rows": 166,
+      "matched": 166,
+      "changed": 166,
+      "missingNumbers": []
+    },
+    {
+      "file": "chained-soldier.ts",
+      "rows": 125,
+      "matched": 125,
+      "changed": 125,
+      "missingNumbers": []
+    },
+    {
+      "file": "chainsaw-man.ts",
+      "rows": 122,
+      "matched": 120,
+      "changed": 120,
+      "missingNumbers": [
+        "UA53BT/CSM-1-001",
+        "UA53BT/CSM-1-002"
+      ]
+    },
+    {
+      "file": "code-geass-roze.ts",
+      "rows": 114,
+      "matched": 114,
+      "changed": 114,
+      "missingNumbers": []
+    },
+    {
+      "file": "code-geass.ts",
+      "rows": 251,
+      "matched": 251,
+      "changed": 251,
+      "missingNumbers": []
+    },
+    {
+      "file": "demon-slayer.ts",
+      "rows": 268,
+      "matched": 268,
+      "changed": 268,
+      "missingNumbers": []
+    },
+    {
+      "file": "dr-stone.ts",
+      "rows": 154,
+      "matched": 154,
+      "changed": 154,
+      "missingNumbers": []
+    },
+    {
+      "file": "eminence-in-shadow.ts",
+      "rows": 131,
+      "matched": 112,
+      "changed": 112,
+      "missingNumbers": [
+        "UA52BT/KJN-1-078",
+        "UA52BT/KJN-1-079",
+        "UA52BT/KJN-1-080",
+        "UA52BT/KJN-1-AP01",
+        "UA52BT/KJN-1-AP02",
+        "UA52BT/KJN-1-AP03",
+        "UA52BT/KJN-1-AP04",
+        "UA52BT/KJN-1-AP05",
+        "UA52BT/KJN-1-AP06",
+        "UA52BT/KJN-1-AP07",
+        "UA52BT/KJN-1-AP08",
+        "UA52BT/KJN-1-AP09",
+        "UA52BT/KJN-1-AP10",
+        "UA52BT/KJN-1-AP11",
+        "UA52BT/KJN-1-AP12",
+        "UA52BT/KJN-1-AP13",
+        "UA52BT/KJN-1-AP14"
+      ]
+    },
+    {
+      "file": "evangelion.ts",
+      "rows": 163,
+      "matched": 163,
+      "changed": 163,
+      "missingNumbers": []
+    },
+    {
+      "file": "fullmetal-alchemist.ts",
+      "rows": 165,
+      "matched": 156,
+      "changed": 156,
+      "missingNumbers": [
+        "UA37BT/FMA-1-002",
+        "UA37BT/FMA-1-004",
+        "UA37BT/FMA-1-008",
+        "UA37BT/FMA-1-010",
+        "UA37BT/FMA-1-011"
+      ]
+    },
+    {
+      "file": "gakuen-idolmaster.ts",
+      "rows": 287,
+      "matched": 287,
+      "changed": 287,
+      "missingNumbers": []
+    },
+    {
+      "file": "gamera-rebirth.ts",
+      "rows": 113,
+      "matched": 113,
+      "changed": 113,
+      "missingNumbers": []
+    },
+    {
+      "file": "gintama.ts",
+      "rows": 154,
+      "matched": 154,
+      "changed": 154,
+      "missingNumbers": []
+    },
+    {
+      "file": "haikyu.ts",
+      "rows": 161,
+      "matched": 161,
+      "changed": 161,
+      "missingNumbers": []
+    },
+    {
+      "file": "hunter-x-hunter.ts",
+      "rows": 250,
+      "matched": 250,
+      "changed": 250,
+      "missingNumbers": []
+    },
+    {
+      "file": "idolmaster-shiny-colors.ts",
+      "rows": 372,
+      "matched": 372,
+      "changed": 372,
+      "missingNumbers": []
+    },
+    {
+      "file": "inuyasha.ts",
+      "rows": 117,
+      "matched": 109,
+      "changed": 109,
+      "missingNumbers": [
+        "UA50BT/IYS-1-053",
+        "UA50BT/IYS-1-054",
+        "UA50BT/IYS-1-055",
+        "UA50BT/IYS-1-056",
+        "UA50BT/IYS-1-057",
+        "UA50BT/IYS-1-058"
+      ]
+    },
+    {
+      "file": "jujutsu-kaisen.ts",
+      "rows": 265,
+      "matched": 265,
+      "changed": 265,
+      "missingNumbers": []
+    },
+    {
+      "file": "kagurabachi.ts",
+      "rows": 125,
+      "matched": 125,
+      "changed": 125,
+      "missingNumbers": []
+    },
+    {
+      "file": "kaiju-no.ts",
+      "rows": 116,
+      "matched": 116,
+      "changed": 116,
+      "missingNumbers": []
+    },
+    {
+      "file": "kamen-rider.ts",
+      "rows": 298,
+      "matched": 298,
+      "changed": 298,
+      "missingNumbers": []
+    },
+    {
+      "file": "kingdom.ts",
+      "rows": 169,
+      "matched": 155,
+      "changed": 155,
+      "missingNumbers": [
+        "UA48ST/KGD-1-034",
+        "UA48ST/KGD-1-036",
+        "UA48ST/KGD-1-045",
+        "UA48ST/KGD-1-049",
+        "UA48ST/KGD-1-051",
+        "UA48ST/KGD-1-052",
+        "UA48BT/KGD-1-034",
+        "UA48BT/KGD-1-036",
+        "UA48BT/KGD-1-045",
+        "UA48BT/KGD-1-051",
+        "UA48BT/KGD-1-052"
+      ]
+    },
+    {
+      "file": "kinnikuman.ts",
+      "rows": 117,
+      "matched": 117,
+      "changed": 117,
+      "missingNumbers": []
+    },
+    {
+      "file": "macross.ts",
+      "rows": 289,
+      "matched": 268,
+      "changed": 268,
+      "missingNumbers": [
+        "UA36ST/MCR-1-AP01",
+        "UA36BT/MCR-1-AP01",
+        "UA36BT/MCR-1-AP02",
+        "UA36BT/MCR-1-AP03",
+        "UA36BT/MCR-1-AP04",
+        "UA36BT/MCR-1-AP05",
+        "UA36BT/MCR-1-AP06",
+        "EX14BT/MCR-2-AP01",
+        "EX14BT/MCR-2-AP02",
+        "EX14BT/MCR-2-AP03",
+        "EX14BT/MCR-2-AP04",
+        "EX14BT/MCR-2-AP05",
+        "EX14BT/MCR-2-AP06",
+        "EX14BT/MCR-2-AP07"
+      ]
+    },
+    {
+      "file": "madoka-magica.ts",
+      "rows": 163,
+      "matched": 163,
+      "changed": 163,
+      "missingNumbers": []
+    },
+    {
+      "file": "me-and-roboco.ts",
+      "rows": 150,
+      "matched": 150,
+      "changed": 150,
+      "missingNumbers": []
+    },
+    {
+      "file": "monogatari-series.ts",
+      "rows": 174,
+      "matched": 174,
+      "changed": 174,
+      "missingNumbers": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "rows": 217,
+      "matched": 211,
+      "changed": 211,
+      "missingNumbers": [
+        "UA54BT/MST-1-042",
+        "UA54BT/MST-1-043",
+        "UA54BT/MST-1-044",
+        "UA54BT/MST-1-045",
+        "UA54BT/MST-1-046",
+        "UA54BT/MST-1-047"
+      ]
+    },
+    {
+      "file": "my-hero-academia.ts",
+      "rows": 258,
+      "matched": 258,
+      "changed": 258,
+      "missingNumbers": []
+    },
+    {
+      "file": "nikke.ts",
+      "rows": 256,
+      "matched": 256,
+      "changed": 256,
+      "missingNumbers": []
+    },
+    {
+      "file": "one-punch-man.ts",
+      "rows": 162,
+      "matched": 162,
+      "changed": 162,
+      "missingNumbers": []
+    },
+    {
+      "file": "re-zero.ts",
+      "rows": 164,
+      "matched": 164,
+      "changed": 164,
+      "missingNumbers": []
+    },
+    {
+      "file": "rurouni-kenshin.ts",
+      "rows": 164,
+      "matched": 164,
+      "changed": 164,
+      "missingNumbers": []
+    },
+    {
+      "file": "sakamoto-days.ts",
+      "rows": 114,
+      "matched": 114,
+      "changed": 114,
+      "missingNumbers": []
+    },
+    {
+      "file": "series-570801.ts",
+      "rows": 12,
+      "matched": 12,
+      "changed": 12,
+      "missingNumbers": []
+    },
+    {
+      "file": "series-570901.ts",
+      "rows": 629,
+      "matched": 601,
+      "changed": 601,
+      "missingNumbers": [
+        "UAPR/IMS/AP04",
+        "UAPR/IMS/AP05",
+        "UAPR/IMS/AP06",
+        "UAPR/IMS/AP07",
+        "UAPR/IMS/AP08",
+        "UAPR/IMS-P-002",
+        "UAPR/IMS-P-003",
+        "UAPR/IMS-P-004",
+        "UAPR/IYS-1-006",
+        "UAPR/IYS-1-046",
+        "UAPR/MCR-2-025",
+        "UAPR/MCR-2-035",
+        "UAPR/MCR-2-042",
+        "UAPR/MCR-AP01",
+        "UAPR/MCR-AP02",
+        "UAPR/MCR-AP03",
+        "UAPR/MCR-P-001",
+        "UAPR/MHA-P-003",
+        "UAPR/MMM-1-002",
+        "UAPR/MMM-1-007",
+        "UAPR/MMM-1-040",
+        "UAPR/MMM-P-001",
+        "UAPR/MSS-1-009",
+        "UAPR/TSK-AP01",
+        "UAPR/TSK-AP02",
+        "UAPR/TSK-AP03"
+      ]
+    },
+    {
+      "file": "shangri-la-frontier.ts",
+      "rows": 115,
+      "matched": 115,
+      "changed": 115,
+      "missingNumbers": []
+    },
+    {
+      "file": "shy.ts",
+      "rows": 114,
+      "matched": 114,
+      "changed": 114,
+      "missingNumbers": []
+    },
+    {
+      "file": "solo-leveling.ts",
+      "rows": 118,
+      "matched": 118,
+      "changed": 118,
+      "missingNumbers": []
+    },
+    {
+      "file": "sword-art-online.ts",
+      "rows": 275,
+      "matched": 275,
+      "changed": 275,
+      "missingNumbers": []
+    },
+    {
+      "file": "synduality-noir.ts",
+      "rows": 155,
+      "matched": 155,
+      "changed": 155,
+      "missingNumbers": []
+    },
+    {
+      "file": "tales-of-arise.ts",
+      "rows": 154,
+      "matched": 154,
+      "changed": 154,
+      "missingNumbers": []
+    },
+    {
+      "file": "tekken-7.ts",
+      "rows": 134,
+      "matched": 134,
+      "changed": 134,
+      "missingNumbers": []
+    },
+    {
+      "file": "tekken.ts",
+      "rows": 20,
+      "matched": 20,
+      "changed": 20,
+      "missingNumbers": []
+    },
+    {
+      "file": "tensura.ts",
+      "rows": 255,
+      "matched": 255,
+      "changed": 255,
+      "missingNumbers": []
+    },
+    {
+      "file": "to-love-ru.ts",
+      "rows": 135,
+      "matched": 135,
+      "changed": 135,
+      "missingNumbers": []
+    },
+    {
+      "file": "tokyo-ghoul.ts",
+      "rows": 173,
+      "matched": 157,
+      "changed": 157,
+      "missingNumbers": [
+        "UA47ST/TKG-1-036",
+        "UA47BT/TKG-1-036",
+        "UA47BT/TKG-1-078",
+        "UA47BT/TKG-1-079",
+        "UA47BT/TKG-1-080",
+        "UA47BT/TKG-1-081",
+        "UA47BT/TKG-1-082",
+        "UA47BT/TKG-1-083",
+        "UA47BT/TKG-1-096",
+        "UA47BT/TKG-1-097",
+        "UA47BT/TKG-1-098",
+        "UA47BT/TKG-1-099",
+        "UA47BT/TKG-1-100"
+      ]
+    },
+    {
+      "file": "toriko.ts",
+      "rows": 155,
+      "matched": 155,
+      "changed": 155,
+      "missingNumbers": []
+    },
+    {
+      "file": "undead-unluck.ts",
+      "rows": 115,
+      "matched": 115,
+      "changed": 115,
+      "missingNumbers": []
+    },
+    {
+      "file": "wind-breaker.ts",
+      "rows": 120,
+      "matched": 120,
+      "changed": 120,
+      "missingNumbers": []
+    },
+    {
+      "file": "yu-yu-hakusho.ts",
+      "rows": 163,
+      "matched": 163,
+      "changed": 163,
+      "missingNumbers": []
+    }
+  ]
+}

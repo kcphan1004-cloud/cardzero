@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:04.616Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db42462093ee26ddb492",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-030"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "駿河 朱々",
+    "effect": "自分の場に［特徴：七番組］のカード名が4種類以上ある場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "骏河 朱々",
+    "effectZh": "当己方场上有「特征：七番组」卡名种类数达到4种以上时，本角色的登场能量+\n[黄]\n。",
+    "triggerZh": ""
+  }
+}

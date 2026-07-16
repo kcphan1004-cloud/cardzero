@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:40:21.714Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4cfe224f85f10e7841a0",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MSS-AP01"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(魔都精兵のスレイブ)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（魔都精兵的奴隶）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

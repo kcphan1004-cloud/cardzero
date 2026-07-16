@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:29:01.470Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8c3e42b26b21c9605be1",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/HTR-1-090"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "レオリオ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "莱奥里欧",
+    "effectZh": "[登场时]将自己场上其他角色中需要能量的最多1张回到手牌。无法回到的情况，将此卡回到手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:10.890Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6a30f34bd0debf2ce9f8",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-013"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "[冲击无效]\n（此角色与进行战斗的角色在本场战斗中不会失去\n[冲击]）",
+    "triggerZh": "[激活] 选择自己场上的1张卡，使其激活并在此回合中BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:17:18.997Z",
+  "model": "qwen3.5:4b",
+  "unitId": "40d54dbd4bca4971389b",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-036"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ガルド・ゴア・ボーマン",
+    "effect": "[エナジーLにある場合]\n自分のフロントLにカード名に「イサム」を含むキャラがある場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加鲁德·戈亚·波曼",
+    "effectZh": "当能量线有牌时，若你的前线线上存在名字包含「伊萨姆」的角色，该角色产生的能量+【蓝】。",
+    "triggerZh": ""
+  }
+}

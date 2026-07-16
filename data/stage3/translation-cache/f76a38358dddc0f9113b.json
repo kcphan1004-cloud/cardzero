@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:23:34.501Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f76a38358dddc0f9113b",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-037"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "超振動ブレード",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ギロン〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "超振动刃",
+    "effectZh": "选择『BP3000以下』的对方前线 L 的角色 1 张并使其退场。若自己场上有〈ギロン〉（Giron），则条件改为『BP5000以下』。",
+    "triggerZh": "[特殊]选择对方前线 L 的角色 1 张并使其退场"
+  }
+}

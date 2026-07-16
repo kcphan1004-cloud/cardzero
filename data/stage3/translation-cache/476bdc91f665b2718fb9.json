@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:57.788Z",
+  "model": "qwen3.5:4b",
+  "unitId": "476bdc91f665b2718fb9",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-005",
+    "UA35BT/OPM-1-005"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ジェノス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "杰诺斯",
+    "effectZh": "",
+    "triggerZh": "[登场] 将此卡加入手牌。"
+  }
+}

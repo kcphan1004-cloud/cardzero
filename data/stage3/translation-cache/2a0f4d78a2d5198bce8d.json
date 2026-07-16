@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:49.033Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2a0f4d78a2d5198bce8d",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-065"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ノーランド・フォン・リューネベルク",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。その後、自分の場と場外に〈ロキ〉が合計3枚以上ある場合、さらにカードを1枚引く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "诺兰德·冯·吕内贝格",
+    "effectZh": "[登场时]\n抽1张牌，将己方手札中的1张卡置于场外。之后，若己方场上和场外合计存在3张以上〈洛克〉，再额外抽1张牌。",
+    "triggerZh": "[颜色]\n选择对手 BP 3500以下的正面 L 线角色一张，将其返回至手牌。"
+  }
+}

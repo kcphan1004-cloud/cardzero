@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:34:24.230Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4f6ffb898186e15936b6",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-020"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽香里",
+    "effect": "[登場時]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花园 羽香里",
+    "effectZh": "【登场时】\n从自己牌库上方查看一张。将该卡放置于自己牌库的上方或下方。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:03:19.161Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4284be49c7190abbe1b5",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-069"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "浦飯 幽助",
+    "effect": "[自分のターン中]\nこのターン中に自分がイベントカードを使用している場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "浦饭 幽助",
+    "effectZh": "[在自己回合中]\n若本回合内自己使用了事件卡，则该角色 BP+1000.",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 张使其处于激活状态，并在本回合中给予 BP+3000。"
+  }
+}

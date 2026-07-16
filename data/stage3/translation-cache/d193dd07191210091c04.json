@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:28.323Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d193dd07191210091c04",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GNT-P-001"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "土方 十四郎",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の［特徴：真選組］を1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "土方 十四郎",
+    "effectZh": "[登场时]从自己手札中选择消耗能量为2以下且AP为1的［特征：真选组］最多1张，以横置状态登场到自己的场上。",
+    "triggerZh": "[抽牌]\n抽取一张卡"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:46:44.803Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40a413ecbe9715f6a38b",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-074"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "暁美 ほむら",
+    "effect": "[登場時]\n自分の場に〈鹿目 まどか〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "晓美 焰",
+    "effectZh": "[登场时]\n自己的场上有〈鹿目 圆〉的情况下，抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

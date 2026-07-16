@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:01:50.352Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1f5795e57a24b0517e97",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-007"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "レターナ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[青]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "信使纳恩",
+    "effectZh": "[启动主]\n[横置状态]\n[回合 1]\n本回合中，该角色的产生能量+\n[青]。\n主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

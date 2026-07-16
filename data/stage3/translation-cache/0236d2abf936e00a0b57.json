@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:54.618Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0236d2abf936e00a0b57",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-074"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ガロウ",
+    "effect": "[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "古路",
+    "effectZh": "[本方回合中]\n该角色BP+1000。",
+    "triggerZh": ""
+  }
+}

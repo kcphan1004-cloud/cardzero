@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:40:05.626Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3ee323680a144994210b",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-023"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ミカサ・アッカーマン",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "米卡莎·阿克曼",
+    "effectZh": "[登场时] 抽一张牌，将手牌中一张置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

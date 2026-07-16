@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:28:30.126Z",
+  "model": "qwen3.5:9b",
+  "unitId": "94aa6b322ab737ea308f",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-071"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ボイド",
+    "effect": "[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、指定した場合、相手はブロックできない）\nこのキャラはBP2000以上のキャラを\n[狙い撃ち]\nで指定できない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "虚空",
+    "effectZh": "【狙击】\n（选择对方前线 L 的角色进行攻击，若进行选择则对方无法阻挡）\n此角色不能被 BP2000 以上的角色通过\n【狙击】\n指定。",
+    "triggerZh": ""
+  }
+}

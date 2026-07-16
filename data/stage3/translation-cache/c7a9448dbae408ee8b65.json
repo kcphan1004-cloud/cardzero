@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:38:47.253Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c7a9448dbae408ee8b65",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-009"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "バッファローマン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "水牛人",
+    "effectZh": "",
+    "triggerZh": "【获取】将该卡片加入手牌。"
+  }
+}

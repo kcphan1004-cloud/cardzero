@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:21:40.633Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd237b63a53628da2fd0",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-019"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "黒咲 芽亜",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "黑咲芽亚",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择己方场上的1张角色卡并使其处于激活状态，本回合中BP+3000。"
+  }
+}

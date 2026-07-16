@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:16.949Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ecdb4ce1afaae668440a",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-054"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "桜 遥",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分のエナジーLのキャラを1枚選び、レストにするかアクティブにする。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "樱 遥",
+    "effectZh": "[启动主阵]\n[当前场上线存在时]\n[回合数：1]\n选择自己场上的能量线的角色一张，使其变为横置状态或激活状态。",
+    "triggerZh": "[激活状态]\n选择自己场上的一张角色，使其进入激活状态，本回合中 BP+3000。"
+  }
+}

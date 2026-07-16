@@ -1,0 +1,34 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:57:27.212Z",
+  "model": "qwen3.5:9b",
+  "unitId": "aa857a31598f0cd62f68",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29ST/KMR-1-AP01",
+    "UA29BT/KMR-1-AP01",
+    "UA29BT/KMR-1-AP02",
+    "UA29BT/KMR-1-AP03",
+    "UA29BT/KMR-1-AP04",
+    "UA29BT/KMR-1-AP05",
+    "UA29BT/KMR-1-AP06",
+    "EX12BT/KMR-2-AP01",
+    "EX12BT/KMR-2-AP02",
+    "EX12BT/KMR-2-AP03",
+    "EX12BT/KMR-2-AP04",
+    "EX12BT/KMR-2-AP05",
+    "EX12BT/KMR-2-AP06"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "アクションポイントカード(仮面ライダー)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (假面骑士)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

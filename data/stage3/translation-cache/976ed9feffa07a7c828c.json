@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:46:59.662Z",
+  "model": "qwen3.5:4b",
+  "unitId": "976ed9feffa07a7c828c",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-063",
+    "UA48BT/KGD-1-063"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "続け飛信隊っ!!",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "继续飞信队!!",
+    "effectZh": "选择自己的 AP 卡两张，使其进入激活状态。",
+    "triggerZh": "[最终]\n若自己没有生命点，则从卡组上方抽一张牌放入自己的生命区域。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:04:06.110Z",
+  "model": "qwen3.5:4b",
+  "unitId": "025e8cb135fac53cd5ba",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-048"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 メメ",
+    "effect": "[登場時]\nBP4500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-4000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "忍野梦",
+    "effectZh": "[登场时]\n选择对手场上 BP4500 以上的角色卡至多 1 张，本回合中 BP-4000。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡至多 1 张并使其激活状态，本回合中 BP+3000。"
+  }
+}

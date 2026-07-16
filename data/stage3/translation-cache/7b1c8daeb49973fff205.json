@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:51.006Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7b1c8daeb49973fff205",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-083",
+    "UA44BT/EVA-1-083"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "加持 リョウジ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "加持 リョウジ",
+    "effectZh": "登场时,\n将我方场上的其他角色中 1 张，回复至手牌。无法回复的情况，将此角色回复至手牌。",
+    "triggerZh": ""
+  }
+}

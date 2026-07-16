@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:35.934Z",
+  "model": "qwen3.5:4b",
+  "unitId": "329ce5f6c349774f8c96",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-017"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "四乃森 蒼紫",
+    "effect": "[登場時]\n自分のフロントLのアクティブの他の［特徴：御庭番衆］を1枚レストにしてもよい。そうした場合、このキャラをアクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "四乃森 蒼紫",
+    "effectZh": "[登場時]可將自己的前線L的激活的其他［特徵：御庭番衆］1張橫置。如此，本角色變為激活狀態。",
+    "triggerZh": "[抽牌]\n從牌庫上方抽取1張牌。"
+  }
+}

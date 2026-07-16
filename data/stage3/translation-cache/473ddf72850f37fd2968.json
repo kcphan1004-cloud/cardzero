@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:38:47.247Z",
+  "model": "qwen3.5:4b",
+  "unitId": "473ddf72850f37fd2968",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-004"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ザ･魔雲天",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "魔云天",
+    "effectZh": "【2回ブロック】（本角色首次进行阻挡时，激活）",
+    "triggerZh": ""
+  }
+}

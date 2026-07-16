@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:01.468Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d6fcd66d9c096831dd34",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-034"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "イトリ",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、1枚まで場外に置き、残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "伊藤",
+    "effectZh": "［登场时］从自己牌库上方翻开 3 张，将其中一张移出场地，其余的按任意顺序放回牌库上方。",
+    "triggerZh": "[抽]\n抽取一张"
+  }
+}

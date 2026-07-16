@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:50.490Z",
+  "model": "qwen3.5:4b",
+  "unitId": "adb6eeca4c70bcb65c49",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-050"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "雲母",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "云母",
+    "effectZh": "[冲击无效]\n（与该角色战斗的角色在本场战斗中失去冲击）",
+    "triggerZh": ""
+  }
+}

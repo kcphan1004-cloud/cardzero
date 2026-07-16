@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:43:31.795Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5acded352b893df7df8c",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-026"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽々里",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "花园 羽羽莉",
+    "effectZh": "",
+    "triggerZh": "[激活]将此卡加入手牌。"
+  }
+}

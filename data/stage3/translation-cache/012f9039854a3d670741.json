@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:51:50.846Z",
+  "model": "qwen3.5:9b",
+  "unitId": "012f9039854a3d670741",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-067"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "起爆虫",
+    "effect": "このキャラが退場する場合、代わりにリムーブエリアに置かれる。\n[登場時]\nこのキャラが自分の場外から登場していた場合、自分の山札の上から2枚まで場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "起爆虫",
+    "effectZh": "如果该角色退场，则代替其被放置到移除区。\n[登场时]\n如果该角色是从自己的场外登场的，从自己牌库上方选择最多 2 枚并放置到场外。",
+    "triggerZh": ""
+  }
+}

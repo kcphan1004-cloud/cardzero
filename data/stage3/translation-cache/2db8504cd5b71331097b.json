@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:18:22.959Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2db8504cd5b71331097b",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-084"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "葛󠄀城 ミサト",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "葛城 美里",
+    "effectZh": "[登场时]\n抽一张牌并将自己手牌中一张卡片场外放置。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

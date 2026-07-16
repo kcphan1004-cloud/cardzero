@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:26:11.700Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dd91a664908515d37e38",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-103"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "Guard",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "Guard",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择我方场上的 1 名角色，使其进入激活状态，并在此回合中 BP+3000。"
+  }
+}

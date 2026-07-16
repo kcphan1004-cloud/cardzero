@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:10.708Z",
+  "model": "qwen3.5:4b",
+  "unitId": "159b877d8290710d8314",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-002"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "エリス",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "艾莉丝",
+    "effectZh": "",
+    "triggerZh": "[激活状态]\n选择己方场上的角色一张，将其激活，本回合 BP+3000。"
+  }
+}

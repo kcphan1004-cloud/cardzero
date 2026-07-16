@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:59.917Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2cad1f5f2f92561b158c",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-028"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "回天剣舞",
+    "effect": "『BP3000』以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場の〈四乃森 蒼紫〉1枚につき、この効果で選べるキャラのBPの範囲+1000。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "回天剑舞",
+    "effectZh": "选择对手Front L的BP3000以下的角色卡至多1张并使其离场。若你场上有〈四乃森苍紫〉，每有一张此效果可选择角色的BP范围+1000。",
+    "triggerZh": "[特殊] 选择对手的Front L的角色卡至多1张并使其离场。"
+  }
+}

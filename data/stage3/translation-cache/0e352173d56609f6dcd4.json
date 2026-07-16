@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:03.080Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0e352173d56609f6dcd4",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-048"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ヴァルター・リントシュテット",
+    "effect": "[起動メイン]\n[ターン1]\n自分の場に〈春柳宮 サクラ〉がある場合のみ発動できる。自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "瓦尔特·林特施托特",
+    "effectZh": "[启动主阶段]\n[回合 1]\n仅当自己的场上有〈春柳宫 樱〉时才能发动。从卡组上方查看一张卡，将该卡置于自己卡组上方或下方。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取 1 张卡。"
+  }
+}

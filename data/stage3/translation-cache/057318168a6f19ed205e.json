@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:01.118Z",
+  "model": "qwen3.5:4b",
+  "unitId": "057318168a6f19ed205e",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-001"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "新井 青空",
+    "effect": "[登場時]\n自分の山札の上から7枚見る。その中から〈逆刃刀・真打〉を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "新井 青空",
+    "effectZh": "[登场时]从牌库上方抽看7张卡，从中公开至多1张〈逆刃刀・真打〉加入手札。其余的按任意顺序放回牌库下方。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

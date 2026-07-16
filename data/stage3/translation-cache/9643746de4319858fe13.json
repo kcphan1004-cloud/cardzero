@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:26:11.702Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9643746de4319858fe13",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-105"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "Medic",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "Medic",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

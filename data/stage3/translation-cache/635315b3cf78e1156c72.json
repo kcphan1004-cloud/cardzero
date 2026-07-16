@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:40:01.184Z",
+  "model": "qwen3.5:9b",
+  "unitId": "635315b3cf78e1156c72",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-106"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ノワール",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nこのキャラの\n[登場時]\nを発動する。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺瓦勒",
+    "effectZh": "[登场时]\n查看自己牌库上方的2张卡。从中选择任意数量的卡按任意顺序放回自己牌库上方，剩余部分也按任意顺序放回下方。\n[启动主]\n[置为横置状态]\n[使这张角色退场]\n发动该角色的\n[登场时]",
+    "triggerZh": ""
+  }
+}

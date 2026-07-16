@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:43.453Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0a2112063fd453dfba49",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-071"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "ベータ",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の紫の［特徴：七陰］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "贝塔",
+    "effectZh": "[登场时]\n从己方手卡中选择 1 张「特征：七阴」，消耗 AP 为 1、所需能量为 2 以下的紫色卡片，将其以横置状态置于己方场上。",
+    "triggerZh": ""
+  }
+}

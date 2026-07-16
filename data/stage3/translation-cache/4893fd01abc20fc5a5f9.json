@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:00.699Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4893fd01abc20fc5a5f9",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-109"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "逆刃刀",
+    "effect": "カードを1枚引く。自分の場の〈緋村 剣心〉を1枚まで選び、このターン中、「\n[アタック時]\nカードを1枚引く。」を与える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "逆刃刀",
+    "effectZh": "抽一張卡片。選擇自己場上最多一組〈緋村 剣心〉，給予其本回合中「\n[攻擊時]\n抽一張卡片。」的效果。",
+    "triggerZh": "[抽牌]抽一張卡片"
+  }
+}

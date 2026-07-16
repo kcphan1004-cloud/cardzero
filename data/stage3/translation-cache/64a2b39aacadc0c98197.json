@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:44.704Z",
+  "model": "qwen3.5:4b",
+  "unitId": "64a2b39aacadc0c98197",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-042"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ウォーズマン",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "沃兹曼",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手中"
+  }
+}

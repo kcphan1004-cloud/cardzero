@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:56:50.486Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e1ac5e87122662139bb6",
+  "seriesSlug": "inuyasha",
+  "series": "犬夜叉",
+  "cardNumbers": [
+    "UA50BT/IYS-1-047"
+  ],
+  "source": {
+    "series": "犬夜叉",
+    "name": "楓",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "枫",
+    "effectZh": "",
+    "triggerZh": "[激活状态] 选择自己场上的角色一张，将其激活，本回合 BP+3000。"
+  }
+}

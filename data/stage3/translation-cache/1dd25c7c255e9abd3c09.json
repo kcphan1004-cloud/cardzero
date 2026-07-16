@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:06:00.390Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1dd25c7c255e9abd3c09",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-066"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "ぱないの！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "拍你的！",
+    "effectZh": "选择自己的AP卡最多两张，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命，从自己的卡组上方将一张置于自己的生命区域"
+  }
+}

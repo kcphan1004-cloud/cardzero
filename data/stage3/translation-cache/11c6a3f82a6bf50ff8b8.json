@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:24:39.083Z",
+  "model": "qwen3.5:9b",
+  "unitId": "11c6a3f82a6bf50ff8b8",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30ST/ARK-1-050",
+    "UA30BT/ARK-1-050"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ドーベルマン",
+    "effect": "[フロントLにある場合]\n〈ドーベルマン〉以外の自分の場の必要エナジーが3のキャラ全ては、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "杜宾犬",
+    "effectZh": "【当前位于前线L时】\n除〈杜宾犬〉外的我方场上所有必要能量为 3 的角色，BP+1000。",
+    "triggerZh": "抽牌"
+  }
+}

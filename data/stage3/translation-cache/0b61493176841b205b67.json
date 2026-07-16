@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:07:45.144Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0b61493176841b205b67",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-038"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "テキサス",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "德克萨斯",
+    "effectZh": "[登场时]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

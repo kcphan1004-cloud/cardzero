@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:30:40.596Z",
+  "model": "qwen3.5:9b",
+  "unitId": "124d5756a17b2eaba07f",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-006"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "黒戸 剣成",
+    "effect": "[登場時]\nこのターン中、次に手札から使用する必要エナジーが3以下の［特徴：KMF］の消費APを-1する。〈黒戸 剣成〉のこの効果は1ターンに1回のみ発動する。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "黑户 剑成",
+    "effectZh": "[登场时]\n本回合中，下次从手牌使用的必要能量为 3 以下的［特征：KMF］的消耗 AP-1。〈黑户 剑成〉的效果每回合仅可发动一次。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:00.718Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3de3a90db1231a99083a",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-028"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "レゼ",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の紫の〔〈レゼ〉か〈デンジ〉か〈カフェ「二道」〉〕を1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "电次（登场）",
+    "effectZh": "【登场时】\n从己方手牌中消耗 2 点以下能量、AP+1 的紫色〔「电次」或「电次」「双道」〕中的 1 张，以横置状态置于己方场上。",
+    "triggerZh": "【抽卡】\n抽取 1 张卡牌。"
+  }
+}

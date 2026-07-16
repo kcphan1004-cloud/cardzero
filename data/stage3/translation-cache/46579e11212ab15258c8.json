@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:37:40.545Z",
+  "model": "qwen3.5:4b",
+  "unitId": "46579e11212ab15258c8",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-030"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "合宿後のバーベキュー",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "合宿后的烧烤派对",
+    "effectZh": "选择至多 2 张你的 AP 卡，并将它们激活。",
+    "triggerZh": "[最终]\n如果你的生命值为空，从你牌库上方抽取一张并放置到你的生命区域。"
+  }
+}

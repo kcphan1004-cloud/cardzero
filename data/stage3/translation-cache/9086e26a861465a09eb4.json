@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:27:00.040Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9086e26a861465a09eb4",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-054"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ジャックボックス",
+    "effect": "[レイド]\n［特徴：イデアール］アクティブにし、フロントLに移動できる\n[登場時]\n自分の山札の上から4枚見る。その中から［特徴：イデアール］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "杰克盒",
+    "effectZh": "[Raid]\n［特征：伊德亚尔］激活并移动至前线L\n[登场时]\n查看自己牌库上方的 4 张卡。从中公开最多 1 张［特征：伊德亚尔］加入手牌。将剩余的按任意顺序置于自己的牌库下方。",
+    "triggerZh": "[Get]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:26.469Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a3cf700adf418006269f",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-041"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "荒井",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "荒井、激活效果：BP 3000 以下",
+    "effectZh": "",
+    "triggerZh": "[主动]\n选择己方场地的一张角色卡，将其激活，本回合内 BP+3000"
+  }
+}

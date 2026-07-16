@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:51.274Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b7ebd2a279d32f216b7a",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-067"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "無茶は承知",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "我接受挑战了",
+    "effectZh": "己方 AP 卡最多选两张并使其激活。",
+    "triggerZh": "[最终]\n若己方生命值为空，从己方牌库上方取一张置于己方生命区。"
+  }
+}

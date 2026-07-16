@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:07.012Z",
+  "model": "qwen3.5:4b",
+  "unitId": "faa97aaaf0e43c4d3a9e",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-043"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "梅宮 一",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "梅宫 一",
+    "effectZh": "[登场时]选择自己场上的其他角色1张，本回合中BP+1000。",
+    "triggerZh": "[抽牌]\n抽取1张卡"
+  }
+}

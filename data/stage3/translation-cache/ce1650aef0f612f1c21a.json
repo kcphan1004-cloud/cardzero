@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:34:30.760Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce1650aef0f612f1c21a",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-006"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ペトラ・ラル",
+    "effect": "[登場時]\nこのターンのアタックフェイズ開始時、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佩特拉·拉尔",
+    "effectZh": "【登场时】\n本回合的攻击阶段开始时，选择自己的 AP 牌至多 1 张并激活它。",
+    "triggerZh": ""
+  }
+}

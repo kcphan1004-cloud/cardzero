@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:27:41.888Z",
+  "model": "qwen3.5:9b",
+  "unitId": "f6a0db4948be74e25f78",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-024"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "木兎 光太郎",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "木兎 光太郎",
+    "effectZh": "[阶段]\n（在自己的移动阶段可从前线线移至能量线）",
+    "triggerZh": "[激活]\n选择自己场上的一张角色并使其处于激活状态，同时本回合中BP+3000。"
+  }
+}

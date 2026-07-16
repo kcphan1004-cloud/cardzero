@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:50:04.640Z",
+  "model": "qwen3.5:9b",
+  "unitId": "919551d199e13dc8f5b0",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-080",
+    "UA31BT/MMM-1-080"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\nこのターン中に自分がライフエリアにあるカードを手札に加えている場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "[阶段]\n（在自己的移动阶段，可以从前线 L 移动到能量线）\n[自己的回合中]\n若自己在本回合中将位于生命区域的卡加入手牌，则本角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

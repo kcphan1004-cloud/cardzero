@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:32:02.194Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5494480bbdaa58e82d35",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-003"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "有馬 雪成",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "有马 雪成",
+    "effectZh": "【无效冲击】（本角色与对手战斗期间，该对手失去[冲击]）",
+    "triggerZh": ""
+  }
+}

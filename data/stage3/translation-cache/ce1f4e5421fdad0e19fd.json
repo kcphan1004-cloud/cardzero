@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:09:30.098Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ce1f4e5421fdad0e19fd",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-005"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "デンジ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "电次",
+    "effectZh": "若此角色处于激活状态，则增加其发生能量+\n[紫]\n。",
+    "triggerZh": ""
+  }
+}

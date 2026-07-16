@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:57:01.205Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ac88e0fe759a5b17fabc",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-022"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "アッシュ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "阿修",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将本卡加入手札。"
+  }
+}

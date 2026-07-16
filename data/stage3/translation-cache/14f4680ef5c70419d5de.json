@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:38:00.964Z",
+  "model": "qwen3.5:9b",
+  "unitId": "14f4680ef5c70419d5de",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-048"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "鹿目 まどか",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "鹿目圆",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中按任意顺序将想要的数量置于自己的牌库上方，其余置为场外。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:00.716Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5785c68f96927913c1b4",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-027"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "レゼ",
+    "effect": "[自分のターン中]\nこのターン中に自分の場の〈デンジ〉が退場している場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "电次（退场）",
+    "effectZh": "【本家回合】\n若在本回合中，己方场上的「电次」已离场，则此角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

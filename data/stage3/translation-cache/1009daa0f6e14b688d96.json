@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:33:55.060Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1009daa0f6e14b688d96",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KJ8-1-010"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "市川 レノ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "市川 伦",
+    "effectZh": "选择至多 1 张卡。\n抽取 1 张牌。将手札中 1 张置于场外。",
+    "triggerZh": "[抽]\n从牌库上方抽取一张"
+  }
+}

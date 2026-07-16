@@ -1,0 +1,22 @@
+{
+  "status": "error",
+  "failedAt": "2026-07-16T16:09:03.303Z",
+  "unitId": "04d83d1a05892e8c2059",
+  "cardNumbers": [
+    "UA52BT/KJN-1-AP01",
+    "UA52BT/KJN-1-AP02",
+    "UA52BT/KJN-1-AP03",
+    "UA52BT/KJN-1-AP04",
+    "UA52BT/KJN-1-AP05",
+    "UA52BT/KJN-1-AP06",
+    "UA52BT/KJN-1-AP07",
+    "UA52BT/KJN-1-AP08",
+    "UA52BT/KJN-1-AP09",
+    "UA52BT/KJN-1-AP10",
+    "UA52BT/KJN-1-AP11",
+    "UA52BT/KJN-1-AP12",
+    "UA52BT/KJN-1-AP13",
+    "UA52BT/KJN-1-AP14"
+  ],
+  "error": "UA53BT/CSM-1-001 ç¼ºå°‘ä¸­æ–‡ Triggerã€‚"
+}

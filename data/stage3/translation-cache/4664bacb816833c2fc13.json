@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:31.974Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4664bacb816833c2fc13",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-050"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "月山 習",
+    "effect": "[登場時]\n自分の山札の上から2枚を見て、イベントカードを1枚まで公開し手札に加える。残りを場外に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "月山 习",
+    "effectZh": "[登场时]\n从自己的卡组上方看两张，公开一张事件卡并加入手牌。将剩余卡片置于场外。将此卡加入手牌时，将自己的手牌一张置于场外。",
+    "triggerZh": ""
+  }
+}

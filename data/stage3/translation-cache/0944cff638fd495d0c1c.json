@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:42:46.324Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0944cff638fd495d0c1c",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-059"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ミートくん",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "ミートくん",
+    "effectZh": "[登场时]\n抽 1 张卡，将一张自己的手牌放到场外。",
+    "triggerZh": "[抽取]\n抽 1 张"
+  }
+}

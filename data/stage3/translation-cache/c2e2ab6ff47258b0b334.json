@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:30:27.657Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2e2ab6ff47258b0b334",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-076"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "火焔旋撃",
+    "effect": "自分の場の〈ガメラ〉を1枚選び、このターン中、BP+1000。選んだ〈ガメラ〉が［特徴：空］の場合、カードを1枚引き、さらにこのターン中、\n[狙い撃ち]\n（相手のフロントLのキャラを指定してアタックでき、指定した場合、相手はブロックできない）を与える。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "火焰旋击",
+    "effectZh": "选择场上 1 张〈加美拉〉，本回合中 BP+1000。若选中的〈加美拉〉具有［特征：空］，则抽 1 张牌，且进一步在本回合中，\n【狙击】\n（指定对方前线 L 的角色进行攻击，若已指定，则对方无法阻挡）给予该效果。",
+    "triggerZh": "【特殊】\n选择对方的前线 L 角色中的 1 枚并使其退场。"
+  }
+}

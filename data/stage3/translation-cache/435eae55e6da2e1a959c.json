@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:27:14.908Z",
+  "model": "qwen3.5:9b",
+  "unitId": "435eae55e6da2e1a959c",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-060"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "戦車",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "坦克",
+    "effectZh": "[无效冲击]（与这个角色进行战斗的角色在本场战斗中，失去 [冲击]）",
+    "triggerZh": "[激活]选择自己场上的一张角色进行激活，本回合中 BP+3000。"
+  }
+}

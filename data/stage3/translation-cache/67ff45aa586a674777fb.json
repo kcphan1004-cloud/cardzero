@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:33.872Z",
+  "model": "qwen3.5:4b",
+  "unitId": "67ff45aa586a674777fb",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-035"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "イケメン仮面アマイマスク",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "帅哥假面阿迈伊面具",
+    "effectZh": "[登场时]\n若己方场上其他角色所需能量为 1 以下，则将其返还至手牌；无法返还时，将该角色返还至手牌。",
+    "triggerZh": ""
+  }
+}

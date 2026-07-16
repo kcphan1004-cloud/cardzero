@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:17:54.583Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a5fa63deafd630a0afbb",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-085"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "チェン",
+    "effect": "[起動メイン]\n[ターン1]\n自分の手札の［特徴：龍門］を2枚場外に置いてもよい。そうした場合、このキャラはこのターン中、BP+500と\n[ダメージ（2）]\n（このキャラがアタックで直接ダメージを与える時、代わりに2ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陈",
+    "effectZh": "[启动主]\n[回合1]\n可以将自己手牌中［特征：龙门］的2张卡置于场外。如此做的话，该角色在本回合中获得 BP+500 与\n[伤害（2）]\n（当该角色通过攻击直接造成伤害时，代替造成 2 点伤害）。",
+    "triggerZh": ""
+  }
+}

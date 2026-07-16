@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:36:49.798Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6679fef3701098e043eb",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-056"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "蘇枋 隼飛",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "苏枋 隼飞",
+    "effectZh": "[登场时]抽一张卡，并将己方手札中的 1 张牌置于场外。",
+    "triggerZh": "[抽取]<br>抽一张卡"
+  }
+}

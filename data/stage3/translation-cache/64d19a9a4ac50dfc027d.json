@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:29.290Z",
+  "model": "qwen3.5:4b",
+  "unitId": "64d19a9a4ac50dfc027d",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-080",
+    "UA41BT/RNK-1-080"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "高荷 恵",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "高荷惠",
+    "effectZh": "[登场时] 选择场上的一张其他角色，本回合 BP+1000。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

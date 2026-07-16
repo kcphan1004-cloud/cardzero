@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:10:44.000Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8e9559d94ea2d90095ca",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-088"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "弩S",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・カードを1枚引く。\n・BP2000以下でBPが同じ相手のフロントLのキャラを2枚選び、どちらも退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "弩 S",
+    "effectZh": "[登場時] 從以下選項中選擇一項。\n・抽一張牌。\n・BP2000以下的對手 FRONT L BP 相同的角色選出兩張，兩者皆退場。",
+    "triggerZh": "[抽取]\n抽一張牌。"
+  }
+}

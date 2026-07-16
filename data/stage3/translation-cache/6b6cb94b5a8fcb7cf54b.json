@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:21:20.526Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6b6cb94b5a8fcb7cf54b",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/AOT-2-068"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アルミン・アルレルト",
+    "effect": "このキャラに〈アルミン・アルレルト（超大型巨人）〉がレイドする際、そのカードの必要エナジーを\n[赤×2]\n減らす。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尔敏·阿尔雷特",
+    "effectZh": "当本角色进行〈阿尔敏·阿尔雷特（超大型巨人）〉的 Raid 时，将该卡所需的能量减少 [红×2]。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张卡牌。"
+  }
+}

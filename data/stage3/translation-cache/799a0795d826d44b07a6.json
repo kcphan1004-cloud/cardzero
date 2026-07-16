@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:45:58.518Z",
+  "model": "qwen3.5:4b",
+  "unitId": "799a0795d826d44b07a6",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-072"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "花園 羽々里",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花園 羽々里",
+    "effectZh": "[登场时]将自身场上其他角色中能量为1或以下的，将其一张回复到手中。若无法回复该角色，则将该角色回复到手中。",
+    "triggerZh": ""
+  }
+}

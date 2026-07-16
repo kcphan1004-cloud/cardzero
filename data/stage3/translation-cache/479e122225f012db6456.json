@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:45:00.569Z",
+  "model": "qwen3.5:4b",
+  "unitId": "479e122225f012db6456",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SYN-1-083"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "エイダ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾达",
+    "effectZh": "[登场时] 将自身场上其他角色中能量为 1 或以下的角色一张送回手牌。若无法将其送回，则将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

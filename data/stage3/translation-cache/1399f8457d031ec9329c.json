@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:38:59.615Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1399f8457d031ec9329c",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-029"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "思い出",
+    "effect": "カードを1枚引き、自分の手札を1枚場外に置く。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "回忆",
+    "effectZh": "抽 1 张牌，并将自己的手牌中最多选择 1 张置入场外。从自己场上最多选择 1 张 AP 卡并激活之。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

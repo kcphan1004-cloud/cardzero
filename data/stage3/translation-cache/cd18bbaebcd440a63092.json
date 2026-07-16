@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:43:11.401Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cd18bbaebcd440a63092",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-043"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "愛城 恋太郎",
+    "effect": "[登場時]\n[アタック時]\n自分のフロントLの〈愛城 恋太郎〉以外のキャラを望む枚数選び、このターン中、BP+500。この効果で同じカード名のキャラを選ぶことはできない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "爱城恋太郎",
+    "effectZh": "[登场时]\n[攻击时]\n选择自己前线 L 的除〈爱城恋太郎〉以外的任意数量的角色，本回合中 BP+500。此效果不能选择相同卡牌名称的角色。",
+    "triggerZh": ""
+  }
+}

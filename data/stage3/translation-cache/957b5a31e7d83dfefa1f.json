@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:19:29.304Z",
+  "model": "qwen3.5:9b",
+  "unitId": "957b5a31e7d83dfefa1f",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-015"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ギロン",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "吉龙",
+    "effectZh": "【登场时】\n选择对手前线 BP1500 以上的最多 1 张角色卡，使其在本回合中 BP-1000。",
+    "triggerZh": ""
+  }
+}

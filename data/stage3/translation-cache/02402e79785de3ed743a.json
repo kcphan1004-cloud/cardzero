@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:53.139Z",
+  "model": "qwen3.5:9b",
+  "unitId": "02402e79785de3ed743a",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-058",
+    "UA17BT/TRK-1-058"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "節乃",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "节乃",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上的其他角色至多 1 张返回手牌。若无法返回，则将该角色返回手牌。",
+    "triggerZh": ""
+  }
+}

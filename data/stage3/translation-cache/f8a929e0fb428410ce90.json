@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:45:29.279Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f8a929e0fb428410ce90",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SYN-P-003"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "シエル",
+    "effect": "[登場時]\nカードを1枚引く。\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのターン中、次に発動する赤の〈デイジーオーガ〉の\n[起動メイン]\nは\n[APを1支払う]\nを失う。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "西尔",
+    "effectZh": "[登场时]\n抽取 1 张牌。\n[启动主]\n[前场 L 存在时]\n[回合 1]\n本回合内，下次发动的红色〈戴斯奥加〉的\n[启动主]需支付\n[AP 为 1]。",
+    "triggerZh": "[抽]\n抽取 1 张牌"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:13:52.014Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3c4abee00a5ef964ee82",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-071"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "エクシア",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラをアクティブにする。このキャラはこのターン中、BP-2000。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "埃克西亚",
+    "effectZh": "【启动主效果】\n【第 1 回合】\n激活该角色，该角色在本回合中 BP-2000。",
+    "triggerZh": "【色相】\n选择对手前线原本 BP 为 2500 或以下的最多 1 名角色并使其退场。"
+  }
+}

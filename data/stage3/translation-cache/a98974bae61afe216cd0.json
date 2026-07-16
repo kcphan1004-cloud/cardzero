@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:17:16.563Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a98974bae61afe216cd0",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-091"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ラプラス",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\n自分のフロントLにBP4000以上の他の［特徴：ミシリス］がある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉普拉斯",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[在自己回合中]\n如果自己的前线 L 有其他的［特征：米西利斯］且 BP4000 以上的情况存在，则该角色为 BP+1000。",
+    "triggerZh": ""
+  }
+}

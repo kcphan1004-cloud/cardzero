@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:44.704Z",
+  "model": "qwen3.5:4b",
+  "unitId": "abdd0eb36c78bb361de2",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-043"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ウォーズマン",
+    "effect": "自分のフロントLに\n[アタック時]\nを持つ他の［特徴：正義超人］がある場合、このキャラの発生エナジー+\n[赤]\n。\n[アタック時]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "沃兹曼",
+    "effectZh": "若自己的前线 L 存在持有 [攻击时] 的其他［特征：正义超人］，则该角色获得 +\n[红]\n。该角色在本回合中 BP+1000。\n\n[攻击时]",
+    "triggerZh": ""
+  }
+}

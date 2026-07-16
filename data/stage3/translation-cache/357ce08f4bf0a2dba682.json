@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:18:50.624Z",
+  "model": "qwen3.5:9b",
+  "unitId": "357ce08f4bf0a2dba682",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-029"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "保科 宗四郎",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "保科 宗四郎",
+    "effectZh": "[登场时]\n抽1张牌，将自身手札中的1张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色1枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

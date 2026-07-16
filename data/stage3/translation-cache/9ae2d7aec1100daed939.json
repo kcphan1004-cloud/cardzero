@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:15:21.786Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9ae2d7aec1100daed939",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-006"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "奥村 正宗",
+    "effect": "[登場時]\n自分の場外から必要エナジーが1以下の異なるカード名の黄のキャラカードを望む枚数手札に加える。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "奥村正宗",
+    "effectZh": "[登场时]\n从自己的场外将所需能量为 1 以下的不同卡名的黄色角色卡牌加入手牌，数量为你想要的张数。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

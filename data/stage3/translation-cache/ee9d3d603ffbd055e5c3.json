@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:44:07.397Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ee9d3d603ffbd055e5c3",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/SMD-AP01",
+    "UAPR/SMD-AP02"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(SAKAMOTO DAYS)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡（SAKAMOTO DAYS）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:42:46.327Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9960325ea758f6c60b03",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-061"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ブロッケンJr.",
+    "effect": "[アタック時]\n自分の場に\n[アタック時]\nを持つ他の［特徴：正義超人］が2枚以上ある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "ブロッケンJr.",
+    "effectZh": "[攻击时] 如果场上的其他［特征：正义超人］有 [攻击时] 的卡达到 2 张以上，抽一张牌，将一张自己的手牌放到场外。",
+    "triggerZh": ""
+  }
+}

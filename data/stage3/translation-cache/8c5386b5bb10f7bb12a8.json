@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:48:36.512Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8c5386b5bb10f7bb12a8",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-092"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "あたしって、ほんとバカ……",
+    "effect": "自分のライフエリアにあるカードを1枚手札に加える。そうした場合、カードを2枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "我真是个笨蛋……",
+    "effectZh": "将自己生命区域中的卡加入手牌。如此做的话，抽 2 张牌。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

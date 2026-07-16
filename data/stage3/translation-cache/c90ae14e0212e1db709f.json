@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:28:38.304Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c90ae14e0212e1db709f",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/HIQ-1-075"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "影山 飛雄",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "影山 飞雄",
+    "effectZh": "[登场时]\n抽一张牌，将一张牌置于自己场外。",
+    "triggerZh": "[抽取]\n抽一张牌。"
+  }
+}

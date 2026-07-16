@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:56.257Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dcece8c3a5708d595517",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-039"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "これで私たちは仲間よ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "从此我们便是伙伴了",
+    "effectZh": "选择最多2张你的AP卡并激活它们。",
+    "triggerZh": "[最终]\n如果你的生命值为空，从你的牌库上方抽一张放到你的生命值区域。"
+  }
+}

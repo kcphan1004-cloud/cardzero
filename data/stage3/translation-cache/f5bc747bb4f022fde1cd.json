@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:42:45.529Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f5bc747bb4f022fde1cd",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-046"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "河了貂",
+    "effect": "[登場時]\n自分の場外から必要エナジーが2以下の〔［特徴：飛信隊］かイベントカード〕を1枚まで手札に加える。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "河了貂",
+    "effectZh": "[登场时]\n从自己的场外最多选择 1 张满足所需能量为 2 以下的[[特征：飞信队]>或事件卡>，将其加入手牌。\n\n[颜色]\n选择对手的前线 L 中 BP3500 以下的 1 张卡，将其送回手牌。",
+    "triggerZh": "[雷击]"
+  }
+}

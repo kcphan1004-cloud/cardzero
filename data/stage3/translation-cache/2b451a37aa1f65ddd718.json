@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:22:57.180Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2b451a37aa1f65ddd718",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/BTR-1-026"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ニョンタ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[黄]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "妮昂塔",
+    "effectZh": "当此角色处于激活状态时，本回合发生能量+【黄】。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:15:08.727Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d03ce968765baddc8543",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-028"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "碇 シンジ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚を場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "碇 シンジ",
+    "effectZh": "[启动主]\n[变为横置状态]\n从你的牌库上方抽 1 张并置于场外区域。",
+    "triggerZh": "[激活] 选择你场上的 1 个角色，将其激活且于本回合中 BP+3000"
+  }
+}

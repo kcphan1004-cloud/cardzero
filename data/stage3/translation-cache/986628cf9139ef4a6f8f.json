@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:35:32.032Z",
+  "model": "qwen3.5:4b",
+  "unitId": "986628cf9139ef4a6f8f",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KMR-2-052"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "仮面ライダーＷ ヒートジョーカー",
+    "effect": "[登場時]\n必要エナジーが2以下の自分の場のカード名に「Ｗ」を含むキャラを1枚まで選び、このターン中、BP+2000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "假面骑士W 热恶作剧者",
+    "effectZh": "[登场时]选择自己场上名称包含「Ｗ」的卡牌至多1张，且该卡所需能量为2以下。本回合BP+2000。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张牌。"
+  }
+}

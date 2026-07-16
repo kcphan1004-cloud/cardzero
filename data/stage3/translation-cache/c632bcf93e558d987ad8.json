@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:30.915Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c632bcf93e558d987ad8",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-043"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "一本角（鬼童丸）",
+    "effect": "[自分のターン中]\n自分のフロントLに〈和倉 青羽〉がある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "一本角（鬼童丸）",
+    "effectZh": "[己方回合中]\n若己方 Front L 上有〈和仓 青羽〉，则该角色的 BP+500。",
+    "triggerZh": "[抽牌]\n抽取一张牌"
+  }
+}

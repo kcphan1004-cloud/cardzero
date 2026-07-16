@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:38.540Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1dd2116733152e7ac259",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-064"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "キングエンジン",
+    "effect": "自分の場のキャラの最大BP以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈キング〉がある場合、自分の場のカードを1枚まで選び、このターン中、「このカードの発生エナジー+\n[緑]\n。」を与える。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "引擎王",
+    "effectZh": "选择你场上的角色的最大BP以下、对手的Front L的角色一张，使其离场。\n如果你的场上有〈King〉，可以选择你场上一张卡，在本回合中给予该卡的生成能量+[绿色]。",
+    "triggerZh": "[Special]\n选择对手Front L角色的一张，使其离场。"
+  }
+}

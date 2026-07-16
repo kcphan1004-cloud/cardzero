@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:24:18.000Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5962d84ae6c8761b28cd",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-002"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "漣 伯理",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "漣 伯理",
+    "effectZh": "[启动主阶段]\n[变为横置状态]\n[第1回合]\n本角色在本回合中，获得能量+<span style=\"color:purple\">紫</span>和『当主阶段结束时，使本角色离场』。",
+    "triggerZh": ""
+  }
+}

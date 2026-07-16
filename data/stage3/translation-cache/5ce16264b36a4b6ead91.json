@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:53.294Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5ce16264b36a4b6ead91",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-059"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "[登场时]\n选择自己场上的 1 张角色卡，在本回合中，BP+1000。",
+    "triggerZh": ""
+  }
+}

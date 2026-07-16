@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:15:25.150Z",
+  "model": "qwen3.5:9b",
+  "unitId": "63be6c401ec3cc043a43",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-001"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "クリード",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "克利德",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:46:06.457Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cde9f282df0cfb265212",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19ST/HIQ-1-099",
+    "UA19BT/HIQ-1-099"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "飛べ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "飞吧！",
+    "effectZh": "选择自己的 AP 卡片最多两张并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己山札上方放置一张卡到自己的生命区域。"
+  }
+}

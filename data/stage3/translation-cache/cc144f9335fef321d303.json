@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:12:56.589Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cc144f9335fef321d303",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-061"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "PRTS",
+    "effect": "[登場時]\n自分の山札の上から4枚見る。その中から［特徴：ロドス・アイランド製薬］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "PRTS",
+    "effectZh": "[登场时]\n查看自己山札上方的 4 张卡。从中公开最多 1 张［特征：罗德岛制药］并加入手牌。将剩余部分按任意顺序置于自己的山札下方。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

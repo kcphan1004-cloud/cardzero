@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:03:38.320Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c171987addfbd7b67657",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-079"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ナラの交渉術",
+    "effect": "自分の山札の上から4枚見る。その中から必要エナジーが4以下で消費APが1の青の［特徴：ネオ・ブリタニア帝国］を1枚まで自分の場にレストで登場させるかレイドさせる。残りを望む順で自分の山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "娜拉的谈判术",
+    "effectZh": "查看手牌上方4张卡。从中将能量需求为4以下且消耗AP为1的蓝色「特征：新不列颠帝国」至多一张以休息状态或雷击方式置于场上，其余按任意顺序置于你的手牌下方。",
+    "triggerZh": "[抽]\n抽取一张卡。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:19.517Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b88a8134e3ac2a431c12",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-027"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ジュイス",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "朱伊斯",
+    "effectZh": "[攻击时]\n抽 1 张牌，将自身手札中的 1 张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

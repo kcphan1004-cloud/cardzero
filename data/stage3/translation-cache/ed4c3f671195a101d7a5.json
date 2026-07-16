@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:33:59.488Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed4c3f671195a101d7a5",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-019"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "梅宮 一",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "梅宫一",
+    "effectZh": "[冲击（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）",
+    "triggerZh": ""
+  }
+}

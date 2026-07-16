@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:40:05.394Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e3329e5a3e63944443c1",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-023"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "ダルメシマン",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から［特徴：完璧・無量大数軍］を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "达尔梅西曼",
+    "effectZh": "[登场时]\n从自己的山札（库）上方查看两张卡牌。\n从中选择最多 1 张［特征：完美・无量大军］的卡牌放置到场外，其余卡牌按任意顺序放回山札（库）上方。",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

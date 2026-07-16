@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:49:51.481Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4a99eb5e0d27f42f6e1d",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-025"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "大川村 寧",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見て、山札の上か下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "大川村 宁",
+    "effectZh": "[发动主回合]\n[将其横置]\n查看自己牌库上方的一张卡，并将其置于牌库上方或下方。",
+    "triggerZh": "[抽牌]"
+  }
+}

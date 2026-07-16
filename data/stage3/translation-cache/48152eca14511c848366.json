@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:19:29.306Z",
+  "model": "qwen3.5:9b",
+  "unitId": "48152eca14511c848366",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-017"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ギロン",
+    "effect": "このキャラはアクティブで場に登場させる。\nこのキャラがBP3000以下のキャラにブロックされた時、このキャラはこのターン中、\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。\nこのキャラがアタックしてブロックされなかった時、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "吉龙",
+    "effectZh": "该角色以激活状态登场。\n当该角色被 BP3000 以下的角色阻挡时，获得以下效果：\n【冲击（1）】\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。 \n\n若该角色进行攻击且未被阻挡，则抽 1 张牌。",
+    "triggerZh": "【获取】\n将此牌加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:47:13.683Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a6abf716aa9b10dec3e5",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48ST/KGD-1-105"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "羌瘣",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラを別のラインに移動させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羌瘣",
+    "effectZh": "[激活主阵]\n[回合 1]\n将此角色移动至其他战线。",
+    "triggerZh": ""
+  }
+}

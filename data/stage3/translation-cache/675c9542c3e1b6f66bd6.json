@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:09:25.849Z",
+  "model": "qwen3.5:9b",
+  "unitId": "675c9542c3e1b6f66bd6",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-045"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ノア",
+    "effect": "[相手のターン中]\n自分の場に\n[トリガー]\nを持つカードがない場合、このキャラはBP+500と\n[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺亚",
+    "effectZh": "[对方回合中]\n若我方场上\n没有持有\n<Trigger>\n的卡牌，则该角色获得 BP+500 与\n「2 次阻挡」\n（该角色在本回合首次进行阻挡时激活）的效果。",
+    "triggerZh": ""
+  }
+}

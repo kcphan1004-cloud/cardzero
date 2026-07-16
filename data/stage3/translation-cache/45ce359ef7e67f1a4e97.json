@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:32:21.190Z",
+  "model": "qwen3.5:4b",
+  "unitId": "45ce359ef7e67f1a4e97",
+  "seriesSlug": "blue-lock",
+  "series": "蓝色监狱",
+  "cardNumbers": [
+    "UA12BT/BLK-1-068"
+  ],
+  "source": {
+    "series": "蓝色监狱",
+    "name": "蟻生 十兵衛",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蟻生 十兵衛",
+    "effectZh": "[横置时]\n（本回合可以从前线线将能量线激活）",
+    "triggerZh": ""
+  }
+}

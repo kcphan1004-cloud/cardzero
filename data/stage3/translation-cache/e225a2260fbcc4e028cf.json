@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:01.800Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e225a2260fbcc4e028cf",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-072"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "昌文君",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "昌文君",
+    "effectZh": "[登场时] 将自身场上其他角色中能量为1或以下的角色一张返回手牌。若无法将其返还，则将此卡返回手牌。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:29:21.198Z",
+  "model": "qwen3.5:4b",
+  "unitId": "82ec6b9503a761c9ca15",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-088"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ラスト",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "Last",
+    "effectZh": "[登场时]抽卡1张，将手牌1张置于场外。",
+    "triggerZh": "[抽取]抽卡1张。"
+  }
+}

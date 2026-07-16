@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:07:26.747Z",
+  "model": "qwen3.5:9b",
+  "unitId": "98d340af6173aaa59c87",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-096"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "邪王炎殺剣",
+    "effect": "BP3000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "邪王炎杀剑",
+    "effectZh": "选择对方前线 L 的 BP3000 以下的 1 名角色，使其退场。",
+    "triggerZh": ""
+  }
+}

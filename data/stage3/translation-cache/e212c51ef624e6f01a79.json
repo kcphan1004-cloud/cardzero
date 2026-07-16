@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:35:04.491Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e212c51ef624e6f01a79",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-030"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "楡井 秋彦",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から〈楡井 秋彦〉以外の必要エナジーが1以下の黄の［特徴：ボウフウリン］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "楡井 秋彦",
+    "effectZh": "[激活主效果]\n[横置状态]\n[使此卡离场]\n从牌库上方选择至多1张黄色的［特征：弓吹林］（除本家外），将其以横置状态登场，所需能量为1以下。",
+    "triggerZh": ""
+  }
+}

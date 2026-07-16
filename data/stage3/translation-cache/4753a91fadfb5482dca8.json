@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:21.423Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4753a91fadfb5482dca8",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-025"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "米林 才子",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nこのキャラはこのターン中、BP+3000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "米林才子",
+    "effectZh": "[启动主手]\n[支付1 AP]\n[第1回合]\n该角色本回合BP+3000。",
+    "triggerZh": "[激活]\n选择自己场上的1张卡进行激活，本回合BP+3000。"
+  }
+}

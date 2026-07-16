@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:13.006Z",
+  "model": "qwen3.5:4b",
+  "unitId": "96ca7ac301cf7cbd0933",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-090"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "羽川 翼",
+    "effectZh": "本角色处于激活状态时，本角色的生成能量+【红】。",
+    "triggerZh": ""
+  }
+}

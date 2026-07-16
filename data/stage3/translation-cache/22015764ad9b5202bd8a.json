@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:57:03.651Z",
+  "model": "qwen3.5:9b",
+  "unitId": "22015764ad9b5202bd8a",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-101"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アニ・レオンハート",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尼·莱昂哈特",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

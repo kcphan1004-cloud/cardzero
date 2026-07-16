@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:43.448Z",
+  "model": "qwen3.5:4b",
+  "unitId": "85623ea94a87bcd2d66f",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-067"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "デルタ",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "德尔塔",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取 1 张卡牌。"
+  }
+}

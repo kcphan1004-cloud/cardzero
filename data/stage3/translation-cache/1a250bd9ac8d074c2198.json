@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:06:58.866Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1a250bd9ac8d074c2198",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-029"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "源石の欠片",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "源石碎片",
+    "effectZh": "选择至多 2 张自己的 AP 卡，使其处于激活状态。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

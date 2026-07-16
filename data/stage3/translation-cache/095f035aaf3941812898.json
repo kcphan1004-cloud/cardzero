@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:39:26.025Z",
+  "model": "qwen3.5:9b",
+  "unitId": "095f035aaf3941812898",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-031",
+    "UA16BT/SYN-1-031"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "メイガスとの絆",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "与魔女的羁绊",
+    "effectZh": "选择最多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

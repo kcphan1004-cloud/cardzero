@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:34:00.135Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5488a86815921bc8e5c5",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-069"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "金木 研",
+    "effect": "自分のライフが5以下の場合、このキャラはBP+1000。\n[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "金木 研",
+    "effectZh": "若自己的生命值为5以下时，此角色的BP为+1000。\n[登场时]\n抽一张卡，并将自己手牌中一张卡置于场外。",
+    "triggerZh": "[激活效果]\n选择自己场上的角色1张，使其处于激活状态，本回合BP+3000。"
+  }
+}

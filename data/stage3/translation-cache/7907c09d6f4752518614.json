@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:31.971Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7907c09d6f4752518614",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-048"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "古間 円児",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "古間 円児",
+    "effectZh": "当对手场上有黄或赤卡时，将手牌中本卡的必要能量减少[紫×1]。",
+    "triggerZh": ""
+  }
+}

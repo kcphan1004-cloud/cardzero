@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:38.350Z",
+  "model": "qwen3.5:4b",
+  "unitId": "82176345afca58180ae5",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-060"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "エヴァにだけは乗らんでくださいよ",
+    "effect": "自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "请不要乘坐 EVA",
+    "effectZh": "将最多 1 张自己的 Front L 中激活状态的 Character 横置。如此操作后，从牌库上方抽一张牌放入手札。",
+    "triggerZh": "[抽取]\n从牌库上方抽一张牌放入手札。"
+  }
+}

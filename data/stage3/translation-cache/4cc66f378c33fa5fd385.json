@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:57:31.639Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4cc66f378c33fa5fd385",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-060"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "本条 鎌足",
+    "effect": "[登場時]\n自分の場の〈志々雄 真実〉か〈駒形 由美〉か他の［特徴：十本刀］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "本条 鎌足",
+    "effectZh": "[登场时]\n选择自己场上的「志々雄 真実」或「駒形 由美」或其他［特征：十本刀］的卡牌至多1张，此回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色卡至多1张并使其激活，此回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:11.351Z",
+  "model": "qwen3.5:4b",
+  "unitId": "58779f2b2125bbdeb2af",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-050"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "式波・アスカ・ラングレー",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の手札の［特徴：WILLE］を1枚場外に置く。そうした場合、相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "式波・アスカ・ラングレー",
+    "effectZh": "[启动主阶段]\n[当位于前线L时]\n[第 1 回合]\n将手牌的［特征：WILLE］一张放置到场外。如此操作，选择对手的前线 L 中的一张角色，本回合中 BP-1000。",
+    "triggerZh": "[DRAW]\n抽一张牌。"
+  }
+}

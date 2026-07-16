@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:22:52.196Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cae32af3c81efe66d298",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-039"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "走刃脚",
+    "effect": "相手のフロントLのキャラを1枚選び、次の自分のターン開始時まで、『BP-3000』。自分の場に〈リップ〉がある場合、以下から1つ選ぶ。\n・『BP-4000』に代わる。\n・カードを1枚引く。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "走刃脚",
+    "effectZh": "选择对方前线 L 的角色 1 枚，直到自己的下个回合开始为止，其 BP-3000。若自己场上有〈利普〉，则从以下中选择 1 个。\n・改为［BP-4000］\n・抽 1 张牌。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色 1 枚，使其退场。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:21:19.519Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3178f5cc1bdba3b46f9d",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-029"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "トップ",
+    "effect": "このキャラはBP2000以下のキャラにブロックされない。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "顶",
+    "effectZh": "该角色不会被 BP2000 以下的角色阻挡。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

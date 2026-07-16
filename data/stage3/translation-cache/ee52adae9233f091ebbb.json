@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:12:57.278Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ee52adae9233f091ebbb",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-059"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "モダニア",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "莫迪亚尼亚",
+    "effectZh": "【登场时】\n抽 1 张牌，将自身手札中的 1 张置入场外。",
+    "triggerZh": "【触发·抽卡】\n抽 1 张牌。"
+  }
+}

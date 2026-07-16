@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:08:46.836Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f033dce610e317f3541",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-045"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ケルシー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "凯尔希",
+    "effectZh": "",
+    "triggerZh": "【获取】将此卡加入手牌。"
+  }
+}

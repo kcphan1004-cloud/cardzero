@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:24:50.857Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f7fa535a3c735a95a91",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-054"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "シェン",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "申",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的角色，将其激活，本回合中 BP+3000。"
+  }
+}

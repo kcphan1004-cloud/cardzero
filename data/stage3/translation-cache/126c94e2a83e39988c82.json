@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:37:32.325Z",
+  "model": "qwen3.5:9b",
+  "unitId": "126c94e2a83e39988c82",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16ST/SYN-1-027",
+    "UA16BT/SYN-1-027"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ムートン",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[黄]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "穆顿",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本回合中，此角色的发生能量+\n[黄]。\n主阶段结束时，将此卡退场。",
+    "triggerZh": ""
+  }
+}

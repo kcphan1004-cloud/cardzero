@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:21:28.335Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4942ac5909f3abe25655",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/ARK-1-046"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "ケルシー",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "凯尔西",
+    "effectZh": "当该角色处于激活状态时，将该角色的生成能量+\n[青]\n。",
+    "triggerZh": ""
+  }
+}

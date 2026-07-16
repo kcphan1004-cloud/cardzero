@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:26:09.327Z",
+  "model": "qwen3.5:9b",
+  "unitId": "40af49b83438d5801c4c",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-050"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ムートン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "穆顿",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本场战斗中，\n失去 [冲击]）",
+    "triggerZh": ""
+  }
+}

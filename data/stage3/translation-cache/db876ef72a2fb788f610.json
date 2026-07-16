@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:12:42.525Z",
+  "model": "qwen3.5:4b",
+  "unitId": "db876ef72a2fb788f610",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-029",
+    "UA35BT/OPM-1-029"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "焼却",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ジェノス〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "烧却",
+    "effectZh": "【BP3000 以下】选择对手场上的一张前线 L，将其离场。若己方场地上有〈杰诺斯〉，则改为【BP5000 以下】。",
+    "triggerZh": "[特殊]\n选择对手场上的一张前线 L，将其离场。"
+  }
+}

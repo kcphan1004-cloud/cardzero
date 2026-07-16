@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:30:06.900Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3254b02bee1006357e9",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-AP01",
+    "UA25BT/AND-1-AP02",
+    "UA25BT/AND-1-AP03",
+    "UA25BT/AND-1-AP04",
+    "UA25BT/AND-1-AP05",
+    "UA25BT/AND-1-AP06",
+    "UA25BT/AND-1-AP07",
+    "UA25BT/AND-1-AP08",
+    "UA25BT/AND-1-AP09",
+    "UA25BT/AND-1-AP10",
+    "UA25BT/AND-1-AP11",
+    "UA25BT/AND-1-AP12"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "アクションポイントカード(アンデッドアンラック)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (Undead Unluck)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:01:53.704Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3cad85a1ab1b583459e8",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-046"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "葛城 リーリヤ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "葛城莉里亚",
+    "effectZh": "[登场时]\n抽 1 张牌，将手札中的 1 张卡置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚使其处于激活状态，本回合中 BP+3000。"
+  }
+}

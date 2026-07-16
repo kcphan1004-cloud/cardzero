@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:58:06.602Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cbc57f2ca4c19f98cc75",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-106"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エレン・イェーガー",
+    "effect": "自分のライフが3以下の場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾伦·耶格尔",
+    "effectZh": "自己的生命值在 3 以下时，该角色 BP+1000。",
+    "triggerZh": ""
+  }
+}

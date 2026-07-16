@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:39:03.910Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0db3a5013a5592806e09",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-051"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "[登场时]\n抽 1 张牌，将自己手札中的 1 张置入场外。",
+    "triggerZh": "[抽卡]\n抽 1 张牌。"
+  }
+}

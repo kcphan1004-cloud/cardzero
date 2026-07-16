@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:30:40.595Z",
+  "model": "qwen3.5:9b",
+  "unitId": "be41c9deccaf74126975",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-005"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "小田 友臣",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小田 友臣",
+    "effectZh": "[冲击无效化]\n（与此角色进行战斗的角色在本场战斗中，\n[冲击]\n失效）",
+    "triggerZh": ""
+  }
+}

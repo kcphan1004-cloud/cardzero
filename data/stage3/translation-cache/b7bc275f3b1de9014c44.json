@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:06:15.469Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b7bc275f3b1de9014c44",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-056"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サンラク",
+    "effect": "自分の場に〈オイカッツォ〉がある場合、このキャラはBP+500。\n自分の場に〈アーサー・ペンシルゴン〉がある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "三乐",
+    "effectZh": "若自身场上有〈欧卡茨奥〉，则此角色的 BP+500。\n若自身场上有〈亚瑟·潘西尔贡〉，则此角色的 BP+500。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

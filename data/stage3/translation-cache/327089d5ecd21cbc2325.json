@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:36:15.901Z",
+  "model": "qwen3.5:4b",
+  "unitId": "327089d5ecd21cbc2325",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-086"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "篠原 幸紀",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の〈鈴屋 什造〉を1枚選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "篠原幸纪",
+    "effectZh": "[激活主]\n若前线上有卡\n第 1 回合时，选择场上的一张「铃屋什造」，本回合中 BP+1000。",
+    "triggerZh": "[激活]\n选择一个场上的角色并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

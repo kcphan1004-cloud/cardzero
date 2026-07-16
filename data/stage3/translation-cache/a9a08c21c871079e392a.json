@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:02:20.183Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a9a08c21c871079e392a",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-052"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "樹里",
+    "effect": "[登場時]\n自分の場に〈小兎〉がある場合、自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "树里",
+    "effectZh": "【登场时】\n若自己的场上有〈小兔〉，选择自己场上的其他角色至多 1 张，本回合中 BP+1000。",
+    "triggerZh": "【激活】\n选择自己场上的角色 1 张并激活之，本回合中 BP+3000。"
+  }
+}

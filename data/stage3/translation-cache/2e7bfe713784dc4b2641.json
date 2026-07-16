@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:46:04.026Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2e7bfe713784dc4b2641",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-043"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "フェリス",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "费里斯",
+    "effectZh": "若该角色处于激活状态，则该角色的发生能量+\n[蓝]\n。",
+    "triggerZh": ""
+  }
+}

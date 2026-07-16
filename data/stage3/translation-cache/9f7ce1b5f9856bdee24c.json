@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:56.456Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f7ce1b5f9856bdee24c",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-090"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "ミステル",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "米斯特鲁",
+    "effectZh": "[登场时]\n抽一张牌并将自己手牌中的一张置入场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色的一张，使其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:12:42.526Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0b44884d888ffaa7cf01",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-032",
+    "UA35BT/OPM-1-032"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ヒーロー",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "英雄",
+    "effectZh": "选择至多2张你的AP卡，将其激活。",
+    "triggerZh": "[最终]\n若你无生命点数，则从牌库上方抽一张置于你的手牌区。"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:30:50.861Z",
+  "model": "qwen3.5:4b",
+  "unitId": "48c14e991546f51ab744",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-031",
+    "UA37BT/FMA-1-031"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "等価交換",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "等价交换",
+    "effectZh": "选择自己的 AP 卡至多 2 张并激活。",
+    "triggerZh": "[最终]\n若自己没有生命，从牌库上方将 1 张置于自己的生命区域。"
+  }
+}

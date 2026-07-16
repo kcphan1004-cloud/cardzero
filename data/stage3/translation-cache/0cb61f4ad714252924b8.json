@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:05:31.672Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0cb61f4ad714252924b8",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-085"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "ぼたん",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "牡丹",
+    "effectZh": "[登场时]\n将必要能量为 1 或以下的自己场上的其他角色最多 1 张返回手牌。若无法返回，将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

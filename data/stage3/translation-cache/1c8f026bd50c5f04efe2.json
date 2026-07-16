@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:33:01.470Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1c8f026bd50c5f04efe2",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-035"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "入見 カヤ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "入见カヤ",
+    "effectZh": "［登场时］若自己场上其他角色卡所需能量为 1 以下，则将其加入手札；无法归还时，将该角色卡加入手札。",
+    "triggerZh": ""
+  }
+}

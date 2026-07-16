@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:07.890Z",
+  "model": "qwen3.5:4b",
+  "unitId": "298486af932eba076fcf",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-075"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ガロウ",
+    "effect": "[登場時]\n自分の山札の上から2枚まで場外に置く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "杰诺斯",
+    "effectZh": "[登场时]\n从自己的牌库上方最多放置 2 张到场外。",
+    "triggerZh": "[颜色]\n选择对手 BP2500 以下的 Front L 角色一张，使其离场。"
+  }
+}

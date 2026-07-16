@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:52:12.420Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e7946a02598d03e3b54b",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-006"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "比古 清十郎",
+    "effect": "[登場時]\n自分の場の〈緋村 剣心〉を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "比古 清十郎",
+    "effectZh": "[登场时]\n选择自己场上的〈绯村 剑心〉一张，本回合 BP+1000。",
+    "triggerZh": "[抽取]\n抽一张卡"
+  }
+}

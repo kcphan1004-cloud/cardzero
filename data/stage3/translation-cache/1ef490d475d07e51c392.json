@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:23:51.724Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1ef490d475d07e51c392",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-045"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "アンディ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[自分のターン中]\nこのターン中に場外から自分の場にキャラが登場している場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "安迪",
+    "effectZh": "[步骤]\n（在自己的移动阶段可以从前线 L 移动到能量线）\n[自己的回合中]\n如果本回合中有角色从场外登场到自己的场上，该角色的 BP+1000。",
+    "triggerZh": ""
+  }
+}

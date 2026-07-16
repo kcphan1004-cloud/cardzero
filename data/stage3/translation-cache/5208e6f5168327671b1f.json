@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:37.809Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5208e6f5168327671b1f",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-111"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "千石 撫子",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "千石 抚子",
+    "effectZh": "登场时,从己方卡组上方看2张。从中将任意数量的卡按任意顺序置于己方卡组上方，其余置场外。",
+    "triggerZh": "[激活]\n选择己方场上的角色1枚进行激活，本回合BP+3000"
+  }
+}

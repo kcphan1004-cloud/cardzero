@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:02:13.461Z",
+  "model": "qwen3.5:9b",
+  "unitId": "491d1c42514bca56e00e",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-036"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "スパイラルエッジ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈サンラク〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "螺旋刃",
+    "effectZh": "选择对方满足『BP3000 及以下』的前线 L 的角色至多 1 枚，使其退场。若自己场上有〈三乐〉，则改为『BP5000 及以下』。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 的角色至多 1 枚，使其退场。"
+  }
+}

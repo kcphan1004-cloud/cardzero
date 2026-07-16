@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:11:21.835Z",
+  "model": "qwen3.5:9b",
+  "unitId": "777deaf4b7fabcbc3925",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-007"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "出雲 ハルイチ",
+    "effect": "[アタック時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "出云 春一",
+    "effectZh": "[攻击时]\n抽 1 张牌并将自己的手牌置为场外 1 张。",
+    "triggerZh": ""
+  }
+}

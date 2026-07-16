@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:46:20.629Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d35dfcd02d83ff9bb894",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-046"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ユリウス・ユークリウス",
+    "effect": "[登場時]\n自分の場の必要エナジーが0の青の〈ナツキ・スバル〉を1枚手札に戻してもよい。そうした場合、このキャラをアクティブにし、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尤利乌斯·尤里乌斯",
+    "effectZh": "[登场时] 若己方场上所需能量为0，可将1张手牌中的〈纳奇基·斯巴鲁〉（蓝色）放回己方手牌。如此操作后，将本角色激活，且在本回合中BP+1000。",
+    "triggerZh": ""
+  }
+}

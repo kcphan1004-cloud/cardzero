@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:54:32.581Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a723f7d6250e44140070",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-014"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "姫崎 莉波",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "姬崎 莉波",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+\n[青]。",
+    "triggerZh": ""
+  }
+}

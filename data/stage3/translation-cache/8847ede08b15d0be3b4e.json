@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:47:38.294Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8847ede08b15d0be3b4e",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-054"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "Mon3tr",
+    "effect": "[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "Mon3tr",
+    "effectZh": "[冲击（1）]\n当此角色攻击并赢得战斗时，对对手玩家造成 1 点伤害。",
+    "triggerZh": "[抽牌]"
+  }
+}

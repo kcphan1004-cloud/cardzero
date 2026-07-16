@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:12:20.196Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7d5a60b6cf81aaa38c91",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-052"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "神々廻",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "神々廻",
+    "effectZh": "[登场时]\n抽取一张卡牌，并将自己的手札中一张置于场外。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

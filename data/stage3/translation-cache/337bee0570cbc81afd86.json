@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:00:09.109Z",
+  "model": "qwen3.5:9b",
+  "unitId": "337bee0570cbc81afd86",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-021"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "サイガ-0",
+    "effect": "[登場時]\nこのターン中、自分の手札の全てのイベントカードの必要エナジーを\n[緑×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "赛嘉 -0",
+    "effectZh": "[登场时]\n本回合中，将自身手牌中的所有事件卡所需能量\n[绿×1]\n减少。",
+    "triggerZh": ""
+  }
+}

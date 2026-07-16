@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:06:00.391Z",
+  "model": "qwen3.5:4b",
+  "unitId": "080994a910b3494b137f",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-068"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 暦",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿良々木 历",
+    "effectZh": "[启动主侧]\n[变为横置状态]\n[回合一]\n本角色在本回合中，获得发生能量+\n[赤]\"以及「主侧结束时将本角色离场。\"",
+    "triggerZh": ""
+  }
+}

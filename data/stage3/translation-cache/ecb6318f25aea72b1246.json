@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:47:38.298Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ecb6318f25aea72b1246",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-057"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "ブレイズ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "Blaze",
+    "effectZh": "[登场时]\n抽取一张卡，并将自己手牌中的一张置出场外。",
+    "triggerZh": "[抽牌]"
+  }
+}

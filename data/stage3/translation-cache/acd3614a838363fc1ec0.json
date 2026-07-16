@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:06:15.463Z",
+  "model": "qwen3.5:9b",
+  "unitId": "acd3614a838363fc1ec0",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-051"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "オルスロット",
+    "effect": "[退場時]\n相手はカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "奥尔斯洛特",
+    "effectZh": "【退场时】\n对手抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

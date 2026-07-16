@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:25:16.006Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c2c95ea402303fc8dd3d",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-047"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "軍艦",
+    "effect": "[登場時]\nBP1500以上の相手の場のキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "战舰",
+    "effectZh": "【登场时】\n选择BP1500以上的对方场上的一张角色，本回合中其BP-1000。",
+    "triggerZh": ""
+  }
+}

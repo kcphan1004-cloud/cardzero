@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:28:39.202Z",
+  "model": "qwen3.5:4b",
+  "unitId": "634568fb8a68157debbb",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-054"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "六平 国重",
+    "effect": "自分の赤の〈六平 千鉱〉の効果でこのカードが手札から場外に置かれた時、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "六平 国重",
+    "effectZh": "当自己的红色的〈六平 千鉱>效果将这张卡从手牌放置到场外时，抽取1张卡牌。",
+    "triggerZh": ""
+  }
+}

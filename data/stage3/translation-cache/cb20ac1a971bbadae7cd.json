@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:13:32.609Z",
+  "model": "qwen3.5:4b",
+  "unitId": "cb20ac1a971bbadae7cd",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-078"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "最強のパン",
+    "effect": "カードを『2枚』引く。自分の場に〈早川家〉があるか、自分の場の〈デンジ〉の下に裏向きのカードがある場合、『3枚』に代わる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "最强披萨",
+    "effectZh": "抽卡 2 张。若己方场上有「早川家」，或己方场上的「健人」下方存在背面朝上的卡片，则改为抽卡 3 张。",
+    "triggerZh": "[抽取]\n抽卡 1 张"
+  }
+}

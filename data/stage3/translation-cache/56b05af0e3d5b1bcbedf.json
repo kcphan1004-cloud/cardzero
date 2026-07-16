@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:05:43.711Z",
+  "model": "qwen3.5:9b",
+  "unitId": "56b05af0e3d5b1bcbedf",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-033"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ユーリイ孤児院",
+    "effect": "[起動メイン]\n[レストにする]\n自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "尤里孤儿院",
+    "effectZh": "[启动主]\n[横置]\n从自己的牌库上方查看 1 张，并将其置于自己牌库的上方或下方。",
+    "triggerZh": "[获取]\n将这张卡加入手札。"
+  }
+}

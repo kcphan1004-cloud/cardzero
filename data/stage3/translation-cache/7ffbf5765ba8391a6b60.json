@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:39.922Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7ffbf5765ba8391a6b60",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-099"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "身…を…捨てて…こそ…浮かぶ…瀬も…あれっ！",
+    "effect": "カードを2枚引く。自分の場に\n[トリガー]\nを持たないカードが4枚以上ある場合、さらにカードを1枚引く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "弃身……方能浮上！濑也……啊！！！",
+    "effectZh": "抽两张牌。若你场上有 4 张或以上的无 [Trigger] 的卡片，则再抽一张牌。",
+    "triggerZh": "[Active]\n选择你场上的角色卡并将其激活，本回合 BP+3000"
+  }
+}

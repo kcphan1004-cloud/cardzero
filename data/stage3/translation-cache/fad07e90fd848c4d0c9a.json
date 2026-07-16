@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:54.382Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fad07e90fd848c4d0c9a",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-072"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "澤村 大地",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、別のラインに移動させる。その後、そのキャラがエナジーLにあり、アクティブの場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "泽村 大地",
+    "effectZh": "[登场时]\n选择自己场上的一张角色并移动至其他线路。之后，若该角色位于能量线且处于激活状态，抽一张牌。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

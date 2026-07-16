@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:50:04.568Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cf230d2673c62609ee00",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-010"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "玄武",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[紫]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玄武",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本回合中，此角色的发生能量+\n[紫]。\n主阶段结束时，将此角色退场。",
+    "triggerZh": ""
+  }
+}

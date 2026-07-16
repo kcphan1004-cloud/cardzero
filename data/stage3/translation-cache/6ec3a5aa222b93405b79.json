@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:36.031Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6ec3a5aa222b93405b79",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-018"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "フー",
+    "effect": "[自分のターン中]\n自分の発生エナジーが7以上ある場合、このキャラはBP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "胡、Foo",
+    "effectZh": "[本回合中]\n若自己产生的能量为 7 或以上，该角色 BP+1000。",
+    "triggerZh": "[激活]\n选择自己的场上的 1 张卡，将其激活，本回合中 BP+3000。"
+  }
+}

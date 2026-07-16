@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:50:27.263Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a647441ae3f70af46360",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/WBK-1-056"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "蘇枋 隼飛",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "蘇枋 隼飛",
+    "effectZh": "[登場時]\n抽1张牌，将手札中一张卡置于场外。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:17:19.002Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bd006dc574b6a63821f6",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-040"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "イサム・ダイソン",
+    "effect": "[登場時]\n自分の場にカード名に「ガルド」を含むキャラがある場合、BP1500以上の相手のフロントLのキャラを1枚まで選び、このターン中、BP-1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊萨姆·戴森",
+    "effectZh": "[登场时]\n若己方场上存在卡名包含「加鲁德」的角色，则选择对方 BP 为 1500 以上的 FRONT L 角色最多 1 张，该回合中其 BP-1000。",
+    "triggerZh": ""
+  }
+}

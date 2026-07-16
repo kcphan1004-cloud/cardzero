@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:37:17.822Z",
+  "model": "qwen3.5:4b",
+  "unitId": "19874403276a7faf568a",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-069"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "楡井 秋彦",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から必要エナジーが3以下の緑のキャラカードを1枚手札に加える。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "楡井 秋彦",
+    "effectZh": "【启动主侧】\n使角色处于横置状态\n将本卡退场\n从手牌中增加能量为3以下的绿色角色卡片一张。",
+    "triggerZh": "【激活】\n选择自己场上的1个角色并使其处于激活状态，本回合BP+3000"
+  }
+}

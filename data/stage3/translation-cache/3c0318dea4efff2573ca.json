@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:07:19.357Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3c0318dea4efff2573ca",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-039"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ヒト型おもちゃ箱",
+    "effect": "カードを2枚引く。自分の手札から必要エナジーが4以下で消費APが1の青の〔〈クフフ〉と〈ツィベタ〉〕をそれぞれ1枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "人形玩具箱",
+    "effectZh": "抽 2 张牌。从手牌中选择必要能量为 4 以下且消耗 AP 为 1 的蓝色〔〈库呼呼〉与〈茨贝塔〉〕各最多 1 枚，以横置状态登场或进行 Raid。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:55:22.341Z",
+  "model": "qwen3.5:9b",
+  "unitId": "99e72b121c9c3b91a0b8",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17BT/TRK-1-086"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "スタージュン",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "斯塔·琼",
+    "effectZh": "[登场时]\n抽一张牌，并将自己的手牌中最多选择一张置为场外。",
+    "triggerZh": "[激活]\n从自己场上的角色中选择一张，使其处于激活状态，并在此回合中 BP+3000。"
+  }
+}

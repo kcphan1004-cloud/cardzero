@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:07:42.272Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a181741b5c6ddc600de4",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-039"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "イサベル",
+    "effect": "自分の場の\n[トリガー]\nを持たないカードの枚数により、このキャラは以下の効果を全て得る。\n・3枚以上：このキャラはBP2000以下のキャラにブロックされない。\n・5枚以上：\n[自分のターン中]\nこのキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "伊莎贝尔",
+    "effectZh": "根据自己场上持有的不含［触发］的卡牌数量，该角色获得以下所有效果。\n·3 张以上：该角色不会被 BP 2000 以下的角色阻挡。\n·5 张以上：\n[自己的回合中]\n该角色的 BP+1000。\n\n触发器：无",
+    "triggerZh": ""
+  }
+}

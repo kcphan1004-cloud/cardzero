@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:06:45.235Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d99cdd113ae971316738",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-060"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "月村 手毬",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "月村 手鞠",
+    "effectZh": "",
+    "triggerZh": "[获得]将此卡加入手牌。"
+  }
+}

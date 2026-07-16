@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:27:51.759Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b996a36461ceab71a3b9",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-039"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "居合白禊流",
+    "effect": "『BP2000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈六平 千鉱〉と〔〈座村 イヲリ〉か［特徴：居合白禊流］〕がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "居合白禊流",
+    "effectZh": "选择对手前线 L 的一张角色卡使其离场。若己方场地上有〈六平千鉱〉和〔〈座村イヲリ〉或［特征：居合白禊流］〕，则『BP5000以下』替代之。",
+    "triggerZh": "[特殊]\n选择对手前线 L 的一张角色卡使其离场。"
+  }
+}

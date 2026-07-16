@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:50:30.909Z",
+  "model": "qwen3.5:4b",
+  "unitId": "61c75a575d2ccd1762c1",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-038"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "屈服の時間だ！",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈羽前 京香〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "屈服之时！",
+    "effectZh": "选择对手场上 BP3000 以下的 Front L 角色卡一张，将其离场。若己方场上有〈羽前 京香〉，则改为 BP5000 以下。",
+    "triggerZh": "[特殊]\n选择对手场上的一张 Front L 角色卡，使其离场"
+  }
+}

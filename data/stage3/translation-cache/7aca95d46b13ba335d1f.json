@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:03:07.634Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7aca95d46b13ba335d1f",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-073"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "天空要塞ダモクレス",
+    "effect": "このフィールドは、相手の効果で選ばれない。\n[登場時]\n自分の場のキャラを1枚まで選び、このターン中、「このキャラは相手の効果で選ばれない。」を与える。\n[起動メイン]\n[レストにする]\n自分の場のキャラを1枚選び、このターン中、BP+500。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "天空要塞达莫克勒斯",
+    "effectZh": "本场地，对方效果无法选择\n<将己方场上 1张角色选择至本回合内“此角色不能被对方效果选中”的效果>\n[启动主]<横置><将己方场上一张角色 BP+500>",
+    "triggerZh": "[获取]将此卡加入手札"
+  }
+}

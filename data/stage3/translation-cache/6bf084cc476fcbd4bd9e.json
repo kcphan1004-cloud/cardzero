@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:43.467Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6bf084cc476fcbd4bd9e",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-079"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ラム",
+    "effect": "相手の場に黄か青のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "拉姆",
+    "effectZh": "若对手场地存在黄色或蓝色卡片，将己方手牌中此卡的必要能量\n[紫×1]\n减少。",
+    "triggerZh": ""
+  }
+}

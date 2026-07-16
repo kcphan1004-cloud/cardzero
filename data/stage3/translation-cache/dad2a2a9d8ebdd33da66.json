@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:03:19.160Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dad2a2a9d8ebdd33da66",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-067"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "霊光鏡反衝",
+    "effect": "自分の場外から消費APが1の〈幻海〉を1枚まで手札に加えるか自分の場のキャラにレイドさせる。その後、自分と相手の発生エナジーの数が同じ場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "灵光镜反冲",
+    "effectZh": "最多从自己场外将消耗 AP 为 1 的〈幻海〉加入手牌或给予自己的角色雷击。之后，若己方与对方的发生能量数量相同，则选择自己的一张 AP 卡使其处于激活状态。",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

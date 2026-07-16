@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:31:02.882Z",
+  "model": "qwen3.5:4b",
+  "unitId": "146c89f1e739cc01aba6",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37ST/FMA-1-105"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "マース・ヒューズ",
+    "effect": "[起動メイン]\n[レストにする]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "马斯·休斯",
+    "effectZh": "[启动主] 使〈休息〉\n选择自己场上的其他角色一张，本回合中 BP+1000。",
+    "triggerZh": "[抽牌]\n抽取一张卡片。"
+  }
+}

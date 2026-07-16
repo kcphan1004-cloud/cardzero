@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:56.407Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0ee9ab28841f315488b6",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-084"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "業火のフレイム",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "業火之炎焰",
+    "effectZh": "本角色处于激活状态时，本角色的发生能量+【红】。",
+    "triggerZh": ""
+  }
+}

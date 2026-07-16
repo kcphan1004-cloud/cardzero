@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:52:30.830Z",
+  "model": "qwen3.5:9b",
+  "unitId": "922c7af5d618d8442b98",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-070",
+    "UA23BT/AOT-1-070"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ハンネス",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "汉尼斯",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 以下的任意一张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

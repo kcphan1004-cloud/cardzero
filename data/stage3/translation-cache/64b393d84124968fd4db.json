@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:24:23.253Z",
+  "model": "qwen3.5:9b",
+  "unitId": "64b393d84124968fd4db",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-042"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "学者",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場外から〈ガメラ〉を1枚手札に加える。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "学者",
+    "effectZh": "[启动主]\n[横置]\n[使此卡退场]\n从自己场外将一张〈加美拉〉加入手牌。",
+    "triggerZh": ""
+  }
+}

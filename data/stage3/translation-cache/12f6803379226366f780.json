@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:28:30.122Z",
+  "model": "qwen3.5:9b",
+  "unitId": "12f6803379226366f780",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-068"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ニコ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "尼古",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 以下的其中一张返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

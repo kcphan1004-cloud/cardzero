@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:02:20.024Z",
+  "model": "qwen3.5:4b",
+  "unitId": "bb8cabfd8c49ee17f5a7",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-054"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "黒須 圭介",
+    "effect": "[登場時]\n自分の山札の上から2枚見て、［特徴：第四次架南島レイド］を1枚まで場外に置く。残りを望む順で山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "黑须圭介",
+    "effectZh": "[登场时]\n从自己山札上方看2张，将「特征：第四次架南岛雷击」最多1张置于场外，其余按任意顺序放回山札。",
+    "triggerZh": "[激活]\n选择一张自己的场上的角色进行激活，本回合BP+3000"
+  }
+}

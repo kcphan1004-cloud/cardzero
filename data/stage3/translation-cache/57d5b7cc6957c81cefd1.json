@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:31.361Z",
+  "model": "qwen3.5:4b",
+  "unitId": "57d5b7cc6957c81cefd1",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-064"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "軍がやべえ！！",
+    "effect": "カードを2枚引く。その後、自分の手札が2枚の場合、さらにカードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "军部大乱！",
+    "effectZh": "抽2张牌。之后，若你的手札有2张或更多，再额外抽1张牌。",
+    "triggerZh": "[抽取]\n抽1张牌"
+  }
+}

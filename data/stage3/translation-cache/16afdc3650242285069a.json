@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:45.341Z",
+  "model": "qwen3.5:4b",
+  "unitId": "16afdc3650242285069a",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-006"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "今宮 さつき",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[紫]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "今宫 咲子",
+    "effectZh": "若该角色处于激活状态，该角色的发生能量+\n[紫]\\n。",
+    "triggerZh": ""
+  }
+}

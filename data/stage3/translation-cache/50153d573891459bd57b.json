@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:18:11.029Z",
+  "model": "qwen3.5:4b",
+  "unitId": "50153d573891459bd57b",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-078"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "エヴァンゲリオン3号機",
+    "effect": "[登場時]\n自分の場の〈式波・アスカ・ラングレー〉を1枚退場させてもよい。そうした場合、このキャラをアクティブにし、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "EVA 3号机",
+    "effectZh": "[登场时]\n可选择将己方场地上的〈式波·阿斯卡·兰格雷〉退场。如此操作后，本角色激活并抽1张牌。",
+    "triggerZh": ""
+  }
+}

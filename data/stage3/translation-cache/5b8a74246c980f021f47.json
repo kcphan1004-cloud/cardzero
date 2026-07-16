@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:10.710Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5b8a74246c980f021f47",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-004"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "エリス",
+    "effect": "[登場時]\nこのキャラが自分の効果で登場していた場合、このキャラをアクティブにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾莉丝",
+    "effectZh": "[登场时] 若本角色是通过我方效果登场的，则将其激活。",
+    "triggerZh": ""
+  }
+}

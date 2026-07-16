@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:48.625Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d402224ef753b4c32264",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-027"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "CCG本局",
+    "effect": "[ターン1]\n自分の［特徴：CCG］がアタックしてバトルに勝利した時、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "CCG 本部局",
+    "effectZh": "回合数=1，当自己的［特征：CCG］攻击并赢得战斗时，抽取一张牌。",
+    "triggerZh": "获取\n将该卡加入手牌"
+  }
+}

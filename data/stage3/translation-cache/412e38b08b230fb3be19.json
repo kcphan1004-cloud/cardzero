@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:07:22.485Z",
+  "model": "qwen3.5:4b",
+  "unitId": "412e38b08b230fb3be19",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-084"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "八九寺 真宵",
+    "effect": "このカードが自分の効果でリムーブエリアに置かれた時、自分の山札の上から1枚までリムーブエリアに置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "八九寺 真宵",
+    "effectZh": "此卡通过自身效果放置至弃牌区时，从己方牌库上方抽一张并放置于弃牌区。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

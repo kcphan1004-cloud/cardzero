@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:17.880Z",
+  "model": "qwen3.5:4b",
+  "unitId": "987797f8ad8869a0640c",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-024",
+    "UA40BT/REZ-1-024"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エミリア",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾蜜莉亚",
+    "effectZh": "[登场时]若自己场上其他角色的必要能量为 1 以下，则将其中的 1 张角色放回手牌；无法放回时，将本角色放回手牌。",
+    "triggerZh": ""
+  }
+}

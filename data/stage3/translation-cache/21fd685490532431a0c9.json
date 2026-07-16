@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:45.390Z",
+  "model": "qwen3.5:4b",
+  "unitId": "21fd685490532431a0c9",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-024"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "リン・ヤオ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "林瑶",
+    "effectZh": "",
+    "triggerZh": "[激活] 选择自己场上的一张角色并设为激活，本回合 BP+3000。"
+  }
+}

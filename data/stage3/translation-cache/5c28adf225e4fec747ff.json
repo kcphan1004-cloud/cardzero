@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:54:28.625Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5c28adf225e4fec747ff",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-024"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "戸愚呂（弟）",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚退場させてもよい。そうした場合、カードを2枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "户愚吕弟",
+    "effectZh": "[登场时]\n可选择使自己场上的其他角色 1 枚退场。若如此操作，抽 2 张牌。",
+    "triggerZh": ""
+  }
+}

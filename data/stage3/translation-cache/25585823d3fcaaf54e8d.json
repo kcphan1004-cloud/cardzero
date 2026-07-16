@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:15:25.156Z",
+  "model": "qwen3.5:9b",
+  "unitId": "25585823d3fcaaf54e8d",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-005"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "ビリー",
+    "effect": "[自分のターン中]\n自分のフロントLに他の［特徴：UNDER］が2枚以上ある場合、このキャラはBP+1500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "比利",
+    "effectZh": "[在自己的回合中]\n若自己的前线 L 存在两张以上其他［特征：UNDER］卡，则该角色 BP+1500。",
+    "triggerZh": "[激活]\n选择自己场上的一张卡并使其处于激活状态，本回合中 BP+3000。"
+  }
+}

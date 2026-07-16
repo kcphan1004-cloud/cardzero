@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:39:33.520Z",
+  "model": "qwen3.5:4b",
+  "unitId": "98e957fafafbee8d765c",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-014"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "春申君",
+    "effect": "このカードはフロントLに登場できず、フロントLに移動できない。\n[起動メイン]\n[レストにする]\n自分のフロントLの黄のキャラを望む枚数選び、エナジーLに移動させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "春申君",
+    "effectZh": "本卡不能登场至前线 L，也不能移动至前线 L。\n[激活主]\n[横置状态]\n选择你方前线 L 的黄色角色任意数量，将其移动至能量线。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

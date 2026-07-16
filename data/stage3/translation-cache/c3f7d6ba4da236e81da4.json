@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:15:23.693Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c3f7d6ba4da236e81da4",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-082"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "ペッパー",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "胡椒",
+    "effectZh": "【登场时】\n抽 1 张牌并将自己手牌的 1 张置于场外。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

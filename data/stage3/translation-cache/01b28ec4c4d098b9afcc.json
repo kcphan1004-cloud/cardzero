@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:04:06.113Z",
+  "model": "qwen3.5:4b",
+  "unitId": "01b28ec4c4d098b9afcc",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-053"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "戦場ヶ原 ひたぎ",
+    "effect": "[登場時]\n自分の場外から必要エナジーが2以下の〔〈阿良々木 暦〉か〈羽川 翼〉〕を1枚まで手札に加える。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "战场原黑仪",
+    "effectZh": "[登场时] 从自己的场外将必要能量为 2 以下的〔〈阿良々木历〉或〈羽川翼〉〕最多选择 1 张加入手札。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌。"
+  }
+}

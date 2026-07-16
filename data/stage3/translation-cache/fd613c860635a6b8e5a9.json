@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:40:08.103Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fd613c860635a6b8e5a9",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-046"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーバース",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士Birth",
+    "effectZh": "[登场时]\n将自身场上其他角色中能量为 1 以下的卡返回手牌。若无法返回，则将此角色返回手牌。",
+    "triggerZh": ""
+  }
+}

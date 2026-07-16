@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:46.214Z",
+  "model": "qwen3.5:4b",
+  "unitId": "efe176b38e92f83d9261",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-034"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "憩来坂商店街大サバゲ―大会",
+    "effect": "[ターン1]\n自分の場のキャラがアタックしてバトルに勝利した時、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "憩来坂商店街大サバゲ―大会",
+    "effectZh": "[回合 1]\n当己方场上的角色攻击并赢得战斗时，抽一张卡。",
+    "triggerZh": "[获得]\n将此卡加入手札"
+  }
+}

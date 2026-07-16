@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:45.269Z",
+  "model": "qwen3.5:4b",
+  "unitId": "398aa9a049309ed7c0a5",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-020"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ルイジェルド",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "路易杰尔德",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽一张牌"
+  }
+}

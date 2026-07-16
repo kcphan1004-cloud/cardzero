@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:38:14.405Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ffc339708cf18d735ae9",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/MHA-1-018"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "トガヒミコ",
+    "effect": "[起動メイン]\n[ターン1]\nこのキャラはこのターン中、「このキャラがアタックしてバトルに勝利した時、カードを1枚引く。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "トガヒミコ",
+    "effectZh": "[启动主回合]\n在第 1 回合中\n本角色在本回合中获得「当此卡攻击并赢得战斗时，抽卡 1 张。」",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:50:04.641Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e82b4ab44254101e54a0",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-081",
+    "UA31BT/MMM-1-081"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[赤]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐仓杏子",
+    "effectZh": "当此角色处于激活状态时，发生能量+\n[赤]\n。",
+    "triggerZh": ""
+  }
+}

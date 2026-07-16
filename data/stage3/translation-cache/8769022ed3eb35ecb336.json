@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:31:35.823Z",
+  "model": "qwen3.5:9b",
+  "unitId": "8769022ed3eb35ecb336",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-008"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "宗森 葵太",
+    "effect": "[登場時]\n自分の場の他の［特徴：七煌星団］を1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "宗森 葵太",
+    "effectZh": "[登场时]\n选择自己场上其他的［特征：七煌星团］最多1张，本回合中，BP+1000。",
+    "triggerZh": "[抽牌]\n抽1张牌。"
+  }
+}

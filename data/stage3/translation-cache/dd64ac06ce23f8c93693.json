@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:10.045Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dd64ac06ce23f8c93693",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-071"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "マリー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分の場の他のキャラを1枚選び、このターン中、BP+1000。このカードを手札に戻す。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "玛丽",
+    "effectZh": "【启动主卡槽】\n[横置]\n[第 1 次发动]\n选择己方场上的一个角色，本家回合内 BP+1000。将该卡片放回手牌。\n\n[抽牌]",
+    "triggerZh": "【抽取】\n从牌库上方抽取一张卡牌。"
+  }
+}

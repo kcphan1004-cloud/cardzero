@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:37:54.383Z",
+  "model": "qwen3.5:9b",
+  "unitId": "48949f8392c623a64e58",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-074"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "田中 龍之介",
+    "effect": "[登場時]\n自分のフロントLのアクティブのキャラを1枚選び、エナジーLに移動させてもよい。そうした場合、BP3500以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "田中 龙之介",
+    "effectZh": "[登场时]\n选择自己前线 L 的一张激活角色并移动至能量线亦可。若如此操作，则最多选择对手前线 L 的 BP3500 以下的角色一张并将其退场。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

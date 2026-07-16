@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:23:36.030Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0621a4d53e7dded52c7f",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-016"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ヨキ",
+    "effect": "[相手のターン中]\n[フロントLにある場合]\n〈ヨキ〉以外の自分の場のキャラは、「相手はイベントカードの効果でこのキャラを選ぶ際に、追加で自身の手札を1枚場外に置かないと選べない。」を得る。〈ヨキ〉のこの効果は重複しない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "约基、Yoki",
+    "effectZh": "[对手回合中]\n[若位于前线 L 时]\n除「约基」外的自己场上的角色获得效果：「当对手的事件卡选择该角色时，必须额外将自身手札中的 1 张置于场外。」。此效果不重复生效。",
+    "triggerZh": ""
+  }
+}

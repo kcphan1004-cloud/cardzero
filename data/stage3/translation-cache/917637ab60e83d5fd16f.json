@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:35:18.831Z",
+  "model": "qwen3.5:9b",
+  "unitId": "917637ab60e83d5fd16f",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-061"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "二口 堅治",
+    "effect": "[退場時]\n自分の場のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "二口坚治",
+    "effectZh": "[退场时]\n选择自身场地上的最多 1 枚角色，使其本回合中 BP+1000。",
+    "triggerZh": ""
+  }
+}

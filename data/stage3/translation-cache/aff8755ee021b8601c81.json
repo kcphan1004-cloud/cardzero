@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:30.817Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aff8755ee021b8601c81",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-AP01",
+    "UA54BT/MST-1-AP02",
+    "UA54BT/MST-1-AP03",
+    "UA54BT/MST-1-AP04",
+    "UA54BT/MST-1-AP05",
+    "UA54BT/MST-1-AP06",
+    "UA54BT/MST-1-AP07",
+    "UA54BT/MST-1-AP08",
+    "UA54BT/MST-1-AP09",
+    "UA54BT/MST-1-AP10",
+    "UA54BT/MST-1-AP11",
+    "UA54BT/MST-1-AP12"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "アクションポイントカード(無職転生 ～異世界行ったら本気だす～)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点数卡（无职转生 ～开始异世界生活～）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

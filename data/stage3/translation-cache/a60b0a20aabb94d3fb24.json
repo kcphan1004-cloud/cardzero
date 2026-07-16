@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:36:50.919Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a60b0a20aabb94d3fb24",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-098"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリアのミサイル",
+    "effect": "BP3000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛利亚的导弹",
+    "effectZh": "选择对方前线 L 的一名 BP3000 以下的角色使其退场。",
+    "triggerZh": ""
+  }
+}

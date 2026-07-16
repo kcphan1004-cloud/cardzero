@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:12.429Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fb5c65efba05bd158562",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-019"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "シド・カゲノー",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、インパクトを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "西德·卡格诺尔",
+    "effectZh": "[无效冲击]\n（本回合与本角色战斗的角色，失去冲击）",
+    "triggerZh": "[激活]\n选择己方场上的 1 张角色进行激活，本回合 BP+3000"
+  }
+}

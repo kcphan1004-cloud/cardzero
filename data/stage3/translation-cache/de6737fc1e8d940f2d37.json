@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:15:07.812Z",
+  "model": "qwen3.5:9b",
+  "unitId": "de6737fc1e8d940f2d37",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-018"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "四ノ宮 キコル",
+    "effect": "場にあるこのカードは必要エナジーを\n[黄×3]\nとしても扱う。\n[自分のターン中]\n同じラインに必要エナジーが3の他のキャラがある場合、このキャラはBP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "四之宫 基库尔",
+    "effectZh": "场上的这张卡作为必要能量 [黄×3]。\n[自己的回合中]\n同一线有另一张必要能量为 3 的其他角色时，该角色的 BP+500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

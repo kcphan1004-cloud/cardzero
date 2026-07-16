@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:10:28.647Z",
+  "model": "qwen3.5:9b",
+  "unitId": "67718fe931bd89b26bcb",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-049",
+    "UA21BT/YYH-1-049"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "コエンマ",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[緑]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "小阎王",
+    "effectZh": "当此角色处于激活状态时，该角色的产生能量 +[绿]。",
+    "triggerZh": ""
+  }
+}

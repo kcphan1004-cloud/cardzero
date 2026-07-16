@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:33:48.315Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5cd7622e79f48fb9d090",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-013"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "薬膳 楠莉",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "药膳 楠莉",
+    "effectZh": "【登场时】\n抽 1 张牌，将自己的手牌 1 张置入场外。",
+    "triggerZh": "【抽】\n抽 1 张牌。"
+  }
+}

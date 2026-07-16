@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:27:41.884Z",
+  "model": "qwen3.5:9b",
+  "unitId": "d4eb4089188bfec2e182",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-021"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "夜久 衛輔",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[ブロック時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+500。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "夜久 卫辅",
+    "effectZh": "[无效化冲击]\n（与本角色进行战斗的角色在本场战斗中失去\n[冲击]）\n[阻挡时]\n选择自己场上最多一张其他角色，使其本回合中BP+500。",
+    "triggerZh": ""
+  }
+}

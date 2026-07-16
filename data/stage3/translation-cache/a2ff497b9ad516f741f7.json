@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:27:00.044Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a2ff497b9ad516f741f7",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-057"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "シエル",
+    "effect": "[退場時]\n以下から1つ選ぶ。\n・カードを2枚引き、自分の手札を1枚場外に置く。\n・カードを1枚引く。自分のターン中の場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "谢尔",
+    "effectZh": "[退场时]\n从以下中选择 1 个。\n•抽 2 张牌，将手牌的任意 1 张置于场外。\n•抽 1 张牌。若在自己的回合中，选择最多 1 张自己的 AP 卡并激活。",
+    "triggerZh": "[Draw]\n抽 1 张牌。"
+  }
+}

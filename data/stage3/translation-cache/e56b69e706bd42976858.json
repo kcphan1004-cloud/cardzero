@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:59.765Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e56b69e706bd42976858",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-049",
+    "UA42BT/MGS-1-049"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 メメ",
+    "effect": "[2回ブロック]\n（このキャラがこのターン初めてブロックした時、アクティブにする）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "忍野 メメ",
+    "effectZh": "[两次阻挡]\n（此角色首次进行阻挡时，将其激活）",
+    "triggerZh": "[抽取]\n抽 1 张卡。"
+  }
+}

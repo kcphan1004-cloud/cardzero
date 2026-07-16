@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:09:07.894Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c8611233d1fc100fd0f1",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-078"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "深海王",
+    "effect": "自分と相手のライフの合計が4以下の場合、このキャラはBP+1000と\n[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）を得る。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "深海王",
+    "effectZh": "自己和对手的生命值合计为 4 以下的情况下，该角色获得 BP+1000 和\n[冲击无效]\n（与该角色战斗的角色在本战斗中失去\n[冲击]）。",
+    "triggerZh": "[抽牌]抽取一张卡片。"
+  }
+}

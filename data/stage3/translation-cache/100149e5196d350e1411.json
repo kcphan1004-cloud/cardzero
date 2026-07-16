@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:28.456Z",
+  "model": "qwen3.5:4b",
+  "unitId": "100149e5196d350e1411",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-070"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "卯月 清彦",
+    "effect": "[登場時]\n自分の場に［特徴：神奈備］が4枚以上ある場合、BP2500以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卯月 清彦",
+    "effectZh": "[登场时]若自己场上拥有［特征：神奈备］4张以上，选择对手前线线上BP在2500以下的角色最多一张并使其横置。",
+    "triggerZh": ""
+  }
+}

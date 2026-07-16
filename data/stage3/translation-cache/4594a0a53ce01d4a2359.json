@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:02.328Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4594a0a53ce01d4a2359",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-096"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "エル・ミーニャ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ベアトリス〉がある場合、『BP4000以下』に代わる。自分の場に〈ベアトリス〉と〈ナツキ・スバル〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "埃尔·米涅瓦",
+    "effectZh": "选择对手场上正面线角色一张，使其离场。<br>若己方场上有「Beatrice」，则改为『BP 4000以下』<br>若己方场上有「Beatrice」与「Natsume Subaru」，则改为『BP 5000以下』",
+    "triggerZh": "[特殊]<br>选择对手场上正面线角色一张，使其离场"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:54.617Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2442bc04757d148616f0",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-073"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "ガロウ",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "古路",
+    "effectZh": "",
+    "triggerZh": "[激活]选择位于场上的角色1名并使其激活，本回合BP+3000。"
+  }
+}

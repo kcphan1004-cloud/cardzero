@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:39.385Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4f091aa9064ecaf9042d",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-036"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "あの人に追いつきたい",
+    "effect": "カードを3枚引き、自分の手札を2枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "想追上那个人",
+    "effectZh": "抽3张牌，将2张自己的手札放置到场外。",
+    "triggerZh": "[激活] 选择自己场上的1张卡进行激活，本回合BP+3000"
+  }
+}

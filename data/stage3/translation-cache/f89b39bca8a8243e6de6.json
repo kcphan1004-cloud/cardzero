@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:06.544Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f89b39bca8a8243e6de6",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-060"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "パワー",
+    "effect": "[登場時]\n自分の場に〈デンジ〉がある場合、カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "力量",
+    "effectZh": "[登场时] 若自己的场上有〈电次〉，则抽一张牌。",
+    "triggerZh": "[抽牌]\n抽一张牌"
+  }
+}

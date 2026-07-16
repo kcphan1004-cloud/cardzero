@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:45:33.018Z",
+  "model": "qwen3.5:9b",
+  "unitId": "558cb14197b8282241a9",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-071"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エレン・クルーガー",
+    "effect": "[起動メイン]\n[レストにする]\n[このカードを退場させる]\n自分の場に〈グリシャ・イェーガー〉がある場合のみ発動できる。カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "艾伦·克鲁格",
+    "effectZh": "[启动主]\n[横置]\n[将此卡退场]\n仅在自己场上有〈格里沙·耶格尔〉时才能发动。抽 2 张牌，将手牌中的 1 张放入场外。",
+    "triggerZh": ""
+  }
+}

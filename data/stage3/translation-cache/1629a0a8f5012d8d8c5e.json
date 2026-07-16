@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:38:59.619Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1629a0a8f5012d8d8c5e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-032"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "爆弾",
+    "effect": "BP3500以下の相手のフロントLのキャラを1枚まで選び、手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "炸弹",
+    "effectZh": "从对方前线 LBP3500 以下的角色中选择最多 1 张并将其返回手牌。",
+    "triggerZh": ""
+  }
+}

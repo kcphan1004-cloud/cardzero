@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:18:50.627Z",
+  "model": "qwen3.5:9b",
+  "unitId": "7fa5a2ade80a9f38c882",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-031"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "保科 宗四郎",
+    "effect": "[レイド]\n〈保科 宗四郎〉アクティブにし、フロントLに移動できる\nこのキャラはBP3000以下のキャラにブロックされない。\n[登場時]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "保科宗四郎",
+    "effectZh": "【Raid】\n将〈保科宗四郎〉激活并移动至前线 L。\n该角色不会被 BP 3000 以下的角色阻挡。\n[登场时]\n抽 1 张牌。",
+    "triggerZh": "【Get】\n将此卡加入手牌。"
+  }
+}

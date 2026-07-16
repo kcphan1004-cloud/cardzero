@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:46.215Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c237b1801638d911cb14",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-035"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本商店",
+    "effect": "[起動メイン]\n[レストにする]\n[手札を1枚場外に置く]\n元々のBPが3500以下の自分の場の特徴に「坂本商店」を持つキャラを1枚選び、アクティブにする。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "坂本商店",
+    "effectZh": "[启动主] 将状态变为横置\n把手札的一张卡放到场外\n选择拥有「坂本商店」特征的己方场上角色一张，将其激活（该角色的原始 BP 为 3500 以下）。",
+    "triggerZh": "[获得]\n将此卡加入手札"
+  }
+}

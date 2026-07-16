@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:56.259Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1b27a59a18ef161df83f",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-041"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "664",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "664",
+    "effectZh": "[登场时]\n将你的场上其他需要能量为1或以下的角色卡放回你的手牌中。如果无法这样做，则将此角色卡放回你的手牌中。",
+    "triggerZh": ""
+  }
+}

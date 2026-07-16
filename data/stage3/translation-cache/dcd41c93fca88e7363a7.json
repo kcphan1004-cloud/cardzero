@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:37.292Z",
+  "model": "qwen3.5:4b",
+  "unitId": "dcd41c93fca88e7363a7",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-046"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "緋村 剣心",
+    "effect": "[起動メイン]\n[手札を1枚場外に置く]\n[ターン1]\nこのキャラはこのターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "绯村 剑心",
+    "effectZh": "[启动主]\n[将手牌一张置于场外]\n[回合一]\n本角色在本回合中BP+1000。",
+    "triggerZh": "[激活]\n选择己方场上的一张角色，使其进入激活状态，并令其在本回合中BP+3000。"
+  }
+}

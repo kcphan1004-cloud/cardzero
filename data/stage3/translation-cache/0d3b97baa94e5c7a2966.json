@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:30:07.626Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0d3b97baa94e5c7a2966",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-010"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "佐倉 杏子",
+    "effect": "相手の場に紫か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[黄×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "佐仓 杏子",
+    "effectZh": "若对方的场上存在紫色或红色的卡片，则减少手牌中此卡片的必要能量。\n[黄×1]",
+    "triggerZh": ""
+  }
+}

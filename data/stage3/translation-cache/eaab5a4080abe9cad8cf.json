@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:20:18.507Z",
+  "model": "qwen3.5:4b",
+  "unitId": "eaab5a4080abe9cad8cf",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-108"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "特務機関NERV",
+    "effect": "[登場時]\n自分の手札を1枚場外に置いてもよい。そうした場合、カードを2枚引く。\n[起動メイン]\n[レストにする]\n[このカードを退場させる]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "特务机关 NERV",
+    "effectZh": "[登场时] 可以将自己的手牌一张置于场外。如此操作后，抽两张卡。\n[启动主阶段]\n[将其横置]\n[使其退场]\n抽一张卡。",
+    "triggerZh": ""
+  }
+}

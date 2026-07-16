@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:16:06.880Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4fcc87b10fae2ee92c6c",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-013"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "橘 美花莉",
+    "effect": "",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "橘 美花莉",
+    "effectZh": "",
+    "triggerZh": "[激活]\n选择自己场上的 1 张角色卡，将其设为激活状态，本回合内 BP+3000。"
+  }
+}

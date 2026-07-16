@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:47:26.309Z",
+  "model": "qwen3.5:4b",
+  "unitId": "c41a59f907776e91afac",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-055"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "クルシュ・カルステン",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "克鲁什·卡尔斯坦",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽取1张卡牌"
+  }
+}

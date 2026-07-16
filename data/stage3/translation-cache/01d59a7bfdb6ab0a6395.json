@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:40:31.177Z",
+  "model": "qwen3.5:9b",
+  "unitId": "01d59a7bfdb6ab0a6395",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-045",
+    "EX10BT/AOT-2-023"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "ジーク・イェーガー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "吉克·耶格尔",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将此卡加入手札。"
+  }
+}

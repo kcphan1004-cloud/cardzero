@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:55:37.296Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9a8e905e33e00430dcfb",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-049"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "三島 栄次",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三岛 荣次",
+    "effectZh": "[启动主]\n[变为横置状态]\n[回合一]\n本角色在本回合中生成能量+\n[紫]\n并获得「主阶段结束时，将本角色退场」。",
+    "triggerZh": ""
+  }
+}

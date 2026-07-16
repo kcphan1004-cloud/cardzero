@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:41:58.210Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9c6c968961665af12a27",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-033"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "我 武神 龐煖也",
+    "effect": "自分の山札の下を1枚公開し『手札に加える』。公開したカードが消費APが1の黄の〈龐煖〉の場合、『自分の場にレストで登場させる』に代えてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "我 武神 龐煖也",
+    "effectZh": "公開自己山札下方的一张，并将其加入手牌。若公开之卡为消耗AP为1的黄色〈庞暖〉，则可选择将其置于己方场上横置状态而非激活状态。",
+    "triggerZh": "[抽]\\n抽取一张卡牌"
+  }
+}

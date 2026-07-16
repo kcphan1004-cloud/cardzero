@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:34:33.188Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7ec5a0e79bb70ace8c8e",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-076"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "ナシロ＆クロナ",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "纳什罗&克拉娜",
+    "effectZh": "若对手场上有黄色或紫色的卡，则从手牌中减少本卡的必要能量[红×1]。",
+    "triggerZh": ""
+  }
+}

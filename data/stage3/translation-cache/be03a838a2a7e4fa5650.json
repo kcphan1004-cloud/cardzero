@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:57:53.137Z",
+  "model": "qwen3.5:9b",
+  "unitId": "be03a838a2a7e4fa5650",
+  "seriesSlug": "toriko",
+  "series": "美食的俘虏",
+  "cardNumbers": [
+    "UA17ST/TRK-1-050",
+    "UA17BT/TRK-1-050"
+  ],
+  "source": {
+    "series": "美食的俘虏",
+    "name": "鉄平",
+    "effect": "このキャラがアクティブの場合、このキャラの発生エナジー+\n[青]\n。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铁平",
+    "effectZh": "当该角色处于激活状态时，该角色的产生能量+\n[蓝]。",
+    "triggerZh": ""
+  }
+}

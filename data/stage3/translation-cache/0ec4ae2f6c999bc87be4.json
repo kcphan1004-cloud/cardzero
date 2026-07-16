@@ -1,0 +1,36 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:38:37.263Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0ec4ae2f6c999bc87be4",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-AP01",
+    "UA38BT/WBK-1-AP02",
+    "UA38BT/WBK-1-AP03",
+    "UA38BT/WBK-1-AP04",
+    "UA38BT/WBK-1-AP05",
+    "UA38BT/WBK-1-AP06",
+    "UA38BT/WBK-1-AP07",
+    "UA38BT/WBK-1-AP08",
+    "UA38BT/WBK-1-AP09",
+    "UA38BT/WBK-1-AP10",
+    "UA38BT/WBK-1-AP11",
+    "UA38BT/WBK-1-AP12",
+    "UA01PC/WBK-AP01",
+    "UA01PC/WBK-AP02",
+    "UA01PC/WBK-AP03"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "アクションポイントカード(WIND BREAKER)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（防风少年）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

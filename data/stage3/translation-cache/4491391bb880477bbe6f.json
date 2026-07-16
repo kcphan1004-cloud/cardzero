@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:53:46.825Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4491391bb880477bbe6f",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-020"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "火男",
+    "effect": "[退場時]\n自分の場に〈四乃森 蒼紫〉がある場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "火男",
+    "effectZh": "[退场时] 若己方场上有〈四乃森 苍紫〉，抽一张牌。",
+    "triggerZh": ""
+  }
+}

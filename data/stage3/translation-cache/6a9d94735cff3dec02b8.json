@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:58:45.335Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6a9d94735cff3dec02b8",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-002"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "朝比奈 りん",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・カードを1枚引き、自分の手札を1枚場外に置く。\n・自分のターン中の場合、自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "朝比奈 凛",
+    "effectZh": "[登场时]选择以下一项。\n・抽一张牌，将手札的一张置于场外。\n・若在自己的回合中，可选择场上的其他角色一张，本回合BP+1000。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

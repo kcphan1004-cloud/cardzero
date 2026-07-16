@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:38:23.711Z",
+  "model": "qwen3.5:4b",
+  "unitId": "818274e3655ca89a457e",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-064",
+    "UA21BT/YYH-1-064"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "伊達にあの世は見てねぇぜ！",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "伊达啊那个世界是看着呢！",
+    "effectZh": "选择自己的 AP 卡最多两张，激活它们。",
+    "triggerZh": "[最终]\n若你的生命区域没有生命值，从你牌库上方抽一张放入你的生命区域。"
+  }
+}

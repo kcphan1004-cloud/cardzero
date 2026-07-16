@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:29:28.458Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fa85dbd97b40f0cd00b1",
+  "seriesSlug": "kagurabachi",
+  "series": "神乐钵",
+  "cardNumbers": [
+    "UA46BT/KGR-1-072"
+  ],
+  "source": {
+    "series": "神乐钵",
+    "name": "具柄 一",
+    "effect": "[アタック時]\nこのキャラのBPが4000以上で自分の場に［特徴：神奈備］が4枚以上ある場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "具柄 一",
+    "effectZh": "[攻击时]若该角色的BP在4000以上且自己场上拥有［特征：神奈备］4张以上，抽一张牌并将自己的手札一张置于场外。",
+    "triggerZh": "[抽取]<br>抽一张牌"
+  }
+}

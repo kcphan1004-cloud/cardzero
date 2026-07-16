@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:34:12.715Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3f9e073e057e5d662760",
+  "seriesSlug": "wind-breaker",
+  "series": "防风少年",
+  "cardNumbers": [
+    "UA38BT/WBK-1-025"
+  ],
+  "source": {
+    "series": "防风少年",
+    "name": "蘇枋 隼飛",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から黄の［特徴：ボウフウリン］を1枚まで場外に置く。残りを望む順で自分の山札の上に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "苏枋 隼飞",
+    "effectZh": "登场时,从己方山牌上方查看2张。从中将1张黄色的［特征：风之林］放置至场外，其余按任意顺序放回己方山牌上方。",
+    "triggerZh": "[抽牌]\n抽取一张卡"
+  }
+}

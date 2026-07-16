@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:50:04.643Z",
+  "model": "qwen3.5:9b",
+  "unitId": "561d7b9dfd8002a0ea0c",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31ST/MMM-1-088",
+    "UA31BT/MMM-1-088"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "美樹 さやか",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "美树沙耶香",
+    "effectZh": "[无效冲击]\n（与本角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": "[激活]\n选择自身场上的 1 张卡，使其处于激活状态，并在此回合中 BP+3000。"
+  }
+}

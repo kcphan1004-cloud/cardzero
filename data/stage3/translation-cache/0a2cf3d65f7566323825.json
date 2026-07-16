@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:34:05.505Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0a2cf3d65f7566323825",
+  "seriesSlug": "sword-art-online",
+  "series": "刀剑神域",
+  "cardNumbers": [
+    "UA15BT/SAO-1-026"
+  ],
+  "source": {
+    "series": "刀剑神域",
+    "name": "リーファ（地神テラリア）",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "里法（地神泰拉利亚）",
+    "effectZh": "[冲击无效]（与本角色进行战斗的角色在本战斗中失去 [冲击] 效果）",
+    "triggerZh": ""
+  }
+}

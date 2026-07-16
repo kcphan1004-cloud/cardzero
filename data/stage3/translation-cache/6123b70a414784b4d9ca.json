@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:09:12.376Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6123b70a414784b4d9ca",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42ST/MGS-1-056",
+    "UA42BT/MGS-1-056"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "羽川翼",
+    "effectZh": "[无效冲击]\n（本角色与本回合进行战斗的敌方角色在本战斗中，\n失去 [冲击]）",
+    "triggerZh": "[抽牌]\n从卡组上方抽取一张卡牌。"
+  }
+}

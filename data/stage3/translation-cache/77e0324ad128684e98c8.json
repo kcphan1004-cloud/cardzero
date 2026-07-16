@@ -1,0 +1,53 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:10:18.629Z",
+  "model": "qwen3.5:9b",
+  "unitId": "77e0324ad128684e98c8",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-AP01",
+    "UA27BT/GIM-1-AP02",
+    "UA27BT/GIM-1-AP03",
+    "UA27BT/GIM-1-AP04",
+    "UA27BT/GIM-1-AP05",
+    "UA27BT/GIM-1-AP06",
+    "UA27BT/GIM-1-AP07",
+    "UA27BT/GIM-1-AP08",
+    "UA27BT/GIM-1-AP09",
+    "UA27BT/GIM-1-AP10",
+    "UA27BT/GIM-1-AP11",
+    "UA27BT/GIM-1-AP12",
+    "UA27BT/GIM-1-AP13",
+    "UA27BT/GIM-1-AP14",
+    "UA27BT/GIM-1-AP15",
+    "UA27BT/GIM-1-AP16",
+    "UA27BT/GIM-1-AP17",
+    "UA27BT/GIM-1-AP18",
+    "UA27BT/GIM-1-AP19",
+    "EX13BT/GIM-2-AP01",
+    "EX13BT/GIM-2-AP02",
+    "EX13BT/GIM-2-AP03",
+    "EX13BT/GIM-2-AP04",
+    "EX13BT/GIM-2-AP05",
+    "EX13BT/GIM-2-AP06",
+    "EX13BT/GIM-2-AP07",
+    "EX13BT/GIM-2-AP08",
+    "EX13BT/GIM-2-AP09",
+    "EX13BT/GIM-2-AP10",
+    "EX13BT/GIM-2-AP11",
+    "EX13BT/GIM-2-AP12",
+    "EX13BT/GIM-2-AP13"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "アクションポイントカード(学園アイドルマスター)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (学园偶像大师)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:53:14.752Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4188c2a68e2649339b5e",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23ST/AOT-1-090",
+    "UA23BT/AOT-1-090",
+    "EX10BT/AOT-2-020"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "エレン・イェーガー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "艾伦·耶格尔",
+    "effectZh": "",
+    "triggerZh": "[Get]\n将此卡加入手札。"
+  }
+}

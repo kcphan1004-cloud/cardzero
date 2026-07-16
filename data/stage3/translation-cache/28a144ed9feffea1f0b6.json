@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:18:50.929Z",
+  "model": "qwen3.5:9b",
+  "unitId": "28a144ed9feffea1f0b6",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-089"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "フミヅキ",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[赤]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "富月",
+    "effectZh": "[启动主阶段]\n[横置状态]\n[回合 1]\n该角色本回合中发生能量+\n[赤] \n并获得「主阶段结束时，使此角色退场。」。",
+    "triggerZh": ""
+  }
+}

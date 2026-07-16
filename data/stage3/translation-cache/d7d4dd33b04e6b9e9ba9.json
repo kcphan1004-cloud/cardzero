@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:10:46.145Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d7d4dd33b04e6b9e9ba9",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-026"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "レゼ",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "电锯人：莱泽（激活）",
+    "effectZh": "[登场时]\n抽取一张卡牌，将自己的手牌中一张置于场外。\n[启动主回合]\n选择自己的场上角色卡一张，使其进入激活状态，在本回合给予其BP+3000。",
+    "triggerZh": "[激活]"
+  }
+}

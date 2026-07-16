@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:59:24.467Z",
+  "model": "qwen3.5:9b",
+  "unitId": "2d42fd51dbfcad76af5d",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-025"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "花海 佑芽",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "花海佑芽",
+    "effectZh": "[登场时]\n抽 1 张牌，并将自己的手札中的 1 张放置到场外。",
+    "triggerZh": "[激活状态]\n选择自己场上的角色 1 枚并激活之，本回合中 BP+3000。"
+  }
+}

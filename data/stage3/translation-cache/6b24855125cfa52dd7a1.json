@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:29:19.130Z",
+  "model": "qwen3.5:9b",
+  "unitId": "6b24855125cfa52dd7a1",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-078"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "死閃",
+    "effect": "BP3000以下の相手のフロントLのキャラを1枚選び、退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "死闪",
+    "effectZh": "选择 BP3000 以下的对方 Front L 的角色 1 张，使其退场。",
+    "triggerZh": ""
+  }
+}

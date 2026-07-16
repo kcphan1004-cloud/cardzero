@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:54:28.620Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a047da3c0530b38d6af5",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-019"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "酎",
+    "effect": "このキャラはアクティブで場に登場させる。\n[登場時]\nこのキャラはこのターン中、BP+1000と\n[ダメージ（2）]\nを得る。\n[アタック時]\n相手のエナジーLに空きがない場合、カードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "酎",
+    "effectZh": "此角色登场时激活。\n[登场]\n此角色在本回合中，BP+1000 并获得\n[伤害（2）]。\n[攻击时]\n若对方能量线无空位，抽 1 张牌。",
+    "triggerZh": "[获取]\n将此卡加入手牌"
+  }
+}

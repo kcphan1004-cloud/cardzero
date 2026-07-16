@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:29:25.205Z",
+  "model": "qwen3.5:4b",
+  "unitId": "45fbbba9d32a6bc8c158",
+  "seriesSlug": "my-hero-academia",
+  "series": "我的英雄学院",
+  "cardNumbers": [
+    "UA10ST/MHA-1-061",
+    "UA10BT/MHA-1-061"
+  ],
+  "source": {
+    "series": "我的英雄学院",
+    "name": "八百万 百",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "八百万 百",
+    "effectZh": "[登场时]选择至多1张牌，从牌库上方抽一张。",
+    "triggerZh": ""
+  }
+}

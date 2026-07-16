@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:03:28.299Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3c69e85a798030222c1c",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-043"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 忍",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "忍野 忍",
+    "effectZh": "[登場時]選擇至多1張自己場地的其他角色，本回合 BP+1000。",
+    "triggerZh": "[抽牌]\n從牌庫上方抽取1張牌。"
+  }
+}

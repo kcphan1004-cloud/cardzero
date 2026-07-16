@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:37.495Z",
+  "model": "qwen3.5:4b",
+  "unitId": "881fbbf1fb9e3cc203c4",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/REZ-AP01",
+    "UAPR/REZ-AP01"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(Re:ゼロから始める異世界生活)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡（Re:从零开始的异世界生活）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

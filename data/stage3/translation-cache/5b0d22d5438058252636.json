@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:31:04.404Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5b0d22d5438058252636",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-008"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "鈴屋 什造",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。\n[アタック時]\nこのターン中に相手のキャラが退場している場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铃屋什造",
+    "effectZh": "[登场时]\n抽一张牌，将手札的一张置于场外。\n[攻击时]\n本回合中若对手角色已退场，则抽一张牌，并将手札的一张置于场外。",
+    "triggerZh": ""
+  }
+}

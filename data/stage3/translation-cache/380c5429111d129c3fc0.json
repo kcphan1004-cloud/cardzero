@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:24:58.243Z",
+  "model": "qwen3.5:4b",
+  "unitId": "380c5429111d129c3fc0",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-025"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "リン・ヤオ",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下で消費APが1の黄の［特徴：シン国］を1枚まで自分の場にレストで登場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "林·雅罗",
+    "effectZh": "[登场时] 从自己的手札中，将消耗 AP 为 1、必要能量为 2 以下的黄色的［特征：辛国］最多选择 1 张在自己的场上横置状态登场。",
+    "triggerZh": ""
+  }
+}

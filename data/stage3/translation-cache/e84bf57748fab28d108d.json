@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:25:21.974Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e84bf57748fab28d108d",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-041"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ケイン・フュリー",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "凯恩·弗利尔",
+    "effectZh": "",
+    "triggerZh": "[抽卡]\n抽取 1 张卡。"
+  }
+}

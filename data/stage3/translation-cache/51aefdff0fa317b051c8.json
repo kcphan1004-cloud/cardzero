@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:45:48.841Z",
+  "model": "qwen3.5:4b",
+  "unitId": "51aefdff0fa317b051c8",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-094"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "函谷関",
+    "effect": "[起動メイン]\n[このカードを退場させる]\n自分の場の［特徴：秦］を1枚まで選び、次の自分のターン開始時まで、BP+2000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "函谷关",
+    "effectZh": "[激活主效果]<br/>使本卡退场<br/>选择自己场上的［特征：秦］中的 1 张，直到下一个自己的回合开始时 BP+<strong>2000</strong>。",
+    "triggerZh": "[获取]<br/>将此卡加入手牌。"
+  }
+}

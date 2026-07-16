@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:36.604Z",
+  "model": "qwen3.5:4b",
+  "unitId": "b02e60f55902a7bb73e0",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-011"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "千石 撫子",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "千石 撫子",
+    "effectZh": "[登場時]\n將必要エナジー為1以下的自己場的其它角色最多1張放回手札，無法放回的場合，則將其放回手札。",
+    "triggerZh": ""
+  }
+}

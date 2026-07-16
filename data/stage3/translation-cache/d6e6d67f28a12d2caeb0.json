@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:51.330Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d6e6d67f28a12d2caeb0",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-042"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "金属バット",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "金属棒 (OPM-042)",
+    "effectZh": "",
+    "triggerZh": "[获得]"
+  }
+}

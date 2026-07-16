@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:06:51.326Z",
+  "model": "qwen3.5:4b",
+  "unitId": "beafe82619348ce2d9cb",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-039"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "キング",
+    "effect": "[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引く。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "埼玉 (OPM-039)",
+    "effectZh": "[激活主回合]\n支付 1 AP\n第 1 回合：抽一张牌。",
+    "triggerZh": "[获得]"
+  }
+}

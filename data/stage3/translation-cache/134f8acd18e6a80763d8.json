@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:05:56.252Z",
+  "model": "qwen3.5:4b",
+  "unitId": "134f8acd18e6a80763d8",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-036"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "あなたがもし、本当の私を見つけたら、私を…",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "若你找到真正的我，请……",
+    "effectZh": "选择最多2张你的AP卡并激活它们。",
+    "triggerZh": "[最终]\n如果你的生命值为空，从你的牌库上方抽一张放到你的生命值区域。"
+  }
+}

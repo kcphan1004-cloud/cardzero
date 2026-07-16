@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:06:58.867Z",
+  "model": "qwen3.5:9b",
+  "unitId": "dbed8c738c1b8a7cb62b",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-030"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "灼熱の息吹",
+    "effect": "自分の場に〈タルラ〉がある場合、手札にあるこのカードの消費APを-1する。\n相手のフロントLのキャラを1枚選び、リムーブエリアに置く。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "灼热的呼吸",
+    "effectZh": "若我方场上有〈塔尔拉〉，此手牌卡的消耗 AP 减少 -1。\n选择对方前线 L 的 1 名角色并置入移除区。",
+    "triggerZh": "[特殊]\n选择对方前线 L 的 1 名角色并将其退场。"
+  }
+}

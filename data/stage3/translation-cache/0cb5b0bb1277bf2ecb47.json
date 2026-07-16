@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:14.366Z",
+  "model": "qwen3.5:4b",
+  "unitId": "0cb5b0bb1277bf2ecb47",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-052"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "グラン・カークウェイン",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "格兰·柯克温",
+    "effectZh": "[冲击无效]\n（与本角色战斗的角色在本战斗中失去\n[冲击]）",
+    "triggerZh": ""
+  }
+}

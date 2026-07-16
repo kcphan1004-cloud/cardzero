@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:27:42.111Z",
+  "model": "qwen3.5:4b",
+  "unitId": "60845a4780872ea9f1a7",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/GIM-1-021"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "秦谷 美鈴",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "秦谷 美铃",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张卡片。"
+  }
+}

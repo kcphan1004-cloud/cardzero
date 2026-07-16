@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:11:26.471Z",
+  "model": "qwen3.5:4b",
+  "unitId": "852c2bde3759a2de7c00",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-044"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "コベニ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "コベニ、登场效果：BP 1000 以下，能量线：BP 5000 以下",
+    "effectZh": "若必要能量为 1 以下的己方场地其他角色卡一张可手牌返回。无法返还时，将该角色卡返回至手牌。,",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:28:08.798Z",
+  "model": "qwen3.5:4b",
+  "unitId": "754eff509b014af6de96",
+  "seriesSlug": "hunter-x-hunter",
+  "series": "HUNTER×HUNTER",
+  "cardNumbers": [
+    "UA03ST/HTR-1-108"
+  ],
+  "source": {
+    "series": "HUNTER×HUNTER",
+    "name": "くじら島",
+    "effect": "自分の場に〈ゴン＝フリークス〉がある場合、このフィールドの発生エナジー+\n[緑]\n。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "くじら島",
+    "effectZh": "自己场上存在〈ゴン＝フリークス〉时，本场地产生的能量+\n[绿]。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:13:58.122Z",
+  "model": "qwen3.5:4b",
+  "unitId": "4b570a12d07ab8634430",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-072"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "マッド堀口",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[紫]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "马德堀口",
+    "effectZh": "[启动主阶段]\n[设为横置]第1次发动\n本角色在本回合中获得能量+\n[紫]以及「主阶段结束时，将此角色退场」的效果。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:33:43.879Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b3a7ca3149e8531baf6d",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-AP01",
+    "UA22BT/GMR-1-AP02",
+    "UA22BT/GMR-1-AP03",
+    "UA22BT/GMR-1-AP04",
+    "UA22BT/GMR-1-AP05",
+    "UA22BT/GMR-1-AP06",
+    "UA22BT/GMR-1-AP07",
+    "UA22BT/GMR-1-AP08",
+    "UA22BT/GMR-1-AP09",
+    "UA22BT/GMR-1-AP10"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "アクションポイントカード(GAMERA -Rebirth-)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡 (GAMERA-Rebirth-)",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

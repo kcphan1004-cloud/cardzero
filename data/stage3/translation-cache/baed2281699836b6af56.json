@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:45:39.979Z",
+  "model": "qwen3.5:4b",
+  "unitId": "baed2281699836b6af56",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-031"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "鬼の力",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈レム〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "鬼之力",
+    "effectZh": "选择对手的前线 L 的角色卡 1 张并使其退场。如果自己的场上有〈蕾姆〉，则变为 BP5000 以下。\n\n[特殊]\n选择对手的前线 L 的角色卡 1 张并使其退场。",
+    "triggerZh": "[特殊]"
+  }
+}

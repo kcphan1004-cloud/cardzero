@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:12:21.508Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1b5b98972d1b8332a2fc",
+  "seriesSlug": "chainsaw-man",
+  "series": "链锯人",
+  "cardNumbers": [
+    "UA53BT/CSM-1-065"
+  ],
+  "source": {
+    "series": "链锯人",
+    "name": "姫野",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n自分のエナジーLのカードを1枚選び、アクティブにする。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "姬野",
+    "effectZh": "[启动主] [横置状态]\n[第 1 次发动]\n选择己方能量 L 的一张卡进行激活。",
+    "triggerZh": "[颜色]\n选择敌方 BP2500 以下的 frontal L 的一个角色，使其退场。"
+  }
+}

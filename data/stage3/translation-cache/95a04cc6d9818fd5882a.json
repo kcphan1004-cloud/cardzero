@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:43:11.403Z",
+  "model": "qwen3.5:9b",
+  "unitId": "95a04cc6d9818fd5882a",
+  "seriesSlug": "100-girlfriends",
+  "series": "超超超超超喜欢你的100个女朋友",
+  "cardNumbers": [
+    "UA26BT/RLY-1-044"
+  ],
+  "source": {
+    "series": "超超超超超喜欢你的100个女朋友",
+    "name": "院田 唐音",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "院田唐音",
+    "effectZh": "",
+    "triggerZh": "[抽]\n抽 1 张牌。"
+  }
+}

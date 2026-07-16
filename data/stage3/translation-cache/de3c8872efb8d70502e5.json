@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:41:33.923Z",
+  "model": "qwen3.5:9b",
+  "unitId": "de3c8872efb8d70502e5",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-049"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "仮面ライダーエグゼイド アクションゲーマー レベル1",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのキャラはこのターン中、発生エナジー+\n[青]\nと「メインフェイズ終了時、このキャラを退場させる。」を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "假面骑士Ex-Aid 动作玩家 Lv.1",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n本角色在本回合中，发生能量+\n[蓝]\n并获得「主阶段结束时，使此角色退场。」。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:21:08.781Z",
+  "model": "qwen3.5:9b",
+  "unitId": "45a5999bcbaa7610475b",
+  "seriesSlug": "arknights",
+  "series": "明日方舟",
+  "cardNumbers": [
+    "UA30BT/ARK-1-094"
+  ],
+  "source": {
+    "series": "明日方舟",
+    "name": "リン",
+    "effect": "[フロントLにある場合]\nこのキャラがレストの場合、〈リン〉以外の自分のフロントLのキャラは、相手のキャラの効果で選ばれない。\n[自分のターン中]\nエンドフェイズにこのキャラをアクティブにしなくてもよい。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "林",
+    "effectZh": "【当前位于前线 L】\n若该角色处于横置状态，则除〈林〉以外的我方其他前线 L 的角色不会被对方角色的效果选中。\n【在自己的回合中】\n结束阶段无需将该角色激活。",
+    "triggerZh": "抽牌"
+  }
+}

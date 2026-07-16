@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:59:52.655Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5b0408a87dc44d914857",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-092"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "明神 弥彦",
+    "effect": "自分の場にカードが1枚もない場合、手札にあるこのカードの必要エナジーを\n[赤×2]\n減らす。\n[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "明神 弥彦",
+    "effectZh": "若己方场上无牌，则从手牌中消耗本卡的必要能量 [红×2]。\n[阶段]\n（可于己方的移动阶段将前线 L 移至能量 L）",
+    "triggerZh": "[激活]\n选择己方场上的角色一张并使其激活，该回合 BP+3000。"
+  }
+}

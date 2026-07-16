@@ -1,0 +1,33 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:14:39.531Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ebc11d6be7f7b81547dd",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-AP01",
+    "UA24BT/SHY-1-AP02",
+    "UA24BT/SHY-1-AP03",
+    "UA24BT/SHY-1-AP04",
+    "UA24BT/SHY-1-AP05",
+    "UA24BT/SHY-1-AP06",
+    "UA24BT/SHY-1-AP07",
+    "UA24BT/SHY-1-AP08",
+    "UA24BT/SHY-1-AP09",
+    "UA24BT/SHY-1-AP10",
+    "UA24BT/SHY-1-AP11",
+    "UA24BT/SHY-1-AP12"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "アクションポイントカード（SHY）",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（SHY）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

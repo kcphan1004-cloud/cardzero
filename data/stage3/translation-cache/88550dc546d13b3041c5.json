@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:23:31.773Z",
+  "model": "qwen3.5:9b",
+  "unitId": "88550dc546d13b3041c5",
+  "seriesSlug": "2-5-dimensional-seduction",
+  "series": "2.5次元的诱惑",
+  "cardNumbers": [
+    "UA33BT/NGR-1-047"
+  ],
+  "source": {
+    "series": "2.5次元的诱惑",
+    "name": "ノノア",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "诺诺亚",
+    "effectZh": "【退场时】\n抽1张牌。",
+    "triggerZh": ""
+  }
+}

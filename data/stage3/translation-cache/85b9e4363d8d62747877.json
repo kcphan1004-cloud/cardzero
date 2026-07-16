@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:19:51.008Z",
+  "model": "qwen3.5:4b",
+  "unitId": "85b9e4363d8d62747877",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44ST/EVA-1-100",
+    "UA44BT/EVA-1-100"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "笑えばいいと思うよ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "笑えばいいと思うよ",
+    "effectZh": "将我方 AP 卡片最多 2 张,\n设为激活状态",
+    "triggerZh": "[最终],\n若我方生命值为空，则从我方牌库上方抽取 1 张，放置至我方生命区。"
+  }
+}

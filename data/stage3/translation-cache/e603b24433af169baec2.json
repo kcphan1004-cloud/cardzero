@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:50:52.948Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e603b24433af169baec2",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40ST/REZ-1-029",
+    "UA40BT/REZ-1-029"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "E・M・T",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "E・M・T",
+    "effectZh": "选择己方 AP 卡最多 2 张，将其激活。",
+    "triggerZh": "[最终]\n若己方生命值为零，则从己方牌库上方抽一张置于己方生命区。"
+  }
+}

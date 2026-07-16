@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:32:07.100Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6c7c9d90a445803480b4",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47BT/TKG-1-019"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "瓜江 久生",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。\n[起動メイン]\n[APを1支払う]\n[ターン1]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "瓜江久生",
+    "effectZh": "[登场时] 抽一张牌，将手札的一张置于场外。\n[激活主]\n支付1 AP\n[回合1] 抽一张牌，将手札的一张置于场外。",
+    "triggerZh": "[触发] 抽一张牌。"
+  }
+}

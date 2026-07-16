@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:27:44.989Z",
+  "model": "qwen3.5:9b",
+  "unitId": "91caa4eda6fbbefeede7",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-076"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "特訓",
+    "effect": "自分のフロントLのアクティブのキャラを1枚レストにする。そうした場合、カードを3枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "特训",
+    "effectZh": "将前线 L 的横置状态的角色中的 1 枚变为休息状态。如此操作时，抽 3 张牌。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

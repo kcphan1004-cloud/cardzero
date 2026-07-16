@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:21:43.076Z",
+  "model": "qwen3.5:4b",
+  "unitId": "df65dd5fcf32ef8f628f",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36ST/MCR-1-059",
+    "UA36BT/MCR-1-059"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "ルカ・アンジェローニ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "卢卡·安杰罗尼",
+    "effectZh": "[登场时]<br>将必要能量为 1 或以下的自己场上的其他角色一张送回手牌。无法送回时，将此角色送回手牌。",
+    "triggerZh": ""
+  }
+}

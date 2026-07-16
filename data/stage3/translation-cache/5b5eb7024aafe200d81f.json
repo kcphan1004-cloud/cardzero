@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:17:11.347Z",
+  "model": "qwen3.5:4b",
+  "unitId": "5b5eb7024aafe200d81f",
+  "seriesSlug": "evangelion",
+  "series": "新世纪福音战士",
+  "cardNumbers": [
+    "UA44BT/EVA-1-047"
+  ],
+  "source": {
+    "series": "新世纪福音战士",
+    "name": "北上 ミドリ",
+    "effect": "相手の場に黄か赤のカードがある場合、手札にあるこのカードの必要エナジーを\n[紫×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "北上 ミドリ",
+    "effectZh": "当对手场区存在黄或赤卡时，将手牌中本卡的必要能量减少[紫×1]。",
+    "triggerZh": ""
+  }
+}

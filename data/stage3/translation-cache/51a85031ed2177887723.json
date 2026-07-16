@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:25:55.754Z",
+  "model": "qwen3.5:9b",
+  "unitId": "51a85031ed2177887723",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-052"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ジョー",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\nこのターン中、このキャラの発生エナジー+\n[緑]\n。メインフェイズ終了時、このキャラを退場させる。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "乔",
+    "effectZh": "[启动主阶段]\n[横置状态]\n[回合 1]\n本回合中，该角色的发生能量+\n[绿]\n。主阶段结束时，将该角色退场。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:06:42.829Z",
+  "model": "qwen3.5:4b",
+  "unitId": "83a69266fdbafeb7cbe3",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-043"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "666",
+    "effect": "このカードは〈ローズ・オリアナ〉としても扱う。\n[退場時]\n自分の山札の上から2枚まで場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "666",
+    "effectZh": "本卡可当作〈玫瑰·奥莉安娜〉使用。\n[离场时]\n从自己的牌库上方最多选择 1 张，置于场外。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张并使其激活，本场中 BP+3000。"
+  }
+}

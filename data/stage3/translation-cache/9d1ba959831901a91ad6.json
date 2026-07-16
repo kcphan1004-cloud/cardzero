@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:44:13.225Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9d1ba959831901a91ad6",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-066"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "龍指",
+    "effect": "BP5000以下の相手のフロントLのキャラを1枚選び、『手札に戻す』。自分の場に〈王賁〉がある場合、『退場させる』に代えてもよい。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "龙指",
+    "effectZh": "选择BP 5000以下的对手前线L的角色最多1张，将其『回到手牌』。若场上有〈王贲〉，也可改为「让其退场」。",
+    "triggerZh": "[特殊]\n选择对手的 frontline L 角色一张，使其退场"
+  }
+}

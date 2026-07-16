@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:00:29.289Z",
+  "model": "qwen3.5:4b",
+  "unitId": "89fc40b9485fbb1ec1dc",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41ST/RNK-1-078",
+    "UA41BT/RNK-1-078"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "三条 燕",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "三条燕",
+    "effectZh": "[登场时] 将必要能量为 1 或以下的场上的其他一张卡回复到手札中；若无法回复，则将此角色回复到手札中。",
+    "triggerZh": ""
+  }
+}

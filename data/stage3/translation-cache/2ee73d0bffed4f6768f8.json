@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:03:45.199Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2ee73d0bffed4f6768f8",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-003"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "アウロラ",
+    "effect": "[起動メイン]\n裏向きのカードが下にない自分の場の〈クレア・カゲノー〉を1枚選び、そのキャラの下にこのキャラを裏向きで置く。そうした場合、カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾罗拉",
+    "effectZh": "[启动主阶段]\n选择自己场上没有背面朝上卡的〈克莱·卡格诺〉一张，将该角色以背面朝上的状态置于该角色下方。如此操作时，抽两张牌，将手牌中一张置入场外。",
+    "triggerZh": "[抽牌]\n抽一张牌。"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:31.984Z",
+  "model": "qwen3.5:4b",
+  "unitId": "29dfc4b9ad94e824d271",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/JJK-AP04",
+    "UAPR/JJK-AP01",
+    "UAPR/JJK-AP02",
+    "UAPR/JJK-AP03",
+    "UAPR/JJK-AP04",
+    "UAPR/JJK-AP05"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(呪術廻戦)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "动作点卡（咒术回战）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

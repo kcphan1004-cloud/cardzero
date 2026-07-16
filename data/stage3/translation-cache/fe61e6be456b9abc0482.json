@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:08:25.980Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fe61e6be456b9abc0482",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-097"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "蕩れ",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈戦場ヶ原 ひたぎ〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "蕩れ",
+    "effectZh": "选择敌方 BP3000 以下的正面 L 位角色一张并使其离场。若己方场地上有〈战场地原 姬路〉，则改为「BP5000以下」。",
+    "triggerZh": "[特殊]\n选择敌方正面 L 位角色一张并使其离场"
+  }
+}

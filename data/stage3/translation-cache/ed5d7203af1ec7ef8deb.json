@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:38:00.961Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ed5d7203af1ec7ef8deb",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-045"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "暁美 ほむら",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "晓美焰",
+    "effectZh": "[无效化冲击]（与该角色进行战斗的角色在本场战斗中失去 [冲击]）",
+    "triggerZh": "[抽卡]\n抽一张牌。"
+  }
+}

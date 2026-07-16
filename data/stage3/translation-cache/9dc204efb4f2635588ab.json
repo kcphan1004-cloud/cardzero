@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:11:26.132Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9dc204efb4f2635588ab",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-075"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "此岸より彼岸へ愛を込めて",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "此岸至彼岸，倾注爱意",
+    "effectZh": "选择最多 2 张自己的 AP 卡并激活它们。",
+    "triggerZh": "[最终]\n若自己没有生命值，则从自己牌库上方放置 1 张到自己的生命区域。"
+  }
+}

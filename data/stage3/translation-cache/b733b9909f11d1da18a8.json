@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:49:23.135Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b733b9909f11d1da18a8",
+  "seriesSlug": "madoka-magica",
+  "series": "魔法少女小圆",
+  "cardNumbers": [
+    "UA31BT/MMM-1-099"
+  ],
+  "source": {
+    "series": "魔法少女小圆",
+    "name": "そんなの、あたしが許さない",
+    "effect": "自分の場に〈佐倉 杏子〉がある場合、手札にあるこのカードの消費APを-1する。\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "那种事、我不允许",
+    "effectZh": "若自己场上有〈佐仓杏子〉，此卡在手牌中的消耗 AP-1。\n选择 BP5000 以下的对方前线 L 的角色最多 1 张，使其退场。",
+    "triggerZh": "[特殊]\n选择对方的前线 L 角色 1 张，使其退场。"
+  }
+}

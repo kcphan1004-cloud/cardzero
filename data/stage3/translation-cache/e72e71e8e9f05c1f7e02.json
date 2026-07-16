@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:21:43.125Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e72e71e8e9f05c1f7e02",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/BCV-1-074"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アスタ",
+    "effect": "このキャラの下に裏向きのカードがある場合、このキャラはBP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿斯达",
+    "effectZh": "若该角色下方有背向的卡片，则 BP+1000。",
+    "triggerZh": ""
+  }
+}

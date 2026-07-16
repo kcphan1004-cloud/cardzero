@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:48:40.374Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8361763aa4e0f09545f0",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-010"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "東 日万凛",
+    "effect": "[フロントLにある場合]\nこのキャラのアタック終了時、このキャラをエナジーLに移動させてもよい。そうした場合、カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "东 日万凛",
+    "effectZh": "当此角色位于前线上时，于该角色的攻击结束时，可将其移动至能量线。如此操作后，抽一张牌，并将己方手札中的一张置于场外。",
+    "triggerZh": "[抽取]\n抽一张牌"
+  }
+}

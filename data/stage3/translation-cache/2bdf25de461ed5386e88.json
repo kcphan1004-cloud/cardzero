@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:03:28.301Z",
+  "model": "qwen3.5:4b",
+  "unitId": "2bdf25de461ed5386e88",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-044"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "忍野 忍",
+    "effect": "[自分のターン中]\n自分の場に〈阿良々木 暦〉がある場合、このキャラはBP+500。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "忍野 忍",
+    "effectZh": "[本家回合]\n若己方场上存在〈阿良々木 暦〉，则此角色 BP+500。",
+    "triggerZh": "[激活]\n选择己方场上的 1 张卡进行激活，于本回合中 BP+3000。"
+  }
+}

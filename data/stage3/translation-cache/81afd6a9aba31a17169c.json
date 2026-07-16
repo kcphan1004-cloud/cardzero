@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T01:03:18.900Z",
+  "model": "qwen3.5:9b",
+  "unitId": "81afd6a9aba31a17169c",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-042"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "アーサー・ペンシルゴン",
+    "effect": "[登場時]\n自分の場のキャラ全ては、このターン中、BP+500。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "亚瑟·铅笔贡",
+    "effectZh": "[登场时]\n自己场上的所有角色本回合中 BP+500。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

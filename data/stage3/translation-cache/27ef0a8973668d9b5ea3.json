@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:10.710Z",
+  "model": "qwen3.5:4b",
+  "unitId": "27ef0a8973668d9b5ea3",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-003"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "エリス",
+    "effect": "自分の場に〈ルーデウス〉と〈ルイジェルド〉がある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "艾莉丝",
+    "effectZh": "当场上存在「鲁德乌斯」和「路易杰尔德」时，本角色的 BP+1000。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取 1 张牌"
+  }
+}

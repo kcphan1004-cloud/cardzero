@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:25:01.006Z",
+  "model": "qwen3.5:9b",
+  "unitId": "639da1ccd6b5b9397408",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-046"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "トキオ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "东京",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将这张卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:19:50.916Z",
+  "model": "qwen3.5:9b",
+  "unitId": "fb5c1e92b0428d290e0e",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-034"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "A6ランク黒毛和牛 霜降りコース",
+    "effect": "自分の場のキャラ全ては、このターン中、BP+500。カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "A6 级黑毛和牛霜降套餐",
+    "effectZh": "自己场上的所有角色在本回合中，BP+500。\n抽入 2 张牌，并将自己的手牌置入场外至多 1 枚。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色并使其激活，本回合中 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:50:04.565Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bc8473a44773cfcc5157",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-007"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "鴉",
+    "effect": "[起動メイン]\n[レストにする]\n[ターン1]\n相手のフロントLにBP2000以下のキャラがある場合のみ発動できる。カードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "鸦",
+    "effectZh": "[启动主]\n[横置]\n[回合 1]\n仅当对方前线 L 有 BP2000 以下的角色时才能发动。抽 1 张牌，将手札中的 1 张置于场外。",
+    "triggerZh": "[激活]\n选择自己场上的 1 名角色并激活之，本回合中，BP+3000。"
+  }
+}

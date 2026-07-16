@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:40:08.103Z",
+  "model": "qwen3.5:9b",
+  "unitId": "cfea40c491b0253c772d",
+  "seriesSlug": "kamen-rider",
+  "series": "假面骑士",
+  "cardNumbers": [
+    "UA29BT/KMR-1-047"
+  ],
+  "source": {
+    "series": "假面骑士",
+    "name": "バース・デイ",
+    "effect": "[起動メイン]\n[ターン1]\nこのターン中、次に手札から使用する〈セルメダル〉の消費APを-1する。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "Birth Day",
+    "effectZh": "[启动 Main]\n[回合 1]\n本回合中，下次从手牌使用的〈Cell Medal〉的消耗 AP-1。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚并激活，本回合中 BP+3000。"
+  }
+}

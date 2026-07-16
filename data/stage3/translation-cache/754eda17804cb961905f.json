@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:17:10.135Z",
+  "model": "qwen3.5:4b",
+  "unitId": "754eda17804cb961905f",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-069"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "プルセナ",
+    "effect": "[登場時]\n自分の山札の上から1枚見て、山札の上か場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "普塞娜",
+    "effectZh": "［登场时］\n翻开自己牌库上方 1 张卡，置于牌库上方或场外。",
+    "triggerZh": ""
+  }
+}

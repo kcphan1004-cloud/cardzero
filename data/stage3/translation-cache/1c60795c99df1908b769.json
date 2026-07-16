@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:16:22.014Z",
+  "model": "qwen3.5:9b",
+  "unitId": "1c60795c99df1908b769",
+  "seriesSlug": "nikke",
+  "series": "胜利女神：妮姬",
+  "cardNumbers": [
+    "UA18BT/NIK-1-088"
+  ],
+  "source": {
+    "series": "胜利女神：妮姬",
+    "name": "マクスウェル",
+    "effect": "[登場時]\n自分の場の他のキャラを1枚まで選び、このターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "麦克斯韦",
+    "effectZh": "[登场时]\n最多选择己方场上的其他角色 1 枚，本回合 BP+1000。",
+    "triggerZh": "[激活]\n选择自己场上的角色 1 枚，使其激活，本回合 BP+3000。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:16:54.774Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3aaf048f34e04921e046",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21ST/YYH-1-112"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "飛影",
+    "effect": "[登場時]\nこのターン中に自分がイベントカードを使用している場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "飞影",
+    "effectZh": "【登场时】\n本回合中若自己使用了事件卡则抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

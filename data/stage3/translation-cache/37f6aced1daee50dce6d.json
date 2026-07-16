@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:01:49.846Z",
+  "model": "qwen3.5:4b",
+  "unitId": "37f6aced1daee50dce6d",
+  "seriesSlug": "solo-leveling",
+  "series": "我独自升级",
+  "cardNumbers": [
+    "UA51BT/SLG-1-043"
+  ],
+  "source": {
+    "series": "我独自升级",
+    "name": "水篠 葵",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "水篠 葵",
+    "effectZh": "[登场时] \n抽一张牌，并将手札中的一张置于场外。",
+    "triggerZh": "[激活]\n选择你场上的一张角色，将其激活，并在本回合中 BP+3000。"
+  }
+}

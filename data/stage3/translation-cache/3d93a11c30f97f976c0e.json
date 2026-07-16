@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:36.226Z",
+  "model": "qwen3.5:4b",
+  "unitId": "3d93a11c30f97f976c0e",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-029"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "陸 少糖",
+    "effect": "このキャラはレイド状態のキャラにブロックされない。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "陆少糖",
+    "effectZh": "该角色不会被处于雷击状态的角色阻挡。",
+    "triggerZh": ""
+  }
+}

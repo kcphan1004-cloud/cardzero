@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:27:44.527Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f1a296d24c31cd84fc46",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-070"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "ゾルフ・J・キンブリー",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "索尔·J·金布利",
+    "effectZh": "",
+    "triggerZh": "[获得]\n将此卡加入手札。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:24:12.000Z",
+  "model": "qwen3.5:9b",
+  "unitId": "c6648b9c20172ff29ba0",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-001"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "強羅 昌己",
+    "effect": "[登場時]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、レストにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "强罗 昌己",
+    "effectZh": "【登场时】\n选择 BP3000 以下的对方前线 L 的角色至多 1 枚，将其横置。",
+    "triggerZh": "【抽牌】\n抽 1 张牌。"
+  }
+}

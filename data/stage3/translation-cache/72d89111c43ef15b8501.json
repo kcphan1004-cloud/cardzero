@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:48:40.373Z",
+  "model": "qwen3.5:4b",
+  "unitId": "72d89111c43ef15b8501",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-009"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "東 日万凛",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "東 日万凛",
+    "effectZh": "[升场时]（在己方移动阶段，可从前线线向能量线移动）",
+    "triggerZh": ""
+  }
+}

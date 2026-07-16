@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:15:19.610Z",
+  "model": "qwen3.5:4b",
+  "unitId": "49ab8a77377599d86981",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-024"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "ルーデウス",
+    "effect": "[自分のターン中]\n自分の場に〈ロキシー〉がある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "鲁德乌斯·乌勒尔",
+    "effectZh": "【在自己的回合中】\n如果自己的场上有〈罗克希〉，本角色 BP+1000。",
+    "triggerZh": "【抽牌】\n从牌库上方抽取 1 张牌。”}]}"
+  }
+}

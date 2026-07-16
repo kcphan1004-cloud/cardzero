@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:11:57.788Z",
+  "model": "qwen3.5:4b",
+  "unitId": "55b04d81937662c82b60",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35ST/OPM-1-003",
+    "UA35BT/OPM-1-003"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "キング",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "超人王",
+    "effectZh": "[登场时] 将自身场上其他角色中能量为1或以下的角色一张放回手牌。若无法将其放回，则将此角色放回手牌。",
+    "triggerZh": ""
+  }
+}

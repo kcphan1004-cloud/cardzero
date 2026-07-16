@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:46:20.633Z",
+  "model": "qwen3.5:4b",
+  "unitId": "85301cc3a631428cc4cf",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-050"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "レム",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で山札の上に置き、残りを場外に置く。",
+    "trigger": "[カラー]\nBP3500以下の相手のフロントLのキャラを1枚選び、手札に戻す。"
+  },
+  "translation": {
+    "nameZh": "蕾姆",
+    "effectZh": "[登场时]\n从己方牌库上方看2张卡。从中按任意顺序放置任意数量的卡片至己方牌库上方，其余弃置场外。",
+    "triggerZh": "[颜色] 选择对手场上FRONT L的BP为3500以下的角色1张并放回手牌。"
+  }
+}

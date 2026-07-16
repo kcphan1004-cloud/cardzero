@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:42:25.308Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ac783b3918d74e0fbdd3",
+  "seriesSlug": "attack-on-titan",
+  "series": "进击的巨人",
+  "cardNumbers": [
+    "UA23BT/AOT-1-050"
+  ],
+  "source": {
+    "series": "进击的巨人",
+    "name": "アニ・レオンハート",
+    "effect": "[登場時]\nカードを1枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "阿尼·莱昂哈特",
+    "effectZh": "[登场时]\n抽牌 1 张，将手牌中 1 张置于场外。",
+    "triggerZh": "[Draw]\n抽牌 1 张。"
+  }
+}

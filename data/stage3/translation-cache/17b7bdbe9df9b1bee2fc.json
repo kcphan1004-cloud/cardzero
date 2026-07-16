@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T13:55:41.483Z",
+  "model": "qwen3.5:4b",
+  "unitId": "17b7bdbe9df9b1bee2fc",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-014"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "江間 メイ",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "江间 美",
+    "effectZh": "",
+    "triggerZh": "[激活] \n将此卡加入手牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:54.613Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d5df35e01611a6f4fb3a",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-069"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "音速のソニック",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[ターン1]\n自分の場外にあるカードを3枚リムーブエリアに置く。そうした場合、このキャラはこのターン中、BP+1000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "音速索尼克",
+    "effectZh": "[横置]（本回合中，可从前线L向能量线移动）\n[激活主战]\n[第1回合]\n将位于场外的卡片3张放置至移除区。如此操作后，该角色在本回合BP+1000。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:23:34.588Z",
+  "model": "qwen3.5:4b",
+  "unitId": "f3d3ebe6d7a16d67e4c1",
+  "seriesSlug": "to-love-ru",
+  "series": "出包王女",
+  "cardNumbers": [
+    "UA45BT/TLR-1-068"
+  ],
+  "source": {
+    "series": "出包王女",
+    "name": "モモ・ベリア・デビルーク",
+    "effect": "[登場時]\n自分の場に〈ナナ・アスタ・デビルーク〉がある場合、カードを1枚引く。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "贝利亚·德比鲁克 桃井",
+    "effectZh": "[登场时]\n若自己的场上存在「七夜·阿斯塔·德比鲁克」，抽1张牌。",
+    "triggerZh": "[颜色]\n选择对手BP2500以下的Front L的1张角色并使其退场。"
+  }
+}

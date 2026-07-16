@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:02:17.584Z",
+  "model": "qwen3.5:4b",
+  "unitId": "376e97fac2ecb5c76b0d",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-027"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "蛇切縄",
+    "effect": "[登場時]\n自分の手札の〈千石 撫子〉を1枚場外に置いてもよい。そうした場合、カードを1枚まで引く。\n[退場時]\nBP5000以下の相手のフロントLのキャラを1枚まで選び、退場させる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "蛇切绳",
+    "effectZh": "[登场时]<br>将自己的手札最多选择 1 张〈千石 抚子〉置于场外。如此操作，抽取最多 1 张卡。<br>[离场时]<br>选择对方的 Front L 侧 BP5000 以下的角色最多 1 张并使其离场。",
+    "triggerZh": "[特殊]<br>选择对方 Front L 侧的角色最多 1 张并使其离场"
+  }
+}

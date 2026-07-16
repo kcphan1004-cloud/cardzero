@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:33:56.452Z",
+  "model": "qwen3.5:9b",
+  "unitId": "af372d49f038567750cc",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-086"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "シエル",
+    "effect": "[登場時]\n自分の場の〈カナタ〉を1枚まで選び、アクティブにする。",
+    "trigger": "[カラー]\nBP2500以下の相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "西尔",
+    "effectZh": "[登场时]\n选择自己场上的〈神田〉最多一张并激活。",
+    "triggerZh": "[颜色]\n选择 BP2500 以下的对方前线 L 的角色的任意一张，使其退场。"
+  }
+}

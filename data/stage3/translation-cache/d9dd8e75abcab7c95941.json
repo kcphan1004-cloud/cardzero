@@ -1,0 +1,23 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:36:38.534Z",
+  "model": "qwen3.5:4b",
+  "unitId": "d9dd8e75abcab7c95941",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPR/KMY-AP01",
+    "UAPR/KMY-AP02"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "アクションポイントカード(鬼滅の刃)",
+    "effect": "",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "行动点卡（鬼灭之刃）",
+    "effectZh": "",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:19:29.302Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4a5a3db5d9d115074e4e",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-014"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "ギロン",
+    "effect": "[アタック時]\nこのターン中に自分の場のキャラが相手プレイヤーにダメージを与えている場合、このキャラはこのターン中、BP+1000。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "吉龙",
+    "effectZh": "【攻击时】\n本回合中，若自己的前线角色对对手玩家造成了伤害，则该角色在本回合中 BP+1000。",
+    "triggerZh": "【激活】\n选择自己前线的 1 张角色卡并使其处于激活状态，该角色在本回合中 BP+3000。"
+  }
+}

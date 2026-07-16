@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:25:39.295Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a6d9813c48d21c0f07d",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-064"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "古橋 伊春",
+    "effect": "",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "古桥 伊春",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

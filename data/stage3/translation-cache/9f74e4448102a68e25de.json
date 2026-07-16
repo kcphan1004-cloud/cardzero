@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:17:05.651Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9f74e4448102a68e25de",
+  "seriesSlug": "kaiju-no",
+  "series": "kaiju-no",
+  "cardNumbers": [
+    "UA28BT/KJ8-1-022"
+  ],
+  "source": {
+    "series": "kaiju-no",
+    "name": "伐虎",
+    "effect": "[登場時]\n自分の場のキャラを1枚まで選び、別のラインに移動させる。",
+    "trigger": "[カラー]\n相手のフロントLのキャラを1枚選び、レストにする。それは次の1回アクティブにならない。"
+  },
+  "translation": {
+    "nameZh": "伐虎",
+    "effectZh": "[登场时]\n选择自己场上的角色至多 1 枚，将其移动到其他战线。",
+    "triggerZh": "[颜色]\n选择对方前线 L 的角色 1 枚并将其横置。该角色在下次激活前不会进入激活状态。"
+  }
+}

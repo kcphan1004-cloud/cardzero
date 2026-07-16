@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:02:49.033Z",
+  "model": "qwen3.5:4b",
+  "unitId": "1edadc3e26d4567ec04a",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-064"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "ノーランド・フォン・リューネベルク",
+    "effect": "[インパクト無効]\n（このキャラとバトルをしたキャラはこのバトル中、\n[インパクト]\nを失う）\n[登場時]\n自分の場外から〈ロキ〉を2枚まで自分の場にレストで登場させる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "诺兰德·冯·吕内贝格",
+    "effectZh": "[无效冲击]\n（与该角色进行战斗的角色在本战斗中失去\n[冲击]\n）\n[登场时]\n从己方场外将〈洛克〉最多2张以横置状态置于场上。",
+    "triggerZh": "[获取]\n将此卡加入手牌。"
+  }
+}

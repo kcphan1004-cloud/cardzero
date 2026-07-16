@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:13.044Z",
+  "model": "qwen3.5:4b",
+  "unitId": "8d972621f45cfa49512c",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-001"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "阿良々木 暦",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・カードを1枚引き、自分の手札を1枚場外に置く。\n・自分の場のフィールドを1枚退場させてもよい。そうした場合、カードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿良々木 历",
+    "effectZh": "[登场时]从以下选项中选1项。\n・抽取1张卡片，并将自己的手牌1张置入场外。\n・可将自己场上的区域1个退场。如此可抽取1张卡片。",
+    "triggerZh": ""
+  }
+}

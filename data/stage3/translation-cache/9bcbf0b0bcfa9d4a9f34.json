@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:59:24.468Z",
+  "model": "qwen3.5:9b",
+  "unitId": "9bcbf0b0bcfa9d4a9f34",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-026"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "花海 佑芽",
+    "effect": "このキャラのBPが4000以上の場合、このキャラは\n[インパクト（1）]\n（アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "花海佑芽",
+    "effectZh": "当该角色的 BP 为 4000 以上时，该角色获得\n[Impact（1）]\n（攻击并赢得战斗时，对对手玩家造成 1 点伤害）。",
+    "triggerZh": ""
+  }
+}

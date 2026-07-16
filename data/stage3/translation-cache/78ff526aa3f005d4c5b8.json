@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:14:45.268Z",
+  "model": "qwen3.5:4b",
+  "unitId": "78ff526aa3f005d4c5b8",
+  "seriesSlug": "mushoku-tensei",
+  "series": "无职转生",
+  "cardNumbers": [
+    "UA54BT/MST-1-019"
+  ],
+  "source": {
+    "series": "无职转生",
+    "name": "リーリャ",
+    "effect": "[登場時]\n必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "蕾莉亚",
+    "effectZh": "[登场时]\n将必要能量为 1 以下的自己场上其他角色一张回手札。无法返还时，将该角色回手札。",
+    "triggerZh": ""
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T00:57:18.075Z",
+  "model": "qwen3.5:9b",
+  "unitId": "bc3295f6349e03d4cc71",
+  "seriesSlug": "shangri-la-frontier",
+  "series": "香格里拉·开拓异境",
+  "cardNumbers": [
+    "UA32BT/SNF-1-011"
+  ],
+  "source": {
+    "series": "香格里拉·开拓异境",
+    "name": "ヴァイスアッシュ",
+    "effect": "[登場時]\n自分か相手のフロントLのキャラを1枚まで選び、このターン中、元々の効果を全て失わせる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "白灰",
+    "effectZh": "[登场时]\n选择自己或对方前线L的角色最多1枚，使其本回合失去所有原本效果。",
+    "triggerZh": "[抽取]\n抽1张牌。"
+  }
+}

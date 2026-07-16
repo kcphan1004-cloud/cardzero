@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T23:01:53.701Z",
+  "model": "qwen3.5:9b",
+  "unitId": "ce8a68792b45cbd657f2",
+  "seriesSlug": "gakuen-idolmaster",
+  "series": "学园偶像大师",
+  "cardNumbers": [
+    "UA27BT/GIM-1-043"
+  ],
+  "source": {
+    "series": "学园偶像大师",
+    "name": "有村 麻央",
+    "effect": "[登場時]\n自分の山札の上から2枚見る。その中から望む枚数を望む順で自分の山札の上に置き、残りを望む順で下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "有村麻央",
+    "effectZh": "[登场时]\n查看自己牌库上方的 2 张卡。从中选择任意数量的卡按任意顺序放回自己牌库上方，其余的也按任意顺序放回下方。",
+    "triggerZh": "[抽牌]\n抽 1 张牌。"
+  }
+}

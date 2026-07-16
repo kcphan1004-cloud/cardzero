@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:54:24.879Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a0db79ebc97fa846ece9",
+  "seriesSlug": "rurouni-kenshin",
+  "series": "浪客剑心",
+  "cardNumbers": [
+    "UA41BT/RNK-1-032"
+  ],
+  "source": {
+    "series": "浪客剑心",
+    "name": "逆刃刀・真打",
+    "effect": "自分の場の〈緋村 剣心〉を1枚選び、このターン中、BP+2000。自分のAPカードを1枚まで選び、アクティブにする。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "逆刃刀・真打",
+    "effectZh": "选择自己场上的【绯村 剑心】1张，本回合中BP+2000。选择自己的AP卡最多1张并激活之。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取1张卡牌"
+  }
+}

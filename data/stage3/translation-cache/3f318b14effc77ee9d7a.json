@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:01:50.351Z",
+  "model": "qwen3.5:9b",
+  "unitId": "3f318b14effc77ee9d7a",
+  "seriesSlug": "shy",
+  "series": "SHY 腼腆英雄",
+  "cardNumbers": [
+    "UA24BT/SHY-1-006"
+  ],
+  "source": {
+    "series": "SHY 腼腆英雄",
+    "name": "ナタリア",
+    "effect": "[登場時]\n自分の場の〈スピリッツ〉を1枚まで選び、このターン中、BP+2000。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "娜塔莉亚",
+    "effectZh": "[登场时]\n选择自己场上的 1 张〈精灵〉，直到本回合为止，BP+2000。",
+    "triggerZh": ""
+  }
+}

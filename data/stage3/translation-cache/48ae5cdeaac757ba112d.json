@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:01:49.298Z",
+  "model": "qwen3.5:4b",
+  "unitId": "48ae5cdeaac757ba112d",
+  "seriesSlug": "monogatari-series",
+  "series": "物语系列",
+  "cardNumbers": [
+    "UA42BT/MGS-1-017"
+  ],
+  "source": {
+    "series": "物语系列",
+    "name": "羽川 翼",
+    "effect": "[登場時]\n自分の手札から必要エナジーが2以下の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "羽川翼",
+    "effectZh": "[登场时]\n从手牌中选择最多一张所需能量为 2 或以下的黄色角色卡，以横置状态登场至自己的场上。",
+    "triggerZh": "[抽牌]\n抽取一张卡片。"
+  }
+}

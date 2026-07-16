@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:07:17.123Z",
+  "model": "qwen3.5:4b",
+  "unitId": "51868dc96493bc1b9245",
+  "seriesSlug": "eminence-in-shadow",
+  "series": "我想成为影之强者！",
+  "cardNumbers": [
+    "UA52BT/KJN-1-054"
+  ],
+  "source": {
+    "series": "我想成为影之强者！",
+    "name": "アルファ",
+    "effect": "[登場時]\n自分の山札の上から3枚見て、［特徴：七陰］を1枚まで公開し手札に加える。残りを望む順で山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "阿尔法牌组，选择至多 1 张",
+    "effectZh": "[登场时]\n从自己的卡组上方看 3 张，公开［特征：七阴］最多 1 张加入手札。剩余的按任意顺序置于自己卡组的下方。\n若将卡片加入手札，则将自己手札中的 1 张牌置于场外。",
+    "triggerZh": ""
+  }
+}

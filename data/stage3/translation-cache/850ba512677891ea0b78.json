@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:44.757Z",
+  "model": "qwen3.5:4b",
+  "unitId": "850ba512677891ea0b78",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/TLR-1-049"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "西連寺 春菜",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "西连寺 春菜",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n将此卡片加入手札。"
+  }
+}

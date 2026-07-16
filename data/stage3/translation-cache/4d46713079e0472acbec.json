@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:23:48.770Z",
+  "model": "qwen3.5:9b",
+  "unitId": "4d46713079e0472acbec",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-036"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリア",
+    "effect": "[登場時]\n以下から1つ選ぶ。\n・自分の場外から特徴に「メイガス」か「クレイドルコフィン」を持つキャラカードを1枚まで手札に加える。\n・カードを2枚引き、自分の手札を1枚場外に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "玛利亚",
+    "effectZh": "[登场时]\n从以下效果中选择 1 个。\n·从自己场外选择最多 1 张具有特征“魔法师”或“摇篮棺”的角色卡加入手牌。\n·抽 1 张牌，将 1 张自己的手牌置入场外。",
+    "triggerZh": "[抽取]\n抽 1 张牌。"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:19:01.642Z",
+  "model": "qwen3.5:4b",
+  "unitId": "e2244ddfe772338a4bc2",
+  "seriesSlug": "macross",
+  "series": "超时空要塞",
+  "cardNumbers": [
+    "UA36BT/MCR-1-067"
+  ],
+  "source": {
+    "series": "超时空要塞",
+    "name": "リン・ミンメイ",
+    "effect": "[ステップ]\n（自分の移動フェイズにフロントLからエナジーLへ移動できる）\n[起動メイン]\n[フロントLにある場合]\n[ターン1]\n自分の場の他のキャラ全ては、このターン中、BP+1000。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "琳·明美",
+    "effectZh": "[阶段]\n（可从前线L移动至能量L）\n[启动主回合]\n[若处于前线L中]\n[第1回合]\n己方场地上所有其他角色，本回合内BP+1000。",
+    "triggerZh": "[获取]\n将该卡片加入手札"
+  }
+}

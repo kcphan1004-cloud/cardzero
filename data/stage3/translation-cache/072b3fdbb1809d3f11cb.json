@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:01:33.573Z",
+  "model": "qwen3.5:4b",
+  "unitId": "072b3fdbb1809d3f11cb",
+  "seriesSlug": "code-geass-roze",
+  "series": "Code Geass 夺还的罗赛",
+  "cardNumbers": [
+    "UA34BT/CGD-1-037"
+  ],
+  "source": {
+    "series": "Code Geass 夺还的罗赛",
+    "name": "機体提供",
+    "effect": "自分の場外から必要エナジーが3以下の黄の［特徴：KMF］を2枚まで自分の場にレストで登場させるかレイドさせる。",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "机体提供",
+    "effectZh": "从手牌选择至多 2 张黄色的［特征：KMF］，若其所需能量为 3 或以下，则将其置于场上横置状态登场（可发动雷击）.",
+    "triggerZh": "[抽卡]\n将这张卡片加入手牌。"
+  }
+}

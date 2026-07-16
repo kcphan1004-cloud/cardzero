@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:43:35.169Z",
+  "model": "qwen3.5:4b",
+  "unitId": "7143b9f33f425cfe3e3a",
+  "seriesSlug": "kinnikuman",
+  "series": "筋肉人",
+  "cardNumbers": [
+    "UA39BT/KIN-1-075"
+  ],
+  "source": {
+    "series": "筋肉人",
+    "name": "キン肉バスター",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈キン肉マン〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "金肉爆破者",
+    "effectZh": "选择对手『BP3000 以下』的角色卡一张，使其退场。若自己的场上存在〈金肉人〉，则替换为『BP5000 以下』。",
+    "triggerZh": "[特殊] \n选择对手的 frontline L 中的角色卡一张，使其退场"
+  }
+}

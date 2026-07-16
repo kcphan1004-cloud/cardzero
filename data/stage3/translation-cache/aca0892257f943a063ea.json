@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:53:22.381Z",
+  "model": "qwen3.5:4b",
+  "unitId": "aca0892257f943a063ea",
+  "seriesSlug": "chained-soldier",
+  "series": "魔都精兵的奴隶",
+  "cardNumbers": [
+    "UA49BT/MSS-1-076"
+  ],
+  "source": {
+    "series": "魔都精兵的奴隶",
+    "name": "天御鳥命",
+    "effect": "『BP3000以下』の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈出雲 天花〉がある場合、『BP5000以下』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "天御鸟命",
+    "effectZh": "选择对手场上 BP 值在 3000 以下的 Front L 角色 1 张，将其退场。\n若己方场上持有〈出云天花〉，则替换为 BP 5000以下。",
+    "triggerZh": "[特殊]\n选择对手的 Front L 角色 1 张，使其退场。"
+  }
+}

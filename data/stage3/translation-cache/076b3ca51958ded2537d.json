@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T16:19:44.754Z",
+  "model": "qwen3.5:4b",
+  "unitId": "076b3ca51958ded2537d",
+  "seriesSlug": "series-570901",
+  "series": "未识别系列 570901",
+  "cardNumbers": [
+    "UAPB/TLR-1-011"
+  ],
+  "source": {
+    "series": "未识别系列 570901",
+    "name": "結城 美柑",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "结城 美柑",
+    "effectZh": "",
+    "triggerZh": "[抽牌]\n将此卡片加入手札。"
+  }
+}

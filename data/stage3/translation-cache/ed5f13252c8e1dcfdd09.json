@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:14:09.729Z",
+  "model": "qwen3.5:4b",
+  "unitId": "ed5f13252c8e1dcfdd09",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-074"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "ORDER",
+    "effect": "自分の山札の上から5枚見る。その中から［特徴：ORDER］を2枚まで公開し手札に加える。残りを望む順で山札の下に置く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "命令",
+    "effectZh": "从自己的牌库上方看 5 张。从中公开至多 2 张［特征：ORDER］并加入手札。将剩余的按任意顺序置于自己牌库下方。",
+    "triggerZh": "[抽]\\n抽取一张卡"
+  }
+}

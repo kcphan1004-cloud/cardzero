@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:11:23.998Z",
+  "model": "qwen3.5:4b",
+  "unitId": "9452a185da5b6ebaf30a",
+  "seriesSlug": "sakamoto-days",
+  "series": "坂本日常",
+  "cardNumbers": [
+    "UA43BT/SMD-1-022"
+  ],
+  "source": {
+    "series": "坂本日常",
+    "name": "坂本 太郎",
+    "effect": "[自分のターン中]\n自分の場に［特徴：坂本商店］のカード名が3種類以上ある場合、このキャラはBP+1000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "坂本 太郎",
+    "effectZh": "[激活状态] \n若己方场上存在［特征：坂本商店］的卡牌名称种类达到3种或以上，该角色BP+1000。",
+    "triggerZh": "[抽牌]\n从牌库上方抽取一张牌。"
+  }
+}

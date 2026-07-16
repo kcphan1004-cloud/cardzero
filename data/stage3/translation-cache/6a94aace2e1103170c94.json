@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:48:08.676Z",
+  "model": "qwen3.5:4b",
+  "unitId": "6a94aace2e1103170c94",
+  "seriesSlug": "re-zero",
+  "series": "Re:从零开始的异世界生活",
+  "cardNumbers": [
+    "UA40BT/REZ-1-072"
+  ],
+  "source": {
+    "series": "Re:从零开始的异世界生活",
+    "name": "ベアトリス",
+    "effect": "",
+    "trigger": "[ゲット]\nこのカードを手札に加える。"
+  },
+  "translation": {
+    "nameZh": "贝阿特丽斯",
+    "effectZh": "",
+    "triggerZh": "[获取]\n将该卡加入手札。"
+  }
+}

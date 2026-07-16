@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T22:17:15.356Z",
+  "model": "qwen3.5:9b",
+  "unitId": "0572d0adef3a117ab1ac",
+  "seriesSlug": "undead-unluck",
+  "series": "不死不幸",
+  "cardNumbers": [
+    "UA25BT/AND-1-017"
+  ],
+  "source": {
+    "series": "不死不幸",
+    "name": "アンディ",
+    "effect": "[起動メイン]\n[フロントLにある場合]\n[ターン1]\nこのキャラの下に裏向きのカードがあり、このキャラがアクティブの場合のみ発動できる。カードを1枚引く。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "安迪",
+    "effectZh": "[启动主效果]\n[位于前线 L 时]\n[回合 1]\n仅在该角色下方有背面朝上的卡片且该角色处于激活状态时可发动。抽牌。\n[Draw]\n抽牌。",
+    "triggerZh": "[Draw]\n抽牌。"
+  }
+}

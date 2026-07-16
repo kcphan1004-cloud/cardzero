@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:29:38.036Z",
+  "model": "qwen3.5:9b",
+  "unitId": "b681ce9aec912c2e970f",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-066"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "我もだ",
+    "effect": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "trigger": "[ファイナル]\n自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。"
+  },
+  "translation": {
+    "nameZh": "我也如此",
+    "effectZh": "选择至多 2 张自己的 AP 卡，使其激活。",
+    "triggerZh": "[最终]\n若自己没有生命值，从自己牌库上方放置 1 枚到自己的生命值区域。"
+  }
+}

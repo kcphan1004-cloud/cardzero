@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:40:34.049Z",
+  "model": "qwen3.5:4b",
+  "unitId": "fd8ac402b7b76336d230",
+  "seriesSlug": "kingdom",
+  "series": "王者天下",
+  "cardNumbers": [
+    "UA48BT/KGD-1-019"
+  ],
+  "source": {
+    "series": "王者天下",
+    "name": "カイネ",
+    "effect": "[退場時]\n自分の場に〈李牧〉がある場合、自分の手札から〈カイネ〉以外の必要エナジーが2以下で消費APが1の黄のキャラカードを1枚まで自分の場にレストで登場させる。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "凯恩",
+    "effectZh": "[退场时] 若己方场上存在〈李牧〉，则从己方手牌中消耗1 AP、能量为2以下的黄卡（除〈凯恩〉外）最多选择1张，以横置状态登场。",
+    "triggerZh": "[抽牌]\n抽取一张卡牌。"
+  }
+}

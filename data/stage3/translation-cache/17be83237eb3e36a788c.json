@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:08:28.493Z",
+  "model": "qwen3.5:4b",
+  "unitId": "17be83237eb3e36a788c",
+  "seriesSlug": "one-punch-man",
+  "series": "一拳超人",
+  "cardNumbers": [
+    "UA35BT/OPM-1-057"
+  ],
+  "source": {
+    "series": "一拳超人",
+    "name": "豚神",
+    "effect": "[登場時]\n[フロントLにある場合]\nBP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。\n[退場時]\n相手はカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "豚神",
+    "effectZh": "[登场时] 若前场有我方角色，选择对方 BP3000 以下的角色最多 1 张并让其离场。当该角色离场时，对手抽一张牌。",
+    "triggerZh": ""
+  }
+}

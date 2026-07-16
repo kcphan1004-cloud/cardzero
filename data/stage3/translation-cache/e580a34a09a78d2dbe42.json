@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T19:29:38.038Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e580a34a09a78d2dbe42",
+  "seriesSlug": "synduality-noir",
+  "series": "SYNDUALITY Noir",
+  "cardNumbers": [
+    "UA16BT/SYN-1-067"
+  ],
+  "source": {
+    "series": "SYNDUALITY Noir",
+    "name": "マリア",
+    "effect": "相手の場に黄か紫のカードがある場合、手札にあるこのカードの必要エナジーを\n[赤×1]\n減らす。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "玛丽亚",
+    "effectZh": "对方场上存在黄色或紫色的卡时，此手札卡的必要能量\n[赤×1]\n减少。",
+    "triggerZh": ""
+  }
+}

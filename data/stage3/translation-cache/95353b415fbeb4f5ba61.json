@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T15:38:07.795Z",
+  "model": "qwen3.5:4b",
+  "unitId": "95353b415fbeb4f5ba61",
+  "seriesSlug": "tokyo-ghoul",
+  "series": "东京喰种",
+  "cardNumbers": [
+    "UA47ST/TKG-1-105"
+  ],
+  "source": {
+    "series": "东京喰种",
+    "name": "永近 英良",
+    "effect": "[登場時]\n自分の場外から必要エナジーが4以下の〈金木 研〉を1枚まで自分の山札の上に置く。",
+    "trigger": "[アクティブ]\n自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。"
+  },
+  "translation": {
+    "nameZh": "永近英良",
+    "effectZh": "[登场时]\n从自己的场外将需要的能量为 4 以下的〈金木研〉最多选择 1 张放在自己的牌库上方。",
+    "triggerZh": "[激活]\n选择自己场上的角色一张，使其进入激活状态，本回合 BP+3000"
+  }
+}

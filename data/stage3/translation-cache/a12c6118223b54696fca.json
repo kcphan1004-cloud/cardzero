@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:34:33.048Z",
+  "model": "qwen3.5:9b",
+  "unitId": "a12c6118223b54696fca",
+  "seriesSlug": "haikyu",
+  "series": "排球少年!!",
+  "cardNumbers": [
+    "UA19BT/HIQ-1-054"
+  ],
+  "source": {
+    "series": "排球少年!!",
+    "name": "五色 工",
+    "effect": "[相手のターン中]\n[ターン1]\n元々のBPが4000以上の自分の場の他のキャラが退場した時、このキャラはこのターン中、BP+3000。",
+    "trigger": "[ドロー]\nカードを1枚引く。"
+  },
+  "translation": {
+    "nameZh": "五色工",
+    "effectZh": "[对手回合中]\n[回合 1]\n当己方其他的角色因原本 BP 为 4000 以上而退场时，该角色在本回合中获得 BP+3000。",
+    "triggerZh": "[抽]\n抽取 1 张卡"
+  }
+}

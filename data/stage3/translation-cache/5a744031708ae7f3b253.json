@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T20:55:20.623Z",
+  "model": "qwen3.5:9b",
+  "unitId": "5a744031708ae7f3b253",
+  "seriesSlug": "yu-yu-hakusho",
+  "series": "幽游白书",
+  "cardNumbers": [
+    "UA21BT/YYH-1-028"
+  ],
+  "source": {
+    "series": "幽游白书",
+    "name": "鈴駒",
+    "effect": "[登場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "铃驹",
+    "effectZh": "[登场]\n抽 1 张牌。",
+    "triggerZh": ""
+  }
+}

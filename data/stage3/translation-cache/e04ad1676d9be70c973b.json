@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-15T21:30:27.661Z",
+  "model": "qwen3.5:9b",
+  "unitId": "e04ad1676d9be70c973b",
+  "seriesSlug": "gamera-rebirth",
+  "series": "GAMERA -Rebirth-",
+  "cardNumbers": [
+    "UA22BT/GMR-1-080"
+  ],
+  "source": {
+    "series": "GAMERA -Rebirth-",
+    "name": "燼滅手",
+    "effect": "自分の場に〈ガメラ〉がある場合、手札にあるこのカードの消費APを-1する。\n相手のフロントLのキャラを1枚選び、『退場させる』。自分のフロントLに［特徴：陸］がある場合、『リムーブエリアに置く』に代わる。",
+    "trigger": "[スペシャル]\n相手のフロントLのキャラを1枚選び、退場させる。"
+  },
+  "translation": {
+    "nameZh": "歼灭之手",
+    "effectZh": "若自己场上有〈加美拉〉，则此卡在手札中的消耗 AP-1。\n选择对方的前线 L 角色并使其退场。若自己的前线 L 具有［特征：陆］，则改为“置入移除区域”。",
+    "triggerZh": "【特殊】\n选择对方的前线 L 角色中的 1 枚并使其退场。"
+  }
+}

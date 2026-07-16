@@ -1,0 +1,22 @@
+{
+  "status": "complete",
+  "translatedAt": "2026-07-16T14:28:04.312Z",
+  "model": "qwen3.5:4b",
+  "unitId": "a00f00051458aa8a2cf1",
+  "seriesSlug": "fullmetal-alchemist",
+  "series": "钢之炼金术师",
+  "cardNumbers": [
+    "UA37BT/FMA-1-080"
+  ],
+  "source": {
+    "series": "钢之炼金术师",
+    "name": "グラトニー",
+    "effect": "[退場時]\nカードを1枚引く。",
+    "trigger": ""
+  },
+  "translation": {
+    "nameZh": "格拉蒂妮",
+    "effectZh": "[离场时],抽一张牌",
+    "triggerZh": ""
+  }
+}
