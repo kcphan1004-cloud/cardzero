@@ -1,6 +1,10 @@
 import fs from "node:fs";
 import path from "node:path";
 import DeckSubmissionForm from "../../components/DeckSubmissionForm";
+import { manualDeckOptionsBySeries } from "../../data/deck-options";
+import { getSupabaseAdmin } from "../../lib/supabaseAdmin";
+
+export const dynamic = "force-dynamic";
 
 export const metadata = {
   title: "牌组投稿｜卡零社 CardZero",
@@ -8,7 +12,24 @@ export const metadata = {
     "投稿你的 Union Arena 牌组、赛事成绩与卡组心得。",
 };
 
-function getSeriesOptions() {
+type DeckOptionMap = Record<string, string[]>;
+
+function uniqueSorted(values: string[]) {
+  return [
+    ...new Set(
+      values
+        .map((value) => value.trim())
+        .filter(Boolean),
+    ),
+  ].sort((a, b) =>
+    a.localeCompare(
+      b,
+      "zh-Hans-CN",
+    ),
+  );
+}
+
+function getSeriesOptionsFromCards() {
   try {
     const directory = path.join(
       process.cwd(),
@@ -39,16 +60,6 @@ function getSeriesOptions() {
         "utf8",
       );
 
-      /*
-       * 每个卡牌资料文件里的 card.series
-       * 已经是网站使用的中文作品名称。
-       *
-       * 例如：
-       * "series": "黑色五叶草"
-       *
-       * 这里直接读取 series 字段，
-       * 不再把 black-clover 等英文文件名显示给玩家。
-       */
       const matches = content.matchAll(
         /["']series["']\s*:\s*["']([^"']+)["']/g,
       );
@@ -67,12 +78,8 @@ function getSeriesOptions() {
       }
     }
 
-    return [...seriesNames].sort(
-      (a, b) =>
-        a.localeCompare(
-          b,
-          "zh-Hans-CN",
-        ),
+    return uniqueSorted(
+      [...seriesNames],
     );
   } catch (error) {
     console.error(
@@ -84,9 +91,113 @@ function getSeriesOptions() {
   }
 }
 
-export default function SubmitPage() {
-  const seriesOptions =
-    getSeriesOptions();
+async function getExistingDeckOptions() {
+  const result: DeckOptionMap = {};
+
+  try {
+    const supabase =
+      getSupabaseAdmin();
+
+    const response = await supabase
+      .from("deck_submissions")
+      .select("series, deck_name")
+      .eq("status", "approved")
+      .order("series", {
+        ascending: true,
+      })
+      .order("deck_name", {
+        ascending: true,
+      });
+
+    if (response.error) {
+      throw response.error;
+    }
+
+    const rows = (response.data ??
+      []) as Array<{
+      series?: string | null;
+      deck_name?: string | null;
+    }>;
+
+    for (const row of rows) {
+      const series =
+        row.series?.trim() ?? "";
+      const deckName =
+        row.deck_name?.trim() ?? "";
+
+      if (!series || !deckName) {
+        continue;
+      }
+
+      if (!result[series]) {
+        result[series] = [];
+      }
+
+      result[series].push(deckName);
+    }
+  } catch (error) {
+    /*
+     * 本地尚未设置 Supabase 环境变量，
+     * 或数据库暂时无法连接时，
+     * 页面仍然可以使用手动设定的牌组选项。
+     */
+    console.error(
+      "读取现有牌组选项失败：",
+      error,
+    );
+  }
+
+  for (const series of Object.keys(
+    result,
+  )) {
+    result[series] = uniqueSorted(
+      result[series],
+    );
+  }
+
+  return result;
+}
+
+function mergeDeckOptions(
+  first: DeckOptionMap,
+  second: DeckOptionMap,
+) {
+  const merged: DeckOptionMap = {};
+
+  const allSeries = new Set([
+    ...Object.keys(first),
+    ...Object.keys(second),
+  ]);
+
+  for (const series of allSeries) {
+    merged[series] = uniqueSorted([
+      ...(first[series] ?? []),
+      ...(second[series] ?? []),
+    ]);
+  }
+
+  return merged;
+}
+
+export default async function SubmitPage() {
+  const cardSeries =
+    getSeriesOptionsFromCards();
+
+  const existingDeckOptions =
+    await getExistingDeckOptions();
+
+  const deckOptionsBySeries =
+    mergeDeckOptions(
+      manualDeckOptionsBySeries,
+      existingDeckOptions,
+    );
+
+  const seriesOptions = uniqueSorted([
+    ...cardSeries,
+    ...Object.keys(
+      deckOptionsBySeries,
+    ),
+  ]);
 
   return (
     <main className="min-h-screen bg-black text-white">
@@ -101,15 +212,15 @@ export default function SubmitPage() {
           </h1>
 
           <p className="mt-4 max-w-3xl text-sm leading-7 text-zinc-400 sm:text-base">
-            分享你的牌组、赛事成绩与构筑思路。
-            投稿成功后会直接显示在卡零社牌组分享区。
+            先选择作品系列，再从该作品中选择对应的牌组。
+            找不到牌组时，可以新增牌组名称。
           </p>
 
           <div className="mt-6 grid gap-3 sm:grid-cols-3">
             {[
-              "填写投稿资料",
-              "上传牌组图片",
-              "立即公开展示",
+              "选择作品系列",
+              "选择对应牌组",
+              "提交并立即公开",
             ].map((text, index) => (
               <div
                 key={text}
@@ -135,6 +246,9 @@ export default function SubmitPage() {
       <section className="mx-auto max-w-5xl px-4 py-9 sm:px-6 lg:px-8">
         <DeckSubmissionForm
           seriesOptions={seriesOptions}
+          deckOptionsBySeries={
+            deckOptionsBySeries
+          }
         />
       </section>
     </main>
