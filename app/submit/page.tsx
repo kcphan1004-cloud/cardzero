@@ -16,7 +16,9 @@ function getSeriesOptions() {
       "card-series-generated",
     );
 
-    return fs
+    const seriesNames = new Set<string>();
+
+    const fileNames = fs
       .readdirSync(directory)
       .filter(
         (fileName) =>
@@ -24,17 +26,67 @@ function getSeriesOptions() {
           !["index.ts", "types.ts"].includes(
             fileName,
           ),
-      )
-      .map((fileName) =>
-        fileName.replace(/\.ts$/, ""),
       );
-  } catch {
+
+    for (const fileName of fileNames) {
+      const filePath = path.join(
+        directory,
+        fileName,
+      );
+
+      const content = fs.readFileSync(
+        filePath,
+        "utf8",
+      );
+
+      /*
+       * 每个卡牌资料文件里的 card.series
+       * 已经是网站使用的中文作品名称。
+       *
+       * 例如：
+       * "series": "黑色五叶草"
+       *
+       * 这里直接读取 series 字段，
+       * 不再把 black-clover 等英文文件名显示给玩家。
+       */
+      const matches = content.matchAll(
+        /["']series["']\s*:\s*["']([^"']+)["']/g,
+      );
+
+      for (const match of matches) {
+        const seriesName =
+          match[1]?.trim();
+
+        if (
+          seriesName &&
+          seriesName !== "资料待补" &&
+          seriesName !== "-"
+        ) {
+          seriesNames.add(seriesName);
+        }
+      }
+    }
+
+    return [...seriesNames].sort(
+      (a, b) =>
+        a.localeCompare(
+          b,
+          "zh-Hans-CN",
+        ),
+    );
+  } catch (error) {
+    console.error(
+      "读取中文作品系列失败：",
+      error,
+    );
+
     return [];
   }
 }
 
 export default function SubmitPage() {
-  const seriesOptions = getSeriesOptions();
+  const seriesOptions =
+    getSeriesOptions();
 
   return (
     <main className="min-h-screen bg-black text-white">
@@ -66,6 +118,7 @@ export default function SubmitPage() {
                 <p className="text-xs font-bold text-red-400">
                   0{index + 1}
                 </p>
+
                 <p className="mt-2 text-sm font-bold text-zinc-200">
                   {text}
                 </p>
