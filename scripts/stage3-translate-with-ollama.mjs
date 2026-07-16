@@ -1,4 +1,4 @@
-import fs from "node:fs/promises";
+﻿import fs from "node:fs/promises";
 import path from "node:path";
 import process from "node:process";
 
@@ -86,18 +86,18 @@ function systemPrompt(glossary) {
     .map((x) => `${x.from} => ${x.to}`)
     .join("\n");
 
-  return `你是 UNION ARENA TCG 日文转简体中文翻译员。
-只翻译，不解释，不添加原文不存在的内容。
-必须保留数字、BP、AP、+/-数值、〈〉、［］、括号和区域缩写。
-Front L=前线，Energy L=能量线，場外=场外，手札=手牌，山札=牌库。
-レスト=横置，アクティブ=激活，退場=退场，登場=登场。
-レイド统一写为 Raid，トリガー统一写为 Trigger。
-[登場時] 等标签要翻译并保留方括号。
-输入字段为空时输出也必须为空。
-卡名优先使用常见正式简体中文译名。
-每一个输入项目都必须返回 key、nameZh、effectZh、triggerZh 四个字段，不得省略。\n只返回 JSON：{"translations":[{"key":"...","nameZh":"...","effectZh":"...","triggerZh":"..."}]}
-术语表：
-${terms || "无"}`;
+  return `ä½ æ˜¯ UNION ARENA TCG æ—¥æ–‡è½¬ç®€ä½“ä¸­æ–‡ç¿»è¯‘å‘˜ã€‚
+åªç¿»è¯‘ï¼Œä¸è§£é‡Šï¼Œä¸æ·»åŠ åŽŸæ–‡ä¸å­˜åœ¨çš„å†…å®¹ã€‚
+å¿…é¡»ä¿ç•™æ•°å­—ã€BPã€APã€+/-æ•°å€¼ã€ã€ˆã€‰ã€ï¼»ï¼½ã€æ‹¬å·å’ŒåŒºåŸŸç¼©å†™ã€‚
+Front L=å‰çº¿ï¼ŒEnergy L=èƒ½é‡çº¿ï¼Œå ´å¤–=åœºå¤–ï¼Œæ‰‹æœ­=æ‰‹ç‰Œï¼Œå±±æœ­=ç‰Œåº“ã€‚
+ãƒ¬ã‚¹ãƒˆ=æ¨ªç½®ï¼Œã‚¢ã‚¯ãƒ†ã‚£ãƒ–=æ¿€æ´»ï¼Œé€€å ´=é€€åœºï¼Œç™»å ´=ç™»åœºã€‚
+ãƒ¬ã‚¤ãƒ‰ç»Ÿä¸€å†™ä¸º Raidï¼Œãƒˆãƒªã‚¬ãƒ¼ç»Ÿä¸€å†™ä¸º Triggerã€‚
+[ç™»å ´æ™‚] ç­‰æ ‡ç­¾è¦ç¿»è¯‘å¹¶ä¿ç•™æ–¹æ‹¬å·ã€‚
+è¾“å…¥å­—æ®µä¸ºç©ºæ—¶è¾“å‡ºä¹Ÿå¿…é¡»ä¸ºç©ºã€‚
+å¡åä¼˜å…ˆä½¿ç”¨å¸¸è§æ­£å¼ç®€ä½“ä¸­æ–‡è¯‘åã€‚
+æ¯ä¸€ä¸ªè¾“å…¥é¡¹ç›®éƒ½å¿…é¡»è¿”å›ž keyã€nameZhã€effectZhã€triggerZh å››ä¸ªå­—æ®µï¼Œä¸å¾—çœç•¥ã€‚\nåªè¿”å›ž JSONï¼š{"translations":[{"key":"...","nameZh":"...","effectZh":"...","triggerZh":"..."}]}
+æœ¯è¯­è¡¨ï¼š
+${terms || "æ— "}`;
 }
 
 function userPrompt(batch) {
@@ -165,13 +165,13 @@ async function translateBatch(batch, config) {
       );
 
       const rows = Array.isArray(raw) ? raw : raw.translations;
-      if (!Array.isArray(rows)) throw new Error("模型没有返回 translations 阵列。");
+      if (!Array.isArray(rows)) throw new Error("æ¨¡åž‹æ²¡æœ‰è¿”å›ž translations é˜µåˆ—ã€‚");
 
       const byKey = new Map(rows.map((x) => [String(x.key ?? ""), x]));
 
       return batch.map((unit) => {
         const row = byKey.get(unit.unitId);
-        if (!row) throw new Error(`${unit.cardNumbers[0]} 缺少翻译结果。`);
+        if (!row) throw new Error(`${unit.cardNumbers[0]} ç¼ºå°‘ç¿»è¯‘ç»“æžœã€‚`);
 
         const result = {
           nameZh: applyGlossary(row.nameZh, config.glossary),
@@ -179,9 +179,9 @@ async function translateBatch(batch, config) {
           triggerZh: applyGlossary(row.triggerZh, config.glossary),
         };
 
-        if (unit.source.name && !result.nameZh) throw new Error(`${unit.cardNumbers[0]} 缺少中文卡名。`);
-        if (unit.source.effect && !result.effectZh) throw new Error(`${unit.cardNumbers[0]} 缺少中文效果。`);
-        if (unit.source.trigger && !result.triggerZh) throw new Error(`${unit.cardNumbers[0]} 缺少中文 Trigger。`);
+        if (unit.source.name && !result.nameZh) throw new Error(`${unit.cardNumbers[0]} ç¼ºå°‘ä¸­æ–‡å¡åã€‚`);
+        if (unit.source.effect && !result.effectZh) throw new Error(`${unit.cardNumbers[0]} ç¼ºå°‘ä¸­æ–‡æ•ˆæžœã€‚`);
+        if (unit.source.trigger && !result.triggerZh) throw new Error(`${unit.cardNumbers[0]} ç¼ºå°‘ä¸­æ–‡ Triggerã€‚`);
 
         return result;
       });
@@ -191,7 +191,7 @@ async function translateBatch(batch, config) {
     }
   }
 
-  // 批量失败时自动拆成单张重试，避免一张缺字段拖累整批。
+  // æ‰¹é‡å¤±è´¥æ—¶è‡ªåŠ¨æ‹†æˆå•å¼ é‡è¯•ï¼Œé¿å…ä¸€å¼ ç¼ºå­—æ®µæ‹–ç´¯æ•´æ‰¹ã€‚
   if (batch.length > 1) {
     const results = [];
 
@@ -207,7 +207,7 @@ async function translateBatch(batch, config) {
 }
 
 async function main() {
-  const model = arg("model", "qwen2.5:7b");
+  const model = arg("model", "qwen3.5:4b");
   const endpoint = arg("endpoint", "http://127.0.0.1:11434/api/chat");
   const series = arg("series", "all");
   const limit = intArg("limit", 0, 0, 1000000);
@@ -217,8 +217,8 @@ async function main() {
   const timeout = intArg("timeout", 180000, 30000, 600000);
   const force = boolArg("force");
 
-  console.log("CardZero 第三阶段：Ollama 批量翻译");
-  console.log(`模型：${model}｜系列：${series}｜每批：${batchSize}`);
+  console.log("CardZero ç¬¬ä¸‰é˜¶æ®µï¼šOllama æ‰¹é‡ç¿»è¯‘");
+  console.log(`æ¨¡åž‹ï¼š${model}ï½œç³»åˆ—ï¼š${series}ï½œæ¯æ‰¹ï¼š${batchSize}`);
 
   const queue = JSON.parse(clean(await fs.readFile(QUEUE, "utf8")));
   const requested = new Set(series.split(",").map((x) => x.trim()).filter(Boolean));
@@ -243,7 +243,7 @@ async function main() {
     else pending.push({ ...unit, cacheFile });
   }
 
-  console.log(`选中：${selected.length}｜已有缓存：${cached}｜待翻译：${pending.length}`);
+  console.log(`é€‰ä¸­ï¼š${selected.length}ï½œå·²æœ‰ç¼“å­˜ï¼š${cached}ï½œå¾…ç¿»è¯‘ï¼š${pending.length}`);
 
   let completed = 0;
   const failures = [];
@@ -278,7 +278,7 @@ async function main() {
         completed++;
       }
     } catch (e) {
-      console.error(`本批失败：${e.message ?? e}`);
+      console.error(`æœ¬æ‰¹å¤±è´¥ï¼š${e.message ?? e}`);
       for (const unit of batch) {
         const failure = {
           status: "error",
@@ -309,11 +309,12 @@ async function main() {
   const reportFile = path.join(REPORTS, `translate-${Date.now()}.json`);
   await writeJson(reportFile, report);
 
-  console.log(`翻译成功：${completed}｜失败：${failures.length}`);
-  console.log(`报告：${path.relative(ROOT, reportFile)}`);
+  console.log(`ç¿»è¯‘æˆåŠŸï¼š${completed}ï½œå¤±è´¥ï¼š${failures.length}`);
+  console.log(`æŠ¥å‘Šï¼š${path.relative(ROOT, reportFile)}`);
 }
 
 main().catch((e) => {
-  console.error("执行失败：", e.message ?? e);
+  console.error("æ‰§è¡Œå¤±è´¥ï¼š", e.message ?? e);
   process.exitCode = 1;
 });
+
