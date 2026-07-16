@@ -19,7 +19,7 @@ function ExternalArrow() {
     <svg
       viewBox="0 0 24 24"
       aria-hidden="true"
-      className="h-5 w-5"
+      className="h-6 w-6"
       fill="none"
       stroke="currentColor"
       strokeWidth="2"
@@ -27,6 +27,46 @@ function ExternalArrow() {
       <path d="M7 17 17 7" />
       <path d="M8 7h9v9" />
     </svg>
+  );
+}
+
+function ProviderLogo({
+  provider,
+}: {
+  provider: "behdeck" | "mr-kado";
+}) {
+  if (provider === "behdeck") {
+    return (
+      <div
+        aria-label="BehDeck"
+        className="flex min-w-[126px] items-center justify-center rounded-2xl border border-red-500/35 bg-black/65 px-4 py-3 shadow-[0_0_24px_rgba(239,68,68,.16)] backdrop-blur"
+      >
+        <div className="text-right">
+          <p className="text-lg font-black italic tracking-tight text-white">
+            Beh<span className="text-red-500">Deck</span>
+          </p>
+          <p className="mt-0.5 text-[8px] font-bold tracking-[0.22em] text-zinc-500">
+            META DATABASE
+          </p>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div
+      aria-label="Mr.Kado_TCG"
+      className="flex min-w-[142px] items-center justify-center rounded-2xl border border-red-500/35 bg-black/65 px-4 py-3 shadow-[0_0_24px_rgba(239,68,68,.16)] backdrop-blur"
+    >
+      <div className="text-right">
+        <p className="text-base font-black italic tracking-tight text-white">
+          Mr.Kado<span className="text-red-500">_TCG</span>
+        </p>
+        <p className="mt-0.5 text-[8px] font-bold tracking-[0.22em] text-zinc-500">
+          TAIWAN META
+        </p>
+      </div>
+    </div>
   );
 }
 
@@ -78,7 +118,7 @@ function TaiwanSkyline() {
   );
 }
 
-function LinkButton({
+function LargeLinkButton({
   href,
   children,
   secondary = false,
@@ -94,12 +134,15 @@ function LinkButton({
       rel="noreferrer noopener"
       className={
         secondary
-          ? "flex min-h-12 items-center justify-between gap-3 rounded-xl border border-red-500/50 bg-black/55 px-4 text-sm font-black text-red-200 transition hover:border-red-300 hover:bg-red-950/35"
-          : "flex min-h-12 items-center justify-between gap-3 rounded-xl bg-red-600 px-4 text-sm font-black text-white transition hover:bg-red-500"
+          ? "group flex min-h-16 items-center justify-between gap-4 rounded-2xl border-2 border-red-500/55 bg-black/65 px-6 text-base font-black text-red-100 transition hover:border-red-300 hover:bg-red-950/40"
+          : "group flex min-h-16 items-center justify-between gap-4 rounded-2xl bg-gradient-to-r from-red-700 to-red-600 px-6 text-base font-black text-white shadow-[0_0_24px_rgba(220,38,38,.22)] transition hover:from-red-600 hover:to-red-500 hover:shadow-[0_0_32px_rgba(239,68,68,.3)]"
       }
     >
       <span>{children}</span>
-      <ExternalArrow />
+
+      <span className="shrink-0 transition group-hover:translate-x-1 group-hover:-translate-y-1">
+        <ExternalArrow />
+      </span>
     </a>
   );
 }
@@ -136,7 +179,7 @@ export default function TierListPage() {
 
         <section className="grid items-stretch gap-5 md:grid-cols-2">
           {/* 马来西亚 */}
-          <article className="relative flex min-h-[620px] flex-col overflow-hidden rounded-3xl border border-red-700/70 bg-[#080808] p-6 shadow-[0_0_40px_rgba(185,28,28,.18)] sm:p-8 lg:p-10">
+          <article className="relative flex min-h-[650px] flex-col overflow-hidden rounded-3xl border border-red-700/70 bg-[#080808] p-6 shadow-[0_0_40px_rgba(185,28,28,.18)] sm:p-8 lg:p-10">
             <div
               aria-hidden="true"
               className="absolute inset-0 opacity-65"
@@ -157,58 +200,40 @@ export default function TierListPage() {
 
             <div className="relative z-10 flex h-full flex-col">
               <div className="flex items-start justify-between gap-4">
-                <div>
-                  <span className="inline-flex rounded-full border border-red-500/30 bg-red-950/30 px-3 py-1.5 text-[10px] font-black tracking-[0.22em] text-red-300">
-                    MALAYSIA META
-                  </span>
+                <span className="inline-flex rounded-full border border-red-500/30 bg-red-950/30 px-3 py-1.5 text-[10px] font-black tracking-[0.22em] text-red-300">
+                  MALAYSIA META
+                </span>
 
-                  <p className="mt-5 text-6xl font-black italic tracking-tighter text-white sm:text-7xl">
-                    MY
-                  </p>
-
-                  <p className="mt-1 text-xl font-black italic text-zinc-400">
-                    BehDeck
-                  </p>
-                </div>
-
-                <a
-                  href={BEHDECK_URL}
-                  target="_blank"
-                  rel="noreferrer noopener"
-                  aria-label="打开 BehDeck"
-                  className="rounded-full border border-white/15 bg-black/55 p-3 text-zinc-300 transition hover:border-red-400 hover:text-white"
-                >
-                  <ExternalArrow />
-                </a>
+                <ProviderLogo provider="behdeck" />
               </div>
 
-              <h2 className="mt-8 text-3xl font-black leading-tight sm:text-4xl">
+              <h2 className="mt-10 text-3xl font-black leading-tight sm:text-4xl">
                 马来西亚
                 <span className="ml-2 bg-gradient-to-b from-white to-red-500 bg-clip-text text-transparent">
                   T表专区
                 </span>
               </h2>
 
+              <p className="mt-2 text-lg font-black italic text-zinc-300">
+                BehDeck
+              </p>
+
               <div className="mt-4 h-1 w-16 rounded-full bg-red-600" />
 
               <p className="mt-5 text-sm leading-7 text-zinc-300">
-                掌握最新 Union Arena 马来西亚比赛环境资料与 T表，由
-                <strong className="mx-1 text-red-400">
-                  BehDeck
-                </strong>
-                提供。
+                掌握最新 Union Arena 马来西亚比赛环境资料与 T表。
               </p>
 
               <p className="mt-3 text-sm leading-7 text-zinc-500">
-                🐙 特别感谢八脚鱼授权卡零社展示相关图片。
+                🐙 特别感谢 BehDeck 提供相关 T表的资讯。
               </p>
 
-              <div className="relative z-10 mt-auto space-y-3 pt-16">
-                <LinkButton href={BEHDECK_URL}>
+              <div className="relative z-10 mt-auto space-y-4 pt-16">
+                <LargeLinkButton href={BEHDECK_URL}>
                   查看 BehDeck 完整 T表与参考构筑
-                </LinkButton>
+                </LargeLinkButton>
 
-                <div className="rounded-2xl border border-red-950 bg-black/65 p-4">
+                <div className="rounded-2xl border border-red-950 bg-black/65 p-5">
                   <p className="text-sm font-black text-white">
                     喜欢这些免费的环境资料吗？
                   </p>
@@ -217,7 +242,7 @@ export default function TierListPage() {
                     支持八脚鱼继续维护 BehDeck。
                   </p>
 
-                  <div className="mt-3">
+                  <div className="mt-4">
                     <BehDeckKofiButton />
                   </div>
                 </div>
@@ -228,7 +253,7 @@ export default function TierListPage() {
           </article>
 
           {/* 台湾 */}
-          <article className="relative flex min-h-[620px] flex-col overflow-hidden rounded-3xl border border-red-700/70 bg-[#080808] p-6 shadow-[0_0_40px_rgba(185,28,28,.18)] sm:p-8 lg:p-10">
+          <article className="relative flex min-h-[650px] flex-col overflow-hidden rounded-3xl border border-red-700/70 bg-[#080808] p-6 shadow-[0_0_40px_rgba(185,28,28,.18)] sm:p-8 lg:p-10">
             <div
               aria-hidden="true"
               className="absolute inset-0 opacity-65"
@@ -249,37 +274,23 @@ export default function TierListPage() {
 
             <div className="relative z-10 flex h-full flex-col">
               <div className="flex items-start justify-between gap-4">
-                <div>
-                  <span className="inline-flex rounded-full border border-red-500/30 bg-red-950/30 px-3 py-1.5 text-[10px] font-black tracking-[0.22em] text-red-300">
-                    TAIWAN META
-                  </span>
+                <span className="inline-flex rounded-full border border-red-500/30 bg-red-950/30 px-3 py-1.5 text-[10px] font-black tracking-[0.22em] text-red-300">
+                  TAIWAN META
+                </span>
 
-                  <p className="mt-5 text-6xl font-black italic tracking-tighter text-white sm:text-7xl">
-                    TW
-                  </p>
-
-                  <p className="mt-1 text-xl font-black italic text-zinc-400">
-                    Instagram
-                  </p>
-                </div>
-
-                <a
-                  href={TAIWAN_TIER_LIST_URL}
-                  target="_blank"
-                  rel="noreferrer noopener"
-                  aria-label="打开台湾 T表"
-                  className="rounded-full border border-white/15 bg-black/55 p-3 text-zinc-300 transition hover:border-red-400 hover:text-white"
-                >
-                  <ExternalArrow />
-                </a>
+                <ProviderLogo provider="mr-kado" />
               </div>
 
-              <h2 className="mt-8 text-3xl font-black leading-tight sm:text-4xl">
+              <h2 className="mt-10 text-3xl font-black leading-tight sm:text-4xl">
                 台湾
                 <span className="ml-2 bg-gradient-to-b from-white to-red-500 bg-clip-text text-transparent">
                   T表专区
                 </span>
               </h2>
+
+              <p className="mt-2 text-lg font-black italic text-zinc-300">
+                Mr.Kado_TCG
+              </p>
 
               <div className="mt-4 h-1 w-16 rounded-full bg-red-600" />
 
@@ -288,30 +299,20 @@ export default function TierListPage() {
               </p>
 
               <p className="mt-3 text-sm leading-7 text-zinc-500">
-                点击下方按钮会在新分页打开对应的 Instagram 原始贴文。
+                特别感谢 Mr.Kado_TCG 提供相关 T表的资讯。
               </p>
 
-              <div className="relative z-10 mt-auto space-y-3 pt-16">
-                <LinkButton href={TAIWAN_TIER_LIST_URL}>
+              <div className="relative z-10 mt-auto space-y-4 pt-16">
+                <LargeLinkButton href={TAIWAN_TIER_LIST_URL}>
                   查看台湾 T表
-                </LinkButton>
+                </LargeLinkButton>
 
-                <LinkButton
+                <LargeLinkButton
                   href={TAIWAN_3V3_URL}
                   secondary
                 >
                   查看台湾 3v3 T表
-                </LinkButton>
-
-                <div className="rounded-2xl border border-red-950 bg-black/65 p-4">
-                  <p className="text-xs font-black tracking-[0.2em] text-red-400">
-                    EXTERNAL SOURCE
-                  </p>
-
-                  <p className="mt-2 text-xs leading-6 text-zinc-500">
-                    台湾专区目前采用外部链接展示，不在卡零社服务器储存相关图片。
-                  </p>
-                </div>
+                </LargeLinkButton>
               </div>
             </div>
 
@@ -320,8 +321,8 @@ export default function TierListPage() {
         </section>
 
         <p className="mx-auto mt-8 max-w-3xl text-center text-xs leading-6 text-zinc-600">
-          马来西亚资料由 BehDeck 提供，并特别感谢八脚鱼授权相关展示。
-          台湾专区链接会跳转至对应的 Instagram 原始贴文。
+          马来西亚资料由 BehDeck 提供；台湾资料由 Mr.Kado_TCG 提供。
+          所有按钮会跳转至对应的原始资料页面。
         </p>
       </div>
     </main>
