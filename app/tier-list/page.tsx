@@ -303,16 +303,18 @@ export default function TierListPage() {
               </p>
 
               <div className="relative z-10 mt-auto space-y-4 pt-16">
-                <LargeLinkButton href={TAIWAN_TIER_LIST_URL}>
-                  查看台湾 T表
-                </LargeLinkButton>
+                <div className="grid grid-cols-2 gap-3">
+                  <LargeLinkButton href={TAIWAN_TIER_LIST_URL}>
+                    查看Mr.Kado T表
+                  </LargeLinkButton>
 
-                <LargeLinkButton
-                  href={TAIWAN_3V3_URL}
-                  secondary
-                >
-                  查看台湾 3v3 T表
-                </LargeLinkButton>
+                  <LargeLinkButton
+                    href={TAIWAN_3V3_URL}
+                    secondary
+                  >
+                    查看Mr.Kado 3v3 T表
+                  </LargeLinkButton>
+                </div>
               </div>
             </div>
 
