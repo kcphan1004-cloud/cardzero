@@ -214,6 +214,136 @@ function hasChineseTranslation(
   );
 }
 
+
+function parseGeneratedEnergy(
+  value: unknown,
+) {
+  const raw = String(value ?? "")
+    .trim()
+    .replace(/\s+/g, "");
+
+  if (
+    !raw ||
+    raw === "-" ||
+    raw === "0"
+  ) {
+    return null;
+  }
+
+  const countMatch =
+    raw.match(/\d+/);
+
+  const count = Math.min(
+    Math.max(
+      countMatch
+        ? Number(countMatch[0])
+        : 1,
+      1,
+    ),
+    10,
+  );
+
+  const colorKey =
+    raw.includes("黄色") ||
+    raw.includes("黃色") ||
+    raw.includes("黄") ||
+    raw.includes("黃")
+      ? "yellow"
+      : raw.includes("红色") ||
+          raw.includes("紅色") ||
+          raw.includes("红") ||
+          raw.includes("紅")
+        ? "red"
+        : raw.includes("蓝色") ||
+            raw.includes("藍色") ||
+            raw.includes("蓝") ||
+            raw.includes("藍")
+          ? "blue"
+          : raw.includes("绿色") ||
+              raw.includes("綠色") ||
+              raw.includes("绿") ||
+              raw.includes("綠")
+            ? "green"
+            : raw.includes("紫色") ||
+                raw.includes("紫")
+              ? "purple"
+              : "neutral";
+
+  const colorLabel: Record<
+    string,
+    string
+  > = {
+    yellow: "黄色",
+    red: "红色",
+    blue: "蓝色",
+    green: "绿色",
+    purple: "紫色",
+    neutral: "无色",
+  };
+
+  return {
+    count,
+    colorKey,
+    colorLabel:
+      colorLabel[colorKey],
+  };
+}
+
+function GeneratedEnergyDots({
+  value,
+}: {
+  value: unknown;
+}) {
+  const energy =
+    parseGeneratedEnergy(value);
+
+  if (!energy) {
+    return (
+      <span className="text-xl font-black text-white">
+        -
+      </span>
+    );
+  }
+
+  const dotClassName: Record<
+    string,
+    string
+  > = {
+    yellow:
+      "border-yellow-100 bg-yellow-400 shadow-[0_0_10px_rgba(250,204,21,0.65)]",
+    red:
+      "border-red-200 bg-red-500 shadow-[0_0_10px_rgba(239,68,68,0.65)]",
+    blue:
+      "border-blue-200 bg-blue-500 shadow-[0_0_10px_rgba(59,130,246,0.65)]",
+    green:
+      "border-emerald-200 bg-emerald-500 shadow-[0_0_10px_rgba(16,185,129,0.65)]",
+    purple:
+      "border-purple-200 bg-purple-500 shadow-[0_0_10px_rgba(168,85,247,0.65)]",
+    neutral:
+      "border-zinc-200 bg-zinc-500 shadow-[0_0_10px_rgba(161,161,170,0.45)]",
+  };
+
+  return (
+    <div
+      className="flex min-h-7 flex-wrap items-center justify-center gap-1.5"
+      aria-label={`${energy.colorLabel}能量 ${energy.count}`}
+      title={`${energy.colorLabel} × ${energy.count}`}
+    >
+      {Array.from({
+        length: energy.count,
+      }).map((_, index) => (
+        <span
+          key={index}
+          aria-hidden="true"
+          className={`relative inline-flex h-5 w-5 shrink-0 rounded-full border-2 ${dotClassName[energy.colorKey]}`}
+        >
+          <span className="absolute inset-[3px] rounded-full border border-black/20 bg-white/10" />
+        </span>
+      ))}
+    </div>
+  );
+}
+
 function CardArtwork({
   src,
   alt,
@@ -1373,9 +1503,13 @@ export default function CardCatalog({
                     {
                       label:
                         "产生能量",
-                      value:
-                        selectedCard.generatedEnergy ||
-                        "-",
+                      value: (
+                        <GeneratedEnergyDots
+                          value={
+                            selectedCard.generatedEnergy
+                          }
+                        />
+                      ),
                     },
                   ].map(
                     (stat) => (
@@ -1391,11 +1525,11 @@ export default function CardCatalog({
                           }
                         </p>
 
-                        <p className="mt-2 text-xl font-black text-white">
+                        <div className="mt-2 flex min-h-7 items-center justify-center text-xl font-black text-white">
                           {
                             stat.value
                           }
-                        </p>
+                        </div>
                       </div>
                     ),
                   )}
