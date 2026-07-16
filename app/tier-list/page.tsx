@@ -228,11 +228,13 @@ export default function TierListPage() {
                 🐙 特别感谢 BehDeck 提供相关 T表的资讯。
               </p>
 
-              <div className="relative z-10 mt-auto space-y-4 pt-16">
+              <div className="relative z-10 mt-5">
                 <LargeLinkButton href={BEHDECK_URL}>
                   查看 BehDeck 完整 T表与参考构筑
                 </LargeLinkButton>
+              </div>
 
+              <div className="relative z-10 mt-auto pt-6">
                 <div className="rounded-2xl border border-red-950 bg-black/65 p-5">
                   <p className="text-sm font-black text-white">
                     喜欢这些免费的环境资料吗？
