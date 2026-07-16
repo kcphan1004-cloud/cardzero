@@ -302,20 +302,20 @@ export default function TierListPage() {
                 特别感谢 Mr.Kado_TCG 提供相关 T表的资讯。
               </p>
 
-              <div className="relative z-10 mt-auto space-y-4 pt-16">
-                <div className="grid grid-cols-2 gap-3">
-                  <LargeLinkButton href={TAIWAN_TIER_LIST_URL}>
-                    查看Mr.Kado T表
-                  </LargeLinkButton>
+              <div className="relative z-10 mt-5 space-y-3">
+                <LargeLinkButton href={TAIWAN_TIER_LIST_URL}>
+                  查看Mr.Kado T表
+                </LargeLinkButton>
 
-                  <LargeLinkButton
-                    href={TAIWAN_3V3_URL}
-                    secondary
-                  >
-                    查看Mr.Kado 3v3 T表
-                  </LargeLinkButton>
-                </div>
+                <LargeLinkButton
+                  href={TAIWAN_3V3_URL}
+                  secondary
+                >
+                  查看Mr.Kado 3v3 T表
+                </LargeLinkButton>
               </div>
+
+              <div className="mt-auto" />
             </div>
 
             <TaiwanSkyline />
