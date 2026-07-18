@@ -225,7 +225,7 @@ export default function Navbar() {
           {menuOpen && (
             <div
               id="mobile-navigation"
-              className="absolute right-0 top-full z-50 mt-3 w-64 overflow-hidden rounded-xl border border-red-900 bg-zinc-950 shadow-2xl shadow-black/70"
+              className="absolute right-0 top-full z-50 mt-3 max-h-[calc(100vh-100px)] w-[min(22rem,calc(100vw-24px))] overflow-y-auto rounded-xl border border-red-900 bg-zinc-950 shadow-2xl shadow-black/70"
             >
               {navigation.map((item) => (
                 <NavigationLink
@@ -239,8 +239,13 @@ export default function Navbar() {
               ))}
 
               <div className="border-t border-zinc-800 p-3">
-                <AccountMenu />
-              </div>
+  <AccountMenu
+    mobile
+    onNavigate={() =>
+      setMenuOpen(false)
+    }
+  />
+</div>
             </div>
           )}
         </div>
