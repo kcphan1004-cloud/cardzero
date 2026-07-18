@@ -7,6 +7,7 @@ import {
   useRef,
   useState,
 } from "react";
+import AccountMenu from "./AccountMenu";
 
 type NavigationItem = {
   name: string;
