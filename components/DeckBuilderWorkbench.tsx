@@ -891,10 +891,10 @@ export default function DeckBuilderWorkbench({
 
     return (
       <div
-        className={`flex min-h-0 flex-col overflow-hidden rounded-3xl border border-red-950 bg-zinc-950 shadow-2xl shadow-black/40 ${
+        className={`overflow-y-auto overscroll-contain rounded-3xl border border-red-950 bg-zinc-950 shadow-2xl shadow-black/40 [scrollbar-color:#7f1d1d_#09090b] [scrollbar-width:thin] ${
           mobile
             ? "h-[78vh] max-h-[820px]"
-            : "h-[calc(100vh-96px)]"
+            : "max-h-[calc(100vh-96px)]"
         }`}
       >
         <div className="shrink-0 border-b border-zinc-900 p-4">
@@ -1032,7 +1032,7 @@ export default function DeckBuilderWorkbench({
                 DECK CONTENT
               </p>
               <p className="mt-1 text-xs font-bold text-zinc-300">
-                全部卡牌同时显示
+                全部卡牌一次显示
               </p>
             </div>
 
@@ -1052,23 +1052,23 @@ export default function DeckBuilderWorkbench({
           </div>
         </div>
 
-        <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-3 [scrollbar-color:#7f1d1d_#09090b] [scrollbar-width:thin]">
+        <div className="p-3">
           {deckRows.length === 0 ? (
             <div className="rounded-xl border border-dashed border-zinc-800 bg-black px-4 py-10 text-center text-xs text-zinc-700">
               点击左侧卡牌的＋加入卡组
             </div>
           ) : (
-            <div className="grid grid-cols-5 content-start gap-1.5">
+            <div className="grid grid-cols-6 content-start gap-2">
               {visibleDeckRows.map(({ entry, card }) => (
                 <div
                   key={entry.cardId}
-                  className="relative min-w-0 aspect-[5/7] overflow-hidden rounded-md border border-zinc-800 bg-black"
+                  className="relative min-w-0 aspect-[5/7] overflow-hidden rounded-lg border border-zinc-800 bg-black"
                   title={card ? displayName(card) : entry.number}
                 >
                   {card ? (
                     <CardImage
                       card={card}
-                      sizes="86px"
+                      sizes="96px"
                       className="object-contain"
                     />
                   ) : (
@@ -1256,11 +1256,11 @@ export default function DeckBuilderWorkbench({
           className={`grid items-start gap-5 ${
             filterPanelOpen
               ? desktopDeckCollapsed
-                ? "xl:grid-cols-[250px_minmax(0,1fr)_72px]"
-                : "xl:grid-cols-[250px_minmax(0,1fr)_520px]"
+                ? "xl:grid-cols-[250px_minmax(0,1fr)_64px]"
+                : "xl:grid-cols-[250px_minmax(0,1fr)_560px]"
               : desktopDeckCollapsed
-                ? "xl:grid-cols-[58px_minmax(0,1fr)_72px]"
-                : "xl:grid-cols-[58px_minmax(0,1fr)_520px]"
+                ? "xl:grid-cols-[58px_minmax(0,1fr)_64px]"
+                : "xl:grid-cols-[58px_minmax(0,1fr)_560px]"
           }`}
         >
           <aside className="rounded-3xl border border-zinc-800 bg-zinc-950 xl:sticky xl:top-[82px]">
@@ -1429,10 +1429,10 @@ export default function DeckBuilderWorkbench({
                 <strong className="text-white">{filteredCards.length}</strong>{" "}
                 张卡牌
               </p>
-              <p className="text-[10px] font-bold text-zinc-600">完整显示 · 每行 6 张</p>
+              <p className="text-[10px] font-bold text-zinc-600">全部显示 · 桌面每行 6 张</p>
             </div>
 
-            <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6">
+            <div className="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6">
               {filteredCards.map((card) => {
                 const quantity = getCardQuantity(card.id);
 
@@ -1449,7 +1449,7 @@ export default function DeckBuilderWorkbench({
                       <div className="relative aspect-[5/7] overflow-hidden bg-black">
                         <CardImage
                           card={card}
-                          sizes="(max-width: 640px) 50vw, 20vw"
+                          sizes="(max-width: 640px) 50vw, (max-width: 1279px) 25vw, 16vw"
                           className="object-contain transition duration-300 group-hover:scale-[1.025]"
                         />
 
