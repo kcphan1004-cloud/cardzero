@@ -1,334 +1,185 @@
-import BehDeckKofiButton from "../../components/BehDeckKofiButton";
+"use client";
 
-export const metadata = {
-  title: "环境 T表｜卡零社 CardZero",
-  description:
-    "Union Arena 马来西亚与台湾比赛环境资料专区。",
-};
-
-const BEHDECK_URL = "https://behdeck.com/";
-
-const TAIWAN_TIER_LIST_URL =
-  "https://www.instagram.com/p/DZ2r3pnRRhf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==";
-
-const TAIWAN_3V3_URL =
-  "https://www.instagram.com/p/DagGSCJTKJN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==";
-
-function ExternalArrow() {
-  return (
-    <svg
-      viewBox="0 0 24 24"
-      aria-hidden="true"
-      className="h-6 w-6"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-    >
-      <path d="M7 17 17 7" />
-      <path d="M8 7h9v9" />
-    </svg>
-  );
-}
-
-function ProviderLogo({
-  provider,
-}: {
-  provider: "behdeck" | "mr-kado";
-}) {
-  if (provider === "behdeck") {
-    return (
-      <div
-        aria-label="BehDeck"
-        className="flex min-w-[126px] items-center justify-center rounded-2xl border border-red-500/35 bg-black/65 px-4 py-3 shadow-[0_0_24px_rgba(239,68,68,.16)] backdrop-blur"
-      >
-        <div className="text-right">
-          <p className="text-lg font-black italic tracking-tight text-white">
-            Beh<span className="text-red-500">Deck</span>
-          </p>
-          <p className="mt-0.5 text-[8px] font-bold tracking-[0.22em] text-zinc-500">
-            META DATABASE
-          </p>
-        </div>
-      </div>
-    );
-  }
-
-  return (
-    <div
-      aria-label="Mr.Kado_TCG"
-      className="flex min-w-[142px] items-center justify-center rounded-2xl border border-red-500/35 bg-black/65 px-4 py-3 shadow-[0_0_24px_rgba(239,68,68,.16)] backdrop-blur"
-    >
-      <div className="text-right">
-        <p className="text-base font-black italic tracking-tight text-white">
-          Mr.Kado<span className="text-red-500">_TCG</span>
-        </p>
-        <p className="mt-0.5 text-[8px] font-bold tracking-[0.22em] text-zinc-500">
-          TAIWAN META
-        </p>
-      </div>
-    </div>
-  );
-}
-
-function MalaysiaSkyline() {
-  return (
-    <svg
-      viewBox="0 0 720 250"
-      aria-hidden="true"
-      className="absolute inset-x-0 bottom-0 h-auto w-full text-red-500/35"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-    >
-      <path d="M0 232h720" />
-      <path d="M34 232v-52h46v52M44 180v-19h26v19" />
-      <path d="M112 232v-86h42v86M124 146v-26h18v26" />
-      <path d="M185 232v-48h76v48M205 184v-20h36v20" />
-      <path d="M320 232v-142h34v142M337 90V42M330 74h14" />
-      <path d="M386 232v-168h43v168M407 64V26M398 47h18" />
-      <path d="M461 232v-124h44v124M474 108V76h18v32" />
-      <path d="M540 232v-74h64v74M559 158v-21h26v21" />
-      <path d="M632 232v-96h45v96M644 136v-30h20v30" />
-      <path d="M295 232c14-30 24-62 27-96M455 232c-12-37-20-76-22-118" />
-    </svg>
-  );
-}
-
-function TaiwanSkyline() {
-  return (
-    <svg
-      viewBox="0 0 720 250"
-      aria-hidden="true"
-      className="absolute inset-x-0 bottom-0 h-auto w-full text-red-500/35"
-      fill="none"
-      stroke="currentColor"
-      strokeWidth="2"
-    >
-      <path d="M0 232h720" />
-      <path d="M58 232v-68h74v68M76 164v-20h38v20" />
-      <path d="M164 232v-98h50v98M177 134v-28h24v28" />
-      <path d="M279 232v-128h44v128M301 104V60M292 83h18" />
-      <path d="M366 232v-176h58v176M395 56V10M384 33h22" />
-      <path d="M452 232v-112h48v112M465 120V88h22v32" />
-      <path d="M536 232v-72h78v72M556 160v-22h36v22" />
-      <path d="M640 232v-96h44v96" />
-      <circle cx="610" cy="80" r="42" opacity=".25" />
-      <circle cx="610" cy="80" r="72" opacity=".12" />
-    </svg>
-  );
-}
-
-function LargeLinkButton({
-  href,
-  children,
-  secondary = false,
-}: {
-  href: string;
-  children: React.ReactNode;
-  secondary?: boolean;
-}) {
-  return (
-    <a
-      href={href}
-      target="_blank"
-      rel="noreferrer noopener"
-      className={
-        secondary
-          ? "group flex min-h-16 items-center justify-between gap-4 rounded-2xl border-2 border-red-500/55 bg-black/65 px-6 text-base font-black text-red-100 transition hover:border-red-300 hover:bg-red-950/40"
-          : "group flex min-h-16 items-center justify-between gap-4 rounded-2xl bg-gradient-to-r from-red-700 to-red-600 px-6 text-base font-black text-white shadow-[0_0_24px_rgba(220,38,38,.22)] transition hover:from-red-600 hover:to-red-500 hover:shadow-[0_0_32px_rgba(239,68,68,.3)]"
-      }
-    >
-      <span>{children}</span>
-
-      <span className="shrink-0 transition group-hover:translate-x-1 group-hover:-translate-y-1">
-        <ExternalArrow />
-      </span>
-    </a>
-  );
-}
+const regionLinks = [
+  {
+    code: "CN",
+    flag: "🇨🇳",
+    title: "中国 T表",
+    subtitle: "China Meta",
+    provider: "UA Ricky",
+    description: "特别感谢 UA Ricky 提供中国地区 Union Arena T表资讯。",
+    href: "https://deck.xingkaji.com/deck/#/pages/liqi_print/liqi_print",
+    external: true,
+    accent: "from-red-950/80 via-zinc-950 to-zinc-950",
+    landmark: "CN",
+  },
+  {
+    code: "MY",
+    flag: "🇲🇾",
+    title: "马来西亚 T表",
+    subtitle: "Malaysia Meta",
+    provider: "BehDeck",
+    description: "前往卡零社首页的马来西亚 T表合作专区。",
+    href: "/#malaysia-meta",
+    external: false,
+    accent: "from-red-950/80 via-zinc-950 to-zinc-950",
+    landmark: "KL",
+  },
+  {
+    code: "TW",
+    flag: "🇹🇼",
+    title: "台湾 T表",
+    subtitle: "Taiwan Meta",
+    provider: "Instagram",
+    description: "查看台湾 Union Arena 环境 T表。",
+    href: "https://www.instagram.com/p/DZ2r3pnRRhf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    external: true,
+    accent: "from-red-950/80 via-zinc-950 to-zinc-950",
+    landmark: "TAIPEI",
+  },
+  {
+    code: "TW 3v3",
+    flag: "🇹🇼",
+    title: "台湾 3v3 T表",
+    subtitle: "Taiwan 3v3 Meta",
+    provider: "Instagram",
+    description: "查看台湾 Union Arena 3v3 环境 T表。",
+    href: "https://www.instagram.com/p/DagGSCJTKJN/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==",
+    external: true,
+    accent: "from-red-950/80 via-zinc-950 to-zinc-950",
+    landmark: "3v3",
+  },
+];
 
 export default function TierListPage() {
   return (
-    <main className="min-h-screen overflow-hidden bg-black text-white">
-      <div
-        aria-hidden="true"
-        className="pointer-events-none fixed inset-0 opacity-25"
-        style={{
-          backgroundImage:
-            "linear-gradient(rgba(127,29,29,.12) 1px, transparent 1px), linear-gradient(90deg, rgba(127,29,29,.12) 1px, transparent 1px)",
-          backgroundSize: "42px 42px",
-          maskImage:
-            "linear-gradient(to bottom, black, transparent 88%)",
-        }}
-      />
+    <main className="min-h-screen bg-[#f5f2ec] text-zinc-950">
+      <section className="mx-auto w-full max-w-7xl px-4 py-8 sm:px-6 lg:px-8 lg:py-12">
+        <div className="relative overflow-hidden rounded-[28px] border border-red-950/25 bg-black px-6 py-12 text-white shadow-[0_24px_80px_rgba(60,0,0,0.22)] sm:px-10 lg:px-14 lg:py-16">
+          <div
+            aria-hidden="true"
+            className="absolute inset-0 opacity-50"
+            style={{
+              backgroundImage:
+                "linear-gradient(rgba(127,29,29,.18) 1px, transparent 1px), linear-gradient(90deg, rgba(127,29,29,.18) 1px, transparent 1px)",
+              backgroundSize: "34px 34px",
+            }}
+          />
+          <div
+            aria-hidden="true"
+            className="absolute -right-16 top-1/2 h-80 w-80 -translate-y-1/2 rounded-full bg-red-700/25 blur-3xl"
+          />
+          <div className="relative max-w-3xl">
+            <p className="mb-3 text-xs font-black tracking-[0.32em] text-red-400 sm:text-sm">
+              CARDZERO META LINKS
+            </p>
+            <h1 className="text-4xl font-black tracking-tight sm:text-5xl lg:text-7xl">
+              Union Arena{" "}
+              <span className="bg-gradient-to-b from-white via-red-200 to-red-500 bg-clip-text text-transparent">
+                环境T表
+              </span>
+            </h1>
+            <p className="mt-5 max-w-2xl text-base leading-7 text-zinc-300 sm:text-lg">
+              选择地区，前往对应的 Union Arena 环境资料与 T表来源。
+            </p>
+          </div>
+        </div>
 
-      <div className="relative mx-auto max-w-7xl px-3 py-7 sm:px-6 sm:py-10 lg:px-8">
-        <header className="mb-7">
-          <p className="text-xs font-black tracking-[0.28em] text-red-400">
-            UNION ARENA META
-          </p>
-
-          <h1 className="mt-2 text-3xl font-black sm:text-4xl">
-            环境 T表专区
-          </h1>
-
-          <p className="mt-3 max-w-2xl text-sm leading-7 text-zinc-500">
-            选择地区，前往查看对应的 Union Arena 环境资料与 T表。
-          </p>
-        </header>
-
-        <section className="grid items-stretch gap-5 md:grid-cols-2">
-          {/* 马来西亚 */}
-          <article className="relative flex min-h-[650px] flex-col overflow-hidden rounded-3xl border border-red-700/70 bg-[#080808] p-6 shadow-[0_0_40px_rgba(185,28,28,.18)] sm:p-8 lg:p-10">
-            <div
-              aria-hidden="true"
-              className="absolute inset-0 opacity-65"
-              style={{
-                background:
-                  "radial-gradient(circle at 90% 10%, rgba(220,38,38,.27), transparent 31%), radial-gradient(circle at 5% 95%, rgba(127,29,29,.24), transparent 36%), linear-gradient(135deg, rgba(255,255,255,.025), transparent 48%)",
-              }}
-            />
-
-            <div
-              aria-hidden="true"
-              className="absolute -right-16 -top-16 h-64 w-64 rounded-full border border-red-500/20"
-            />
-            <div
-              aria-hidden="true"
-              className="absolute right-4 top-4 h-36 w-36 rounded-full border border-red-500/20"
-            />
-
-            <div className="relative z-10 flex h-full flex-col">
-              <div className="flex items-start justify-between gap-4">
-                <span className="inline-flex rounded-full border border-red-500/30 bg-red-950/30 px-3 py-1.5 text-[10px] font-black tracking-[0.22em] text-red-300">
-                  MALAYSIA META
-                </span>
-
-                <ProviderLogo provider="behdeck" />
-              </div>
-
-              <h2 className="mt-10 text-3xl font-black leading-tight sm:text-4xl">
-                马来西亚
-                <span className="ml-2 bg-gradient-to-b from-white to-red-500 bg-clip-text text-transparent">
-                  T表专区
-                </span>
+        <section className="mt-8">
+          <div className="mb-5 flex items-end justify-between gap-4">
+            <div>
+              <p className="text-xs font-black tracking-[0.25em] text-red-700">
+                SELECT REGION
+              </p>
+              <h2 className="mt-1 text-2xl font-black sm:text-3xl">
+                选择地区
               </h2>
+            </div>
+            <p className="hidden text-sm text-zinc-500 sm:block">
+              点击卡片前往相关页面
+            </p>
+          </div>
 
-              <p className="mt-2 text-lg font-black italic text-zinc-300">
-                BehDeck
-              </p>
+          <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
+            {regionLinks.map((item) => (
+              <a
+                key={item.code}
+                href={item.href}
+                target={item.external ? "_blank" : undefined}
+                rel={item.external ? "noopener noreferrer" : undefined}
+                className="group relative min-h-[330px] overflow-hidden rounded-[24px] border border-red-900/45 bg-zinc-950 p-6 text-white shadow-[0_18px_50px_rgba(15,0,0,0.18)] transition duration-300 hover:-translate-y-1 hover:border-red-500 hover:shadow-[0_24px_65px_rgba(127,29,29,0.28)] focus:outline-none focus-visible:ring-4 focus-visible:ring-red-500/35 sm:p-7"
+                aria-label={`${item.title}，${item.external ? "将在新分页打开" : "前往首页合作专区"}`}
+              >
+                <div
+                  aria-hidden="true"
+                  className={`absolute inset-0 bg-gradient-to-br ${item.accent}`}
+                />
+                <div
+                  aria-hidden="true"
+                  className="absolute inset-0 opacity-30"
+                  style={{
+                    backgroundImage:
+                      "linear-gradient(rgba(239,68,68,.16) 1px, transparent 1px), linear-gradient(90deg, rgba(239,68,68,.16) 1px, transparent 1px)",
+                    backgroundSize: "24px 24px",
+                  }}
+                />
+                <div
+                  aria-hidden="true"
+                  className="absolute -bottom-20 -right-12 text-[150px] font-black leading-none text-red-700/10 transition duration-300 group-hover:text-red-600/15"
+                >
+                  {item.landmark}
+                </div>
 
-              <div className="mt-4 h-1 w-16 rounded-full bg-red-600" />
+                <div className="relative flex h-full flex-col">
+                  <div className="flex items-start justify-between">
+                    <span className="text-3xl" aria-hidden="true">
+                      {item.flag}
+                    </span>
+                    <span className="grid h-10 w-10 place-items-center rounded-full border border-white/15 bg-white/5 text-xl transition group-hover:border-red-400/60 group-hover:bg-red-500/10">
+                      ↗
+                    </span>
+                  </div>
 
-              <p className="mt-5 text-sm leading-7 text-zinc-300">
-                掌握最新 Union Arena 马来西亚比赛环境资料与 T表。
-              </p>
+                  <div className="mt-10">
+                    <p className="text-5xl font-black italic tracking-tight sm:text-6xl">
+                      {item.code}
+                    </p>
+                    <p className="mt-3 text-xl font-black">{item.title}</p>
+                    <p className="mt-1 text-sm font-bold uppercase tracking-[0.18em] text-red-400">
+                      {item.subtitle}
+                    </p>
+                  </div>
 
-              <p className="mt-3 text-sm leading-7 text-zinc-500">
-                🐙 特别感谢 BehDeck 提供相关 T表的资讯。
-              </p>
-
-              <div className="relative z-10 mt-5">
-                <LargeLinkButton href={BEHDECK_URL}>
-                  查看 BehDeck 完整 T表与参考构筑
-                </LargeLinkButton>
-              </div>
-
-              <div className="relative z-10 mt-auto pt-6">
-                <div className="rounded-2xl border border-red-950 bg-black/65 p-5">
-                  <p className="text-sm font-black text-white">
-                    喜欢这些免费的环境资料吗？
-                  </p>
-
-                  <p className="mt-1 text-xs leading-6 text-zinc-500">
-                    支持八脚鱼继续维护 BehDeck。
-                  </p>
-
-                  <div className="mt-4">
-                    <BehDeckKofiButton />
+                  <div className="mt-auto pt-8">
+                    <div className="h-px w-full bg-gradient-to-r from-red-600/70 to-transparent" />
+                    <div className="mt-4 flex items-end justify-between gap-4">
+                      <div>
+                        <p className="text-xs font-bold tracking-[0.18em] text-zinc-500">
+                          SOURCE
+                        </p>
+                        <p className="mt-1 font-bold text-zinc-200">
+                          {item.provider}
+                        </p>
+                        <p className="mt-2 text-sm leading-6 text-zinc-400">
+                          {item.description}
+                        </p>
+                      </div>
+                      <span className="shrink-0 text-3xl text-red-400 transition group-hover:translate-x-1">
+                        →
+                      </span>
+                    </div>
                   </div>
                 </div>
-              </div>
-            </div>
-
-            <MalaysiaSkyline />
-          </article>
-
-          {/* 台湾 */}
-          <article className="relative flex min-h-[650px] flex-col overflow-hidden rounded-3xl border border-red-700/70 bg-[#080808] p-6 shadow-[0_0_40px_rgba(185,28,28,.18)] sm:p-8 lg:p-10">
-            <div
-              aria-hidden="true"
-              className="absolute inset-0 opacity-65"
-              style={{
-                background:
-                  "radial-gradient(circle at 90% 10%, rgba(220,38,38,.27), transparent 31%), radial-gradient(circle at 5% 95%, rgba(127,29,29,.24), transparent 36%), linear-gradient(135deg, rgba(255,255,255,.025), transparent 48%)",
-              }}
-            />
-
-            <div
-              aria-hidden="true"
-              className="absolute -right-16 -top-16 h-64 w-64 rounded-full border border-red-500/20"
-            />
-            <div
-              aria-hidden="true"
-              className="absolute right-4 top-4 h-36 w-36 rounded-full border border-red-500/20"
-            />
-
-            <div className="relative z-10 flex h-full flex-col">
-              <div className="flex items-start justify-between gap-4">
-                <span className="inline-flex rounded-full border border-red-500/30 bg-red-950/30 px-3 py-1.5 text-[10px] font-black tracking-[0.22em] text-red-300">
-                  TAIWAN META
-                </span>
-
-                <ProviderLogo provider="mr-kado" />
-              </div>
-
-              <h2 className="mt-10 text-3xl font-black leading-tight sm:text-4xl">
-                台湾
-                <span className="ml-2 bg-gradient-to-b from-white to-red-500 bg-clip-text text-transparent">
-                  T表专区
-                </span>
-              </h2>
-
-              <p className="mt-2 text-lg font-black italic text-zinc-300">
-                Mr.Kado_TCG
-              </p>
-
-              <div className="mt-4 h-1 w-16 rounded-full bg-red-600" />
-
-              <p className="mt-5 text-sm leading-7 text-zinc-300">
-                查看台湾 Union Arena 环境 T表以及 3v3 团队赛环境资料。
-              </p>
-
-              <p className="mt-3 text-sm leading-7 text-zinc-500">
-                特别感谢 Mr.Kado_TCG 提供相关 T表的资讯。
-              </p>
-
-              <div className="relative z-10 mt-5 space-y-3">
-                <LargeLinkButton href={TAIWAN_TIER_LIST_URL}>
-                  查看Mr.Kado T表
-                </LargeLinkButton>
-
-                <LargeLinkButton
-                  href={TAIWAN_3V3_URL}
-                  secondary
-                >
-                  查看Mr.Kado 3v3 T表
-                </LargeLinkButton>
-              </div>
-
-              <div className="mt-auto" />
-            </div>
-
-            <TaiwanSkyline />
-          </article>
+              </a>
+            ))}
+          </div>
         </section>
 
-        <p className="mx-auto mt-8 max-w-3xl text-center text-xs leading-6 text-zinc-600">
-          马来西亚资料由 BehDeck 提供；台湾资料由 Mr.Kado_TCG 提供。
-          所有按钮会跳转至对应的原始资料页面。
-        </p>
-      </div>
+        <div className="mt-7 rounded-2xl border border-zinc-200 bg-white px-5 py-4 text-sm leading-6 text-zinc-600 shadow-sm">
+          <strong className="text-zinc-900">链接安排：</strong>
+          台湾与台湾 3v3 卡片会直接打开 Instagram；中国卡片会打开 UA Ricky 的中国 T表页面；马来西亚卡片会先回到卡零社首页的 BehDeck 合作专区，再由该专区前往 BehDeck。
+        </div>
+      </section>
     </main>
   );
 }
