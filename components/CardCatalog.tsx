@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import Image from "next/image";
 import Link from "next/link";
@@ -10,7 +10,6 @@ import {
 
 import type { Card } from "../data/card-series-generated";
 import { useDeckStorage } from "../hooks/useDeckStorage";
-
 type CardCatalogProps = {
   cards: Card[];
 };
@@ -43,9 +42,9 @@ const gridModeLabels: Record<
   GridMode,
   string
 > = {
-  compact: "ç´§å‡‘",
-  standard: "æ ‡å‡†",
-  large: "å¤§å›¾",
+  compact: "紧凑",
+  standard: "标准",
+  large: "大图",
 };
 
 function normalize(value: unknown) {
@@ -136,7 +135,7 @@ function getColorStyles(
   color: string,
 ) {
   switch (color) {
-    case "çº¢è‰²":
+    case "红色":
       return {
         border:
           "border-red-950 hover:border-red-500",
@@ -147,7 +146,7 @@ function getColorStyles(
           "border-red-900 bg-red-950/80 text-red-300",
       };
 
-    case "è“è‰²":
+    case "蓝色":
       return {
         border:
           "border-blue-950 hover:border-blue-500",
@@ -158,7 +157,7 @@ function getColorStyles(
           "border-blue-900 bg-blue-950/80 text-blue-300",
       };
 
-    case "ç»¿è‰²":
+    case "绿色":
       return {
         border:
           "border-emerald-950 hover:border-emerald-500",
@@ -169,7 +168,7 @@ function getColorStyles(
           "border-emerald-900 bg-emerald-950/80 text-emerald-300",
       };
 
-    case "é»„è‰²":
+    case "黄色":
       return {
         border:
           "border-yellow-950 hover:border-yellow-500",
@@ -180,7 +179,7 @@ function getColorStyles(
           "border-yellow-900 bg-yellow-950/80 text-yellow-300",
       };
 
-    case "ç´«è‰²":
+    case "紫色":
       return {
         border:
           "border-purple-950 hover:border-purple-500",
@@ -246,28 +245,28 @@ function parseGeneratedEnergy(
   );
 
   const colorKey =
-    raw.includes("é»„è‰²") ||
-    raw.includes("é»ƒè‰²") ||
-    raw.includes("é»„") ||
-    raw.includes("é»ƒ")
+    raw.includes("黄色") ||
+    raw.includes("黃色") ||
+    raw.includes("黄") ||
+    raw.includes("黃")
       ? "yellow"
-      : raw.includes("çº¢è‰²") ||
-          raw.includes("ç´…è‰²") ||
-          raw.includes("çº¢") ||
-          raw.includes("ç´…")
+      : raw.includes("红色") ||
+          raw.includes("紅色") ||
+          raw.includes("红") ||
+          raw.includes("紅")
         ? "red"
-        : raw.includes("è“è‰²") ||
-            raw.includes("è—è‰²") ||
-            raw.includes("è“") ||
-            raw.includes("è—")
+        : raw.includes("蓝色") ||
+            raw.includes("藍色") ||
+            raw.includes("蓝") ||
+            raw.includes("藍")
           ? "blue"
-          : raw.includes("ç»¿è‰²") ||
-              raw.includes("ç¶ è‰²") ||
-              raw.includes("ç»¿") ||
-              raw.includes("ç¶ ")
+          : raw.includes("绿色") ||
+              raw.includes("綠色") ||
+              raw.includes("绿") ||
+              raw.includes("綠")
             ? "green"
-            : raw.includes("ç´«è‰²") ||
-                raw.includes("ç´«")
+            : raw.includes("紫色") ||
+                raw.includes("紫")
               ? "purple"
               : "neutral";
 
@@ -275,12 +274,12 @@ function parseGeneratedEnergy(
     string,
     string
   > = {
-    yellow: "é»„è‰²",
-    red: "çº¢è‰²",
-    blue: "è“è‰²",
-    green: "ç»¿è‰²",
-    purple: "ç´«è‰²",
-    neutral: "æ— è‰²",
+    yellow: "黄色",
+    red: "红色",
+    blue: "蓝色",
+    green: "绿色",
+    purple: "紫色",
+    neutral: "无色",
   };
 
   return {
@@ -328,8 +327,8 @@ function GeneratedEnergyDots({
   return (
     <div
       className="flex min-h-7 flex-wrap items-center justify-center gap-1.5"
-      aria-label={`${energy.colorLabel}èƒ½é‡ ${energy.count}`}
-      title={`${energy.colorLabel} Ã— ${energy.count}`}
+      aria-label={`${energy.colorLabel}能量 ${energy.count}`}
+      title={`${energy.colorLabel} × ${energy.count}`}
     >
       {Array.from({
         length: energy.count,
@@ -367,16 +366,16 @@ function CardArtwork({
     return (
       <div className="flex h-full w-full flex-col items-center justify-center bg-zinc-950 px-4 text-center">
         <span className="text-3xl text-zinc-700">
-          â–£
+          ▣
         </span>
 
         <p className="mt-3 text-xs font-bold text-zinc-500">
-          å¡å›¾è½½å…¥å¤±è´¥
+          卡图载入失败
         </p>
 
         <p className="mt-1 break-all text-[9px] leading-4 text-zinc-700">
           {imageSrc ||
-            "æ²¡æœ‰å›¾ç‰‡è·¯å¾„"}
+            "没有图片路径"}
         </p>
       </div>
     );
@@ -403,7 +402,6 @@ export default function CardCatalog({
   // CARDZERO_DECK_INTEGRATION_START
   const {
     deck,
-
     totalCards,
     addCard,
     decreaseCard,
@@ -421,27 +419,27 @@ export default function CardCatalog({
   const [
     seriesFilter,
     setSeriesFilter,
-  ] = useState("å…¨éƒ¨");
+  ] = useState("全部");
 
   const [
     colorFilter,
     setColorFilter,
-  ] = useState("å…¨éƒ¨");
+  ] = useState("全部");
 
   const [
     typeFilter,
     setTypeFilter,
-  ] = useState("å…¨éƒ¨");
+  ] = useState("全部");
 
   const [
     rarityFilter,
     setRarityFilter,
-  ] = useState("å…¨éƒ¨");
+  ] = useState("全部");
 
   const [
     costFilter,
     setCostFilter,
-  ] = useState("å…¨éƒ¨");
+  ] = useState("全部");
 
   const [sortMode, setSortMode] =
     useState<SortMode>("number");
@@ -560,31 +558,31 @@ export default function CardCatalog({
 
           const matchesSeries =
             seriesFilter ===
-              "å…¨éƒ¨" ||
+              "全部" ||
             card.series ===
               seriesFilter;
 
           const matchesColor =
             colorFilter ===
-              "å…¨éƒ¨" ||
+              "全部" ||
             card.color ===
               colorFilter;
 
           const matchesType =
             typeFilter ===
-              "å…¨éƒ¨" ||
+              "全部" ||
             card.type ===
               typeFilter;
 
           const matchesRarity =
             rarityFilter ===
-              "å…¨éƒ¨" ||
+              "全部" ||
             card.rarity ===
               rarityFilter;
 
           const matchesCost =
             costFilter ===
-              "å…¨éƒ¨" ||
+              "全部" ||
             String(card.cost) ===
               costFilter;
 
@@ -699,7 +697,7 @@ export default function CardCatalog({
     costFilter,
   ].filter(
     (value) =>
-      value !== "å…¨éƒ¨",
+      value !== "全部",
   ).length;
 
   const gridClassName =
@@ -711,11 +709,11 @@ export default function CardCatalog({
 
   function clearFilters() {
     setSearch("");
-    setSeriesFilter("å…¨éƒ¨");
-    setColorFilter("å…¨éƒ¨");
-    setTypeFilter("å…¨éƒ¨");
-    setRarityFilter("å…¨éƒ¨");
-    setCostFilter("å…¨éƒ¨");
+    setSeriesFilter("全部");
+    setColorFilter("全部");
+    setTypeFilter("全部");
+    setRarityFilter("全部");
+    setCostFilter("全部");
     setSortMode("number");
   }
 
@@ -780,12 +778,12 @@ export default function CardCatalog({
               </p>
 
               <h1 className="mt-3 text-3xl font-black text-white sm:text-4xl">
-                å¡ç‰Œèµ„æ–™åº“
+                卡牌资料库
               </h1>
 
               <p className="mt-3 max-w-2xl text-sm leading-7 text-zinc-400">
                 UNION ARENA
-                ä¸­æ–‡å¡ç‰Œèµ„æ–™ã€å¡å›¾ä¸Žæ•ˆæžœæŸ¥è¯¢ã€‚
+                中文卡牌资料、卡图与效果查询。
               </p>
             </div>
 
@@ -798,7 +796,7 @@ export default function CardCatalog({
                 </p>
 
                 <p className="mt-1 text-[11px] text-zinc-500">
-                  å¡å·
+                  卡号
                 </p>
               </div>
 
@@ -808,7 +806,7 @@ export default function CardCatalog({
                 </p>
 
                 <p className="mt-1 text-[11px] text-zinc-500">
-                  å¡å›¾
+                  卡图
                 </p>
               </div>
 
@@ -820,7 +818,7 @@ export default function CardCatalog({
                 </p>
 
                 <p className="mt-1 text-[11px] text-zinc-500">
-                  ä¸­æ–‡åŒ–
+                  中文化
                 </p>
               </div>
             </div>
@@ -831,7 +829,7 @@ export default function CardCatalog({
           <div className="grid gap-3 xl:grid-cols-[minmax(260px,1.6fr)_repeat(5,minmax(125px,0.7fr))]">
             <div className="relative">
               <span className="pointer-events-none absolute left-4 top-1/2 -translate-y-1/2 text-zinc-600">
-                âŒ•
+                ⌕
               </span>
 
               <input
@@ -845,7 +843,7 @@ export default function CardCatalog({
                       .value,
                   )
                 }
-                placeholder="æœç´¢ä¸­æ–‡å¡åã€æ—¥æ–‡å¡åã€ç¼–å·æˆ–æ•ˆæžœ"
+                placeholder="搜索中文卡名、日文卡名、编号或效果"
                 className="w-full rounded-xl border border-zinc-800 bg-black py-3 pl-10 pr-4 text-sm text-white outline-none transition placeholder:text-zinc-600 focus:border-red-600"
               />
             </div>
@@ -866,8 +864,8 @@ export default function CardCatalog({
                 selectClassName
               }
             >
-              <option value="å…¨éƒ¨">
-                å…¨éƒ¨ä½œå“
+              <option value="全部">
+                全部作品
               </option>
 
               {seriesOptions.map(
@@ -898,8 +896,8 @@ export default function CardCatalog({
                 selectClassName
               }
             >
-              <option value="å…¨éƒ¨">
-                å…¨éƒ¨é¢œè‰²
+              <option value="全部">
+                全部颜色
               </option>
 
               {colorOptions.map(
@@ -930,8 +928,8 @@ export default function CardCatalog({
                 selectClassName
               }
             >
-              <option value="å…¨éƒ¨">
-                å…¨éƒ¨ç±»åž‹
+              <option value="全部">
+                全部类型
               </option>
 
               {typeOptions.map(
@@ -962,8 +960,8 @@ export default function CardCatalog({
                 selectClassName
               }
             >
-              <option value="å…¨éƒ¨">
-                å…¨éƒ¨ç¨€æœ‰åº¦
+              <option value="全部">
+                全部稀有度
               </option>
 
               {rarityOptions.map(
@@ -994,8 +992,8 @@ export default function CardCatalog({
                 selectClassName
               }
             >
-              <option value="å…¨éƒ¨">
-                å…¨éƒ¨è´¹ç”¨
+              <option value="全部">
+                全部费用
               </option>
 
               {costOptions.map(
@@ -1006,7 +1004,7 @@ export default function CardCatalog({
                       cost,
                     )}
                   >
-                    {cost} è´¹
+                    {cost} 费
                   </option>
                 ),
               )}
@@ -1016,13 +1014,13 @@ export default function CardCatalog({
           <div className="mt-4 flex flex-col gap-3 border-t border-zinc-900 pt-4 md:flex-row md:items-center md:justify-between">
             <div className="flex flex-wrap items-center gap-3">
               <p className="text-sm text-zinc-400">
-                æ‰¾åˆ°{" "}
+                找到{" "}
                 <span className="font-black text-white">
                   {
                     filteredCards.length
                   }
                 </span>{" "}
-                å¼ å¡ç‰Œ
+                张卡牌
               </p>
 
               {activeFilterCount >
@@ -1031,7 +1029,7 @@ export default function CardCatalog({
                   {
                     activeFilterCount
                   }{" "}
-                  ä¸ªç­›é€‰
+                  个筛选
                 </span>
               )}
 
@@ -1045,7 +1043,7 @@ export default function CardCatalog({
                   }
                   className="text-xs font-bold text-zinc-500 transition hover:text-red-400"
                 >
-                  æ¸…é™¤å…¨éƒ¨
+                  清除全部
                 </button>
               )}
             </div>
@@ -1064,27 +1062,27 @@ export default function CardCatalog({
                 className="rounded-lg border border-zinc-800 bg-black px-3 py-2 text-xs text-zinc-300 outline-none focus:border-red-600"
               >
                 <option value="number">
-                  å¡å·æŽ’åº
+                  卡号排序
                 </option>
 
                 <option value="name">
-                  å¡åæŽ’åº
+                  卡名排序
                 </option>
 
                 <option value="cost-low">
-                  è´¹ç”¨ï¼šä½Žè‡³é«˜
+                  费用：低至高
                 </option>
 
                 <option value="cost-high">
-                  è´¹ç”¨ï¼šé«˜è‡³ä½Ž
+                  费用：高至低
                 </option>
 
                 <option value="bp-high">
-                  BPï¼šé«˜è‡³ä½Ž
+                  BP：高至低
                 </option>
 
                 <option value="rarity">
-                  ç¨€æœ‰åº¦æŽ’åº
+                  稀有度排序
                 </option>
               </select>
 
@@ -1147,7 +1145,7 @@ export default function CardCatalog({
                   card.variant,
                 ) &&
                 card.variant !==
-                  "æ™®é€šç‰ˆ";
+                  "普通版";
 
               const sizes =
                 gridMode ===
@@ -1196,14 +1194,14 @@ export default function CardCatalog({
 
                       {isAlternate && (
                         <span className="ml-auto rounded-md border border-amber-700/60 bg-amber-950/90 px-2 py-1 text-[10px] font-black text-amber-300 backdrop-blur">
-                          å¼‚å›¾
+                          异图
                         </span>
                       )}
                     </div>
 
                     {translated && (
                       <div className="absolute bottom-2 left-2 rounded-md border border-emerald-800/70 bg-emerald-950/90 px-2 py-1 text-[9px] font-bold text-emerald-300 backdrop-blur">
-                        ä¸­æ–‡
+                        中文
                       </div>
                     )}
                   </div>
@@ -1273,7 +1271,7 @@ export default function CardCatalog({
                     <div className="mt-3 grid grid-cols-3 gap-1.5 text-center">
                       <div className="rounded-lg bg-black px-1 py-2">
                         <p className="text-[9px] text-zinc-600">
-                          è´¹ç”¨
+                          费用
                         </p>
 
                         <p className="mt-0.5 text-xs font-black text-white">
@@ -1311,11 +1309,11 @@ export default function CardCatalog({
                       "compact" && (
                       <div className="mt-3 flex items-center justify-between border-t border-zinc-900 pt-3">
                         <span className="text-[10px] text-zinc-600">
-                          ç‚¹å‡»æŸ¥çœ‹è¯¦æƒ…
+                          点击查看详情
                         </span>
 
                         <span className="text-sm font-black text-red-500 transition group-hover:translate-x-1">
-                          â†’
+                          →
                         </span>
                       </div>
                     )}
@@ -1330,15 +1328,15 @@ export default function CardCatalog({
           0 && (
           <div className="mt-8 rounded-3xl border border-dashed border-zinc-800 bg-zinc-950 px-6 py-20 text-center">
             <p className="text-4xl">
-              âŒ•
+              ⌕
             </p>
 
             <h2 className="mt-4 text-xl font-black text-white">
-              æ‰¾ä¸åˆ°ç¬¦åˆæ¡ä»¶çš„å¡ç‰Œ
+              找不到符合条件的卡牌
             </h2>
 
             <p className="mt-2 text-sm text-zinc-500">
-              å°è¯•ä¿®æ”¹å…³é”®è¯æˆ–æ¸…é™¤ç­›é€‰æ¡ä»¶ã€‚
+              尝试修改关键词或清除筛选条件。
             </p>
 
             <button
@@ -1348,7 +1346,7 @@ export default function CardCatalog({
               }
               className="mt-6 rounded-xl bg-red-700 px-5 py-3 text-sm font-bold text-white transition hover:bg-red-600"
             >
-              æ¸…é™¤å…¨éƒ¨ç­›é€‰
+              清除全部筛选
             </button>
           </div>
         )}
@@ -1385,10 +1383,10 @@ export default function CardCatalog({
                   null,
                 )
               }
-              aria-label="å…³é—­å¡ç‰Œè¯¦æƒ…"
+              aria-label="关闭卡牌详情"
               className="absolute right-4 top-4 z-30 flex h-11 w-11 items-center justify-center rounded-full border border-zinc-700 bg-black/90 text-2xl text-white transition hover:border-red-600 hover:bg-red-700"
             >
-              Ã—
+              ×
             </button>
 
             <div className="grid gap-0 lg:grid-cols-[minmax(320px,440px)_1fr]">
@@ -1418,8 +1416,8 @@ export default function CardCatalog({
                       rel="noopener noreferrer"
                       className="mx-auto mt-4 block max-w-[420px] rounded-xl border border-zinc-800 bg-zinc-950 px-4 py-3 text-center text-xs font-bold text-zinc-400 transition hover:border-red-700 hover:text-white"
                     >
-                      æŸ¥çœ‹å®˜æ–¹å¡ç‰Œèµ„æ–™
-                      â†—
+                      查看官方卡牌资料
+                      ↗
                     </a>
                   )}
                 </div>
@@ -1456,7 +1454,7 @@ export default function CardCatalog({
                 ) && (
                   <p className="mt-3 inline-flex rounded-full border border-amber-900 bg-amber-950/40 px-3 py-1 text-[10px] font-bold text-amber-400">
                     AI
-                    è‡ªåŠ¨ç¿»è¯‘ãƒ»å¾…äººå·¥æ ¡å¯¹
+                    自动翻译・待人工校对
                   </p>
                 )}
 
@@ -1487,7 +1485,7 @@ export default function CardCatalog({
 
                   {selectedCard.variant &&
                     selectedCard.variant !==
-                      "æ™®é€šç‰ˆ" && (
+                      "普通版" && (
                       <span className="rounded-full border border-amber-800 bg-amber-950/30 px-3 py-2 text-xs font-bold text-amber-300">
                         {
                           selectedCard.variant
@@ -1500,7 +1498,7 @@ export default function CardCatalog({
                   {[
                     {
                       label:
-                        "è´¹ç”¨",
+                        "费用",
                       value:
                         selectedCard.cost,
                     },
@@ -1519,7 +1517,7 @@ export default function CardCatalog({
                     },
                     {
                       label:
-                        "äº§ç”Ÿèƒ½é‡",
+                        "产生能量",
                       value: (
                         <GeneratedEnergyDots
                           value={
@@ -1557,11 +1555,11 @@ export default function CardCatalog({
                   <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
                     <div>
                       <p className="text-xs font-black tracking-[0.18em] text-red-500">
-                        åŠ å…¥å¡ç»„
+                        加入主卡组
                       </p>
 
                       <p className="mt-1 text-sm text-zinc-500">
-                        å½“å‰æ•°é‡{" "}
+                        当前数量{" "}
                         <strong className="text-white">
                           {getCardQuantity(
                             selectedCard.id,
@@ -1576,11 +1574,11 @@ export default function CardCatalog({
                       )}`}
                       className="text-xs font-black text-red-400 transition hover:text-red-300"
                     >
-                      æ‰“å¼€å®Œæ•´ç»„ç‰Œå·¥å…· â†’
+                      打开完整组牌工具 →
                     </Link>
                   </div>
 
-                  <div className="mt-4 grid grid-cols-[56px_1fr_56px] gap-2">
+                  <div className="mt-4 grid grid-cols-[48px_1fr] gap-2">
                     <button
                       type="button"
                       disabled={
@@ -1595,14 +1593,8 @@ export default function CardCatalog({
                       }
                       className="flex h-12 items-center justify-center rounded-xl border border-zinc-700 bg-zinc-900 text-xl font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
                     >
-                      âˆ’
+                      −
                     </button>
-
-                    <div className="flex h-12 items-center justify-center rounded-xl border border-zinc-800 bg-zinc-950 text-lg font-black text-white">
-                      {getCardQuantity(
-                        selectedCard.id,
-                      )}
-                    </div>
 
                     <button
                       type="button"
@@ -1616,9 +1608,9 @@ export default function CardCatalog({
                           result.message,
                         );
                       }}
-                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 text-xl font-black text-white transition hover:bg-red-600"
+                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 px-5 text-sm font-black text-white transition hover:bg-red-600"
                     >
-                      ï¼‹
+                      ＋ 加入卡组
                     </button>
                   </div>
 
@@ -1634,7 +1626,7 @@ export default function CardCatalog({
                     "-" && (
                     <div className="mt-5 flex items-start gap-3 rounded-xl border border-zinc-800 bg-black/50 px-4 py-3">
                       <span className="text-xs font-bold text-zinc-600">
-                        ç‰¹å¾
+                        特征
                       </span>
 
                       <span className="text-sm text-zinc-300">
@@ -1648,14 +1640,14 @@ export default function CardCatalog({
                 <div className="mt-7 rounded-2xl border border-red-950 bg-red-950/15 p-5 sm:p-6">
                   <p className="text-xs font-black tracking-[0.2em] text-red-500">
                     {selectedCard.effectZh
-                      ? "ä¸­æ–‡æ•ˆæžœ"
-                      : "å¡ç‰Œæ•ˆæžœ"}
+                      ? "中文效果"
+                      : "卡牌效果"}
                   </p>
 
                   <p className="mt-4 whitespace-pre-line text-sm leading-8 text-zinc-200 sm:text-base">
                     {selectedCard.effectZh ||
                       selectedCard.effect ||
-                      "æ— æ•ˆæžœ"}
+                      "无效果"}
                   </p>
                 </div>
 
@@ -1692,7 +1684,7 @@ export default function CardCatalog({
                       className="flex w-full items-center justify-between px-5 py-4 text-left text-sm font-bold text-zinc-400 transition hover:text-white"
                     >
                       <span>
-                        æŸ¥çœ‹æ—¥æ–‡åŽŸæ–‡
+                        查看日文原文
                       </span>
 
                       <span
@@ -1702,7 +1694,7 @@ export default function CardCatalog({
                             : ""
                         }`}
                       >
-                        â†“
+                        ↓
                       </span>
                     </button>
 
@@ -1715,7 +1707,7 @@ export default function CardCatalog({
 
                         <p className="mt-3 whitespace-pre-line text-sm leading-7 text-zinc-400">
                           {selectedCard.effect ||
-                            "æ— "}
+                            "无"}
                         </p>
 
                         {selectedCard.trigger &&
@@ -1739,26 +1731,25 @@ export default function CardCatalog({
                 )}
 
                 <p className="mt-6 text-xs leading-6 text-zinc-600">
-                  ç‚¹å‡»é»‘è‰²èƒŒæ™¯ã€å³ä¸Šè§’
-                  Ã— æˆ–æŒ‰é”®ç›˜ Esc
-                  å…³é—­ã€‚
+                  点击黑色背景、右上角
+                  × 或按键盘 Esc
+                  关闭。
                 </p>
               </div>
             </div>
           </div>
         </div>
       )}
-{/* CARDZERO_DECK_INTEGRATION_FLOATING_BAR */}
+      {/* CARDZERO_DECK_INTEGRATION_FLOATING_BAR */}
       {totalCards > 0 ? (
         <div className="fixed bottom-4 left-1/2 z-40 flex w-[calc(100%-24px)] max-w-xl -translate-x-1/2 items-center justify-between gap-4 rounded-2xl border border-red-500/60 bg-zinc-950/95 px-4 py-3 shadow-[0_15px_55px_rgba(0,0,0,.8)] backdrop-blur">
           <div className="min-w-0">
             <p className="truncate text-xs font-black text-white">
-              {deck.name || "å½“å‰å¡ç»„"}
+              {deck.name || "当前卡组"}
             </p>
 
             <p className="mt-1 truncate text-[10px] text-zinc-500">
-              {deck.series} Â·{" "}
-              {totalCards}/50
+              {deck.series} · {totalCards}/50
             </p>
           </div>
 
@@ -1772,7 +1763,7 @@ export default function CardCatalog({
             }
             className="shrink-0 rounded-xl bg-red-700 px-4 py-3 text-xs font-black text-white transition hover:bg-red-600"
           >
-            æ‰“å¼€å¡ç»„
+            打开卡组
           </Link>
         </div>
       ) : null}
