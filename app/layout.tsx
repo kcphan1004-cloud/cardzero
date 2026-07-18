@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+
 import "./globals.css";
 import Navbar from "../components/Navbar";
 import { AuthProvider } from "../components/AuthProvider";
@@ -14,7 +15,7 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
-export const metadata = {
+export const metadata: Metadata = {
   title: "卡零社 CardZero｜华语 TCG 内容平台",
   description:
     "卡零社 CardZero 分享 Union Arena 卡牌资讯、卡组分析、赛事活动与影片内容。",
@@ -27,7 +28,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="zh-CN">
-      <body>
+      <body
+        className={`${geistSans.variable} ${geistMono.variable}`}
+      >
         <AuthProvider>
           <Navbar />
           {children}
