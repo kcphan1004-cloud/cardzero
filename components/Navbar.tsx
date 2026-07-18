@@ -7,6 +7,7 @@ import {
   useRef,
   useState,
 } from "react";
+
 import AccountMenu from "./AccountMenu";
 
 type NavigationItem = {
@@ -76,6 +77,7 @@ function NavigationLink({
         onClick={onNavigate}
       >
         {item.name}
+
         <span className="ml-1 text-xs text-gray-500">
           ↗
         </span>
@@ -127,10 +129,12 @@ export default function Navbar() {
       "mousedown",
       handlePointerDown,
     );
+
     document.addEventListener(
       "touchstart",
       handlePointerDown,
     );
+
     window.addEventListener(
       "keydown",
       handleKeyDown,
@@ -141,10 +145,12 @@ export default function Navbar() {
         "mousedown",
         handlePointerDown,
       );
+
       document.removeEventListener(
         "touchstart",
         handlePointerDown,
       );
+
       window.removeEventListener(
         "keydown",
         handleKeyDown,
@@ -180,6 +186,8 @@ export default function Navbar() {
               item={item}
             />
           ))}
+
+          <AccountMenu />
         </div>
 
         {/* 手机导航 */}
@@ -217,7 +225,7 @@ export default function Navbar() {
           {menuOpen && (
             <div
               id="mobile-navigation"
-              className="absolute right-0 top-full z-50 mt-3 w-56 overflow-hidden rounded-xl border border-red-900 bg-zinc-950 shadow-2xl shadow-black/70"
+              className="absolute right-0 top-full z-50 mt-3 w-64 overflow-hidden rounded-xl border border-red-900 bg-zinc-950 shadow-2xl shadow-black/70"
             >
               {navigation.map((item) => (
                 <NavigationLink
@@ -229,6 +237,10 @@ export default function Navbar() {
                   }
                 />
               ))}
+
+              <div className="border-t border-zinc-800 p-3">
+                <AccountMenu />
+              </div>
             </div>
           )}
         </div>
