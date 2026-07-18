@@ -21,7 +21,6 @@ type Props = {
 
 type GridMode = "compact" | "standard";
 
-type DeckViewFilter = "全部" | "角色" | "事件" | "场地";
 type DeckSortMode = "加入顺序" | "费用" | "卡号" | "类型";
 type DeckExportMode = "share" | "plain";
 
@@ -162,18 +161,6 @@ function hasTriggerText(value: unknown) {
   return Boolean(text && !["-", "无", "なし", "none", "null"].includes(text));
 }
 
-function deckTypeGroup(
-  value: unknown,
-): Exclude<DeckViewFilter, "全部"> | "其他" {
-  const text = String(value ?? "")
-    .trim()
-    .toLowerCase();
-  if (text.includes("角色") || text.includes("character")) return "角色";
-  if (text.includes("事件") || text.includes("event")) return "事件";
-  if (text.includes("场地") || text.includes("field")) return "场地";
-  return "其他";
-}
-
 export default function DeckBuilderWorkbench({
   cards,
   seriesNames,
@@ -209,7 +196,6 @@ export default function DeckBuilderWorkbench({
 
   const [gridMode, setGridMode] = useState<GridMode>("standard");
 
-  const [deckViewFilter, setDeckViewFilter] = useState<DeckViewFilter>("全部");
   const [deckSortMode, setDeckSortMode] = useState<DeckSortMode>("加入顺序");
   const [exportMenuOpen, setExportMenuOpen] = useState(false);
   const [lastSavedFingerprint, setLastSavedFingerprint] = useState("");
@@ -220,7 +206,7 @@ export default function DeckBuilderWorkbench({
 
   const [mobileDeckOpen, setMobileDeckOpen] = useState(false);
 
-  const [desktopDeckCollapsed, setDesktopDeckCollapsed] = useState(false);
+  const [filterPanelOpen, setFilterPanelOpen] = useState(false);
 
   const [savedDecksOpen, setSavedDecksOpen] = useState(false);
 
@@ -420,12 +406,7 @@ export default function DeckBuilderWorkbench({
     Boolean(lastSavedFingerprint) && deckFingerprint !== lastSavedFingerprint;
 
   const visibleDeckRows = useMemo(() => {
-    const filtered = deckRows.filter(({ card }) => {
-      if (deckViewFilter === "全部") return true;
-      return deckTypeGroup(card?.type) === deckViewFilter;
-    });
-
-    return [...filtered].sort((left, right) => {
+    return [...deckRows].sort((left, right) => {
       if (deckSortMode === "费用") {
         const leftCost = left.card
           ? parseCardNumber(
@@ -452,11 +433,13 @@ export default function DeckBuilderWorkbench({
           })
         );
       }
+
       if (deckSortMode === "卡号") {
         return left.entry.number.localeCompare(right.entry.number, undefined, {
           numeric: true,
         });
       }
+
       if (deckSortMode === "类型") {
         return (
           String(left.card?.type ?? "").localeCompare(
@@ -468,21 +451,13 @@ export default function DeckBuilderWorkbench({
           })
         );
       }
+
       return (
         deck.entries.findIndex((entry) => entry.cardId === left.entry.cardId) -
         deck.entries.findIndex((entry) => entry.cardId === right.entry.cardId)
       );
     });
-  }, [deck.entries, deckRows, deckSortMode, deckViewFilter]);
-
-  const deckGroupCounts = useMemo(() => {
-    const counts = { 全部: totalCards, 角色: 0, 事件: 0, 场地: 0 };
-    for (const { entry, card } of deckRows) {
-      const group = deckTypeGroup(card?.type);
-      if (group !== "其他") counts[group] += entry.quantity;
-    }
-    return counts;
-  }, [deckRows, totalCards]);
+  }, [deck.entries, deckRows, deckSortMode]);
 
   const typeCounts = useMemo(() => {
     const result = new Map<string, number>();
@@ -1050,27 +1025,22 @@ export default function DeckBuilderWorkbench({
         </div>
 
         <div className="shrink-0 border-b border-zinc-900 px-3 py-3">
-          <div className="flex items-center justify-between gap-2">
-            <div className="flex min-w-0 flex-1 gap-1 overflow-x-auto">
-              {(["全部", "角色", "事件", "场地"] as DeckViewFilter[]).map(
-                (filter) => (
-                  <button
-                    key={filter}
-                    type="button"
-                    onClick={() => setDeckViewFilter(filter)}
-                    className={`whitespace-nowrap rounded-lg px-2.5 py-2 text-[10px] font-black transition ${deckViewFilter === filter ? "bg-red-700 text-white" : "border border-zinc-800 bg-black text-zinc-500 hover:text-white"}`}
-                  >
-                    {filter} {deckGroupCounts[filter]}
-                  </button>
-                ),
-              )}
+          <div className="flex items-center justify-between gap-3">
+            <div>
+              <p className="text-[10px] font-black tracking-[0.16em] text-red-500">
+                DECK CONTENT
+              </p>
+              <p className="mt-1 text-xs font-bold text-zinc-300">
+                全部卡牌同时显示
+              </p>
             </div>
+
             <select
               value={deckSortMode}
               onChange={(event) =>
                 setDeckSortMode(event.target.value as DeckSortMode)
               }
-              className="w-24 shrink-0 rounded-lg border border-zinc-800 bg-black px-2 py-2 text-[10px] font-bold text-zinc-300 outline-none"
+              className="w-28 shrink-0 rounded-lg border border-zinc-800 bg-black px-2 py-2 text-[10px] font-bold text-zinc-300 outline-none"
               aria-label="卡组排序"
             >
               <option>加入顺序</option>
@@ -1081,23 +1051,23 @@ export default function DeckBuilderWorkbench({
           </div>
         </div>
 
-        <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-3 pr-2 [scrollbar-color:#7f1d1d_#09090b] [scrollbar-width:thin]">
+        <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain p-3 [scrollbar-color:#7f1d1d_#09090b] [scrollbar-width:thin]">
           {deckRows.length === 0 ? (
             <div className="rounded-xl border border-dashed border-zinc-800 bg-black px-4 py-10 text-center text-xs text-zinc-700">
               点击左侧卡牌的＋加入卡组
             </div>
           ) : (
-            <div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
+            <div className="grid grid-cols-5 content-start gap-1.5">
               {visibleDeckRows.map(({ entry, card }) => (
                 <div
                   key={entry.cardId}
-                  className="relative aspect-[5/7] overflow-hidden rounded-lg border border-zinc-800 bg-black"
+                  className="relative min-w-0 aspect-[5/7] overflow-hidden rounded-md border border-zinc-800 bg-black"
                   title={card ? displayName(card) : entry.number}
                 >
                   {card ? (
                     <CardImage
                       card={card}
-                      sizes="100px"
+                      sizes="86px"
                       className="object-contain"
                     />
                   ) : (
@@ -1283,134 +1253,168 @@ export default function DeckBuilderWorkbench({
 
         <div
           className={`grid items-start gap-5 ${
-            desktopDeckCollapsed
-              ? "xl:grid-cols-[230px_minmax(0,1fr)_72px]"
-              : "xl:grid-cols-[230px_minmax(0,1fr)_390px]"
+            filterPanelOpen
+              ? "xl:grid-cols-[250px_minmax(0,1fr)_430px]"
+              : "xl:grid-cols-[58px_minmax(0,1fr)_430px]"
           }`}
         >
-          <aside className="rounded-3xl border border-zinc-800 bg-zinc-950 p-4 xl:sticky xl:top-[82px]">
-            <div>
-              <p className="text-[10px] font-black tracking-[0.22em] text-red-500">
-                CARD FILTER
-              </p>
-
-              <h2 className="mt-2 text-lg font-black">卡牌筛选</h2>
-            </div>
-
-            <div className="mt-5 grid gap-3 sm:grid-cols-2 xl:grid-cols-1">
-              <label className="sm:col-span-2 xl:col-span-1">
-                <span className="mb-2 block text-xs font-bold text-zinc-500">
-                  作品系列
+          <aside className="rounded-3xl border border-zinc-800 bg-zinc-950 xl:sticky xl:top-[82px]">
+            <button
+              type="button"
+              onClick={() => setFilterPanelOpen((current) => !current)}
+              className={`flex w-full items-center transition hover:bg-red-950/30 ${
+                filterPanelOpen
+                  ? "justify-between rounded-t-3xl border-b border-zinc-900 px-4 py-4"
+                  : "h-14 justify-center rounded-3xl"
+              }`}
+              aria-expanded={filterPanelOpen}
+              aria-label={filterPanelOpen ? "收起卡牌筛选" : "展开卡牌筛选"}
+            >
+              <span className="flex items-center gap-3">
+                <span className="text-xl" aria-hidden="true">
+                  ⌕
                 </span>
-
-                <select
-                  value={selectedSeries}
-                  onChange={(event) => handleSeriesChange(event.target.value)}
-                  className={selectClassName}
-                >
-                  {seriesNames.map((series) => (
-                    <option key={series} value={series}>
-                      {series}
-                    </option>
-                  ))}
-                </select>
-              </label>
-
-              <label className="sm:col-span-2 xl:col-span-1">
-                <span className="mb-2 block text-xs font-bold text-zinc-500">
-                  搜索
-                </span>
-
-                <input
-                  type="search"
-                  value={search}
-                  onChange={(event) => setSearch(event.target.value)}
-                  placeholder="卡名、编号或效果"
-                  className="w-full rounded-xl border border-zinc-800 bg-black px-3 py-3 text-sm text-white outline-none transition placeholder:text-zinc-700 focus:border-red-600"
-                />
-              </label>
-
-              <label>
-                <span className="mb-2 block text-xs font-bold text-zinc-500">
-                  颜色
-                </span>
-
-                <select
-                  value={colorFilter}
-                  onChange={(event) => setColorFilter(event.target.value)}
-                  className={selectClassName}
-                >
-                  <option value="全部">全部颜色</option>
-
-                  {colorOptions.map((color) => (
-                    <option key={color} value={color}>
-                      {color}
-                    </option>
-                  ))}
-                </select>
-              </label>
-
-              <label>
-                <span className="mb-2 block text-xs font-bold text-zinc-500">
-                  类型
-                </span>
-
-                <select
-                  value={typeFilter}
-                  onChange={(event) => setTypeFilter(event.target.value)}
-                  className={selectClassName}
-                >
-                  <option value="全部">全部类型</option>
-
-                  {typeOptions.map((type) => (
-                    <option key={type} value={type}>
-                      {type}
-                    </option>
-                  ))}
-                </select>
-              </label>
-
-              <label>
-                <span className="mb-2 block text-xs font-bold text-zinc-500">
-                  费用
-                </span>
-
-                <select
-                  value={costFilter}
-                  onChange={(event) => setCostFilter(event.target.value)}
-                  className={selectClassName}
-                >
-                  <option value="全部">全部费用</option>
-
-                  {costOptions.map((cost) => (
-                    <option key={cost} value={String(cost)}>
-                      {cost} 费
-                    </option>
-                  ))}
-                </select>
-              </label>
-            </div>
-
-            <div className="mt-4 flex items-center justify-between border-t border-zinc-900 pt-4">
-              <span className="text-xs text-zinc-600">
-                {activeFilterCount}
-                个筛选
+                {filterPanelOpen ? (
+                  <span>
+                    <span className="block text-left text-[10px] font-black tracking-[0.22em] text-red-500">
+                      CARD FILTER
+                    </span>
+                    <span className="mt-1 block text-left text-sm font-black text-white">
+                      卡牌筛选
+                    </span>
+                  </span>
+                ) : null}
               </span>
 
-              <button
-                type="button"
-                onClick={clearFilters}
-                className="text-xs font-bold text-red-500 transition hover:text-red-400"
-              >
-                清除筛选
-              </button>
-            </div>
+              {filterPanelOpen ? (
+                <span className="text-xs text-zinc-500">收起 ‹</span>
+              ) : null}
+            </button>
 
-            <div className="mt-4 rounded-2xl border border-zinc-800 bg-black p-4 text-xs leading-6 text-zinc-500">
-              同一卡号的普通版与异图版合计最多
-              <strong className="mx-1 text-white">{CARD_COPY_LIMIT}</strong>
-              张。
-            </div>
+            {filterPanelOpen ? (
+              <div className="p-4">
+                <div className="mt-5 grid gap-3 sm:grid-cols-2 xl:grid-cols-1">
+                  <label className="sm:col-span-2 xl:col-span-1">
+                    <span className="mb-2 block text-xs font-bold text-zinc-500">
+                      作品系列
+                    </span>
+
+                    <select
+                      value={selectedSeries}
+                      onChange={(event) =>
+                        handleSeriesChange(event.target.value)
+                      }
+                      className={selectClassName}
+                    >
+                      {seriesNames.map((series) => (
+                        <option key={series} value={series}>
+                          {series}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+
+                  <label className="sm:col-span-2 xl:col-span-1">
+                    <span className="mb-2 block text-xs font-bold text-zinc-500">
+                      搜索
+                    </span>
+
+                    <input
+                      type="search"
+                      value={search}
+                      onChange={(event) => setSearch(event.target.value)}
+                      placeholder="卡名、编号或效果"
+                      className="w-full rounded-xl border border-zinc-800 bg-black px-3 py-3 text-sm text-white outline-none transition placeholder:text-zinc-700 focus:border-red-600"
+                    />
+                  </label>
+
+                  <label>
+                    <span className="mb-2 block text-xs font-bold text-zinc-500">
+                      颜色
+                    </span>
+
+                    <select
+                      value={colorFilter}
+                      onChange={(event) => setColorFilter(event.target.value)}
+                      className={selectClassName}
+                    >
+                      <option value="全部">全部颜色</option>
+
+                      {colorOptions.map((color) => (
+                        <option key={color} value={color}>
+                          {color}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+
+                  <label>
+                    <span className="mb-2 block text-xs font-bold text-zinc-500">
+                      类型
+                    </span>
+
+                    <select
+                      value={typeFilter}
+                      onChange={(event) => setTypeFilter(event.target.value)}
+                      className={selectClassName}
+                    >
+                      <option value="全部">全部类型</option>
+
+                      {typeOptions.map((type) => (
+                        <option key={type} value={type}>
+                          {type}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+
+                  <label>
+                    <span className="mb-2 block text-xs font-bold text-zinc-500">
+                      费用
+                    </span>
+
+                    <select
+                      value={costFilter}
+                      onChange={(event) => setCostFilter(event.target.value)}
+                      className={selectClassName}
+                    >
+                      <option value="全部">全部费用</option>
+
+                      {costOptions.map((cost) => (
+                        <option key={cost} value={String(cost)}>
+                          {cost} 费
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                </div>
+
+                <div className="mt-4 flex items-center justify-between border-t border-zinc-900 pt-4">
+                  <span className="text-xs text-zinc-600">
+                    {activeFilterCount}
+                    个筛选
+                  </span>
+
+                  <button
+                    type="button"
+                    onClick={clearFilters}
+                    className="text-xs font-bold text-red-500 transition hover:text-red-400"
+                  >
+                    清除筛选
+                  </button>
+                </div>
+
+                <div className="mt-4 rounded-2xl border border-zinc-800 bg-black p-4 text-xs leading-6 text-zinc-500">
+                  同一卡号的普通版与异图版合计最多
+                  <strong className="mx-1 text-white">{CARD_COPY_LIMIT}</strong>
+                  张。
+                </div>
+              </div>
+            ) : (
+              <div className="hidden px-2 pb-4 text-center text-[9px] font-black tracking-[0.12em] text-zinc-600 xl:block [writing-mode:vertical-rl]">
+                筛选
+              </div>
+            )}
           </aside>
 
           <section className="min-w-0">
@@ -1560,31 +1564,7 @@ export default function DeckBuilderWorkbench({
           </section>
 
           <aside className="hidden xl:sticky xl:top-[82px] xl:block">
-            {desktopDeckCollapsed ? (
-              <button
-                type="button"
-                onClick={() => setDesktopDeckCollapsed(false)}
-                className="flex h-[calc(100vh-96px)] w-full flex-col items-center justify-between rounded-2xl border border-red-950 bg-zinc-950 px-2 py-4 text-red-300 shadow-2xl shadow-black/40 transition hover:border-red-700 hover:text-white"
-                aria-label="展开当前卡组"
-              >
-                <span className="text-lg">‹</span>
-                <span className="[writing-mode:vertical-rl] text-xs font-black tracking-[0.18em]">
-                  当前卡组 {totalCards}/{DECK_LIMIT}
-                </span>
-                <span className="text-lg">‹</span>
-              </button>
-            ) : (
-              <div className="relative">
-                <button
-                  type="button"
-                  onClick={() => setDesktopDeckCollapsed(true)}
-                  className="absolute right-4 top-4 z-20 rounded-lg border border-zinc-800 bg-black/90 px-3 py-2 text-[10px] font-black text-zinc-400 transition hover:border-red-700 hover:text-white"
-                >
-                  收起
-                </button>
-                {renderDeckPanel()}
-              </div>
-            )}
+            {renderDeckPanel()}
           </aside>
         </div>
       </div>
