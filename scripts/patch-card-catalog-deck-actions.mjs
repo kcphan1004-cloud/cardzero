@@ -1,46 +1,55 @@
 import fs from "node:fs";
 import path from "node:path";
 
-const projectRoot = process.cwd();
+const projectRoot =
+  process.cwd();
 
-const targetPath = path.join(
-  projectRoot,
-  "components",
-  "CardCatalog.tsx",
-);
+const targetPath =
+  path.join(
+    projectRoot,
+    "components",
+    "CardCatalog.tsx",
+  );
 
-const marker =
+const integrationMarker =
   "CARDZERO_DECK_INTEGRATION_START";
 
-if (!fs.existsSync(targetPath)) {
+if (
+  !fs.existsSync(
+    targetPath,
+  )
+) {
   throw new Error(
     `找不到文件：${targetPath}`,
   );
 }
 
-let source = fs.readFileSync(
-  targetPath,
-  "utf8",
-);
-
-if (source.includes(marker)) {
-  console.log(
-    "CardCatalog 已经加入组牌功能，不需要重复修改。",
+let source =
+  fs.readFileSync(
+    targetPath,
+    "utf8",
   );
 
-  process.exit(0);
-}
+const eol =
+  source.includes("\r\n")
+    ? "\r\n"
+    : "\n";
 
-const eol = source.includes("\r\n")
-  ? "\r\n"
-  : "\n";
+const withEol = (
+  value,
+) =>
+  value.replace(
+    /\n/g,
+    eol,
+  );
 
-const withEol = (value) =>
-  value.replace(/\n/g, eol);
-
-const stamp = new Date()
-  .toISOString()
-  .replace(/[:.]/g, "-");
+const stamp =
+  new Date()
+    .toISOString()
+    .replace(
+      /[:.]/g,
+      "-",
+    );
 
 const backupDirectory =
   path.join(
@@ -48,7 +57,7 @@ const backupDirectory =
     "data",
     "stage2",
     "backups",
-    `card-catalog-deck-${stamp}`,
+    `card-catalog-deck-v2-${stamp}`,
   );
 
 fs.mkdirSync(
@@ -58,95 +67,105 @@ fs.mkdirSync(
   },
 );
 
-const backupPath = path.join(
-  backupDirectory,
-  "CardCatalog.tsx",
-);
+const backupPath =
+  path.join(
+    backupDirectory,
+    "CardCatalog.tsx",
+  );
 
 fs.copyFileSync(
   targetPath,
   backupPath,
 );
 
-function fail(message) {
+function fail(
+  message,
+) {
   throw new Error(
     `${message}\n原文件备份：${backupPath}`,
   );
 }
 
-if (
-  !/import Link from ["']next\/link["'];?/.test(
-    source,
-  )
-) {
+function ensureImports() {
   if (
-    !source.includes(
-      'import Image from "next/image";',
+    !/import Link from ["']next\/link["'];?/.test(
+      source,
+    )
+  ) {
+    if (
+      !source.includes(
+        'import Image from "next/image";',
+      )
+    ) {
+      fail(
+        "找不到 Next Image import，无法安全加入 Link。",
+      );
+    }
+
+    source =
+      source.replace(
+        'import Image from "next/image";',
+        withEol(
+          `import Image from "next/image";
+import Link from "next/link";`,
+        ),
+      );
+  }
+
+  const cardTypeImport =
+    /import type \{ Card \} from "\.\.\/data\/card-series-generated";/;
+
+  if (
+    !cardTypeImport.test(
+      source,
     )
   ) {
     fail(
-      "找不到 Next Image import，无法安全加入 Link。",
+      "找不到 Card 类型 import，CardCatalog 版本与预期不符。",
     );
   }
 
-  source = source.replace(
-    'import Image from "next/image";',
-    withEol(
-      `import Image from "next/image";
-import Link from "next/link";`,
-    ),
-  );
+  const oldHookImport =
+    /import\s*\{\s*isActionPointCard,\s*useDeckStorage,\s*\}\s*from\s*"\.\.\/hooks\/useDeckStorage";/m;
+
+  if (
+    oldHookImport.test(
+      source,
+    )
+  ) {
+    source =
+      source.replace(
+        oldHookImport,
+        'import { useDeckStorage } from "../hooks/useDeckStorage";',
+      );
+
+    return;
+  }
+
+  if (
+    !source.includes(
+      "../hooks/useDeckStorage",
+    )
+  ) {
+    source =
+      source.replace(
+        cardTypeImport,
+        (
+          match,
+        ) =>
+          withEol(
+            `${match}
+import { useDeckStorage } from "../hooks/useDeckStorage";`,
+          ),
+      );
+  }
 }
 
-const cardTypeImport =
-  /import type \{ Card \} from "\.\.\/data\/card-series-generated";/;
-
-if (
-  !cardTypeImport.test(source)
-) {
-  fail(
-    "找不到 Card 类型 import，CardCatalog 版本与预期不符。",
-  );
-}
-
-if (
-  !source.includes(
-    "../hooks/useDeckStorage",
-  )
-) {
-  source = source.replace(
-    cardTypeImport,
-    (match) =>
-      withEol(
-        `${match}
-import {
-  isActionPointCard,
-  useDeckStorage,
-} from "../hooks/useDeckStorage";`,
-      ),
-  );
-}
-
-const componentPattern =
-  /export default function CardCatalog\(\{\s*cards,\s*\}: CardCatalogProps\) \{\r?\n/;
-
-const componentMatch =
-  source.match(
-    componentPattern,
-  );
-
-if (!componentMatch) {
-  fail(
-    "找不到 CardCatalog 组件开头。",
-  );
-}
-
-const hookBlock = withEol(
-  `  // ${marker}
+const hookBlock =
+  withEol(
+    `  // ${integrationMarker}
   const {
     deck,
-    mainCount,
-    apCount,
     totalCards,
     addCard,
     decreaseCard,
@@ -157,44 +176,16 @@ const hookBlock = withEol(
     deckNotice,
     setDeckNotice,
   ] = useState("");`,
-);
-
-source = source.replace(
-  componentPattern,
-  (match) =>
-    `${match}${hookBlock}${eol}${eol}`,
-);
-
-const featurePattern =
-  /^([ \t]*)\{selectedCard\.feature[ \t]*&&/m;
-
-const featureMatch =
-  source.match(
-    featurePattern,
   );
 
-if (
-  !featureMatch ||
-  featureMatch.index ===
-    undefined
-) {
-  fail(
-    "找不到卡牌详情中的特征区块，无法安全加入组牌按钮。",
-  );
-}
-
-const modalBlock = withEol(
-  `                {/* CARDZERO_DECK_INTEGRATION_MODAL */}
+const modalBlock =
+  withEol(
+    `                {/* CARDZERO_DECK_INTEGRATION_MODAL */}
                 <div className="mt-6 rounded-2xl border border-red-800/60 bg-black p-5">
                   <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
                     <div>
                       <p className="text-xs font-black tracking-[0.18em] text-red-500">
-                        加入
-                        {isActionPointCard(
-                          selectedCard,
-                        )
-                          ? " AP 卡组"
-                          : "主卡组"}
+                        加入卡组
                       </p>
 
                       <p className="mt-1 text-sm text-zinc-500">
@@ -217,7 +208,7 @@ const modalBlock = withEol(
                     </Link>
                   </div>
 
-                  <div className="mt-4 grid grid-cols-[48px_1fr] gap-2">
+                  <div className="mt-4 grid grid-cols-[56px_1fr_56px] gap-2">
                     <button
                       type="button"
                       disabled={
@@ -235,6 +226,12 @@ const modalBlock = withEol(
                       −
                     </button>
 
+                    <div className="flex h-12 items-center justify-center rounded-xl border border-zinc-800 bg-zinc-950 text-lg font-black text-white">
+                      {getCardQuantity(
+                        selectedCard.id,
+                      )}
+                    </div>
+
                     <button
                       type="button"
                       onClick={() => {
@@ -247,9 +244,9 @@ const modalBlock = withEol(
                           result.message,
                         );
                       }}
-                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 px-5 text-sm font-black text-white transition hover:bg-red-600"
+                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 text-xl font-black text-white transition hover:bg-red-600"
                     >
-                      ＋ 加入卡组
+                      ＋
                     </button>
                   </div>
 
@@ -261,34 +258,11 @@ const modalBlock = withEol(
                 </div>
 
 `,
-);
-
-source =
-  source.slice(
-    0,
-    featureMatch.index,
-  ) +
-  modalBlock +
-  source.slice(
-    featureMatch.index,
   );
 
-const closingFragment =
-  `${eol}    </>${eol}  );`;
-
-const closingIndex =
-  source.lastIndexOf(
-    closingFragment,
-  );
-
-if (closingIndex < 0) {
-  fail(
-    "找不到 CardCatalog 最后的 Fragment 结束位置。",
-  );
-}
-
-const floatingBlock = withEol(
-  `
+const floatingBlock =
+  withEol(
+    `
       {/* CARDZERO_DECK_INTEGRATION_FLOATING_BAR */}
       {totalCards > 0 ? (
         <div className="fixed bottom-4 left-1/2 z-40 flex w-[calc(100%-24px)] max-w-xl -translate-x-1/2 items-center justify-between gap-4 rounded-2xl border border-red-500/60 bg-zinc-950/95 px-4 py-3 shadow-[0_15px_55px_rgba(0,0,0,.8)] backdrop-blur">
@@ -298,9 +272,8 @@ const floatingBlock = withEol(
             </p>
 
             <p className="mt-1 truncate text-[10px] text-zinc-500">
-              {deck.series} · 主卡组{" "}
-              {mainCount}/50 · AP{" "}
-              {apCount}/3
+              {deck.series} ·{" "}
+              {totalCards}/50
             </p>
           </div>
 
@@ -319,17 +292,143 @@ const floatingBlock = withEol(
         </div>
       ) : null}
 `,
-);
-
-source =
-  source.slice(
-    0,
-    closingIndex,
-  ) +
-  floatingBlock +
-  source.slice(
-    closingIndex,
   );
+
+function updateExistingIntegration() {
+  source =
+    source.replace(
+      /^\s*apCount,\s*$/m,
+      "",
+    );
+
+  const modalPattern =
+    /^[ \t]*\{\/\* CARDZERO_DECK_INTEGRATION_MODAL \*\/\}[\s\S]*?(?=^[ \t]*\{selectedCard\.feature[ \t]*&&)/m;
+
+  if (
+    !modalPattern.test(
+      source,
+    )
+  ) {
+    fail(
+      "已找到旧组牌标记，但找不到旧卡牌详情按钮区。",
+    );
+  }
+
+  source =
+    source.replace(
+      modalPattern,
+      modalBlock,
+    );
+
+  const floatingPattern =
+    /^[ \t]*\{\/\* CARDZERO_DECK_INTEGRATION_FLOATING_BAR \*\/\}[\s\S]*?(?=\r?\n[ \t]*<\/>)/m;
+
+  if (
+    !floatingPattern.test(
+      source,
+    )
+  ) {
+    fail(
+      "已找到旧组牌标记，但找不到旧底部卡组栏。",
+    );
+  }
+
+  source =
+    source.replace(
+      floatingPattern,
+      floatingBlock.trimStart(),
+    );
+}
+
+function installFreshIntegration() {
+  const componentPattern =
+    /export default function CardCatalog\(\{\s*cards,\s*\}: CardCatalogProps\) \{\r?\n/;
+
+  if (
+    !componentPattern.test(
+      source,
+    )
+  ) {
+    fail(
+      "找不到 CardCatalog 组件开头。",
+    );
+  }
+
+  source =
+    source.replace(
+      componentPattern,
+      (
+        match,
+      ) =>
+        `${match}${hookBlock}${eol}${eol}`,
+    );
+
+  const featurePattern =
+    /^([ \t]*)\{selectedCard\.feature[ \t]*&&/m;
+
+  const featureMatch =
+    source.match(
+      featurePattern,
+    );
+
+  if (
+    !featureMatch ||
+    featureMatch.index ===
+      undefined
+  ) {
+    fail(
+      "找不到卡牌详情中的特征区块，无法安全加入组牌按钮。",
+    );
+  }
+
+  source =
+    source.slice(
+      0,
+      featureMatch.index,
+    ) +
+    modalBlock +
+    source.slice(
+      featureMatch.index,
+    );
+
+  const closingFragment =
+    `${eol}    </>${eol}  );`;
+
+  const closingIndex =
+    source.lastIndexOf(
+      closingFragment,
+    );
+
+  if (
+    closingIndex < 0
+  ) {
+    fail(
+      "找不到 CardCatalog 最后的 Fragment 结束位置。",
+    );
+  }
+
+  source =
+    source.slice(
+      0,
+      closingIndex,
+    ) +
+    floatingBlock +
+    source.slice(
+      closingIndex,
+    );
+}
+
+ensureImports();
+
+if (
+  source.includes(
+    integrationMarker,
+  )
+) {
+  updateExistingIntegration();
+} else {
+  installFreshIntegration();
+}
 
 fs.writeFileSync(
   targetPath,
@@ -339,21 +438,21 @@ fs.writeFileSync(
 
 console.log("");
 console.log(
-  "CardCatalog 组牌功能加入完成。",
+  "CardCatalog 组牌功能 V2 更新完成。",
 );
 console.log(
   `备份位置：${backupPath}`,
 );
 console.log("");
 console.log(
-  "新增功能：",
+  "本次调整：",
 );
 console.log(
-  "- 卡牌详情可直接加入／减少卡牌",
+  "- 移除 AP 卡组",
 );
 console.log(
-  "- 卡牌资料库底部显示当前卡组",
+  "- 卡牌详情使用 − / 数量 / ＋",
 );
 console.log(
-  "- 一键进入完整线上组牌工具",
+  "- 底部只显示 50 张卡组数量",
 );
