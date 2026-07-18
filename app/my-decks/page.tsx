@@ -113,34 +113,36 @@ function DeckCardImage({
 }
 
 function DeckCover({ deck }: { deck: CloudDeck }) {
-  const entries = deck.entries.slice(0, 5) as DeckEntryLike[];
+  const requestedIds = (deck.cover_cards ?? []).slice(0, 2);
+  const selectedEntries = requestedIds
+    .map((cardId) => deck.entries.find((entry) => entry.cardId === cardId))
+    .filter(Boolean) as DeckEntryLike[];
+
+  const coverEntries = selectedEntries.length
+    ? selectedEntries
+    : (deck.entries.slice(0, 1) as DeckEntryLike[]);
 
   return (
     <div className="relative h-56 overflow-hidden border-b border-zinc-900 bg-zinc-950 sm:h-60">
-      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(220,38,38,.26),transparent_55%)]" />
+      <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(220,38,38,.28),transparent_58%)]" />
+      <div className="absolute inset-0 opacity-30 [background-image:linear-gradient(rgba(255,255,255,.035)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,.035)_1px,transparent_1px)] [background-size:28px_28px]" />
 
-      {entries.length ? (
-        <div className="absolute inset-x-3 bottom-[-30%] top-5 flex items-start justify-center gap-[-12px] overflow-hidden">
-          {entries.map((entry, index) => {
-            const rotations = ["-rotate-12", "-rotate-6", "rotate-0", "rotate-6", "rotate-12"];
-            const translations = ["translate-y-6", "translate-y-2", "-translate-y-1", "translate-y-2", "translate-y-6"];
-
-            return (
-              <div
-                key={`${entry.cardId}-${index}`}
-                className={`relative -ml-3 aspect-[5/7] h-[88%] shrink-0 overflow-hidden rounded-xl border border-white/20 bg-black shadow-[0_18px_45px_rgba(0,0,0,.7)] first:ml-0 ${rotations[index] ?? ""} ${translations[index] ?? ""}`}
-              >
-                <DeckCardImage
-                  entry={entry}
-                  sizes="150px"
-                  priority={index === 2}
-                />
-                <span className="absolute left-1.5 top-1.5 grid h-7 min-w-7 place-items-center rounded-full border-2 border-white bg-red-700 px-1 text-[10px] font-black text-white shadow-xl">
-                  ×{entry.quantity}
-                </span>
-              </div>
-            );
-          })}
+      {coverEntries.length === 1 ? (
+        <div className="absolute inset-x-0 top-3 flex justify-center">
+          <div className="relative aspect-[5/7] h-52 overflow-hidden rounded-2xl border border-white/20 bg-black shadow-[0_24px_60px_rgba(0,0,0,.8)] sm:h-56">
+            <DeckCardImage entry={coverEntries[0]} sizes="220px" priority />
+          </div>
+        </div>
+      ) : coverEntries.length === 2 ? (
+        <div className="absolute inset-x-0 top-2 flex justify-center">
+          <div className="relative h-56 w-72 sm:w-80">
+            <div className="absolute left-8 top-4 aspect-[5/7] h-48 -rotate-8 overflow-hidden rounded-2xl border border-white/20 bg-black shadow-[0_24px_60px_rgba(0,0,0,.75)] sm:h-52">
+              <DeckCardImage entry={coverEntries[0]} sizes="190px" priority />
+            </div>
+            <div className="absolute right-8 top-1 aspect-[5/7] h-48 rotate-8 overflow-hidden rounded-2xl border border-white/20 bg-black shadow-[0_24px_60px_rgba(0,0,0,.75)] sm:h-52">
+              <DeckCardImage entry={coverEntries[1]} sizes="190px" priority />
+            </div>
+          </div>
         </div>
       ) : (
         <div className="absolute inset-0 grid place-items-center text-sm text-zinc-700">
@@ -148,7 +150,7 @@ function DeckCover({ deck }: { deck: CloudDeck }) {
         </div>
       )}
 
-      <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-transparent to-black/20" />
+      <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/20 to-black/15" />
 
       <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-4 p-5">
         <div className="min-w-0">

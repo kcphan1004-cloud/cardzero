@@ -212,6 +212,9 @@ export default function DeckBuilderWorkbench({
     null,
   );
 
+  const [coverPickerOpen, setCoverPickerOpen] = useState(false);
+  const [selectedCoverCardIds, setSelectedCoverCardIds] = useState<string[]>([]);
+
   const {
     user,
     cloudDecks,
@@ -235,6 +238,7 @@ export default function DeckBuilderWorkbench({
         series: string;
         entries: typeof deck.entries;
         updated_at: string;
+        cover_cards?: string[];
       };
 
       const result = replaceDeck({
@@ -247,6 +251,7 @@ export default function DeckBuilderWorkbench({
 
       if (result.ok) {
         setEditingCloudDeckId(cloudDeck.id);
+      setSelectedCoverCardIds((cloudDeck.cover_cards ?? []).slice(0, 2));
         setNotice(`正在修改「${cloudDeck.name}」`);
       }
     } catch (error) {
@@ -578,9 +583,15 @@ export default function DeckBuilderWorkbench({
 
   async function handleSaveDeck() {
     if (user) {
-      const result = await saveCloudDeck(deck, editingCloudDeckId);
-      showResult(result);
-      if (result.ok) setLastSavedFingerprint(deckFingerprint);
+      if (deckRows.length === 0) {
+        setNotice("当前卡组是空的，无法保存。");
+        return;
+      }
+
+      if (selectedCoverCardIds.length === 0) {
+        setSelectedCoverCardIds([deckRows[0].entry.cardId]);
+      }
+      setCoverPickerOpen(true);
       return;
     }
 
@@ -588,6 +599,36 @@ export default function DeckBuilderWorkbench({
     showResult(result);
     if (result.ok) setLastSavedFingerprint(deckFingerprint);
     setNotice("已保存到此浏览器。登入后可永久保存并跨设备同步。");
+  }
+
+  function toggleCoverCard(cardId: string) {
+    setSelectedCoverCardIds((current) => {
+      if (current.includes(cardId)) {
+        return current.filter((id) => id !== cardId);
+      }
+      if (current.length >= 2) {
+        return [current[1], cardId];
+      }
+      return [...current, cardId];
+    });
+  }
+
+  async function confirmCloudSave() {
+    if (selectedCoverCardIds.length < 1 || selectedCoverCardIds.length > 2) {
+      setNotice("请选择 1 至 2 张卡图作为卡组封面。");
+      return;
+    }
+
+    const result = await saveCloudDeck(
+      deck,
+      editingCloudDeckId,
+      selectedCoverCardIds,
+    );
+    showResult(result);
+    if (result.ok) {
+      setLastSavedFingerprint(deckFingerprint);
+      setCoverPickerOpen(false);
+    }
   }
 
   async function handleSyncLocalDecks() {
@@ -607,6 +648,7 @@ export default function DeckBuilderWorkbench({
     showResult(result);
     if (result.ok) {
       setEditingCloudDeckId(cloudDeck.id);
+      setSelectedCoverCardIds((cloudDeck.cover_cards ?? []).slice(0, 2));
       window.setTimeout(
         () =>
           setLastSavedFingerprint(
@@ -1894,6 +1936,59 @@ export default function DeckBuilderWorkbench({
                 })}
               </div>
             )}
+          </div>
+        </div>
+      ) : null}
+
+
+      {coverPickerOpen ? (
+        <div className="fixed inset-0 z-[240] flex items-center justify-center bg-black/85 p-4 backdrop-blur-sm">
+          <div className="max-h-[88vh] w-full max-w-4xl overflow-hidden rounded-3xl border border-red-900 bg-zinc-950 shadow-2xl">
+            <div className="flex items-start justify-between gap-4 border-b border-zinc-900 px-5 py-5 sm:px-7">
+              <div>
+                <p className="text-[10px] font-black tracking-[0.28em] text-red-500">DECK COVER</p>
+                <h2 className="mt-2 text-2xl font-black">选择卡组封面</h2>
+                <p className="mt-2 text-sm text-zinc-500">从卡组中选择 1 至 2 张卡图，系统会自动合成为一张封面。</p>
+              </div>
+              <button type="button" onClick={() => setCoverPickerOpen(false)} className="rounded-xl border border-zinc-800 px-3 py-2 text-sm font-bold text-zinc-400 hover:text-white">关闭</button>
+            </div>
+
+            <div className="max-h-[58vh] overflow-y-auto p-5 sm:p-7">
+              <div className="mb-5 flex items-center justify-between rounded-2xl border border-zinc-800 bg-black px-4 py-3">
+                <span className="text-sm font-bold text-zinc-300">已选择 {selectedCoverCardIds.length}/2 张</span>
+                <button type="button" onClick={() => setSelectedCoverCardIds([])} className="text-xs font-bold text-zinc-500 hover:text-red-400">清除选择</button>
+              </div>
+
+              <div className="grid grid-cols-3 gap-3 sm:grid-cols-5 md:grid-cols-7">
+                {deckRows.map(({ entry, card }) => {
+                  const selected = selectedCoverCardIds.includes(entry.cardId);
+                  return (
+                    <button
+                      key={entry.cardId}
+                      type="button"
+                      onClick={() => toggleCoverCard(entry.cardId)}
+                      className={`group relative aspect-[5/7] overflow-hidden rounded-xl border-2 bg-black transition ${selected ? "border-red-500 shadow-[0_0_0_3px_rgba(239,68,68,.18)]" : "border-zinc-800 hover:border-zinc-600"}`}
+                    >
+                      {card ? (
+                        <CardImage card={card} sizes="120px" className="object-contain" />
+                      ) : (
+                        <div className="grid h-full place-items-center px-2 text-[9px] text-zinc-600">{entry.number}</div>
+                      )}
+                      <span className={`absolute right-1.5 top-1.5 grid h-7 w-7 place-items-center rounded-full border-2 text-xs font-black ${selected ? "border-white bg-red-700 text-white" : "border-zinc-600 bg-black/80 text-zinc-500"}`}>
+                        {selected ? selectedCoverCardIds.indexOf(entry.cardId) + 1 : "+"}
+                      </span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+
+            <div className="grid grid-cols-2 gap-3 border-t border-zinc-900 p-5 sm:px-7">
+              <button type="button" onClick={() => setCoverPickerOpen(false)} className="rounded-xl border border-zinc-800 bg-black px-4 py-3 text-sm font-black text-zinc-300">取消</button>
+              <button type="button" onClick={() => void confirmCloudSave()} disabled={selectedCoverCardIds.length === 0} className="rounded-xl bg-red-700 px-4 py-3 text-sm font-black text-white transition hover:bg-red-600 disabled:cursor-not-allowed disabled:opacity-40">
+                {editingCloudDeckId ? "更新卡组与封面" : "保存卡组与封面"}
+              </button>
+            </div>
           </div>
         </div>
       ) : null}

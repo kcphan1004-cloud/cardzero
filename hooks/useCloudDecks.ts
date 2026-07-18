@@ -15,6 +15,7 @@ export type CloudDeck = {
   series: string;
   entries: StoredDeck["entries"];
   total_cards: number;
+  cover_cards?: string[];
   created_at: string;
   updated_at: string;
 };
@@ -54,7 +55,7 @@ export function useCloudDecks() {
 
       const { data, error: decksError } = await supabase
         .from("user_decks")
-        .select("id,user_id,name,series,entries,total_cards,created_at,updated_at")
+        .select("id,user_id,name,series,entries,total_cards,cover_cards,created_at,updated_at")
         .order("updated_at", { ascending: false });
 
       if (decksError) throw decksError;
@@ -81,7 +82,7 @@ export function useCloudDecks() {
   }, [refresh]);
 
   const saveDeck = useCallback(
-    async (deck: StoredDeck, cloudDeckId?: string | null): Promise<Result> => {
+    async (deck: StoredDeck, cloudDeckId?: string | null, coverCards: string[] = []): Promise<Result> => {
       if (!deck.entries.length) {
         return { ok: false, message: "当前卡组是空的，无法保存。" };
       }
@@ -102,6 +103,7 @@ export function useCloudDecks() {
         series: deck.series,
         entries: deck.entries,
         total_cards: total,
+        cover_cards: coverCards.slice(0, 2),
         updated_at: new Date().toISOString(),
       };
 
@@ -131,7 +133,7 @@ export function useCloudDecks() {
       entries: deck.entries.map((entry) => ({ ...entry })),
       updatedAt: new Date().toISOString(),
     };
-    return await saveDeck(copy, null);
+    return await saveDeck(copy, null, deck.cover_cards ?? []);
   }, [saveDeck]);
 
   const deleteCloudDeck = useCallback(async (id: string): Promise<Result> => {
@@ -161,6 +163,7 @@ export function useCloudDecks() {
       series: deck.series,
       entries: deck.entries,
       total_cards: deck.entries.reduce((sum, item) => sum + item.quantity, 0),
+      cover_cards: [],
     }));
 
     const { error: insertError } = await supabase.from("user_decks").insert(rows);
