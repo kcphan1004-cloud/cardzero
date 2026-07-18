@@ -55,19 +55,19 @@ export default function TierListPage() {
             <p className="text-xs font-black tracking-[0.32em] text-red-500">
               CARDZERO META PARTNERS
             </p>
-            <h1 className="mt-3 text-4xl font-black tracking-tight sm:text-5xl lg:text-6xl">
+            <h1 className="mt-3 whitespace-nowrap text-2xl font-black tracking-tight sm:text-3xl lg:text-4xl">
               Union Arena T表专区
             </h1>
-            <p className="mt-4 max-w-2xl text-sm leading-7 text-zinc-400 sm:text-base">
+            <p className="mt-3 whitespace-nowrap text-xs leading-6 text-zinc-400 sm:text-sm">
               查看马来西亚、台湾与中国地区的 Union Arena 环境资料。所有链接均会前往对应资料提供者的原始页面。
             </p>
           </div>
         </header>
 
-        <div className="mt-8 grid items-stretch gap-6 lg:grid-cols-2 xl:grid-cols-3">
+        <div className="mt-8 grid items-start gap-6 lg:grid-cols-2 xl:grid-cols-3">
           {/* 1. Malaysia / BehDeck */}
-          <article className="flex min-h-[560px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
-            <div className="relative flex flex-1 flex-col p-6 sm:p-7">
+          <article className="flex flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
+            <div className="relative flex flex-col p-6 sm:p-7">
               <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(127,29,29,.28),transparent_50%)]" />
 
               <div className="relative flex items-start justify-between gap-5">
@@ -104,7 +104,7 @@ export default function TierListPage() {
                 </a>
               </div>
 
-              <div className="relative mt-auto pt-7">
+              <div className="relative mt-7">
                 <div className="rounded-2xl border border-[#4297ff]/40 bg-[#07121f] p-5">
                   <p className="text-xs font-black tracking-[0.22em] text-[#70b5ff]">SUPPORT BA JIAO YU</p>
                   <iframe
@@ -119,8 +119,8 @@ export default function TierListPage() {
           </article>
 
           {/* 2. Taiwan / Mr.Kado */}
-          <article className="flex min-h-[560px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
-            <div className="relative flex flex-1 flex-col p-6 sm:p-7">
+          <article className="flex flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
+            <div className="relative flex flex-col p-6 sm:p-7">
               <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(127,29,29,.28),transparent_50%)]" />
 
               <div className="relative flex items-start justify-between gap-5">
@@ -170,8 +170,8 @@ export default function TierListPage() {
           </article>
 
           {/* 3. China / UA Ricky */}
-          <article className="flex min-h-[560px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)] lg:col-span-2 xl:col-span-1">
-            <div className="relative flex flex-1 flex-col p-6 sm:p-7">
+          <article className="flex flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)] lg:col-span-2 xl:col-span-1">
+            <div className="relative flex flex-col p-6 sm:p-7">
               <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(127,29,29,.28),transparent_50%)]" />
 
               <div className="relative flex items-start justify-between gap-5">
