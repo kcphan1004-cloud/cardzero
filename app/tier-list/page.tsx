@@ -66,7 +66,7 @@ export default function TierListPage() {
 
         <div className="mt-8 grid items-stretch gap-6 lg:grid-cols-2 xl:grid-cols-3">
           {/* 1. Malaysia / BehDeck */}
-          <article className="flex min-h-[640px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
+          <article className="flex min-h-[560px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
             <div className="relative flex flex-1 flex-col p-6 sm:p-7">
               <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(127,29,29,.28),transparent_50%)]" />
 
@@ -89,13 +89,7 @@ export default function TierListPage() {
                 </div>
               </div>
 
-              <div className="relative mt-7 rounded-2xl border border-zinc-800 bg-black/50 p-5">
-                <p className="text-sm leading-7 text-zinc-300">
-                  特别感谢 BehDeck／八脚鱼提供马来西亚地区 Union Arena T表资讯，并授权卡零社保留来源署名与合作展示。
-                </p>
-              </div>
-
-              <div className="relative mt-5">
+              <div className="relative mt-7">
                 <a
                   href="https://behdeck.com/"
                   target="_blank"
@@ -107,12 +101,15 @@ export default function TierListPage() {
                 </a>
               </div>
 
+              <div className="relative mt-5 rounded-2xl border border-zinc-800 bg-black/50 p-5">
+                <p className="text-sm leading-7 text-zinc-300">
+                  特别感谢 BehDeck／八脚鱼提供马来西亚地区 Union Arena T表资讯，并授权卡零社保留来源署名与合作展示。
+                </p>
+              </div>
+
               <div className="relative mt-auto pt-7">
                 <div className="rounded-2xl border border-[#4297ff]/40 bg-[#07121f] p-5">
                   <p className="text-xs font-black tracking-[0.22em] text-[#70b5ff]">SUPPORT BA JIAO YU</p>
-                  <p className="mt-2 text-sm leading-6 text-zinc-300">
-                    喜欢这些免费的环境资料吗？支持八脚鱼继续维护 BehDeck。
-                  </p>
                   <iframe
                     title="Support Ba Jiao Yu on Ko-fi"
                     srcDoc={KOFI_WIDGET_HTML}
@@ -125,7 +122,7 @@ export default function TierListPage() {
           </article>
 
           {/* 2. Taiwan / Mr.Kado */}
-          <article className="flex min-h-[640px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
+          <article className="flex min-h-[560px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)]">
             <div className="relative flex flex-1 flex-col p-6 sm:p-7">
               <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(127,29,29,.28),transparent_50%)]" />
 
@@ -147,13 +144,7 @@ export default function TierListPage() {
                 </div>
               </div>
 
-              <div className="relative mt-7 rounded-2xl border border-zinc-800 bg-black/50 p-5">
-                <p className="text-sm leading-7 text-zinc-300">
-                  特别感谢 Mr.Kado_TCG 提供台湾地区 Union Arena T表与 3v3 T表资讯。
-                </p>
-              </div>
-
-              <div className="relative mt-5 space-y-3">
+              <div className="relative mt-7 space-y-3">
                 <a
                   href="https://www.instagram.com/p/DZ2r3pnRRhf/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                   target="_blank"
@@ -175,20 +166,16 @@ export default function TierListPage() {
                 </a>
               </div>
 
-              <div className="relative mt-auto pt-7">
-                <div className="rounded-2xl border border-zinc-800 bg-black/40 p-5">
-                  <p className="text-xs font-black tracking-[0.22em] text-zinc-500">CREDIT</p>
-                  <p className="mt-2 text-lg font-black text-white">Mr.Kado_TCG</p>
-                  <p className="mt-2 text-sm leading-6 text-zinc-400">
-                    完整内容与最新更新请以 Mr.Kado_TCG 的原始 Instagram 页面为准。
-                  </p>
-                </div>
+              <div className="relative mt-5 rounded-2xl border border-zinc-800 bg-black/50 p-5">
+                <p className="text-sm leading-7 text-zinc-300">
+                  特别感谢 Mr.Kado_TCG 提供台湾地区 Union Arena T表与 3v3 T表资讯。
+                </p>
               </div>
             </div>
           </article>
 
           {/* 3. China / UA Ricky */}
-          <article className="flex min-h-[640px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)] lg:col-span-2 xl:col-span-1">
+          <article className="flex min-h-[560px] flex-col overflow-hidden rounded-[26px] border border-red-900/60 bg-zinc-950 shadow-[0_24px_80px_rgba(0,0,0,.45)] lg:col-span-2 xl:col-span-1">
             <div className="relative flex flex-1 flex-col p-6 sm:p-7">
               <div aria-hidden="true" className="absolute inset-0 bg-[radial-gradient(circle_at_top_left,rgba(127,29,29,.28),transparent_50%)]" />
 
@@ -210,13 +197,7 @@ export default function TierListPage() {
                 </div>
               </div>
 
-              <div className="relative mt-7 rounded-2xl border border-zinc-800 bg-black/50 p-5">
-                <p className="text-sm leading-7 text-zinc-300">
-                  特别感谢 UA Ricky 提供中国地区 Union Arena T表资讯。
-                </p>
-              </div>
-
-              <div className="relative mt-5">
+              <div className="relative mt-7">
                 <a
                   href="https://deck.xingkaji.com/deck/#/pages/liqi_print/liqi_print"
                   target="_blank"
@@ -228,14 +209,10 @@ export default function TierListPage() {
                 </a>
               </div>
 
-              <div className="relative mt-auto pt-7">
-                <div className="rounded-2xl border border-zinc-800 bg-black/40 p-5">
-                  <p className="text-xs font-black tracking-[0.22em] text-zinc-500">CREDIT</p>
-                  <p className="mt-2 text-lg font-black text-white">UA Ricky</p>
-                  <p className="mt-2 text-sm leading-6 text-zinc-400">
-                    完整内容与最新更新请以前往 UA Ricky 的原始页面为准。
-                  </p>
-                </div>
+              <div className="relative mt-5 rounded-2xl border border-zinc-800 bg-black/50 p-5">
+                <p className="text-sm leading-7 text-zinc-300">
+                  特别感谢 UA Ricky 提供中国地区 Union Arena T表资讯。
+                </p>
               </div>
             </div>
           </article>
