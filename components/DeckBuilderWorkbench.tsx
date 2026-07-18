@@ -220,6 +220,8 @@ export default function DeckBuilderWorkbench({
 
   const [mobileDeckOpen, setMobileDeckOpen] = useState(false);
 
+  const [desktopDeckCollapsed, setDesktopDeckCollapsed] = useState(false);
+
   const [savedDecksOpen, setSavedDecksOpen] = useState(false);
 
   const [notice, setNotice] = useState("");
@@ -919,9 +921,17 @@ export default function DeckBuilderWorkbench({
     setNotice("当前卡组已清空。");
   }
 
-  function renderDeckPanel() {
+  function renderDeckPanel(options?: { mobile?: boolean }) {
+    const mobile = options?.mobile ?? false;
+
     return (
-      <div className="flex max-h-[calc(100vh-96px)] min-h-[620px] flex-col overflow-hidden rounded-3xl border border-red-950 bg-zinc-950 shadow-2xl shadow-black/40">
+      <div
+        className={`flex min-h-0 flex-col overflow-hidden rounded-3xl border border-red-950 bg-zinc-950 shadow-2xl shadow-black/40 ${
+          mobile
+            ? "h-[78vh] max-h-[820px]"
+            : "h-[calc(100vh-96px)] max-h-[900px]"
+        }`}
+      >
         <div className="shrink-0 border-b border-zinc-900 p-5">
           <p className="text-[10px] font-black tracking-[0.25em] text-red-500">
             CURRENT DECK
@@ -985,31 +995,7 @@ export default function DeckBuilderWorkbench({
         </div>
 
         <div className="shrink-0 border-b border-zinc-900 p-3">
-          <div className="grid grid-cols-3 gap-2">
-            <div className="rounded-xl border border-zinc-800 bg-black px-3 py-3">
-              <p className="text-[9px] font-bold text-zinc-600">平均费用</p>
-              <p className="mt-1 text-lg font-black text-white">
-                {deckStatistics.averageCost.toFixed(1)}
-              </p>
-            </div>
-            <div className="rounded-xl border border-zinc-800 bg-black px-3 py-3">
-              <p className="text-[9px] font-bold text-zinc-600">产生能量</p>
-              <p className="mt-1 text-lg font-black text-white">
-                {deckStatistics.generatedEnergy}
-              </p>
-            </div>
-            <div className="rounded-xl border border-zinc-800 bg-black px-3 py-3">
-              <p className="text-[9px] font-bold text-zinc-600">Trigger 数量</p>
-              <p className="mt-1 text-lg font-black text-white">
-                {deckStatistics.triggerCount}
-              </p>
-              <p className="text-[9px] text-zinc-600">
-                {deckStatistics.triggerRatio.toFixed(1)}%
-              </p>
-            </div>
-          </div>
-
-          <div className="mt-3 rounded-xl border border-zinc-800 bg-black p-3">
+          <div className="rounded-xl border border-zinc-800 bg-black p-3">
             <div className="flex items-center justify-between gap-3">
               <p className="text-[10px] font-black text-zinc-400">费用曲线</p>
               {deckStatistics.totalBp > 0 ? (
@@ -1101,7 +1087,7 @@ export default function DeckBuilderWorkbench({
               点击左侧卡牌的＋加入卡组
             </div>
           ) : (
-            <div className="grid grid-cols-5 gap-2">
+            <div className="grid grid-cols-4 gap-2 sm:grid-cols-5">
               {visibleDeckRows.map(({ entry, card }) => (
                 <div
                   key={entry.cardId}
@@ -1295,7 +1281,13 @@ export default function DeckBuilderWorkbench({
           </div>
         ) : null}
 
-        <div className="grid items-start gap-5 xl:grid-cols-[230px_minmax(0,1fr)_390px]">
+        <div
+          className={`grid items-start gap-5 ${
+            desktopDeckCollapsed
+              ? "xl:grid-cols-[230px_minmax(0,1fr)_72px]"
+              : "xl:grid-cols-[230px_minmax(0,1fr)_390px]"
+          }`}
+        >
           <aside className="rounded-3xl border border-zinc-800 bg-zinc-950 p-4 xl:sticky xl:top-[82px]">
             <div>
               <p className="text-[10px] font-black tracking-[0.22em] text-red-500">
@@ -1568,7 +1560,31 @@ export default function DeckBuilderWorkbench({
           </section>
 
           <aside className="hidden xl:sticky xl:top-[82px] xl:block">
-            {renderDeckPanel()}
+            {desktopDeckCollapsed ? (
+              <button
+                type="button"
+                onClick={() => setDesktopDeckCollapsed(false)}
+                className="flex h-[calc(100vh-96px)] w-full flex-col items-center justify-between rounded-2xl border border-red-950 bg-zinc-950 px-2 py-4 text-red-300 shadow-2xl shadow-black/40 transition hover:border-red-700 hover:text-white"
+                aria-label="展开当前卡组"
+              >
+                <span className="text-lg">‹</span>
+                <span className="[writing-mode:vertical-rl] text-xs font-black tracking-[0.18em]">
+                  当前卡组 {totalCards}/{DECK_LIMIT}
+                </span>
+                <span className="text-lg">‹</span>
+              </button>
+            ) : (
+              <div className="relative">
+                <button
+                  type="button"
+                  onClick={() => setDesktopDeckCollapsed(true)}
+                  className="absolute right-4 top-4 z-20 rounded-lg border border-zinc-800 bg-black/90 px-3 py-2 text-[10px] font-black text-zinc-400 transition hover:border-red-700 hover:text-white"
+                >
+                  收起
+                </button>
+                {renderDeckPanel()}
+              </div>
+            )}
           </aside>
         </div>
       </div>
@@ -1595,7 +1611,7 @@ export default function DeckBuilderWorkbench({
           onMouseDown={() => setMobileDeckOpen(false)}
         >
           <div
-            className="absolute inset-x-0 bottom-0 max-h-[92vh] overflow-y-auto rounded-t-3xl bg-black p-3"
+            className="absolute inset-x-0 bottom-0 max-h-[92vh] overflow-hidden rounded-t-3xl bg-black p-3"
             onMouseDown={(event) => event.stopPropagation()}
           >
             <div className="mb-3 flex items-center justify-between px-2 py-2">
@@ -1610,7 +1626,7 @@ export default function DeckBuilderWorkbench({
               </button>
             </div>
 
-            {renderDeckPanel()}
+            {renderDeckPanel({ mobile: true })}
           </div>
         </div>
       ) : null}
