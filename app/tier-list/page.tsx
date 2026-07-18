@@ -73,8 +73,11 @@ export default function TierListPage() {
               <div className="relative flex items-start justify-between gap-5">
                 <div>
                   <p className="text-xs font-black tracking-[0.28em] text-red-500">MALAYSIA META</p>
-                  <h2 className="mt-3 text-2xl font-black sm:text-3xl">马来西亚 T表专区</h2>
-                  <p className="mt-1 text-lg font-black text-zinc-300">BehDeck</p>
+                  <h2 className="mt-3 whitespace-nowrap text-xl font-black sm:text-2xl">马来西亚 T表专区</h2>
+                  <p className="mt-1 text-base font-black text-zinc-300 sm:text-lg">BehDeck</p>
+                  <p className="mt-3 text-sm leading-6 text-zinc-400">
+                    特别感谢【BehDeck aka BaJiaoYu】提供 Union Arena T表资讯
+                  </p>
                 </div>
 
                 <div className="relative h-24 w-44 shrink-0 overflow-hidden rounded-xl bg-white p-2 sm:h-28 sm:w-52">
@@ -101,12 +104,6 @@ export default function TierListPage() {
                 </a>
               </div>
 
-              <div className="relative mt-5 rounded-2xl border border-zinc-800 bg-black/50 p-5">
-                <p className="text-sm leading-7 text-zinc-300">
-                  特别感谢 BehDeck／八脚鱼提供马来西亚地区 Union Arena T表资讯，并授权卡零社保留来源署名与合作展示。
-                </p>
-              </div>
-
               <div className="relative mt-auto pt-7">
                 <div className="rounded-2xl border border-[#4297ff]/40 bg-[#07121f] p-5">
                   <p className="text-xs font-black tracking-[0.22em] text-[#70b5ff]">SUPPORT BA JIAO YU</p>
@@ -129,8 +126,11 @@ export default function TierListPage() {
               <div className="relative flex items-start justify-between gap-5">
                 <div>
                   <p className="text-xs font-black tracking-[0.28em] text-red-500">TAIWAN META</p>
-                  <h2 className="mt-3 text-2xl font-black sm:text-3xl">台湾 T表专区</h2>
-                  <p className="mt-1 text-lg font-black text-zinc-300">Mr.Kado_TCG</p>
+                  <h2 className="mt-3 whitespace-nowrap text-xl font-black sm:text-2xl">台湾 T表专区</h2>
+                  <p className="mt-1 text-base font-black text-zinc-300 sm:text-lg">Mr.Kado_TCG</p>
+                  <p className="mt-3 text-sm leading-6 text-zinc-400">
+                    特别感谢【卡牌先生】提供 Union Arena T表资讯
+                  </p>
                 </div>
 
                 <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-xl bg-white p-2 sm:h-28 sm:w-28">
@@ -166,11 +166,6 @@ export default function TierListPage() {
                 </a>
               </div>
 
-              <div className="relative mt-5 rounded-2xl border border-zinc-800 bg-black/50 p-5">
-                <p className="text-sm leading-7 text-zinc-300">
-                  特别感谢 Mr.Kado_TCG 提供台湾地区 Union Arena T表与 3v3 T表资讯。
-                </p>
-              </div>
             </div>
           </article>
 
@@ -182,8 +177,11 @@ export default function TierListPage() {
               <div className="relative flex items-start justify-between gap-5">
                 <div>
                   <p className="text-xs font-black tracking-[0.28em] text-red-500">CHINA META</p>
-                  <h2 className="mt-3 text-2xl font-black sm:text-3xl">中国 T表专区</h2>
-                  <p className="mt-1 text-lg font-black text-zinc-300">UA Ricky</p>
+                  <h2 className="mt-3 whitespace-nowrap text-xl font-black sm:text-2xl">中国 T表专区</h2>
+                  <p className="mt-1 text-base font-black text-zinc-300 sm:text-lg">UA Ricky</p>
+                  <p className="mt-3 text-sm leading-6 text-zinc-400">
+                    特别感谢【UA Ricky】提供 Union Arena T表资讯
+                  </p>
                 </div>
 
                 <div className="relative h-24 w-24 shrink-0 overflow-hidden rounded-full bg-zinc-800 sm:h-28 sm:w-28">
@@ -209,11 +207,6 @@ export default function TierListPage() {
                 </a>
               </div>
 
-              <div className="relative mt-5 rounded-2xl border border-zinc-800 bg-black/50 p-5">
-                <p className="text-sm leading-7 text-zinc-300">
-                  特别感谢 UA Ricky 提供中国地区 Union Arena T表资讯。
-                </p>
-              </div>
             </div>
           </article>
         </div>
