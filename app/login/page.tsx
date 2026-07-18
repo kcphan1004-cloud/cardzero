@@ -16,6 +16,7 @@ type Notice = { type: "success" | "error"; text: string } | null;
 export default function LoginPage() {
   const router = useRouter();
   const [mode, setMode] = useState<Mode>("login");
+  const [displayName, setDisplayName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
   const [confirmPassword, setConfirmPassword] = useState("");
@@ -73,6 +74,18 @@ export default function LoginPage() {
     }
 
     if (mode === "register") {
+      const normalizedDisplayName = displayName.trim();
+
+      if (normalizedDisplayName.length < 2) {
+        setNotice({ type: "error", text: "玩家名称至少需要 2 个字符。" });
+        return;
+      }
+
+      if (normalizedDisplayName.length > 24) {
+        setNotice({ type: "error", text: "玩家名称最多 24 个字符。" });
+        return;
+      }
+
       if (password.length < 6) {
         setNotice({ type: "error", text: "密码至少需要 6 个字符。" });
         return;
@@ -99,7 +112,12 @@ export default function LoginPage() {
         const { data, error } = await supabase.auth.signUp({
           email: normalizedEmail,
           password,
-          options: { emailRedirectTo: redirectTo },
+          options: {
+            emailRedirectTo: redirectTo,
+            data: {
+              display_name: displayName.trim(),
+            },
+          },
         });
         if (error) throw error;
 
@@ -196,6 +214,22 @@ export default function LoginPage() {
           )}
 
           <form onSubmit={submit} className="mt-6 space-y-4">
+            {mode === "register" && (
+              <Field label="玩家名称">
+                <input
+                  type="text"
+                  value={displayName}
+                  onChange={(event) => setDisplayName(event.target.value)}
+                  autoComplete="nickname"
+                  placeholder="例如：Kayson"
+                  minLength={2}
+                  maxLength={24}
+                  disabled={loading}
+                  className={inputClass}
+                />
+              </Field>
+            )}
+
             <Field label="邮箱">
               <input type="email" value={email} onChange={(event) => setEmail(event.target.value)} autoComplete="email" placeholder="player@example.com" className={inputClass} />
             </Field>
