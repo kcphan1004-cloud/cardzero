@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import {
   useEffect,
   useMemo,
@@ -8,6 +9,10 @@ import {
 } from "react";
 
 import type { Card } from "../data/card-series-generated";
+import {
+  isActionPointCard,
+  useDeckStorage,
+} from "../hooks/useDeckStorage";
 
 type CardCatalogProps = {
   cards: Card[];
@@ -398,6 +403,22 @@ function CardArtwork({
 export default function CardCatalog({
   cards,
 }: CardCatalogProps) {
+  // CARDZERO_DECK_INTEGRATION_START
+  const {
+    deck,
+    mainCount,
+    apCount,
+    totalCards,
+    addCard,
+    decreaseCard,
+    getCardQuantity,
+  } = useDeckStorage();
+
+  const [
+    deckNotice,
+    setDeckNotice,
+  ] = useState("");
+
   const [search, setSearch] =
     useState("");
 
@@ -1535,6 +1556,82 @@ export default function CardCatalog({
                   )}
                 </div>
 
+                {/* CARDZERO_DECK_INTEGRATION_MODAL */}
+                <div className="mt-6 rounded-2xl border border-red-800/60 bg-black p-5">
+                  <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
+                    <div>
+                      <p className="text-xs font-black tracking-[0.18em] text-red-500">
+                        加入
+                        {isActionPointCard(
+                          selectedCard,
+                        )
+                          ? " AP 卡组"
+                          : "主卡组"}
+                      </p>
+
+                      <p className="mt-1 text-sm text-zinc-500">
+                        当前数量{" "}
+                        <strong className="text-white">
+                          {getCardQuantity(
+                            selectedCard.id,
+                          )}
+                        </strong>
+                      </p>
+                    </div>
+
+                    <Link
+                      href={`/deck-builder?series=${encodeURIComponent(
+                        selectedCard.series,
+                      )}`}
+                      className="text-xs font-black text-red-400 transition hover:text-red-300"
+                    >
+                      打开完整组牌工具 →
+                    </Link>
+                  </div>
+
+                  <div className="mt-4 grid grid-cols-[48px_1fr] gap-2">
+                    <button
+                      type="button"
+                      disabled={
+                        getCardQuantity(
+                          selectedCard.id,
+                        ) === 0
+                      }
+                      onClick={() =>
+                        decreaseCard(
+                          selectedCard.id,
+                        )
+                      }
+                      className="flex h-12 items-center justify-center rounded-xl border border-zinc-700 bg-zinc-900 text-xl font-black text-white disabled:cursor-not-allowed disabled:opacity-40"
+                    >
+                      −
+                    </button>
+
+                    <button
+                      type="button"
+                      onClick={() => {
+                        const result =
+                          addCard(
+                            selectedCard,
+                          );
+
+                        setDeckNotice(
+                          result.message,
+                        );
+                      }}
+                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 px-5 text-sm font-black text-white transition hover:bg-red-600"
+                    >
+                      ＋ 加入卡组
+                    </button>
+                  </div>
+
+                  {deckNotice ? (
+                    <p className="mt-3 rounded-xl border border-zinc-800 bg-zinc-950 px-4 py-3 text-xs leading-6 text-zinc-300">
+                      {deckNotice}
+                    </p>
+                  ) : null}
+                </div>
+
                 {selectedCard.feature &&
                   selectedCard.feature !==
                     "-" && (
@@ -1654,6 +1751,36 @@ export default function CardCatalog({
           </div>
         </div>
       )}
+      {/* CARDZERO_DECK_INTEGRATION_FLOATING_BAR */}
+      {totalCards > 0 ? (
+        <div className="fixed bottom-4 left-1/2 z-40 flex w-[calc(100%-24px)] max-w-xl -translate-x-1/2 items-center justify-between gap-4 rounded-2xl border border-red-500/60 bg-zinc-950/95 px-4 py-3 shadow-[0_15px_55px_rgba(0,0,0,.8)] backdrop-blur">
+          <div className="min-w-0">
+            <p className="truncate text-xs font-black text-white">
+              {deck.name || "当前卡组"}
+            </p>
+
+            <p className="mt-1 truncate text-[10px] text-zinc-500">
+              {deck.series} · 主卡组{" "}
+              {mainCount}/50 · AP{" "}
+              {apCount}/3
+            </p>
+          </div>
+
+          <Link
+            href={
+              deck.series
+                ? `/deck-builder?series=${encodeURIComponent(
+                    deck.series,
+                  )}`
+                : "/deck-builder"
+            }
+            className="shrink-0 rounded-xl bg-red-700 px-4 py-3 text-xs font-black text-white transition hover:bg-red-600"
+          >
+            打开卡组
+          </Link>
+        </div>
+      ) : null}
+
     </>
   );
 }

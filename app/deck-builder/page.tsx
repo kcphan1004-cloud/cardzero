@@ -1,34 +1,59 @@
-import Link from "next/link";
+import DeckBuilderWorkbench from "../../components/DeckBuilderWorkbench";
+import {
+  cardsBySeries,
+  seriesNames,
+} from "../../data/card-series-generated";
+import type { Card } from "../../data/card-series-generated";
 
-export default function DeckBuilderPage() {
+export const dynamic = "force-dynamic";
+export const runtime = "nodejs";
+
+export const metadata = {
+  title: "线上组牌｜卡零社 CardZero",
+  description:
+    "使用卡零社中文卡牌资料库构筑、保存与导出 Union Arena 卡组。",
+};
+
+type PageProps = {
+  searchParams: Promise<{
+    series?: string | string[];
+  }>;
+};
+
+export default async function DeckBuilderPage({
+  searchParams,
+}: PageProps) {
+  const params = await searchParams;
+
+  const requestedSeries =
+    typeof params.series === "string"
+      ? params.series
+      : "";
+
+  const seriesMap =
+    cardsBySeries as Record<
+      string,
+      Card[]
+    >;
+
+  const availableSeries = [
+    ...seriesNames,
+  ];
+
+  const selectedSeries =
+    requestedSeries &&
+    seriesMap[requestedSeries]
+      ? requestedSeries
+      : availableSeries[0] ?? "";
+
+  const cards =
+    seriesMap[selectedSeries] ?? [];
+
   return (
-    <main className="min-h-screen bg-black px-6 py-24 text-white">
-      <div className="mx-auto max-w-7xl">
-        <Link
-          href="/"
-          className="text-red-500 transition hover:text-red-400"
-        >
-          ← 返回首页
-        </Link>
-
-        <p className="mt-10 text-sm font-bold tracking-[0.35em] text-red-500">
-          CARDZERO DECK BUILDER
-        </p>
-
-        <h1 className="mt-3 text-4xl font-black md:text-6xl">
-          线上组牌
-        </h1>
-
-        <p className="mt-5 max-w-2xl text-lg leading-8 text-gray-400">
-          从卡牌列表选择卡片，建立、调整并分享你的 Union Arena 牌组。
-        </p>
-
-        <div className="mt-10 rounded-2xl border border-red-950 bg-zinc-950 p-8">
-          <p className="text-gray-400">
-            组牌功能正在开发中。
-          </p>
-        </div>
-      </div>
-    </main>
+    <DeckBuilderWorkbench
+      cards={cards}
+      seriesNames={availableSeries}
+      selectedSeries={selectedSeries}
+    />
   );
 }
