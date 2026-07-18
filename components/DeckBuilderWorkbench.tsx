@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
 import {
   useEffect,
   useMemo,
@@ -15,6 +16,7 @@ import {
   DECK_LIMIT,
   useDeckStorage,
 } from "../hooks/useDeckStorage";
+import { useCloudDecks } from "../hooks/useCloudDecks";
 
 type Props = {
   cards: Card[];
@@ -264,6 +266,16 @@ export default function DeckBuilderWorkbench({
     notice,
     setNotice,
   ] = useState("");
+
+  const {
+    user,
+    cloudDecks,
+    loading: cloudLoading,
+    saveDeck: saveCloudDeck,
+    deleteCloudDeck,
+    syncLocalDecks,
+    signOut,
+  } = useCloudDecks();
 
   const fileInputRef =
     useRef<HTMLInputElement>(
@@ -678,6 +690,38 @@ export default function DeckBuilderWorkbench({
     );
   }
 
+  async function handleSaveDeck() {
+    if (user) {
+      const result = await saveCloudDeck(deck);
+      showResult(result);
+      return;
+    }
+
+    showResult(saveSnapshot());
+    setNotice("已保存到此浏览器。登入后可永久保存并跨设备同步。");
+  }
+
+  async function handleSyncLocalDecks() {
+    const result = await syncLocalDecks(savedDecks);
+    showResult(result);
+  }
+
+  function loadCloudDeck(cloudDeck: (typeof cloudDecks)[number]) {
+    const result = replaceDeck({
+      version: 2,
+      name: cloudDeck.name,
+      series: cloudDeck.series,
+      entries: cloudDeck.entries,
+      updatedAt: cloudDeck.updated_at,
+    });
+
+    showResult(result);
+    if (result.ok) {
+      setSavedDecksOpen(false);
+      router.push(`/deck-builder?series=${encodeURIComponent(cloudDeck.series)}`);
+    }
+  }
+
   function clearFilters() {
     setSearch("");
     setColorFilter("全部");
@@ -1080,10 +1124,20 @@ export default function DeckBuilderWorkbench({
         </div>
 
         <div className="border-t border-zinc-900 p-4">
+          <div className="mb-3 rounded-xl border border-zinc-800 bg-black px-3 py-3 text-[11px] leading-5 text-zinc-500">
+            {user ? (
+              <div className="flex items-center justify-between gap-3">
+                <span className="min-w-0 truncate">已登入：{user.email}</span>
+                <button type="button" onClick={() => void signOut()} className="shrink-0 font-bold text-red-400">登出</button>
+              </div>
+            ) : (
+              <span>目前保存到此浏览器。<Link href="/login" className="font-black text-red-400">登入后永久保存</Link></span>
+            )}
+          </div>
           <div className="grid grid-cols-2 gap-2">
             <button
               type="button"
-              onClick={() => showResult(saveSnapshot())}
+              onClick={() => void handleSaveDeck()}
               className="rounded-xl bg-red-700 px-3 py-3 text-xs font-black text-white transition hover:bg-red-600"
             >
               保存卡组
@@ -1924,6 +1978,49 @@ export default function DeckBuilderWorkbench({
               >
                 ×
               </button>
+            </div>
+
+            <div className="mt-6 rounded-2xl border border-red-950 bg-black p-4">
+              <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+                <div>
+                  <p className="font-black text-white">云端卡组</p>
+                  <p className="mt-1 text-xs text-zinc-600">登入后永久保存，并可在其他设备载入。</p>
+                </div>
+                {user ? (
+                  <button type="button" onClick={() => void handleSyncLocalDecks()} disabled={savedDecks.length === 0} className="rounded-xl border border-red-900 px-4 py-2 text-xs font-black text-red-400 disabled:opacity-40">同步本机卡组</button>
+                ) : (
+                  <Link href="/login" className="rounded-xl bg-red-700 px-4 py-2 text-center text-xs font-black text-white">登入 / 注册</Link>
+                )}
+              </div>
+
+              {user ? (
+                cloudLoading ? (
+                  <p className="mt-4 text-sm text-zinc-600">读取云端卡组中……</p>
+                ) : cloudDecks.length === 0 ? (
+                  <p className="mt-4 rounded-xl border border-dashed border-zinc-800 px-4 py-8 text-center text-sm text-zinc-600">还没有云端卡组。</p>
+                ) : (
+                  <div className="mt-4 space-y-3">
+                    {cloudDecks.map((saved) => (
+                      <div key={saved.id} className="flex flex-col gap-3 rounded-xl border border-zinc-800 bg-zinc-950 p-4 sm:flex-row sm:items-center sm:justify-between">
+                        <div>
+                          <p className="font-black">{saved.name}</p>
+                          <p className="mt-1 text-xs text-zinc-600">{saved.series} · {saved.total_cards}/{DECK_LIMIT}</p>
+                          <p className="mt-1 text-[10px] text-zinc-700">云端更新：{formatDate(saved.updated_at)}</p>
+                        </div>
+                        <div className="flex gap-2">
+                          <button type="button" onClick={() => loadCloudDeck(saved)} className="rounded-xl bg-red-700 px-4 py-2 text-xs font-black">载入</button>
+                          <button type="button" onClick={() => { if (window.confirm(`删除「${saved.name}」的云端版本吗？`)) void deleteCloudDeck(saved.id).then(showResult); }} className="rounded-xl border border-zinc-800 px-4 py-2 text-xs font-bold text-zinc-500">删除</button>
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                )
+              ) : null}
+            </div>
+
+            <div className="mt-6">
+              <p className="font-black text-white">本机卡组</p>
+              <p className="mt-1 text-xs text-zinc-600">仅保存在这个浏览器，可作为离线备份。</p>
             </div>
 
             {savedDecks.length ===
