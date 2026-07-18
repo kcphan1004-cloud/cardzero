@@ -1555,8 +1555,8 @@ export default function CardCatalog({
                   <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
                     <div>
                       <p className="text-xs font-black tracking-[0.18em] text-red-500">
-                        加入主卡组
-                      </p>
+  加入主卡组
+</p>
 
                       <p className="mt-1 text-sm text-zinc-500">
                         当前数量{" "}
@@ -1749,8 +1749,8 @@ export default function CardCatalog({
             </p>
 
             <p className="mt-1 truncate text-[10px] text-zinc-500">
-              {deck.series} · {totalCards}/50
-            </p>
+  {deck.series} · {totalCards}/50
+</p>
           </div>
 
           <Link
