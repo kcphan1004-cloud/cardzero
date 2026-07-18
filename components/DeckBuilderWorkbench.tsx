@@ -19,8 +19,6 @@ type Props = {
   selectedSeries: string;
 };
 
-type GridMode = "compact" | "standard";
-
 type DeckSortMode = "加入顺序" | "费用" | "卡号" | "类型";
 type DeckExportMode = "share" | "plain";
 
@@ -194,19 +192,17 @@ export default function DeckBuilderWorkbench({
 
   const [costFilter, setCostFilter] = useState("全部");
 
-  const [gridMode, setGridMode] = useState<GridMode>("standard");
-
   const [deckSortMode, setDeckSortMode] = useState<DeckSortMode>("加入顺序");
   const [exportMenuOpen, setExportMenuOpen] = useState(false);
   const [lastSavedFingerprint, setLastSavedFingerprint] = useState("");
-
-  const [visibleCount, setVisibleCount] = useState(80);
 
   const [selectedCard, setSelectedCard] = useState<Card | null>(null);
 
   const [mobileDeckOpen, setMobileDeckOpen] = useState(false);
 
   const [filterPanelOpen, setFilterPanelOpen] = useState(false);
+
+  const [desktopDeckCollapsed, setDesktopDeckCollapsed] = useState(false);
 
   const [savedDecksOpen, setSavedDecksOpen] = useState(false);
 
@@ -267,10 +263,6 @@ export default function DeckBuilderWorkbench({
       prepareSeries(selectedSeries);
     }
   }, [hydrated, prepareSeries, selectedSeries, totalCards]);
-
-  useEffect(() => {
-    setVisibleCount(80);
-  }, [search, colorFilter, typeFilter, costFilter, selectedSeries]);
 
   useEffect(() => {
     if (!notice) {
@@ -374,8 +366,6 @@ export default function DeckBuilderWorkbench({
         }),
       );
   }, [cards, search, colorFilter, typeFilter, costFilter]);
-
-  const visibleCards = filteredCards.slice(0, visibleCount);
 
   const deckRows = useMemo(
     () =>
@@ -904,13 +894,24 @@ export default function DeckBuilderWorkbench({
         className={`flex min-h-0 flex-col overflow-hidden rounded-3xl border border-red-950 bg-zinc-950 shadow-2xl shadow-black/40 ${
           mobile
             ? "h-[78vh] max-h-[820px]"
-            : "h-[calc(100vh-96px)] max-h-[900px]"
+            : "h-[calc(100vh-96px)]"
         }`}
       >
-        <div className="shrink-0 border-b border-zinc-900 p-5">
-          <p className="text-[10px] font-black tracking-[0.25em] text-red-500">
-            CURRENT DECK
-          </p>
+        <div className="shrink-0 border-b border-zinc-900 p-4">
+          <div className="flex items-start justify-between gap-3">
+            <p className="text-[10px] font-black tracking-[0.25em] text-red-500">
+              CURRENT DECK
+            </p>
+            {!mobile ? (
+              <button
+                type="button"
+                onClick={() => setDesktopDeckCollapsed(true)}
+                className="rounded-lg border border-zinc-800 bg-black px-3 py-1.5 text-[10px] font-bold text-zinc-400 transition hover:border-red-700 hover:text-white"
+              >
+                收起 ›
+              </button>
+            ) : null}
+          </div>
 
           <input
             value={deck.name}
@@ -1254,8 +1255,12 @@ export default function DeckBuilderWorkbench({
         <div
           className={`grid items-start gap-5 ${
             filterPanelOpen
-              ? "xl:grid-cols-[250px_minmax(0,1fr)_430px]"
-              : "xl:grid-cols-[58px_minmax(0,1fr)_430px]"
+              ? desktopDeckCollapsed
+                ? "xl:grid-cols-[250px_minmax(0,1fr)_72px]"
+                : "xl:grid-cols-[250px_minmax(0,1fr)_520px]"
+              : desktopDeckCollapsed
+                ? "xl:grid-cols-[58px_minmax(0,1fr)_72px]"
+                : "xl:grid-cols-[58px_minmax(0,1fr)_520px]"
           }`}
         >
           <aside className="rounded-3xl border border-zinc-800 bg-zinc-950 xl:sticky xl:top-[82px]">
@@ -1418,48 +1423,17 @@ export default function DeckBuilderWorkbench({
           </aside>
 
           <section className="min-w-0">
-            <div className="sticky top-[72px] z-20 flex flex-col gap-3 rounded-2xl border border-zinc-800 bg-zinc-950/95 p-4 shadow-xl backdrop-blur sm:flex-row sm:items-center sm:justify-between">
+            <div className="sticky top-[72px] z-20 flex items-center justify-between gap-3 rounded-2xl border border-zinc-800 bg-zinc-950/95 p-4 shadow-xl backdrop-blur">
               <p className="text-sm text-zinc-400">
                 找到{" "}
                 <strong className="text-white">{filteredCards.length}</strong>{" "}
                 张卡牌
               </p>
-
-              <div className="flex items-center gap-2">
-                <button
-                  type="button"
-                  onClick={() => setGridMode("compact")}
-                  className={`rounded-lg px-3 py-2 text-xs font-bold ${
-                    gridMode === "compact"
-                      ? "bg-red-700 text-white"
-                      : "border border-zinc-800 bg-black text-zinc-500"
-                  }`}
-                >
-                  紧凑
-                </button>
-
-                <button
-                  type="button"
-                  onClick={() => setGridMode("standard")}
-                  className={`rounded-lg px-3 py-2 text-xs font-bold ${
-                    gridMode === "standard"
-                      ? "bg-red-700 text-white"
-                      : "border border-zinc-800 bg-black text-zinc-500"
-                  }`}
-                >
-                  标准
-                </button>
-              </div>
+              <p className="text-[10px] font-bold text-zinc-600">完整显示 · 每行 6 张</p>
             </div>
 
-            <div
-              className={`mt-5 grid ${
-                gridMode === "compact"
-                  ? "grid-cols-3 gap-2 sm:grid-cols-4 lg:grid-cols-5 2xl:grid-cols-6"
-                  : "grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-5"
-              }`}
-            >
-              {visibleCards.map((card) => {
+            <div className="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4 2xl:grid-cols-6">
+              {filteredCards.map((card) => {
                 const quantity = getCardQuantity(card.id);
 
                 return (
@@ -1486,30 +1460,19 @@ export default function DeckBuilderWorkbench({
                         ) : null}
                       </div>
 
-                      <div
-                        className={
-                          gridMode === "compact" ? "p-2 pb-12" : "p-3 pb-14"
-                        }
-                      >
+                      <div className="p-3 pb-14">
                         <p className="truncate text-[9px] font-bold text-red-500">
                           {card.number}
                         </p>
 
-                        <h2
-                          className={`mt-1 line-clamp-2 min-h-[2.25rem] font-black leading-5 text-white ${
-                            gridMode === "compact" ? "text-[11px]" : "text-sm"
-                          }`}
-                        >
+                        <h2 className="mt-1 line-clamp-2 min-h-[2.5rem] text-sm font-black leading-5 text-white">
                           {displayName(card)}
                         </h2>
 
-                        {gridMode === "standard" ? (
-                          <div className="mt-2 flex items-center justify-between text-[10px] text-zinc-600">
-                            <span>{card.color}</span>
-
-                            <span>{card.cost}费</span>
-                          </div>
-                        ) : null}
+                        <div className="mt-2 flex items-center justify-between text-[10px] text-zinc-600">
+                          <span>{card.color}</span>
+                          <span>{card.cost}费</span>
+                        </div>
                       </div>
                     </button>
 
@@ -1551,20 +1514,27 @@ export default function DeckBuilderWorkbench({
                 </button>
               </div>
             ) : null}
-
-            {visibleCount < filteredCards.length ? (
-              <button
-                type="button"
-                onClick={() => setVisibleCount((current) => current + 80)}
-                className="mt-6 w-full rounded-2xl border border-zinc-800 bg-zinc-950 px-5 py-4 text-sm font-black text-zinc-300 transition hover:border-red-800 hover:text-white"
-              >
-                载入更多（还有 {filteredCards.length - visibleCount} 张）
-              </button>
-            ) : null}
           </section>
 
           <aside className="hidden xl:sticky xl:top-[82px] xl:block">
-            {renderDeckPanel()}
+            {desktopDeckCollapsed ? (
+              <button
+                type="button"
+                onClick={() => setDesktopDeckCollapsed(false)}
+                className="flex h-[calc(100vh-96px)] w-full flex-col items-center justify-between rounded-3xl border border-red-950 bg-zinc-950 px-2 py-5 text-center shadow-2xl shadow-black/40 transition hover:border-red-700"
+                aria-label="展开当前卡组"
+              >
+                <span className="text-xl text-red-400">‹</span>
+                <span className="[writing-mode:vertical-rl] text-xs font-black tracking-[0.18em] text-zinc-300">
+                  当前卡组
+                </span>
+                <span className="rounded-full bg-red-700 px-2 py-1 text-[10px] font-black text-white">
+                  {totalCards}/{DECK_LIMIT}
+                </span>
+              </button>
+            ) : (
+              renderDeckPanel()
+            )}
           </aside>
         </div>
       </div>
