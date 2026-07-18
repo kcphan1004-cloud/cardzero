@@ -170,6 +170,75 @@ function CardImage({
   );
 }
 
+async function loadCanvasImage(
+  src: string,
+) {
+  const response = await fetch(
+    src,
+    { cache: "force-cache" },
+  );
+
+  if (!response.ok) {
+    throw new Error(
+      `无法载入卡图：${src}`,
+    );
+  }
+
+  const blob = await response.blob();
+  const objectUrl =
+    URL.createObjectURL(blob);
+
+  try {
+    const image =
+      await new Promise<HTMLImageElement>(
+        (resolve, reject) => {
+          const element =
+            new window.Image();
+
+          element.onload = () =>
+            resolve(element);
+          element.onerror = () =>
+            reject(
+              new Error(
+                `无法解析卡图：${src}`,
+              ),
+            );
+          element.src = objectUrl;
+        },
+      );
+
+    return image;
+  } finally {
+    URL.revokeObjectURL(
+      objectUrl,
+    );
+  }
+}
+
+function roundedRect(
+  context: CanvasRenderingContext2D,
+  x: number,
+  y: number,
+  width: number,
+  height: number,
+  radius: number,
+) {
+  const safeRadius = Math.min(
+    radius,
+    width / 2,
+    height / 2,
+  );
+
+  context.beginPath();
+  context.roundRect(
+    x,
+    y,
+    width,
+    height,
+    safeRadius,
+  );
+}
+
 export default function DeckBuilderWorkbench({
   cards,
   seriesNames,
@@ -246,6 +315,11 @@ export default function DeckBuilderWorkbench({
     notice,
     setNotice,
   ] = useState("");
+
+  const [
+    exportingImage,
+    setExportingImage,
+  ] = useState(false);
 
   const fileInputRef =
     useRef<HTMLInputElement>(
@@ -711,6 +785,336 @@ export default function DeckBuilderWorkbench({
     }
   }
 
+  async function downloadDeckImage() {
+    if (
+      totalCards === 0 ||
+      exportingImage
+    ) {
+      return;
+    }
+
+    setExportingImage(true);
+    setNotice(
+      "正在生成完整卡组图片……",
+    );
+
+    try {
+      const rows = deckRows.filter(
+        (row) => Boolean(row.card),
+      );
+      const columns = 5;
+      const cardWidth = 250;
+      const cardHeight = 350;
+      const gap = 28;
+      const padding = 64;
+      const headerHeight = 190;
+      const footerHeight = 72;
+      const rowCount = Math.max(
+        1,
+        Math.ceil(
+          rows.length / columns,
+        ),
+      );
+      const width =
+        padding * 2 +
+        columns * cardWidth +
+        (columns - 1) * gap;
+      const height =
+        padding +
+        headerHeight +
+        rowCount * cardHeight +
+        (rowCount - 1) * gap +
+        footerHeight +
+        padding;
+
+      const canvas =
+        document.createElement(
+          "canvas",
+        );
+      canvas.width = width;
+      canvas.height = height;
+
+      const context =
+        canvas.getContext(
+          "2d",
+        );
+
+      if (!context) {
+        throw new Error(
+          "浏览器无法建立图片画布。",
+        );
+      }
+
+      const background =
+        context.createLinearGradient(
+          0,
+          0,
+          width,
+          height,
+        );
+      background.addColorStop(
+        0,
+        "#050505",
+      );
+      background.addColorStop(
+        0.55,
+        "#18181b",
+      );
+      background.addColorStop(
+        1,
+        "#280707",
+      );
+      context.fillStyle = background;
+      context.fillRect(
+        0,
+        0,
+        width,
+        height,
+      );
+
+      context.fillStyle =
+        "rgba(185,28,28,0.20)";
+      context.beginPath();
+      context.arc(
+        width - 120,
+        90,
+        250,
+        0,
+        Math.PI * 2,
+      );
+      context.fill();
+
+      context.fillStyle =
+        "#ef4444";
+      context.font =
+        "900 28px Arial, sans-serif";
+      context.fillText(
+        "CARDZERO DECK",
+        padding,
+        padding + 34,
+      );
+
+      context.fillStyle =
+        "#ffffff";
+      context.font =
+        "900 54px Arial, sans-serif";
+      context.fillText(
+        deck.name || "我的卡组",
+        padding,
+        padding + 98,
+      );
+
+      context.fillStyle =
+        "#a1a1aa";
+      context.font =
+        "700 24px Arial, sans-serif";
+      context.fillText(
+        `${deck.series || selectedSeries}  ·  ${totalCards}/${DECK_LIMIT} 张  ·  ${rows.length} 种卡`,
+        padding,
+        padding + 142,
+      );
+
+      await Promise.all(
+        rows.map(
+          async ({
+            entry,
+            card,
+          }, index) => {
+            if (!card) {
+              return;
+            }
+
+            const column =
+              index % columns;
+            const row = Math.floor(
+              index / columns,
+            );
+            const x =
+              padding +
+              column *
+                (cardWidth + gap);
+            const y =
+              padding +
+              headerHeight +
+              row *
+                (cardHeight + gap);
+
+            context.save();
+            roundedRect(
+              context,
+              x,
+              y,
+              cardWidth,
+              cardHeight,
+              18,
+            );
+            context.clip();
+
+            try {
+              const source =
+                normalizeImagePath(
+                  card.image,
+                );
+              const image =
+                await loadCanvasImage(
+                  source,
+                );
+              context.drawImage(
+                image,
+                x,
+                y,
+                cardWidth,
+                cardHeight,
+              );
+            } catch {
+              context.fillStyle =
+                "#18181b";
+              context.fillRect(
+                x,
+                y,
+                cardWidth,
+                cardHeight,
+              );
+              context.fillStyle =
+                "#71717a";
+              context.font =
+                "700 18px Arial, sans-serif";
+              context.textAlign =
+                "center";
+              context.fillText(
+                card.number,
+                x + cardWidth / 2,
+                y + cardHeight / 2,
+              );
+              context.textAlign =
+                "left";
+            }
+
+            context.restore();
+
+            context.strokeStyle =
+              "rgba(255,255,255,0.22)";
+            context.lineWidth = 2;
+            roundedRect(
+              context,
+              x,
+              y,
+              cardWidth,
+              cardHeight,
+              18,
+            );
+            context.stroke();
+
+            const badgeSize = 58;
+            const badgeX =
+              x +
+              cardWidth -
+              badgeSize -
+              10;
+            const badgeY = y + 10;
+            context.fillStyle =
+              "rgba(185,28,28,0.96)";
+            roundedRect(
+              context,
+              badgeX,
+              badgeY,
+              badgeSize,
+              badgeSize,
+              16,
+            );
+            context.fill();
+            context.fillStyle =
+              "#ffffff";
+            context.font =
+              "900 30px Arial, sans-serif";
+            context.textAlign =
+              "center";
+            context.textBaseline =
+              "middle";
+            context.fillText(
+              `×${entry.quantity}`,
+              badgeX +
+                badgeSize / 2,
+              badgeY +
+                badgeSize / 2 +
+                1,
+            );
+            context.textAlign =
+              "left";
+            context.textBaseline =
+              "alphabetic";
+          },
+        ),
+      );
+
+      context.fillStyle =
+        "#71717a";
+      context.font =
+        "700 20px Arial, sans-serif";
+      context.fillText(
+        "Generated by CardZero · cardzero-tcg.com",
+        padding,
+        height - padding,
+      );
+
+      const blob =
+        await new Promise<Blob>(
+          (resolve, reject) => {
+            canvas.toBlob(
+              (result) => {
+                if (result) {
+                  resolve(result);
+                } else {
+                  reject(
+                    new Error(
+                      "图片输出失败。",
+                    ),
+                  );
+                }
+              },
+              "image/png",
+              1,
+            );
+          },
+        );
+
+      const url =
+        URL.createObjectURL(
+          blob,
+        );
+      const anchor =
+        document.createElement(
+          "a",
+        );
+      const safeName =
+        (deck.name ||
+          "cardzero-deck")
+          .replace(
+            /[\/:*?"<>|]/g,
+            "-",
+          )
+          .trim();
+
+      anchor.href = url;
+      anchor.download = `${safeName || "cardzero-deck"}-卡组图.png`;
+      anchor.click();
+      URL.revokeObjectURL(
+        url,
+      );
+      setNotice(
+        "完整卡组图片已经导出。",
+      );
+    } catch (error) {
+      setNotice(
+        error instanceof Error
+          ? `导出失败：${error.message}`
+          : "卡组图片导出失败。",
+      );
+    } finally {
+      setExportingImage(false);
+    }
+  }
+
   function downloadDeckJson() {
     const payload = {
       exportedAt:
@@ -1148,6 +1552,22 @@ export default function DeckBuilderWorkbench({
               className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-bold text-zinc-400 transition hover:text-white"
             >
               复制文字
+            </button>
+
+            <button
+              type="button"
+              onClick={
+                downloadDeckImage
+              }
+              disabled={
+                totalCards === 0 ||
+                exportingImage
+              }
+              className="rounded-xl border border-red-800 bg-red-950/25 px-3 py-3 text-xs font-black text-red-300 transition hover:bg-red-950/50 disabled:cursor-not-allowed disabled:opacity-40"
+            >
+              {exportingImage
+                ? "生成图片中…"
+                : "导出卡组图"}
             </button>
 
             <button
