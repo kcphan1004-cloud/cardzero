@@ -190,6 +190,29 @@ function safeFileName(value: string) {
     .replace(/\s+/g, " ") || "CardZero-卡组";
 }
 
+
+function readCardField(card: Card, keys: string[]) {
+  const record = card as unknown as Record<string, unknown>;
+  for (const key of keys) {
+    const value = record[key];
+    if (value !== undefined && value !== null && String(value).trim() !== "") return value;
+  }
+  return null;
+}
+
+function parseCardNumber(value: unknown) {
+  if (typeof value === "number") return Number.isFinite(value) ? value : 0;
+  const match = String(value ?? "").replace(/,/g, "").match(/-?\d+(?:\.\d+)?/);
+  if (!match) return 0;
+  const parsed = Number(match[0]);
+  return Number.isFinite(parsed) ? parsed : 0;
+}
+
+function hasTriggerText(value: unknown) {
+  const text = String(value ?? "").trim().toLowerCase();
+  return Boolean(text && !["-", "无", "なし", "none", "null"].includes(text));
+}
+
 export default function DeckBuilderWorkbench({
   cards,
   seriesNames,
@@ -651,6 +674,44 @@ export default function DeckBuilderWorkbench({
             0,
         }));
     }, [deckRows]);
+
+
+  const deckStatistics = useMemo(() => {
+    let weightedCost = 0;
+    let cardsWithCost = 0;
+    let generatedEnergy = 0;
+    let triggerCount = 0;
+    let totalBp = 0;
+
+    for (const { entry, card } of deckRows) {
+      if (!card) continue;
+      const quantity = entry.quantity;
+      const cost = parseCardNumber(readCardField(card, ["cost", "needEnergy", "requiredEnergy"]));
+      weightedCost += cost * quantity;
+      cardsWithCost += quantity;
+
+      const energy = parseCardNumber(readCardField(card, [
+        "generatedEnergy", "generated_energy", "produceEnergy", "productionEnergy", "energyGenerated",
+      ]));
+      generatedEnergy += energy * quantity;
+
+      const triggerValue = readCardField(card, ["triggerZh", "trigger", "triggerText"]);
+      if (hasTriggerText(triggerValue)) triggerCount += quantity;
+
+      const bp = parseCardNumber(readCardField(card, ["bp", "BP", "power"]));
+      totalBp += bp * quantity;
+    }
+
+    return {
+      averageCost: cardsWithCost > 0 ? weightedCost / cardsWithCost : 0,
+      generatedEnergy,
+      triggerCount,
+      triggerRatio: totalCards > 0 ? (triggerCount / totalCards) * 100 : 0,
+      totalBp,
+    };
+  }, [deckRows, totalCards]);
+
+  const maxCostCurveCount = Math.max(1, ...costCurve.map((item) => item.count));
 
   const activeFilterCount = [
     colorFilter,
@@ -1126,7 +1187,57 @@ export default function DeckBuilderWorkbench({
           </div>
         </div>
 
-        <div className="max-h-[58vh] overflow-y-auto p-3">
+        <div className="border-b border-zinc-900 p-3">
+          <div className="grid grid-cols-3 gap-2">
+            <div className="rounded-xl border border-zinc-800 bg-black px-3 py-3">
+              <p className="text-[9px] font-bold text-zinc-600">平均费用</p>
+              <p className="mt-1 text-lg font-black text-white">{deckStatistics.averageCost.toFixed(1)}</p>
+            </div>
+            <div className="rounded-xl border border-zinc-800 bg-black px-3 py-3">
+              <p className="text-[9px] font-bold text-zinc-600">产生能量</p>
+              <p className="mt-1 text-lg font-black text-white">{deckStatistics.generatedEnergy}</p>
+            </div>
+            <div className="rounded-xl border border-zinc-800 bg-black px-3 py-3">
+              <p className="text-[9px] font-bold text-zinc-600">Trigger 数量</p>
+              <p className="mt-1 text-lg font-black text-white">{deckStatistics.triggerCount}</p>
+              <p className="text-[9px] text-zinc-600">{deckStatistics.triggerRatio.toFixed(1)}%</p>
+            </div>
+          </div>
+
+          <div className="mt-3 rounded-xl border border-zinc-800 bg-black p-3">
+            <div className="flex items-center justify-between gap-3">
+              <p className="text-[10px] font-black text-zinc-400">费用曲线</p>
+              {deckStatistics.totalBp > 0 ? (
+                <p className="text-[9px] font-bold text-zinc-600">总 BP {deckStatistics.totalBp.toLocaleString()}</p>
+              ) : null}
+            </div>
+            <div className="mt-3 flex h-20 items-end gap-1.5">
+              {costCurve.length === 0 ? (
+                <p className="m-auto text-[10px] text-zinc-700">加入卡牌后显示费用分布</p>
+              ) : costCurve.map((item) => (
+                <div key={item.label} className="flex min-w-0 flex-1 flex-col items-center justify-end gap-1">
+                  <span className="text-[8px] font-bold text-zinc-500">{item.count}</span>
+                  <span
+                    className="w-full min-w-2 rounded-t bg-red-700"
+                    style={{ height: `${Math.max(8, (item.count / maxCostCurveCount) * 48)}px` }}
+                  />
+                  <span className="text-[8px] font-bold text-zinc-600">{item.label}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+
+          <div className="mt-3 grid grid-cols-3 gap-2">
+            {typeCounts.slice(0, 6).map(([type, count]) => (
+              <div key={type} className="rounded-lg border border-zinc-900 bg-black px-2 py-2 text-center" title={type}>
+                <p className="truncate text-[9px] text-zinc-600">{type}</p>
+                <p className="mt-0.5 text-sm font-black text-zinc-200">{count}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div className="max-h-[46vh] overflow-y-auto overscroll-contain p-3 pr-2 [scrollbar-color:#7f1d1d_#09090b] [scrollbar-width:thin] xl:max-h-[520px]">
           {deckRows.length === 0 ? (
             <div className="rounded-xl border border-dashed border-zinc-800 bg-black px-4 py-10 text-center text-xs text-zinc-700">
               点击左侧卡牌的＋加入卡组
@@ -1140,17 +1251,10 @@ export default function DeckBuilderWorkbench({
                   title={card ? displayName(card) : entry.number}
                 >
                   {card ? (
-                    <CardImage
-                      card={card}
-                      sizes="100px"
-                      className="object-contain"
-                    />
+                    <CardImage card={card} sizes="100px" className="object-contain" />
                   ) : (
-                    <div className="flex h-full items-center justify-center px-1 text-center text-[8px] text-zinc-700">
-                      找不到卡图
-                    </div>
+                    <div className="flex h-full items-center justify-center px-1 text-center text-[8px] text-zinc-700">找不到卡图</div>
                   )}
-
                   <span className="absolute left-1 top-1 flex h-6 min-w-6 items-center justify-center rounded-full border-2 border-white bg-red-700 px-1 text-[10px] font-black text-white shadow-xl">
                     ×{entry.quantity}
                   </span>
