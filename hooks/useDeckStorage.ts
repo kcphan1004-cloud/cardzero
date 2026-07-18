@@ -9,29 +9,29 @@ import {
 
 import type { Card } from "../data/card-series-generated";
 
-export const MAIN_DECK_LIMIT = 50;
-export const AP_DECK_LIMIT = 3;
+export const DECK_LIMIT = 50;
 export const CARD_COPY_LIMIT = 4;
 
 const CURRENT_DECK_KEY =
+  "cardzero.current-deck.v2";
+
+const LEGACY_CURRENT_DECK_KEY =
   "cardzero.current-deck.v1";
 
 const SAVED_DECKS_KEY =
-  "cardzero.saved-decks.v1";
+  "cardzero.saved-decks.v2";
 
-export type DeckZone =
-  | "main"
-  | "ap";
+const LEGACY_SAVED_DECKS_KEY =
+  "cardzero.saved-decks.v1";
 
 export type DeckEntry = {
   cardId: string;
   number: string;
   quantity: number;
-  zone: DeckZone;
 };
 
 export type StoredDeck = {
-  version: 1;
+  version: 2;
   name: string;
   series: string;
   entries: DeckEntry[];
@@ -75,7 +75,7 @@ function emptyDeck(
   series = "",
 ): StoredDeck {
   return {
-    version: 1,
+    version: 2,
     name: series
       ? `${series} 卡组`
       : "我的卡组",
@@ -120,33 +120,6 @@ function cleanInteger(
   );
 }
 
-export function isActionPointCard(
-  card: Pick<
-    Card,
-    "rarity" | "type"
-  >,
-) {
-  const rarity = String(
-    card.rarity ?? "",
-  )
-    .trim()
-    .toUpperCase();
-
-  const type = String(card.type ?? "")
-    .trim()
-    .toLowerCase();
-
-  return (
-    rarity === "AP" ||
-    type.includes("action point") ||
-    type.includes("actionpoint") ||
-    type.includes("ap卡") ||
-    type.includes("行动点") ||
-    type.includes("动作点") ||
-    type.includes("アクションポイント")
-  );
-}
-
 function normalizeEntries(
   value: unknown,
 ) {
@@ -155,13 +128,12 @@ function normalizeEntries(
   }
 
   const result: DeckEntry[] = [];
-  const indexByKey =
+  const indexByCardId =
     new Map<string, number>();
   const numberCounts =
     new Map<string, number>();
 
-  let mainTotal = 0;
-  let apTotal = 0;
+  let deckTotal = 0;
 
   for (const rawEntry of value) {
     if (!isRecord(rawEntry)) {
@@ -176,11 +148,6 @@ function normalizeEntries(
       cleanText(rawEntry.number) ||
       cardId;
 
-    const zone: DeckZone =
-      rawEntry.zone === "ap"
-        ? "ap"
-        : "main";
-
     const requestedQuantity =
       cleanInteger(
         rawEntry.quantity,
@@ -189,46 +156,9 @@ function normalizeEntries(
     if (
       !cardId ||
       !number ||
-      requestedQuantity <= 0
+      requestedQuantity <= 0 ||
+      deckTotal >= DECK_LIMIT
     ) {
-      continue;
-    }
-
-    if (zone === "ap") {
-      const allowed = Math.min(
-        requestedQuantity,
-        AP_DECK_LIMIT - apTotal,
-      );
-
-      if (allowed <= 0) {
-        continue;
-      }
-
-      const key = `${zone}:${cardId}`;
-      const existingIndex =
-        indexByKey.get(key);
-
-      if (
-        existingIndex !== undefined
-      ) {
-        result[
-          existingIndex
-        ].quantity += allowed;
-      } else {
-        indexByKey.set(
-          key,
-          result.length,
-        );
-
-        result.push({
-          cardId,
-          number,
-          quantity: allowed,
-          zone,
-        });
-      }
-
-      apTotal += allowed;
       continue;
     }
 
@@ -239,16 +169,15 @@ function normalizeEntries(
       requestedQuantity,
       CARD_COPY_LIMIT -
         sameNumberCount,
-      MAIN_DECK_LIMIT - mainTotal,
+      DECK_LIMIT - deckTotal,
     );
 
     if (allowed <= 0) {
       continue;
     }
 
-    const key = `${zone}:${cardId}`;
     const existingIndex =
-      indexByKey.get(key);
+      indexByCardId.get(cardId);
 
     if (
       existingIndex !== undefined
@@ -257,8 +186,8 @@ function normalizeEntries(
         existingIndex
       ].quantity += allowed;
     } else {
-      indexByKey.set(
-        key,
+      indexByCardId.set(
+        cardId,
         result.length,
       );
 
@@ -266,7 +195,6 @@ function normalizeEntries(
         cardId,
         number,
         quantity: allowed,
-        zone,
       });
     }
 
@@ -275,7 +203,7 @@ function normalizeEntries(
       sameNumberCount + allowed,
     );
 
-    mainTotal += allowed;
+    deckTotal += allowed;
   }
 
   return result;
@@ -302,7 +230,7 @@ function normalizeDeck(
       : "我的卡组");
 
   return {
-    version: 1,
+    version: 2,
     name,
     series,
     entries: normalizeEntries(
@@ -328,9 +256,8 @@ function normalizeSavedDecks(
       continue;
     }
 
-    const deck = normalizeDeck(
-      rawDeck,
-    );
+    const deck =
+      normalizeDeck(rawDeck);
 
     const snapshotId =
       cleanText(
@@ -400,19 +327,31 @@ export function useDeckStorage() {
   ] = useState(false);
 
   useEffect(() => {
+    const currentValue =
+      readJson(
+        CURRENT_DECK_KEY,
+      ) ??
+      readJson(
+        LEGACY_CURRENT_DECK_KEY,
+      );
+
+    const savedValue =
+      readJson(
+        SAVED_DECKS_KEY,
+      ) ??
+      readJson(
+        LEGACY_SAVED_DECKS_KEY,
+      );
+
     setDeck(
       normalizeDeck(
-        readJson(
-          CURRENT_DECK_KEY,
-        ),
+        currentValue,
       ),
     );
 
     setSavedDecks(
       normalizeSavedDecks(
-        readJson(
-          SAVED_DECKS_KEY,
-        ),
+        savedValue,
       ),
     );
 
@@ -497,41 +436,16 @@ export function useDeckStorage() {
     };
   }, []);
 
-  const mainCount = useMemo(
+  const totalCards = useMemo(
     () =>
-      deck.entries
-        .filter(
-          (entry) =>
-            entry.zone ===
-            "main",
-        )
-        .reduce(
-          (total, entry) =>
-            total +
-            entry.quantity,
-          0,
-        ),
+      deck.entries.reduce(
+        (total, entry) =>
+          total +
+          entry.quantity,
+        0,
+      ),
     [deck.entries],
   );
-
-  const apCount = useMemo(
-    () =>
-      deck.entries
-        .filter(
-          (entry) =>
-            entry.zone === "ap",
-        )
-        .reduce(
-          (total, entry) =>
-            total +
-            entry.quantity,
-          0,
-        ),
-    [deck.entries],
-  );
-
-  const totalCards =
-    mainCount + apCount;
 
   const getCardQuantity =
     useCallback(
@@ -548,11 +462,6 @@ export function useDeckStorage() {
     (
       card: Card,
     ): DeckActionResult => {
-      const zone: DeckZone =
-        isActionPointCard(card)
-          ? "ap"
-          : "main";
-
       if (
         totalCards > 0 &&
         deck.series &&
@@ -566,59 +475,42 @@ export function useDeckStorage() {
       }
 
       if (
-        zone === "ap" &&
-        apCount >=
-          AP_DECK_LIMIT
+        totalCards >=
+        DECK_LIMIT
       ) {
         return {
           ok: false,
           message:
-            "AP 卡组已经达到 3 张。",
+            "卡组已经达到 50 张。",
         };
       }
+
+      const sameNumberCount =
+        deck.entries
+          .filter(
+            (entry) =>
+              entry.number ===
+              card.number,
+          )
+          .reduce(
+            (
+              total,
+              entry,
+            ) =>
+              total +
+              entry.quantity,
+            0,
+          );
 
       if (
-        zone === "main" &&
-        mainCount >=
-          MAIN_DECK_LIMIT
+        sameNumberCount >=
+        CARD_COPY_LIMIT
       ) {
         return {
           ok: false,
           message:
-            "主卡组已经达到 50 张。",
+            "同一卡号（包含异图）已经达到 4 张。",
         };
-      }
-
-      if (zone === "main") {
-        const sameNumberCount =
-          deck.entries
-            .filter(
-              (entry) =>
-                entry.zone ===
-                  "main" &&
-                entry.number ===
-                  card.number,
-            )
-            .reduce(
-              (
-                total,
-                entry,
-              ) =>
-                total +
-                entry.quantity,
-              0,
-            );
-
-        if (
-          sameNumberCount >=
-          CARD_COPY_LIMIT
-        ) {
-          return {
-            ok: false,
-            message:
-              "同一卡号（包含异图）已经达到 4 张。",
-          };
-        }
       }
 
       const nextSeries =
@@ -629,8 +521,7 @@ export function useDeckStorage() {
         deck.entries.findIndex(
           (entry) =>
             entry.cardId ===
-              card.id &&
-            entry.zone === zone,
+            card.id,
         );
 
       const nextEntries = [
@@ -656,7 +547,6 @@ export function useDeckStorage() {
           cardId: card.id,
           number: card.number,
           quantity: 1,
-          zone,
         });
       }
 
@@ -676,16 +566,11 @@ export function useDeckStorage() {
 
       return {
         ok: true,
-        message:
-          zone === "ap"
-            ? `已加入 AP 卡组（${apCount + 1}/${AP_DECK_LIMIT}）`
-            : `已加入主卡组（${mainCount + 1}/${MAIN_DECK_LIMIT}）`,
+        message: `已加入卡组（${totalCards + 1}/${DECK_LIMIT}）`,
       };
     },
     [
-      apCount,
       deck,
-      mainCount,
       totalCards,
     ],
   );
@@ -782,93 +667,58 @@ export function useDeckStorage() {
               });
             }
 
-            const currentMain =
-              current.entries
-                .filter(
-                  (item) =>
-                    item.zone ===
-                    "main",
-                )
-                .reduce(
-                  (
-                    total,
-                    item,
-                  ) =>
-                    total +
-                    item.quantity,
-                  0,
-                );
-
-            const currentAp =
-              current.entries
-                .filter(
-                  (item) =>
-                    item.zone ===
-                    "ap",
-                )
-                .reduce(
-                  (
-                    total,
-                    item,
-                  ) =>
-                    total +
-                    item.quantity,
-                  0,
-                );
-
-            let maximum = 0;
-
-            if (
-              entry.zone === "ap"
-            ) {
-              maximum =
-                AP_DECK_LIMIT -
-                (currentAp -
-                  entry.quantity);
-            } else {
-              const otherSameNumber =
-                current.entries
-                  .filter(
-                    (item) =>
-                      item.zone ===
-                        "main" &&
-                      item.number ===
-                        entry.number &&
-                      item.cardId !==
-                        entry.cardId,
-                  )
-                  .reduce(
-                    (
-                      total,
-                      item,
-                    ) =>
-                      total +
-                      item.quantity,
-                    0,
-                  );
-
-              const copyMaximum =
-                CARD_COPY_LIMIT -
-                otherSameNumber;
-
-              const deckMaximum =
-                MAIN_DECK_LIMIT -
-                (currentMain -
-                  entry.quantity);
-
-              maximum = Math.min(
-                copyMaximum,
-                deckMaximum,
+            const currentTotal =
+              current.entries.reduce(
+                (
+                  total,
+                  item,
+                ) =>
+                  total +
+                  item.quantity,
+                0,
               );
-            }
+
+            const otherSameNumber =
+              current.entries
+                .filter(
+                  (item) =>
+                    item.number ===
+                      entry.number &&
+                    item.cardId !==
+                      entry.cardId,
+                )
+                .reduce(
+                  (
+                    total,
+                    item,
+                  ) =>
+                    total +
+                    item.quantity,
+                  0,
+                );
+
+            const copyMaximum =
+              CARD_COPY_LIMIT -
+              otherSameNumber;
+
+            const deckMaximum =
+              DECK_LIMIT -
+              (currentTotal -
+                entry.quantity);
+
+            const maximum =
+              Math.max(
+                0,
+                Math.min(
+                  copyMaximum,
+                  deckMaximum,
+                ),
+              );
 
             const nextQuantity =
               Math.min(
                 desired,
-                Math.max(
-                  0,
-                  maximum,
-                ),
+                maximum,
               );
 
             if (
@@ -1068,7 +918,7 @@ export function useDeckStorage() {
         }
 
         const next: StoredDeck = {
-          version: 1,
+          version: 2,
           name: snapshot.name,
           series:
             snapshot.series,
@@ -1111,8 +961,6 @@ export function useDeckStorage() {
     hydrated,
     deck,
     savedDecks,
-    mainCount,
-    apCount,
     totalCards,
     addCard,
     decreaseCard,

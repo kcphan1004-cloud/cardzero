@@ -11,10 +11,8 @@ import { useRouter } from "next/navigation";
 
 import type { Card } from "../data/card-series-generated";
 import {
-  AP_DECK_LIMIT,
   CARD_COPY_LIMIT,
-  MAIN_DECK_LIMIT,
-  isActionPointCard,
+  DECK_LIMIT,
   useDeckStorage,
 } from "../hooks/useDeckStorage";
 
@@ -111,6 +109,24 @@ function displayName(
   );
 }
 
+function formatDate(
+  value: string,
+) {
+  try {
+    return new Intl.DateTimeFormat(
+      "zh-CN",
+      {
+        dateStyle: "medium",
+        timeStyle: "short",
+      },
+    ).format(
+      new Date(value),
+    );
+  } catch {
+    return value;
+  }
+}
+
 function CardImage({
   card,
   sizes,
@@ -134,7 +150,7 @@ function CardImage({
 
   if (!src || failed) {
     return (
-      <div className="flex h-full w-full items-center justify-center bg-zinc-950 text-xs font-bold text-zinc-600">
+      <div className="flex h-full w-full items-center justify-center bg-zinc-950 px-2 text-center text-[10px] font-bold text-zinc-600">
         卡图载入失败
       </div>
     );
@@ -154,24 +170,6 @@ function CardImage({
   );
 }
 
-function formatDate(
-  value: string,
-) {
-  try {
-    return new Intl.DateTimeFormat(
-      "zh-CN",
-      {
-        dateStyle: "medium",
-        timeStyle: "short",
-      },
-    ).format(
-      new Date(value),
-    );
-  } catch {
-    return value;
-  }
-}
-
 export default function DeckBuilderWorkbench({
   cards,
   seriesNames,
@@ -183,13 +181,10 @@ export default function DeckBuilderWorkbench({
     hydrated,
     deck,
     savedDecks,
-    mainCount,
-    apCount,
     totalCards,
     addCard,
     decreaseCard,
     removeCard,
-    setQuantity,
     getCardQuantity,
     clearDeck,
     prepareSeries,
@@ -498,18 +493,6 @@ export default function DeckBuilderWorkbench({
     [cardMap, deck.entries],
   );
 
-  const mainRows =
-    deckRows.filter(
-      ({ entry }) =>
-        entry.zone === "main",
-    );
-
-  const apRows =
-    deckRows.filter(
-      ({ entry }) =>
-        entry.zone === "ap",
-    );
-
   const typeCounts =
     useMemo(() => {
       const result =
@@ -522,13 +505,6 @@ export default function DeckBuilderWorkbench({
         entry,
         card,
       } of deckRows) {
-        if (
-          entry.zone !==
-          "main"
-        ) {
-          continue;
-        }
-
         const type =
           card?.type ||
           "未分类";
@@ -561,11 +537,7 @@ export default function DeckBuilderWorkbench({
         entry,
         card,
       } of deckRows) {
-        if (
-          entry.zone !==
-            "main" ||
-          !card
-        ) {
+        if (!card) {
           continue;
         }
 
@@ -703,32 +675,14 @@ export default function DeckBuilderWorkbench({
         deck.series ||
         selectedSeries
       }`,
+      `卡组数量：${totalCards}/${DECK_LIMIT}`,
       "",
-      `主卡组（${mainCount}/${MAIN_DECK_LIMIT}）`,
     ];
 
     for (const {
       entry,
       card,
-    } of mainRows) {
-      lines.push(
-        `${entry.quantity}x ${entry.number} ${
-          card
-            ? displayName(card)
-            : ""
-        }`.trim(),
-      );
-    }
-
-    lines.push(
-      "",
-      `AP卡组（${apCount}/${AP_DECK_LIMIT}）`,
-    );
-
-    for (const {
-      entry,
-      card,
-    } of apRows) {
+    } of deckRows) {
       lines.push(
         `${entry.quantity}x ${entry.number} ${
           card
@@ -892,12 +846,6 @@ export default function DeckBuilderWorkbench({
     );
   }
 
-  function handleSaveSnapshot() {
-    showResult(
-      saveSnapshot(),
-    );
-  }
-
   function renderDeckPanel() {
     const maximumCostCount =
       Math.max(
@@ -933,139 +881,169 @@ export default function DeckBuilderWorkbench({
               selectedSeries}
           </p>
 
-          <div className="mt-4 grid grid-cols-2 gap-3">
-            <div
-              className={`rounded-2xl border p-4 ${
-                mainCount ===
-                MAIN_DECK_LIMIT
-                  ? "border-emerald-800 bg-emerald-950/20"
-                  : "border-zinc-800 bg-black"
-              }`}
-            >
-              <p className="text-[10px] text-zinc-600">
-                主卡组
-              </p>
+          <div
+            className={`mt-4 rounded-2xl border p-4 ${
+              totalCards ===
+              DECK_LIMIT
+                ? "border-emerald-800 bg-emerald-950/20"
+                : "border-zinc-800 bg-black"
+            }`}
+          >
+            <p className="text-[10px] text-zinc-600">
+              卡组数量
+            </p>
 
-              <p className="mt-1 text-2xl font-black text-white">
-                {mainCount}
-                <span className="text-sm text-zinc-600">
-                  /{MAIN_DECK_LIMIT}
-                </span>
-              </p>
-            </div>
-
-            <div
-              className={`rounded-2xl border p-4 ${
-                apCount ===
-                AP_DECK_LIMIT
-                  ? "border-emerald-800 bg-emerald-950/20"
-                  : "border-zinc-800 bg-black"
-              }`}
-            >
-              <p className="text-[10px] text-zinc-600">
-                AP卡组
-              </p>
-
-              <p className="mt-1 text-2xl font-black text-white">
-                {apCount}
-                <span className="text-sm text-zinc-600">
-                  /{AP_DECK_LIMIT}
-                </span>
-              </p>
-            </div>
+            <p className="mt-1 text-3xl font-black text-white">
+              {totalCards}
+              <span className="text-sm text-zinc-600">
+                /{DECK_LIMIT}
+              </span>
+            </p>
           </div>
 
-          <div className="mt-4 space-y-2 text-xs">
-            <div
-              className={`rounded-xl border px-3 py-2 ${
-                mainCount ===
-                MAIN_DECK_LIMIT
-                  ? "border-emerald-900/60 bg-emerald-950/20 text-emerald-300"
-                  : "border-amber-900/50 bg-amber-950/10 text-amber-300"
-              }`}
-            >
-              {mainCount ===
-              MAIN_DECK_LIMIT
-                ? "✓ 主卡组数量完整"
-                : `主卡组还差 ${
-                    MAIN_DECK_LIMIT -
-                    mainCount
-                  } 张`}
-            </div>
-
-            <div
-              className={`rounded-xl border px-3 py-2 ${
-                apCount ===
-                AP_DECK_LIMIT
-                  ? "border-emerald-900/60 bg-emerald-950/20 text-emerald-300"
-                  : "border-zinc-800 bg-black text-zinc-500"
-              }`}
-            >
-              {apCount ===
-              AP_DECK_LIMIT
-                ? "✓ AP 卡数量完整"
-                : `AP 卡还差 ${
-                    AP_DECK_LIMIT -
-                    apCount
-                  } 张`}
-            </div>
+          <div
+            className={`mt-3 rounded-xl border px-3 py-2 text-xs ${
+              totalCards ===
+              DECK_LIMIT
+                ? "border-emerald-900/60 bg-emerald-950/20 text-emerald-300"
+                : "border-amber-900/50 bg-amber-950/10 text-amber-300"
+            }`}
+          >
+            {totalCards ===
+            DECK_LIMIT
+              ? "✓ 卡组数量完整"
+              : `卡组还差 ${
+                  DECK_LIMIT -
+                  totalCards
+                } 张`}
           </div>
         </div>
 
-        <div className="max-h-[47vh] overflow-y-auto p-4">
-          <DeckListSection
-            title="主卡组"
-            rows={mainRows}
-            emptyText="尚未加入主卡组卡牌"
-            onDecrease={
-              decreaseCard
-            }
-            onIncrease={(
-              card,
-              entry,
-            ) => {
-              if (card) {
-                handleAdd(card);
-              } else {
-                setQuantity(
-                  entry.cardId,
-                  entry.quantity +
-                    1,
-                );
-              }
-            }}
-            onRemove={
-              removeCard
-            }
-          />
+        <div className="max-h-[54vh] overflow-y-auto p-4">
+          <div className="mb-3 flex items-center justify-between">
+            <h3 className="text-sm font-black text-white">
+              卡组全图
+            </h3>
 
-          <div className="my-5 border-t border-zinc-900" />
+            <span className="text-[10px] text-zinc-700">
+              {deckRows.length}
+              种卡牌
+            </span>
+          </div>
 
-          <DeckListSection
-            title="AP卡组"
-            rows={apRows}
-            emptyText="尚未加入 AP 卡"
-            onDecrease={
-              decreaseCard
-            }
-            onIncrease={(
-              card,
-              entry,
-            ) => {
-              if (card) {
-                handleAdd(card);
-              } else {
-                setQuantity(
-                  entry.cardId,
-                  entry.quantity +
-                    1,
-                );
-              }
-            }}
-            onRemove={
-              removeCard
-            }
-          />
+          {deckRows.length ===
+          0 ? (
+            <div className="rounded-xl border border-dashed border-zinc-800 bg-black px-4 py-10 text-center text-xs text-zinc-700">
+              点击卡牌旁边的＋加入卡组
+            </div>
+          ) : (
+            <div className="grid grid-cols-2 gap-3">
+              {deckRows.map(
+                ({
+                  entry,
+                  card,
+                }) => (
+                  <article
+                    key={
+                      entry.cardId
+                    }
+                    className="overflow-hidden rounded-xl border border-zinc-800 bg-black"
+                  >
+                    <div className="relative aspect-[5/7] bg-zinc-950">
+                      {card ? (
+                        <CardImage
+                          card={
+                            card
+                          }
+                          sizes="170px"
+                          className="object-contain"
+                        />
+                      ) : (
+                        <div className="flex h-full items-center justify-center px-3 text-center text-[10px] text-zinc-700">
+                          找不到卡图
+                        </div>
+                      )}
+
+                      <span className="absolute left-2 top-2 flex h-8 min-w-8 items-center justify-center rounded-full border-2 border-white bg-red-700 px-2 text-sm font-black text-white shadow-xl">
+                        ×
+                        {
+                          entry.quantity
+                        }
+                      </span>
+
+                      <button
+                        type="button"
+                        onClick={() =>
+                          removeCard(
+                            entry.cardId,
+                          )
+                        }
+                        aria-label="移除全部"
+                        className="absolute right-2 top-2 flex h-8 w-8 items-center justify-center rounded-full border border-zinc-600 bg-black/85 text-base font-black text-zinc-300"
+                      >
+                        ×
+                      </button>
+                    </div>
+
+                    <div className="p-2">
+                      <p className="truncate text-[9px] font-bold text-zinc-600">
+                        {
+                          entry.number
+                        }
+                      </p>
+
+                      <p className="mt-1 line-clamp-2 min-h-[2rem] text-[11px] font-black leading-4 text-white">
+                        {card
+                          ? displayName(
+                              card,
+                            )
+                          : entry.number}
+                      </p>
+
+                      <div className="mt-2 grid grid-cols-[1fr_34px_1fr] gap-1">
+                        <button
+                          type="button"
+                          onClick={() =>
+                            decreaseCard(
+                              entry.cardId,
+                            )
+                          }
+                          className="flex h-9 items-center justify-center rounded-lg border border-zinc-800 bg-zinc-950 text-lg font-black text-zinc-300"
+                        >
+                          −
+                        </button>
+
+                        <span className="flex h-9 items-center justify-center text-sm font-black text-white">
+                          {
+                            entry.quantity
+                          }
+                        </span>
+
+                        <button
+                          type="button"
+                          onClick={() => {
+                            if (
+                              card
+                            ) {
+                              handleAdd(
+                                card,
+                              );
+                            }
+                          }}
+                          disabled={
+                            !card
+                          }
+                          className="flex h-9 items-center justify-center rounded-lg bg-red-800 text-lg font-black text-white disabled:opacity-40"
+                        >
+                          ＋
+                        </button>
+                      </div>
+                    </div>
+                  </article>
+                ),
+              )}
+            </div>
+          )}
         </div>
 
         <div className="border-t border-zinc-900 p-4">
@@ -1140,8 +1118,10 @@ export default function DeckBuilderWorkbench({
           <div className="mt-5 grid grid-cols-2 gap-2">
             <button
               type="button"
-              onClick={
-                handleSaveSnapshot
+              onClick={() =>
+                showResult(
+                  saveSnapshot(),
+                )
               }
               className="rounded-xl bg-red-700 px-3 py-3 text-xs font-black text-white transition hover:bg-red-600"
             >
@@ -1244,7 +1224,7 @@ export default function DeckBuilderWorkbench({
               </h1>
 
               <p className="mt-3 max-w-3xl text-sm leading-7 text-zinc-400">
-                选择作品、搜索卡牌、点击＋加入卡组。当前卡组会自动保存在这个浏览器中。
+                选择作品、搜索卡牌，使用卡图旁边的＋与−调整数量。卡组会自动保存在这个浏览器中。
               </p>
             </div>
 
@@ -1265,12 +1245,9 @@ export default function DeckBuilderWorkbench({
                 </p>
 
                 <p className="mt-1 text-2xl font-black">
-                  {mainCount}
+                  {totalCards}
                   <span className="text-sm text-zinc-600">
-                    /50
-                  </span>
-                  <span className="ml-2 text-sm text-zinc-500">
-                    AP {apCount}/3
+                    /{DECK_LIMIT}
                   </span>
                 </p>
               </div>
@@ -1310,7 +1287,7 @@ export default function DeckBuilderWorkbench({
           </div>
         ) : null}
 
-        <div className="grid items-start gap-5 xl:grid-cols-[230px_minmax(0,1fr)_360px]">
+        <div className="grid items-start gap-5 xl:grid-cols-[230px_minmax(0,1fr)_390px]">
           <aside className="rounded-3xl border border-zinc-800 bg-zinc-950 p-4 xl:sticky xl:top-[82px]">
             <div>
               <p className="text-[10px] font-black tracking-[0.22em] text-red-500">
@@ -1589,11 +1566,6 @@ export default function DeckBuilderWorkbench({
                       card.id,
                     );
 
-                  const apCard =
-                    isActionPointCard(
-                      card,
-                    );
-
                   return (
                     <article
                       key={card.id}
@@ -1624,20 +1596,14 @@ export default function DeckBuilderWorkbench({
                               }
                             </span>
                           ) : null}
-
-                          {apCard ? (
-                            <span className="absolute right-2 top-2 rounded-md border border-amber-600/60 bg-amber-950/90 px-2 py-1 text-[9px] font-black text-amber-300">
-                              AP
-                            </span>
-                          ) : null}
                         </div>
 
                         <div
                           className={
                             gridMode ===
                             "compact"
-                              ? "p-2"
-                              : "p-3"
+                              ? "p-2 pb-12"
+                              : "p-3 pb-14"
                           }
                         >
                           <p className="truncate text-[9px] font-bold text-red-500">
@@ -1675,20 +1641,41 @@ export default function DeckBuilderWorkbench({
                         </div>
                       </button>
 
-                      <button
-                        type="button"
-                        onClick={() =>
-                          handleAdd(
+                      <div className="absolute bottom-2 right-2 z-10 flex items-center gap-1.5">
+                        <button
+                          type="button"
+                          onClick={() =>
+                            decreaseCard(
+                              card.id,
+                            )
+                          }
+                          disabled={
+                            quantity ===
+                            0
+                          }
+                          aria-label={`减少 ${displayName(
                             card,
-                          )
-                        }
-                        aria-label={`加入 ${displayName(
-                          card,
-                        )}`}
-                        className="absolute bottom-2 right-2 z-10 flex h-10 w-10 items-center justify-center rounded-full border border-red-400 bg-red-700 text-2xl font-black text-white shadow-xl transition hover:scale-105 hover:bg-red-600"
-                      >
-                        ＋
-                      </button>
+                          )}`}
+                          className="flex h-10 w-10 items-center justify-center rounded-full border border-zinc-600 bg-black/90 text-xl font-black text-white shadow-xl transition hover:border-red-500 disabled:cursor-not-allowed disabled:opacity-35"
+                        >
+                          −
+                        </button>
+
+                        <button
+                          type="button"
+                          onClick={() =>
+                            handleAdd(
+                              card,
+                            )
+                          }
+                          aria-label={`加入 ${displayName(
+                            card,
+                          )}`}
+                          className="flex h-10 w-10 items-center justify-center rounded-full border border-red-400 bg-red-700 text-xl font-black text-white shadow-xl transition hover:scale-105 hover:bg-red-600"
+                        >
+                          ＋
+                        </button>
+                      </div>
                     </article>
                   );
                 },
@@ -1755,8 +1742,7 @@ export default function DeckBuilderWorkbench({
           </p>
 
           <p className="mt-0.5 text-sm font-black">
-            主卡组 {mainCount}/50 · AP{" "}
-            {apCount}/3
+            {totalCards}/{DECK_LIMIT}
           </p>
         </div>
 
@@ -1913,57 +1899,54 @@ export default function DeckBuilderWorkbench({
                 ) : null}
 
                 <div className="mt-6 rounded-2xl border border-red-800/60 bg-black p-5">
-                  <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
-                    <div>
-                      <p className="text-xs font-black tracking-[0.18em] text-red-500">
-                        加入
-                        {isActionPointCard(
+                  <p className="text-xs font-black tracking-[0.18em] text-red-500">
+                    加入卡组
+                  </p>
+
+                  <p className="mt-1 text-sm text-zinc-500">
+                    当前数量{" "}
+                    <strong className="text-white">
+                      {getCardQuantity(
+                        selectedCard.id,
+                      )}
+                    </strong>
+                  </p>
+
+                  <div className="mt-4 grid grid-cols-[56px_1fr_56px] gap-2">
+                    <button
+                      type="button"
+                      disabled={
+                        getCardQuantity(
+                          selectedCard.id,
+                        ) === 0
+                      }
+                      onClick={() =>
+                        decreaseCard(
+                          selectedCard.id,
+                        )
+                      }
+                      className="flex h-12 items-center justify-center rounded-xl border border-zinc-700 bg-zinc-900 text-xl font-black disabled:opacity-40"
+                    >
+                      −
+                    </button>
+
+                    <div className="flex h-12 items-center justify-center rounded-xl border border-zinc-800 bg-zinc-950 text-lg font-black">
+                      {getCardQuantity(
+                        selectedCard.id,
+                      )}
+                    </div>
+
+                    <button
+                      type="button"
+                      onClick={() =>
+                        handleAdd(
                           selectedCard,
                         )
-                          ? " AP 卡组"
-                          : "主卡组"}
-                      </p>
-
-                      <p className="mt-1 text-sm text-zinc-500">
-                        当前数量{" "}
-                        <strong className="text-white">
-                          {getCardQuantity(
-                            selectedCard.id,
-                          )}
-                        </strong>
-                      </p>
-                    </div>
-
-                    <div className="flex items-center gap-2">
-                      <button
-                        type="button"
-                        disabled={
-                          getCardQuantity(
-                            selectedCard.id,
-                          ) === 0
-                        }
-                        onClick={() =>
-                          decreaseCard(
-                            selectedCard.id,
-                          )
-                        }
-                        className="flex h-12 w-12 items-center justify-center rounded-xl border border-zinc-700 bg-zinc-900 text-xl font-black disabled:opacity-40"
-                      >
-                        −
-                      </button>
-
-                      <button
-                        type="button"
-                        onClick={() =>
-                          handleAdd(
-                            selectedCard,
-                          )
-                        }
-                        className="flex min-h-12 flex-1 items-center justify-center rounded-xl bg-red-700 px-6 text-sm font-black text-white hover:bg-red-600"
-                      >
-                        ＋ 加入卡组
-                      </button>
-                    </div>
+                      }
+                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 text-xl font-black text-white hover:bg-red-600"
+                    >
+                      ＋
+                    </button>
                   </div>
                 </div>
               </div>
@@ -2020,43 +2003,16 @@ export default function DeckBuilderWorkbench({
               <div className="mt-6 space-y-3">
                 {savedDecks.map(
                   (saved) => {
-                    const savedMain =
-                      saved.entries
-                        .filter(
-                          (
-                            entry,
-                          ) =>
-                            entry.zone ===
-                            "main",
-                        )
-                        .reduce(
-                          (
-                            total,
-                            entry,
-                          ) =>
-                            total +
-                            entry.quantity,
-                          0,
-                        );
-
-                    const savedAp =
-                      saved.entries
-                        .filter(
-                          (
-                            entry,
-                          ) =>
-                            entry.zone ===
-                            "ap",
-                        )
-                        .reduce(
-                          (
-                            total,
-                            entry,
-                          ) =>
-                            total +
-                            entry.quantity,
-                          0,
-                        );
+                    const count =
+                      saved.entries.reduce(
+                        (
+                          total,
+                          entry,
+                        ) =>
+                          total +
+                          entry.quantity,
+                        0,
+                      );
 
                     return (
                       <div
@@ -2075,12 +2031,10 @@ export default function DeckBuilderWorkbench({
                               {
                                 saved.series
                               }{" "}
-                              · 主卡组{" "}
+                              · {count}/
                               {
-                                savedMain
+                                DECK_LIMIT
                               }
-                              /50 · AP{" "}
-                              {savedAp}/3
                             </p>
 
                             <p className="mt-1 text-[10px] text-zinc-700">
@@ -2162,154 +2116,5 @@ export default function DeckBuilderWorkbench({
         </div>
       ) : null}
     </main>
-  );
-}
-
-function DeckListSection({
-  title,
-  rows,
-  emptyText,
-  onDecrease,
-  onIncrease,
-  onRemove,
-}: {
-  title: string;
-  rows: Array<{
-    entry: {
-      cardId: string;
-      number: string;
-      quantity: number;
-    };
-    card: Card | null;
-  }>;
-  emptyText: string;
-  onDecrease: (
-    cardId: string,
-  ) => void;
-  onIncrease: (
-    card: Card | null,
-    entry: {
-      cardId: string;
-      number: string;
-      quantity: number;
-    },
-  ) => void;
-  onRemove: (
-    cardId: string,
-  ) => void;
-}) {
-  return (
-    <section>
-      <div className="mb-3 flex items-center justify-between">
-        <h3 className="text-sm font-black text-white">
-          {title}
-        </h3>
-
-        <span className="text-[10px] text-zinc-700">
-          {rows.reduce(
-            (total, row) =>
-              total +
-              row.entry
-                .quantity,
-            0,
-          )}{" "}
-          张
-        </span>
-      </div>
-
-      {rows.length === 0 ? (
-        <div className="rounded-xl border border-dashed border-zinc-800 bg-black px-4 py-8 text-center text-xs text-zinc-700">
-          {emptyText}
-        </div>
-      ) : (
-        <div className="space-y-2">
-          {rows.map(
-            ({
-              entry,
-              card,
-            }) => (
-              <div
-                key={`${entry.cardId}-${entry.number}`}
-                className="grid grid-cols-[46px_1fr_auto] items-center gap-3 rounded-xl border border-zinc-900 bg-black p-2"
-              >
-                <div className="relative aspect-[5/7] overflow-hidden rounded-md bg-zinc-950">
-                  {card ? (
-                    <CardImage
-                      card={card}
-                      sizes="46px"
-                      className="object-contain"
-                    />
-                  ) : (
-                    <div className="flex h-full items-center justify-center text-[9px] text-zinc-700">
-                      ?
-                    </div>
-                  )}
-                </div>
-
-                <div className="min-w-0">
-                  <p className="truncate text-xs font-black text-white">
-                    {card
-                      ? displayName(
-                          card,
-                        )
-                      : entry.number}
-                  </p>
-
-                  <p className="mt-1 truncate text-[9px] text-zinc-700">
-                    {entry.number}
-                  </p>
-                </div>
-
-                <div className="flex items-center gap-1">
-                  <button
-                    type="button"
-                    onClick={() =>
-                      onDecrease(
-                        entry.cardId,
-                      )
-                    }
-                    className="flex h-8 w-8 items-center justify-center rounded-lg border border-zinc-800 text-sm font-black text-zinc-400"
-                  >
-                    −
-                  </button>
-
-                  <span className="w-6 text-center text-xs font-black">
-                    {
-                      entry.quantity
-                    }
-                  </span>
-
-                  <button
-                    type="button"
-                    onClick={() =>
-                      onIncrease(
-                        card,
-                        entry,
-                      )
-                    }
-                    className="flex h-8 w-8 items-center justify-center rounded-lg bg-red-800 text-sm font-black"
-                  >
-                    ＋
-                  </button>
-
-                  <button
-                    type="button"
-                    onClick={() =>
-                      onRemove(
-                        entry.cardId,
-                      )
-                    }
-                    aria-label="移除全部"
-                    className="ml-1 flex h-8 w-8 items-center justify-center rounded-lg text-sm text-zinc-700 transition hover:bg-zinc-900 hover:text-red-400"
-                  >
-                    ×
-                  </button>
-                </div>
-              </div>
-            ),
-          )}
-        </div>
-      )}
-    </section>
   );
 }

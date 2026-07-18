@@ -1555,7 +1555,7 @@ export default function CardCatalog({
                   <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
                     <div>
                       <p className="text-xs font-black tracking-[0.18em] text-red-500">
-                        加入主卡组
+                        加入卡组
                       </p>
 
                       <p className="mt-1 text-sm text-zinc-500">
@@ -1578,7 +1578,7 @@ export default function CardCatalog({
                     </Link>
                   </div>
 
-                  <div className="mt-4 grid grid-cols-[48px_1fr] gap-2">
+                  <div className="mt-4 grid grid-cols-[56px_1fr_56px] gap-2">
                     <button
                       type="button"
                       disabled={
@@ -1596,6 +1596,12 @@ export default function CardCatalog({
                       −
                     </button>
 
+                    <div className="flex h-12 items-center justify-center rounded-xl border border-zinc-800 bg-zinc-950 text-lg font-black text-white">
+                      {getCardQuantity(
+                        selectedCard.id,
+                      )}
+                    </div>
+
                     <button
                       type="button"
                       onClick={() => {
@@ -1608,9 +1614,9 @@ export default function CardCatalog({
                           result.message,
                         );
                       }}
-                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 px-5 text-sm font-black text-white transition hover:bg-red-600"
+                      className="flex h-12 items-center justify-center rounded-xl bg-red-700 text-xl font-black text-white transition hover:bg-red-600"
                     >
-                      ＋ 加入卡组
+                      ＋
                     </button>
                   </div>
 
@@ -1740,7 +1746,7 @@ export default function CardCatalog({
           </div>
         </div>
       )}
-      {/* CARDZERO_DECK_INTEGRATION_FLOATING_BAR */}
+{/* CARDZERO_DECK_INTEGRATION_FLOATING_BAR */}
       {totalCards > 0 ? (
         <div className="fixed bottom-4 left-1/2 z-40 flex w-[calc(100%-24px)] max-w-xl -translate-x-1/2 items-center justify-between gap-4 rounded-2xl border border-red-500/60 bg-zinc-950/95 px-4 py-3 shadow-[0_15px_55px_rgba(0,0,0,.8)] backdrop-blur">
           <div className="min-w-0">
@@ -1749,7 +1755,8 @@ export default function CardCatalog({
             </p>
 
             <p className="mt-1 truncate text-[10px] text-zinc-500">
-              {deck.series} · {totalCards}/50
+              {deck.series} ·{" "}
+              {totalCards}/50
             </p>
           </div>
 
