@@ -40,9 +40,6 @@ export default function Hero() {
 
             {/* 电脑文字 */}
             <div className="hidden md:block">
-              <p className="text-sm font-bold tracking-[0.28em] text-red-400">
-                EVERY CARD MATTERS
-              </p>
 
               <h1 className="mt-4 text-5xl font-black leading-tight">
                 卡零社 CardZero
@@ -58,21 +55,7 @@ export default function Hero() {
               </p>
             </div>
 
-            <div className="grid gap-3 sm:grid-cols-2 md:mt-8">
-              <Link
-                href="/card"
-                className="flex min-h-14 items-center justify-center rounded-xl bg-red-600 px-6 text-base font-black text-white transition hover:bg-red-500"
-              >
-                浏览卡牌
-              </Link>
-
-              <Link
-                href="/deck-builder"
-                className="flex min-h-14 items-center justify-center rounded-xl border-2 border-red-500 bg-black/60 px-6 text-base font-black text-red-400 backdrop-blur transition hover:bg-red-500/10"
-              >
-                开始组牌
-              </Link>
-            </div>
+            
           </div>
         </div>
       </div>
