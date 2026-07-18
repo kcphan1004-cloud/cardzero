@@ -16,7 +16,7 @@ import {
   DECK_LIMIT,
   useDeckStorage,
 } from "../hooks/useDeckStorage";
-import { useCloudDecks } from "../hooks/useCloudDecks";
+import { CLOUD_DECK_EDIT_KEY, useCloudDecks } from "../hooks/useCloudDecks";
 
 type Props = {
   cards: Card[];
@@ -267,6 +267,8 @@ export default function DeckBuilderWorkbench({
     setNotice,
   ] = useState("");
 
+  const [editingCloudDeckId, setEditingCloudDeckId] = useState<string | null>(null);
+
   const {
     user,
     cloudDecks,
@@ -276,6 +278,40 @@ export default function DeckBuilderWorkbench({
     syncLocalDecks,
     signOut,
   } = useCloudDecks();
+
+  useEffect(() => {
+    if (!hydrated) return;
+
+    const raw = window.localStorage.getItem(CLOUD_DECK_EDIT_KEY);
+    if (!raw) return;
+
+    try {
+      const cloudDeck = JSON.parse(raw) as {
+        id: string;
+        name: string;
+        series: string;
+        entries: typeof deck.entries;
+        updated_at: string;
+      };
+
+      const result = replaceDeck({
+        version: 2,
+        name: cloudDeck.name,
+        series: cloudDeck.series,
+        entries: cloudDeck.entries,
+        updatedAt: cloudDeck.updated_at,
+      });
+
+      if (result.ok) {
+        setEditingCloudDeckId(cloudDeck.id);
+        setNotice(`正在修改「${cloudDeck.name}」`);
+      }
+    } catch (error) {
+      console.error("Cloud deck edit transfer failed:", error);
+    } finally {
+      window.localStorage.removeItem(CLOUD_DECK_EDIT_KEY);
+    }
+  }, [deck.entries, hydrated, replaceDeck]);
 
   const fileInputRef =
     useRef<HTMLInputElement>(
@@ -692,7 +728,7 @@ export default function DeckBuilderWorkbench({
 
   async function handleSaveDeck() {
     if (user) {
-      const result = await saveCloudDeck(deck);
+      const result = await saveCloudDeck(deck, editingCloudDeckId);
       showResult(result);
       return;
     }
@@ -717,8 +753,9 @@ export default function DeckBuilderWorkbench({
 
     showResult(result);
     if (result.ok) {
+      setEditingCloudDeckId(cloudDeck.id);
       setSavedDecksOpen(false);
-      router.push(`/deck-builder?series=${encodeURIComponent(cloudDeck.series)}`);
+      router.push(`/deck-builder?series=${encodeURIComponent(cloudDeck.series)}&cloudDeck=${encodeURIComponent(cloudDeck.id)}`);
     }
   }
 
@@ -1140,7 +1177,7 @@ export default function DeckBuilderWorkbench({
               onClick={() => void handleSaveDeck()}
               className="rounded-xl bg-red-700 px-3 py-3 text-xs font-black text-white transition hover:bg-red-600"
             >
-              保存卡组
+              {editingCloudDeckId ? "更新卡组" : "保存卡组"}
             </button>
 
             <button
