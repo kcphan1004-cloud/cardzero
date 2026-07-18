@@ -170,73 +170,22 @@ function CardImage({
   );
 }
 
-async function loadCanvasImage(
-  src: string,
-) {
-  const response = await fetch(
-    src,
-    { cache: "force-cache" },
-  );
 
-  if (!response.ok) {
-    throw new Error(
-      `无法载入卡图：${src}`,
-    );
-  }
-
-  const blob = await response.blob();
-  const objectUrl =
-    URL.createObjectURL(blob);
-
-  try {
-    const image =
-      await new Promise<HTMLImageElement>(
-        (resolve, reject) => {
-          const element =
-            new window.Image();
-
-          element.onload = () =>
-            resolve(element);
-          element.onerror = () =>
-            reject(
-              new Error(
-                `无法解析卡图：${src}`,
-              ),
-            );
-          element.src = objectUrl;
-        },
-      );
-
-    return image;
-  } finally {
-    URL.revokeObjectURL(
-      objectUrl,
-    );
-  }
+async function loadCanvasImage(src: string) {
+  return await new Promise<HTMLImageElement>((resolve, reject) => {
+    const image = new window.Image();
+    image.crossOrigin = "anonymous";
+    image.onload = () => resolve(image);
+    image.onerror = () => reject(new Error(`无法载入卡图：${src}`));
+    image.src = src;
+  });
 }
 
-function roundedRect(
-  context: CanvasRenderingContext2D,
-  x: number,
-  y: number,
-  width: number,
-  height: number,
-  radius: number,
-) {
-  const safeRadius = Math.min(
-    radius,
-    width / 2,
-    height / 2,
-  );
-
-  context.beginPath();
-  context.roundRect(
-    x,
-    y,
-    width,
-    height,
-    safeRadius,
-  );
+function safeFileName(value: string) {
+  return value
+    .trim()
+    .replace(/[\\/:*?"<>|]+/g, "-")
+    .replace(/\s+/g, " ") || "CardZero-卡组";
 }
 
 export default function DeckBuilderWorkbench({
@@ -315,11 +264,6 @@ export default function DeckBuilderWorkbench({
     notice,
     setNotice,
   ] = useState("");
-
-  const [
-    exportingImage,
-    setExportingImage,
-  ] = useState(false);
 
   const fileInputRef =
     useRef<HTMLInputElement>(
@@ -785,336 +729,6 @@ export default function DeckBuilderWorkbench({
     }
   }
 
-  async function downloadDeckImage() {
-    if (
-      totalCards === 0 ||
-      exportingImage
-    ) {
-      return;
-    }
-
-    setExportingImage(true);
-    setNotice(
-      "正在生成完整卡组图片……",
-    );
-
-    try {
-      const rows = deckRows.filter(
-        (row) => Boolean(row.card),
-      );
-      const columns = 5;
-      const cardWidth = 250;
-      const cardHeight = 350;
-      const gap = 28;
-      const padding = 64;
-      const headerHeight = 190;
-      const footerHeight = 72;
-      const rowCount = Math.max(
-        1,
-        Math.ceil(
-          rows.length / columns,
-        ),
-      );
-      const width =
-        padding * 2 +
-        columns * cardWidth +
-        (columns - 1) * gap;
-      const height =
-        padding +
-        headerHeight +
-        rowCount * cardHeight +
-        (rowCount - 1) * gap +
-        footerHeight +
-        padding;
-
-      const canvas =
-        document.createElement(
-          "canvas",
-        );
-      canvas.width = width;
-      canvas.height = height;
-
-      const context =
-        canvas.getContext(
-          "2d",
-        );
-
-      if (!context) {
-        throw new Error(
-          "浏览器无法建立图片画布。",
-        );
-      }
-
-      const background =
-        context.createLinearGradient(
-          0,
-          0,
-          width,
-          height,
-        );
-      background.addColorStop(
-        0,
-        "#050505",
-      );
-      background.addColorStop(
-        0.55,
-        "#18181b",
-      );
-      background.addColorStop(
-        1,
-        "#280707",
-      );
-      context.fillStyle = background;
-      context.fillRect(
-        0,
-        0,
-        width,
-        height,
-      );
-
-      context.fillStyle =
-        "rgba(185,28,28,0.20)";
-      context.beginPath();
-      context.arc(
-        width - 120,
-        90,
-        250,
-        0,
-        Math.PI * 2,
-      );
-      context.fill();
-
-      context.fillStyle =
-        "#ef4444";
-      context.font =
-        "900 28px Arial, sans-serif";
-      context.fillText(
-        "CARDZERO DECK",
-        padding,
-        padding + 34,
-      );
-
-      context.fillStyle =
-        "#ffffff";
-      context.font =
-        "900 54px Arial, sans-serif";
-      context.fillText(
-        deck.name || "我的卡组",
-        padding,
-        padding + 98,
-      );
-
-      context.fillStyle =
-        "#a1a1aa";
-      context.font =
-        "700 24px Arial, sans-serif";
-      context.fillText(
-        `${deck.series || selectedSeries}  ·  ${totalCards}/${DECK_LIMIT} 张  ·  ${rows.length} 种卡`,
-        padding,
-        padding + 142,
-      );
-
-      await Promise.all(
-        rows.map(
-          async ({
-            entry,
-            card,
-          }, index) => {
-            if (!card) {
-              return;
-            }
-
-            const column =
-              index % columns;
-            const row = Math.floor(
-              index / columns,
-            );
-            const x =
-              padding +
-              column *
-                (cardWidth + gap);
-            const y =
-              padding +
-              headerHeight +
-              row *
-                (cardHeight + gap);
-
-            context.save();
-            roundedRect(
-              context,
-              x,
-              y,
-              cardWidth,
-              cardHeight,
-              18,
-            );
-            context.clip();
-
-            try {
-              const source =
-                normalizeImagePath(
-                  card.image,
-                );
-              const image =
-                await loadCanvasImage(
-                  source,
-                );
-              context.drawImage(
-                image,
-                x,
-                y,
-                cardWidth,
-                cardHeight,
-              );
-            } catch {
-              context.fillStyle =
-                "#18181b";
-              context.fillRect(
-                x,
-                y,
-                cardWidth,
-                cardHeight,
-              );
-              context.fillStyle =
-                "#71717a";
-              context.font =
-                "700 18px Arial, sans-serif";
-              context.textAlign =
-                "center";
-              context.fillText(
-                card.number,
-                x + cardWidth / 2,
-                y + cardHeight / 2,
-              );
-              context.textAlign =
-                "left";
-            }
-
-            context.restore();
-
-            context.strokeStyle =
-              "rgba(255,255,255,0.22)";
-            context.lineWidth = 2;
-            roundedRect(
-              context,
-              x,
-              y,
-              cardWidth,
-              cardHeight,
-              18,
-            );
-            context.stroke();
-
-            const badgeSize = 58;
-            const badgeX =
-              x +
-              cardWidth -
-              badgeSize -
-              10;
-            const badgeY = y + 10;
-            context.fillStyle =
-              "rgba(185,28,28,0.96)";
-            roundedRect(
-              context,
-              badgeX,
-              badgeY,
-              badgeSize,
-              badgeSize,
-              16,
-            );
-            context.fill();
-            context.fillStyle =
-              "#ffffff";
-            context.font =
-              "900 30px Arial, sans-serif";
-            context.textAlign =
-              "center";
-            context.textBaseline =
-              "middle";
-            context.fillText(
-              `×${entry.quantity}`,
-              badgeX +
-                badgeSize / 2,
-              badgeY +
-                badgeSize / 2 +
-                1,
-            );
-            context.textAlign =
-              "left";
-            context.textBaseline =
-              "alphabetic";
-          },
-        ),
-      );
-
-      context.fillStyle =
-        "#71717a";
-      context.font =
-        "700 20px Arial, sans-serif";
-      context.fillText(
-        "Generated by CardZero · cardzero-tcg.com",
-        padding,
-        height - padding,
-      );
-
-      const blob =
-        await new Promise<Blob>(
-          (resolve, reject) => {
-            canvas.toBlob(
-              (result) => {
-                if (result) {
-                  resolve(result);
-                } else {
-                  reject(
-                    new Error(
-                      "图片输出失败。",
-                    ),
-                  );
-                }
-              },
-              "image/png",
-              1,
-            );
-          },
-        );
-
-      const url =
-        URL.createObjectURL(
-          blob,
-        );
-      const anchor =
-        document.createElement(
-          "a",
-        );
-      const safeName =
-        (deck.name ||
-          "cardzero-deck")
-          .replace(
-            /[\/:*?"<>|]/g,
-            "-",
-          )
-          .trim();
-
-      anchor.href = url;
-      anchor.download = `${safeName || "cardzero-deck"}-卡组图.png`;
-      anchor.click();
-      URL.revokeObjectURL(
-        url,
-      );
-      setNotice(
-        "完整卡组图片已经导出。",
-      );
-    } catch (error) {
-      setNotice(
-        error instanceof Error
-          ? `导出失败：${error.message}`
-          : "卡组图片导出失败。",
-      );
-    } finally {
-      setExportingImage(false);
-    }
-  }
-
   function downloadDeckJson() {
     const payload = {
       exportedAt:
@@ -1225,6 +839,137 @@ export default function DeckBuilderWorkbench({
     }
   }
 
+  async function downloadDeckImage() {
+    if (deckRows.length === 0) {
+      setNotice("卡组为空，无法下载卡组图。");
+      return;
+    }
+
+    setNotice("正在生成卡组图片……");
+
+    try {
+      const columns = 5;
+      const cardWidth = 240;
+      const cardHeight = 336;
+      const gap = 20;
+      const padding = 48;
+      const headerHeight = 170;
+      const footerHeight = 72;
+      const rows = Math.ceil(deckRows.length / columns);
+      const canvas = document.createElement("canvas");
+
+      canvas.width =
+        padding * 2 +
+        columns * cardWidth +
+        (columns - 1) * gap;
+      canvas.height =
+        headerHeight +
+        rows * cardHeight +
+        Math.max(0, rows - 1) * gap +
+        footerHeight;
+
+      const context = canvas.getContext("2d");
+      if (!context) {
+        throw new Error("浏览器无法建立图片画布。");
+      }
+
+      context.fillStyle = "#050505";
+      context.fillRect(0, 0, canvas.width, canvas.height);
+      context.fillStyle = "#ef4444";
+      context.fillRect(0, 0, canvas.width, 8);
+
+      context.fillStyle = "#ef4444";
+      context.font = "700 24px sans-serif";
+      context.fillText("CARDZERO DECK", padding, 52);
+
+      context.fillStyle = "#ffffff";
+      context.font = "700 42px sans-serif";
+      context.fillText(deck.name || "未命名卡组", padding, 105);
+
+      context.fillStyle = "#a1a1aa";
+      context.font = "24px sans-serif";
+      context.fillText(
+        `${deck.series || selectedSeries} · ${totalCards}/${DECK_LIMIT}`,
+        padding,
+        145,
+      );
+
+      for (let index = 0; index < deckRows.length; index += 1) {
+        const { entry, card } = deckRows[index];
+        const column = index % columns;
+        const row = Math.floor(index / columns);
+        const x = padding + column * (cardWidth + gap);
+        const y = headerHeight + row * (cardHeight + gap);
+
+        context.fillStyle = "#18181b";
+        context.fillRect(x, y, cardWidth, cardHeight);
+
+        if (card) {
+          const src = normalizeImagePath(card.image);
+          if (src) {
+            try {
+              const image = await loadCanvasImage(src);
+              const scale = Math.min(
+                cardWidth / image.naturalWidth,
+                cardHeight / image.naturalHeight,
+              );
+              const width = image.naturalWidth * scale;
+              const height = image.naturalHeight * scale;
+              context.drawImage(
+                image,
+                x + (cardWidth - width) / 2,
+                y + (cardHeight - height) / 2,
+                width,
+                height,
+              );
+            } catch {
+              context.fillStyle = "#71717a";
+              context.font = "20px sans-serif";
+              context.textAlign = "center";
+              context.fillText("卡图载入失败", x + cardWidth / 2, y + cardHeight / 2);
+              context.textAlign = "left";
+            }
+          }
+        }
+
+        context.beginPath();
+        context.arc(x + 34, y + 34, 26, 0, Math.PI * 2);
+        context.fillStyle = "#b91c1c";
+        context.fill();
+        context.lineWidth = 3;
+        context.strokeStyle = "#ffffff";
+        context.stroke();
+        context.fillStyle = "#ffffff";
+        context.font = "700 22px sans-serif";
+        context.textAlign = "center";
+        context.textBaseline = "middle";
+        context.fillText(`×${entry.quantity}`, x + 34, y + 35);
+        context.textAlign = "left";
+        context.textBaseline = "alphabetic";
+      }
+
+      context.fillStyle = "#71717a";
+      context.font = "20px sans-serif";
+      context.fillText(
+        "cardzero-tcg.com",
+        padding,
+        canvas.height - 28,
+      );
+
+      const link = document.createElement("a");
+      link.download = `${safeFileName(deck.name || "CardZero-卡组")}.png`;
+      link.href = canvas.toDataURL("image/png");
+      link.click();
+      setNotice("卡组图片已下载。");
+    } catch (error) {
+      setNotice(
+        error instanceof Error
+          ? error.message
+          : "生成卡组图片失败。",
+      );
+    }
+  }
+
   function handleClearDeck() {
     if (
       totalCards === 0
@@ -1251,15 +996,6 @@ export default function DeckBuilderWorkbench({
   }
 
   function renderDeckPanel() {
-    const maximumCostCount =
-      Math.max(
-        1,
-        ...costCurve.map(
-          (item) =>
-            item.count,
-        ),
-      );
-
     return (
       <div className="rounded-3xl border border-red-950 bg-zinc-950 shadow-2xl shadow-black/40">
         <div className="border-b border-zinc-900 p-5">
@@ -1270,9 +1006,7 @@ export default function DeckBuilderWorkbench({
           <input
             value={deck.name}
             onChange={(event) =>
-              setDeckName(
-                event.target.value,
-              )
+              setDeckName(event.target.value)
             }
             maxLength={80}
             aria-label="卡组名称"
@@ -1281,252 +1015,75 @@ export default function DeckBuilderWorkbench({
           />
 
           <p className="mt-1 truncate text-xs text-zinc-600">
-            {deck.series ||
-              selectedSeries}
+            {deck.series || selectedSeries}
           </p>
 
           <div
             className={`mt-4 rounded-2xl border p-4 ${
-              totalCards ===
-              DECK_LIMIT
+              totalCards === DECK_LIMIT
                 ? "border-emerald-800 bg-emerald-950/20"
                 : "border-zinc-800 bg-black"
             }`}
           >
-            <p className="text-[10px] text-zinc-600">
-              卡组数量
-            </p>
-
+            <p className="text-[10px] text-zinc-600">卡组数量</p>
             <p className="mt-1 text-3xl font-black text-white">
               {totalCards}
-              <span className="text-sm text-zinc-600">
-                /{DECK_LIMIT}
-              </span>
+              <span className="text-sm text-zinc-600">/{DECK_LIMIT}</span>
             </p>
           </div>
 
           <div
             className={`mt-3 rounded-xl border px-3 py-2 text-xs ${
-              totalCards ===
-              DECK_LIMIT
+              totalCards === DECK_LIMIT
                 ? "border-emerald-900/60 bg-emerald-950/20 text-emerald-300"
                 : "border-amber-900/50 bg-amber-950/10 text-amber-300"
             }`}
           >
-            {totalCards ===
-            DECK_LIMIT
+            {totalCards === DECK_LIMIT
               ? "✓ 卡组数量完整"
-              : `卡组还差 ${
-                  DECK_LIMIT -
-                  totalCards
-                } 张`}
+              : `卡组还差 ${DECK_LIMIT - totalCards} 张`}
           </div>
         </div>
 
-        <div className="max-h-[54vh] overflow-y-auto p-4">
-          <div className="mb-3 flex items-center justify-between">
-            <h3 className="text-sm font-black text-white">
-              卡组全图
-            </h3>
-
-            <span className="text-[10px] text-zinc-700">
-              {deckRows.length}
-              种卡牌
-            </span>
-          </div>
-
-          {deckRows.length ===
-          0 ? (
+        <div className="max-h-[58vh] overflow-y-auto p-3">
+          {deckRows.length === 0 ? (
             <div className="rounded-xl border border-dashed border-zinc-800 bg-black px-4 py-10 text-center text-xs text-zinc-700">
-              点击卡牌旁边的＋加入卡组
+              点击左侧卡牌的＋加入卡组
             </div>
           ) : (
-            <div className="grid grid-cols-2 gap-3">
-              {deckRows.map(
-                ({
-                  entry,
-                  card,
-                }) => (
-                  <article
-                    key={
-                      entry.cardId
-                    }
-                    className="overflow-hidden rounded-xl border border-zinc-800 bg-black"
-                  >
-                    <div className="relative aspect-[5/7] bg-zinc-950">
-                      {card ? (
-                        <CardImage
-                          card={
-                            card
-                          }
-                          sizes="170px"
-                          className="object-contain"
-                        />
-                      ) : (
-                        <div className="flex h-full items-center justify-center px-3 text-center text-[10px] text-zinc-700">
-                          找不到卡图
-                        </div>
-                      )}
-
-                      <span className="absolute left-2 top-2 flex h-8 min-w-8 items-center justify-center rounded-full border-2 border-white bg-red-700 px-2 text-sm font-black text-white shadow-xl">
-                        ×
-                        {
-                          entry.quantity
-                        }
-                      </span>
-
-                      <button
-                        type="button"
-                        onClick={() =>
-                          removeCard(
-                            entry.cardId,
-                          )
-                        }
-                        aria-label="移除全部"
-                        className="absolute right-2 top-2 flex h-8 w-8 items-center justify-center rounded-full border border-zinc-600 bg-black/85 text-base font-black text-zinc-300"
-                      >
-                        ×
-                      </button>
+            <div className="grid grid-cols-5 gap-2">
+              {deckRows.map(({ entry, card }) => (
+                <div
+                  key={entry.cardId}
+                  className="relative aspect-[5/7] overflow-hidden rounded-lg border border-zinc-800 bg-black"
+                  title={card ? displayName(card) : entry.number}
+                >
+                  {card ? (
+                    <CardImage
+                      card={card}
+                      sizes="100px"
+                      className="object-contain"
+                    />
+                  ) : (
+                    <div className="flex h-full items-center justify-center px-1 text-center text-[8px] text-zinc-700">
+                      找不到卡图
                     </div>
+                  )}
 
-                    <div className="p-2">
-                      <p className="truncate text-[9px] font-bold text-zinc-600">
-                        {
-                          entry.number
-                        }
-                      </p>
-
-                      <p className="mt-1 line-clamp-2 min-h-[2rem] text-[11px] font-black leading-4 text-white">
-                        {card
-                          ? displayName(
-                              card,
-                            )
-                          : entry.number}
-                      </p>
-
-                      <div className="mt-2 grid grid-cols-[1fr_34px_1fr] gap-1">
-                        <button
-                          type="button"
-                          onClick={() =>
-                            decreaseCard(
-                              entry.cardId,
-                            )
-                          }
-                          className="flex h-9 items-center justify-center rounded-lg border border-zinc-800 bg-zinc-950 text-lg font-black text-zinc-300"
-                        >
-                          −
-                        </button>
-
-                        <span className="flex h-9 items-center justify-center text-sm font-black text-white">
-                          {
-                            entry.quantity
-                          }
-                        </span>
-
-                        <button
-                          type="button"
-                          onClick={() => {
-                            if (
-                              card
-                            ) {
-                              handleAdd(
-                                card,
-                              );
-                            }
-                          }}
-                          disabled={
-                            !card
-                          }
-                          className="flex h-9 items-center justify-center rounded-lg bg-red-800 text-lg font-black text-white disabled:opacity-40"
-                        >
-                          ＋
-                        </button>
-                      </div>
-                    </div>
-                  </article>
-                ),
-              )}
+                  <span className="absolute left-1 top-1 flex h-6 min-w-6 items-center justify-center rounded-full border-2 border-white bg-red-700 px-1 text-[10px] font-black text-white shadow-xl">
+                    ×{entry.quantity}
+                  </span>
+                </div>
+              ))}
             </div>
           )}
         </div>
 
         <div className="border-t border-zinc-900 p-4">
-          {typeCounts.length >
-          0 ? (
-            <div>
-              <p className="text-[10px] font-black tracking-[0.2em] text-zinc-600">
-                类型统计
-              </p>
-
-              <div className="mt-2 flex flex-wrap gap-2">
-                {typeCounts.map(
-                  ([
-                    type,
-                    count,
-                  ]) => (
-                    <span
-                      key={type}
-                      className="rounded-full border border-zinc-800 bg-black px-3 py-1.5 text-[10px] text-zinc-400"
-                    >
-                      {type} {count}
-                    </span>
-                  ),
-                )}
-              </div>
-            </div>
-          ) : null}
-
-          {costCurve.length >
-          0 ? (
-            <div className="mt-5">
-              <p className="text-[10px] font-black tracking-[0.2em] text-zinc-600">
-                费用曲线
-              </p>
-
-              <div className="mt-3 space-y-2">
-                {costCurve.map(
-                  (item) => (
-                    <div
-                      key={
-                        item.label
-                      }
-                      className="grid grid-cols-[24px_1fr_24px] items-center gap-2 text-[10px]"
-                    >
-                      <span className="text-zinc-600">
-                        {item.label}
-                      </span>
-
-                      <div className="h-2 overflow-hidden rounded-full bg-black">
-                        <div
-                          className="h-full rounded-full bg-red-700"
-                          style={{
-                            width: `${
-                              (item.count /
-                                maximumCostCount) *
-                              100
-                            }%`,
-                          }}
-                        />
-                      </div>
-
-                      <span className="text-right font-bold text-zinc-400">
-                        {item.count}
-                      </span>
-                    </div>
-                  ),
-                )}
-              </div>
-            </div>
-          ) : null}
-
-          <div className="mt-5 grid grid-cols-2 gap-2">
+          <div className="grid grid-cols-2 gap-2">
             <button
               type="button"
-              onClick={() =>
-                showResult(
-                  saveSnapshot(),
-                )
-              }
+              onClick={() => showResult(saveSnapshot())}
               className="rounded-xl bg-red-700 px-3 py-3 text-xs font-black text-white transition hover:bg-red-600"
             >
               保存卡组
@@ -1534,11 +1091,7 @@ export default function DeckBuilderWorkbench({
 
             <button
               type="button"
-              onClick={() =>
-                setSavedDecksOpen(
-                  true,
-                )
-              }
+              onClick={() => setSavedDecksOpen(true)}
               className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-black text-zinc-300 transition hover:border-red-800 hover:text-white"
             >
               我的卡组
@@ -1546,58 +1099,17 @@ export default function DeckBuilderWorkbench({
 
             <button
               type="button"
-              onClick={
-                copyDeckText
-              }
-              className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-bold text-zinc-400 transition hover:text-white"
+              onClick={() => void downloadDeckImage()}
+              disabled={deckRows.length === 0}
+              className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-black text-zinc-300 transition hover:border-red-800 hover:text-white disabled:cursor-not-allowed disabled:opacity-40"
             >
-              复制文字
+              下载卡组
             </button>
 
             <button
               type="button"
-              onClick={
-                downloadDeckImage
-              }
-              disabled={
-                totalCards === 0 ||
-                exportingImage
-              }
-              className="rounded-xl border border-red-800 bg-red-950/25 px-3 py-3 text-xs font-black text-red-300 transition hover:bg-red-950/50 disabled:cursor-not-allowed disabled:opacity-40"
-            >
-              {exportingImage
-                ? "生成图片中…"
-                : "导出卡组图"}
-            </button>
-
-            <button
-              type="button"
-              onClick={
-                downloadDeckJson
-              }
-              className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-bold text-zinc-400 transition hover:text-white"
-            >
-              导出 JSON
-            </button>
-
-            <button
-              type="button"
-              onClick={() =>
-                fileInputRef.current?.click()
-              }
-              className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-bold text-zinc-400 transition hover:text-white"
-            >
-              导入 JSON
-            </button>
-
-            <button
-              type="button"
-              onClick={
-                handleClearDeck
-              }
-              disabled={
-                totalCards === 0
-              }
+              onClick={handleClearDeck}
+              disabled={totalCards === 0}
               className="rounded-xl border border-red-950 bg-red-950/20 px-3 py-3 text-xs font-bold text-red-400 transition hover:bg-red-950/40 disabled:cursor-not-allowed disabled:opacity-40"
             >
               清空卡组
