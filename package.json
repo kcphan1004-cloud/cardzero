@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "import:decks": "node scripts/import-deck-image-options.mjs"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.110.7",
@@ -16,6 +17,7 @@
     "openai": "^6.46.0",
     "react": "19.2.4",
     "react-dom": "19.2.4",
+    "xlsx": "^0.18.5",
     "zod": "^4.4.3"
   },
   "devDependencies": {
