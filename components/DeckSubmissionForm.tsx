@@ -6,6 +6,8 @@ import {
   useState,
 } from "react";
 
+import { useAuth } from "./AuthProvider";
+
 type DeckOptionMap = Record<
   string,
   string[]
@@ -37,10 +39,26 @@ type SubmitState =
 const CUSTOM_DECK_VALUE =
   "__custom_deck__";
 
+const CUSTOM_SERIES_VALUE =
+  "__custom_series__";
+
+function normalize(value: string) {
+  return value
+    .trim()
+    .toLocaleLowerCase(
+      "zh-Hans-CN",
+    );
+}
+
 export default function DeckSubmissionForm({
   seriesOptions,
   deckOptionsBySeries,
 }: Props) {
+  const {
+    user,
+    loading: authLoading,
+  } = useAuth();
+
   const [state, setState] =
     useState<SubmitState>({
       type: "idle",
@@ -48,8 +66,23 @@ export default function DeckSubmissionForm({
     });
 
   const [
+    seriesSearch,
+    setSeriesSearch,
+  ] = useState("");
+
+  const [
     selectedSeries,
     setSelectedSeries,
+  ] = useState("");
+
+  const [
+    customSeriesName,
+    setCustomSeriesName,
+  ] = useState("");
+
+  const [
+    deckSearch,
+    setDeckSearch,
   ] = useState("");
 
   const [
@@ -60,6 +93,11 @@ export default function DeckSubmissionForm({
   const [
     customDeckName,
     setCustomDeckName,
+  ] = useState("");
+
+  const [
+    submitterName,
+    setSubmitterName,
   ] = useState("");
 
   const [
@@ -86,9 +124,37 @@ export default function DeckSubmissionForm({
     [seriesOptions],
   );
 
+  const filteredSeries = useMemo(
+    () => {
+      const keyword =
+        normalize(seriesSearch);
+
+      if (!keyword) {
+        return sortedSeries;
+      }
+
+      return sortedSeries.filter(
+        (series) =>
+          normalize(series).includes(
+            keyword,
+          ),
+      );
+    },
+    [seriesSearch, sortedSeries],
+  );
+
+  const usingCustomSeries =
+    selectedSeries ===
+    CUSTOM_SERIES_VALUE;
+
+  const resolvedSeries =
+    usingCustomSeries
+      ? customSeriesName.trim()
+      : selectedSeries.trim();
+
   const availableDecks =
     useMemo(() => {
-      if (!selectedSeries) {
+      if (!resolvedSeries) {
         return [];
       }
 
@@ -96,7 +162,7 @@ export default function DeckSubmissionForm({
         ...new Set(
           (
             deckOptionsBySeries[
-              selectedSeries
+              resolvedSeries
             ] ?? []
           )
             .map((deckName) =>
@@ -111,9 +177,28 @@ export default function DeckSubmissionForm({
         ),
       );
     }, [
-      selectedSeries,
+      resolvedSeries,
       deckOptionsBySeries,
     ]);
+
+  const filteredDecks = useMemo(
+    () => {
+      const keyword =
+        normalize(deckSearch);
+
+      if (!keyword) {
+        return availableDecks;
+      }
+
+      return availableDecks.filter(
+        (deckName) =>
+          normalize(deckName).includes(
+            keyword,
+          ),
+      );
+    },
+    [availableDecks, deckSearch],
+  );
 
   const usingCustomDeck =
     selectedDeck ===
@@ -123,6 +208,30 @@ export default function DeckSubmissionForm({
     usingCustomDeck
       ? customDeckName.trim()
       : selectedDeck.trim();
+
+  useEffect(() => {
+    if (authLoading || !user) {
+      return;
+    }
+
+    const displayName =
+      String(
+        user.user_metadata
+          ?.display_name ?? "",
+      ).trim();
+
+    const emailName =
+      user.email
+        ?.split("@")[0]
+        ?.trim() ?? "";
+
+    setSubmitterName(
+      (current) =>
+        current ||
+        displayName ||
+        emailName,
+    );
+  }, [authLoading, user]);
 
   useEffect(() => {
     if (!selectedFile) {
@@ -147,6 +256,8 @@ export default function DeckSubmissionForm({
     nextSeries: string,
   ) {
     setSelectedSeries(nextSeries);
+    setCustomSeriesName("");
+    setDeckSearch("");
     setSelectedDeck("");
     setCustomDeckName("");
     setState({
@@ -161,13 +272,14 @@ export default function DeckSubmissionForm({
     event.preventDefault();
 
     if (
-      !selectedSeries ||
-      !resolvedDeckName
+      !resolvedSeries ||
+      !resolvedDeckName ||
+      !submitterName.trim()
     ) {
       setState({
         type: "error",
         message:
-          "请先选择作品系列与牌组。",
+          "请填写作品系列、牌组与投稿者名称。",
       });
 
       return;
@@ -179,14 +291,19 @@ export default function DeckSubmissionForm({
     const formData =
       new FormData(form);
 
-    /*
-     * visible 牌组选单使用 React 控制，
-     * 这里把最终牌组名称写入原本 API
-     * 使用的 deckName 字段。
-     */
+    formData.set(
+      "series",
+      resolvedSeries,
+    );
+
     formData.set(
       "deckName",
       resolvedDeckName,
+    );
+
+    formData.set(
+      "submitterName",
+      submitterName.trim(),
     );
 
     setState({
@@ -221,10 +338,21 @@ export default function DeckSubmissionForm({
       }
 
       form.reset();
+      setSeriesSearch("");
       setSelectedSeries("");
+      setCustomSeriesName("");
+      setDeckSearch("");
       setSelectedDeck("");
       setCustomDeckName("");
       setSelectedFile(null);
+
+      /*
+       * 登录玩家投稿成功后保留玩家名称，
+       * 方便连续投稿；访客则清空。
+       */
+      if (!user) {
+        setSubmitterName("");
+      }
 
       setState({
         type: "success",
@@ -243,6 +371,9 @@ export default function DeckSubmissionForm({
     }
   }
 
+  const inputClass =
+    "w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm text-white outline-none transition placeholder:text-zinc-700 focus:border-red-500";
+
   return (
     <form
       onSubmit={handleSubmit}
@@ -259,167 +390,286 @@ export default function DeckSubmissionForm({
 
       <input
         type="hidden"
+        name="series"
+        value={resolvedSeries}
+        readOnly
+      />
+
+      <input
+        type="hidden"
         name="deckName"
         value={resolvedDeckName}
         readOnly
       />
 
-      <div className="rounded-2xl border border-red-900/40 bg-red-950/10 p-4 sm:p-5">
-        <p className="text-xs font-black tracking-[0.22em] text-red-400">
-          DECK SELECTION
-        </p>
+      <section className="rounded-2xl border border-red-900/40 bg-red-950/10 p-4 sm:p-5">
+        <div className="flex flex-col gap-2 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <p className="text-xs font-black tracking-[0.22em] text-red-400">
+              DECK SELECTION
+            </p>
 
-        <p className="mt-2 text-sm leading-6 text-zinc-400">
-          请先选择作品系列，牌组选单才会显示该作品的相关牌组。
-        </p>
+            <p className="mt-2 text-sm leading-6 text-zinc-400">
+              系列来自卡牌资料库；可先搜索，再从清单选择。
+            </p>
+          </div>
+
+          <span className="text-xs font-bold text-zinc-600">
+            共 {sortedSeries.length} 个系列
+          </span>
+        </div>
 
         <div className="mt-5 grid gap-5 md:grid-cols-2">
-          <label className="space-y-2">
-            <span className="text-sm font-bold text-zinc-200">
-              1. 作品系列 *
-            </span>
+          <div className="space-y-3">
+            <label className="block space-y-2">
+              <span className="text-sm font-bold text-zinc-200">
+                搜索作品系列
+              </span>
 
-            <select
-              name="series"
-              required
-              value={selectedSeries}
-              onChange={(event) =>
-                handleSeriesChange(
-                  event.target.value,
-                )
-              }
-              className="w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm outline-none transition focus:border-red-500"
-            >
-              <option
-                value=""
-                disabled
+              <input
+                type="search"
+                value={seriesSearch}
+                onChange={(event) =>
+                  setSeriesSearch(
+                    event.target.value,
+                  )
+                }
+                placeholder="输入作品名称，例如：无职转生"
+                className={inputClass}
+              />
+            </label>
+
+            <label className="block space-y-2">
+              <span className="text-sm font-bold text-zinc-200">
+                1. 作品系列 *
+              </span>
+
+              <select
+                required
+                value={selectedSeries}
+                onChange={(event) =>
+                  handleSeriesChange(
+                    event.target.value,
+                  )
+                }
+                className={inputClass}
               >
-                请选择作品系列
-              </option>
+                <option
+                  value=""
+                  disabled
+                >
+                  请选择作品系列
+                </option>
 
-              {sortedSeries.map(
-                (series) => (
-                  <option
-                    key={series}
-                    value={series}
-                  >
-                    {series}
-                  </option>
-                ),
-              )}
+                {filteredSeries.map(
+                  (series) => (
+                    <option
+                      key={series}
+                      value={series}
+                    >
+                      {series}
+                    </option>
+                  ),
+                )}
 
-              <option value="其他">
-                其他／未找到
-              </option>
-            </select>
-          </label>
+                <option
+                  value={
+                    CUSTOM_SERIES_VALUE
+                  }
+                >
+                  其他／新增作品系列
+                </option>
+              </select>
+            </label>
 
-          <label className="space-y-2">
-            <span className="text-sm font-bold text-zinc-200">
-              2. 对应牌组 *
-            </span>
+            {seriesSearch &&
+            filteredSeries.length ===
+              0 ? (
+              <p className="text-xs leading-5 text-amber-400">
+                没有找到相关系列，可选择「其他／新增作品系列」。
+              </p>
+            ) : null}
 
-            <select
-              required
-              value={selectedDeck}
-              disabled={
-                !selectedSeries
-              }
-              onChange={(event) => {
-                setSelectedDeck(
-                  event.target.value,
-                );
+            {usingCustomSeries ? (
+              <label className="block space-y-2">
+                <span className="text-sm font-bold text-zinc-200">
+                  新作品系列名称 *
+                </span>
 
-                if (
-                  event.target.value !==
-                  CUSTOM_DECK_VALUE
-                ) {
-                  setCustomDeckName(
-                    "",
+                <input
+                  type="text"
+                  required
+                  value={customSeriesName}
+                  onChange={(event) => {
+                    setCustomSeriesName(
+                      event.target.value,
+                    );
+                    setSelectedDeck("");
+                    setCustomDeckName("");
+                  }}
+                  maxLength={100}
+                  placeholder="请输入完整作品名称"
+                  className={inputClass}
+                />
+              </label>
+            ) : null}
+          </div>
+
+          <div className="space-y-3">
+            <label className="block space-y-2">
+              <span className="text-sm font-bold text-zinc-200">
+                搜索牌组
+              </span>
+
+              <input
+                type="search"
+                value={deckSearch}
+                disabled={!resolvedSeries}
+                onChange={(event) =>
+                  setDeckSearch(
+                    event.target.value,
+                  )
+                }
+                placeholder={
+                  resolvedSeries
+                    ? "输入牌组名称"
+                    : "请先选择作品系列"
+                }
+                className={`${inputClass} disabled:cursor-not-allowed disabled:opacity-45`}
+              />
+            </label>
+
+            <label className="block space-y-2">
+              <span className="text-sm font-bold text-zinc-200">
+                2. 对应牌组 *
+              </span>
+
+              <select
+                required
+                value={selectedDeck}
+                disabled={!resolvedSeries}
+                onChange={(event) => {
+                  setSelectedDeck(
+                    event.target.value,
                   );
-                }
-              }}
-              className="w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm outline-none transition focus:border-red-500 disabled:cursor-not-allowed disabled:opacity-45"
-            >
-              <option
-                value=""
-                disabled
+
+                  if (
+                    event.target.value !==
+                    CUSTOM_DECK_VALUE
+                  ) {
+                    setCustomDeckName(
+                      "",
+                    );
+                  }
+                }}
+                className={`${inputClass} disabled:cursor-not-allowed disabled:opacity-45`}
               >
-                {selectedSeries
-                  ? "请选择对应牌组"
-                  : "请先选择作品系列"}
-              </option>
+                <option
+                  value=""
+                  disabled
+                >
+                  {resolvedSeries
+                    ? "请选择对应牌组"
+                    : "请先选择作品系列"}
+                </option>
 
-              {availableDecks.map(
-                (deckName) => (
-                  <option
-                    key={deckName}
-                    value={deckName}
-                  >
-                    {deckName}
-                  </option>
-                ),
-              )}
+                {filteredDecks.map(
+                  (deckName) => (
+                    <option
+                      key={deckName}
+                      value={deckName}
+                    >
+                      {deckName}
+                    </option>
+                  ),
+                )}
 
-              <option
-                value={
-                  CUSTOM_DECK_VALUE
-                }
-              >
-                其他／新增牌组
-              </option>
-            </select>
+                <option
+                  value={
+                    CUSTOM_DECK_VALUE
+                  }
+                >
+                  其他／新增牌组
+                </option>
+              </select>
+            </label>
 
-            {selectedSeries &&
+            {resolvedSeries &&
             availableDecks.length ===
               0 ? (
               <p className="text-xs leading-5 text-zinc-600">
-                这个作品暂时没有现有牌组选项，请选择“其他／新增牌组”。
+                这个作品暂时没有现有牌组选项，请选择「其他／新增牌组」。
               </p>
             ) : null}
-          </label>
+
+            {deckSearch &&
+            filteredDecks.length === 0 &&
+            availableDecks.length > 0 ? (
+              <p className="text-xs leading-5 text-amber-400">
+                没有找到相关牌组，可选择「其他／新增牌组」。
+              </p>
+            ) : null}
+
+            {usingCustomDeck ? (
+              <label className="block space-y-2">
+                <span className="text-sm font-bold text-zinc-200">
+                  新牌组名称 *
+                </span>
+
+                <input
+                  type="text"
+                  required
+                  value={customDeckName}
+                  onChange={(event) =>
+                    setCustomDeckName(
+                      event.target.value,
+                    )
+                  }
+                  maxLength={80}
+                  placeholder="例如：洛琪希迷宫"
+                  className={inputClass}
+                />
+
+                <p className="text-xs leading-5 text-zinc-600">
+                  成功投稿后，这个牌组会自动成为该作品下的现有选项。
+                </p>
+              </label>
+            ) : null}
+          </div>
         </div>
+      </section>
 
-        {usingCustomDeck ? (
-          <label className="mt-5 block space-y-2">
-            <span className="text-sm font-bold text-zinc-200">
-              新牌组名称 *
-            </span>
-
-            <input
-              type="text"
-              required
-              value={customDeckName}
-              onChange={(event) =>
-                setCustomDeckName(
-                  event.target.value,
-                )
-              }
-              maxLength={80}
-              placeholder="例如：黑色彗星"
-              className="w-full rounded-xl border border-red-900/60 bg-black px-4 py-3 text-sm outline-none transition placeholder:text-zinc-700 focus:border-red-500"
-            />
-
-            <p className="text-xs leading-5 text-zinc-600">
-              成功投稿后，这个牌组会自动成为该作品下的现有牌组选项。
-            </p>
-          </label>
-        ) : null}
-      </div>
-
-      <div className="grid gap-5 md:grid-cols-2">
+      <section className="grid gap-5 md:grid-cols-2">
         <label className="space-y-2">
-          <span className="text-sm font-bold text-zinc-200">
-            投稿者名称 *
+          <span className="flex items-center justify-between gap-3 text-sm font-bold text-zinc-200">
+            <span>投稿者名称 *</span>
+
+            {user ? (
+              <span className="text-[11px] font-bold text-emerald-400">
+                已连接玩家账号
+              </span>
+            ) : null}
           </span>
 
           <input
             name="submitterName"
             required
+            value={submitterName}
+            onChange={(event) =>
+              setSubmitterName(
+                event.target.value,
+              )
+            }
             maxLength={50}
             placeholder="公开显示的名称"
-            className="w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm outline-none transition placeholder:text-zinc-700 focus:border-red-500"
+            className={inputClass}
           />
+
+          <p className="text-xs leading-5 text-zinc-600">
+            {user
+              ? "已自动带入账号玩家名称，你仍可在本次投稿中修改。"
+              : "访客也可以投稿，请填写公开显示的名称。"}
+          </p>
         </label>
 
         <label className="space-y-2">
@@ -431,7 +681,7 @@ export default function DeckSubmissionForm({
             name="contact"
             maxLength={120}
             placeholder="Facebook、Discord 或电邮；不会公开"
-            className="w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm outline-none transition placeholder:text-zinc-700 focus:border-red-500"
+            className={inputClass}
           />
         </label>
 
@@ -444,7 +694,7 @@ export default function DeckSubmissionForm({
             name="eventName"
             maxLength={100}
             placeholder="例如：Malaysia S1 GAO"
-            className="w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm outline-none transition placeholder:text-zinc-700 focus:border-red-500"
+            className={inputClass}
           />
         </label>
 
@@ -457,10 +707,10 @@ export default function DeckSubmissionForm({
             name="result"
             maxLength={80}
             placeholder="例如：冠军、Top 8、4-1"
-            className="w-full rounded-xl border border-white/10 bg-black px-4 py-3 text-sm outline-none transition placeholder:text-zinc-700 focus:border-red-500"
+            className={inputClass}
           />
         </label>
-      </div>
+      </section>
 
       <label className="block space-y-2">
         <span className="text-sm font-bold text-zinc-200">
@@ -492,6 +742,7 @@ export default function DeckSubmissionForm({
             图片预览
           </p>
 
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src={previewUrl}
             alt="牌组图片预览"
@@ -550,8 +801,9 @@ export default function DeckSubmissionForm({
         disabled={
           state.type ===
             "loading" ||
-          !selectedSeries ||
-          !resolvedDeckName
+          !resolvedSeries ||
+          !resolvedDeckName ||
+          !submitterName.trim()
         }
         className="flex min-h-14 w-full items-center justify-center rounded-xl bg-red-600 px-6 text-base font-black text-white transition hover:bg-red-500 disabled:cursor-not-allowed disabled:opacity-50"
       >

@@ -1,7 +1,6 @@
-import fs from "node:fs";
-import path from "node:path";
 import DeckSubmissionForm from "../../components/DeckSubmissionForm";
 import { manualDeckOptionsBySeries } from "../../data/deck-options";
+import { seriesNames } from "../../data/card-series-generated";
 import { getSupabaseAdmin } from "../../lib/supabaseAdmin";
 
 export const dynamic = "force-dynamic";
@@ -27,68 +26,6 @@ function uniqueSorted(values: string[]) {
       "zh-Hans-CN",
     ),
   );
-}
-
-function getSeriesOptionsFromCards() {
-  try {
-    const directory = path.join(
-      process.cwd(),
-      "data",
-      "card-series-generated",
-    );
-
-    const seriesNames = new Set<string>();
-
-    const fileNames = fs
-      .readdirSync(directory)
-      .filter(
-        (fileName) =>
-          fileName.endsWith(".ts") &&
-          !["index.ts", "types.ts"].includes(
-            fileName,
-          ),
-      );
-
-    for (const fileName of fileNames) {
-      const filePath = path.join(
-        directory,
-        fileName,
-      );
-
-      const content = fs.readFileSync(
-        filePath,
-        "utf8",
-      );
-
-      const matches = content.matchAll(
-        /["']series["']\s*:\s*["']([^"']+)["']/g,
-      );
-
-      for (const match of matches) {
-        const seriesName =
-          match[1]?.trim();
-
-        if (
-          seriesName &&
-          seriesName !== "资料待补" &&
-          seriesName !== "-"
-        ) {
-          seriesNames.add(seriesName);
-        }
-      }
-    }
-
-    return uniqueSorted(
-      [...seriesNames],
-    );
-  } catch (error) {
-    console.error(
-      "读取中文作品系列失败：",
-      error,
-    );
-
-    return [];
-  }
 }
 
 async function getExistingDeckOptions() {
@@ -122,6 +59,7 @@ async function getExistingDeckOptions() {
     for (const row of rows) {
       const series =
         row.series?.trim() ?? "";
+
       const deckName =
         row.deck_name?.trim() ?? "";
 
@@ -137,9 +75,8 @@ async function getExistingDeckOptions() {
     }
   } catch (error) {
     /*
-     * 本地尚未设置 Supabase 环境变量，
-     * 或数据库暂时无法连接时，
-     * 页面仍然可以使用手动设定的牌组选项。
+     * Supabase 尚未设定或暂时无法连接时，
+     * 投稿页仍可使用卡牌资料库系列和手动牌组选项。
      */
     console.error(
       "读取现有牌组选项失败：",
@@ -180,9 +117,6 @@ function mergeDeckOptions(
 }
 
 export default async function SubmitPage() {
-  const cardSeries =
-    getSeriesOptionsFromCards();
-
   const existingDeckOptions =
     await getExistingDeckOptions();
 
@@ -192,8 +126,12 @@ export default async function SubmitPage() {
       existingDeckOptions,
     );
 
+  /*
+   * 作品系列直接使用卡牌资料库的 seriesNames。
+   * 日后新增系列时，投稿页会自动同步。
+   */
   const seriesOptions = uniqueSorted([
-    ...cardSeries,
+    ...seriesNames,
     ...Object.keys(
       deckOptionsBySeries,
     ),
@@ -202,31 +140,31 @@ export default async function SubmitPage() {
   return (
     <main className="min-h-screen bg-black text-white">
       <section className="border-b border-white/10 bg-[radial-gradient(circle_at_top,_rgba(185,28,28,0.22),_transparent_48%)]">
-        <div className="mx-auto max-w-5xl px-4 py-10 sm:px-6 lg:px-8">
-          <p className="text-xs font-bold tracking-[0.28em] text-red-400">
+        <div className="mx-auto max-w-5xl px-4 py-9 sm:px-6 lg:px-8">
+          <p className="text-xs font-black tracking-[0.28em] text-red-400">
             DECK SUBMISSION
           </p>
 
-          <h1 className="mt-3 text-3xl font-black sm:text-4xl lg:text-5xl">
+          <h1 className="mt-3 text-3xl font-black sm:text-4xl">
             牌组投稿专区
           </h1>
 
           <p className="mt-4 max-w-3xl text-sm leading-7 text-zinc-400 sm:text-base">
-            先选择作品系列，再从该作品中选择对应的牌组。
-            找不到牌组时，可以新增牌组名称。
+            从完整作品系列中选择对应作品，再选择现有牌组或新增牌组名称。
+            登录玩家会自动带入玩家名称，投稿后立即公开。
           </p>
 
           <div className="mt-6 grid gap-3 sm:grid-cols-3">
             {[
-              "选择作品系列",
-              "选择对应牌组",
-              "提交并立即公开",
+              "搜索并选择作品",
+              "选择或新增牌组",
+              "上传图片并公开",
             ].map((text, index) => (
               <div
                 key={text}
                 className="rounded-2xl border border-white/10 bg-black/40 p-4"
               >
-                <p className="text-xs font-bold text-red-400">
+                <p className="text-xs font-black text-red-400">
                   0{index + 1}
                 </p>
 
