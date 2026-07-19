@@ -225,15 +225,28 @@ function extractGeneratedEnergyBonus(html) {
 
   for (const candidate of candidates) {
     const plainText = stripTags(candidate);
-
-    if (!/[+＋]/.test(plainText)) {
-      continue;
-    }
-
     const parsed =
       collectEnergyGroupsFromHtml(candidate);
 
     if (parsed.imageCount === 0) {
+      continue;
+    }
+
+    /*
+     * 官方页面有些卡把“＋”做成图片，而不是文字。
+     * stripTags() 后加号会消失，因此不能只依赖 /[+＋]/。
+     *
+     * 只要同一句已出现“発生エナジー”，并且其后存在
+     * resource energy 图标，就视为效果产生能量加成。
+     *
+     * 如果句子明确出现负号，则不当作正向加成。
+     */
+    const hasNegativeMarker =
+      /(?:発生\s*エナジー|発生エナジー)[^。]{0,80}[-−－]/.test(
+        plainText,
+      );
+
+    if (hasNegativeMarker) {
       continue;
     }
 
@@ -502,7 +515,7 @@ async function fetchWithRetry(url, retries = 3) {
       const response = await fetch(url, {
         headers: {
           "User-Agent":
-            "CardZero generated-energy repair/3.0",
+            "CardZero generated-energy repair/3.4",
           Accept:
             "text/html,application/xhtml+xml",
           "Accept-Language":
