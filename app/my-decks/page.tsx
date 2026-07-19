@@ -123,24 +123,24 @@ function DeckCover({ deck }: { deck: CloudDeck }) {
     : (deck.entries.slice(0, 1) as DeckEntryLike[]);
 
   return (
-    <div className="relative h-56 overflow-hidden border-b border-zinc-900 bg-zinc-950 sm:h-60">
+    <div className="relative h-44 overflow-hidden border-b border-zinc-900 bg-zinc-950 sm:h-48">
       <div className="absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(220,38,38,.28),transparent_58%)]" />
       <div className="absolute inset-0 opacity-30 [background-image:linear-gradient(rgba(255,255,255,.035)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,.035)_1px,transparent_1px)] [background-size:28px_28px]" />
 
       {coverEntries.length === 1 ? (
-        <div className="absolute inset-x-0 top-3 flex justify-center">
-          <div className="relative aspect-[5/7] h-52 overflow-hidden rounded-2xl border border-white/20 bg-black shadow-[0_24px_60px_rgba(0,0,0,.8)] sm:h-56">
-            <DeckCardImage entry={coverEntries[0]} sizes="220px" priority />
+        <div className="absolute inset-x-0 top-2 flex justify-center">
+          <div className="relative aspect-[5/7] h-40 overflow-hidden rounded-xl border border-white/20 bg-black shadow-[0_18px_45px_rgba(0,0,0,.8)] sm:h-44">
+            <DeckCardImage entry={coverEntries[0]} sizes="180px" priority />
           </div>
         </div>
       ) : coverEntries.length === 2 ? (
         <div className="absolute inset-x-0 top-2 flex justify-center">
           <div className="relative h-56 w-72 sm:w-80">
-            <div className="absolute left-8 top-4 aspect-[5/7] h-48 -rotate-8 overflow-hidden rounded-2xl border border-white/20 bg-black shadow-[0_24px_60px_rgba(0,0,0,.75)] sm:h-52">
-              <DeckCardImage entry={coverEntries[0]} sizes="190px" priority />
+            <div className="absolute left-6 top-3 aspect-[5/7] h-36 -rotate-8 overflow-hidden rounded-xl border border-white/20 bg-black shadow-[0_18px_45px_rgba(0,0,0,.75)] sm:h-40">
+              <DeckCardImage entry={coverEntries[0]} sizes="150px" priority />
             </div>
-            <div className="absolute right-8 top-1 aspect-[5/7] h-48 rotate-8 overflow-hidden rounded-2xl border border-white/20 bg-black shadow-[0_24px_60px_rgba(0,0,0,.75)] sm:h-52">
-              <DeckCardImage entry={coverEntries[1]} sizes="190px" priority />
+            <div className="absolute right-6 top-0 aspect-[5/7] h-36 rotate-8 overflow-hidden rounded-xl border border-white/20 bg-black shadow-[0_18px_45px_rgba(0,0,0,.75)] sm:h-40">
+              <DeckCardImage entry={coverEntries[1]} sizes="150px" priority />
             </div>
           </div>
         </div>
@@ -152,17 +152,17 @@ function DeckCover({ deck }: { deck: CloudDeck }) {
 
       <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/20 to-black/15" />
 
-      <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-4 p-5">
+      <div className="absolute inset-x-0 bottom-0 flex items-end justify-between gap-3 p-4">
         <div className="min-w-0">
-          <p className="truncate text-xl font-black text-white drop-shadow-lg sm:text-2xl">
+          <p className="truncate text-lg font-black text-white drop-shadow-lg sm:text-xl">
             {deck.name}
           </p>
-          <p className="mt-1 truncate text-sm text-zinc-300 drop-shadow-lg">
+          <p className="mt-0.5 truncate text-xs text-zinc-300 drop-shadow-lg">
             {deck.series || "未指定作品"}
           </p>
         </div>
 
-        <span className="shrink-0 rounded-full border border-red-700/80 bg-black/75 px-3 py-1.5 text-xs font-black text-red-300 backdrop-blur">
+        <span className="shrink-0 rounded-full border border-red-700/80 bg-black/75 px-2.5 py-1 text-[11px] font-black text-red-300 backdrop-blur">
           {deck.total_cards}/50
         </span>
       </div>
@@ -269,52 +269,38 @@ export default function MyDecksPage() {
             </p>
           </div>
         ) : (
-          <div className="mt-8 grid gap-6 md:grid-cols-2 xl:grid-cols-3">
+          <div className="mt-8 grid gap-5 sm:grid-cols-2 xl:grid-cols-4">
             {cloudDecks.map((deck) => (
               <article
                 key={deck.id}
-                className="group overflow-hidden rounded-3xl border border-zinc-800 bg-zinc-950 shadow-[0_20px_60px_rgba(0,0,0,.35)] transition hover:-translate-y-1 hover:border-red-900/80"
+                className="group overflow-hidden rounded-2xl border border-zinc-800 bg-zinc-950 shadow-[0_16px_45px_rgba(0,0,0,.32)] transition hover:-translate-y-1 hover:border-red-900/80"
               >
                 <DeckCover deck={deck} />
 
-                <div className="p-5">
-                  <div className="grid grid-cols-5 gap-1.5">
-                    {(deck.entries.slice(0, 5) as DeckEntryLike[]).map((entry) => (
-                      <div
-                        key={entry.cardId}
-                        className="relative aspect-[5/7] overflow-hidden rounded-md border border-zinc-800 bg-black"
-                      >
-                        <DeckCardImage entry={entry} sizes="80px" />
-                        <strong className="absolute left-1 top-1 rounded-full bg-red-700 px-1.5 py-0.5 text-[9px] font-black text-white shadow-lg">
-                          ×{entry.quantity}
-                        </strong>
-                      </div>
-                    ))}
-                  </div>
-
-                  <p className="mt-5 text-[11px] text-zinc-600">
+                <div className="p-4">
+                  <p className="text-[10px] text-zinc-600">
                     最后更新：{formatDate(deck.updated_at)}
                   </p>
 
-                  <div className="mt-5 grid grid-cols-3 gap-2">
+                  <div className="mt-4 grid grid-cols-3 gap-2">
                     <button
                       type="button"
                       onClick={() => editDeck(deck)}
-                      className="rounded-xl bg-red-700 px-3 py-3 text-xs font-black transition hover:bg-red-600"
+                      className="rounded-lg bg-red-700 px-2 py-2.5 text-[11px] font-black transition hover:bg-red-600"
                     >
                       继续修改
                     </button>
                     <button
                       type="button"
                       onClick={() => void duplicateDeck(deck)}
-                      className="rounded-xl border border-zinc-800 bg-black px-3 py-3 text-xs font-bold text-zinc-300 transition hover:border-red-800"
+                      className="rounded-lg border border-zinc-800 bg-black px-2 py-2.5 text-[11px] font-bold text-zinc-300 transition hover:border-red-800"
                     >
                       复制
                     </button>
                     <button
                       type="button"
                       onClick={() => void removeDeck(deck)}
-                      className="rounded-xl border border-red-950 bg-red-950/20 px-3 py-3 text-xs font-bold text-red-400 transition hover:bg-red-950/40"
+                      className="rounded-lg border border-red-950 bg-red-950/20 px-2 py-2.5 text-[11px] font-bold text-red-400 transition hover:bg-red-950/40"
                     >
                       删除
                     </button>
