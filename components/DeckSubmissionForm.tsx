@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import {
   useEffect,
   useMemo,
@@ -8,6 +7,10 @@ import {
 } from "react";
 
 import type { Card } from "../data/card-series-generated";
+import {
+  deckImageOptionsBySeries,
+} from "../data/deck-image-options";
+import DeckImagePicker from "./DeckImagePicker";
 import { useAuth } from "./AuthProvider";
 
 type DeckOptionMap = Record<
@@ -53,143 +56,6 @@ function normalize(value: string) {
     .trim()
     .toLocaleLowerCase(
       "zh-Hans-CN",
-    );
-}
-
-const MUSHOKU_SERIES =
-  "无职转生";
-
-const mushokuFeaturedDecks = [
-  "洛琪希",
-  "鲁迪乌斯",
-  "艾莉丝",
-  "希露菲",
-  "保罗",
-];
-
-function normalizeImagePath(
-  imagePath: string,
-) {
-  let value = String(
-    imagePath ?? "",
-  )
-    .trim()
-    .replace(/\\/g, "/");
-
-  if (!value) {
-    return "";
-  }
-
-  if (
-    value.startsWith("http://") ||
-    value.startsWith("https://")
-  ) {
-    return value;
-  }
-
-  if (
-    value.startsWith("public/")
-  ) {
-    value = value.slice(
-      "public".length,
-    );
-  }
-
-  if (!value.startsWith("/")) {
-    value = `/${value}`;
-  }
-
-  return value;
-}
-
-function getRepresentativeCard(
-  cards: Card[],
-  deckName: string,
-) {
-  const normalizedDeckName =
-    normalize(deckName);
-
-  const candidates = cards.filter(
-    (card) => {
-      const names = [
-        card.nameZh,
-        card.name,
-      ]
-        .map(normalize)
-        .filter(Boolean);
-
-      return names.some(
-        (name) =>
-          name ===
-            normalizedDeckName ||
-          name.includes(
-            normalizedDeckName,
-          ) ||
-          normalizedDeckName.includes(
-            name,
-          ),
-      );
-    },
-  );
-
-  const rarityRank: Record<
-    string,
-    number
-  > = {
-    SR: 7,
-    R: 6,
-    U: 5,
-    C: 4,
-    AP: 3,
-    L: 2,
-  };
-
-  return [...candidates].sort(
-    (a, b) =>
-      (rarityRank[b.rarity] ?? 0) -
-        (rarityRank[a.rarity] ?? 0) ||
-      String(a.number).localeCompare(
-        String(b.number),
-        undefined,
-        {
-          numeric: true,
-        },
-      ),
-  )[0];
-}
-
-function buildMushokuImageOptions(
-  cards: Card[],
-) {
-  return mushokuFeaturedDecks
-    .map((deckName) => {
-      const card =
-        getRepresentativeCard(
-          cards,
-          deckName,
-        );
-
-      if (!card) {
-        return null;
-      }
-
-      return {
-        deckName,
-        card,
-        image:
-          normalizeImagePath(
-            card.image,
-          ),
-      };
-    })
-    .filter(
-      (
-        value,
-      ): value is {
-        deckName: string;
-        card: Card;
-        image: string;
-      } => Boolean(value),
     );
 }
 
@@ -322,20 +188,16 @@ export default function DeckSubmissionForm({
       deckOptionsBySeries,
     ]);
 
-  const mushokuImageOptions =
-    useMemo(
-      () =>
-        buildMushokuImageOptions(
-          cardsBySeries[
-            MUSHOKU_SERIES
-          ] ?? [],
-        ),
-      [cardsBySeries],
-    );
+  const imageDeckOptions =
+    deckImageOptionsBySeries[
+      resolvedSeries
+    ] ?? [];
 
-  const useMushokuImagePicker =
-    resolvedSeries ===
-    MUSHOKU_SERIES;
+  const hasImageDeckOptions =
+    imageDeckOptions.some(
+      (option) =>
+        option.enabled !== false,
+    );
 
   const filteredDecks = useMemo(
     () => {
@@ -682,7 +544,7 @@ export default function DeckSubmissionForm({
                 value={deckSearch}
                 disabled={
                   !resolvedSeries ||
-                  useMushokuImagePicker
+                  hasImageDeckOptions
                 }
                 onChange={(event) =>
                   setDeckSearch(
@@ -690,8 +552,8 @@ export default function DeckSubmissionForm({
                   )
                 }
                 placeholder={
-                  useMushokuImagePicker
-                    ? "无职转生使用卡图选择"
+                  hasImageDeckOptions
+                    ? "此系列使用卡图选择"
                     : resolvedSeries
                       ? "输入牌组名称"
                       : "请先选择作品系列"
@@ -705,110 +567,44 @@ export default function DeckSubmissionForm({
                 2. 对应牌组 *
               </span>
 
-              {useMushokuImagePicker ? (
+              {hasImageDeckOptions ? (
                 <>
-                  <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
-                    {mushokuImageOptions.map(
-                      ({
+                  <DeckImagePicker
+                    series={resolvedSeries}
+                    cards={
+                      cardsBySeries[
+                        resolvedSeries
+                      ] ?? []
+                    }
+                    selectedDeck={
+                      selectedDeck
+                    }
+                    onSelect={(deckName) => {
+                      setSelectedDeck(
                         deckName,
-                        card,
-                        image,
-                      }) => {
-                        const active =
-                          selectedDeck ===
-                          deckName;
-
-                        return (
-                          <button
-                            key={deckName}
-                            type="button"
-                            onClick={() => {
-                              setSelectedDeck(
-                                deckName,
-                              );
-                              setCustomDeckName(
-                                "",
-                              );
-                            }}
-                            className={`group overflow-hidden rounded-2xl border text-left transition ${
-                              active
-                                ? "border-red-500 bg-red-950/25 ring-2 ring-red-500/30"
-                                : "border-white/10 bg-black hover:border-red-700"
-                            }`}
-                          >
-                            <div className="relative aspect-[5/7] overflow-hidden bg-zinc-950">
-                              {image ? (
-                                <Image
-                                  src={image}
-                                  alt={
-                                    card.nameZh ||
-                                    card.name
-                                  }
-                                  fill
-                                  sizes="(max-width: 640px) 45vw, 180px"
-                                  className="object-contain transition duration-300 group-hover:scale-[1.025]"
-                                />
-                              ) : (
-                                <div className="grid h-full place-items-center text-xs text-zinc-600">
-                                  暂无卡图
-                                </div>
-                              )}
-
-                              {active ? (
-                                <span className="absolute right-2 top-2 grid h-7 w-7 place-items-center rounded-full bg-red-600 text-sm font-black text-white shadow-lg">
-                                  ✓
-                                </span>
-                              ) : null}
-                            </div>
-
-                            <div className="px-3 py-3">
-                              <p className="truncate text-sm font-black text-white">
-                                {deckName}
-                              </p>
-
-                              <p className="mt-1 truncate text-[10px] text-zinc-600">
-                                {card.number}
-                              </p>
-                            </div>
-                          </button>
-                        );
-                      },
-                    )}
-
-                    <button
-                      type="button"
-                      onClick={() =>
-                        setSelectedDeck(
-                          CUSTOM_DECK_VALUE,
-                        )
-                      }
-                      className={`flex min-h-[180px] flex-col items-center justify-center rounded-2xl border border-dashed px-4 text-center transition ${
-                        usingCustomDeck
-                          ? "border-red-500 bg-red-950/25 text-white"
-                          : "border-white/15 bg-black text-zinc-500 hover:border-red-700 hover:text-white"
-                      }`}
-                    >
-                      <span className="text-3xl font-light">
-                        ＋
-                      </span>
-
-                      <span className="mt-3 text-sm font-black">
-                        自定义牌组
-                      </span>
-                    </button>
-                  </div>
+                      );
+                      setCustomDeckName("");
+                      setDeckSearch("");
+                    }}
+                    onCustom={() => {
+                      setSelectedDeck(
+                        CUSTOM_DECK_VALUE,
+                      );
+                    }}
+                    customSelected={
+                      usingCustomDeck
+                    }
+                  />
 
                   <input
                     type="hidden"
                     required
-                    value={
-                      selectedDeck
-                    }
+                    value={selectedDeck}
                     readOnly
                   />
 
                   <p className="text-xs leading-5 text-zinc-600">
-                    这是无职转生系列的卡图选择示范。点击代表卡图即可选择牌组。
+                    牌组资料由 CardZero Excel 设定表提供，并依颜色分组显示。点击代表卡图即可选择牌组。
                   </p>
                 </>
               ) : (
