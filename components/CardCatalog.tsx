@@ -10,6 +10,7 @@ import {
 
 import type { Card } from "../data/card-series-generated";
 import { useDeckStorage } from "../hooks/useDeckStorage";
+import { sortSeriesNewestFirst } from "../utils/series-sort";
 type CardCatalogProps = {
   cards: Card[];
   initialSeries?: string;
@@ -472,11 +473,14 @@ export default function CardCatalog({
   const seriesOptions =
     useMemo(
       () =>
-        uniqueOptions(
-          cards.map(
-            (card) =>
-              card.series,
+        sortSeriesNewestFirst(
+          uniqueOptions(
+            cards.map(
+              (card) =>
+                card.series,
+            ),
           ),
+          cards,
         ),
       [cards],
     );
@@ -1169,162 +1173,20 @@ export default function CardCatalog({
                   key={card.id}
                   type="button"
                   onClick={() =>
-                    openCard(
-                      card,
-                    )
+                    openCard(card)
                   }
-                  className={`group relative overflow-hidden rounded-2xl border bg-zinc-950 text-left transition duration-300 hover:-translate-y-1 ${colorStyles.border} ${colorStyles.glow}`}
+                  aria-label={`查看 ${
+                    displayName
+                  } 详情`}
+                  className="group relative overflow-hidden rounded-xl bg-black text-left transition duration-300 hover:-translate-y-1 hover:shadow-[0_18px_50px_rgba(0,0,0,0.65)]"
                 >
                   <div className="relative aspect-[5/7] overflow-hidden bg-black">
                     <CardArtwork
-                      src={
-                        card.image
-                      }
-                      alt={
-                        displayName
-                      }
-                      sizes={
-                        sizes
-                      }
-                      className="object-contain transition duration-500 group-hover:scale-[1.035]"
+                      src={card.image}
+                      alt={displayName}
+                      sizes={sizes}
+                      className="object-contain transition duration-500 group-hover:scale-[1.025]"
                     />
-
-                    <div className="absolute inset-x-0 top-0 flex items-start justify-between p-2">
-                      {card.rarity &&
-                        card.rarity !==
-                          "-" && (
-                          <span className="rounded-md border border-white/10 bg-black/85 px-2 py-1 text-[10px] font-black text-white backdrop-blur">
-                            {
-                              card.rarity
-                            }
-                          </span>
-                        )}
-
-                      {isAlternate && (
-                        <span className="ml-auto rounded-md border border-amber-700/60 bg-amber-950/90 px-2 py-1 text-[10px] font-black text-amber-300 backdrop-blur">
-                          异图
-                        </span>
-                      )}
-                    </div>
-
-                    {translated && (
-                      <div className="absolute bottom-2 left-2 rounded-md border border-emerald-800/70 bg-emerald-950/90 px-2 py-1 text-[9px] font-bold text-emerald-300 backdrop-blur">
-                        中文
-                      </div>
-                    )}
-                  </div>
-
-                  <div
-                    className={
-                      gridMode ===
-                      "compact"
-                        ? "p-2.5"
-                        : "p-4"
-                    }
-                  >
-                    <div className="flex items-center gap-2">
-                      <span
-                        className={`h-2 w-2 shrink-0 rounded-full ${colorStyles.dot}`}
-                      />
-
-                      <p className="truncate text-[10px] font-bold text-zinc-500">
-                        {
-                          card.number
-                        }
-                      </p>
-                    </div>
-
-                    <h2
-                      className={`mt-2 min-h-[2.5rem] font-black leading-5 text-white ${
-                        gridMode ===
-                        "compact"
-                          ? "text-xs"
-                          : "text-sm"
-                      }`}
-                    >
-                      {
-                        displayName
-                      }
-                    </h2>
-
-                    {gridMode !==
-                      "compact" &&
-                      card.nameZh && (
-                        <p className="mt-1 truncate text-[11px] text-zinc-600">
-                          {
-                            card.name
-                          }
-                        </p>
-                      )}
-
-                    <div className="mt-3 flex flex-wrap items-center gap-1.5">
-                      <span
-                        className={`rounded-full border px-2 py-1 text-[9px] font-bold ${colorStyles.badge}`}
-                      >
-                        {
-                          card.color
-                        }
-                      </span>
-
-                      {gridMode !==
-                        "compact" && (
-                        <span className="rounded-full border border-zinc-800 bg-black px-2 py-1 text-[9px] text-zinc-400">
-                          {
-                            card.type
-                          }
-                        </span>
-                      )}
-                    </div>
-
-                    <div className="mt-3 grid grid-cols-3 gap-1.5 text-center">
-                      <div className="rounded-lg bg-black px-1 py-2">
-                        <p className="text-[9px] text-zinc-600">
-                          费用
-                        </p>
-
-                        <p className="mt-0.5 text-xs font-black text-white">
-                          {
-                            card.cost
-                          }
-                        </p>
-                      </div>
-
-                      <div className="rounded-lg bg-black px-1 py-2">
-                        <p className="text-[9px] text-zinc-600">
-                          AP
-                        </p>
-
-                        <p className="mt-0.5 text-xs font-black text-white">
-                          {
-                            card.ap
-                          }
-                        </p>
-                      </div>
-
-                      <div className="rounded-lg bg-black px-1 py-2">
-                        <p className="text-[9px] text-zinc-600">
-                          BP
-                        </p>
-
-                        <p className="mt-0.5 text-xs font-black text-white">
-                          {card.bp ||
-                            "-"}
-                        </p>
-                      </div>
-                    </div>
-
-                    {gridMode !==
-                      "compact" && (
-                      <div className="mt-3 flex items-center justify-between border-t border-zinc-900 pt-3">
-                        <span className="text-[10px] text-zinc-600">
-                          点击查看详情
-                        </span>
-
-                        <span className="text-sm font-black text-red-500 transition group-hover:translate-x-1">
-                          →
-                        </span>
-                      </div>
-                    )}
                   </div>
                 </button>
               );
@@ -1558,6 +1420,38 @@ export default function CardCatalog({
                   )}
                 </div>
 
+                {/* 卡牌效果优先显示 */}
+                <div className="mt-6 rounded-2xl border border-red-950 bg-red-950/15 p-5 sm:p-6">
+                  <p className="text-xs font-black tracking-[0.2em] text-red-500">
+                    {selectedCard.effectZh
+                      ? "中文效果"
+                      : "卡牌效果"}
+                  </p>
+
+                  <p className="mt-4 whitespace-pre-line text-sm leading-8 text-zinc-200 sm:text-base">
+                    {selectedCard.effectZh ||
+                      selectedCard.effect ||
+                      "无效果"}
+                  </p>
+                </div>
+
+                {(selectedCard.triggerZh ||
+                  (selectedCard.trigger &&
+                    selectedCard.trigger !==
+                      "-")) && (
+                  <div className="mt-4 rounded-2xl border border-amber-900/50 bg-amber-950/10 p-5 sm:p-6">
+                    <p className="text-xs font-black tracking-[0.2em] text-amber-500">
+                      TRIGGER
+                    </p>
+
+                    <p className="mt-4 whitespace-pre-line text-sm leading-8 text-zinc-200 sm:text-base">
+                      {selectedCard.triggerZh ||
+                        selectedCard.trigger}
+                    </p>
+                  </div>
+                )}
+
+
                 {/* CARDZERO_DECK_INTEGRATION_MODAL */}
                 <div className="mt-6 rounded-2xl border border-red-800/60 bg-black p-5">
                   <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
@@ -1644,36 +1538,6 @@ export default function CardCatalog({
                       </span>
                     </div>
                   )}
-
-                <div className="mt-7 rounded-2xl border border-red-950 bg-red-950/15 p-5 sm:p-6">
-                  <p className="text-xs font-black tracking-[0.2em] text-red-500">
-                    {selectedCard.effectZh
-                      ? "中文效果"
-                      : "卡牌效果"}
-                  </p>
-
-                  <p className="mt-4 whitespace-pre-line text-sm leading-8 text-zinc-200 sm:text-base">
-                    {selectedCard.effectZh ||
-                      selectedCard.effect ||
-                      "无效果"}
-                  </p>
-                </div>
-
-                {(selectedCard.triggerZh ||
-                  (selectedCard.trigger &&
-                    selectedCard.trigger !==
-                      "-")) && (
-                  <div className="mt-4 rounded-2xl border border-amber-900/50 bg-amber-950/10 p-5 sm:p-6">
-                    <p className="text-xs font-black tracking-[0.2em] text-amber-500">
-                      TRIGGER
-                    </p>
-
-                    <p className="mt-4 whitespace-pre-line text-sm leading-8 text-zinc-200 sm:text-base">
-                      {selectedCard.triggerZh ||
-                        selectedCard.trigger}
-                    </p>
-                  </div>
-                )}
 
                 {hasChineseTranslation(
                   selectedCard,
