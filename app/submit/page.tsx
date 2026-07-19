@@ -31,75 +31,167 @@ function uniqueSorted(values: string[]) {
   );
 }
 
-function getSeriesNumber(
-  series: string,
+type SeriesSortKey = {
+  uaNumber: number;
+  productRank: number;
+  volumeNumber: number;
+  fullNumber: string;
+};
+
+const productTypeRank: Record<
+  string,
+  number
+> = {
+  BT: 50,
+  EX: 40,
+  ST: 30,
+  PR: 20,
+  AP: 10,
+};
+
+function getCardNumberSortKey(
+  cardNumber: string,
+): SeriesSortKey {
+  const normalized = String(
+    cardNumber ?? "",
+  )
+    .trim()
+    .toUpperCase();
+
+  /*
+   * 常见格式：
+   * UA54BT/MST-1-001
+   * UA26BT/RLY-1-018
+   * UA01BT/CGH-1-042
+   *
+   * 第一排序依据是 UA 后的产品编号。
+   */
+  const mainMatch = normalized.match(
+    /^UA(\d+)([A-Z]+)?/,
+  );
+
+  const volumeMatch = normalized.match(
+    /-(\d+)-\d+(?:_|$)/,
+  );
+
+  return {
+    uaNumber: mainMatch
+      ? Number(mainMatch[1])
+      : -1,
+    productRank:
+      productTypeRank[
+        mainMatch?.[2] ?? ""
+      ] ?? 0,
+    volumeNumber: volumeMatch
+      ? Number(volumeMatch[1])
+      : 0,
+    fullNumber: normalized,
+  };
+}
+
+function compareSeriesSortKey(
+  a: SeriesSortKey,
+  b: SeriesSortKey,
 ) {
+  if (a.uaNumber !== b.uaNumber) {
+    return b.uaNumber - a.uaNumber;
+  }
+
+  if (
+    a.productRank !==
+    b.productRank
+  ) {
+    return (
+      b.productRank -
+      a.productRank
+    );
+  }
+
+  if (
+    a.volumeNumber !==
+    b.volumeNumber
+  ) {
+    return (
+      b.volumeNumber -
+      a.volumeNumber
+    );
+  }
+
+  return b.fullNumber.localeCompare(
+    a.fullNumber,
+    "en",
+    {
+      numeric: true,
+      sensitivity: "base",
+    },
+  );
+}
+
+function getSeriesSortKey(
+  series: string,
+): SeriesSortKey {
   const cards =
     cardsBySeries[series] ?? [];
 
-  let highestNumber = -1;
+  let newestKey: SeriesSortKey = {
+    uaNumber: -1,
+    productRank: 0,
+    volumeNumber: 0,
+    fullNumber: "",
+  };
 
   for (const card of cards) {
-    const cardNumber =
-      String(card.number ?? "");
-
-    /*
-     * 支持：
-     * UA54BT/MST-1-001
-     * UA53BT/CSM-1-001
-     * UA01ST/CGH-1-001
-     */
-    const matches =
-      cardNumber.matchAll(
-        /UA\s*0*(\d+)/gi,
+    const nextKey =
+      getCardNumberSortKey(
+        card.number,
       );
 
-    for (const match of matches) {
-      const number =
-        Number.parseInt(
-          match[1] ?? "",
-          10,
-        );
-
-      if (
-        Number.isFinite(number)
-      ) {
-        highestNumber = Math.max(
-          highestNumber,
-          number,
-        );
-      }
+    if (
+      compareSeriesSortKey(
+        nextKey,
+        newestKey,
+      ) < 0
+    ) {
+      newestKey = nextKey;
     }
   }
 
-  return highestNumber;
+  return newestKey;
 }
 
 function sortSeriesNewestFirst(
   values: string[],
 ) {
-  return [
+  const uniqueValues = [
     ...new Set(
       values
         .map((value) => value.trim())
         .filter(Boolean),
     ),
-  ].sort((a, b) => {
-    const numberA =
-      getSeriesNumber(a);
+  ];
 
-    const numberB =
-      getSeriesNumber(b);
+  return uniqueValues.sort(
+    (a, b) => {
+      const keyComparison =
+        compareSeriesSortKey(
+          getSeriesSortKey(a),
+          getSeriesSortKey(b),
+        );
 
-    if (numberA !== numberB) {
-      return numberB - numberA;
-    }
+      if (keyComparison !== 0) {
+        return keyComparison;
+      }
 
-    return a.localeCompare(
-      b,
-      "zh-Hans-CN",
-    );
-  });
+      /*
+       * 没有卡牌编号的自定义系列会排在
+       * 正式卡牌系列之后，并以中文名称排序。
+       */
+      return a.localeCompare(
+        b,
+        "zh-Hans-CN",
+      );
+    },
+  );
 }
 
 async function getExistingDeckOptions() {
@@ -169,6 +261,102 @@ async function getExistingDeckOptions() {
   return result;
 }
 
+function isCharacterCardType(
+  type: unknown,
+) {
+  const normalized = String(
+    type ?? "",
+  )
+    .trim()
+    .toLowerCase();
+
+  return [
+    "角色卡",
+    "角色",
+    "character",
+    "キャラクター",
+  ].some((value) =>
+    normalized.includes(
+      value.toLowerCase(),
+    ),
+  );
+}
+
+function isUsableDeckOption(
+  value: unknown,
+) {
+  const normalized = String(
+    value ?? "",
+  ).trim();
+
+  return Boolean(
+    normalized &&
+      normalized !== "-" &&
+      normalized !==
+        "资料待补" &&
+      normalized !==
+        "翻译待补",
+  );
+}
+
+function getCharacterDeckOptionsBySeries() {
+  const result: DeckOptionMap = {};
+
+  for (const series of seriesNames) {
+    const cards =
+      cardsBySeries[series] ?? [];
+
+    /*
+     * 同一角色可能存在多个卡号、普通版及异图版。
+     * Set 会把相同中文名称合并，只在下拉清单显示一次。
+     */
+    const characterNames = [
+      ...new Set(
+        cards
+          .filter((card) =>
+            isCharacterCardType(
+              card.type,
+            ),
+          )
+          .map((card) =>
+            String(
+              card.nameZh ||
+                card.name ||
+                "",
+            ).trim(),
+          )
+          .filter(
+            isUsableDeckOption,
+          ),
+      ),
+    ];
+
+    result[series] =
+      characterNames.sort(
+        (a, b) =>
+          a.localeCompare(
+            b,
+            "zh-Hans-CN",
+          ),
+      );
+  }
+
+  return result;
+}
+
+function mergeManyDeckOptions(
+  ...sources: DeckOptionMap[]
+) {
+  return sources.reduce(
+    (merged, source) =>
+      mergeDeckOptions(
+        merged,
+        source,
+      ),
+    {},
+  );
+}
+
 function mergeDeckOptions(
   first: DeckOptionMap,
   second: DeckOptionMap,
@@ -194,10 +382,23 @@ export default async function SubmitPage() {
   const existingDeckOptions =
     await getExistingDeckOptions();
 
+  const characterDeckOptions =
+    getCharacterDeckOptionsBySeries();
+
+  /*
+   * 对应牌组来源优先级：
+   *
+   * 1. 手动设定的正式牌组名称
+   * 2. Supabase 已公开投稿使用过的牌组名称
+   * 3. 该作品卡牌资料中的角色名称
+   *
+   * 最终会自动去重。
+   */
   const deckOptionsBySeries =
-    mergeDeckOptions(
+    mergeManyDeckOptions(
       manualDeckOptionsBySeries,
       existingDeckOptions,
+      characterDeckOptions,
     );
 
   /*

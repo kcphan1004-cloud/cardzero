@@ -113,18 +113,11 @@ export default function DeckSubmissionForm({
   );
 
   /*
-   * seriesOptions 已由服务器根据 UA 编号
-   * 从新到旧排序，这里只去重并保留原顺序。
+   * seriesOptions 已由服务器根据卡牌编号
+   * 按新到旧排列，这里保留原有顺序。
    */
   const sortedSeries = useMemo(
-    () =>
-      [...new Set(
-        seriesOptions
-          .map((series) =>
-            series.trim(),
-          )
-          .filter(Boolean),
-      )],
+    () => [...seriesOptions],
     [seriesOptions],
   );
 
@@ -419,7 +412,7 @@ export default function DeckSubmissionForm({
           </div>
 
           <span className="text-xs font-bold text-zinc-600">
-            共 {sortedSeries.length} 个系列
+            共 {sortedSeries.length} 个系列 · 新到旧
           </span>
         </div>
 
