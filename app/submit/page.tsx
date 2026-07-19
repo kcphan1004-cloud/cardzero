@@ -1,6 +1,9 @@
 import DeckSubmissionForm from "../../components/DeckSubmissionForm";
 import { manualDeckOptionsBySeries } from "../../data/deck-options";
-import { seriesNames } from "../../data/card-series-generated";
+import {
+  cardsBySeries,
+  seriesNames,
+} from "../../data/card-series-generated";
 import { getSupabaseAdmin } from "../../lib/supabaseAdmin";
 
 export const dynamic = "force-dynamic";
@@ -26,6 +29,77 @@ function uniqueSorted(values: string[]) {
       "zh-Hans-CN",
     ),
   );
+}
+
+function getSeriesNumber(
+  series: string,
+) {
+  const cards =
+    cardsBySeries[series] ?? [];
+
+  let highestNumber = -1;
+
+  for (const card of cards) {
+    const cardNumber =
+      String(card.number ?? "");
+
+    /*
+     * 支持：
+     * UA54BT/MST-1-001
+     * UA53BT/CSM-1-001
+     * UA01ST/CGH-1-001
+     */
+    const matches =
+      cardNumber.matchAll(
+        /UA\s*0*(\d+)/gi,
+      );
+
+    for (const match of matches) {
+      const number =
+        Number.parseInt(
+          match[1] ?? "",
+          10,
+        );
+
+      if (
+        Number.isFinite(number)
+      ) {
+        highestNumber = Math.max(
+          highestNumber,
+          number,
+        );
+      }
+    }
+  }
+
+  return highestNumber;
+}
+
+function sortSeriesNewestFirst(
+  values: string[],
+) {
+  return [
+    ...new Set(
+      values
+        .map((value) => value.trim())
+        .filter(Boolean),
+    ),
+  ].sort((a, b) => {
+    const numberA =
+      getSeriesNumber(a);
+
+    const numberB =
+      getSeriesNumber(b);
+
+    if (numberA !== numberB) {
+      return numberB - numberA;
+    }
+
+    return a.localeCompare(
+      b,
+      "zh-Hans-CN",
+    );
+  });
 }
 
 async function getExistingDeckOptions() {
@@ -130,12 +204,13 @@ export default async function SubmitPage() {
    * 作品系列直接使用卡牌资料库的 seriesNames。
    * 日后新增系列时，投稿页会自动同步。
    */
-  const seriesOptions = uniqueSorted([
-    ...seriesNames,
-    ...Object.keys(
-      deckOptionsBySeries,
-    ),
-  ]);
+  const seriesOptions =
+    sortSeriesNewestFirst([
+      ...seriesNames,
+      ...Object.keys(
+        deckOptionsBySeries,
+      ),
+    ]);
 
   return (
     <main className="min-h-screen bg-black text-white">

@@ -112,15 +112,19 @@ export default function DeckSubmissionForm({
     null,
   );
 
+  /*
+   * seriesOptions 已由服务器根据 UA 编号
+   * 从新到旧排序，这里只去重并保留原顺序。
+   */
   const sortedSeries = useMemo(
     () =>
-      [...seriesOptions].sort(
-        (a, b) =>
-          a.localeCompare(
-            b,
-            "zh-Hans-CN",
-          ),
-      ),
+      [...new Set(
+        seriesOptions
+          .map((series) =>
+            series.trim(),
+          )
+          .filter(Boolean),
+      )],
     [seriesOptions],
   );
 
