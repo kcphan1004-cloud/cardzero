@@ -181,88 +181,273 @@ function collectEnergyGroupsFromHtml(html) {
   };
 }
 
-function extractGeneratedEnergyBonus(html) {
-  const effectBlockMatch = String(html ?? "").match(
-    /<dl\b[^>]*class=["'][^"']*\beffectData\b[^"']*["'][^>]*>([\s\S]*?)<\/dl>/i,
-  );
+function energyTokenFromImageTag(imageTag) {
+  const src = readAttribute(imageTag, "src");
+  const alt = readAttribute(imageTag, "alt");
 
-  if (!effectBlockMatch) {
-    return {
-      groups: new Map(),
-      matched: false,
-    };
+  if (
+    !/ico_resource_energy_/i.test(src)
+  ) {
+    return "";
   }
 
-  const effectBlock = effectBlockMatch[1];
-  const candidates = [];
-  const markerPattern =
-    /発生\s*(?:<br\s*\/?>\s*)?エナジー/gi;
+  const colorKey =
+    findColorKey(`${src} ${alt}`);
 
-  for (const match of effectBlock.matchAll(markerPattern)) {
-    const start = match.index ?? 0;
-    const tail = effectBlock.slice(
-      start,
-      start + 900,
+  return colorKey
+    ? ` [[ENERGY:${colorKey}]] `
+    : " [[ENERGY:unknown]] ";
+}
+
+function effectHtmlToTokenText(html) {
+  return decodeHtml(
+    String(html ?? "")
+      /*
+       * 先将能量图片替换成稳定 Token。
+       * 这样即使“＋”本身是图片，或文字被 HTML 标签拆开，
+       * 仍然可以根据“発生エナジー”后出现的 Token 判断加成。
+       */
+      .replace(
+        /<img\b[^>]*>/gi,
+        (imageTag) =>
+          energyTokenFromImageTag(imageTag),
+      )
+      .replace(
+        /<br\s*\/?>/gi,
+        "\n",
+      )
+      .replace(
+        /<\/(?:p|li|div|dd|span)>/gi,
+        " ",
+      )
+      .replace(
+        /<[^>]+>/g,
+        "",
+      ),
+  )
+    .replace(/\u3000/g, " ")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\r/g, "")
+    .trim();
+}
+
+function mergeEnergyGroups(
+  target,
+  source,
+) {
+  for (const [colorKey, count] of source) {
+    target.set(
+      colorKey,
+      (target.get(colorKey) ?? 0) +
+        count,
     );
-
-    const endCandidates = [
-      tail.search(/。/),
-      tail.search(/<br\s*\/?>/i),
-      tail.search(/<\/p>/i),
-      tail.search(/<\/li>/i),
-    ].filter((value) => value > 0);
-
-    const end =
-      endCandidates.length > 0
-        ? Math.min(...endCandidates)
-        : Math.min(tail.length, 900);
-
-    candidates.push(tail.slice(0, end));
   }
+}
+
+function parseEnergyTokens(value) {
+  const groups = new Map();
+
+  for (
+    const match of String(value ?? "").matchAll(
+      /\[\[ENERGY:([a-z]+)\]\]/gi,
+    )
+  ) {
+    const colorKey =
+      String(match[1] ?? "").toLowerCase();
+
+    if (
+      !colorOrder.has(colorKey)
+    ) {
+      continue;
+    }
+
+    groups.set(
+      colorKey,
+      (groups.get(colorKey) ?? 0) + 1,
+    );
+  }
+
+  return groups;
+}
+
+function extractGeneratedEnergyBonus(html) {
+  const effectBlocks = [
+    ...String(html ?? "").matchAll(
+      /<dl\b[^>]*class=["'][^"']*\beffectData\b[^"']*["'][^>]*>([\s\S]*?)<\/dl>/gi,
+    ),
+  ].map((match) => match[1]);
 
   const groups = new Map();
-  let matched = false;
+  const evidence = [];
+  const warnings = [];
 
-  for (const candidate of candidates) {
-    const plainText = stripTags(candidate);
-    const parsed =
-      collectEnergyGroupsFromHtml(candidate);
-
-    if (parsed.imageCount === 0) {
-      continue;
-    }
+  for (const effectBlock of effectBlocks) {
+    const tokenText =
+      effectHtmlToTokenText(effectBlock);
 
     /*
-     * 官方页面有些卡把“＋”做成图片，而不是文字。
-     * stripTags() 后加号会消失，因此不能只依赖 /[+＋]/。
+     * 官方效果常见形式：
+     *   このキャラの発生エナジー＋[绿色图标]
      *
-     * 只要同一句已出现“発生エナジー”，并且其后存在
-     * resource energy 图标，就视为效果产生能量加成。
-     *
-     * 如果句子明确出现负号，则不当作正向加成。
+     * “＋”可能是文字、全角符号或图片，所以这里不依赖加号；
+     * 只检查“発生エナジー”之后、句号之前是否出现能量 Token。
      */
-    const hasNegativeMarker =
-      /(?:発生\s*エナジー|発生エナジー)[^。]{0,80}[-−－]/.test(
-        plainText,
+    const markerPattern =
+      /発生\s*エナジー/gi;
+
+    for (
+      const marker of tokenText.matchAll(
+        markerPattern,
+      )
+    ) {
+      const markerStart =
+        marker.index ?? 0;
+
+      const afterMarker =
+        tokenText.slice(
+          markerStart +
+            marker[0].length,
+          markerStart +
+            marker[0].length +
+            240,
+        );
+
+      const sentenceEndCandidates = [
+        afterMarker.indexOf("。"),
+        afterMarker.indexOf("\n"),
+        afterMarker.indexOf("；"),
+        afterMarker.indexOf(";"),
+      ].filter((value) => value >= 0);
+
+      const sentence =
+        sentenceEndCandidates.length > 0
+          ? afterMarker.slice(
+              0,
+              Math.min(
+                ...sentenceEndCandidates,
+              ),
+            )
+          : afterMarker;
+
+      const tokenGroups =
+        parseEnergyTokens(sentence);
+
+      if (tokenGroups.size === 0) {
+        continue;
+      }
+
+      /*
+       * 排除“发生产生能量减少”这类负向效果。
+       * 负号可能在 Token 前后出现。
+       */
+      const plainSentence = sentence
+        .replace(
+          /\[\[ENERGY:[a-z]+\]\]/gi,
+          " 能量图标 ",
+        )
+        .replace(/\s+/g, " ")
+        .trim();
+
+      const negative =
+        /(?:-|−|－)\s*(?:能量图标|\d)|(?:発生\s*エナジー)[^。]{0,80}(?:減|减|マイナス|-|−|－)/i.test(
+          `${marker[0]}${plainSentence}`,
+        );
+
+      if (negative) {
+        continue;
+      }
+
+      mergeEnergyGroups(
+        groups,
+        tokenGroups,
       );
 
-    if (hasNegativeMarker) {
+      evidence.push({
+        text: `${marker[0]}${plainSentence}`.slice(
+          0,
+          180,
+        ),
+        groups:
+          formatGeneratedEnergy(
+            tokenGroups,
+          ),
+      });
+    }
+  }
+
+  /*
+   * 同一效果区可能因为重复 DOM / 移动版 HTML 而出现相同句子。
+   * 以“文字＋能量组合”去重，避免重复加算。
+   */
+  const uniqueEvidence = [];
+  const seenEvidence = new Set();
+  const dedupedGroups = new Map();
+
+  for (const item of evidence) {
+    const key =
+      `${item.text}|${item.groups}`;
+
+    if (seenEvidence.has(key)) {
       continue;
     }
 
-    matched = true;
+    seenEvidence.add(key);
+    uniqueEvidence.push(item);
 
-    for (const [colorKey, count] of parsed.groups) {
-      groups.set(
-        colorKey,
-        (groups.get(colorKey) ?? 0) + count,
+    const parsedGroups =
+      new Map();
+
+    for (
+      const part of item.groups.split("＋")
+    ) {
+      const match = part.match(
+        /^(黄色|红色|蓝色|绿色|紫色)×(\d+)$/,
+      );
+
+      if (!match) {
+        continue;
+      }
+
+      const definition =
+        colorDefinitions.find(
+          (entry) =>
+            entry.zh === match[1],
+        );
+
+      if (!definition) {
+        continue;
+      }
+
+      parsedGroups.set(
+        definition.key,
+        Number.parseInt(
+          match[2],
+          10,
+        ),
       );
     }
+
+    mergeEnergyGroups(
+      dedupedGroups,
+      parsedGroups,
+    );
+  }
+
+  if (
+    evidence.length > 0 &&
+    uniqueEvidence.length === 0
+  ) {
+    warnings.push(
+      "找到效果产生能量记录，但去重后为空。",
+    );
   }
 
   return {
-    groups,
-    matched,
+    groups: dedupedGroups,
+    matched:
+      uniqueEvidence.length > 0,
+    evidence: uniqueEvidence,
+    warnings,
   };
 }
 
@@ -357,7 +542,14 @@ function parseOfficialHtml(html, sourcePath) {
     number,
     generatedEnergy,
     sourcePath,
-    warning: warnings.join(" "),
+    bonusEvidence:
+      bonus.evidence ?? [],
+    warning: [
+      ...warnings,
+      ...(bonus.warnings ?? []),
+    ]
+      .filter(Boolean)
+      .join(" "),
   };
 }
 
@@ -515,7 +707,7 @@ async function fetchWithRetry(url, retries = 3) {
       const response = await fetch(url, {
         headers: {
           "User-Agent":
-            "CardZero generated-energy repair/3.4",
+            "CardZero generated-energy repair/4.0",
           Accept:
             "text/html,application/xhtml+xml",
           "Accept-Language":
@@ -687,6 +879,8 @@ function updateFileText(
         before: currentValue,
         after: nextValue,
         source: official.sourcePath,
+        bonusEvidence:
+          official.bonusEvidence ?? [],
       });
 
       return `${prefix}"${nextValue}"`;

@@ -427,11 +427,11 @@ function GeneratedEnergyDots({
 
       {energy.bonus.length > 0 ? (
         <span
-          className="ml-1 inline-flex items-center gap-1 rounded-full border border-emerald-900/70 bg-emerald-950/30 px-2 py-1"
+          className="ml-0.5 inline-flex items-center gap-1"
           title={`效果额外产生：${bonusLabel}`}
         >
           <span
-            className="text-lg font-black leading-none text-emerald-400"
+            className="text-lg font-black leading-none text-white"
             aria-hidden="true"
           >
             ＋
