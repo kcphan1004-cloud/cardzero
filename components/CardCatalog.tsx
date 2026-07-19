@@ -12,6 +12,7 @@ import type { Card } from "../data/card-series-generated";
 import { useDeckStorage } from "../hooks/useDeckStorage";
 type CardCatalogProps = {
   cards: Card[];
+  initialSeries?: string;
 };
 
 type GridMode =
@@ -216,103 +217,12 @@ function hasChineseTranslation(
 }
 
 
-type ParsedEnergyDot = {
-  colorKey:
-    | "yellow"
-    | "red"
-    | "blue"
-    | "green"
-    | "purple"
-    | "neutral";
-  colorLabel: string;
-};
-
-type ParsedGeneratedEnergy = {
-  base: ParsedEnergyDot[];
-  bonus: ParsedEnergyDot[];
-};
-
-const energyColorConfig = [
-  {
-    key: "yellow",
-    label: "黄色",
-    aliases: ["黄色", "黃色", "黄", "黃"],
-  },
-  {
-    key: "red",
-    label: "红色",
-    aliases: ["红色", "紅色", "红", "紅", "赤"],
-  },
-  {
-    key: "blue",
-    label: "蓝色",
-    aliases: ["蓝色", "藍色", "蓝", "藍", "青"],
-  },
-  {
-    key: "green",
-    label: "绿色",
-    aliases: ["绿色", "綠色", "绿", "綠", "緑"],
-  },
-  {
-    key: "purple",
-    label: "紫色",
-    aliases: ["紫色", "紫"],
-  },
-] as const;
-
-function parseEnergyPart(
-  value: string,
-): ParsedEnergyDot[] {
-  const dots: ParsedEnergyDot[] = [];
-
-  for (const config of energyColorConfig) {
-    const aliasPattern =
-      config.aliases
-        .map((alias) =>
-          alias.replace(
-            /[.*+?^${}()|[\]\\]/g,
-            "\\$&",
-          ),
-        )
-        .join("|");
-
-    const pattern = new RegExp(
-      `(?:${aliasPattern})\\s*(?:[×xX＊*]\\s*)?(\\d+)?`,
-      "g",
-    );
-
-    for (const match of value.matchAll(pattern)) {
-      const count = Math.min(
-        Math.max(
-          Number.parseInt(
-            match[1] ?? "1",
-            10,
-          ) || 1,
-          1,
-        ),
-        10,
-      );
-
-      for (
-        let index = 0;
-        index < count;
-        index += 1
-      ) {
-        dots.push({
-          colorKey: config.key,
-          colorLabel: config.label,
-        });
-      }
-    }
-  }
-
-  return dots;
-}
-
 function parseGeneratedEnergy(
   value: unknown,
-): ParsedGeneratedEnergy | null {
-  const raw = String(value ?? "").trim();
+) {
+  const raw = String(value ?? "")
+    .trim()
+    .replace(/\s+/g, "");
 
   if (
     !raw ||
@@ -322,29 +232,62 @@ function parseGeneratedEnergy(
     return null;
   }
 
-  const bonusMatch = raw.match(
-    /（\s*效果\s*[+＋]\s*([\s\S]*?)）/,
+  const countMatch =
+    raw.match(/\d+/);
+
+  const count = Math.min(
+    Math.max(
+      countMatch
+        ? Number(countMatch[0])
+        : 1,
+      1,
+    ),
+    10,
   );
 
-  const baseText = bonusMatch
-    ? raw.slice(0, bonusMatch.index).trim()
-    : raw;
+  const colorKey =
+    raw.includes("黄色") ||
+    raw.includes("黃色") ||
+    raw.includes("黄") ||
+    raw.includes("黃")
+      ? "yellow"
+      : raw.includes("红色") ||
+          raw.includes("紅色") ||
+          raw.includes("红") ||
+          raw.includes("紅")
+        ? "red"
+        : raw.includes("蓝色") ||
+            raw.includes("藍色") ||
+            raw.includes("蓝") ||
+            raw.includes("藍")
+          ? "blue"
+          : raw.includes("绿色") ||
+              raw.includes("綠色") ||
+              raw.includes("绿") ||
+              raw.includes("綠")
+            ? "green"
+            : raw.includes("紫色") ||
+                raw.includes("紫")
+              ? "purple"
+              : "neutral";
 
-  const base = parseEnergyPart(baseText);
-  const bonus = parseEnergyPart(
-    bonusMatch?.[1] ?? "",
-  );
-
-  if (
-    base.length === 0 &&
-    bonus.length === 0
-  ) {
-    return null;
-  }
+  const colorLabel: Record<
+    string,
+    string
+  > = {
+    yellow: "黄色",
+    red: "红色",
+    blue: "蓝色",
+    green: "绿色",
+    purple: "紫色",
+    neutral: "无色",
+  };
 
   return {
-    base,
-    bonus,
+    count,
+    colorKey,
+    colorLabel:
+      colorLabel[colorKey],
   };
 }
 
@@ -365,7 +308,7 @@ function GeneratedEnergyDots({
   }
 
   const dotClassName: Record<
-    ParsedEnergyDot["colorKey"],
+    string,
     string
   > = {
     yellow:
@@ -382,79 +325,25 @@ function GeneratedEnergyDots({
       "border-zinc-200 bg-zinc-500 shadow-[0_0_10px_rgba(161,161,170,0.45)]",
   };
 
-  function renderDots(
-    dots: ParsedEnergyDot[],
-    prefix: string,
-  ) {
-    return dots.map((dot, index) => (
-      <span
-        key={`${prefix}-${dot.colorKey}-${index}`}
-        aria-hidden="true"
-        className={`relative inline-flex h-5 w-5 shrink-0 rounded-full border-2 ${dotClassName[dot.colorKey]}`}
-        title={dot.colorLabel}
-      >
-        <span className="absolute inset-[3px] rounded-full border border-black/20 bg-white/10" />
-      </span>
-    ));
-  }
-
-  const baseLabel = energy.base
-    .map((dot) => dot.colorLabel)
-    .join("、");
-
-  const bonusLabel = energy.bonus
-    .map((dot) => dot.colorLabel)
-    .join("、");
-
   return (
     <div
       className="flex min-h-7 flex-wrap items-center justify-center gap-1.5"
-      aria-label={[
-        baseLabel
-          ? `基础产生能量：${baseLabel}`
-          : "",
-        bonusLabel
-          ? `效果额外产生：${bonusLabel}`
-          : "",
-      ]
-        .filter(Boolean)
-        .join("；")}
+      aria-label={`${energy.colorLabel}能量 ${energy.count}`}
+      title={`${energy.colorLabel} × ${energy.count}`}
     >
-      {renderDots(
-        energy.base,
-        "base",
-      )}
-
-      {energy.bonus.length > 0 ? (
+      {Array.from({
+        length: energy.count,
+      }).map((_, index) => (
         <span
-          className="ml-0.5 inline-flex items-center gap-1"
-          title={`效果额外产生：${bonusLabel}`}
+          key={index}
+          aria-hidden="true"
+          className={`relative inline-flex h-5 w-5 shrink-0 rounded-full border-2 ${dotClassName[energy.colorKey]}`}
         >
-          <span
-            className="text-lg font-black leading-none text-white"
-            aria-hidden="true"
-          >
-            ＋
-          </span>
-
-          {renderDots(
-            energy.bonus,
-            "bonus",
-          )}
+          <span className="absolute inset-[3px] rounded-full border border-black/20 bg-white/10" />
         </span>
-      ) : null}
+      ))}
     </div>
   );
-}
-
-
-
-function isActionPointCard(
-  _card: Card,
-) {
-  // CardZero 线上组牌统一使用 50 张主卡组，
-  // 不再建立独立 AP 卡组。
-  return false;
 }
 
 function CardArtwork({
@@ -510,6 +399,7 @@ function CardArtwork({
 
 export default function CardCatalog({
   cards,
+  initialSeries = "全部",
 }: CardCatalogProps) {
   // CARDZERO_DECK_INTEGRATION_START
   const {
@@ -531,7 +421,13 @@ export default function CardCatalog({
   const [
     seriesFilter,
     setSeriesFilter,
-  ] = useState("全部");
+  ] = useState(initialSeries);
+
+  useEffect(() => {
+    setSeriesFilter(
+      initialSeries || "全部",
+    );
+  }, [initialSeries]);
 
   const [
     colorFilter,
@@ -1667,12 +1563,7 @@ export default function CardCatalog({
                   <div className="flex flex-col gap-4 sm:flex-row sm:items-center sm:justify-between">
                     <div>
                       <p className="text-xs font-black tracking-[0.18em] text-red-500">
-                        加入
-                        {isActionPointCard(
-                          selectedCard,
-                        )
-                          ? " AP 卡组"
-                          : "主卡组"}
+                        加入主卡组
                       </p>
 
                       <p className="mt-1 text-sm text-zinc-500">
@@ -1866,8 +1757,7 @@ export default function CardCatalog({
             </p>
 
             <p className="mt-1 truncate text-[10px] text-zinc-500">
-              {deck.series} · 卡组{" "}
-              {totalCards}/50
+              {deck.series} · {totalCards}/50
             </p>
           </div>
 
