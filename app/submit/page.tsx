@@ -463,6 +463,9 @@ export default async function SubmitPage() {
           deckOptionsBySeries={
             deckOptionsBySeries
           }
+          cardsBySeries={
+            cardsBySeries
+          }
         />
       </section>
     </main>

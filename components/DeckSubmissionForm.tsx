@@ -1,11 +1,13 @@
 "use client";
 
+import Image from "next/image";
 import {
   useEffect,
   useMemo,
   useState,
 } from "react";
 
+import type { Card } from "../data/card-series-generated";
 import { useAuth } from "./AuthProvider";
 
 type DeckOptionMap = Record<
@@ -16,6 +18,10 @@ type DeckOptionMap = Record<
 type Props = {
   seriesOptions: string[];
   deckOptionsBySeries: DeckOptionMap;
+  cardsBySeries: Record<
+    string,
+    Card[]
+  >;
 };
 
 type SubmitState =
@@ -50,9 +56,147 @@ function normalize(value: string) {
     );
 }
 
+const MUSHOKU_SERIES =
+  "无职转生";
+
+const mushokuFeaturedDecks = [
+  "洛琪希",
+  "鲁迪乌斯",
+  "艾莉丝",
+  "希露菲",
+  "保罗",
+];
+
+function normalizeImagePath(
+  imagePath: string,
+) {
+  let value = String(
+    imagePath ?? "",
+  )
+    .trim()
+    .replace(/\\/g, "/");
+
+  if (!value) {
+    return "";
+  }
+
+  if (
+    value.startsWith("http://") ||
+    value.startsWith("https://")
+  ) {
+    return value;
+  }
+
+  if (
+    value.startsWith("public/")
+  ) {
+    value = value.slice(
+      "public".length,
+    );
+  }
+
+  if (!value.startsWith("/")) {
+    value = `/${value}`;
+  }
+
+  return value;
+}
+
+function getRepresentativeCard(
+  cards: Card[],
+  deckName: string,
+) {
+  const normalizedDeckName =
+    normalize(deckName);
+
+  const candidates = cards.filter(
+    (card) => {
+      const names = [
+        card.nameZh,
+        card.name,
+      ]
+        .map(normalize)
+        .filter(Boolean);
+
+      return names.some(
+        (name) =>
+          name ===
+            normalizedDeckName ||
+          name.includes(
+            normalizedDeckName,
+          ) ||
+          normalizedDeckName.includes(
+            name,
+          ),
+      );
+    },
+  );
+
+  const rarityRank: Record<
+    string,
+    number
+  > = {
+    SR: 7,
+    R: 6,
+    U: 5,
+    C: 4,
+    AP: 3,
+    L: 2,
+  };
+
+  return [...candidates].sort(
+    (a, b) =>
+      (rarityRank[b.rarity] ?? 0) -
+        (rarityRank[a.rarity] ?? 0) ||
+      String(a.number).localeCompare(
+        String(b.number),
+        undefined,
+        {
+          numeric: true,
+        },
+      ),
+  )[0];
+}
+
+function buildMushokuImageOptions(
+  cards: Card[],
+) {
+  return mushokuFeaturedDecks
+    .map((deckName) => {
+      const card =
+        getRepresentativeCard(
+          cards,
+          deckName,
+        );
+
+      if (!card) {
+        return null;
+      }
+
+      return {
+        deckName,
+        card,
+        image:
+          normalizeImagePath(
+            card.image,
+          ),
+      };
+    })
+    .filter(
+      (
+        value,
+      ): value is {
+        deckName: string;
+        card: Card;
+        image: string;
+      } => Boolean(value),
+    );
+}
+
 export default function DeckSubmissionForm({
   seriesOptions,
   deckOptionsBySeries,
+  cardsBySeries,
 }: Props) {
   const {
     user,
@@ -177,6 +321,21 @@ export default function DeckSubmissionForm({
       resolvedSeries,
       deckOptionsBySeries,
     ]);
+
+  const mushokuImageOptions =
+    useMemo(
+      () =>
+        buildMushokuImageOptions(
+          cardsBySeries[
+            MUSHOKU_SERIES
+          ] ?? [],
+        ),
+      [cardsBySeries],
+    );
+
+  const useMushokuImagePicker =
+    resolvedSeries ===
+    MUSHOKU_SERIES;
 
   const filteredDecks = useMemo(
     () => {
@@ -521,91 +680,208 @@ export default function DeckSubmissionForm({
               <input
                 type="search"
                 value={deckSearch}
-                disabled={!resolvedSeries}
+                disabled={
+                  !resolvedSeries ||
+                  useMushokuImagePicker
+                }
                 onChange={(event) =>
                   setDeckSearch(
                     event.target.value,
                   )
                 }
                 placeholder={
-                  resolvedSeries
-                    ? "输入牌组名称"
-                    : "请先选择作品系列"
+                  useMushokuImagePicker
+                    ? "无职转生使用卡图选择"
+                    : resolvedSeries
+                      ? "输入牌组名称"
+                      : "请先选择作品系列"
                 }
                 className={`${inputClass} disabled:cursor-not-allowed disabled:opacity-45`}
               />
             </label>
 
-            <label className="block space-y-2">
-              <span className="text-sm font-bold text-zinc-200">
+            <div className="space-y-3">
+              <span className="block text-sm font-bold text-zinc-200">
                 2. 对应牌组 *
               </span>
 
-              <select
-                required
-                value={selectedDeck}
-                disabled={!resolvedSeries}
-                onChange={(event) => {
-                  setSelectedDeck(
-                    event.target.value,
-                  );
+              {useMushokuImagePicker ? (
+                <>
+                  <div className="grid grid-cols-2 gap-3 sm:grid-cols-3">
+                    {mushokuImageOptions.map(
+                      ({
+                        deckName,
+                        card,
+                        image,
+                      }) => {
+                        const active =
+                          selectedDeck ===
+                          deckName;
 
-                  if (
-                    event.target.value !==
-                    CUSTOM_DECK_VALUE
-                  ) {
-                    setCustomDeckName(
-                      "",
-                    );
-                  }
-                }}
-                className={`${inputClass} disabled:cursor-not-allowed disabled:opacity-45`}
-              >
-                <option
-                  value=""
-                  disabled
-                >
-                  {resolvedSeries
-                    ? "请选择对应牌组"
-                    : "请先选择作品系列"}
-                </option>
+                        return (
+                          <button
+                            key={deckName}
+                            type="button"
+                            onClick={() => {
+                              setSelectedDeck(
+                                deckName,
+                              );
+                              setCustomDeckName(
+                                "",
+                              );
+                            }}
+                            className={`group overflow-hidden rounded-2xl border text-left transition ${
+                              active
+                                ? "border-red-500 bg-red-950/25 ring-2 ring-red-500/30"
+                                : "border-white/10 bg-black hover:border-red-700"
+                            }`}
+                          >
+                            <div className="relative aspect-[5/7] overflow-hidden bg-zinc-950">
+                              {image ? (
+                                <Image
+                                  src={image}
+                                  alt={
+                                    card.nameZh ||
+                                    card.name
+                                  }
+                                  fill
+                                  sizes="(max-width: 640px) 45vw, 180px"
+                                  className="object-contain transition duration-300 group-hover:scale-[1.025]"
+                                />
+                              ) : (
+                                <div className="grid h-full place-items-center text-xs text-zinc-600">
+                                  暂无卡图
+                                </div>
+                              )}
 
-                {filteredDecks.map(
-                  (deckName) => (
-                    <option
-                      key={deckName}
-                      value={deckName}
+                              {active ? (
+                                <span className="absolute right-2 top-2 grid h-7 w-7 place-items-center rounded-full bg-red-600 text-sm font-black text-white shadow-lg">
+                                  ✓
+                                </span>
+                              ) : null}
+                            </div>
+
+                            <div className="px-3 py-3">
+                              <p className="truncate text-sm font-black text-white">
+                                {deckName}
+                              </p>
+
+                              <p className="mt-1 truncate text-[10px] text-zinc-600">
+                                {card.number}
+                              </p>
+                            </div>
+                          </button>
+                        );
+                      },
+                    )}
+
+                    <button
+                      type="button"
+                      onClick={() =>
+                        setSelectedDeck(
+                          CUSTOM_DECK_VALUE,
+                        )
+                      }
+                      className={`flex min-h-[180px] flex-col items-center justify-center rounded-2xl border border-dashed px-4 text-center transition ${
+                        usingCustomDeck
+                          ? "border-red-500 bg-red-950/25 text-white"
+                          : "border-white/15 bg-black text-zinc-500 hover:border-red-700 hover:text-white"
+                      }`}
                     >
-                      {deckName}
+                      <span className="text-3xl font-light">
+                        ＋
+                      </span>
+
+                      <span className="mt-3 text-sm font-black">
+                        自定义牌组
+                      </span>
+                    </button>
+                  </div>
+
+                  <input
+                    type="hidden"
+                    required
+                    value={
+                      selectedDeck
+                    }
+                    readOnly
+                  />
+
+                  <p className="text-xs leading-5 text-zinc-600">
+                    这是无职转生系列的卡图选择示范。点击代表卡图即可选择牌组。
+                  </p>
+                </>
+              ) : (
+                <>
+                  <select
+                    required
+                    value={selectedDeck}
+                    disabled={!resolvedSeries}
+                    onChange={(event) => {
+                      setSelectedDeck(
+                        event.target.value,
+                      );
+
+                      if (
+                        event.target.value !==
+                        CUSTOM_DECK_VALUE
+                      ) {
+                        setCustomDeckName(
+                          "",
+                        );
+                      }
+                    }}
+                    className={`${inputClass} disabled:cursor-not-allowed disabled:opacity-45`}
+                  >
+                    <option
+                      value=""
+                      disabled
+                    >
+                      {resolvedSeries
+                        ? "请选择对应牌组"
+                        : "请先选择作品系列"}
                     </option>
-                  ),
-                )}
 
-                <option
-                  value={
-                    CUSTOM_DECK_VALUE
-                  }
-                >
-                  其他／新增牌组
-                </option>
-              </select>
-            </label>
+                    {filteredDecks.map(
+                      (deckName) => (
+                        <option
+                          key={deckName}
+                          value={deckName}
+                        >
+                          {deckName}
+                        </option>
+                      ),
+                    )}
 
-            {resolvedSeries &&
-            availableDecks.length ===
-              0 ? (
-              <p className="text-xs leading-5 text-zinc-600">
-                这个作品暂时没有现有牌组选项，请选择「其他／新增牌组」。
-              </p>
-            ) : null}
+                    <option
+                      value={
+                        CUSTOM_DECK_VALUE
+                      }
+                    >
+                      其他／新增牌组
+                    </option>
+                  </select>
 
-            {deckSearch &&
-            filteredDecks.length === 0 &&
-            availableDecks.length > 0 ? (
-              <p className="text-xs leading-5 text-amber-400">
-                没有找到相关牌组，可选择「其他／新增牌组」。
-              </p>
-            ) : null}
+                  {resolvedSeries &&
+                  availableDecks.length ===
+                    0 ? (
+                    <p className="text-xs leading-5 text-zinc-600">
+                      这个作品暂时没有现有牌组选项，请选择「其他／新增牌组」。
+                    </p>
+                  ) : null}
+
+                  {deckSearch &&
+                  filteredDecks.length ===
+                    0 &&
+                  availableDecks.length >
+                    0 ? (
+                    <p className="text-xs leading-5 text-amber-400">
+                      没有找到相关牌组，可选择「其他／新增牌组」。
+                    </p>
+                  ) : null}
+                </>
+              )}
+            </div>
 
             {usingCustomDeck ? (
               <label className="block space-y-2">
