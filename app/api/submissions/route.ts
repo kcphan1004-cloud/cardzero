@@ -21,12 +21,22 @@ function cleanText(
   return value.trim().slice(0, maxLength);
 }
 
-export async function POST(request: Request) {
-  let stage = "读取表单";
 
+function createSlug(deckName: string) {
+  const base = deckName
+    .normalize("NFKC")
+    .trim()
+    .toLowerCase()
+    .replace(/[^\p{L}\p{N}]+/gu, "-")
+    .replace(/^-+|-+$/g, "")
+    .slice(0, 60);
+
+  return `${base || "deck"}-${crypto.randomBytes(4).toString("hex")}`;
+}
+
+export async function POST(request: Request) {
   try {
     const formData = await request.formData();
-    stage = "验证投稿资料";
 
     if (cleanText(formData.get("website"), 200)) {
       return NextResponse.json(
@@ -62,6 +72,16 @@ export async function POST(request: Request) {
     const notes = cleanText(
       formData.get("notes"),
       1500,
+    );
+
+    const color = cleanText(
+      formData.get("color"),
+      20,
+    );
+
+    const deckType = cleanText(
+      formData.get("deckType"),
+      50,
     );
     const consent = cleanText(
       formData.get("consent"),
@@ -117,7 +137,6 @@ export async function POST(request: Request) {
       );
     }
 
-    stage = "建立 Supabase 管理连接";
     const supabase = getSupabaseAdmin();
     const dateFolder = new Date()
       .toISOString()
@@ -129,7 +148,6 @@ export async function POST(request: Request) {
       await image.arrayBuffer(),
     );
 
-    stage = `上传图片到 Storage Bucket：${BUCKET_NAME}`;
     const uploadResult = await supabase.storage
       .from(BUCKET_NAME)
       .upload(objectPath, imageBuffer, {
@@ -142,28 +160,33 @@ export async function POST(request: Request) {
       throw uploadResult.error;
     }
 
-    stage = "取得图片公开网址";
     const imageUrl = supabase.storage
       .from(BUCKET_NAME)
       .getPublicUrl(objectPath).data.publicUrl;
 
     const now = new Date().toISOString();
+    const slug = createSlug(deckName);
 
-    stage = "写入 deck_submissions 数据表";
     const insertResult = await supabase
       .from("deck_submissions")
       .insert({
+        slug,
         deck_name: deckName,
         series,
+        color: color || null,
+        deck_type: deckType || null,
+        author_name: submitterName,
         submitter_name: submitterName,
         contact: contact || null,
         event_name: eventName || null,
         result: result || null,
+        description: notes || null,
         notes: notes || null,
         image_path: objectPath,
         image_url: imageUrl,
         status: "approved",
         reviewed_at: now,
+        published_at: now,
       })
       .select("id")
       .single();
@@ -178,79 +201,17 @@ export async function POST(request: Request) {
     return NextResponse.json({
       ok: true,
       id: insertResult.data.id,
+      slug,
       message:
         "投稿成功！牌组已经公开显示在牌组分享区。",
     });
   } catch (error) {
-    const rawMessage =
-      error instanceof Error
-        ? error.message
-        : typeof error === "object" &&
-            error !== null &&
-            "message" in error
-          ? String(
-              (error as {
-                message?: unknown;
-              }).message ?? error,
-            )
-          : String(error);
-
-    const errorCode =
-      typeof error === "object" &&
-      error !== null &&
-      "code" in error
-        ? String(
-            (error as {
-              code?: unknown;
-            }).code ?? "",
-          )
-        : "";
-
-    const details =
-      typeof error === "object" &&
-      error !== null &&
-      "details" in error
-        ? String(
-            (error as {
-              details?: unknown;
-            }).details ?? "",
-          )
-        : "";
-
-    const hint =
-      typeof error === "object" &&
-      error !== null &&
-      "hint" in error
-        ? String(
-            (error as {
-              hint?: unknown;
-            }).hint ?? "",
-          )
-        : "";
-
-    console.error(
-      "牌组投稿失败：",
-      {
-        stage,
-        rawMessage,
-        errorCode,
-        details,
-        hint,
-        error,
-      },
-    );
+    console.error("牌组投稿失败：", error);
 
     return NextResponse.json(
       {
         ok: false,
-        message: `投稿失败（${stage}）：${rawMessage}`,
-        stage,
-        code:
-          errorCode || undefined,
-        details:
-          details || undefined,
-        hint:
-          hint || undefined,
+        message: "投稿暂时失败，请稍后重试。",
       },
       { status: 500 },
     );
