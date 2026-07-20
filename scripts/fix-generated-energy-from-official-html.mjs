@@ -12,10 +12,19 @@ const STAGE2_DIR = path.join(
   "data",
   "stage2",
 );
-const REPORT_PATH = path.join(
+const DEFAULT_REPORT_PATH = path.join(
   STAGE2_DIR,
   "generated-energy-audit.json",
 );
+
+function getReportPath() {
+  return NORMALIZED_SERIES_FILTER
+    ? path.join(
+        STAGE2_DIR,
+        `generated-energy-audit-${NORMALIZED_SERIES_FILTER}.json`,
+      )
+    : DEFAULT_REPORT_PATH;
+}
 const FETCH_CACHE_DIR = path.join(
   STAGE2_DIR,
   "generated-energy-html",
@@ -26,6 +35,42 @@ const APPLY = args.includes("--apply");
 const FETCH_MISSING = args.includes(
   "--fetch-missing",
 );
+
+const seriesArg = args.find((arg) =>
+  arg.startsWith("--series="),
+);
+
+const SERIES_FILTER = String(
+  seriesArg?.slice("--series=".length) ??
+    "",
+)
+  .trim()
+  .toLowerCase();
+
+const seriesAliases = new Map([
+  ["无职转生", "mushoku-tensei"],
+  ["無職転生", "mushoku-tensei"],
+  [
+    "無職転生 ～異世界行ったら本気だす～",
+    "mushoku-tensei",
+  ],
+  ["mushoku", "mushoku-tensei"],
+  ["mushoku-tensei", "mushoku-tensei"],
+]);
+
+function normalizeSeriesFilter(value) {
+  const normalized = String(value ?? "")
+    .trim()
+    .toLowerCase();
+
+  return (
+    seriesAliases.get(normalized) ??
+    normalized
+  );
+}
+
+const NORMALIZED_SERIES_FILTER =
+  normalizeSeriesFilter(SERIES_FILTER);
 
 const delayArg = args.find((arg) =>
   arg.startsWith("--delay="),
@@ -150,107 +195,304 @@ function findColorKey(value) {
   return "";
 }
 
-function addEnergyToken(groups, colorKey, amount = 1) {
-  if (!colorKey || amount <= 0) {
-    return;
+function collectEnergyGroupsFromHtml(html) {
+  const imageTags =
+    String(html ?? "").match(
+      /<img\b[^>]*ico_resource_energy_[^>]*>/gi,
+    ) ?? [];
+
+  const groups = new Map();
+
+  for (const imageTag of imageTags) {
+    const src = readAttribute(imageTag, "src");
+    const alt = readAttribute(imageTag, "alt");
+    const colorKey = findColorKey(`${src} ${alt}`);
+
+    if (!colorKey) {
+      continue;
+    }
+
+    // 官方文件名末尾数字是图标版本，不是能量数量。
+    // 每一个 resource energy <img> 才代表 1 点能量。
+    groups.set(
+      colorKey,
+      (groups.get(colorKey) ?? 0) + 1,
+    );
   }
 
-  groups.set(
-    colorKey,
-    (groups.get(colorKey) ?? 0) + amount,
-  );
+  return {
+    groups,
+    imageCount: imageTags.length,
+  };
+}
+
+function energyTokenFromImageTag(imageTag) {
+  const src = readAttribute(imageTag, "src");
+  const alt = readAttribute(imageTag, "alt");
+
+  if (
+    !/ico_resource_energy_/i.test(src)
+  ) {
+    return "";
+  }
+
+  const colorKey =
+    findColorKey(`${src} ${alt}`);
+
+  return colorKey
+    ? ` [[ENERGY:${colorKey}]] `
+    : " [[ENERGY:unknown]] ";
+}
+
+function effectHtmlToTokenText(html) {
+  return decodeHtml(
+    String(html ?? "")
+      /*
+       * 先将能量图片替换成稳定 Token。
+       * 这样即使“＋”本身是图片，或文字被 HTML 标签拆开，
+       * 仍然可以根据“発生エナジー”后出现的 Token 判断加成。
+       */
+      .replace(
+        /<img\b[^>]*>/gi,
+        (imageTag) =>
+          energyTokenFromImageTag(imageTag),
+      )
+      .replace(
+        /<br\s*\/?>/gi,
+        "\n",
+      )
+      .replace(
+        /<\/(?:p|li|div|dd|span)>/gi,
+        " ",
+      )
+      .replace(
+        /<[^>]+>/g,
+        "",
+      ),
+  )
+    .replace(/\u3000/g, " ")
+    .replace(/[ \t]+/g, " ")
+    .replace(/\r/g, "")
+    .trim();
+}
+
+function mergeEnergyGroups(
+  target,
+  source,
+) {
+  for (const [colorKey, count] of source) {
+    target.set(
+      colorKey,
+      (target.get(colorKey) ?? 0) +
+        count,
+    );
+  }
 }
 
 function parseEnergyTokens(value) {
-  const raw = decodeHtml(String(value ?? "")).trim();
   const groups = new Map();
 
-  if (!raw) {
-    return groups;
-  }
+  for (
+    const match of String(value ?? "").matchAll(
+      /\[\[ENERGY:([a-z]+)\]\]/gi,
+    )
+  ) {
+    const colorKey =
+      String(match[1] ?? "").toLowerCase();
 
-  // 官方 alt 常见格式：黄黄、赤赤、青、緑、紫，或 YellowYellow。
-  const singleCharacterMap = new Map([
-    ["黄", "yellow"],
-    ["黃", "yellow"],
-    ["赤", "red"],
-    ["红", "red"],
-    ["紅", "red"],
-    ["青", "blue"],
-    ["蓝", "blue"],
-    ["藍", "blue"],
-    ["緑", "green"],
-    ["绿", "green"],
-    ["綠", "green"],
-    ["紫", "purple"],
-  ]);
-
-  for (const character of raw) {
-    const colorKey = singleCharacterMap.get(character);
-
-    if (colorKey) {
-      addEnergyToken(groups, colorKey);
+    if (
+      !colorOrder.has(colorKey)
+    ) {
+      continue;
     }
-  }
 
-  // 已经从逐字颜色标记取得结果时，不再重复计算完整中文词。
-  if (groups.size > 0) {
-    return groups;
-  }
-
-  const normalized = raw.toLowerCase();
-  const englishPatterns = [
-    ["yellow", /yellow/g],
-    ["red", /red/g],
-    ["blue", /blue/g],
-    ["green", /green/g],
-    ["purple", /purple/g],
-  ];
-
-  for (const [colorKey, pattern] of englishPatterns) {
-    const matches = normalized.match(pattern) ?? [];
-
-    if (matches.length > 0) {
-      addEnergyToken(groups, colorKey, matches.length);
-    }
+    groups.set(
+      colorKey,
+      (groups.get(colorKey) ?? 0) + 1,
+    );
   }
 
   return groups;
 }
 
-function mergeEnergyGroups(target, source) {
-  for (const [colorKey, count] of source.entries()) {
-    addEnergyToken(target, colorKey, count);
+function extractGeneratedEnergyBonus(html) {
+  const effectBlocks = [
+    ...String(html ?? "").matchAll(
+      /<dl\b[^>]*class=["'][^"']*\beffectData\b[^"']*["'][^>]*>([\s\S]*?)<\/dl>/gi,
+    ),
+  ].map((match) => match[1]);
+
+  const groups = new Map();
+  const evidence = [];
+  const warnings = [];
+
+  for (const effectBlock of effectBlocks) {
+    const tokenText =
+      effectHtmlToTokenText(effectBlock);
+
+    /*
+     * 官方效果常见形式：
+     *   このキャラの発生エナジー＋[绿色图标]
+     *
+     * “＋”可能是文字、全角符号或图片，所以这里不依赖加号；
+     * 只检查“発生エナジー”之后、句号之前是否出现能量 Token。
+     */
+    const markerPattern =
+      /発生\s*エナジー/gi;
+
+    for (
+      const marker of tokenText.matchAll(
+        markerPattern,
+      )
+    ) {
+      const markerStart =
+        marker.index ?? 0;
+
+      const afterMarker =
+        tokenText.slice(
+          markerStart +
+            marker[0].length,
+          markerStart +
+            marker[0].length +
+            240,
+        );
+
+      const sentenceEndCandidates = [
+        afterMarker.indexOf("。"),
+        afterMarker.indexOf("\n"),
+        afterMarker.indexOf("；"),
+        afterMarker.indexOf(";"),
+      ].filter((value) => value >= 0);
+
+      const sentence =
+        sentenceEndCandidates.length > 0
+          ? afterMarker.slice(
+              0,
+              Math.min(
+                ...sentenceEndCandidates,
+              ),
+            )
+          : afterMarker;
+
+      const tokenGroups =
+        parseEnergyTokens(sentence);
+
+      if (tokenGroups.size === 0) {
+        continue;
+      }
+
+      /*
+       * 排除“发生产生能量减少”这类负向效果。
+       * 负号可能在 Token 前后出现。
+       */
+      const plainSentence = sentence
+        .replace(
+          /\[\[ENERGY:[a-z]+\]\]/gi,
+          " 能量图标 ",
+        )
+        .replace(/\s+/g, " ")
+        .trim();
+
+      const negative =
+        /(?:-|−|－)\s*(?:能量图标|\d)|(?:発生\s*エナジー)[^。]{0,80}(?:減|减|マイナス|-|−|－)/i.test(
+          `${marker[0]}${plainSentence}`,
+        );
+
+      if (negative) {
+        continue;
+      }
+
+      mergeEnergyGroups(
+        groups,
+        tokenGroups,
+      );
+
+      evidence.push({
+        text: `${marker[0]}${plainSentence}`.slice(
+          0,
+          180,
+        ),
+        groups:
+          formatGeneratedEnergy(
+            tokenGroups,
+          ),
+      });
+    }
   }
-}
 
-function parseEnergyImage(imageTag) {
-  const src = readAttribute(imageTag, "src");
-  const alt = readAttribute(imageTag, "alt");
+  /*
+   * 同一效果区可能因为重复 DOM / 移动版 HTML 而出现相同句子。
+   * 以“文字＋能量组合”去重，避免重复加算。
+   */
+  const uniqueEvidence = [];
+  const seenEvidence = new Set();
+  const dedupedGroups = new Map();
 
-  // alt 是官方最可靠的数量来源，例如 alt="黄黄" 代表两点黄色能量。
-  const fromAlt = parseEnergyTokens(alt);
+  for (const item of evidence) {
+    const key =
+      `${item.text}|${item.groups}`;
 
-  if (fromAlt.size > 0) {
-    return {
-      groups: fromAlt,
-      src,
-      alt,
-      source: "alt",
-    };
+    if (seenEvidence.has(key)) {
+      continue;
+    }
+
+    seenEvidence.add(key);
+    uniqueEvidence.push(item);
+
+    const parsedGroups =
+      new Map();
+
+    for (
+      const part of item.groups.split("＋")
+    ) {
+      const match = part.match(
+        /^(黄色|红色|蓝色|绿色|紫色)×(\d+)$/,
+      );
+
+      if (!match) {
+        continue;
+      }
+
+      const definition =
+        colorDefinitions.find(
+          (entry) =>
+            entry.zh === match[1],
+        );
+
+      if (!definition) {
+        continue;
+      }
+
+      parsedGroups.set(
+        definition.key,
+        Number.parseInt(
+          match[2],
+          10,
+        ),
+      );
+    }
+
+    mergeEnergyGroups(
+      dedupedGroups,
+      parsedGroups,
+    );
   }
 
-  // 兼容 alt 缺失的页面。只读取文件名中的颜色文字，忽略结尾数字；
-  // yellow3 的 3 是图片资产编号，不是产生能量数量。
-  const fileName = path.basename(src).replace(/\.[^.]+$/, "");
-  const withoutAssetNumber = fileName.replace(/\d+$/, "");
-  const fromSrc = parseEnergyTokens(withoutAssetNumber);
+  if (
+    evidence.length > 0 &&
+    uniqueEvidence.length === 0
+  ) {
+    warnings.push(
+      "找到效果产生能量记录，但去重后为空。",
+    );
+  }
 
   return {
-    groups: fromSrc,
-    src,
-    alt,
-    source: fromSrc.size > 0 ? "src-fallback" : "unparsed",
+    groups: dedupedGroups,
+    matched:
+      uniqueEvidence.length > 0,
+    evidence: uniqueEvidence,
+    warnings,
   };
 }
 
@@ -300,69 +542,59 @@ function parseOfficialHtml(html, sourcePath) {
       number,
       generatedEnergy: "-",
       sourcePath,
-      canApply: false,
-      imageAudit: [],
       warning:
-        "找不到 generatedEnergyData 区块，已跳过自动写入。",
+        "找不到 generatedEnergyData 区块。",
     };
   }
 
   const block = blockMatch[1];
-  const imageTags =
-    block.match(/<img\b[^>]*>/gi) ?? [];
+  const base =
+    collectEnergyGroupsFromHtml(block);
+  const bonus =
+    extractGeneratedEnergyBonus(html);
 
-  const energyImageTags = imageTags.filter((imageTag) => {
-    const src = readAttribute(imageTag, "src").toLowerCase();
-    const alt = readAttribute(imageTag, "alt");
+  const baseText =
+    formatGeneratedEnergy(base.groups);
+  const bonusText =
+    formatGeneratedEnergy(bonus.groups);
 
-    return (
-      src.includes("ico_resource_energy_") ||
-      parseEnergyTokens(alt).size > 0
-    );
-  });
-
-  const groups = new Map();
-  const imageAudit = [];
-
-  for (const imageTag of energyImageTags) {
-    const parsedImage = parseEnergyImage(imageTag);
-    mergeEnergyGroups(groups, parsedImage.groups);
-    imageAudit.push({
-      src: parsedImage.src,
-      alt: parsedImage.alt,
-      parsedBy: parsedImage.source,
-      parsedEnergy: formatGeneratedEnergy(parsedImage.groups),
-    });
-  }
-
-  const totalEnergy = [...groups.values()].reduce(
-    (sum, count) => sum + count,
-    0,
-  );
+  const generatedEnergy =
+    bonusText !== "-"
+      ? `${baseText}（效果＋${bonusText}）`
+      : baseText;
 
   const warnings = [];
 
-  if (energyImageTags.length > 0 && groups.size === 0) {
-    warnings.push("找到产生能量图片，但无法识别颜色或数量。");
-  }
-
-  if (totalEnergy > 3) {
+  if (
+    base.imageCount > 0 &&
+    base.groups.size === 0
+  ) {
     warnings.push(
-      `解析出 ${totalEnergy} 点产生能量，超过官方通常上限 3，已跳过自动写入。`,
+      "找到基础能量图片，但无法识别颜色。",
     );
   }
 
-  const canApply =
-    warnings.length === 0 &&
-    (energyImageTags.length === 0 || groups.size > 0);
+  if (
+    bonus.matched &&
+    bonus.groups.size === 0
+  ) {
+    warnings.push(
+      "找到产生能量加成文字，但无法识别加成颜色。",
+    );
+  }
 
   return {
     number,
-    generatedEnergy: formatGeneratedEnergy(groups),
+    generatedEnergy,
     sourcePath,
-    canApply,
-    imageAudit,
-    warning: warnings.join(" "),
+    bonusEvidence:
+      bonus.evidence ?? [],
+    warning: [
+      ...warnings,
+      ...(bonus.warnings ?? []),
+    ]
+      .filter(Boolean)
+      .join(" "),
   };
 }
 
@@ -465,7 +697,7 @@ async function loadGeneratedFiles() {
     },
   );
 
-  return entries
+  const files = entries
     .filter(
       (entry) =>
         entry.isFile() &&
@@ -477,6 +709,49 @@ async function loadGeneratedFiles() {
     .map((entry) =>
       path.join(GENERATED_DIR, entry.name),
     );
+
+  if (!NORMALIZED_SERIES_FILTER) {
+    return files;
+  }
+
+  const directMatches = files.filter(
+    (filePath) =>
+      path
+        .basename(filePath, ".ts")
+        .toLowerCase() ===
+      NORMALIZED_SERIES_FILTER,
+  );
+
+  if (directMatches.length > 0) {
+    return directMatches;
+  }
+
+  const contentMatches = [];
+
+  for (const filePath of files) {
+    const text = await fs.readFile(
+      filePath,
+      "utf8",
+    );
+
+    if (
+      text.includes('"series": "无职转生"') ||
+      text.includes('"series": "無職転生"') ||
+      text.includes(
+        '"series": "無職転生 ～異世界行ったら本気だす～"',
+      )
+    ) {
+      contentMatches.push(filePath);
+    }
+  }
+
+  if (contentMatches.length === 0) {
+    throw new Error(
+      `找不到系列资料文件：${SERIES_FILTER}`,
+    );
+  }
+
+  return contentMatches;
 }
 
 function collectCardNumbers(text) {
@@ -520,7 +795,7 @@ async function fetchWithRetry(url, retries = 3) {
       const response = await fetch(url, {
         headers: {
           "User-Agent":
-            "CardZero generated-energy repair/2.0",
+            "CardZero generated-energy repair/4.1-series",
           Accept:
             "text/html,application/xhtml+xml",
           "Accept-Language":
@@ -673,7 +948,7 @@ function updateFileText(
       const official =
         officialMap.get(number);
 
-      if (!official || official.canApply === false) {
+      if (!official) {
         return fullMatch;
       }
 
@@ -692,6 +967,8 @@ function updateFileText(
         before: currentValue,
         after: nextValue,
         source: official.sourcePath,
+        bonusEvidence:
+          official.bonusEvidence ?? [],
       });
 
       return `${prefix}"${nextValue}"`;
@@ -736,12 +1013,18 @@ async function createBackup(files) {
 
 async function main() {
   console.log(
-    "CardZero 全系列产生能量校正工具 v2",
+    "CardZero 全系列产生能量校正工具",
   );
   console.log(
     APPLY
       ? "模式：正式写入"
       : "模式：只检查，不修改",
+  );
+
+  console.log(
+    NORMALIZED_SERIES_FILTER
+      ? `系列限制：${NORMALIZED_SERIES_FILTER}`
+      : "系列限制：全部系列",
   );
 
   const generatedFiles =
@@ -836,8 +1119,17 @@ async function main() {
   const report = {
     generatedAt: new Date().toISOString(),
     mode: APPLY ? "apply" : "audit",
+    seriesFilter:
+      NORMALIZED_SERIES_FILTER,
     generatedFiles:
       generatedFiles.length,
+    selectedFiles:
+      generatedFiles.map((filePath) =>
+        path.relative(
+          PROJECT_ROOT,
+          filePath,
+        ),
+      ),
     totalCardRecords,
     uniqueCardNumbers:
       allNumbers.size,
@@ -872,7 +1164,7 @@ async function main() {
   });
 
   await fs.writeFile(
-    REPORT_PATH,
+    getReportPath(),
     JSON.stringify(report, null, 2),
     "utf8",
   );
@@ -888,7 +1180,7 @@ async function main() {
     `缺少官方 HTML 的卡号：${missingNumbers.length}`,
   );
   console.log(
-    `报告：${path.relative(PROJECT_ROOT, REPORT_PATH)}`,
+    `报告：${path.relative(PROJECT_ROOT, getReportPath())}`,
   );
 
   if (APPLY) {

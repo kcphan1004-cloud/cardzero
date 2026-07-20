@@ -1,0 +1,4807 @@
+{
+  "generatedAt": "2026-07-19T07:56:39.755Z",
+  "mode": "apply",
+  "seriesFilter": "mushoku-tensei",
+  "generatedFiles": 1,
+  "selectedFiles": [
+    "data\\card-series-generated\\mushoku-tensei.ts"
+  ],
+  "totalCardRecords": 217,
+  "uniqueCardNumbers": 189,
+  "officialHtmlFilesScanned": 8208,
+  "officialCardNumbersParsed": 8047,
+  "matchedCardRecords": 120,
+  "changedCardRecords": 21,
+  "changedFiles": 1,
+  "missingOfficialCardNumbers": 97,
+  "missingNumbers": [
+    "CARD-0144",
+    "CARD-0145",
+    "UA54BT-MST-1-001-エリス",
+    "UA54BT-MST-1-002-エリス",
+    "UA54BT-MST-1-003-エリス",
+    "UA54BT-MST-1-004-エリス",
+    "UA54BT-MST-1-005-エリス",
+    "UA54BT-MST-1-006-エリス",
+    "UA54BT-MST-1-007-エリス",
+    "UA54BT-MST-1-008-エリス",
+    "UA54BT-MST-1-009-エリス",
+    "UA54BT-MST-1-010-キシリカ・キシリス",
+    "UA54BT-MST-1-011-ギレーヌ",
+    "UA54BT-MST-1-012-シルフィエット",
+    "UA54BT-MST-1-013-シルフィエット",
+    "UA54BT-MST-1-014-シルフィエット",
+    "UA54BT-MST-1-015-聖獣",
+    "UA54BT-MST-1-016-ゼニス",
+    "UA54BT-MST-1-017-ノルン＆アイシャ",
+    "UA54BT-MST-1-018-パウロ",
+    "UA54BT-MST-1-019-リーリャ",
+    "UA54BT-MST-1-020-ルイジェルド",
+    "UA54BT-MST-1-021-ルイジェルド",
+    "UA54BT-MST-1-022-ルーデウス",
+    "UA54BT-MST-1-023-ルーデウス",
+    "UA54BT-MST-1-024-ルーデウス",
+    "UA54BT-MST-1-025-ルーデウス",
+    "UA54BT-MST-1-026-ルーデウス",
+    "UA54BT-MST-1-027-ロキシー",
+    "UA54BT-MST-1-028-ロキシー",
+    "UA54BT-MST-1-029-ロキシー",
+    "UA54BT-MST-1-030-ロキシー",
+    "UA54BT-MST-1-031-ロキシー",
+    "UA54BT-MST-1-032-ロキシー",
+    "UA54BT-MST-1-033-デッドエンド",
+    "UA54BT-MST-1-034-エリスに魔術を教えてくださいニャン☆",
+    "UA54BT-MST-1-035-お前は戦士だ",
+    "UA54BT-MST-1-036-豪雷積層雲",
+    "UA54BT-MST-1-037-ご神体",
+    "UA54BT-MST-1-038-師匠からのおくりもの",
+    "UA54BT-MST-1-039-ルーデウスはすごいのよ！",
+    "UA54BT-MST-1-040-私がついていますから",
+    "UA54BT-MST-1-041-アイシャ",
+    "UA54BT-MST-1-042-エリナリーゼ",
+    "UA54BT-MST-1-043-ギース",
+    "UA54BT-MST-1-044-サラ",
+    "UA54BT-MST-1-045-ゼニス",
+    "UA54BT-MST-1-046-タルハンド",
+    "UA54BT-MST-1-047-パウロ",
+    "UA54BT-MST-1-048-パウロ",
+    "UA54BT-MST-1-049-ルーデウス",
+    "UA54BT-MST-1-050-ロキシー",
+    "UA54BT-MST-1-051-ロキシー",
+    "UA54BT-MST-1-052-ロキシー",
+    "UA54BT-MST-1-053-ロキシー",
+    "UA54BT-MST-1-054-ロキシー",
+    "UA54BT-MST-1-055-アリエル",
+    "UA54BT-MST-1-056-エリナリーゼ",
+    "UA54BT-MST-1-057-クリフ",
+    "UA54BT-MST-1-058-ザノバ＆ジュリエット",
+    "UA54BT-MST-1-059-シルフィエット",
+    "UA54BT-MST-1-060-シルフィエット",
+    "UA54BT-MST-1-061-ナナホシ",
+    "UA54BT-MST-1-062-ナナホシ",
+    "UA54BT-MST-1-063-ノルン",
+    "UA54BT-MST-1-064-バーディガーディ",
+    "UA54BT-MST-1-065-フィッツ",
+    "UA54BT-MST-1-066-フィッツ",
+    "UA54BT-MST-1-067-フィッツ",
+    "UA54BT-MST-1-068-フィッツ",
+    "UA54BT-MST-1-069-プルセナ",
+    "UA54BT-MST-1-070-リニアーナ",
+    "UA54BT-MST-1-071-ルーデウス",
+    "UA54BT-MST-1-072-ルーデウス",
+    "UA54BT-MST-1-073-ルーデウス",
+    "UA54BT-MST-1-074-転移の迷宮",
+    "UA54BT-MST-1-075-迷宮都市ラパン",
+    "UA54BT-MST-1-076-迷宮の守護者-マナタイトヒュドラ",
+    "UA54BT-MST-1-077-今までありがとう",
+    "UA54BT-MST-1-078-守護術師フィッツ",
+    "UA54BT-MST-1-079-ゼニス救出作戦",
+    "UA54BT-MST-1-080-そう、ボクはシルフィエット",
+    "UA54BT-MST-1-AP01-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP02-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP03-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP04-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP05-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP06-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP07-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP08-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP09-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP10-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP11-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UA54BT-MST-1-AP12-アクションポイントカード(無職転生-～異世界行ったら本気だす～)",
+    "UAPR-MST-1-030-ロキシー",
+    "UAPR-MST-1-055-アリエル",
+    "カードリスト"
+  ],
+  "conflicts": [],
+  "parseWarnings": [
+    {
+      "number": "EX01BT/HTR-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX01BT_HTR-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX01BT/HTR-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX01BT_HTR-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX01BT/HTR-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX01BT_HTR-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX01BT/HTR-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX01BT_HTR-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX02BT/CGH-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX02BT_CGH-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX02BT/CGH-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX02BT_CGH-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX02BT/CGH-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX02BT_CGH-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX02BT/CGH-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX02BT_CGH-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX02BT/CGH-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX02BT_CGH-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX03BT/IMS-2-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX03BT_IMS-2-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX04BT/JJK-3-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX04BT_JJK-3-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX04BT/JJK-3-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX04BT_JJK-3-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX04BT/JJK-3-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX04BT_JJK-3-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX04BT/JJK-3-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX04BT_JJK-3-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX04BT/JJK-3-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX04BT_JJK-3-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX05BT/KMY-3-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX05BT_KMY-3-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX05BT/KMY-3-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX05BT_KMY-3-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX05BT/KMY-3-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX05BT_KMY-3-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX05BT/KMY-3-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX05BT_KMY-3-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX06BT_MHA-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX06BT_MHA-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX06BT_MHA-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX06BT_MHA-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX06BT_MHA-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX06BT/MHA-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX06BT_MHA-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX07BT/BLC-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX07BT_BLC-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX07BT/BLC-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX07BT_BLC-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX07BT/BLC-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX07BT_BLC-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX07BT/BLC-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX07BT_BLC-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX07BT/BLC-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX07BT_BLC-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX08BT_SAO-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX08BT_SAO-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX08BT_SAO-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX08BT_SAO-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX08BT_SAO-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX08BT/SAO-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX08BT_SAO-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX09BT_TSK-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX09BT_TSK-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX09BT_TSK-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX09BT_TSK-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX09BT_TSK-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX09BT/TSK-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX09BT_TSK-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX10BT/AOT-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX10BT_AOT-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX10BT/AOT-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX10BT_AOT-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX10BT/AOT-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX10BT_AOT-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX10BT/AOT-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX10BT_AOT-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX10BT/AOT-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX10BT_AOT-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX10BT/AOT-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX10BT_AOT-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX11BT/ARK-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX11BT_ARK-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX11BT/ARK-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX11BT_ARK-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX11BT/ARK-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX11BT_ARK-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX11BT/ARK-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX11BT_ARK-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX11BT/ARK-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX11BT_ARK-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX11BT/ARK-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX11BT_ARK-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX12BT/KMR-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX12BT_KMR-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX12BT/KMR-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX12BT_KMR-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX12BT/KMR-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX12BT_KMR-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX12BT/KMR-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX12BT_KMR-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX12BT/KMR-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX12BT_KMR-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX12BT/KMR-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX12BT_KMR-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX13BT/GIM-2-AP13",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX13BT_GIM-2-AP13.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "EX14BT/MCR-2-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\EX14BT_MCR-2-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC01BT/IMS-3-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC01BT_IMS-3-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC02BT/NIK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC02BT_NIK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC02BT/NIK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC02BT_NIK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC02BT/NIK-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC02BT_NIK-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC02BT/NIK-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC02BT_NIK-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC02BT/NIK-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC02BT_NIK-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "PC02BT/NIK-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\PC02BT_NIK-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01BT/CGH-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01BT_CGH-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01BT/CGH-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01BT_CGH-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01BT/CGH-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01BT_CGH-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01BT/CGH-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01BT_CGH-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01BT/CGH-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01BT_CGH-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01BT/CGH-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01BT_CGH-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01NC/KMY-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01NC_KMY-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01PC/WBK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01PC_WBK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01PC/WBK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01PC_WBK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01PC/WBK-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01PC_WBK-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01ST/CGH-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01ST_CGH-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA01ST/CGH-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA01ST_CGH-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02BT/JJK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02BT_JJK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02BT/JJK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02BT_JJK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02BT/JJK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02BT_JJK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02BT/JJK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02BT_JJK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02BT/JJK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02BT_JJK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02BT/JJK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02BT_JJK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02NC/JJK-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02NC_JJK-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02ST/JJK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02ST_JJK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA02ST/JJK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA02ST_JJK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03BT/HTR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03BT_HTR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03BT/HTR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03BT_HTR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03BT/HTR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03BT_HTR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03BT/HTR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03BT_HTR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03BT/HTR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03BT_HTR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03BT/HTR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03BT_HTR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03NC/BLK-2-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03NC_BLK-2-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03ST/HTR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03ST_HTR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA03ST/HTR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA03ST_HTR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04BT/IMS-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04BT_IMS-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04BT/IMS-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04BT_IMS-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04BT/IMS-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04BT_IMS-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04BT/IMS-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04BT_IMS-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04BT/IMS-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04BT_IMS-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04BT/IMS-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04BT_IMS-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04NC/BLC-3-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04NC_BLC-3-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04ST/IMS-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04ST_IMS-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA04ST/IMS-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA04ST_IMS-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05BT/KMY-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05BT_KMY-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05BT/KMY-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05BT_KMY-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05BT/KMY-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05BT_KMY-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05BT/KMY-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05BT_KMY-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05BT/KMY-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05BT_KMY-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05BT/KMY-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05BT_KMY-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05ST/KMY-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05ST_KMY-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA05ST/KMY-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA05ST_KMY-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06BT/TOA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06BT_TOA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06BT/TOA-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06BT_TOA-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06BT/TOA-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06BT_TOA-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06BT/TOA-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06BT_TOA-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06BT/TOA-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06BT_TOA-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06BT/TOA-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06BT_TOA-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06ST/TOA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06ST_TOA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA06ST/TOA-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA06ST_TOA-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07BT/TSK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07BT_TSK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07BT/TSK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07BT_TSK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07BT/TSK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07BT_TSK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07BT/TSK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07BT_TSK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07BT/TSK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07BT_TSK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07BT/TSK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07BT_TSK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07ST/TSK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07ST_TSK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA07ST/TSK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA07ST_TSK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08BT/BLC-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08BT_BLC-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08BT/BLC-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08BT_BLC-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08BT/BLC-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08BT_BLC-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08BT/BLC-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08BT_BLC-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08BT/BLC-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08BT_BLC-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08BT/BLC-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08BT_BLC-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08ST/BLC-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08ST_BLC-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA08ST/BLC-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA08ST_BLC-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09BT/BTR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09BT_BTR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09BT/BTR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09BT_BTR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09BT/BTR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09BT_BTR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09BT/BTR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09BT_BTR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09BT/BTR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09BT_BTR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09BT/BTR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09BT_BTR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09ST/BTR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09ST_BTR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA09ST/BTR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA09ST_BTR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10BT/MHA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10BT_MHA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10BT/MHA-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10BT_MHA-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10BT/MHA-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10BT_MHA-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10BT/MHA-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10BT_MHA-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10BT/MHA-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10BT_MHA-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10BT/MHA-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10BT_MHA-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10ST/MHA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10ST_MHA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA10ST/MHA-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA10ST_MHA-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11BT/GNT-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11BT_GNT-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11BT/GNT-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11BT_GNT-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11BT/GNT-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11BT_GNT-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11BT/GNT-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11BT_GNT-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11BT/GNT-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11BT_GNT-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11BT/GNT-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11BT_GNT-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11ST/GNT-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11ST_GNT-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA11ST/GNT-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA11ST_GNT-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12BT/BLK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12BT_BLK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12BT/BLK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12BT_BLK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12BT/BLK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12BT_BLK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12BT/BLK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12BT_BLK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12BT/BLK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12BT_BLK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12BT/BLK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12BT_BLK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12ST/BLK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12ST_BLK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA12ST/BLK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA12ST_BLK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13BT/TKN-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13BT_TKN-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13BT/TKN-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13BT_TKN-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13BT/TKN-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13BT_TKN-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13BT/TKN-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13BT_TKN-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13BT/TKN-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13BT_TKN-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13BT/TKN-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13BT_TKN-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13ST/TKN-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13ST_TKN-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA13ST/TKN-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA13ST_TKN-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14BT/DST-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14BT_DST-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14BT/DST-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14BT_DST-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14BT/DST-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14BT_DST-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14BT/DST-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14BT_DST-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14BT/DST-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14BT_DST-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14BT/DST-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14BT_DST-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14ST/DST-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14ST_DST-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA14ST/DST-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA14ST_DST-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15BT/SAO-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15BT_SAO-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15ST/SAO-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15ST_SAO-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA15ST/SAO-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA15ST_SAO-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16BT_SYN-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16BT_SYN-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16BT_SYN-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16BT_SYN-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16BT_SYN-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16BT/SYN-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16BT_SYN-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16ST/SYN-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16ST_SYN-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA16ST/SYN-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA16ST_SYN-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17BT_TRK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17BT_TRK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17BT_TRK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17BT_TRK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17BT_TRK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17BT/TRK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17BT_TRK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17ST/TRK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17ST_TRK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA17ST/TRK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA17ST_TRK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18BT_NIK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18BT_NIK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18BT_NIK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18BT_NIK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18BT_NIK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18BT/NIK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18BT_NIK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA18ST/NIK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA18ST_NIK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19BT/HIQ-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19BT_HIQ-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19BT/HIQ-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19BT_HIQ-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19BT/HIQ-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19BT_HIQ-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19BT/HIQ-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19BT_HIQ-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19BT/HIQ-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19BT_HIQ-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19BT/HIQ-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19BT_HIQ-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA19ST/HIQ-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA19ST_HIQ-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20BT/BCV-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20BT_BCV-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA20ST/BCV-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA20ST_BCV-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21BT/YYH-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21BT_YYH-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA21ST/YYH-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA21ST_YYH-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA22BT/GMR-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA22BT_GMR-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23BT_AOT-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23BT_AOT-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23BT_AOT-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23BT_AOT-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23BT_AOT-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23BT/AOT-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23BT_AOT-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA23ST/AOT-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA23ST_AOT-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA24BT/SHY-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA24BT_SHY-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA25BT/AND-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA25BT_AND-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA26BT/RLY-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA26BT_RLY-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP13",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP13.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP14",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP14.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP15",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP15.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP16",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP16.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP17",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP17.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP18",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP18.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA27BT/GIM-1-AP19",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA27BT_GIM-1-AP19.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA28BT/KJ8-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA28BT_KJ8-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29BT_KMR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29BT_KMR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29BT_KMR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29BT_KMR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29BT_KMR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29BT/KMR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29BT_KMR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA29ST/KMR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA29ST_KMR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30BT_ARK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30BT_ARK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30BT_ARK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30BT_ARK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30BT_ARK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30BT/ARK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30BT_ARK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA30ST/ARK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA30ST_ARK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31BT_MMM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31BT_MMM-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31BT_MMM-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31BT_MMM-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31BT_MMM-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31BT/MMM-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31BT_MMM-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA31ST/MMM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA31ST_MMM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA32BT/SNF-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA32BT_SNF-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA33BT/NGR-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA33BT_NGR-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA34BT/CGD-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA34BT_CGD-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35BT/OPM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35BT_OPM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35BT/OPM-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35BT_OPM-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35BT/OPM-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35BT_OPM-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35BT/OPM-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35BT_OPM-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35BT/OPM-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35BT_OPM-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35BT/OPM-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35BT_OPM-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA35ST/OPM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA35ST_OPM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36BT/MCR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36BT_MCR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36BT/MCR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36BT_MCR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36BT/MCR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36BT_MCR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36BT/MCR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36BT_MCR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36BT/MCR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36BT_MCR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36BT/MCR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36BT_MCR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA36ST/MCR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA36ST_MCR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37BT/FMA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37BT_FMA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37BT/FMA-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37BT_FMA-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37BT/FMA-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37BT_FMA-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37BT/FMA-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37BT_FMA-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37BT/FMA-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37BT_FMA-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37BT/FMA-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37BT_FMA-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA37ST/FMA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA37ST_FMA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA38BT/WBK-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA38BT_WBK-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA39BT/KIN-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA39BT_KIN-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40BT/REZ-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40BT_REZ-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40BT/REZ-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40BT_REZ-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40BT/REZ-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40BT_REZ-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40BT/REZ-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40BT_REZ-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40BT/REZ-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40BT_REZ-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40BT/REZ-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40BT_REZ-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA40ST/REZ-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA40ST_REZ-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41BT/RNK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41BT_RNK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41BT/RNK-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41BT_RNK-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41BT/RNK-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41BT_RNK-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41BT/RNK-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41BT_RNK-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41BT/RNK-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41BT_RNK-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41BT/RNK-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41BT_RNK-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA41ST/RNK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA41ST_RNK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42BT/MGS-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42BT_MGS-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA42ST/MGS-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA42ST_MGS-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA43BT/SMD-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA43BT_SMD-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44BT/EVA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44BT_EVA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44BT/EVA-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44BT_EVA-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44BT/EVA-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44BT_EVA-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44BT/EVA-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44BT_EVA-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44BT/EVA-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44BT_EVA-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44BT/EVA-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44BT_EVA-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA44ST/EVA-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA44ST_EVA-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP13",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP13.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA45BT/TLR-1-AP14",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA45BT_TLR-1-AP14.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA46BT/KGR-1-AP13",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA46BT_KGR-1-AP13.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47BT/TKG-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47BT_TKG-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47BT/TKG-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47BT_TKG-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47BT/TKG-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47BT_TKG-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47BT/TKG-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47BT_TKG-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47BT/TKG-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47BT_TKG-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47BT/TKG-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47BT_TKG-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA47ST/TKG-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA47ST_TKG-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48BT/KGD-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48BT_KGD-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48BT/KGD-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48BT_KGD-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48BT/KGD-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48BT_KGD-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48BT/KGD-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48BT_KGD-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48BT/KGD-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48BT_KGD-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48BT/KGD-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48BT_KGD-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA48ST/KGD-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA48ST_KGD-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA49BT/MSS-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA49BT_MSS-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA50BT/IYS-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA50BT_IYS-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA51BT/SLG-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA51BT_SLG-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP13",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP13.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA52BT/KJN-1-AP14",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA52BT_KJN-1-AP14.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA53BT/CSM-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA53BT_CSM-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP11",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP11.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UA54BT/MST-1-AP12",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-AP12.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/ARK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_ARK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/ARK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_ARK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/BLC-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_BLC-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/BLK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_BLK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/CGH-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_CGH-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/CGH-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_CGH-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/CGH-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_CGH-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/CGH-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_CGH-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/EVA-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_EVA-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/GIM-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_GIM-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/GIM-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_GIM-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/GNT-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_GNT-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/HIQ-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_HIQ-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/HTR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_HTR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/HTR-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_HTR-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/HTR-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_HTR-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/HTR-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_HTR-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/IMS-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_IMS-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/JJK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_JJK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/JJK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_JJK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/JJK-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_JJK-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/JJK-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_JJK-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/KGR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_KGR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/KMR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_KMR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/MMM-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_MMM-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/NIK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_NIK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/REZ-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_REZ-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/SAO-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_SAO-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/SLG-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_SLG-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/TLR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_TLR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/TLR-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_TLR-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/TSK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_TSK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPB/YYH-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPB_YYH-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2023-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2023-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2023-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2023-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2023-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2023-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2023-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2023-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2023-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2023-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2023-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2023-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2024-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2024-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2024-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2024-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2024-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2024-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2024-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2024-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP07",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP07.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP08",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP08.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2025-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2025-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2026-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2026-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2026-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2026-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2026-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2026-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/2026-AP06",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_2026-AP06.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BLC-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BLC-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BLC-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BLC-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BLC-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BLC-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BLC-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BLC-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BLK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BLK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BLK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BLK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BTR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BTR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BTR-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BTR-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/BTR-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_BTR-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGD-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGD-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGD-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGD-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGH-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGH-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGH-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGH-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGH-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGH-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGH-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGH-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/CGH-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_CGH-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/DST-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_DST-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/DST-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_DST-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/GIM-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_GIM-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/GIM-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_GIM-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/GNT-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_GNT-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/GNT-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_GNT-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/GNT-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_GNT-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/GNT-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_GNT-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/HIQ-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_HIQ-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/HIQ-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_HIQ-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/HTR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_HTR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/HTR-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_HTR-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/IMS-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_IMS-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/IMS-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_IMS-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/IMS-AP09",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_IMS-AP09.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/IMS-AP10",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_IMS-AP10.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/JJK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_JJK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/JJK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_JJK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/JJK-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_JJK-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/JJK-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_JJK-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/JJK-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_JJK-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/KGD-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_KGD-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/KGR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_KGR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/KGR-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_KGR-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/KMY-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_KMY-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/KMY-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_KMY-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/MCR-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_MCR-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/MCR-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_MCR-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/MCR-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_MCR-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/MHA-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_MHA-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/MMM-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_MMM-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/MSS-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_MSS-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/NIK-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_NIK-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/NIK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_NIK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/NIK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_NIK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/NIK-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_NIK-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/NIK-AP05",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_NIK-AP05.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/OPM-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_OPM-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/REZ-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_REZ-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/RLY-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_RLY-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/RLY-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_RLY-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/RLY-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_RLY-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/RNK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_RNK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SAO-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SAO-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SAO-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SAO-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SHY-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SHY-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SHY-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SHY-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SHY-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SHY-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SHY-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SHY-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SMD-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SMD-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SMD-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SMD-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SYN-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SYN-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SYN-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SYN-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SYN-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SYN-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/SYN-AP04",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_SYN-AP04.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TKN-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TKN-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TLR-1-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TLR-1-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TOA-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TOA-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TOA-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TOA-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TSK-AP01",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TSK-AP01.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TSK-AP02",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TSK-AP02.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    },
+    {
+      "number": "UAPR/TSK-AP03",
+      "generatedEnergy": "-",
+      "sourcePath": "data\\stage2\\generated-energy-html\\UAPR_TSK-AP03.html",
+      "warning": "找不到 generatedEnergyData 区块。"
+    }
+  ],
+  "fetchResult": {
+    "attempted": 0,
+    "fetched": 0,
+    "failed": []
+  },
+  "backupDirectory": "data\\stage2\\backups\\generated-energy-2026-07-19T07-56-39-753Z",
+  "changes": [
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-006",
+      "before": "蓝色×2",
+      "after": "蓝色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-006.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-010",
+      "before": "蓝色×2",
+      "after": "蓝色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-010.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-019",
+      "before": "蓝色×2",
+      "after": "蓝色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-019.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-026",
+      "before": "蓝色×2",
+      "after": "蓝色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-026.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-026",
+      "before": "蓝色×2",
+      "after": "蓝色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-026.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-030",
+      "before": "蓝色×2",
+      "after": "蓝色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-030.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-044",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-044.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-046",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-046.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-051",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-051.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-060",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-060.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-060",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-060.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-060",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-060.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-062",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-062.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-062",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-062.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-064",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-064.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-066",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-066.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-068",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-068.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-068",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-068.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-073",
+      "before": "绿色×3",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-073.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-073",
+      "before": "绿色×3",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-073.html",
+      "bonusEvidence": []
+    },
+    {
+      "file": "mushoku-tensei.ts",
+      "number": "UA54BT/MST-1-076",
+      "before": "绿色×2",
+      "after": "绿色×1",
+      "source": "data\\stage2\\generated-energy-html\\UA54BT_MST-1-076.html",
+      "bonusEvidence": []
+    }
+  ]
+}
